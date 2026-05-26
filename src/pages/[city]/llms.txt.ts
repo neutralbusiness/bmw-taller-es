@@ -60,9 +60,9 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(`> ${city.metaDescription}`);
   lines.push("");
   lines.push(
-    `Taller mecánico multimarca de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Presupuesto cerrado antes de tocar nada. Trabajamos con todas las marcas. ` +
-    `Servicios: revisión y mantenimiento, mecánica general (distribución, embrague, suspensión), averías y diagnóstico electrónico, neumáticos y alineación, electrónica, y pre-ITV.`,
+    `Taller especializado en BMW de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
+    `Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario. Recambios OE y presupuesto cerrado antes de tocar nada — hasta un 50 % de ahorro frente al servicio oficial. ` +
+    `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnóstico ISTA, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );
   lines.push("");
 
@@ -71,7 +71,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(`- Nombre comercial: ${NETWORK.brand} · ${city.name}`);
   lines.push(`- Red nacional: ${NETWORK.brand} (${NETWORK.domain})`);
-  lines.push(`- Sector: Taller mecánico multimarca`);
+  lines.push(`- Sector: Taller especializado en BMW`);
   lines.push(`- Web oficial de esta ciudad: ${canonical}/`);
   lines.push(`- Web de la red completa: https://www.${NETWORK.domain}/`);
   lines.push("");
@@ -134,7 +134,7 @@ export const GET: APIRoute = ({ props }) => {
 
   // ───── Problemas comunes locales ─────
   if (city.commonIssues && city.commonIssues.length > 0) {
-    lines.push(`## Problemas comunes de coches en ${city.name}`);
+    lines.push(`## Averías BMW frecuentes en ${city.name}`);
     lines.push("");
     if (city.commonIssuesIntro) {
       lines.push(city.commonIssuesIntro);
@@ -187,8 +187,10 @@ export const GET: APIRoute = ({ props }) => {
     "- El cliente autoriza explícitamente cada intervención. Si durante una reparación aparece una avería no detectada en el diagnóstico, el taller para y consulta antes de continuar.",
   );
   lines.push(
-    "- Recambios de calidad equivalente al original; el cliente puede solicitar recambio OEM si lo prefiere.",
+    "- Recambios OE (calidad original) o equivalente premium; el cliente puede solicitar recambio BMW original si lo prefiere.",
   );
+  lines.push("- Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario.");
+  lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS para mantener la garantía.");
   lines.push("- Factura desglosada en la entrega.");
   lines.push("- Seguimiento post-entrega para confirmar que la reparación es satisfactoria.");
   lines.push("");
@@ -214,7 +216,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("---");
   lines.push("");
   lines.push(`Última actualización del contenido: generado dinámicamente desde ${canonical}/llms.txt`);
-  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red nacional con un taller por ciudad española.`);
+  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red nacional de talleres especializados en BMW con presencia en las principales ciudades españolas.`);
 
   const body = lines.join("\n");
 
