@@ -179,5 +179,14 @@
     }
   ],
   "closingHeadline": "Tu BMW a punto para trabajar en Madrid",
-  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Analizaremos tu caso para darte una solución clara y que puedas volver a la carretera cuanto antes en Madrid."
+  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Analizaremos tu caso para darte una solución clara y que puedas volver a la carretera cuanto antes en Madrid.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller · Madrid",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
