@@ -36,7 +36,7 @@ export async function onRequest(context) {
 
   // Subdominio de ciudad: <slug>.bmw-taller.es
   if (hostname.endsWith(".bmw-taller.es")) {
-    const subdomain = hostname.replace(/\.redtalleres\.es$/, "");
+    const subdomain = hostname.replace(/\.bmw-taller\.es$/, "");
     if (subdomain && !subdomain.includes(".") && subdomain !== "www") {
       // Assets puros (.css/.webp/.js/.svg/etc) → servir tal cual.
       // NO incluimos .txt/.xml aquí porque /llms.txt, /robots.txt, /sitemap.xml
