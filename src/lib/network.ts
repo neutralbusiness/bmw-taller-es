@@ -10,9 +10,9 @@ export const NETWORK = {
   brand: "BMW Taller",
   sector: "taller-bmw",
   tagline: "Especialistas BMW en toda España — hasta un 50 % menos que el oficial",
-  phone: "+34641161771‬",
-  phoneDisplay: "641161771‬",
-  whatsapp: "34641161771‬",
+  phone: "+34641161771",
+  phoneDisplay: "641 161 771",
+  whatsapp: "34641161771",
   email: "info@bmw-taller.es",
   heroImage: "/img/hero.webp",
 } as const;
