@@ -182,5 +182,14 @@
     }
   ],
   "closingHeadline": "El diagnóstico que tu BMW necesita en Sant Cugat",
-  "closingCta": "Pide tu cita para una revisión completa o solicita un presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre el estado real de tu BMW en Sant Cugat."
+  "closingCta": "Pide tu cita para una revisión completa o solicita un presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre el estado real de tu BMW en Sant Cugat.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

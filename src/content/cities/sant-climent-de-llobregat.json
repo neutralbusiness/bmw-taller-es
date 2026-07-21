@@ -180,5 +180,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Sant Climent de Llobregat",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp para reservar tu cita en nuestro taller de Sant Climent. Tu BMW te lo agradecerá."
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp para reservar tu cita en nuestro taller de Sant Climent. Tu BMW te lo agradecerá.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

@@ -181,5 +181,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Torrelles de Llobregat",
-  "closingCta": "Pide tu presupuesto cerrado y descubre por qué no necesitas ir al concesionario. Llámanos o envíanos un WhatsApp para concertar tu cita en Torrelles."
+  "closingCta": "Pide tu presupuesto cerrado y descubre por qué no necesitas ir al concesionario. Llámanos o envíanos un WhatsApp para concertar tu cita en Torrelles.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

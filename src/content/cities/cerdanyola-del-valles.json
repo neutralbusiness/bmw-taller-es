@@ -185,5 +185,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Cerdanyola del Vallès",
-  "closingCta": "Tu BMW es una máquina compleja que merece un cuidado experto. Pide tu presupuesto cerrado en nuestro taller de Cerdanyola. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario online."
+  "closingCta": "Tu BMW es una máquina compleja que merece un cuidado experto. Pide tu presupuesto cerrado en nuestro taller de Cerdanyola. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario online.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

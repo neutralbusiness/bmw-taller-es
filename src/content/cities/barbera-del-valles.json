@@ -182,5 +182,14 @@
     }
   ],
   "closingHeadline": "Tu BMW te ha dado mucho. Devuélveselo.",
-  "closingCta": "Pide tu cita en nuestro taller de Barberà del Vallès. Llámanos o envíanos un WhatsApp y te daremos un presupuesto cerrado para que tu BMW siga siendo el de siempre."
+  "closingCta": "Pide tu cita en nuestro taller de Barberà del Vallès. Llámanos o envíanos un WhatsApp y te daremos un presupuesto cerrado para que tu BMW siga siendo el de siempre.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

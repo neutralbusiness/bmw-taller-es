@@ -191,5 +191,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Santa Coloma de Gramenet",
-  "closingCta": "Pide tu presupuesto cerrado y descubre por qué no tienes que volver al concesionario. Llámanos o escríbenos un WhatsApp y te atenderemos encantados."
+  "closingCta": "Pide tu presupuesto cerrado y descubre por qué no tienes que volver al concesionario. Llámanos o escríbenos un WhatsApp y te atenderemos encantados.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

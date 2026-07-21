@@ -186,5 +186,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, a punto en Ajalvir",
-  "closingCta": "Pide tu cita para un diagnóstico o revisión. Llámanos o escríbenos por WhatsApp y te daremos presupuesto sin compromiso para tu BMW en Ajalvir."
+  "closingCta": "Pide tu cita para un diagnóstico o revisión. Llámanos o escríbenos por WhatsApp y te daremos presupuesto sin compromiso para tu BMW en Ajalvir.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

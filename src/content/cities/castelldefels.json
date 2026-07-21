@@ -186,5 +186,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW de confianza en Castelldefels",
-  "closingCta": "Da el primer paso para conocer el estado real de tu BMW. Pide tu cita para un diagnóstico completo en nuestro taller de Castelldefels por teléfono, WhatsApp o email y conduce con total tranquilidad."
+  "closingCta": "Da el primer paso para conocer el estado real de tu BMW. Pide tu cita para un diagnóstico completo en nuestro taller de Castelldefels por teléfono, WhatsApp o email y conduce con total tranquilidad.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34622552992",
+    "phoneDisplay": "622 552 992",
+    "whatsapp": "34622552992",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
