@@ -1,0 +1,125 @@
+{
+  "slug": "reus",
+  "name": "Reus",
+  "province": "Tarragona",
+  "ccaa": "Cataluña",
+  "population": 103477,
+  "lat": 41.15612,
+  "lng": 1.10687,
+  "metaTitle": "Taller BMW en Reus | Especialistas en diagnóstico ISTA",
+  "metaDescription": "Taller especialista BMW en Reus. Diagnóstico ISTA, mecánica adaptada al clima mediterráneo del Camp de Tarragona. Ahorra hasta un 50% frente al oficial.",
+  "heroSubtitle": "¿Tu BMW hace el trayecto diario entre Reus y la costa? Diagnóstico oficial ISTA con precio de taller independiente.",
+  "trustChips": [
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico ISTA oficial"
+    },
+    {
+      "icon": "💰",
+      "text": "Hasta 50 % menos que el oficial"
+    },
+    {
+      "icon": "✅",
+      "text": "Garantía sin perder la de BMW"
+    }
+  ],
+  "introLocal": "Reus vive a caballo entre dos mundos: una ciudad de tamaño medio con vida propia, ligada históricamente al comercio y la industria del Camp de Tarragona, y al mismo tiempo un punto de paso constante hacia Salou y Cambrils, dos de los destinos turísticos más visitados de Cataluña. Esto se nota en el parque de BMW de la ciudad: conviven vehículos de uso diario puramente urbano —Serie 1 y Serie 3 diésel, sobre todo— con otros que hacen trayectos frecuentes hacia la costa por la C-14 o la T-11, y algún que otro X1 o X3 que se mueve entre el aeropuerto de Reus y los polígonos industriales de la zona.\n\nEl clima mediterráneo del Camp de Tarragona, con veranos largos y calurosos e inviernos suaves, es en general benévolo con la mecánica, pero tiene su propio reto: la humedad del verano, combinada con el calor, exige que el aire acondicionado trabaje de forma casi constante durante varios meses seguidos, algo que en los BMW más antiguos de la zona se traduce en compresores exigidos al límite y alguna que otra fuga de gas que aparece justo quiere en pleno agosto. Además, la proximidad relativa al mar —Reus está a apenas diez minutos de Salou— hace que, aunque menos que en una ciudad estrictamente costera, cierta humedad salina también afecte a los vehículos que hacen ese trayecto con frecuencia.\n\nReus es también tierra de Gaudí, con un patrimonio modernista que atrae tráfico turístico al centro histórico, y eso significa calles con restricciones de acceso y aparcamiento limitado en determinadas zonas, algo que muchos propietarios de BMW en la ciudad conocen bien cuando intentan aparcar cerca del Mercadal o la plaza Prim. Fuera del centro, la ciudad se abre y las carreteras comarcales hacia Tarragona por la N-420 o hacia Valls permiten un uso más fluido del motor, especialmente en los diésel de la zona, donde vigilamos con frecuencia la válvula EGR y el estado del filtro de partículas por el contraste entre tráfico urbano denso y tramos de carretera más rápidos.\n\nCon diagnóstico ISTA, el mismo software del servicio oficial, revisamos tu BMW teniendo en cuenta este uso mixto tan propio de Reus: ciudad, costa y carretera comarcal en un mismo día. Presupuesto cerrado, recambios de calidad y el ahorro real de un taller especialista frente al concesionario más cercano en Tarragona.",
+  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Reus, desde la revisión CBS hasta la puesta a punto antes de la temporada de calor en la Costa Daurada.",
+  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "processSteps": [
+    {
+      "title": "Diagnóstico ISTA",
+      "body": "Conectamos tu BMW a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+    },
+    {
+      "title": "Tu autorización",
+      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+    },
+    {
+      "title": "Reparación especializada",
+      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+    }
+  ],
+  "commonIssuesIntro": "El uso mixto entre ciudad, costa y carretera comarcal tan propio de Reus genera averías características. Estas son las que más vemos.",
+  "commonIssues": [
+    {
+      "title": "Aire acondicionado exigido al límite en verano",
+      "body": "El uso casi constante durante los meses de más calor desgasta antes el compresor y puede provocar fugas de gas. Revisamos el circuito completo antes de que llegue el verano fuerte."
+    },
+    {
+      "title": "DPF afectado por el contraste ciudad-carretera",
+      "body": "El paso frecuente entre tráfico urbano denso y tramos de carretera hacia Tarragona o Valls exige un buen funcionamiento del sistema de regeneración. Diagnosticamos con ISTA cualquier aviso relacionado."
+    },
+    {
+      "title": "Corrosión leve por la proximidad a la costa",
+      "body": "Aunque Reus no es una ciudad costera, los trayectos frecuentes hacia Salou o Cambrils exponen el vehículo a cierta humedad salina. Lo tenemos en cuenta en las revisiones de bajos y frenos."
+    },
+    {
+      "title": "Golpes en llantas por el aparcamiento en el centro histórico",
+      "body": "Las restricciones y el espacio limitado cerca del Mercadal y la plaza Prim son duros con las llantas. Ofrecemos reparación estética y comprobación de la geometría."
+    },
+    {
+      "title": "Válvula EGR sucia por uso urbano intensivo",
+      "body": "El tráfico denso del centro favorece la acumulación de carbonilla en la EGR de los motores diésel. La revisamos como parte del mantenimiento habitual."
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Entendemos el uso mixto tan propio de Reus",
+      "body": "Adaptamos el mantenimiento a coches que combinan ciudad, trayectos a la costa y carreteras comarcales en el mismo día."
+    },
+    {
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "El mismo software que usa el concesionario, con acceso a los servidores centrales de BMW."
+    },
+    {
+      "title": "Revisión de aire acondicionado antes del verano",
+      "body": "Sabemos lo que exige la temporada turística de la Costa Daurada al climatizador de tu BMW, y lo revisamos con antelación."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "El precio que acordamos es el que pagas, sin sorpresas de última hora."
+    },
+    {
+      "title": "Ahorro real frente al oficial de Tarragona",
+      "body": "Mismo nivel de diagnóstico que el concesionario más cercano, sin su desplazamiento ni sus precios."
+    }
+  ],
+  "zoneText": "Atendemos BMW en Reus y en los municipios cercanos del Camp de Tarragona, incluidos Salou y Cambrils, con acceso por la C-14 y la T-11.",
+  "faqLocal": [
+    {
+      "q": "Hago el trayecto Reus-Salou casi a diario, ¿necesita mi BMW algo especial?",
+      "a": "Ese uso mixto entre ciudad y trayectos cortos a la costa expone el coche a cierta humedad salina y desgasta el aire acondicionado más que en un uso puramente urbano. Lo tenemos en cuenta al planificar tu mantenimiento."
+    },
+    {
+      "q": "¿Por qué mi aire acondicionado pierde fuerza cada verano?",
+      "a": "Es habitual que aparezcan pequeñas fugas de gas por el uso casi constante durante los meses de más calor en la zona. Revisamos el circuito completo y localizamos la fuga antes de recargar el sistema."
+    },
+    {
+      "q": "¿Perderé la garantía si no voy al oficial de Tarragona?",
+      "a": "No, la normativa europea protege tu derecho a mantener la garantía de fábrica en un taller independiente, siempre que usemos recambios adecuados y sigamos los procedimientos del fabricante."
+    },
+    {
+      "q": "¿Aparcar en el centro histórico de Reus puede dañar mi coche?",
+      "a": "El espacio reducido cerca de zonas como el Mercadal es habitual que provoque golpes en llantas y algún roce de bordillo. Ofrecemos reparación estética de llantas y comprobamos que no haya afectado a la geometría de la rueda."
+    }
+  ],
+  "closingHeadline": "Tu BMW en Reus, listo para ciudad y costa",
+  "closingCta": "Si tienes un BMW en Reus y quieres un diagnóstico honesto, contacta con nosotros. Presupuesto cerrado, sin desplazarte a Tarragona."
+}
