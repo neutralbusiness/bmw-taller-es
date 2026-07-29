@@ -6,9 +6,9 @@
   "population": 338,
   "lat": 40.37112,
   "lng": -3.20757,
-  "metaTitle": "Taller BMW en Olmeda de las Fuentes | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Olmeda de las Fuentes. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Olmeda de las Fuentes y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Olmeda de las Fuentes | Sierra Este Madrid",
+  "metaDescription": "Diagnóstico y reparación BMW para Olmeda de las Fuentes y la Sierra Este de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito.",
+  "heroSubtitle": "Atención especializada en BMW para los vecinos de Olmeda de las Fuentes, uno de los pueblos más pequeños de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Olmeda de las Fuentes: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Olmeda de las Fuentes te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Olmeda de las Fuentes, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Olmeda de las Fuentes es el municipio más pequeño de toda la Comunidad de Madrid, con apenas 150 vecinos y un conjunto histórico-artístico que lo hace único. Un pueblo de este tamaño, lógicamente, no tiene ni de lejos un taller especializado en BMW, así que atendemos a sus habitantes desde nuestras instalaciones más cercanas, con recogida disponible para no obligar a nadie a hacer el trayecto si no puede.",
+    "Los pocos BMW que recibimos de Olmeda suelen ser coches de uso diario para bajar a trabajar a Nuevo Baztán, Arganda o Madrid, y les damos el mismo trato y diagnóstico riguroso que a cualquier cliente de zonas con más población."
+  ],
+  "servicesIntro": "Diagnóstico y reparación BMW con recogida disponible para los vecinos de Olmeda de las Fuentes.",
+  "processIntro": "Cómo organizamos la visita cuando el cliente viene desde un pueblo tan pequeño como Olmeda de las Fuentes.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa sin esperas",
+      "body": "En Olmeda de las Fuentes concertamos cita para que tu BMW entre directamente al puesto de trabajo, sin dejarlo aparcado días esperando turno."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico con escáner de fábrica",
+      "body": "Usamos equipos de diagnóstico específicos BMW, capaces de leer y programar los mismos módulos que en el concesionario, incluida la unidad DME/DDE."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto por escrito antes de empezar",
+      "body": "No se toca un tornillo sin que sepas el precio final. Si aparece algo adicional durante el desmontaje, te llamamos antes de continuar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación y sustitución de piezas",
+      "body": "Montamos recambio de calidad contrastada, con las tolerancias y procedimientos que marca BMW para cada sistema, desde la cadena de distribución hasta la caja ZF 8HP."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Verificación final y entrega",
+      "body": "Comprobamos el trabajo con prueba dinámica, revisamos niveles y testigos, y te entregamos el vehículo con factura detallada y garantía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Olmeda de las Fuentes.",
+  "commonIssuesIntro": "Averías que solemos ver en los pocos pero fieles BMW de la zona de Olmeda de las Fuentes.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El sistema Vanos (distribución variable) y Valvetronic (válvulas variables) son marca de la casa BMW, pero también un foco habitual de averías: ruido metálico en frío, pérdida de potencia o testigo de motor encendido. Un desgaste del sensor Vanos o de la unidad Valvetronic se puede confundir con una avería mayor si no se diagnostica bien."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo y sobrealimentación",
+      "body": "En los motores turbo (gasolina N20/N54/B48 o diésel N47/B47) la pérdida de presión, el silbido agudo o el humo azulado suelen apuntar a fugas en el circuito de admisión, actuador electrónico defectuoso o desgaste de los cojinetes del turbo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Los motores N47 y N20, entre otros, son conocidos por el estiramiento prematuro de la cadena de distribución. Un tintineo metálico al arrancar en frío es la primera señal, y conviene revisarlo antes de que salte una avería mayor de válvulas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP",
+      "body": "La caja ZF de 8 velocidades es fiable si se mantiene, pero un cambio de aceite y filtro tardío provoca tirones al cambiar de marcha, entradas bruscas o el modo de emergencia que bloquea el coche en una sola marcha."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Los BMW llevan decenas de sensores (temperatura, presión de aceite, cigüeñal) que con el tiempo dan lecturas erráticas, y una bomba de agua eléctrica o un termostato electrónico que fallan sin avisar hasta que el motor se calienta de más."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Un solo fabricante, cero dispersión",
+      "body": "Al no repartir el conocimiento entre veinte marcas, dominamos las particularidades de BMW: Valvetronic, Vanos, cajas ZF, refrigeración con electroválvulas."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico antes que sustitución",
+      "body": "No cambiamos piezas a lo loco esperando acertar. Diagnosticamos primero y sustituimos solo lo que realmente falla."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto transparente",
+      "body": "Detallamos cada partida del presupuesto para que entiendas en qué se va tu dinero."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía real",
+      "body": "Si algo falla por la reparación realizada dentro del plazo de garantía, lo solucionamos sin coste adicional."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Referencia en Olmeda de las Fuentes y su zona",
+      "body": "Con los años nos hemos convertido en el taller de referencia para propietarios de BMW en Olmeda de las Fuentes y los municipios cercanos."
     }
   ],
-  "zoneText": "Atendemos BMW en Olmeda de las Fuentes y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Olmeda de las Fuentes y a los pequeños municipios de la Sierra Este de Madrid, una zona con muy poca oferta de talleres especializados en marcas premium.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Olmeda de las Fuentes?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Merece la pena traer el coche desde un pueblo tan pequeño?",
+      "a": "Sí, precisamente porque en Olmeda de las Fuentes no hay taller especializado en BMW, ofrecemos recogida para que la distancia no sea un problema."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cobráis más por la recogida en pueblos pequeños?",
+      "a": "Depende de la distancia exacta, pero intentamos que no suponga un coste desproporcionado."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Tenéis experiencia con coches de zonas rurales poco transitadas?",
+      "a": "Sí, es habitual en la Sierra Este de Madrid y sabemos qué desgaste esperar en ese tipo de uso."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto por teléfono antes de mover el coche?",
+      "a": "Damos una orientación inicial, aunque el presupuesto cerrado siempre llega tras el diagnóstico en taller."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto puede tardar la recogida desde Olmeda de las Fuentes?",
+      "a": "Solemos coordinarlo el mismo día o el siguiente, según agenda."
+    },
+    {
+      "q": "¿Trabajáis con BMW antiguos con pocos kilómetros al año?",
+      "a": "Sí, es un perfil habitual en pueblos pequeños: coches que no acumulan muchos km pero sí sufren por el tiempo parado."
     }
   ],
-  "closingHeadline": "Tu BMW en Olmeda de las Fuentes, en buenas manos",
-  "closingCta": "Si tienes un BMW en Olmeda de las Fuentes y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Ningún pueblo es demasiado pequeño para un buen diagnóstico",
+  "closingCta": "Escríbenos desde Olmeda de las Fuentes y coordinamos la recogida de tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,29 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Testimonio de un vecino de Olmeda de las Fuentes.",
+  "testimonials": [
+    {
+      "name": "Cirilo Marchena",
+      "neighborhood": "Olmeda de las Fuentes",
+      "body": "Vivo en uno de los pueblos más pequeños de Madrid y pensaba que nadie me iba a dar el mismo trato que a un cliente de ciudad. Me equivoqué: recogieron el coche y me lo devolvieron con un diagnóstico impecable del turbo.",
+      "rating": 5
+    },
+    {
+      "name": "Fermina Alcocer",
+      "neighborhood": "Villar del Olmo (cerca de Olmeda)",
+      "body": "Muy buena atención, sin prisas, aunque el pueblo sea pequeño y esté algo apartado.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Olmeda de las Fuentes",
+    "Villar del Olmo",
+    "Orusco de Tajuña"
+  ],
+  "zoneAccessRoutes": [
+    "M-222",
+    "A-3 (acceso más cercano)"
+  ]
 }

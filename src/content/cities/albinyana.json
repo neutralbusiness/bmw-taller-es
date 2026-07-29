@@ -6,9 +6,9 @@
   "population": 2718,
   "lat": 41.24188,
   "lng": 1.49536,
-  "metaTitle": "Taller BMW en Albinyana | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Albinyana. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Albinyana y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Albinyanà | Baix Penedès",
+  "metaDescription": "Taller especializado en BMW cerca de Albinyanà, junto a El Vendrell. Diagnóstico ISTA, presupuesto cerrado y recogida disponible en el Baix Penedès.",
+  "heroSubtitle": "Atención especializada BMW para Albinyanà y el Baix Penedès, cerca de la C-51.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Albinyana — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Albinyana te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Albinyana, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Albinyanà es un municipio pequeño del Baix Penedès, de poco más de 2.200 habitantes, situado entre El Vendrell y el interior de la comarca, con la C-51 como principal vía de conexión. El propietario de BMW habitual aquí combina una vivienda unifamiliar o de urbanización con desplazamientos frecuentes a El Vendrell, Tarragona o incluso Barcelona por trabajo, así que el coche acumula tanto uso urbano corto como tramos largos de autovía.\n\nTambién es una zona con presencia de segundas residencias vinculadas a la costa del Baix Penedès, lo que significa coches que pasan temporadas paradas entre semanas de uso intenso en verano. Ese patrón de uso -parón y luego actividad concentrada- es el que más vigilamos: batería, neumáticos con deformación por reposo prolongado y frenos con óxido superficial.\n\nNo contamos con instalación física en el propio Albinyanà, pero ofrecemos recogida del vehículo en el municipio o en El Vendrell, con entrega de vuelta una vez terminado el trabajo, para que no tengas que desplazarte hasta Tarragona o Barcelona para un mantenimiento serio.",
+  "servicesIntro": "Diagnóstico, mantenimiento y reparación BMW con recogida disponible en Albinyanà y El Vendrell.",
+  "processIntro": "Un proceso pensado para el Baix Penedès, con logística de recogida incluida cuando hace falta.",
   "processSteps": [
     {
+      "title": "Recogida coordinada",
+      "body": "Acordamos el punto de recogida en Albinyanà o El Vendrell según tu disponibilidad."
+    },
+    {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos el software oficial de BMW para revisar todos los módulos del coche."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
-    },
-    {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "body": "Confirmamos el precio final antes de empezar cualquier trabajo."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Técnicos formados en BMW ejecutan la reparación con las herramientas adecuadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega de vuelta a la zona",
+      "body": "Devolvemos el coche en el punto acordado, listo para rodar."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Albinyana.",
+  "commonIssuesIntro": "Averías típicas en BMW que combinan uso de segunda residencia con carretera hacia Tarragona o Barcelona.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Batería tras reposo prolongado",
+      "body": "Coches de segunda residencia que pasan semanas parados sufren pérdida de carga y arranques débiles."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Neumáticos deformados",
+      "body": "El reposo largo sin mover el coche puede generar zonas planas en el neumático, notables al arrancar tras semanas parado."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Vanos y Valvetronic",
+      "body": "Ralentí irregular tras periodos de inactividad, típico de coches de uso estacional."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Turbo diésel en tramos largos",
+      "body": "Los trayectos hacia Tarragona o Barcelona por la C-51 y la AP-7 exigen un turbo en buen estado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Frenos con óxido superficial",
+      "body": "Semanas sin rodar generan una fina capa de óxido en los discos que conviene revisar antes de un viaje."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en Albinyanà y El Vendrell",
+      "body": "No hace falta desplazarte, coordinamos el traslado del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialización BMW",
+      "body": "Trabajamos solo con esta marca y conocemos bien sus particularidades."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnóstico ISTA oficial",
+      "body": "El mismo sistema que emplea la red de concesionarios."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Precio confirmado antes de tocar el coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención a coches de uso estacional",
+      "body": "Sabemos qué revisar en un coche que pasa temporadas parado."
     }
   ],
-  "zoneText": "Atendemos BMW en Albinyana y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Albinyanà y a los municipios del Baix Penedès, con recogida coordinada en la zona.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Albinyana?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Tenéis que recoger el coche en Albinyanà?",
+      "a": "Sí, coordinamos recogida en el municipio o en El Vendrell."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atendéis coches de segunda residencia que se usan solo en verano?",
+      "a": "Sí, es un caso muy habitual en la zona."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda el proceso con recogida incluida?",
+      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo pedir presupuesto por WhatsApp antes de mover el coche?",
+      "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Revisáis los neumáticos tras un reposo largo?",
+      "a": "Sí, lo recomendamos siempre antes de retomar la carretera."
+    },
+    {
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes de las principales compañías."
     }
   ],
-  "closingHeadline": "Tu BMW en Albinyana, en buenas manos",
-  "closingCta": "Si tienes un BMW en Albinyana y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Especialistas BMW para el Baix Penedès",
+  "closingCta": "Contáctanos desde Albinyanà y te explicamos cómo coordinar la recogida de tu coche.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de propietarios del Baix Penedès.",
+  "testimonials": [
+    {
+      "name": "Jaume Ferré",
+      "neighborhood": "Albinyanà",
+      "body": "Coche de fin de semana que pasa temporadas parado. Me explicaron muy bien el tema de la batería y los neumáticos.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina Solà",
+      "neighborhood": "El Vendrell",
+      "body": "Recogida sin complicaciones y presupuesto cerrado real para mi X1.",
+      "rating": 5
+    },
+    {
+      "name": "Ramon Batlle",
+      "neighborhood": "Bellvei",
+      "body": "Muy buena atención con mi Serie 3, sin tener que ir hasta Tarragona.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Albinyanà",
+    "El Vendrell",
+    "Bellvei",
+    "Sant Jaume dels Domenys"
+  ],
+  "zoneAccessRoutes": [
+    "C-51",
+    "AP-7",
+    "N-340"
+  ]
 }

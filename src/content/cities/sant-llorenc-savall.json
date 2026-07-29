@@ -6,9 +6,9 @@
   "population": 2417,
   "lat": 41.68574,
   "lng": 2.05485,
-  "metaTitle": "Taller BMW en Sant Llorenç Savall | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Sant Llorenç Savall. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Sant Llorenç Savall y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Sant Llorenç Savall | Vallès Occidental",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Llorenç Savall, junto al Parc de Sant Llorenç del Munt. Diagnosis oficial y mantenimiento.",
+  "heroSubtitle": "Mecánica BMW especializada junto al Parc de Sant Llorenç del Munt",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Sant Llorenç Savall, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sant Llorenç Savall te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Sant Llorenç Savall, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Sant Llorenç Savall es un municipio pequeño del Vallès Occidental, a los pies del Parc Natural de Sant Llorenç del Munt i l'Obac, con carreteras de sierra y bastante desnivel para llegar desde Sabadell o Terrassa. No cuenta con taller BMW propio, así que sus vecinos suelen desplazarse a estas dos ciudades.\n\nOfrecemos recogida del vehículo en Sant Llorenç Savall, con especial atención a frenos y suspensión dado el terreno de sierra que rodea el municipio, y diagnosis siempre con el software oficial de BMW.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica, con atención específica a la conducción de montaña.",
+  "processIntro": "Un proceso simple, con recogida incluida para evitar desplazamientos desde el pueblo.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
+    },
+    {
+      "title": "Recogida en Sant Llorenç Savall",
+      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
+    },
+    {
+      "title": "Diagnosis oficial BMW",
+      "body": "Identificamos la avería con el software de la marca."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el desglose antes de intervenir."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega del vehículo",
+      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Sant Llorenç Savall.",
+  "commonIssuesIntro": "Averías habituales en BMW que circulan por las carreteras de sierra de esta zona.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido en frío característico, frecuente en motores de gasolina con kilometraje medio."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las subidas hacia el parque natural exigen más al sistema de sobrealimentación."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Revisión preventiva recomendada en N47 antes de que aparezcan síntomas mayores."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Las bajadas de montaña con freno motor exigen a la caja; el aceite específico ayuda mucho."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Frenos y suspensión",
+      "body": "El terreno de sierra genera más desgaste que en un uso puramente urbano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en el pueblo",
+      "body": "No hace falta desplazarse para revisar tu BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Experiencia con carreteras de sierra",
+      "body": "Sabemos qué revisar en vehículos que circulan a diario por zonas de montaña."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis oficial de la marca",
+      "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas en la factura final."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo",
+      "body": "Hablas con quien repara el coche, sin intermediarios."
     }
   ],
-  "zoneText": "Atendemos BMW en Sant Llorenç Savall y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Sant Llorenç Savall se encuentra a los pies del Parc Natural de Sant Llorenç del Munt i l'Obac, con carreteras de sierra que condicionan directamente el tipo de desgaste que vemos en los BMW de la zona.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sant Llorenç Savall?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay taller BMW en Sant Llorenç Savall?",
+      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Revisáis los frenos pensando en las cuestas de la zona?",
+      "a": "Sí, es una de nuestras revisiones prioritarias dado el terreno de sierra del municipio."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Usáis diagnosis oficial BMW?",
+      "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿El presupuesto es cerrado?",
+      "a": "Sí, te llamamos antes de intervenir y no hacemos nada sin tu aprobación."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Atendéis también Sabadell y Terrassa?",
+      "a": "Sí, recibimos habitualmente clientes de ambas ciudades y de toda la comarca."
+    },
+    {
+      "q": "¿Cuánto tarda la recogida desde el pueblo?",
+      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW en Sant Llorenç Savall, en buenas manos",
-  "closingCta": "Si tienes un BMW en Sant Llorenç Savall y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW preparado para las carreteras de Sant Llorenç del Munt",
+  "closingCta": "Solicita la recogida de tu vehículo",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,33 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Vecinos de Sant Llorenç Savall que ya confían en nosotros.",
+  "testimonials": [
+    {
+      "name": "Ricard F.",
+      "neighborhood": "Sant Llorenç Savall",
+      "body": "Recogieron el coche en el pueblo y me explicaron bien el desgaste de frenos por las cuestas de la zona.",
+      "rating": 5
+    },
+    {
+      "name": "Anna B.",
+      "neighborhood": "Sant Llorenç Savall",
+      "body": "Presupuesto claro y sin sorpresas. El X1 quedó perfecto.",
+      "rating": 5
+    },
+    {
+      "name": "Eduard M.",
+      "neighborhood": "Sant Llorenç Savall",
+      "body": "El Serie 5 tenía tirones en la caja automática bajando del parque natural. Con el aceite específico se resolvió del todo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Nucli urbà de Sant Llorenç Savall"
+  ],
+  "zoneAccessRoutes": [
+    "BV-1221 hacia Sabadell",
+    "C-59 (enlace cercano) hacia Terrassa/Manresa"
+  ]
 }

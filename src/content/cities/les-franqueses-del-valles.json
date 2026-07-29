@@ -6,9 +6,9 @@
   "population": 20715,
   "lat": 41.62263,
   "lng": 2.29305,
-  "metaTitle": "Taller BMW en les Franqueses del Vallès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en les Franqueses del Vallès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en les Franqueses del Vallès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Les Franqueses del Vallès | BMW Taller",
+  "metaDescription": "Taller BMW en Les Franqueses del Vallès. Diagnóstico oficial, mantenimiento, turbo, caja ZF y Vanos. Presupuesto claro antes de cualquier reparación.",
+  "heroSubtitle": "Mecánica especializada BMW en Les Franqueses del Vallès",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en les Franqueses del Vallès — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en les Franqueses del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en les Franqueses del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Les Franqueses del Vallès combina varios núcleos -Corró d'Amunt, Bellavista, Marata, Llerona- con una población que en buena parte trabaja en Granollers o se desplaza hacia Barcelona por la C-17 o la AP-7. Es una zona con bastante movimiento de vehículos de empresa y también de familias que han optado por un BMW como coche principal, especialmente en modelos X1 y X3.\n\nEl uso mixto -trayectos cortos dentro del municipio combinados con desplazamientos largos hacia Barcelona- es precisamente el tipo de conducción que más desgasta el embrague y acelera el estirado de la cadena de distribución en los diésel más veteranos. Trabajamos con clientes de toda la zona del Vallès Oriental que buscan una alternativa seria al concesionario de Granollers.",
+  "servicesIntro": "Realizamos mantenimiento completo, diagnosis con equipo oficial, reparación de motor, transmisión y sistemas electrónicos.",
+  "processIntro": "Un proceso claro, pensado para que decidas con información real antes de reparar nada.",
   "processSteps": [
     {
+      "title": "Cita previa",
+      "body": "Reservas hora y nos cuentas el síntoma con el máximo detalle posible."
+    },
+    {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Leemos los códigos de fallo de todos los módulos electrónicos del vehículo."
+    },
+    {
+      "title": "Inspección física",
+      "body": "Comprobamos el estado real de piezas de desgaste antes de dar el presupuesto."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te explicamos las opciones y el coste antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega verificada",
+      "body": "Prueba de carretera final para confirmar que el problema queda resuelto."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por les Franqueses del Vallès.",
+  "commonIssuesIntro": "Las averías más frecuentes entre los BMW de Les Franqueses y el Vallès Oriental:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Cadena de distribución",
+      "body": "El uso mixto ciudad-autovía acelera el desgaste en motores N47 y N20."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de fuerza progresiva en diésel con trayectos largos por la C-17."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar que mejoran notablemente con el mantenimiento específico de esta caja."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Vanos",
+      "body": "Ruido metálico en frío en motores de gasolina de la gama Serie 1 y Serie 3."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores",
+      "body": "Fallos intermitentes que encienden testigos sin un síntoma claro al volante."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Alternativa real al concesionario",
+      "body": "Mismo nivel de diagnóstico, con más cercanía y mejor precio."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Conocemos los trayectos de la zona",
+      "body": "Sabemos qué desgasta más un coche que hace C-17 a diario."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto por escrito",
+      "body": "Sin ampliaciones no acordadas de antemano."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Atendemos flotas de empresa",
+      "body": "Gestionamos vehículos de renting y flotas comerciales."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "En mano de obra y pieza, sin letra pequeña."
     }
   ],
-  "zoneText": "Atendemos BMW en les Franqueses del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos todos los núcleos de Les Franqueses del Vallès y municipios cercanos del Vallès Oriental.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en les Franqueses del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis vehículos de renting?",
+      "a": "Sí, gestionamos la documentación con la gestora de flota correspondiente."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Normalmente entre 30 y 60 minutos según la complejidad del síntoma."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Podéis recoger el coche en Corró d'Amunt?",
+      "a": "Sí, ofrecemos recogida en toda la zona de Les Franqueses."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes de siniestro con las principales aseguradoras."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais presupuesto cerrado?",
+      "a": "Siempre, antes de iniciar cualquier reparación."
+    },
+    {
+      "q": "¿Hacéis mantenimiento preventivo?",
+      "a": "Sí, y lo recomendamos especialmente en coches de uso mixto ciudad-autovía."
     }
   ],
-  "closingHeadline": "Tu BMW en les Franqueses del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW en les Franqueses del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW de referencia en el Vallès Oriental",
+  "closingCta": "Pide tu presupuesto y comprueba la diferencia frente al concesionario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,39 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que cuentan los clientes de la zona:",
+  "testimonials": [
+    {
+      "name": "Enric M.",
+      "neighborhood": "Corró d'Amunt",
+      "body": "Uso el X3 para ir a Barcelona cada día. Detectaron la cadena de distribución antes de que diera un problema serio.",
+      "rating": 5
+    },
+    {
+      "name": "Laia F.",
+      "neighborhood": "Bellavista",
+      "body": "Gestioné todo por WhatsApp, desde el diagnóstico hasta la recogida del coche.",
+      "rating": 5
+    },
+    {
+      "name": "Marc R.",
+      "neighborhood": "Llerona",
+      "body": "Precio bastante mejor que en Granollers para la misma reparación de turbo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Corró d'Amunt",
+    "Corró d'Avall",
+    "Bellavista",
+    "Marata",
+    "Llerona",
+    "Congost"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "AP-7",
+    "C-59"
+  ]
 }

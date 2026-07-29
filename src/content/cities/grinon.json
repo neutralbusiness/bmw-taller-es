@@ -6,9 +6,9 @@
   "population": 10173,
   "lat": 40.2216,
   "lng": -3.84203,
-  "metaTitle": "Taller BMW en Griñón | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Griñón. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Griñón y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Griñón | Diagnosis y reparación especializada",
+  "metaDescription": "Servicio especializado BMW para Griñón y la comarca de Ciempozuelos. Diagnosis original, mantenimiento y reparación de motor. Presupuesto claro antes de reparar.",
+  "heroSubtitle": "Atención especializada en BMW para los vecinos de Griñón",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Griñón vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Griñón te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Griñón, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Griñón es un municipio pequeño del sur de Madrid, con un perfil de vecino que combina el uso diario del coche para desplazarse a la capital con trayectos por carreteras comarcales hacia Torrejón de la Calzada o Humanes. No hay un taller especializado en BMW en el propio pueblo, así que muchos vecinos se desplazan a nuestras instalaciones sabiendo que van a encontrar diagnóstico certero desde el principio.\n\nEl trayecto habitual hacia Madrid por la A-42 o la M-506 exige bastante al turbo y a la cadena de distribución en los diésel con más kilómetros, mientras que el uso urbano dentro del propio municipio desgasta antes el sistema Valvetronic en los motores de gasolina.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación especializada en BMW para vecinos de Griñón y la comarca.",
+  "processIntro": "Así trabajamos con los clientes que llegan desde fuera del municipio.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto previo",
+      "body": "Nos cuentas por teléfono el síntoma del coche para orientar la cita antes de que hagas el desplazamiento."
+    },
+    {
+      "title": "Diagnosis con equipo original",
+      "body": "Escaneamos el vehículo completo con el software oficial de BMW."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el diagnóstico y el coste antes de tocar el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación con piezas trazables",
+      "body": "Documentamos cada pieza montada, con su referencia exacta."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con prueba real",
+      "body": "Probamos el coche en carretera antes de devolvértelo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Griñón.",
+  "commonIssuesIntro": "Averías habituales en los BMW con uso mixto de comarcal y autovía, como el de muchos vecinos de Griñón.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic con ralentí irregular",
+      "body": "El uso urbano dentro del pueblo desgasta el sistema Valvetronic antes de lo esperado en motores de gasolina."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de potencia",
+      "body": "Los trayectos frecuentes por la A-42 hacia Madrid fatigan el turbo en diésel con kilometraje alto."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido metálico en frío, típico de motores N47 sin revisión preventiva reciente."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos que suelen deberse a un aceite de caja no renovado en el intervalo correcto."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración",
+      "body": "Avisos intermitentes de temperatura en coches con uso mixto de comarcal y autovía."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos en BMW",
+      "body": "No repartimos el conocimiento técnico entre varias marcas."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Atendemos zonas del sur de Madrid",
+      "body": "Sabemos que venir desde Griñón implica desplazarse, y organizamos la cita para que valga la pena."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto sin sorpresas",
+      "body": "El precio acordado es el que se cobra al final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Diagnosis con equipo original",
+      "body": "El mismo software que usa la red oficial de la marca."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada y cubierta por garantía."
     }
   ],
-  "zoneText": "Atendemos BMW en Griñón y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a vecinos de Griñón y de los municipios cercanos del sur de Madrid, con acceso desde la A-42 y la M-506.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Griñón?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Vale la pena desplazarse desde Griñón?",
+      "a": "Muchos vecinos del pueblo ya lo hacen habitualmente porque no hay un especialista exclusivo en BMW más cerca."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿El diagnóstico tiene coste?",
+      "a": "Se descuenta del importe final si decides reparar con nosotros."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche todo el día?",
+      "a": "Sí, disponemos de espacio para custodiarlo mientras trabajamos."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Atendéis también vecinos de Torrejón de la Calzada?",
+      "a": "Sí, recibimos clientes de toda la comarca del sur de Madrid."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo llamar antes de traer el coche?",
+      "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma que describas."
+    },
+    {
+      "q": "¿Dais garantía igual que en talleres de ciudad?",
+      "a": "Exactamente la misma garantía por escrito, sin diferencias."
+    },
+    {
+      "q": "¿Reparáis averías graves de motor?",
+      "a": "Sí, desde mantenimiento básico hasta reparaciones mayores de motor y caja."
     }
   ],
-  "closingHeadline": "Tu BMW en Griñón, en buenas manos",
-  "closingCta": "Si tienes un BMW en Griñón y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Un especialista en BMW al alcance de Griñón",
+  "closingCta": "Llámanos y cuéntanos qué le pasa a tu coche",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,34 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de vecinos de Griñón que han confiado en el taller.",
+  "testimonials": [
+    {
+      "name": "Sergio Marín",
+      "neighborhood": "Griñón",
+      "body": "Me desplacé desde el pueblo porque no encontraba a nadie que entendiera de verdad mi Serie 1, y aquí lo resolvieron rápido.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia Lozano",
+      "neighborhood": "Griñón",
+      "body": "Diagnóstico correcto de un problema de turbo que en el taller de siempre no supieron identificar.",
+      "rating": 5
+    },
+    {
+      "name": "Óscar Delgado",
+      "neighborhood": "Griñón",
+      "body": "Presupuesto claro desde el principio y sin coste añadido al final, se agradece la transparencia.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Griñón centro"
+  ],
+  "zoneAccessRoutes": [
+    "A-42 dirección Madrid",
+    "M-506 hacia Torrejón de la Calzada",
+    "M-407 desde Humanes de Madrid"
+  ]
 }

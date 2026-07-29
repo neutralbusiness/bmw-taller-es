@@ -6,9 +6,9 @@
   "population": 6781,
   "lat": 40.69385,
   "lng": -4.03244,
-  "metaTitle": "Taller BMW en Collado Mediano | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Collado Mediano. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Collado Mediano y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Collado Mediano | Sierra de Guadarrama",
+  "metaDescription": "Taller BMW en Collado Mediano: diagnóstico y reparación de motor, turbo y caja automática. Servicio especializado para la sierra de Madrid.",
+  "heroSubtitle": "Especialistas BMW en Collado Mediano y la Sierra de Guadarrama.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Collado Mediano: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Collado Mediano te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Collado Mediano, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Collado Mediano es un municipio de la sierra madrileña que ha crecido en población en las últimas dos décadas, atrayendo a familias que buscan calidad de vida fuera de Madrid capital pero manteniendo el trabajo en la ciudad, con desplazamientos diarios por la A-6.\n\nEse doble uso, ciudad y montaña, genera un patrón de averías particular en los BMW de la zona: desgaste de frenos y suspensión por las curvas de la sierra, sumado al estrés de la conducción urbana entre semana. No hay taller especializado en la marca en Collado Mediano, y muchos vecinos comparten la misma queja: falta de opciones cercanas de confianza para su BMW.",
+  "servicesIntro": "Diagnóstico y reparación adaptados al doble uso, sierra y ciudad, de los coches de la zona.",
+  "processIntro": "Así trabajamos con cada BMW, tanto si vive en la sierra como si baja a diario a Madrid.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y toma de datos",
+      "body": "Anotamos el síntoma exacto que describes, el historial del coche y los kilómetros desde el último mantenimiento."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico electrónico",
+      "body": "Usamos herramienta específica BMW para leer códigos reales, no aproximaciones de un lector genérico."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado por escrito",
+      "body": "Recibes precio de piezas y mano de obra desglosado, para que decidas con toda la información."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución del trabajo",
+      "body": "Reparamos siguiendo el par de apriete, aceites y procedimientos que exige BMW para ese sistema."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba dinámica antes de entrega",
+      "body": "Rodamos el coche en condiciones reales para confirmar que el problema está resuelto, no solo que el testigo se apagó."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Collado Mediano.",
+  "commonIssuesIntro": "Fallos habituales en los BMW que combinan sierra y ciudad a diario.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Caja ZF 8HP con testigo de caja iluminado",
+      "body": "El aviso suele aparecer tras un sobrecalentamiento puntual del aceite de caja; conviene revisarlo antes de que empeore."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con sobrepresión y testigo de motor",
+      "body": "Una válvula de descarga (wastegate) que no cierra bien dispara el testigo y resta potencia de forma perceptible."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Vanos ruidoso al arrancar en frío",
+      "body": "Es de los avisos más comunes en los motores de gasolina N20, N26 y B48 cuando el aceite ha superado su intervalo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Cadena de distribución con holgura",
+      "body": "El desgaste del tensor hidráulico hace que la cadena golpee la tapa de distribución, especialmente en frío."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de temperatura de refrigerante erráticos",
+      "body": "Dan lecturas inconsistentes al cuadro y pueden activar el modo de emergencia del motor sin que exista una avería mayor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialización que se nota en el tiempo de diagnóstico",
+      "body": "Al conocer los fallos típicos de la marca, localizamos la avería más rápido que un taller generalista."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado, no orientativo",
+      "body": "Salvo hallazgo imprevisto durante la reparación, el precio que te damos es el que pagas."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Piezas equivalentes homologadas cuando tiene sentido",
+      "body": "Te ofrecemos alternativas de calidad certificada cuando el original no compensa, siempre con tu decisión final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Historial documentado de tu coche",
+      "body": "Guardamos registro de cada intervención para que tengas trazabilidad completa del mantenimiento."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Vocación de taller de confianza a largo plazo",
+      "body": "Preferimos un cliente que vuelve cada año a uno que paga una vez de más."
     }
   ],
-  "zoneText": "Atendemos BMW en Collado Mediano y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a Collado Mediano y a los municipios cercanos de la sierra: Collado Villalba, Moralzarzal y Alpedrete, con acceso rápido desde la A-6 y la M-607.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Collado Mediano?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recomendáis revisar la suspensión con más frecuencia por vivir en la sierra?",
+      "a": "Sí, las curvas continuas y las pendientes desgastan antes rótulas, silentblocks y amortiguadores."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atendéis coches que bajan a diario a Madrid por la A-6?",
+      "a": "Es el perfil más habitual de la zona, con desgaste añadido en embrague y frenos por el tráfico urbano."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche antes de coger la A-6 hacia Madrid?",
+      "a": "Sí, muchos clientes lo dejan de camino al trabajo y lo recogen al volver."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con vehículos xDrive, habituales en la sierra?",
+      "a": "Sí, tenemos experiencia específica con la tracción total de BMW."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto cuesta una revisión de frenos completa?",
+      "a": "Depende del modelo y el desgaste; te damos presupuesto exacto tras la inspección."
+    },
+    {
+      "q": "¿Hacéis cambio de batería antes del invierno?",
+      "a": "Sí, es una revisión recomendable en la sierra, donde el frío exige más a la batería."
     }
   ],
-  "closingHeadline": "Tu BMW en Collado Mediano, en buenas manos",
-  "closingCta": "Si tienes un BMW en Collado Mediano y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW listo para la sierra y para la ciudad",
+  "closingCta": "Pide cita en Collado Mediano y cuida tu BMW antes de que el invierno lo note.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,38 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Vecinos de Collado Mediano y alrededores.",
+  "testimonials": [
+    {
+      "name": "Gonzalo T.",
+      "neighborhood": "Collado Mediano",
+      "body": "Bajo a Madrid cada día por la A-6 y el desgaste del coche es distinto al de la ciudad. Aquí lo entienden bien.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina O.",
+      "neighborhood": "Moralzarzal",
+      "body": "Diagnóstico exacto del ruido de suspensión que arrastraba desde hacía meses.",
+      "rating": 5
+    },
+    {
+      "name": "Pablo E.",
+      "neighborhood": "Alpedrete",
+      "body": "Precio justo y trato cercano, se agradece no tener que bajar hasta Madrid.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Collado Mediano",
+    "Collado Villalba",
+    "Moralzarzal",
+    "Alpedrete",
+    "Los Negrales"
+  ],
+  "zoneAccessRoutes": [
+    "A-6",
+    "M-607",
+    "M-618"
+  ]
 }

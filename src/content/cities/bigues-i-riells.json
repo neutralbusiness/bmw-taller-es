@@ -6,9 +6,9 @@
   "population": 8781,
   "lat": 41.68586,
   "lng": 2.20357,
-  "metaTitle": "Taller BMW en Bigues i Riells | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Bigues i Riells. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Bigues i Riells y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Bigues i Riells | Vallès Oriental",
+  "metaDescription": "Taller especializado BMW en Bigues i Riells del Fai. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de Granollers y Sabadell.",
+  "heroSubtitle": "El taller BMW de confianza en el Vallès Oriental, entre Granollers y el parque del Montseny.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Bigues i Riells: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Bigues i Riells te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Bigues i Riells, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Bigues i Riells del Fai es un municipio de algo más de 8.000 habitantes en el Vallès Oriental, formado por varios núcleos (Bigues, Riells del Fai, Mura de Dalt), que ha crecido en las últimas décadas como zona residencial de urbanizaciones para quienes trabajan en Granollers, Sabadell o Barcelona y buscan más espacio y tranquilidad.\n\nLa carretera C-59 conecta el municipio con Barcelona en poco más de media hora, lo que hace que buena parte del parque de BMW en Bigues i Riells corresponda a commuters diarios, combinados con familias que usan el coche sobre todo para trayectos cortos hacia Granollers o hacia el entorno natural del Montseny los fines de semana.\n\nNo hay taller especializado BMW en el propio municipio, así que ofrecemos recogida a domicilio en cualquiera de sus núcleos, evitando el desplazamiento hasta Granollers o Barcelona para el mantenimiento.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en los distintos núcleos de Bigues i Riells.",
+  "processIntro": "Coordinamos la logística para adaptarnos a la dispersión del municipio en varios núcleos.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto y cita",
+      "body": "Nos cuentas la avería o el mantenimiento pendiente y te damos cita."
+    },
+    {
+      "title": "Recogida en tu núcleo",
+      "body": "Vamos a buscar el coche a Bigues, Riells del Fai o donde te venga mejor."
+    },
+    {
+      "title": "Diagnosis con escáner oficial",
+      "body": "Revisamos todos los módulos electrónicos antes de decidir la reparación."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega en el mismo punto",
+      "body": "Devolvemos el vehículo donde lo recogimos."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Bigues i Riells.",
+  "commonIssuesIntro": "Averías habituales en BMW de commuters diarios hacia Barcelona por la C-59, como en Bigues i Riells.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Turbo con pérdida de presión",
+      "body": "Los trayectos diarios de vía rápida a velocidad sostenida desgastan los retenes del turbo."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Cadena de distribución estirada",
+      "body": "El uso diario de carretera en motores de gasolina acelera el desgaste de la cadena."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Sin cambio de aceite de caja periódico aparecen tirones en cambios a baja velocidad."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Fallos en Vanos/Valvetronic",
+      "body": "Ruido metálico en frío típico de motores con muchos kilómetros de carretera."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración",
+      "body": "Lecturas erróneas por desgaste del sensor tras varios años de uso diario."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en cualquier núcleo del municipio",
+      "body": "No importa si vives en Bigues o en Riells del Fai, vamos a buscar el coche."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sabes el coste final antes de autorizar la reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú eliges el nivel de gasto según la antigüedad del coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Experiencia con commuters diarios",
+      "body": "Sabemos qué desgastes son típicos del uso diario de carretera y los revisamos primero."
     }
   ],
-  "zoneText": "Atendemos BMW en Bigues i Riells y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todo el municipio de Bigues i Riells del Fai, con sus distintos núcleos, en el Vallès Oriental, entre Granollers y el parque natural del Montseny.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Bigues i Riells?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en cualquier núcleo del municipio?",
+      "a": "Sí, en Bigues, Riells del Fai o donde vivas."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con BMW de uso diario en carretera?",
+      "a": "Es el perfil más habitual entre nuestros clientes de la zona."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tardáis en dar presupuesto?",
+      "a": "El mismo día que hacemos la diagnosis."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
+      "a": "Sí, coordinamos la recogida a primera hora."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Usáis piezas originales BMW?",
+      "a": "Ofrecemos original o equivalente homologado según lo que prefieras."
+    },
+    {
+      "q": "¿Dais servicio también a Granollers?",
+      "a": "Sí, a todo el entorno cercano de Bigues i Riells."
     }
   ],
-  "closingHeadline": "Tu BMW en Bigues i Riells, en buenas manos",
-  "closingCta": "Si tienes un BMW en Bigues i Riells y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW cuidado sin salir del Vallès Oriental",
+  "closingCta": "Escríbenos y coordinamos la recogida en tu núcleo del municipio.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,38 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Bigues i Riells del Fai.",
+  "testimonials": [
+    {
+      "name": "Pau Cardona",
+      "neighborhood": "Bigues",
+      "body": "Recogieron el coche en casa un martes por la mañana y me lo devolvieron por la tarde, listo para trabajar.",
+      "rating": 5
+    },
+    {
+      "name": "Laia Rierola",
+      "neighborhood": "Riells del Fai",
+      "body": "Muy buena comunicación, me llamaron antes de tocar el coche para explicarme todo.",
+      "rating": 5
+    },
+    {
+      "name": "Ferran Colomer",
+      "neighborhood": "Bigues i Riells",
+      "body": "Detectaron un problema de caja de cambios que en otro taller se les había pasado por alto.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Bigues",
+    "Riells del Fai",
+    "Mura de Dalt",
+    "Granollers",
+    "Sant Feliu de Codines"
+  ],
+  "zoneAccessRoutes": [
+    "C-59",
+    "C-17",
+    "BV-1247"
+  ]
 }

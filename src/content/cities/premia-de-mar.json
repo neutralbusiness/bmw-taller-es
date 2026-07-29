@@ -6,9 +6,9 @@
   "population": 27399,
   "lat": 41.49206,
   "lng": 2.36524,
-  "metaTitle": "Taller BMW en Premià de Mar | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Premià de Mar. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Premià de Mar y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Premià de Mar | Maresme, diagnosis original",
+  "metaDescription": "Servicio BMW en Premià de Mar: mantenimiento, frenos, distribución y diagnosis con equipo original. Recogida disponible en toda la costa del Maresme.",
+  "heroSubtitle": "Costa del Maresme sur, mecánica BMW sin ir a Barcelona",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,149 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Premià de Mar: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Premià de Mar te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Premià de Mar, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Premià de Mar es una localidad costera de unos 28.000 habitantes en el Maresme sur, muy cerca de Mataró y a menos de 20 kilómetros de Barcelona por la C-32. La densidad de población y el uso diario del coche para desplazarse hacia Barcelona hacen de esta zona una de las más activas en cuanto a BMW de la comarca.",
+    "No hay taller especializado en BMW dentro de Premià de Mar, así que damos servicio desde el taller de referencia más cercano de la costa, con recogida disponible tanto en el centro como en las zonas más próximas al paseo marítimo.",
+    "El uso combinado de trayectos cortos urbanos y desplazamientos frecuentes hacia Barcelona es el perfil más habitual que revisamos aquí, con un desgaste concreto que conviene vigilar de cerca."
+  ],
+  "servicesIntro": "Mantenimiento, frenos, suspensión, climatización y diagnosis electrónica adaptada al uso urbano-costero del vehículo.",
+  "processIntro": "Un proceso simplificado para que la revisión no te robe tiempo entre semana.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Consulta y valoración",
+      "body": "Nos explicas el problema y te decimos si conviene recogida o traer el coche."
+    },
+    {
+      "title": "Recogida en Premià de Mar",
+      "body": "Pasamos a buscar el vehículo en el punto que nos indiques."
+    },
+    {
+      "title": "Diagnosis con escáner original",
+      "body": "Revisamos la memoria de averías real antes de proponer nada."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te lo enviamos por escrito antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega revisada",
+      "body": "El coche vuelve probado en carretera con explicación detallada."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Premià de Mar.",
+  "commonIssuesIntro": "Averías que vemos con frecuencia en BMW de la costa sur del Maresme.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Trayectos cortos y arranques frecuentes favorecen el desgaste prematuro de las unidades Vanos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "En diésel de uso mixto ciudad-Barcelona, la falta de trayectos largos regulares acelera el envejecimiento del turbo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido en frío por estirado de cadena, especialmente en motores N47 con revisiones espaciadas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones en frío que mejoran con actualización de software y cambio de aceite específico."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "El ambiente salino de la costa acelera la corrosión de conectores y sensores de temperatura."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Conocimiento del uso costero urbano",
+      "body": "Sabemos cómo afecta el salitre y los trayectos cortos a un BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Recogida en toda la zona",
+      "body": "Desde el centro de Premià de Mar hasta las zonas próximas al paseo marítimo."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis con equipo original",
+      "body": "Nada de aproximaciones con lectores genéricos."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado antes de reparar",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú decides con toda la información delante."
     }
   ],
-  "zoneText": "Atendemos BMW en Premià de Mar y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Cubrimos Premià de Mar entera, del paseo marítimo al centro urbano, con conexión directa a Mataró y Barcelona.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Premià de Mar?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay taller BMW en Premià de Mar mismo?",
+      "a": "No especializado exclusivamente en BMW; te atendemos desde el taller de referencia con recogida incluida."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Podéis recoger el coche cerca del paseo marítimo?",
+      "a": "Sí, cubrimos todo el municipio, incluida la zona más próxima a la playa."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Es distinto el mantenimiento por vivir en la costa?",
+      "a": "Sí, prestamos especial atención a corrosión de conectores y estado de sensores."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Atendéis en temporada alta de verano?",
+      "a": "Sí, aunque recomendamos anticipar la cita por la mayor demanda en julio y agosto."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tarda una revisión estándar?",
+      "a": "Un mantenimiento programado suele resolverse en el mismo día."
+    },
+    {
+      "q": "¿Dais garantía por escrito?",
+      "a": "Sí, toda reparación incluye garantía detallada en presupuesto y factura."
+    },
+    {
+      "q": "¿Trabajáis con coches usados a diario para ir a Barcelona?",
+      "a": "Es el perfil más habitual que vemos aquí y lo tenemos muy trabajado."
     }
   ],
-  "closingHeadline": "Tu BMW en Premià de Mar, en buenas manos",
-  "closingCta": "Si tienes un BMW en Premià de Mar y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW, cuidado sin salir de la costa del Maresme",
+  "closingCta": "Reserva recogida en Premià de Mar y ahórrate el viaje a Barcelona.",
+  "testimonialsIntro": "Lo que dicen los clientes de Premià de Mar.",
+  "testimonials": [
+    {
+      "name": "Meritxell Font",
+      "neighborhood": "Premià de Mar",
+      "body": "El presupuesto llegó claro y sin sorpresas al recoger el coche.",
+      "rating": 5
+    },
+    {
+      "name": "Ivan Batlle",
+      "neighborhood": "Premià de Mar",
+      "body": "El salitre había afectado a los conectores del sensor y lo detectaron enseguida.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina Roig",
+      "neighborhood": "Premià de Mar",
+      "body": "Recogida puntual cerca del paseo marítimo, sin tener que moverme.",
+      "rating": 5
+    },
+    {
+      "name": "Marc Duran",
+      "neighborhood": "Premià de Mar",
+      "body": "El 320d llevaba tirones raros en la caja y quedó resuelto con la actualización de software.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Passeig marítim",
+    "Centre urbà",
+    "Zona de l'estació",
+    "Barri de Ca l'Espinaler"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 hacia Barcelona y Mataró",
+    "N-II costa Maresme",
+    "B-502 hacia Vilassar de Mar"
+  ]
 }

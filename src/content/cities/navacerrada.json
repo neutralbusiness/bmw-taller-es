@@ -6,9 +6,9 @@
   "population": 2793,
   "lat": 40.75686,
   "lng": -4.00711,
-  "metaTitle": "Taller BMW en Navacerrada | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Navacerrada. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Navacerrada y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Navacerrada | Mecánica de montaña especializada",
+  "metaDescription": "Taller BMW cerca de Navacerrada, Sierra de Guadarrama. Diagnóstico, frenos, suspensión y turbo. Especialistas en coches sometidos a puertos de montaña.",
+  "heroSubtitle": "Especialistas en BMW para los conductores de Navacerrada y el Puerto, donde el frío y las cuestas pasan factura al coche.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Navacerrada — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Navacerrada te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Navacerrada, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "En Navacerrada el BMW no lleva la vida tranquila de un coche de ciudad: sube y baja el puerto varias veces por semana, se enfrenta a hielo en invierno y a frenadas largas en las bajadas hacia Cercedilla o Los Molinos. Eso desgasta frenos, suspensión y turbo de una forma distinta a como lo hace el tráfico de Madrid capital, y es algo que tenemos muy presente cuando entra un coche de la Sierra.",
+    "Trabajamos con bastantes propietarios de Navacerrada que suben a esquiar en invierno o que simplemente viven en el pueblo y bajan a trabajar a Collado Villalba o Madrid cada día. En ambos casos, el frío intenso y los cambios bruscos de temperatura son un factor que revisamos siempre en el sistema de refrigeración y en la batería."
+  ],
+  "servicesIntro": "Diagnóstico, frenos, suspensión, turbo y refrigeración adaptados a las exigencias de un BMW que vive en la montaña, con cita previa desde Navacerrada.",
+  "processIntro": "Cómo revisamos un BMW que llega desde Navacerrada, con especial atención al desgaste típico de puerto de montaña.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa sin esperas",
+      "body": "En Navacerrada concertamos cita para que tu BMW entre directamente al puesto de trabajo, sin dejarlo aparcado días esperando turno."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico con escáner de fábrica",
+      "body": "Usamos equipos de diagnóstico específicos BMW, capaces de leer y programar los mismos módulos que en el concesionario, incluida la unidad DME/DDE."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto por escrito antes de empezar",
+      "body": "No se toca un tornillo sin que sepas el precio final. Si aparece algo adicional durante el desmontaje, te llamamos antes de continuar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación y sustitución de piezas",
+      "body": "Montamos recambio de calidad contrastada, con las tolerancias y procedimientos que marca BMW para cada sistema, desde la cadena de distribución hasta la caja ZF 8HP."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Verificación final y entrega",
+      "body": "Comprobamos el trabajo con prueba dinámica, revisamos niveles y testigos, y te entregamos el vehículo con factura detallada y garantía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Navacerrada.",
+  "commonIssuesIntro": "Averías que vemos con más frecuencia en BMW que circulan habitualmente por el Puerto de Navacerrada.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Es uno de los sistemas más consultados en nuestro taller: reglaje variable de válvulas que, cuando falla, se nota en ralentí inestable y pérdida de par en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "La sobrealimentación en BMW exige un mantenimiento de aceite estricto: un cambio tardío desgasta antes los cojinetes del turbo y acorta mucho su vida útil."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Recomendamos revisar la cadena de distribución en el intervalo que marca cada motor, no esperar a que suene, porque cuando salta puede dañar válvulas y pistones."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Transmisión automática ZF 8HP",
+      "body": "Los cambios bruscos o el testigo de caja de cambios encendido casi siempre se solucionan con un mantenimiento correcto del aceite y del filtro, sin necesidad de sustituir la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sistema de refrigeración",
+      "body": "Muchos fallos de temperatura de motor no vienen del radiador, sino del sensor o de la bomba de agua eléctrica, un punto débil conocido de varias generaciones BMW."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Un solo fabricante, cero dispersión",
+      "body": "Al no repartir el conocimiento entre veinte marcas, dominamos las particularidades de BMW: Valvetronic, Vanos, cajas ZF, refrigeración con electroválvulas."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico antes que sustitución",
+      "body": "No cambiamos piezas a lo loco esperando acertar. Diagnosticamos primero y sustituimos solo lo que realmente falla."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto transparente",
+      "body": "Detallamos cada partida del presupuesto para que entiendas en qué se va tu dinero."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía real",
+      "body": "Si algo falla por la reparación realizada dentro del plazo de garantía, lo solucionamos sin coste adicional."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Referencia en Navacerrada y su zona",
+      "body": "Con los años nos hemos convertido en el taller de referencia para propietarios de BMW en Navacerrada y los municipios cercanos."
     }
   ],
-  "zoneText": "Atendemos BMW en Navacerrada y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a Navacerrada, el Puerto y los municipios cercanos de la Sierra de Guadarrama, una zona donde la conducción de montaña exige un mantenimiento distinto al de un coche de ciudad.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Navacerrada?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Revisáis los frenos con más frecuencia por el desgaste de puerto?",
+      "a": "Sí, recomendamos revisión de frenos cada 10.000-15.000 km si el coche sube y baja el puerto habitualmente."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿El frío afecta a la batería del BMW?",
+      "a": "Sí, es de las consultas más habituales en invierno en la zona de Navacerrada. Revisamos batería y alternador antes de que llegue el frío fuerte."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con neumáticos de invierno?",
+      "a": "Podemos asesorarte y montarlos, aunque nuestro fuerte es la mecánica y electrónica del motor."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Hacéis revisión de suspensión tras el uso continuado de puerto?",
+      "a": "Sí, es una revisión que recomendamos especialmente a quienes viven en Navacerrada."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto se tarda en llegar desde Navacerrada?",
+      "a": "Unos 20-25 minutos por carretera, según el punto de partida."
+    },
+    {
+      "q": "¿Dais presupuesto cerrado?",
+      "a": "Siempre, antes de empezar cualquier reparación."
     }
   ],
-  "closingHeadline": "Tu BMW en Navacerrada, en buenas manos",
-  "closingCta": "Si tienes un BMW en Navacerrada y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Un taller que entiende lo que el puerto le hace a tu BMW",
+  "closingCta": "Reserva tu cita y trae el coche antes de que el desgaste de montaña se convierta en avería grande.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,36 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Vecinos de Navacerrada que confían en nuestro taller para su BMW.",
+  "testimonials": [
+    {
+      "name": "Alberto Fresno",
+      "neighborhood": "Navacerrada",
+      "body": "Los frenos del X1 sufren mucho bajando el puerto. Me explicaron el desgaste real y no me vendieron piezas de más.",
+      "rating": 5
+    },
+    {
+      "name": "Covadonga Reyero",
+      "neighborhood": "Navacerrada, cerca del Puerto",
+      "body": "En invierno el coche costaba arrancar por el frío. Revisaron la batería y el sistema de precalentamiento y quedó solucionado.",
+      "rating": 5
+    },
+    {
+      "name": "Ismael Trapero",
+      "neighborhood": "Navacerrada",
+      "body": "Diagnóstico honesto de un ruido en la suspensión que otro taller no supo encontrar.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Navacerrada pueblo",
+    "Puerto de Navacerrada",
+    "Camorritos"
+  ],
+  "zoneAccessRoutes": [
+    "M-601 (Puerto de Navacerrada)",
+    "M-607",
+    "Carretera hacia Cercedilla"
+  ]
 }

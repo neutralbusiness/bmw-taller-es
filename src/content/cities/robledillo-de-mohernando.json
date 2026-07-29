@@ -6,9 +6,9 @@
   "population": 136,
   "lat": 40.84408,
   "lng": -3.21036,
-  "metaTitle": "Taller BMW en Robledillo de Mohernando | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Robledillo de Mohernando. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Robledillo de Mohernando y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Robledillo de Mohernando | Mecánicos especialistas",
+  "metaDescription": "Taller especializado en BMW cerca de Robledillo de Mohernando, Guadalajara. Diagnosis oficial, mantenimiento y reparación con recogida del vehículo si lo necesitas.",
+  "heroSubtitle": "Mecánica especializada BMW a un trayecto corto desde Robledillo de Mohernando",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Robledillo de Mohernando — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Robledillo de Mohernando te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Robledillo de Mohernando, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Robledillo de Mohernando es un municipio pequeño de la comarca de la Campiña del Henares, en Guadalajara, y como en la mayoría de núcleos de este tamaño, no cuenta con un taller especializado en BMW dentro del propio pueblo. Quien tiene un Serie 1, un X1 o un 320d matriculado en Robledillo suele acabar llevándolo a Guadalajara capital o directamente a Madrid para según qué reparaciones, sobre todo cuando entra en juego electrónica de la marca.\n\nDesde nuestra red trabajamos con clientes de esta zona ofreciendo recogida del vehículo en el propio pueblo o en Mohernando, y devolución una vez terminado el trabajo. No pretendemos vender que hay un taller BMW puerta a puerta en Robledillo: lo que ofrecemos es que la distancia deje de ser el obstáculo para mantener el coche como corresponde.",
+  "servicesIntro": "Cubrimos desde el mantenimiento programado hasta averías de mayor calado, con diagnosis por software oficial BMW.",
+  "processIntro": "El proceso está pensado para minimizar los desplazamientos de quien vive en un núcleo rural como este.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto y valoración por teléfono",
+      "body": "Nos cuentas la avería o el servicio que necesitas y te damos una primera orientación antes de mover el coche."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida en Robledillo o Mohernando",
+      "body": "Coordinamos la recogida del vehículo en tu domicilio o en un punto cercano, sin que tengas que conducir hasta el taller."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnosis con equipo oficial",
+      "body": "Conectamos el software de diagnosis BMW para identificar el origen real del problema, no solo el síntoma."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto cerrado antes de tocar nada",
+      "body": "Te llamamos con el presupuesto desglosado y no avanzamos hasta que lo apruebas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega del vehículo",
+      "body": "Devolvemos el coche en el punto acordado, con el informe de lo realizado y las piezas sustituidas si las hay."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Robledillo de Mohernando.",
+  "commonIssuesIntro": "En vehículos BMW que circulan por carreteras comarcales y zonas de campo, vemos con frecuencia estas averías.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El polvo y los trayectos con paradas frecuentes en zonas rurales aceleran el desgaste de los solenoides Vanos, con el típico traqueteo en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "En motores diésel con mucho kilometraje de carretera secundaria, la geometría variable del turbo empieza a fallar antes de lo esperado."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "En los N47 y N43 es una revisión que recomendamos no dejar pasar, especialmente si el coche viene de varias manos sin historial claro."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos o tirones en la caja automática suelen resolverse con un cambio de aceite específico, no siempre con una reparación mayor."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sondas",
+      "body": "El testigo de motor encendido por una sonda lambda o un sensor de árbol de levas es de lo más habitual que diagnosticamos aquí."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida sin coste añadido oculto",
+      "body": "Sabemos que venir desde Robledillo no es trivial, así que lo resolvemos nosotros yendo a buscar el coche."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Presupuesto cerrado",
+      "body": "Nada de sorpresas en la factura: lo que se aprueba por teléfono es lo que se paga."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Piezas originales o equivalentes homologados",
+      "body": "Tú decides el nivel de pieza según la antigüedad y el uso real del coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "No trabajamos a ciegas: el software identifica el fallo exacto antes de intervenir."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo con el mecánico",
+      "body": "Hablas con quien repara el coche, no con un intermediario que traduce mal la información."
     }
   ],
-  "zoneText": "Atendemos BMW en Robledillo de Mohernando y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Robledillo de Mohernando es un municipio pequeño de la Campiña del Henares, con muy poco tráfico de paso y una población reducida. La mayoría de vecinos con BMW trabajan o estudian en Guadalajara capital o Madrid, por lo que el vehículo acumula bastante kilometraje de autovía A-2, algo que tenemos en cuenta al revisar embrague, neumáticos y suspensión.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Robledillo de Mohernando?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay algún taller BMW especializado en Robledillo de Mohernando?",
+      "a": "No, el municipio es demasiado pequeño para sostener un taller especializado en la marca. Por eso ofrecemos recogida del vehículo desde allí."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Tengo que llevar yo el coche hasta el taller?",
+      "a": "No necesariamente. Recogemos el vehículo en Robledillo o en Mohernando y lo devolvemos una vez reparado."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con diagnosis oficial BMW?",
+      "a": "Sí, usamos el software de diagnosis oficial de la marca para identificar averías con precisión."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda una recogida desde el pueblo?",
+      "a": "Normalmente coordinamos la recogida en 24-48 horas, según la carga de trabajo del taller."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Los presupuestos son orientativos o cerrados?",
+      "a": "Cerrados. Te llamamos antes de intervenir y no hacemos nada sin tu aprobación expresa."
+    },
+    {
+      "q": "¿Atendéis también coches con muchos años y kilometraje alto?",
+      "a": "Sí, es habitual en esta zona. Adaptamos el tipo de pieza (original o equivalente) según el uso real del vehículo."
     }
   ],
-  "closingHeadline": "Tu BMW en Robledillo de Mohernando, en buenas manos",
-  "closingCta": "Si tienes un BMW en Robledillo de Mohernando y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cuidado sin salir de Robledillo de Mohernando",
+  "closingCta": "Solicita la recogida de tu vehículo y déjanos el resto",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Robledillo de Mohernando y alrededores que ya han confiado en nosotros.",
+  "testimonials": [
+    {
+      "name": "Fernando A.",
+      "neighborhood": "Robledillo de Mohernando",
+      "body": "Vinieron a buscar mi X1 al pueblo y me lo devolvieron el mismo día. Un lujo no tener que ir hasta Guadalajara.",
+      "rating": 5
+    },
+    {
+      "name": "Mª Ángeles R.",
+      "neighborhood": "Mohernando",
+      "body": "El turbo de mi 318d estaba dando problemas desde hacía meses y por fin alguien me lo diagnosticó bien a la primera.",
+      "rating": 5
+    },
+    {
+      "name": "Julián T.",
+      "neighborhood": "Robledillo de Mohernando",
+      "body": "Serios con el presupuesto y puntuales con la entrega. No es fácil encontrar eso para BMW en esta zona.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Casco urbano de Robledillo de Mohernando",
+    "Mohernando",
+    "Humanes",
+    "Cabanillas del Campo"
+  ],
+  "zoneAccessRoutes": [
+    "CM-1004 hacia Mohernando",
+    "A-2 dirección Madrid/Guadalajara",
+    "N-320 como alternativa local"
+  ]
 }

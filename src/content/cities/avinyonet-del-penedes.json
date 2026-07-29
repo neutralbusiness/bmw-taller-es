@@ -6,9 +6,9 @@
   "population": 1716,
   "lat": 41.35988,
   "lng": 1.7782,
-  "metaTitle": "Taller BMW en Avinyonet del Penedès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Avinyonet del Penedès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Avinyonet del Penedès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Avinyonet del Penedès | Alt Penedès",
+  "metaDescription": "Taller especializado BMW cerca de Avinyonet del Penedès, entre Vilafranca y Sant Sadurní. Diagnosis oficial, mantenimiento y reparación con recogida.",
+  "heroSubtitle": "El taller BMW de confianza para los payeses y viajeros diarios que recorren las carreteras del Penedès entre viñedos.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Avinyonet del Penedès vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Avinyonet del Penedès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Avinyonet del Penedès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Avinyonet del Penedès es un municipio pequeño del Alt Penedès formado por varios núcleos dispersos (Sant Sebastià dels Gorgs, Torre-ramona, Els Monjos), rodeado de viñas y bodegas, a un cuarto de hora de Vilafranca del Penedès y otro tanto de Sant Sadurní d'Anoia, capital del cava.\n\nEl perfil de propietario de BMW aquí combina al payés o empresario del sector vitivinícola que recorre a diario las carreteras BV-2249 y la C-15 hacia Vilafranca, con quien trabaja en el corredor de la AP-7 y usa Avinyonet como residencia tranquila fuera de Barcelona.\n\nNo hay taller especializado BMW en el propio municipio, así que damos servicio de recogida en cualquiera de sus núcleos y devolvemos el coche una vez reparado, evitando el viaje a Vilafranca o Barcelona.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en cualquiera de los núcleos de Avinyonet.",
+  "processIntro": "Coordinamos la logística para que la dispersión del municipio en varios núcleos no sea un problema.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Consulta inicial",
+      "body": "Nos cuentas el problema o el mantenimiento que toca y te orientamos por teléfono."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida en tu núcleo",
+      "body": "Vamos a buscar el coche a Els Monjos, Sant Sebastià dels Gorgs o donde te venga mejor."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnosis con escáner oficial",
+      "body": "Revisamos todos los módulos electrónicos del vehículo antes de decidir la reparación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto antes de intervenir",
+      "body": "Te llamamos con el precio cerrado antes de empezar cualquier trabajo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega en el mismo punto",
+      "body": "Devolvemos el vehículo donde lo recogimos, listo para rodar."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Avinyonet del Penedès.",
+  "commonIssuesIntro": "Averías habituales en BMW que circulan a diario por las carreteras del Penedès.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Cadena de distribución con estiramiento",
+      "body": "Los motores de gasolina con muchos kilómetros de carretera comarcal desarrollan ruido de cadena en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "El uso constante en carretera abierta hacia Vilafranca fuerza el turbo antes que un uso urbano."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Los cambios automáticos con mantenimiento de aceite retrasado empiezan a dar tirones en cambios bajos."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores de oxígeno degradados",
+      "body": "El polvo de las pistas entre viñedos puede acelerar el desgaste de sondas lambda."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración con fugas en el vaso de expansión",
+      "body": "El plástico del vaso se fragiliza con los años y es una avería recurrente en motores de más de 100.000 km."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en cualquier núcleo del municipio",
+      "body": "No importa si vives en Els Monjos o en Sant Sebastià dels Gorgs, vamos a buscar el coche."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Mismo nivel técnico que un concesionario, con presupuestos más ajustados."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Piezas originales o equivalentes",
+      "body": "Tú decides el nivel de gasto según la antigüedad del coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sin sorpresas al recoger el vehículo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Conocemos las carreteras del Penedès",
+      "body": "Sabemos qué desgastes son típicos de esta zona y los buscamos primero."
     }
   ],
-  "zoneText": "Atendemos BMW en Avinyonet del Penedès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Trabajamos en todo el término de Avinyonet del Penedès y sus núcleos dispersos, en el corazón del Alt Penedès, entre viñedos y a un paso de Vilafranca y Sant Sadurní d'Anoia.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Avinyonet del Penedès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Els Monjos aunque no sea el núcleo principal?",
+      "a": "Sí, recogemos en cualquiera de los núcleos del municipio."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tardáis en dar presupuesto?",
+      "a": "Normalmente el mismo día que hacemos la diagnosis."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con BMW de más de diez años?",
+      "a": "Sí, tenemos experiencia con toda la gama de motorizaciones, gasolina y diésel."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo pedir solo la diagnosis sin comprometerme a reparar?",
+      "a": "Sí, la diagnosis es independiente y decides después si sigues adelante."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Usáis piezas originales BMW?",
+      "a": "Ofrecemos original o equivalente homologado según lo que prefieras."
+    },
+    {
+      "q": "¿Hacéis mantenimientos periódicos, no solo averías?",
+      "a": "Sí, revisiones e ITV previa incluidas en el servicio habitual."
     }
   ],
-  "closingHeadline": "Tu BMW en Avinyonet del Penedès, en buenas manos",
-  "closingCta": "Si tienes un BMW en Avinyonet del Penedès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cuidado entre viñedos sin salir de Avinyonet",
+  "closingCta": "Contacta con nosotros y coordinamos la recogida en tu núcleo del municipio.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,39 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Avinyonet y el Alt Penedès.",
+  "testimonials": [
+    {
+      "name": "Marta Rovira Puig",
+      "neighborhood": "Els Monjos",
+      "body": "Vinieron a buscar el coche a Els Monjos y me lo devolvieron el mismo día con la avería del turbo resuelta.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier Solé",
+      "neighborhood": "Sant Sebastià dels Gorgs",
+      "body": "Muy buen trato y presupuesto claro desde el principio, sin líos.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Fontanet",
+      "neighborhood": "Avinyonet del Penedès",
+      "body": "Detectaron un problema de sensores que en otro sitio no habían visto. Encantada.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Els Monjos",
+    "Sant Sebastià dels Gorgs",
+    "Torre-ramona",
+    "Avinyonet del Penedès",
+    "La Granada",
+    "Vilafranca del Penedès"
+  ],
+  "zoneAccessRoutes": [
+    "C-15",
+    "BV-2249",
+    "AP-7"
+  ]
 }

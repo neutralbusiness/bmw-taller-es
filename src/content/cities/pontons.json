@@ -6,9 +6,9 @@
   "population": 531,
   "lat": 41.40683,
   "lng": 1.51246,
-  "metaTitle": "Taller BMW en Pontons | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Pontons. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Pontons y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Pontons | Alt Penedès, Vilafranca",
+  "metaDescription": "Servicio BMW para Pontons: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Alt Penedès, cerca de Vilafranca.",
+  "heroSubtitle": "Un pueblo de montaña del Penedès, con mecánica BMW cerca",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Pontons: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Pontons te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Pontons, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Pontons es un municipio pequeño del Alt Penedès, de apenas 500 habitantes, encajado en una zona montañosa junto a la C-15 camino de Vilafranca del Penedès. Aquí no hay ni gasolinera propia en muchos tramos del año, así que hablar de un taller especializado en BMW dentro del pueblo sería directamente falso.",
+    "Lo que ofrecemos es recogida real desde Pontons hasta el taller de referencia de la comarca, coordinada con antelación porque las carreteras de montaña de la zona no siempre permiten improvisar.",
+    "El uso que hacen los propietarios de BMW en Pontons suele combinar curvas de montaña y trayectos hacia Vilafranca o Barcelona, un uso que exige atención especial a frenos y suspensión, más allá del mantenimiento básico."
+  ],
+  "servicesIntro": "Mantenimiento adaptado a carretera de montaña, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
+  "processIntro": "Cinco pasos pensados para la orografía del Penedès interior.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Consulta telefónica",
+      "body": "Valoramos el problema y organizamos la recogida según el punto de acceso más fácil."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida en Pontons",
+      "body": "Coordinamos un punto de encuentro accesible en carretera para la furgoneta o la grúa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnosis con escáner original",
+      "body": "Revisamos la memoria de averías real antes de proponer nada."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto por teléfono",
+      "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega de vuelta en el pueblo",
+      "body": "Devolvemos el coche al mismo punto de recogida acordado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Pontons.",
+  "commonIssuesIntro": "Averías típicas en BMW usados en carreteras de montaña como las del Alt Penedès interior.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido en frío por desgaste de Vanos, agravado por los cambios de temperatura de la zona de montaña."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las cuestas continuas de la C-15 exigen mucho al turbo en diésel de uso habitual."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El estirado de cadena se hace más evidente en arrancadas en frío tras las noches frías del interior."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Las pendientes marcadas pueden acentuar tirones si la caja no tiene el software actualizado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Revisamos con frecuencia el estado del líquido refrigerante por las exigencias de la zona de montaña."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida adaptada a carretera de montaña",
+      "body": "Sabemos organizar la logística en zonas de difícil acceso como Pontons."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Atención específica a frenos y suspensión",
+      "body": "Componentes clave para quien conduce a diario por curvas."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis con equipo original",
+      "body": "Precisión de concesionario sin bajar hasta Barcelona."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo y cercano",
+      "body": "Hablas con el técnico, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos BMW en Pontons y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Cubrimos Pontons y las masías dispersas de su término municipal, con conexión hacia Vilafranca del Penedès por la C-15.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Pontons?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay taller BMW en Pontons?",
+      "a": "No, el pueblo es demasiado pequeño; ofrecemos recogida hasta el taller de referencia de la comarca."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Podéis recoger en una masía alejada del núcleo?",
+      "a": "Sí, coordinamos un punto de encuentro accesible según la ubicación exacta."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Las carreteras de montaña afectan al mantenimiento?",
+      "a": "Sí, prestamos especial atención a frenos, suspensión y turbo por el tipo de uso."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Qué pasa si nieva o hay hielo el día de la recogida?",
+      "a": "Reprogramamos por seguridad y te avisamos con antelación."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con vehículos xDrive?",
+      "a": "Sí, es habitual en zonas de montaña y tenemos experiencia específica."
+    },
+    {
+      "q": "¿Cuánto tarda la recogida desde que llamo?",
+      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso."
     }
   ],
-  "closingHeadline": "Tu BMW en Pontons, en buenas manos",
-  "closingCta": "Si tienes un BMW en Pontons y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Mecánica BMW seria, aunque tu pueblo esté en plena montaña del Penedès",
+  "closingCta": "Llámanos y organizamos la recogida en Pontons.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Testimonios de vecinos de Pontons y el Penedès interior.",
+  "testimonials": [
+    {
+      "name": "Ramon Solsona",
+      "neighborhood": "Pontons",
+      "body": "Vivo en una masía a las afueras y aun así vinieron a buscar el coche sin problema.",
+      "rating": 5
+    },
+    {
+      "name": "Empar Vidal",
+      "neighborhood": "Pontons",
+      "body": "Los frenos del X1 estaban muy desgastados por las curvas y lo detectaron enseguida.",
+      "rating": 5
+    },
+    {
+      "name": "Bartomeu Nin",
+      "neighborhood": "Pontons",
+      "body": "Explicaron con paciencia por qué las cuestas afectan tanto al turbo. Se agradece la honestidad.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Nucli de Pontons",
+    "Zona de masies disperses",
+    "Entorn del Castell de Pontons",
+    "Límit amb el Baix Penedès"
+  ],
+  "zoneAccessRoutes": [
+    "C-15 hacia Vilafranca del Penedès",
+    "BV-2115 hacia Sant Quintí de Mediona",
+    "AP-7 vía Vilafranca hacia Barcelona"
+  ]
 }

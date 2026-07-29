@@ -6,9 +6,9 @@
   "population": 686986,
   "lat": 41.65606,
   "lng": -0.87734,
-  "metaTitle": "Taller BMW en Zaragoza | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Zaragoza. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Zaragoza y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Zaragoza | Especialistas, diagnosis ISTA",
+  "metaDescription": "Taller especializado en BMW en Zaragoza. Diagnosis ISTA original, mantenimiento, reparación de motor, turbo y caja ZF 8HP. Presupuesto sin compromiso.",
+  "heroSubtitle": "El taller BMW de referencia en Zaragoza",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,156 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Zaragoza, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Zaragoza te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Zaragoza, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Zaragoza, con más de medio millón de habitantes, es una de las ciudades con mayor densidad de tráfico y parque automovilístico de Aragón, con avenidas como el Paseo de la Independencia, la Z-30 y la conexión directa con la AP-2 y la A-2 marcando el ritmo de miles de desplazamientos diarios. En ese contexto, el BMW se ha consolidado como una de las marcas premium más presentes en la ciudad, tanto en particulares como en flotas de empresa.",
+    "Somos un taller especializado exclusivamente en la marca, con formación específica y equipo de diagnosis original ISTA, el mismo que emplea la red oficial. Trabajamos toda la gama, desde los compactos Serie 1 y 2 que circulan por el centro hasta los X5 y X6 habituales en barrios como Actur o Valdespartera.",
+    "El uso combinado de tráfico urbano denso y trayectos de autovía hacia Huesca, Teruel o Madrid genera averías muy específicas en los BMW zaragozanos: desgaste acelerado del turbo por los arranques y paradas constantes del centro, y problemas de caja automática ZF 8HP en los vehículos que hacen kilómetros largos con frecuencia.",
+    "Nuestro objetivo es dar diagnósticos precisos y honestos, evitando la sustitución de piezas por descarte que a veces se ve en talleres genéricos. Cada presupuesto se explica con la avería real detectada, con fotos y datos extraídos directamente del sistema de diagnosis.",
+    "Ya vengas del Actur, de Delicias, del Casco Histórico o de los polígonos industriales de Malpica y Cogullada, en Zaragoza tienes un taller BMW que combina la calidad de un servicio oficial con la cercanía y el precio de un especialista independiente."
+  ],
+  "servicesIntro": "Mantenimiento oficial, diagnosis ISTA, reparación de motor, transmisión, electrónica y climatización para toda la gama BMW.",
+  "processIntro": "Cinco pasos pensados para dar transparencia total, desde la primera llamada hasta la entrega del vehículo.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción detallada",
+      "body": "Recogemos el historial del vehículo y el síntoma exacto: cuándo aparece, con qué frecuencia y en qué condiciones de conducción por la ciudad o la autovía."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con ISTA",
+      "body": "Conectamos el equipo original BMW para leer todos los módulos electrónicos del coche, no solo el motor."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto desglosado",
+      "body": "Te llamamos con el diagnóstico exacto y el coste desglosado por pieza y mano de obra antes de intervenir."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con trazabilidad",
+      "body": "Ejecutamos el trabajo respetando los pares de apriete y procedimientos oficiales, documentando cada paso."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba dinámica y entrega",
+      "body": "Probamos el coche en carretera real, incluyendo tramo de Z-30 si el diagnóstico lo requiere, antes de devolverlo con garantía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Zaragoza.",
+  "commonIssuesIntro": "Las averías más frecuentes en los BMW que revisamos en Zaragoza.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ralentí irregular y pérdida de par en motores de gasolina de la Serie 1, 3 y 5, muy habitual a partir de los 120.000 km en coches de uso urbano intenso."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con fugas de admisión",
+      "body": "En diésel 320d y 520d detectamos con frecuencia manguitos de admisión deteriorados, agravados por los arranques y paradas constantes del centro de Zaragoza."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución (motores N47)",
+      "body": "Silbido metálico en frío que indica desgaste del tensor de cadena; conviene revisarlo antes de que afecte a la sincronización de válvulas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP",
+      "body": "Tirones al pasar de segunda a tercera con la caja caliente, casi siempre solucionable con un servicio completo de aceite y filtro específico ZF, muy habitual en coches con trayectos frecuentes a Huesca o Madrid."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Sobrecalentamiento en atascos de verano por fallo de electroventilador o bomba de agua eléctrica, especialmente con las altas temperaturas del Valle del Ebro."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos en BMW",
+      "body": "No trabajamos multimarca: todo nuestro equipo y herramientas están orientados a un solo fabricante."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis original ISTA",
+      "body": "El mismo sistema que emplea la red oficial, con acceso a todos los módulos del vehículo."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado y por escrito",
+      "body": "Nunca se hace nada sin tu aprobación previa; el precio aprobado es el precio final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Coche de sustitución disponible",
+      "body": "Para reparaciones de más de un día, resolvemos tu movilidad mientras trabajamos en tu BMW."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ubicación estratégica en la ciudad",
+      "body": "Fácil acceso desde el centro y los principales barrios, con salida directa a la Z-30 y la AP-2."
     }
   ],
-  "zoneText": "Atendemos BMW en Zaragoza y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos toda Zaragoza y su área metropolitana, con acceso directo desde la Z-30, la AP-2 y la A-2.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Zaragoza?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Sois taller oficial BMW en Zaragoza?",
+      "a": "Somos un taller especializado independiente, no concesionario oficial, pero usamos el mismo sistema de diagnosis ISTA y seguimos los procedimientos del fabricante."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Se mantiene la garantía de fábrica si vengo aquí?",
+      "a": "Sí, la normativa europea permite hacer el mantenimiento en talleres independientes cualificados sin perder la garantía, siempre que se use recambio homologado."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda una reparación de turbo?",
+      "a": "Depende de la pieza; normalmente entre uno y dos días si el recambio está disponible en almacén."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con vehículos de empresa de los polígonos de Malpica o Cogullada?",
+      "a": "Sí, atendemos flotas pequeñas y autónomos con condiciones adaptadas a su volumen de uso."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo esperar mientras hacéis la diagnosis?",
+      "a": "Sí, tenemos sala de espera, aunque para reparaciones recomendamos dejar el coche y recogerlo más tarde."
+    },
+    {
+      "q": "¿Aceptáis coches con caja ZF 8HP?",
+      "a": "Sí, es una de las cajas que más revisamos, tanto para mantenimiento preventivo como para averías."
+    },
+    {
+      "q": "¿Hacéis mantenimiento antes de la ITV?",
+      "a": "Sí, revisamos los puntos que suelen dar problemas antes de pasar la inspección técnica en Zaragoza."
     }
   ],
-  "closingHeadline": "Tu BMW en Zaragoza, en buenas manos",
-  "closingCta": "Si tienes un BMW en Zaragoza y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW de Zaragoza, a tu servicio",
+  "closingCta": "Solicita diagnosis y presupuesto para tu BMW en Zaragoza",
+  "testimonialsIntro": "La opinión de nuestros clientes de Zaragoza.",
+  "testimonials": [
+    {
+      "name": "Fernando Aznar",
+      "neighborhood": "Actur, Zaragoza",
+      "body": "Llevé mi X5 con un problema de turbo que en otro taller no supieron localizar. Aquí lo diagnosticaron con precisión en menos de una hora y me lo explicaron con fotos.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel Marín",
+      "neighborhood": "Delicias, Zaragoza",
+      "body": "Cambié el aceite de la caja ZF y desaparecieron los tirones que llevaba meses notando en el centro. Precio justo y factura clara.",
+      "rating": 5
+    },
+    {
+      "name": "Jesús Aranda",
+      "neighborhood": "Valdespartera, Zaragoza",
+      "body": "Trato cercano y honesto, sin venderme reparaciones que no necesitaba. Es mi taller de confianza desde hace más de dos años.",
+      "rating": 5
+    },
+    {
+      "name": "Beatriz Loriente",
+      "neighborhood": "Casco Histórico, Zaragoza",
+      "body": "Buena comunicación durante todo el proceso, con presupuesto detallado antes de aprobar la reparación del turbo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centro / Casco Histórico",
+    "Delicias",
+    "Actur-Rey Fernando",
+    "Valdespartera",
+    "Universidad",
+    "Las Fuentes",
+    "San José",
+    "Torrero-La Paz"
+  ],
+  "zoneAccessRoutes": [
+    "Z-30 (Ronda de Zaragoza)",
+    "AP-2 hacia Huesca/Barcelona",
+    "A-2 hacia Madrid",
+    "A-23 hacia Teruel"
+  ]
 }

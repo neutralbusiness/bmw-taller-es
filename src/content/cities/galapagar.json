@@ -6,9 +6,9 @@
   "population": 31820,
   "lat": 40.5783,
   "lng": -4.00426,
-  "metaTitle": "Taller BMW en Galapagar | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Galapagar. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Galapagar y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Galapagar | Diagnosis oficial y garantía",
+  "metaDescription": "Taller BMW especializado en Galapagar, Sierra de Guadarrama. Mantenimiento, turbo, Valvetronic, caja ZF y diagnosis original. Presupuesto sin compromiso.",
+  "heroSubtitle": "Taller BMW en Galapagar, uno de los municipios con más BMW de la Sierra de Guadarrama",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Galapagar: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Galapagar te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Galapagar, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Galapagar, con más de 34.000 habitantes, es uno de los municipios más poblados de la Sierra de Guadarrama y un núcleo residencial de alto poder adquisitivo, con buena conexión hacia Madrid por la M-505 y la M-600. Esa combinación de renta y cercanía a la sierra se traduce en un parque BMW muy amplio, con presencia notable de X3, X5 y Series 5 en las numerosas urbanizaciones del municipio, junto a Series 1 y 3 entre quienes se desplazan a diario a Madrid.\n\nEl uso mixto entre carreteras de sierra con curvas y desniveles, y trayectos de autovía hacia la capital, genera un desgaste particular en suspensión, frenos y sistemas de tracción total. Trabajamos con diagnosis original BMW y con experiencia específica en sistemas xDrive, muy presentes en los X3 y X5 de la zona.\n\nNuestro taller atiende tanto a residentes de las urbanizaciones de la parte alta del municipio como a quienes viven en el núcleo urbano, con presupuestos siempre cerrados y garantía por escrito en cada reparación.",
+  "servicesIntro": "Mantenimiento integral, motor, electrónica, tracción total y caja automática para BMW en Galapagar.",
+  "processIntro": "Un proceso claro, adaptado a un municipio con un parque BMW especialmente amplio.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reserva online o telefónica indicando el motivo de la visita."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis oficial",
+      "body": "Escaneo completo de centralitas con equipo original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Desglose claro de piezas y mano de obra antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Piezas homologadas y trazabilidad completa de la intervención."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de carretera",
+      "body": "Verificación en condiciones reales, incluidas carreteras de sierra, antes de la entrega."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Galapagar.",
+  "commonIssuesIntro": "Las averías más frecuentes en los BMW de Galapagar.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí irregular y pérdida de par en bajas revoluciones, habitual en motores con kilometraje alto."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las cuestas de la sierra exigen mucho al turbo; revisamos fugas y presión con frecuencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El repiqueteo en frío anticipa un estiramiento que conviene revisar cuanto antes."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar de marcha que suelen resolverse con mantenimiento específico de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sistema xDrive",
+      "body": "En X3 y X5, revisamos diferenciales y transfer, sometidos a mayor exigencia en carreteras de sierra."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Experiencia en tracción total",
+      "body": "Especialistas en sistemas xDrive de X3, X5 y Series con tracción integral."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis oficial",
+      "body": "Mismo software que la red BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Conocemos la sierra",
+      "body": "Sabemos cómo afecta el uso mixto sierra-autovía al desgaste del vehículo."
     }
   ],
-  "zoneText": "Atendemos BMW en Galapagar y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Galapagar y sus numerosas urbanizaciones, con clientes habituales de Los Peñascales y Monteclaro que combinan uso urbano y de sierra.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Galapagar?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con sistemas de tracción total xDrive?",
+      "a": "Sí, es una de nuestras especialidades dado el número de X3 y X5 en Galapagar."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con BMW Serie 5 de gama alta?",
+      "a": "Sí, incluidos modelos con suspensión adaptativa y equipamiento avanzado."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche fuera de horario?",
+      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un diagnóstico completo?",
+      "a": "Con el equipo oficial, normalmente menos de una hora."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Hacéis revisión de suspensión adaptativa?",
+      "a": "Sí, incluida la calibración de los sistemas neumáticos de los modelos más recientes."
+    },
+    {
+      "q": "¿Tenéis coche de sustitución?",
+      "a": "Disponemos de unidades limitadas; conviene reservarlo al pedir cita."
+    },
+    {
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
     }
   ],
-  "closingHeadline": "Tu BMW en Galapagar, en buenas manos",
-  "closingCta": "Si tienes un BMW en Galapagar y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Especialistas BMW en el corazón residencial de la Sierra de Guadarrama",
+  "closingCta": "Pide cita en Galapagar y confía tu BMW a manos expertas.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,43 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Galapagar.",
+  "testimonials": [
+    {
+      "name": "Íñigo A.",
+      "neighborhood": "Galapagar centro",
+      "body": "Revisión completa del sistema xDrive de mi X5, quedó como nuevo. Muy buena explicación técnica.",
+      "rating": 5
+    },
+    {
+      "name": "Elena B.",
+      "neighborhood": "Los Peñascales",
+      "body": "Diagnóstico rápido de un problema de turbo. Presupuesto justo y sin sorpresas.",
+      "rating": 5
+    },
+    {
+      "name": "Rodrigo H.",
+      "neighborhood": "Monteclaro",
+      "body": "Muy profesionales con la reparación de la caja ZF. Vuelve a cambiar suave.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía T.",
+      "neighborhood": "Galapagar",
+      "body": "Llevo dos coches distintos aquí. Siempre presupuesto claro y trato cercano.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Galapagar centro",
+    "Los Peñascales",
+    "Monteclaro",
+    "Puerto de la Cruz Verde"
+  ],
+  "zoneAccessRoutes": [
+    "M-505 hacia Villanueva del Pardillo",
+    "M-600 hacia Collado Villalba",
+    "M-618 hacia Torrelodones"
+  ]
 }

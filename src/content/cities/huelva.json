@@ -6,9 +6,9 @@
   "population": 144258,
   "lat": 37.26638,
   "lng": -6.94004,
-  "metaTitle": "Taller BMW en Huelva | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Huelva. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Huelva y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Huelva | Especialistas certificados en la marca",
+  "metaDescription": "Taller BMW en Huelva especializado en diagnosis original, motor, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado y garantía por escrito en cada reparación.",
+  "heroSubtitle": "Especialistas en BMW en Huelva capital, entre el Odiel y la costa",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,148 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Huelva — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Huelva te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Huelva, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Huelva combina un clima costero muy húmedo con temperaturas altas buena parte del año, una mezcla que afecta especialmente a los sistemas de refrigeración y a los conectores eléctricos de los BMW que vemos en el taller. La cercanía al polo químico también añade un factor de corrosión ambiental que no se da en el interior de Andalucía.\n\nEl tráfico de la capital, junto con los trayectos frecuentes hacia la playa o hacia el Algarve portugués por la A-49, hace que muchos coches combinen uso urbano intenso con autovía, un patrón que desgasta de forma particular el turbo y la caja de cambios automática en los modelos diésel más veteranos.\n\nSomos un taller especializado exclusivamente en BMW, con diagnosis original y experiencia concreta en las averías típicas de un clima costero como el onubense. No compartimos taller con otras marcas, lo que nos permite mantener un nivel de precisión que un multimarca difícilmente iguala.\n\nRecibimos clientes de Huelva capital y también de Punta Umbría, Aljaraque o San Juan del Puerto, muchos de los cuales prefieren desplazarse antes que arriesgarse con un diagnóstico impreciso en su BMW.",
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación de motor y caja, con foco exclusivo en BMW.",
+  "processIntro": "Nuestro proceso de trabajo con cada vehículo que entra al taller.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del cliente",
+      "body": "Antes de conectar nada, te preguntamos qué has notado y en qué condiciones se repite el fallo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo original",
+      "body": "Escaneamos todos los módulos electrónicos con el software oficial de BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos el problema con claridad y damos un coste cerrado antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación documentada",
+      "body": "Registramos cada pieza montada, con su referencia exacta."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final en carretera",
+      "body": "Probamos el coche en condiciones reales antes de entregarlo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Huelva.",
+  "commonIssuesIntro": "Averías frecuentes en BMW en un entorno costero y húmedo como Huelva.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic afectada por humedad",
+      "body": "La humedad ambiental acelera el fallo de conectores del sistema Valvetronic en motores de gasolina."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo fatigado por autovía",
+      "body": "El uso frecuente en la A-49 adelanta el desgaste del turbo en diésel con muchos kilómetros."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución ruidosa",
+      "body": "Ruido metálico en frío, frecuente en motores N47 sin revisión preventiva."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos que se resuelven con un cambio correcto del aceite de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Corrosión en sensores de refrigeración",
+      "body": "El ambiente húmedo y salino acelera el fallo de sensores de temperatura y bomba de agua."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos en BMW",
+      "body": "Todo el conocimiento técnico del taller está centrado en una sola marca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Experiencia en clima costero",
+      "body": "Conocemos bien los problemas que provoca la humedad y la salinidad en los sistemas del coche."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "El precio pactado es el que se cobra al final, sin sorpresas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Diagnosis con equipo original",
+      "body": "El mismo software que usa la red oficial de la marca."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "Cada reparación incluye garantía por escrito de pieza y mano de obra."
     }
   ],
-  "zoneText": "Atendemos BMW en Huelva y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Huelva capital y a los municipios de la costa cercana, con acceso rápido desde la A-49.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Huelva?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Notáis diferencia en los coches por el clima costero?",
+      "a": "Sí, la humedad y la sal aceleran el desgaste de conectores y sensores, algo que revisamos con atención especial."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atendéis clientes de Punta Umbría o Aljaraque?",
+      "a": "Con frecuencia, muchos vecinos de la costa prefieren desplazarse a un especialista exclusivo en BMW."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Normalmente entre una y dos horas, dependiendo de la complejidad del fallo."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche varios días?",
+      "a": "Sí, disponemos de espacio para custodiarlo mientras dure la reparación."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con seguros para partes de avería?",
+      "a": "Podemos emitir el informe técnico necesario para tramitarlo con tu compañía."
+    },
+    {
+      "q": "¿Hacéis revisión antes de comprar un BMW de segunda mano?",
+      "a": "Sí, es un servicio habitual antes de cerrar una compra."
+    },
+    {
+      "q": "¿Dais garantía por escrito?",
+      "a": "Siempre, cada reparación se entrega con documento de garantía firmado."
     }
   ],
-  "closingHeadline": "Tu BMW en Huelva, en buenas manos",
-  "closingCta": "Si tienes un BMW en Huelva y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Cuida tu BMW como se merece en la costa onubense",
+  "closingCta": "Pide cita en nuestro taller de Huelva",
+  "testimonialsIntro": "Clientes de Huelva capital y su área metropolitana.",
+  "testimonials": [
+    {
+      "name": "José Manuel Vázquez",
+      "neighborhood": "El Carmen",
+      "body": "Fallo eléctrico intermitente que llevaba meses sin solución en otro taller, aquí lo encontraron en un día.",
+      "rating": 5
+    },
+    {
+      "name": "Ana Belén Cortés",
+      "neighborhood": "La Orden",
+      "body": "Cambio de turbo en mi 320d, presupuesto claro desde el principio y sin coste añadido al recogerlo.",
+      "rating": 5
+    },
+    {
+      "name": "Manuel Domínguez",
+      "neighborhood": "Pescadería",
+      "body": "Vengo desde Punta Umbría porque aquí realmente entienden de BMW, se nota en la explicación técnica.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío Gómez",
+      "neighborhood": "Los Rosales",
+      "body": "Diagnóstico correcto de un problema de refrigeración antes de que fuera a mayores, muy agradecida.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Carmen",
+    "La Orden",
+    "Pescadería",
+    "Los Rosales",
+    "Huerta Mena",
+    "Centro"
+  ],
+  "zoneAccessRoutes": [
+    "A-49 dirección Sevilla",
+    "A-497 hacia Punta Umbría",
+    "N-435 desde Portugal",
+    "H-30 ronda de circunvalación"
+  ]
 }

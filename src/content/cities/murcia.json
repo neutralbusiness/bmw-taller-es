@@ -6,9 +6,9 @@
   "population": 471982,
   "lat": 37.98704,
   "lng": -1.13004,
-  "metaTitle": "Taller BMW en Murcia | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Murcia. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Murcia y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Murcia | Especialistas en mecánica BMW",
+  "metaDescription": "Taller especializado en BMW en Murcia capital. Diagnóstico ISTA, motor, turbo, cajas ZF y electrónica. Presupuesto cerrado y garantía por escrito. Pide cita.",
+  "heroSubtitle": "El taller BMW de Murcia para quien no quiere depender del concesionario ni de un multimarca.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,155 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Murcia, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Murcia te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Murcia, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Murcia es una ciudad con un parque de BMW enorme y muy variado: desde los diésel de la generación E90 que todavía circulan a diario por la Gran Vía y la Ronda de Levante, hasta los X3 y X5 más recientes que se ven cada vez más en barrios como El Carmen, Vistabella o La Alberca. Con ese volumen, tener un taller que solo trabaje BMW marca la diferencia frente a un multimarca genérico.",
+    "El calor murciano, sobre todo en verano, es un factor real en la mecánica: los sistemas de refrigeración sufren más aquí que en ciudades del norte, y lo notamos en el número de bombas de agua eléctricas y termostatos que reparamos cada temporada. También es habitual recibir coches con el aire acondicionado forzado al máximo durante meses, lo que acelera el desgaste de componentes que en otras zonas duran mucho más.",
+    "Trabajamos tanto con particulares de Murcia capital como con conductores de Espinardo, Puente Tocinos o Cabezo de Torres que cruzan la ciudad para traernos el coche, muchos de ellos recomendados por otro cliente. La proximidad a la Universidad y a los polígonos industriales de la zona también nos trae bastantes BMW de empresa y de renting, con kilometrajes altos y necesidades de mantenimiento programado serias.",
+    "Contamos con equipo de diagnóstico específico BMW, elevadores adaptados y un equipo que se forma en la marca de forma continua, algo que en una ciudad del tamaño de Murcia se agradece: aquí no faltan talleres, pero sí faltan talleres que conozcan de verdad el Vanos, la Valvetronic o la caja ZF 8HP por dentro."
+  ],
+  "servicesIntro": "Diagnóstico avanzado, motor, turbo, transmisión, electrónica, climatización y mantenimiento programado para todos los modelos BMW en Murcia.",
+  "processIntro": "El proceso que seguimos con cada BMW que entra en el taller de Murcia, sin prisas y sin sorpresas en la factura.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del problema",
+      "body": "Antes de conectar ningún equipo, escuchamos cómo describes el problema: cuándo aparece, en qué situaciones, si hay ruidos o testigos encendidos. Esa información nos ahorra horas de diagnóstico en Murcia."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico electrónico completo",
+      "body": "Escaneamos todos los módulos del vehículo con herramientas de nivel concesionario para descartar fallos ocultos que un lector genérico no detecta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación cara a cara",
+      "body": "Te enseñamos en el propio taller lo que hemos encontrado, con fotos si hace falta, antes de autorizar ningún trabajo."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución por especialistas en BMW",
+      "body": "La reparación la realiza un mecánico formado específicamente en la marca, no un generalista. Eso marca la diferencia en Vanos, ZF 8HP o Valvetronic."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Control de calidad y entrega",
+      "body": "Revisamos pares de apriete, borramos memorias de avería, comprobamos que no queden testigos y te devolvemos el coche limpio y con garantía por escrito."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Murcia.",
+  "commonIssuesIntro": "Las averías más habituales que vemos en los BMW de Murcia, acentuadas en muchos casos por el calor y el uso urbano intenso.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Cuando el motor pierde fuerza a bajas revoluciones o suena como una cadena de bicicleta al ralentí, sospechamos primero del Vanos. La solución no siempre es cambiarlo entero: a veces basta con la junta o el sensor."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sistema de sobrealimentación",
+      "body": "Un turbo que no da la presión esperada puede deberse simplemente a un manguito de admisión con una grieta, mucho antes de plantearse cambiar el turbo completo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Alargamiento de la cadena de distribución",
+      "body": "El kit de distribución (cadena, guías y tensor) se desgasta antes de lo que muchos propietarios creen, especialmente en motores diésel con mucho kilometraje urbano."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP",
+      "body": "El mantenimiento cada 60.000-80.000 km del aceite de la ZF 8HP evita la mayoría de averías graves de esta caja, que de otro modo puede acabar necesitando una reparación completa."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de motor",
+      "body": "Fallos de sensores mal diagnosticados llevan a cambiar piezas caras sin necesidad. Nuestro diagnóstico busca siempre el sensor exacto antes de tocar nada más, incluida la sonda de temperatura del líquido refrigerante."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Mecánicos formados en BMW",
+      "body": "Nuestro personal se forma específicamente en la electrónica y mecánica de BMW, no en cursos genéricos de multimarca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Instalaciones equipadas",
+      "body": "Elevadores, herramienta específica de par y software de programación adaptados a cada generación de BMW, de la Serie 3 E90 al X5 G05."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Sin letra pequeña",
+      "body": "El presupuesto incluye pieza, mano de obra e IVA. Lo que ves es lo que pagas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Revisión previa a la entrega",
+      "body": "Antes de devolverte el coche hacemos una comprobación final para asegurarnos de que no queda ningún testigo pendiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cercanía y confianza en Murcia",
+      "body": "Muchos clientes llegan recomendados por otro cliente de Murcia. El boca a boca en un taller especializado se gana, no se compra."
     }
   ],
-  "zoneText": "Atendemos BMW en Murcia y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a toda Murcia capital y su área metropolitana, desde el centro histórico junto a la Catedral hasta las pedanías más alejadas de la huerta.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Murcia?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con BMW de renting o de empresa?",
+      "a": "Sí, es habitual en Murcia y adaptamos el mantenimiento programado a las condiciones del contrato de renting cuando se puede."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tarda un diagnóstico completo?",
+      "a": "Normalmente entre 1 y 2 horas, según la complejidad del síntoma."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Revisáis el aire acondicionado en verano con más frecuencia?",
+      "a": "Sí, en Murcia recomendamos revisarlo cada año dado el uso intensivo por el calor."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo traer el coche sin cita?",
+      "a": "Preferimos cita previa para no hacerte esperar, pero atendemos urgencias según disponibilidad."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais garantía por escrito?",
+      "a": "Sí, en todas las reparaciones realizadas en el taller."
+    },
+    {
+      "q": "¿Trabajáis con BMW híbridos o eléctricos como el i4 o el iX?",
+      "a": "Sí, tenemos equipo y formación para la gama electrificada de BMW."
+    },
+    {
+      "q": "¿Aceptáis vehículos de fuera de Murcia capital?",
+      "a": "Por supuesto, recibimos coches de toda la Región de Murcia."
     }
   ],
-  "closingHeadline": "Tu BMW en Murcia, en buenas manos",
-  "closingCta": "Si tienes un BMW en Murcia y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Murcia necesitaba",
+  "closingCta": "Pide cita y trae tu BMW al único taller de la ciudad centrado exclusivamente en la marca.",
+  "testimonialsIntro": "Clientes de distintos barrios de Murcia cuentan su experiencia con nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Antonio Belmonte",
+      "neighborhood": "El Carmen, Murcia",
+      "body": "Llevo el X3 desde hace tres años y por fin encontré un taller que no me manda al concesionario cada vez que hay un fallo raro en el cuadro.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío Ibáñez",
+      "neighborhood": "Vistabella, Murcia",
+      "body": "El aire acondicionado del Serie 1 llevaba fallando meses. Encontraron la fuga en la primera revisión y no me sablearon.",
+      "rating": 5
+    },
+    {
+      "name": "Fulgencio Cano",
+      "neighborhood": "Puente Tocinos, Murcia",
+      "body": "Diagnóstico serio del turbo en el 320d, con explicación clara de por qué no hacía falta cambiarlo entero.",
+      "rating": 5
+    },
+    {
+      "name": "Nieves Sandoval",
+      "neighborhood": "Espinardo, Murcia",
+      "body": "Compré un X5 de segunda mano y me hicieron una revisión completa antes de fiarme del coche. Se lo agradezco mucho.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Carmen",
+    "La Alberca",
+    "Espinardo",
+    "Vistabella",
+    "Puente Tocinos",
+    "Cabezo de Torres",
+    "Santiago el Mayor",
+    "Zarandona"
+  ],
+  "zoneAccessRoutes": [
+    "Autovía A-30",
+    "Autovía A-7",
+    "Ronda de Levante",
+    "Ronda Sur"
+  ]
 }

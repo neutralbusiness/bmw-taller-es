@@ -6,9 +6,9 @@
   "population": 8701,
   "lat": 40.23284,
   "lng": -3.9873,
-  "metaTitle": "Taller BMW en El Álamo | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en El Álamo. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en El Álamo y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en El Álamo | Madrid suroeste",
+  "metaDescription": "Taller BMW especializado cerca de El Álamo, junto a Navalcarnero. Diagnóstico ISTA, presupuesto cerrado y mecánicos formados en la marca.",
+  "heroSubtitle": "El taller BMW de confianza para El Álamo y el eje de Navalcarnero.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en El Álamo — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en El Álamo te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en El Álamo, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "El Álamo es un municipio de poco más de 10.000 habitantes en el suroeste de la Comunidad de Madrid, pegado a Navalcarnero y bien conectado con la M-506. Ha crecido bastante en la última década gracias a urbanizaciones de chalets y viviendas unifamiliares, un perfil de propietario que suele tener un X3, X1 o Serie 3 como coche familiar principal para moverse hasta Madrid capital o Móstoles a diario.\n\nAl ser una zona semi-rural con poco tráfico urbano pero mucha carretera de conexión, los BMW que recibimos de El Álamo suelen presentar un desgaste típico de autovía: neumáticos, embrague en menor medida que en ciudad, y frenos por las curvas de la M-506 hacia Navalcarnero. También es frecuente revisar la suspensión en coches que combinan asfalto con algún camino de acceso a parcela.\n\nDamos servicio tanto a quien puede acercarse directamente al taller como a quien prefiere que recojamos el vehículo en su urbanización, algo habitual entre los residentes de las zonas más alejadas del núcleo urbano de El Álamo.",
+  "servicesIntro": "Mantenimiento y reparación BMW para el perfil de coche familiar y de conexión a Madrid típico de la zona.",
+  "processIntro": "Un proceso claro, adaptado a quien usa el coche a diario para llegar hasta Madrid o Navalcarnero.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Revisamos todos los módulos electrónicos con el sistema oficial de BMW."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Confirmamos el precio final antes de iniciar cualquier reparación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Autorización del cliente",
+      "body": "No tocamos nada sin tu aprobación explícita."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación por técnicos BMW",
+      "body": "Mecánicos formados en la marca se encargan del vehículo con las herramientas adecuadas."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y prueba de carretera",
+      "body": "Probamos el coche, incluido un tramo de M-506, antes de devolvértelo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por El Álamo.",
+  "commonIssuesIntro": "Averías que vemos con frecuencia en BMW de la zona de El Álamo y Navalcarnero.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Desgaste de neumáticos y suspensión",
+      "body": "El paso de asfalto a caminos de parcela en urbanizaciones desgasta antes casquillos y neumáticos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Frenos en curvas de carretera",
+      "body": "El trazado de la M-506 hacia Navalcarnero exige buen estado de frenos, algo que revisamos con atención."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Vanos y Valvetronic",
+      "body": "Ralentí irregular y pérdida de potencia por desgaste de estas unidades en motores de gasolina."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones en el cambio por falta de mantenimiento de aceite de caja, habitual en coches con muchos km de autovía."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Turbo diésel",
+      "body": "Vigilamos el turbo en coches que hacen trayectos largos a Madrid a diario."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Cerca de la M-506",
+      "body": "Acceso rápido desde El Álamo y Navalcarnero."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Formación específica en BMW",
+      "body": "Solo trabajamos con esta marca y su mecánica particular."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnóstico ISTA oficial",
+      "body": "El mismo sistema que emplea un concesionario BMW."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Precio confirmado antes de empezar, sin cambios de última hora."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Recogida en urbanizaciones",
+      "body": "Coordinamos recogida para quien vive en zonas alejadas del núcleo urbano."
     }
   ],
-  "zoneText": "Atendemos BMW en El Álamo y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos El Álamo, Navalcarnero y los municipios cercanos del suroeste de Madrid, con recogida disponible en urbanizaciones.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en El Álamo?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en urbanizaciones a las afueras de El Álamo?",
+      "a": "Sí, coordinamos recogida en la mayoría de urbanizaciones de la zona."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con coches con muchos km de autovía a Madrid?",
+      "a": "Sí, es el perfil más habitual que recibimos de esta zona."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Hacéis revisión previa a la ITV?",
+      "a": "Sí, revisamos los puntos habituales de rechazo antes de la inspección."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un diagnóstico ISTA?",
+      "a": "Normalmente entre 30 y 60 minutos."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo dejar el coche por la mañana y recogerlo por la tarde?",
+      "a": "Depende de la avería, pero en revisiones y mantenimiento suele ser posible."
+    },
+    {
+      "q": "¿Trabajáis con seguros de vehículo?",
+      "a": "Sí, gestionamos partes con las principales compañías."
     }
   ],
-  "closingHeadline": "Tu BMW en El Álamo, en buenas manos",
-  "closingCta": "Si tienes un BMW en El Álamo y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Taller BMW de confianza junto a Navalcarnero",
+  "closingCta": "Pide cita desde El Álamo y evita el desplazamiento hasta Madrid capital.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de propietarios de El Álamo y Navalcarnero.",
+  "testimonials": [
+    {
+      "name": "Rubén Alcázar",
+      "neighborhood": "El Álamo",
+      "body": "Vivo en una urbanización a las afueras y me recogieron el coche sin problema. Diagnóstico claro para mi X1.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia Núñez",
+      "neighborhood": "Navalcarnero",
+      "body": "Presupuesto cerrado real, sin sustos al final. Muy contenta con el trato en mi Serie 3.",
+      "rating": 5
+    },
+    {
+      "name": "Sergio Bravo",
+      "neighborhood": "El Álamo",
+      "body": "Cambio de aceite de caja en mi X3 y quedó perfecto. Explican todo muy bien.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Álamo",
+    "Navalcarnero",
+    "Villamanta",
+    "Batres"
+  ],
+  "zoneAccessRoutes": [
+    "M-506",
+    "M-507",
+    "A-5"
+  ]
 }

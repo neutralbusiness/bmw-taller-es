@@ -6,9 +6,9 @@
   "population": 185357,
   "lat": 43.31283,
   "lng": -1.97499,
-  "metaTitle": "Taller BMW en Donostia / San Sebastián | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Donostia / San Sebastián. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Donostia / San Sebastián y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en San Sebastián | Especialistas en Donostia-Gipuzkoa",
+  "metaDescription": "Taller especializado en BMW en San Sebastián. Diagnosis oficial, mantenimiento y reparación de motor, turbo y caja ZF. Atendemos toda Gipuzkoa.",
+  "heroSubtitle": "El taller BMW de Donostia, entre la costa y la montaña",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,150 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Donostia / San Sebastián: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Donostia / San Sebastián te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Donostia / San Sebastián, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "San Sebastián reúne dos factores que condicionan mucho el estado de un BMW: la humedad constante del Cantábrico y un relieve urbano con cuestas pronunciadas entre barrios como Amara, Antiguo o Egia. La combinación de sal marina en el ambiente y frenadas repetidas en pendiente hace que veamos corrosión en componentes de frenos y suspensión antes de lo que sería normal en una ciudad de llano.\n\nLa ciudad tiene, además, un parque de BMW considerable: desde compactos Serie 1 y 2 usados a diario para moverse por el centro, hasta X3 y X5 de quienes viven en las zonas altas o en municipios cercanos como Hernani, Astigarraga o Usurbil y necesitan tracción y comportamiento seguro en carreteras de curvas y firme mojado buena parte del año.\n\nTambién es habitual el propietario que hace trayectos frecuentes hacia Francia por la AP-8 o hacia Vitoria y Pamplona, lo que añade un componente de autovía a un uso que de otro modo sería puramente urbano. Ese perfil mixto —cuesta, humedad, algo de autovía— es el que tratamos de anticipar en cada revisión.\n\nTrabajamos con el software de diagnosis oficial de BMW, algo que en Gipuzkoa no todos los talleres generalistas ofrecen, y eso nos permite resolver averías electrónicas con la misma precisión que un concesionario, pero con trato más cercano y sin la lista de espera habitual de la marca.",
+  "servicesIntro": "Mantenimiento programado, diagnosis electrónica, reparación de motor y caja, y revisión específica de sistemas anticorrosión.",
+  "processIntro": "Un proceso adaptado al clima húmedo y al relieve de la ciudad.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y valoración inicial",
+      "body": "Revisamos el vehículo por fuera antes incluso de conectar el diagnóstico, prestando atención a corrosión en bajos y frenos."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Leemos todos los módulos electrónicos para identificar el origen exacto de cualquier avería."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos qué hemos encontrado y las opciones de reparación disponibles."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con piezas adecuadas",
+      "body": "Priorizamos componentes con buen tratamiento anticorrosión dado el clima de la zona."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba en carretera y entrega",
+      "body": "Probamos el coche en cuesta y en llano antes de devolverlo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Donostia / San Sebastián.",
+  "commonIssuesIntro": "Averías que vemos con más frecuencia en BMW de San Sebastián y Gipuzkoa.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El ruido de arranque en frío por desgaste de Vanos es habitual, agravado por la humedad ambiental constante."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Los trayectos de cuesta urbana exigen más al turbo, con actuadores que se agarrotan antes de lo esperado."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "En N47 y N20 recomendamos revisión preventiva antes de que el alargamiento de cadena dé problemas mayores."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Las cuestas urbanas y las frenadas en pendiente generan tirones que casi siempre mejoran con el aceite específico de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "La humedad constante acelera la corrosión de tapones y conexiones del circuito de refrigeración."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnosis oficial BMW",
+      "body": "Identificamos el fallo real, no solo apagamos el testigo del cuadro."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Experiencia con clima húmedo y relieve urbano",
+      "body": "Sabemos qué revisar antes en un coche que vive entre cuestas y salitre."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado y explicado",
+      "body": "Sin sorpresas en la factura final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Atendemos toda Gipuzkoa",
+      "body": "No solo Donostia: recibimos clientes de Hernani, Astigarraga, Usurbil y más."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Piezas originales o equivalentes OEM",
+      "body": "Tú decides el nivel según antigüedad y uso real del vehículo."
     }
   ],
-  "zoneText": "Atendemos BMW en Donostia / San Sebastián y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "San Sebastián combina un centro urbano con cuestas pronunciadas hacia barrios como Antiguo o Aiete, clima húmedo todo el año por su ubicación costera, y buena conexión hacia Francia por la AP-8 y hacia el interior de Gipuzkoa por la A-15 y la N-1. Este entorno condiciona directamente el tipo de mantenimiento que recomendamos.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Donostia / San Sebastián?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con vehículos xDrive habituales en la zona?",
+      "a": "Sí, es de los sistemas más comunes en Gipuzkoa por el terreno y el clima, y tenemos experiencia específica con ellos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Revisáis la corrosión en frenos y bajos?",
+      "a": "Sí, es una revisión prioritaria dado el clima húmedo de la costa, que acelera este tipo de desgaste."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Atendéis clientes de Hernani, Astigarraga o Usurbil?",
+      "a": "Sí, recibimos habitualmente vehículos de toda la comarca de Donostialdea."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Tenéis diagnosis oficial BMW?",
+      "a": "Sí, usamos el software de diagnosis de la marca para todos los módulos del vehículo."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Siempre, no iniciamos ningún trabajo sin tu aprobación expresa del presupuesto."
+    },
+    {
+      "q": "¿Trabajáis con híbridos enchufables como el 330e?",
+      "a": "Sí, contamos con formación y herramientas específicas para la gama híbrida de BMW."
+    },
+    {
+      "q": "¿Puedo dejar el coche y volver en transporte público?",
+      "a": "Sí, estamos bien conectados con el centro de Donostia para facilitarlo."
     }
   ],
-  "closingHeadline": "Tu BMW en Donostia / San Sebastián, en buenas manos",
-  "closingCta": "Si tienes un BMW en Donostia / San Sebastián y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Donostia necesitaba",
+  "closingCta": "Reserva tu cita en San Sebastián",
+  "testimonialsIntro": "Opiniones de clientes de San Sebastián y alrededores.",
+  "testimonials": [
+    {
+      "name": "Jon A.",
+      "neighborhood": "Amara",
+      "body": "Los frenos de mi X3 se corroyeron antes de lo normal por la humedad. Aquí me explicaron por qué pasa aquí y qué pieza aguanta mejor.",
+      "rating": 5
+    },
+    {
+      "name": "Miren U.",
+      "neighborhood": "Antiguo",
+      "body": "El 320d tenía tirones en la caja automática subiendo cuestas. Con el cambio de aceite ZF se solucionó del todo.",
+      "rating": 5
+    },
+    {
+      "name": "Aitor E.",
+      "neighborhood": "Egia",
+      "body": "Diagnosis con equipo oficial y explicación clara de cada paso. Se nota que conocen la marca de verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Nagore I.",
+      "neighborhood": "Gros",
+      "body": "Vengo desde Hernani porque no encontraba un especialista BMW de confianza. Ahora ya no busco más.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Amara",
+    "Antiguo",
+    "Egia",
+    "Gros",
+    "Aiete",
+    "Intxaurrondo",
+    "Centro (Parte Vieja)",
+    "Ategorrieta"
+  ],
+  "zoneAccessRoutes": [
+    "AP-8 hacia Francia/Bilbao",
+    "A-15 hacia Pamplona",
+    "N-1 hacia Vitoria",
+    "GI-20 (variante de San Sebastián)"
+  ]
 }

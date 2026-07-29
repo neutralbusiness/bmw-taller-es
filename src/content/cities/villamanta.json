@@ -6,9 +6,9 @@
   "population": 2501,
   "lat": 40.30017,
   "lng": -4.12162,
-  "metaTitle": "Taller BMW en Villamanta | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Villamanta. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Villamanta y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Villamanta | Diagnosis y reparación",
+  "metaDescription": "Taller BMW cerca de Villamanta, suroeste de Madrid. Diagnosis ISTA, mantenimiento preventivo y reparación de averías comunes. Presupuesto claro.",
+  "heroSubtitle": "Taller BMW especializado cerca de Villamanta",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Villamanta, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Villamanta te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Villamanta, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Villamanta es un municipio pequeño del suroeste de Madrid donde el coche resulta imprescindible para cualquier gestión diaria, ya sea hacia Navalcarnero o hacia la capital por la A-5. Los BMW que revisamos aquí suelen acumular trayectos de carretera secundaria, lo que exige atención especial a la suspensión y a los bajos del vehículo.",
+    "Ofrecemos diagnosis con equipo original ISTA y reparaciones explicadas sin rodeos, priorizando siempre localizar la avería real antes de proponer ninguna sustitución de piezas."
+  ],
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación mecánica y eléctrica para toda la gama BMW.",
+  "processIntro": "Cinco pasos sencillos para que el proceso sea transparente de principio a fin.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción",
+      "body": "Escuchamos el síntoma y revisamos el historial disponible del vehículo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis ISTA",
+      "body": "Conectamos el equipo original BMW para leer los módulos electrónicos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto previo",
+      "body": "Confirmamos el coste contigo antes de iniciar cualquier reparación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Montamos recambios homologados siguiendo los procedimientos oficiales."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con prueba",
+      "body": "Probamos el coche en carretera antes de devolverlo con garantía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Villamanta.",
+  "commonIssuesIntro": "Averías habituales en los BMW que llegan desde Villamanta y la zona.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí irregular en gasolina con kilometraje medio-alto."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia en diésel por fugas de admisión."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido metálico en frío en motores N47."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar de marcha resueltos con servicio de aceite de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Fugas de líquido refrigerante tras varios años de uso en carretera."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Cerca de Navalcarnero",
+      "body": "Evitas desplazarte hasta Madrid capital para el mantenimiento habitual."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis original ISTA",
+      "body": "Mismo sistema que la red oficial BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "El coste aprobado es el coste final."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trato directo",
+      "body": "Hablas con quien repara el coche, sin intermediarios."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada."
     }
   ],
-  "zoneText": "Atendemos BMW en Villamanta y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Villamanta y el suroeste de la Comunidad de Madrid.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Villamanta?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hace falta cita previa?",
+      "a": "Recomendamos cita previa, aunque intentamos atender urgencias el mismo día."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos peritaciones y reparaciones con la mayoría de aseguradoras."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto dura una diagnosis?",
+      "a": "Entre 30 y 45 minutos según la complejidad."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Hacéis mantenimiento según libro BMW?",
+      "a": "Sí, seguimos los intervalos oficiales del fabricante."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo traer piezas propias?",
+      "a": "Sí, aunque la garantía de esa pieza corresponde al proveedor."
+    },
+    {
+      "q": "¿Atendéis coches antiguos?",
+      "a": "Sí, trabajamos toda la gama BMW sin límite de antigüedad."
     }
   ],
-  "closingHeadline": "Tu BMW en Villamanta, en buenas manos",
-  "closingCta": "Si tienes un BMW en Villamanta y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW cuidado cerca de Villamanta",
+  "closingCta": "Pide presupuesto para tu BMW cerca de Villamanta",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,34 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Villamanta y alrededores.",
+  "testimonials": [
+    {
+      "name": "Fernando Alcázar",
+      "neighborhood": "Villamanta",
+      "body": "Buen trato y explicación clara de la avería del turbo. Repetiré sin duda.",
+      "rating": 5
+    },
+    {
+      "name": "Beatriz Casado",
+      "neighborhood": "Villamanta",
+      "body": "Rapidez y precio justo en el mantenimiento anual de mi X1.",
+      "rating": 5
+    },
+    {
+      "name": "Pablo Muñoz",
+      "neighborhood": "Navalcarnero (cliente habitual)",
+      "body": "Prefiero traer el coche aquí que al concesionario, mismo diagnóstico y mejor precio.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Casco urbano",
+    "Zona de El Realejo"
+  ],
+  "zoneAccessRoutes": [
+    "M-507",
+    "A-5 (enlace cercano)"
+  ]
 }

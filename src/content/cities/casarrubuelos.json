@@ -6,9 +6,9 @@
   "population": 3707,
   "lat": 40.17489,
   "lng": -3.82685,
-  "metaTitle": "Taller BMW en Casarrubuelos | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Casarrubuelos. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Casarrubuelos y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Casarrubuelos | Comunidad de Madrid",
+  "metaDescription": "Taller BMW especializado cerca de Casarrubuelos. Diagnosis, mantenimiento y reparación de motor, turbo y caja automática con garantía.",
+  "heroSubtitle": "Especialistas BMW para Casarrubuelos y el sur de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Casarrubuelos, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Casarrubuelos te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Casarrubuelos, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Casarrubuelos es un municipio pequeño del sur de Madrid, con algo más de 3.000 habitantes, en una zona que combina uso agrícola tradicional con el crecimiento residencial que ha llegado a toda la comarca por la cercanía a la A-4 y la R-4. El parque de vehículos incluye bastantes BMW de uso diario, de gente que se desplaza cada día hacia Madrid o Getafe por trabajo.\n\nNo hay taller de la marca en el propio Casarrubuelos, así que trabajamos con vecinos que prefieren un especialista de confianza en la zona antes que desplazarse hasta Madrid capital para el mantenimiento habitual.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación de motor, transmisión y electrónica para toda la gama BMW.",
+  "processIntro": "Diagnóstico honesto y presupuesto claro antes de cualquier reparación.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reservas hora y el coche entra sin esperas."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo BMW",
+      "body": "Escaneamos el coche completo, no solo el síntoma reportado."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto claro",
+      "body": "Te llamamos con el precio antes de reparar nada."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Ejecutamos con piezas originales o equivalentes de calidad."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de carretera",
+      "body": "Verificamos el resultado antes de la entrega."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Casarrubuelos.",
+  "commonIssuesIntro": "Averías habituales en los BMW que llegan desde Casarrubuelos:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido en frío por desgaste de solenoides, frecuente tras muchos kilómetros de autovía."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia progresiva, típica en coches que hacen trayectos diarios hacia Madrid."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido de sonajero al arrancar en frío, conviene revisarlo a tiempo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP",
+      "body": "Tirones al cambiar de marcha, resolubles en la mayoría de casos con mantenimiento específico."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de motor",
+      "body": "Testigos encendidos por sensores de bajo coste que no requieren desmontaje mayor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos en BMW",
+      "body": "Toda nuestra experiencia está centrada en la marca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Ahorro real frente al concesionario",
+      "body": "Mismo nivel técnico, sin el coste de la marca oficial."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Comunicación directa",
+      "body": "Hablas siempre con quien está reparando tu coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación relevante queda documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Pensado para quien hace autovía a diario",
+      "body": "Revisamos con atención los componentes que más sufren con el uso en carretera."
     }
   ],
-  "zoneText": "Atendemos BMW en Casarrubuelos y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Casarrubuelos está a unos 30 kilómetros de Madrid, en el sur de la comunidad, cerca de Torrejón de la Calzada y Griñón. El municipio combina el casco urbano tradicional con un entorno agrícola que todavía mantiene buena parte de su carácter rural.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Casarrubuelos?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis clientes de Casarrubuelos habitualmente?",
+      "a": "Sí, muchos de nuestros clientes hacen la A-4 a diario y prefieren un taller de confianza cerca de casa."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Es necesaria cita previa?",
+      "a": "Sí, así garantizamos que el coche entra sin esperas."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Siempre, no tocamos el coche sin tu aprobación."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Podéis revisar la caja ZF 8HP?",
+      "a": "Sí, es una de las reparaciones más frecuentes que realizamos."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con motor diésel y gasolina?",
+      "a": "Sí, con ambos tenemos amplia experiencia."
+    },
+    {
+      "q": "¿Cuánto tarda un mantenimiento estándar?",
+      "a": "Normalmente se resuelve en el mismo día si el coche entra por la mañana."
     }
   ],
-  "closingHeadline": "Tu BMW en Casarrubuelos, en buenas manos",
-  "closingCta": "Si tienes un BMW en Casarrubuelos y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu taller BMW de confianza cerca de Casarrubuelos",
+  "closingCta": "Reserva tu cita y evita desplazarte hasta Madrid capital.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,36 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Casarrubuelos:",
+  "testimonials": [
+    {
+      "name": "Emilio T.",
+      "neighborhood": "Casarrubuelos",
+      "body": "Hago la A-4 todos los días para ir a trabajar y aquí me mantienen el coche fiable sin gastar de más.",
+      "rating": 5
+    },
+    {
+      "name": "Yolanda G.",
+      "neighborhood": "Casarrubuelos",
+      "body": "Explican todo con calma, sin presionar para hacer reparaciones que no hacían falta.",
+      "rating": 5
+    },
+    {
+      "name": "Raúl C.",
+      "neighborhood": "Casarrubuelos",
+      "body": "Detectaron el problema de la cadena de distribución antes de que se convirtiera en algo grave.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Casco urbano de Casarrubuelos",
+    "Zona agrícola del término",
+    "Entorno de la A-4"
+  ],
+  "zoneAccessRoutes": [
+    "A-4 (Madrid-Andalucía)",
+    "R-4 (radial de peaje)",
+    "M-404 hacia Griñón"
+  ]
 }

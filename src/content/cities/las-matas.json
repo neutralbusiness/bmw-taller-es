@@ -6,9 +6,9 @@
   "population": 14213,
   "lat": 40.55779,
   "lng": -3.89173,
-  "metaTitle": "Taller BMW en Las Matas | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Las Matas. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Las Matas y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Las Matas | Especialistas BMW Taller",
+  "metaDescription": "Taller especializado en BMW en Las Matas (Las Rozas). Diagnosis, mantenimiento y reparación de motor, cambio ZF y Vanos. Presupuesto sin compromiso.",
+  "heroSubtitle": "El taller BMW de confianza para los vecinos de Las Matas y la zona de la Sierra de Madrid",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Las Matas — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Las Matas te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Las Matas, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Las Matas es una de esas urbanizaciones donde el BMW forma parte del paisaje: chalets con dos plazas de garaje, commuters que bajan cada día a Madrid por la A-6 y familias que compran un X3 o un Serie 5 Touring pensando en los viajes de fin de semana a la sierra. Conocemos bien ese perfil de cliente porque llevamos años atendiéndolo.\n\nNo hay un concesionario BMW dentro de Las Matas, así que la mayoría de vecinos termina desplazándose a Madrid capital o a Majadahonda para cualquier revisión. Nuestro taller trabaja precisamente para evitar ese desplazamiento: mismo diagnóstico con herramienta oficial ISTA, mismos recambios homologados, sin la lista de espera ni el precio de oficial.",
+  "servicesIntro": "Desde el cambio de aceite de un 118d hasta el diagnóstico de una avería intermitente en un X5, cubrimos el mantenimiento completo de cualquier BMW de gasolina, diésel o híbrido enchufable.",
+  "processIntro": "Trabajar con nosotros es sencillo: recogemos el coche si hace falta, diagnosticamos con equipo oficial y no tocamos nada sin tu aprobación.",
   "processSteps": [
     {
+      "title": "Cita y recogida",
+      "body": "Reservas cita por teléfono o WhatsApp; si vives en Las Matas o alrededores podemos recoger el coche en tu domicilio."
+    },
+    {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos el software de diagnóstico oficial de BMW para leer todos los módulos electrónicos, no solo el motor."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto claro",
+      "body": "Te llamamos con el diagnóstico y un presupuesto detallado por partidas antes de tocar el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación",
+      "body": "Ejecutamos la reparación con recambios originales o equivalentes homologados, según lo que decidas."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y prueba",
+      "body": "Hacemos una prueba de carretera y te entregamos el vehículo con el informe completo de lo realizado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Las Matas.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW que llegan desde Las Matas y su entorno:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "En motores de gasolina con más de 120.000 km, el ruido metálico en frío suele venir del sistema Vanos, que regula el árbol de levas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "En los diésel 118d y 120d es habitual que el turbo empiece a soplar humo azulado o pierda fuerza en cuesta."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "ZF 8HP con tirones",
+      "body": "La caja automática ZF de 8 marchas necesita cambio de aceite específico cada 60.000-80.000 km, aunque BMW la venda como 'de por vida'."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores de posición",
+      "body": "Los sensores de árbol de levas y cigüeñal dan fallos intermitentes que encienden el testigo de motor sin previo aviso."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "El depósito de expansión de plástico y la bomba de agua eléctrica son puntos débiles conocidos en Serie 3 y Serie 5 de la última década."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Sin desplazarte a Madrid",
+      "body": "Ahorras el viaje hasta un concesionario en la capital para revisiones que hacemos aquí mismo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico oficial",
+      "body": "Usamos el mismo software ISTA que emplea la red oficial, no un lector genérico OBD."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "No hay sorpresas: lo que se acuerda por teléfono es lo que se factura."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Recambios homologados",
+      "body": "Trabajamos con proveedores que suministran piezas equivalentes certificadas, no genéricas sin marca."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación mecánica sale con garantía documentada sobre mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos BMW en Las Matas y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Las Matas y toda la zona residencial que rodea la estación de Cercanías, incluyendo los chalets y adosados dispersos entre pinares.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Las Matas?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Las Matas?",
+      "a": "Sí, si necesitas dejar el coche en casa o en el trabajo lo recogemos y te lo devolvemos al terminar."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes de siniestro con la mayoría de aseguradoras."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Usáis recambio original BMW?",
+      "a": "Ofrecemos original y equivalente homologado; tú eliges según presupuesto."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un cambio de aceite?",
+      "a": "Entre 45 y 60 minutos si no hay que esperar cita previa larga."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Atendéis híbridos enchufables?",
+      "a": "Sí, tenemos formación específica en la gama 330e, 225xe y X5 45e."
+    },
+    {
+      "q": "¿Dais presupuesto por WhatsApp?",
+      "a": "Con fotos y matrícula podemos darte una orientación antes de la cita presencial."
+    },
+    {
+      "q": "¿Qué garantía dais?",
+      "a": "12 meses en mano de obra y la garantía del fabricante en piezas originales."
     }
   ],
-  "closingHeadline": "Tu BMW en Las Matas, en buenas manos",
-  "closingCta": "Si tienes un BMW en Las Matas y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cerca de casa en Las Matas",
+  "closingCta": "Pide cita y olvídate del viaje hasta Madrid para el mantenimiento de tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Algunas opiniones de clientes de Las Matas y Peñascales:",
+  "testimonials": [
+    {
+      "name": "Fernando R.",
+      "neighborhood": "Las Matas centro",
+      "body": "Llevé mi X3 con un ruido raro en frío y resultó ser el Vanos. Me lo explicaron con el coche delante, sin tecnicismos.",
+      "rating": 5
+    },
+    {
+      "name": "Patricia G.",
+      "neighborhood": "Peñascales",
+      "body": "Cambié la caja ZF con ellos tras el aviso de un tirón al arrancar en frío. Un año después sigue perfecta.",
+      "rating": 5
+    },
+    {
+      "name": "Iván M.",
+      "neighborhood": "Las Matas",
+      "body": "Precio bastante más bajo que el concesionario de Majadahonda para el mismo mantenimiento de mi 320d.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Las Matas centro",
+    "Peñascales",
+    "Monteclaro",
+    "Molino de la Hoz"
+  ],
+  "zoneAccessRoutes": [
+    "A-6 salida Las Matas",
+    "M-503",
+    "Cercanías C-8 estación Las Matas"
+  ]
 }

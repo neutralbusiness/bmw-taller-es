@@ -6,9 +6,9 @@
   "population": 74745,
   "lat": 40.19081,
   "lng": -3.67887,
-  "metaTitle": "Taller BMW en Valdemoro | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Valdemoro. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Valdemoro y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Valdemoro | Diagnosis original y mecánica",
+  "metaDescription": "Taller BMW en Valdemoro: diagnosis con software oficial, revisión de Vanos, turbo, caja ZF 8HP y refrigeración. Presupuesto cerrado. Pide cita hoy.",
+  "heroSubtitle": "Taller especializado en BMW para Valdemoro y el sur de Madrid, con la misma diagnosis que el concesionario oficial.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Valdemoro: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Valdemoro te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Valdemoro, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Valdemoro es uno de los municipios más poblados del sur de Madrid, con una autovía A-4 que cruza el término municipal y que convierte los trayectos diarios a la capital en la norma, no la excepción. Ese uso constante en autovía, sumado al tráfico denso de la zona industrial cercana, hace que los BMW de la localidad lleguen al taller con averías muy características: desgaste de la caja ZF 8HP, fallos de Vanos en motores de gasolina con más de 100.000 km y turbos con pérdida de presión en los diésel más rodados.\n\nTrabajamos con el mismo protocolo de diagnosis que usa la red oficial BMW, así que si tu coche ha pasado por un taller genérico sin resultados claros, es habitual que aquí lo tengamos identificado en la primera visita. También damos servicio a los talleres de chapa de la zona, que nos derivan la parte mecánica y electrónica tras un siniestro.",
+  "servicesIntro": "Mantenimiento oficial, mecánica y electrónica BMW en Valdemoro, con piezas originales o equivalentes OE.",
+  "processIntro": "El mismo proceso riguroso para cada coche que entra al taller.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del síntoma",
+      "body": "Nos cuentas cuándo aparece la avería antes de conectar cualquier equipo."
+    },
+    {
+      "title": "Diagnosis con software original BMW",
+      "body": "Revisión completa de todos los módulos del coche."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Por escrito, con piezas y mano de obra detalladas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación con piezas trazables",
+      "body": "Originales o equivalentes OE, según tu decisión."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba en autovía",
+      "body": "Confirmamos el resultado en condiciones reales, como las que se dan a diario en la A-4."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Valdemoro.",
+  "commonIssuesIntro": "Las averías más habituales en los BMW de Valdemoro, por el uso intensivo en autovía.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El uso constante en autovía a velocidad sostenida adelanta el desgaste de las solenoides Vanos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "En los diésel N47 y N57 detectamos con frecuencia fugas en el circuito de admisión."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El ruido en frío al arrancar suele indicar que la cadena se ha alargado antes de tiempo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "El uso mixto autovía-ciudad degrada el aceite de la caja antes del intervalo estándar."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "El calor del verano madrileño y los trayectos largos exigen mucho al sistema de refrigeración."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnosis idéntica a la oficial",
+      "body": "El mismo software ISTA que usaría el concesionario."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialistas solo en BMW y Mini",
+      "body": "Reconocemos patrones de avería sin tanteos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin ampliaciones sin tu aprobación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trabajamos con talleres de chapa de la zona",
+      "body": "Gestionamos la parte mecánica tras un siniestro."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía de 12 meses",
+      "body": "Por escrito en cada reparación."
     }
   ],
-  "zoneText": "Atendemos BMW en Valdemoro y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Valdemoro y a los municipios cercanos que conectan por la A-4, con recogida disponible si lo necesitas.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Valdemoro?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con todos los modelos BMW?",
+      "a": "Sí, desde Serie 1 hasta X7, incluidos híbridos enchufables y versiones M."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo llevar el coche en garantía de fábrica?",
+      "a": "Sí, con piezas originales y el plan de mantenimiento oficial no se ve afectada."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Entre 30 y 60 minutos con el equipo original."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais coche de cortesía?",
+      "a": "Para reparaciones largas, sí, según disponibilidad."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Recogéis el coche a domicilio?",
+      "a": "Sí, en Valdemoro y municipios cercanos."
+    },
+    {
+      "q": "¿Trabajáis con aseguradoras?",
+      "a": "Sí, gestionamos partes de mecánica tras siniestro."
+    },
+    {
+      "q": "¿Qué garantía tiene la reparación?",
+      "a": "12 meses por escrito."
     }
   ],
-  "closingHeadline": "Tu BMW en Valdemoro, en buenas manos",
-  "closingCta": "Si tienes un BMW en Valdemoro y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW de Valdemoro que diagnostica bien a la primera",
+  "closingCta": "Pide cita y trae tu coche esta semana.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que cuentan los propietarios de BMW en Valdemoro.",
+  "testimonials": [
+    {
+      "name": "Diego Pinilla",
+      "neighborhood": "Valdemoro centro",
+      "body": "Diagnosticaron un fallo de Vanos en mi 320i que otro taller había confundido con una bujía.",
+      "rating": 5
+    },
+    {
+      "name": "Laura Ciempozuelos",
+      "neighborhood": "Los Santos",
+      "body": "Cambio de aceite de la caja ZF de mi 520d, se nota muchísimo el cambio de marchas.",
+      "rating": 5
+    },
+    {
+      "name": "Hugo Marroquina",
+      "neighborhood": "Valdemoro estación",
+      "body": "Presupuesto claro para el turbo de mi 118d, tal cual me lo dijeron.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Valdemoro centro",
+    "Los Santos",
+    "Valdemoro estación",
+    "Ciudad 2000"
+  ],
+  "zoneAccessRoutes": [
+    "A-4",
+    "M-404",
+    "M-506"
+  ]
 }

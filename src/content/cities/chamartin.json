@@ -6,9 +6,9 @@
   "population": 140000,
   "lat": 40.46206,
   "lng": -3.6766,
-  "metaTitle": "Taller BMW en Chamartín | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Chamartín. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Chamartín y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Chamartín, Madrid | Especialistas en el distrito",
+  "metaDescription": "Taller BMW en el distrito de Chamartín, Madrid. Diagnóstico oficial, mantenimiento y reparación para El Viso, Prosperidad y Ciudad Jardín.",
+  "heroSubtitle": "El taller BMW especializado del distrito de Chamartín, en Madrid capital.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,148 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Chamartín, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Chamartín te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Chamartín, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Chamartín es uno de los distritos con mayor concentración de renta de Madrid, con barrios como El Viso, Nueva España o Ciudad Jardín donde el BMW es prácticamente parte del paisaje urbano, junto a otras marcas premium alemanas. Es también sede de la estación de Chamartín-Clara Campoamor, uno de los nudos de movilidad más importantes de la capital.\n\nEn un distrito así, la oferta de talleres es amplia, pero no toda es especializada de verdad en BMW: muchos son multimarca que atienden la marca sin la herramienta ni la formación específica que exigen sus sistemas electrónicos. Nuestro taller nace para dar a los vecinos de Chamartín una alternativa real al concesionario, sin renunciar a la precisión del diagnóstico.\n\nTrabajamos con perfiles muy distintos dentro del distrito: desde el uso urbano intensivo de quien se mueve a diario por la Castellana y el entorno de Nuevos Ministerios, hasta coches que hacen trayectos largos por la A-1 en fin de semana hacia la sierra.\n\nEse contraste de uso es justo el que más desgasta ciertos componentes específicos de BMW: turbo, caja automática ZF y sistema de refrigeración, que en Chamartín vemos con mucha frecuencia.",
+  "servicesIntro": "Mantenimiento completo y reparación de averías, con la misma exigencia que un concesionario.",
+  "processIntro": "Este es el proceso que seguimos con cada BMW que llega desde cualquier barrio de Chamartín.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y primera inspección",
+      "body": "Empezamos con una revisión visual y auditiva del coche antes de conectar cualquier equipo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Lectura de errores con software BMW",
+      "body": "El diagnóstico se hace con el mismo tipo de software que usa la red oficial, no con un OBD genérico de bazar."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Propuesta de reparación",
+      "body": "Te damos opciones reales cuando existen: pieza original, alternativa homologada o reparación parcial, con sus pros y contras."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Trabajo en taller",
+      "body": "Ejecutamos la reparación con las herramientas específicas que exige cada sistema BMW (Vanos, Valvetronic, caja ZF...)."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Verificación y garantía",
+      "body": "Comprobamos el resultado y te damos garantía por escrito sobre la pieza y la mano de obra."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Chamartín.",
+  "commonIssuesIntro": "Los fallos que más vemos en los BMW que circulan a diario por Chamartín.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Bomba de aceite de alta presión con desgaste",
+      "body": "En algunos motores de gasolina turbo provoca fallo de encendido y pérdida de potencia progresiva."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con fugas en las tuberías de intercooler",
+      "body": "Las abrazaderas de plástico originales se agrietan con los años y generan pérdida de presión de sobrealimentación."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Valvetronic con motor paso a paso agarrotado",
+      "body": "El motor eléctrico que regula el alzado de válvulas se atasca y el coche entra en modo seguro con potencia limitada."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con vibración en marchas altas",
+      "body": "Puede deberse al convertidor de par o a un desgaste puntual del embrague de bloqueo (lock-up)."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Circuito de refrigeración con fugas en el radiador de plástico",
+      "body": "Los radiadores con extremos de plástico se fisuran con el calor acumulado y dejan perder líquido lentamente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas, no generalistas",
+      "body": "Solo trabajamos con BMW y Mini, así que conocemos sus problemas típicos de memoria, no aprendiendo sobre la marcha."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Equipo de diagnóstico específico",
+      "body": "Usamos herramienta homologada para la marca, con acceso a los mismos protocolos que un concesionario."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Precio más ajustado que el oficial",
+      "body": "Ofrecemos la misma calidad técnica que un concesionario con una estructura de costes de taller independiente."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas con garantía real",
+      "body": "Trabajamos con recambio original o de fabricantes que suministran a BMW de serie, nunca genérico sin trazabilidad."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato cercano y sin tecnicismos innecesarios",
+      "body": "Te explicamos lo que le pasa a tu coche en un lenguaje que entiendes, sin adornos ni presión para vender más de lo necesario."
     }
   ],
-  "zoneText": "Atendemos BMW en Chamartín y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todos los barrios del distrito de Chamartín y su entorno inmediato: El Viso, Prosperidad, Ciudad Jardín, Nueva España, Castilla e Hispanoamérica, con acceso directo desde la M-30 y la Castellana.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Chamartín?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Estáis cerca de la estación de Chamartín?",
+      "a": "Sí, estamos a una distancia cómoda que permite dejar el coche y moverte por el distrito mientras trabajamos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atendéis modelos de gama alta como Serie 7 o X7?",
+      "a": "Sí, tenemos experiencia con toda la gama BMW, incluidos los modelos de gama alta más habituales en el distrito."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Tenéis coche de sustitución para no dejarme sin vehículo?",
+      "a": "Disponemos de vehículo de cortesía según disponibilidad; te lo confirmamos al pedir cita."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto se tarda en diagnosticar un fallo intermitente?",
+      "a": "Puede requerir más de una sesión si el fallo no se reproduce siempre, pero te lo explicamos con transparencia."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con BMW híbridos enchufables como el 330e o el X5 45e?",
+      "a": "Sí, contamos con formación específica para la parte de alta tensión de estos modelos."
+    },
+    {
+      "q": "¿Puedo dejar el coche antes de ir a trabajar y recogerlo por la tarde?",
+      "a": "Sí, es la dinámica habitual de muchos clientes del distrito."
+    },
+    {
+      "q": "¿Qué diferencia hay con llevarlo al concesionario de la zona?",
+      "a": "El nivel de diagnóstico es equivalente, pero con más agilidad de cita y mejor precio."
     }
   ],
-  "closingHeadline": "Tu BMW en Chamartín, en buenas manos",
-  "closingCta": "Si tienes un BMW en Chamartín y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW de Chamartín",
+  "closingCta": "Pide cita y descubre la alternativa al concesionario en tu propio distrito.",
+  "testimonialsIntro": "Vecinos de distintos barrios de Chamartín que confían en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Fernando A.",
+      "neighborhood": "El Viso",
+      "body": "Diagnóstico impecable de un problema de Valvetronic que en el concesionario me habían presupuestado el doble.",
+      "rating": 5
+    },
+    {
+      "name": "Beatriz N.",
+      "neighborhood": "Nueva España",
+      "body": "Muy cómodo tener un especialista cerca sin tener que cruzar Madrid hasta un concesionario.",
+      "rating": 5
+    },
+    {
+      "name": "Ignacio P.",
+      "neighborhood": "Prosperidad",
+      "body": "Trato profesional y precio razonable para un X5 con la caja dando problemas.",
+      "rating": 5
+    },
+    {
+      "name": "Carmen L.",
+      "neighborhood": "Ciudad Jardín",
+      "body": "Explican todo con claridad, sin presión para hacer reparaciones innecesarias.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Viso",
+    "Prosperidad",
+    "Ciudad Jardín",
+    "Nueva España",
+    "Castilla",
+    "Hispanoamérica"
+  ],
+  "zoneAccessRoutes": [
+    "M-30",
+    "Paseo de la Castellana",
+    "A-1",
+    "Avenida de América"
+  ]
 }

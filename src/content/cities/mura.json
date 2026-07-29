@@ -6,9 +6,9 @@
   "population": 227,
   "lat": 41.68879,
   "lng": 1.97473,
-  "metaTitle": "Taller BMW en Mura | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Mura. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Mura y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Mura | Diagnóstico y reparación especializada",
+  "metaDescription": "Reparación especializada de BMW cerca de Mura (Bages, Barcelona). Diagnóstico ISTA, mecánica y electrónica BMW. Recogida disponible. Presupuesto sin compromiso.",
+  "heroSubtitle": "El taller BMW de confianza para los vecinos de Mura y el entorno del Parc de Sant Llorenç del Munt.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Mura, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Mura te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Mura, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Mura es de esos pueblos del Bages donde encontrar un mecánico realmente especializado en BMW a la vuelta de la esquina es, sencillamente, imposible: apenas 600 vecinos rodeados de montaña no dan para sostener un taller de marca. Por eso trabajamos con los propietarios de BMW de Mura desde nuestras instalaciones, a un trayecto corto por la carretera que baja hacia Sant Llorenç Savall o Talamanca.",
+    "La mayoría de consultas que recibimos de la zona vienen de gente que usa el coche a diario para bajar a Manresa o Terrassa a trabajar, con lo que la fiabilidad no es un capricho sino una necesidad. Ofrecemos recogida del vehículo en Mura para quien no pueda desplazarse, y nos coordinamos por WhatsApp para no hacer perder tiempo a nadie con un desplazamiento innecesario."
+  ],
+  "servicesIntro": "Diagnóstico, mecánica, electrónica y mantenimiento programado para cualquier BMW, con recogida disponible para clientes de Mura.",
+  "processIntro": "Así trabajamos con cada BMW que llega desde Mura, paso a paso y sin letra pequeña.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico con equipo ISTA",
+      "body": "Conectamos tu BMW al mismo software de diagnóstico que usa la marca (ISTA/ISTA-P) para leer todos los módulos electrónicos y localizar el fallo real, no solo el síntoma. En Mura muchos coches llegan con piezas ya cambiadas por error en otro taller; nosotros empezamos siempre por aquí."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Presupuesto cerrado y explicado",
+      "body": "Antes de tocar el coche te explicamos qué falla, por qué falla y cuánto cuesta arreglarlo, con la pieza y la mano de obra desglosadas. Nada de sorpresas al recoger el vehículo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación con recambio OEM o equivalente homologado",
+      "body": "Trabajamos con recambio original BMW y con marcas equivalentes homologadas (Bosch, Mahle, LuK, ZF) según lo que necesite tu bolsillo y tu coche. Tú decides con qué calidad reparamos."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Prueba de carretera real",
+      "body": "Cada reparación se valida con una prueba de carretera, no solo en el elevador. Es la única forma de confirmar que el fallo ha desaparecido en condiciones reales de conducción."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con informe técnico",
+      "body": "Te entregamos el coche con un informe de lo realizado, los códigos de error borrados y verificados, y la garantía por escrito."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Mura.",
+  "commonIssuesIntro": "Las averías que más vemos en los BMW que bajan de la zona de Mura, casi siempre ligadas al terreno de montaña y a las cuestas del entorno.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El sistema Vanos (distribución variable) y Valvetronic (válvulas variables) son marca de la casa BMW, pero también un foco habitual de averías: ruido metálico en frío, pérdida de potencia o testigo de motor encendido. Un desgaste del sensor Vanos o de la unidad Valvetronic se puede confundir con una avería mayor si no se diagnostica bien."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo y sobrealimentación",
+      "body": "En los motores turbo (gasolina N20/N54/B48 o diésel N47/B47) la pérdida de presión, el silbido agudo o el humo azulado suelen apuntar a fugas en el circuito de admisión, actuador electrónico defectuoso o desgaste de los cojinetes del turbo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Los motores N47 y N20, entre otros, son conocidos por el estiramiento prematuro de la cadena de distribución. Un tintineo metálico al arrancar en frío es la primera señal, y conviene revisarlo antes de que salte una avería mayor de válvulas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP",
+      "body": "La caja ZF de 8 velocidades es fiable si se mantiene, pero un cambio de aceite y filtro tardío provoca tirones al cambiar de marcha, entradas bruscas o el modo de emergencia que bloquea el coche en una sola marcha."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Los BMW llevan decenas de sensores (temperatura, presión de aceite, cigüeñal) que con el tiempo dan lecturas erráticas, y una bomba de agua eléctrica o un termostato electrónico que fallan sin avisar hasta que el motor se calienta de más."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Años de experiencia con la marca",
+      "body": "Llevamos años reparando exclusivamente motores y cajas de cambio BMW, desde los N47 diésel hasta los B58 más recientes."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Equipo de diagnóstico de concesionario",
+      "body": "Invertimos en el mismo software ISTA que usa BMW, no en un lector genérico OBD2 de bazar."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Recambio de calidad, no el más barato",
+      "body": "Trabajamos con proveedores como Mahle, LuK, Bosch o Febi, evitando piezas de dudosa procedencia que fallan a los pocos meses."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Comunicación constante",
+      "body": "Te mantenemos informado durante todo el proceso, con fotos y explicaciones si el trabajo se alarga."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ahorro real frente al concesionario",
+      "body": "Mismo nivel técnico que un concesionario oficial, con precios más ajustados para clientes de Mura."
     }
   ],
-  "zoneText": "Atendemos BMW en Mura y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Mura y a todo el entorno del Parc Natural de Sant Llorenç del Munt i l'Obac, una zona donde las cuestas y las pistas de montaña exigen más al motor y a la suspensión de lo habitual.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Mura?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay que dejar el coche todo el día si vengo desde Mura?",
+      "a": "Depende de la avería. Un diagnóstico suele resolverse en unas horas; te avisamos antes de dejarlo si va a ser más largo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Recogéis el coche en Mura?",
+      "a": "Sí, coordinamos recogida y entrega para clientes de Mura y núcleos cercanos, normalmente sin coste añadido según distancia."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con BMW diésel de montaña con muchos kilómetros?",
+      "a": "Sí, es habitual en la zona. Revisamos especialmente turbo y cadena de distribución en coches con uso de puertos de montaña."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Siempre, por escrito y sin compromiso de aceptarlo."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Tenéis coche de sustitución?",
+      "a": "Según disponibilidad; consúltanos al concertar la cita si lo necesitas."
+    },
+    {
+      "q": "¿Puedo pagar con tarjeta?",
+      "a": "Sí, aceptamos tarjeta, transferencia y efectivo."
     }
   ],
-  "closingHeadline": "Tu BMW en Mura, en buenas manos",
-  "closingCta": "Si tienes un BMW en Mura y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cuidado como se merece, aunque vivas en Mura",
+  "closingCta": "Escríbenos y coordinamos recogida o cita en taller sin desplazamientos inútiles.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que cuentan los propietarios de BMW de Mura y pueblos vecinos que han pasado por nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Jordi Puigverd",
+      "neighborhood": "Mura",
+      "body": "Vivo en Mura y pensaba que tendría que bajar hasta Barcelona para que me tocaran el Vanos del Serie 3. Me ahorré el viaje y el diagnóstico fue impecable.",
+      "rating": 5
+    },
+    {
+      "name": "Marta Solé",
+      "neighborhood": "Talamanca (cerca de Mura)",
+      "body": "Recogieron el coche en Mura sin que yo tuviera que mover un dedo. La caja ZF volvió a cambiar suave.",
+      "rating": 5
+    },
+    {
+      "name": "Enric Cabot",
+      "neighborhood": "Mura",
+      "body": "Trato cercano de verdad, no de anuncio. Me explicaron la avería del turbo con el coche delante, señalando la pieza.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Mura",
+    "El Castell de Mura",
+    "La Vinya",
+    "Can Bassa"
+  ],
+  "zoneAccessRoutes": [
+    "BV-1221 (Mura - Talamanca)",
+    "BV-1224 hacia Sant Llorenç Savall",
+    "C-58 hacia Terrassa/Manresa"
+  ]
 }

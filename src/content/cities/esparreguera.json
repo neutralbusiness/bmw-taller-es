@@ -6,9 +6,9 @@
   "population": 21855,
   "lat": 41.53809,
   "lng": 1.87025,
-  "metaTitle": "Taller BMW en Esparreguera | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Esparreguera. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Esparreguera y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Esparreguera | Diagnosis oficial y garantía",
+  "metaDescription": "Taller BMW especializado en Esparreguera, al pie de Montserrat. Mantenimiento, turbo, Valvetronic, caja ZF y diagnosis con software original. Presupuesto gratis.",
+  "heroSubtitle": "Taller BMW en Esparreguera, a los pies de Montserrat y el Baix Llobregat industrial",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,145 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Esparreguera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Esparreguera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Esparreguera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Esparreguera, con cerca de 22.000 habitantes, combina un núcleo urbano consolidado con la cercanía inmediata de Montserrat y una fuerte tradición industrial ligada al textil, hoy reconvertida en un tejido económico más diverso. La conexión con Martorell y el Vallès a través de la C-55 y la BV-1201 genera un tráfico diario intenso, y el parque BMW de la zona refleja ese perfil: muchas Series 3 y 5 de uso profesional, junto a X1 y X3 en las zonas residenciales de la parte alta del municipio.\n\nTrabajamos con diagnosis oficial BMW y con especial atención a los sistemas de frenos y suspensión, sometidos a un desgaste añadido por las pendientes que rodean el municipio camino de Montserrat.\n\nNuestro taller atiende tanto a residentes habituales como a los muchos trabajadores de la zona industrial que necesitan el vehículo siempre operativo, con presupuestos rápidos y plazos de reparación ajustados.",
+  "servicesIntro": "Mantenimiento integral, motor, electrónica y caja automática para BMW en Esparreguera y el Baix Llobregat.",
+  "processIntro": "Un proceso claro, pensado para no interrumpir tu rutina diaria.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reserva online o telefónica indicando el motivo de la visita."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis oficial",
+      "body": "Escaneo completo de centralitas con equipo original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Desglose claro de piezas y mano de obra antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Piezas homologadas y trazabilidad completa de la intervención."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de carretera",
+      "body": "Verificación en condiciones reales antes de la entrega."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Esparreguera.",
+  "commonIssuesIntro": "Las averías más frecuentes en los BMW de Esparreguera.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí irregular y pérdida de par en bajas revoluciones, muy habitual en motores con kilometraje alto."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las cuestas hacia Montserrat exigen mucho al turbo; revisamos fugas y presión con frecuencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El repiqueteo en frío anticipa un estiramiento que conviene revisar cuanto antes."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar de marcha que suelen resolverse con mantenimiento específico de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Frenos y suspensión",
+      "body": "El desgaste se acelera por las pendientes constantes del entorno de Montserrat."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Conocemos las cuestas de Montserrat",
+      "body": "Sabemos cómo afectan al desgaste de frenos y suspensión."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis oficial",
+      "body": "Mismo software que la red BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención a trabajadores de la zona industrial",
+      "body": "Priorizamos plazos ajustados para quien depende del coche a diario."
     }
   ],
-  "zoneText": "Atendemos BMW en Esparreguera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Esparreguera y su entorno, con clientes habituales que trabajan en la zona industrial de Martorell o suben con frecuencia hacia Montserrat.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Esparreguera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Revisáis frenos por el desgaste de las cuestas?",
+      "a": "Sí, es una revisión habitual en vehículos que suben con frecuencia hacia Montserrat."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con BMW Serie 5 de uso profesional?",
+      "a": "Sí, es uno de los modelos más habituales que recibimos en Esparreguera."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche fuera de horario?",
+      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un diagnóstico completo?",
+      "a": "Con el equipo oficial, normalmente menos de una hora."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Reparáis la suspensión adaptativa?",
+      "a": "Sí, incluidos los sistemas de suspensión neumática de los modelos más recientes."
+    },
+    {
+      "q": "¿Tenéis coche de sustitución?",
+      "a": "Disponemos de unidades limitadas; conviene reservarlo al pedir cita."
+    },
+    {
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
     }
   ],
-  "closingHeadline": "Tu BMW en Esparreguera, en buenas manos",
-  "closingCta": "Si tienes un BMW en Esparreguera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Especialistas BMW a los pies de Montserrat",
+  "closingCta": "Pide cita en Esparreguera y confía tu BMW a manos expertas.",
+  "testimonialsIntro": "Opiniones de clientes de Esparreguera.",
+  "testimonials": [
+    {
+      "name": "Ramon T.",
+      "neighborhood": "Esparreguera centro",
+      "body": "Cambio de pastillas y discos impecable, notaba el desgaste por las cuestas hacia Montserrat.",
+      "rating": 5
+    },
+    {
+      "name": "Judit F.",
+      "neighborhood": "Can Vinyals",
+      "body": "Diagnóstico rápido de un problema de turbo. Presupuesto justo y sin sorpresas.",
+      "rating": 5
+    },
+    {
+      "name": "Miquel S.",
+      "neighborhood": "Esparreguera",
+      "body": "Muy profesionales con la reparación de la caja ZF. Vuelve a cambiar suave.",
+      "rating": 5
+    },
+    {
+      "name": "Gemma R.",
+      "neighborhood": "El Bruc de Dalt",
+      "body": "Buena atención y explicación técnica clara de cada paso de la reparación.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Esparreguera centro",
+    "Can Vinyals",
+    "El Bruc de Dalt",
+    "La Puda"
+  ],
+  "zoneAccessRoutes": [
+    "C-55 hacia Martorell",
+    "BV-1201 hacia Collbató",
+    "N-II como eje regional"
+  ]
 }

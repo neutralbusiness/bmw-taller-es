@@ -6,9 +6,9 @@
   "population": 157,
   "lat": 41.73014,
   "lng": 1.94051,
-  "metaTitle": "Taller BMW en Talamanca | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Talamanca. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Talamanca y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Talamanca | Mecánica especializada en el Bages",
+  "metaDescription": "Servicio técnico BMW para Talamanca y comarca del Bages. Diagnosis original, motor, transmisión ZF y mantenimiento con piezas OEM. Presupuesto sin compromiso.",
+  "heroSubtitle": "Mecánica BMW de confianza para los vecinos de Talamanca, en pleno Bages",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Talamanca: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Talamanca te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Talamanca, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Talamanca es un municipio pequeño del Bages, con un núcleo urbano modesto y bastante población diseminada en masías del entorno. No hay concesionario ni taller especializado en la marca dentro del término, así que la mayoría de propietarios de BMW de la zona terminan desplazándose hacia Manresa o Terrassa para cualquier revisión seria.\n\nRecibimos con frecuencia clientes de Talamanca que hacen trayectos largos por carretera comarcal hasta su trabajo, muchos con Series 3 y 5 diésel de gama alta de kilometraje. En un entorno así, el desgaste de suspensión y la fiabilidad del motor son la prioridad, más que la estética.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación BMW con el mismo rigor que en un concesionario, sin los precios de concesionario.",
+  "processIntro": "Cómo trabajamos con los clientes que llegan desde Talamanca y el Bages:",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reservamos franja horaria para no hacerte esperar cuando llegas desde fuera."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica",
+      "body": "Escaneo completo con herramienta original antes de dar cualquier diagnóstico."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación clara",
+      "body": "Te mostramos qué falla y por qué, sin tecnicismos innecesarios."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con garantía",
+      "body": "Todas las intervenciones llevan garantía por escrito."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Control de calidad final",
+      "body": "Prueba de carretera antes de entregar el coche."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Talamanca.",
+  "commonIssuesIntro": "Averías habituales en los BMW que recorren a diario las carreteras del Bages:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Los arranques en frío y trayectos largos aceleran el desgaste del sistema variable de válvulas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Comprobamos presión de sobrealimentación y posibles fugas de aceite en motores diésel."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Diagnóstico de ruido y estiramiento en las cadenas de motores N47/N20."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP",
+      "body": "Revisión de aceite ATF y comportamiento en cambios de marcha bajo carga."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Vigilamos radiador, bomba de agua y sensores de temperatura, causa frecuente de averías intermitentes."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialización real en BMW",
+      "body": "No es un taller genérico: trabajamos la marca a diario."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo original",
+      "body": "Mismo sistema que usa la red oficial."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Precio inferior al concesionario",
+      "body": "Mismo nivel técnico, sin el sobrecoste de marca."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Todo trabajo queda documentado y garantizado."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato cercano",
+      "body": "Explicamos cada intervención antes de hacerla, no después."
     }
   ],
-  "zoneText": "Atendemos BMW en Talamanca y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Talamanca y a todo el Bages central, un área sin taller especializado BMW propio y con perfiles de conducción de carretera y trayecto largo.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Talamanca?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay taller BMW en Talamanca?",
+      "a": "No, es un municipio pequeño sin taller especializado propio; damos servicio a sus vecinos desde nuestras instalaciones."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo dejar el coche fuera de horario?",
+      "a": "Sí, disponemos de buzón de llaves para clientes que llegan desde fuera de la ciudad."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con diésel de alto kilometraje?",
+      "a": "Sí, es el perfil más habitual entre nuestros clientes de la zona rural."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda una diagnosis?",
+      "a": "Entre 30 y 60 minutos, según la complejidad del síntoma."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Usáis piezas originales?",
+      "a": "Sí, u OEM equivalente si el cliente lo prefiere para reducir coste."
+    },
+    {
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Siempre, no iniciamos ningún trabajo sin tu aprobación previa."
+    },
+    {
+      "q": "¿Atendéis urgencias?",
+      "a": "Intentamos priorizar averías que dejan el coche inmovilizado, consulta disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW en Talamanca, en buenas manos",
-  "closingCta": "Si tienes un BMW en Talamanca y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW que Talamanca no tiene, a un trayecto corto",
+  "closingCta": "Pide cita y trae tu BMW al taller",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Talamanca y alrededores que ya confían en nosotros:",
+  "testimonials": [
+    {
+      "name": "Enric V.",
+      "neighborhood": "Talamanca centro",
+      "body": "Vine por un ruido en el turbo y me explicaron exactamente qué pasaba, sin vender humo.",
+      "rating": 5
+    },
+    {
+      "name": "Sílvia M.",
+      "neighborhood": "Zona del Bages",
+      "body": "El cambio ZF de mi Serie 5 quedó como nuevo, notable diferencia al conducir.",
+      "rating": 5
+    },
+    {
+      "name": "Pau F.",
+      "neighborhood": "Talamanca",
+      "body": "Precio muy por debajo del concesionario de Manresa y el mismo nivel de detalle.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Núcleo urbano de Talamanca",
+    "Zona de masías del entorno",
+    "Área de acceso desde Sant Fruitós de Bages",
+    "Entorno de Navàs"
+  ],
+  "zoneAccessRoutes": [
+    "C-16 hacia Manresa",
+    "Carretera comarcal BV-1225",
+    "Acceso desde Sant Vicenç de Castellet"
+  ]
 }

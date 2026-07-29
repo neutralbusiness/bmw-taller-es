@@ -6,9 +6,9 @@
   "population": 1198,
   "lat": 41.41642,
   "lng": 1.71965,
-  "metaTitle": "Taller BMW en el Pla del Penedès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en el Pla del Penedès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en el Pla del Penedès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en El Pla del Penedès | Mecánica especializada",
+  "metaDescription": "Taller BMW en El Pla del Penedès, Alt Penedès. Diagnosis oficial, turbo, Valvetronic y caja automática ZF. Presupuesto cerrado y garantía por escrito.",
+  "heroSubtitle": "Taller BMW entre viñedos, para El Pla del Penedès y el Alt Penedès",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en el Pla del Penedès — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en el Pla del Penedès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en el Pla del Penedès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "El Pla del Penedès es un municipio pequeño rodeado de viñedos, muy cerca de Vilafranca del Penedès, con un perfil de conductor que combina trayectos cortos por la comarca con desplazamientos regulares hacia Barcelona o Martorell por trabajo. El parque BMW de la zona incluye bastantes Series 3 y X1, habituales entre quienes recorren a diario las carreteras comarcales del Penedès.\n\nDiagnosticamos con el software oficial de la marca y prestamos especial atención al polvo y la tierra propios del entorno agrícola, que pueden afectar a filtros y sistemas de admisión con más frecuencia que en un entorno puramente urbano.",
+  "servicesIntro": "Mecánica, electrónica y mantenimiento BMW adaptado al uso mixto rural-urbano del Penedès.",
+  "processIntro": "Claridad en cada paso, desde la cita hasta la entrega de llaves.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reserva por teléfono o web indicando el motivo de la visita."
+    },
+    {
+      "title": "Diagnosis oficial",
+      "body": "Escaneo completo de centralitas con equipo BMW original."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Coste exacto antes de iniciar cualquier reparación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación",
+      "body": "Piezas homologadas y mano de obra especializada."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final",
+      "body": "Verificación en carretera antes de la entrega."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por el Pla del Penedès.",
+  "commonIssuesIntro": "Lo que más reparamos en BMW de El Pla del Penedès y su entorno.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí inestable y falta de par a bajas vueltas, típico de actuadores desgastados."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Fugas y pérdida de presión, especialmente en motores con muchos kilómetros de carretera comarcal."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El ruido metálico en frío suele ser el primer aviso de estiramiento."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos que mejoran notablemente con mantenimiento específico de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Filtros y admisión",
+      "body": "El polvo del entorno agrícola obliga a revisar filtros con más frecuencia de lo habitual."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Conocemos el Penedès",
+      "body": "Sabemos cómo afecta el entorno rural al mantenimiento del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis oficial",
+      "body": "Mismo software que la red BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía escrita",
+      "body": "Toda reparación documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cercanía",
+      "body": "Fácil acceso desde El Pla del Penedès y Vilafranca."
     }
   ],
-  "zoneText": "Atendemos BMW en el Pla del Penedès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos El Pla del Penedès y los núcleos cercanos como Sant Sebastià dels Gorgs, con muchos clientes que trabajan en Vilafranca o se desplazan hacia Martorell.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en el Pla del Penedès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Revisáis los filtros de admisión con frecuencia?",
+      "a": "Sí, es habitual en la zona por el polvo del entorno agrícola."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con BMW Serie 3 diésel?",
+      "a": "Sí, es uno de los modelos que más recibimos en la comarca."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche antes de ir a Vilafranca?",
+      "a": "Sí, disponemos de buzón de llaves y horario flexible de recepción."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Hacéis mantenimiento según el libro BMW?",
+      "a": "Sí, respetamos los intervalos oficiales y sellamos el libro de mantenimiento."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Normalmente menos de una hora con el equipo oficial."
+    },
+    {
+      "q": "¿Reparáis la suspensión?",
+      "a": "Sí, incluida la suspensión adaptativa de los modelos más recientes."
+    },
+    {
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
     }
   ],
-  "closingHeadline": "Tu BMW en el Pla del Penedès, en buenas manos",
-  "closingCta": "Si tienes un BMW en el Pla del Penedès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Mecánica BMW especializada en el corazón del Penedès",
+  "closingCta": "Pide presupuesto para tu BMW en El Pla del Penedès.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de conductores de El Pla del Penedès.",
+  "testimonials": [
+    {
+      "name": "Montse F.",
+      "neighborhood": "El Pla del Penedès",
+      "body": "Detectaron un problema de filtros obstruidos por el polvo del camino que tenía perdida la potencia del coche.",
+      "rating": 5
+    },
+    {
+      "name": "Oriol B.",
+      "neighborhood": "Sant Sebastià dels Gorgs",
+      "body": "Presupuesto claro para el cambio de cadena de distribución, sin florituras.",
+      "rating": 5
+    },
+    {
+      "name": "Neus C.",
+      "neighborhood": "El Pla del Penedès",
+      "body": "Muy atentos explicando la avería de la caja automática, ahora cambia perfecto.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Pla del Penedès centro",
+    "Sant Sebastià dels Gorgs",
+    "Can Rossell",
+    "Can Batista"
+  ],
+  "zoneAccessRoutes": [
+    "BP-2151 hacia Vilafranca",
+    "C-15 hacia Igualada",
+    "AP-7 como enlace regional"
+  ]
 }

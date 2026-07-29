@@ -6,9 +6,9 @@
   "population": 68110,
   "lat": 40.47353,
   "lng": -3.87182,
-  "metaTitle": "Taller BMW en Majadahonda | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Majadahonda. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Majadahonda y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Majadahonda | Diagnosis y Mecánica Especializada",
+  "metaDescription": "Taller BMW en Majadahonda. Diagnóstico oficial ISTA, mantenimiento, turbo, caja ZF y Vanos. Presupuesto cerrado antes de reparar tu BMW.",
+  "heroSubtitle": "El taller BMW independiente de referencia en Majadahonda",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Majadahonda vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Majadahonda te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Majadahonda, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Majadahonda es, junto con Pozuelo y Las Rozas, uno de los municipios con mayor densidad de BMW por habitante de la Comunidad de Madrid. El parque de vehículos aquí es amplio y variado: desde el Serie 1 de uso diario hasta X5 y Serie 7 que apenas se ven en otras zonas de la región. El nivel de exigencia de los propietarios también es alto, acostumbrados al trato de concesionario pero cansados de sus precios y tiempos de espera.\n\nTrabajamos con clientes de toda la localidad, desde el Casco Antiguo hasta Los Peñascales y La Ermita, ofreciendo el mismo diagnóstico oficial que se hace en un concesionario BMW pero con un trato más cercano y sin la estructura de precios de la red oficial.\n\nUn aspecto que valoran mucho nuestros clientes de Majadahonda es la transparencia del presupuesto: no hay ampliaciones sorpresa a mitad de reparación, algo que muchos han sufrido antes en talleres genéricos que desconocen las particularidades de la marca.\n\nTambién atendemos con frecuencia la gama híbrida enchufable -330e, X1 25e, X5 45e- que se ha vuelto muy popular en el municipio en los últimos años, con formación específica para sus sistemas de alta tensión.",
+  "servicesIntro": "Mantenimiento programado, diagnosis avanzada, reparación de motor, transmisión, frenos, suspensión y sistemas híbridos.",
+  "processIntro": "Un proceso pensado para dar la misma seriedad técnica que un concesionario, con más cercanía.",
   "processSteps": [
     {
+      "title": "Recepción y escucha",
+      "body": "Nos cuentas el síntoma con detalle antes de tocar el coche."
+    },
+    {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Leemos todos los módulos electrónicos con el software oficial de BMW."
+    },
+    {
+      "title": "Verificación física",
+      "body": "Contrastamos el diagnóstico electrónico con inspección manual."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Coste desglosado antes de iniciar cualquier reparación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba y entrega",
+      "body": "Verificamos en carretera que el problema queda resuelto."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Majadahonda.",
+  "commonIssuesIntro": "Con un parque de vehículos amplio y variado, en Majadahonda vemos de todo, especialmente:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar en frío que mejoran claramente con el mantenimiento específico de esta transmisión."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de fuerza en diésel con más de 100.000 km y mantenimiento irregular."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío en motores de gasolina, especialmente en Serie 3 y Serie 5."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores",
+      "body": "Fallos electrónicos habituales en modelos con muchos sistemas de asistencia a la conducción."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Bombas de agua eléctricas y termostatos electrónicos, puntos débiles conocidos en varios motores BMW."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Nivel de concesionario, sin su precio",
+      "body": "Mismo diagnóstico oficial con una estructura de costes más ajustada."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Formación en híbridos enchufables",
+      "body": "Especializados en la gama 330e, X1 25e y X5 45e, muy presente en Majadahonda."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Lo que se acuerda por teléfono es lo que se factura."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Recambio a tu elección",
+      "body": "Original o equivalente homologado, según tu presupuesto."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "En mano de obra y pieza, por escrito."
     }
   ],
-  "zoneText": "Atendemos BMW en Majadahonda y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos todo Majadahonda, desde el Casco Antiguo hasta las zonas residenciales más alejadas del centro.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Majadahonda?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Perder la garantía de fábrica por venir aquí?",
+      "a": "No, un taller independiente puede mantener la garantía si usa recambios homologados y factura correctamente."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con híbridos enchufables?",
+      "a": "Sí, tenemos formación y equipo específico para 330e, X1 25e y X5 45e."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto cuesta una revisión completa?",
+      "a": "Depende del modelo; te damos presupuesto exacto tras el diagnóstico."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais coche de sustitución?",
+      "a": "En reparaciones largas intentamos facilitar movilidad alternativa, consúltanos."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Aceptáis vehículos de renting?",
+      "a": "Sí, gestionamos la documentación con la gestora de flota."
+    },
+    {
+      "q": "¿Hacéis preITV?",
+      "a": "Sí, revisamos los puntos críticos antes de pasar la inspección."
+    },
+    {
+      "q": "¿Cuánto tardáis en dar cita?",
+      "a": "Normalmente en 48-72 horas, salvo urgencias."
     }
   ],
-  "closingHeadline": "Tu BMW en Majadahonda, en buenas manos",
-  "closingCta": "Si tienes un BMW en Majadahonda y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW que Majadahonda merecía",
+  "closingCta": "Pide tu diagnóstico y descubre la diferencia frente al concesionario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,40 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Majadahonda:",
+  "testimonials": [
+    {
+      "name": "Pablo H.",
+      "neighborhood": "Los Peñascales",
+      "body": "Mi X5 45e tenía un fallo en el sistema híbrido que en el concesionario tardaban semanas en revisar. Aquí lo resolvieron en días.",
+      "rating": 5
+    },
+    {
+      "name": "Marina L.",
+      "neighborhood": "Casco Antiguo",
+      "body": "El presupuesto por teléfono coincidió exactamente con la factura final para el cambio de caja ZF.",
+      "rating": 5
+    },
+    {
+      "name": "Miguel S.",
+      "neighborhood": "La Ermita",
+      "body": "Cambio de turbo en mi 320d con fotos del estado real de la pieza vieja. Muy transparentes en todo el proceso.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Casco Antiguo",
+    "Los Peñascales",
+    "La Ermita",
+    "El Potrillo",
+    "Valdepalitos",
+    "Colonias del centro"
+  ],
+  "zoneAccessRoutes": [
+    "A-6",
+    "M-503",
+    "M-513",
+    "Cercanías C-7"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 6239,
   "lat": 40.37525,
   "lng": -3.24755,
-  "metaTitle": "Taller BMW en Nuevo Baztán | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Nuevo Baztán. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Nuevo Baztán y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Nuevo Baztán | Mecánica especializada Sureste",
+  "metaDescription": "Diagnóstico y reparación BMW en Nuevo Baztán y el Sureste de Madrid. Presupuesto cerrado, recambio de calidad y garantía por escrito. Solicita cita.",
+  "heroSubtitle": "El taller BMW de confianza para Nuevo Baztán, entre el barroco de Goyeneche y la carretera hacia Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Nuevo Baztán vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Nuevo Baztán te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Nuevo Baztán, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Nuevo Baztán tiene un carácter propio, con su conjunto barroco fundado por Juan de Goyeneche, pero sus vecinos hacen la misma vida que cualquier otro municipio del Sureste de Madrid: trayectos diarios hacia la capital o hacia los polígonos de Loeches y Arganda por la A-3. Eso implica muchos kilómetros de autovía, un desgaste distinto al de ciudad y una necesidad real de mantenimiento serio.",
+    "Recibimos bastantes BMW de Nuevo Baztán que llegan con síntomas típicos de uso en autovía prolongado: desgaste de neumáticos irregular, ruidos en la suspensión a alta velocidad o testigos de motor que aparecen tras trayectos largos. Es un perfil de avería distinto al de un coche de tráfico urbano, y lo tenemos en cuenta al diagnosticar."
+  ],
+  "servicesIntro": "Diagnóstico, motor, suspensión y electrónica adaptados a un uso de autovía frecuente, para clientes de Nuevo Baztán y el Sureste madrileño.",
+  "processIntro": "Cómo revisamos un BMW acostumbrado a los kilómetros de autovía entre Nuevo Baztán y Madrid.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa sin esperas",
+      "body": "En Nuevo Baztán concertamos cita para que tu BMW entre directamente al puesto de trabajo, sin dejarlo aparcado días esperando turno."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico con escáner de fábrica",
+      "body": "Usamos equipos de diagnóstico específicos BMW, capaces de leer y programar los mismos módulos que en el concesionario, incluida la unidad DME/DDE."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto por escrito antes de empezar",
+      "body": "No se toca un tornillo sin que sepas el precio final. Si aparece algo adicional durante el desmontaje, te llamamos antes de continuar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación y sustitución de piezas",
+      "body": "Montamos recambio de calidad contrastada, con las tolerancias y procedimientos que marca BMW para cada sistema, desde la cadena de distribución hasta la caja ZF 8HP."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Verificación final y entrega",
+      "body": "Comprobamos el trabajo con prueba dinámica, revisamos niveles y testigos, y te entregamos el vehículo con factura detallada y garantía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Nuevo Baztán.",
+  "commonIssuesIntro": "Averías habituales en BMW que hacen trayectos largos de autovía a diario, como es el caso de muchos vecinos de Nuevo Baztán.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Cuando el motor pierde fuerza a bajas revoluciones o suena como una cadena de bicicleta al ralentí, sospechamos primero del Vanos. La solución no siempre es cambiarlo entero: a veces basta con la junta o el sensor."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sistema de sobrealimentación",
+      "body": "Un turbo que no da la presión esperada puede deberse simplemente a un manguito de admisión con una grieta, mucho antes de plantearse cambiar el turbo completo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Alargamiento de la cadena de distribución",
+      "body": "El kit de distribución (cadena, guías y tensor) se desgasta antes de lo que muchos propietarios creen, especialmente en motores diésel con mucho kilometraje urbano."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP",
+      "body": "El mantenimiento cada 60.000-80.000 km del aceite de la ZF 8HP evita la mayoría de averías graves de esta caja, que de otro modo puede acabar necesitando una reparación completa."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de motor",
+      "body": "Fallos de sensores mal diagnosticados llevan a cambiar piezas caras sin necesidad. Nuestro diagnóstico busca siempre el sensor exacto antes de tocar nada más, incluida la sonda de temperatura del líquido refrigerante."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Un solo fabricante, cero dispersión",
+      "body": "Al no repartir el conocimiento entre veinte marcas, dominamos las particularidades de BMW: Valvetronic, Vanos, cajas ZF, refrigeración con electroválvulas."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico antes que sustitución",
+      "body": "No cambiamos piezas a lo loco esperando acertar. Diagnosticamos primero y sustituimos solo lo que realmente falla."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto transparente",
+      "body": "Detallamos cada partida del presupuesto para que entiendas en qué se va tu dinero."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía real",
+      "body": "Si algo falla por la reparación realizada dentro del plazo de garantía, lo solucionamos sin coste adicional."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Referencia en Nuevo Baztán y su zona",
+      "body": "Con los años nos hemos convertido en el taller de referencia para propietarios de BMW en Nuevo Baztán y los municipios cercanos."
     }
   ],
-  "zoneText": "Atendemos BMW en Nuevo Baztán y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Nuevo Baztán y el resto del Sureste de la Comunidad de Madrid, una zona de trayectos largos por autovía donde el desgaste del coche es distinto al del tráfico puramente urbano.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Nuevo Baztán?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿El uso de autovía desgasta el coche de forma distinta?",
+      "a": "Sí, sobre todo suspensión y neumáticos, además de un mayor estrés térmico en el turbo por velocidades sostenidas."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Revisáis el desgaste de neumáticos por trayectos largos?",
+      "a": "Sí, y podemos orientarte sobre la alineación si el desgaste es irregular."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto se tarda desde Nuevo Baztán hasta el taller?",
+      "a": "Un trayecto corto por la A-3, generalmente menos de media hora."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto cerrado antes de reparar?",
+      "a": "Siempre, por escrito."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con BMW de la generación E90 o F30?",
+      "a": "Sí, son de los modelos más habituales que recibimos de la zona."
+    },
+    {
+      "q": "¿Puedo dejar el coche mientras estoy en Madrid trabajando?",
+      "a": "Sí, es habitual entre nuestros clientes de Nuevo Baztán, coordinamos entrega para cuando vuelvas."
     }
   ],
-  "closingHeadline": "Tu BMW en Nuevo Baztán, en buenas manos",
-  "closingCta": "Si tienes un BMW en Nuevo Baztán y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Un BMW listo para la autovía, sin sorpresas",
+  "closingCta": "Pide cita desde Nuevo Baztán antes de que el próximo viaje a Madrid te dé un disgusto.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,36 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Nuevo Baztán que confían en nuestro trabajo.",
+  "testimonials": [
+    {
+      "name": "Zacarías Olalla",
+      "neighborhood": "Nuevo Baztán",
+      "body": "Hago la A-3 todos los días para ir a trabajar. Me revisaron la suspensión del Serie 3 y noté la diferencia enseguida.",
+      "rating": 5
+    },
+    {
+      "name": "Visitación Roldán",
+      "neighborhood": "Nuevo Baztán",
+      "body": "El X1 empezó a dar problemas de refrigeración en verano. Cambiaron el termostato electrónico y quedó solucionado.",
+      "rating": 5
+    },
+    {
+      "name": "Wenceslao Trigueros",
+      "neighborhood": "Villar del Olmo (cerca de Nuevo Baztán)",
+      "body": "Buena atención y presupuesto justo para la reparación del turbo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Nuevo Baztán",
+    "Villar del Olmo",
+    "Olmeda de las Fuentes"
+  ],
+  "zoneAccessRoutes": [
+    "A-3",
+    "M-224",
+    "R-3"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 188425,
   "lat": 40.32718,
   "lng": -3.7635,
-  "metaTitle": "Taller BMW en Leganés | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Leganés. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Leganés y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Leganés | Mecánica y Diagnosis Especializada",
+  "metaDescription": "Taller especialista en BMW en Leganés. Diagnóstico ISTA, mantenimiento, turbo, caja automática ZF y Vanos. Presupuesto claro antes de reparar tu BMW.",
+  "heroSubtitle": "Taller BMW de referencia en Leganés y el sur metropolitano de Madrid",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,143 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Leganés: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Leganés te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Leganés, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Leganés es un municipio grande, con más de 190.000 habitantes, y eso se traduce en un parque de BMW muy heterogéneo: desde utilitarios como el Serie 1 comprados por gente joven que trabaja en el polígono industrial, hasta berlinas Serie 5 de profesionales que se desplazan a diario hacia Madrid por la A-42. Zarzaquemada, Fuenlabrada limítrofe, San Nicasio y Vereda de Estudiantes tienen realidades de tráfico y uso muy distintas, y eso afecta a qué averías vemos más en cada zona.\n\nEn los barrios con más tráfico urbano, embrague y frenos se desgastan antes de lo esperado. En las zonas donde se hacen más kilómetros de autovía, lo que falla primero suele ser el turbo o la suspensión neumática en los modelos que la llevan. Conocemos estas diferencias porque llevamos años trabajando con clientes de todo el municipio.\n\nNo dependemos de la red oficial para diagnosticar: usamos el mismo software que usa un concesionario, así que detectamos con precisión qué módulo está fallando sin necesidad de desplazarte fuera de Leganés.\n\nTrabajamos tanto con particulares como con autónomos y pequeñas flotas que usan su BMW para desplazamientos profesionales, adaptando los mantenimientos a un uso más intensivo del vehículo.",
+  "servicesIntro": "Ofrecemos mantenimiento oficial, diagnosis avanzada, reparación de motor, transmisión, frenos, suspensión y climatización para toda la gama BMW.",
+  "processIntro": "El proceso empieza siempre escuchando lo que notas al volante, porque ahí suele estar la primera pista.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Consulta inicial",
+      "body": "Nos describes el síntoma: ruido, testigo encendido, pérdida de potencia o simplemente revisión programada."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica",
+      "body": "Conectamos el equipo oficial para leer los códigos de fallo de todos los sistemas del coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Inspección mecánica",
+      "body": "Comprobamos físicamente el estado de correas, fugas, pastillas y otros elementos de desgaste."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos qué hay que reparar y por qué, con precio cerrado antes de empezar."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con informe",
+      "body": "Al recoger el coche te damos un informe con lo realizado y recomendaciones para el futuro."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Leganés.",
+  "commonIssuesIntro": "Las averías que más vemos entre los BMW de Leganés y su área metropolitana:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Cadena de distribución",
+      "body": "En los motores N47 y N20 el estirado de la cadena de distribución provoca un ruido característico que si se ignora puede acabar en avería grave."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de fuerza en subida y humo azulado, común en diésel con más de 130.000 km y mantenimiento irregular."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones y retrasos al cambiar, especialmente en frío, que mejoran con el cambio de aceite específico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Vanos",
+      "body": "Ruido metálico al arrancar en frío en motores de gasolina, típico de desgaste del sistema de distribución variable."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores",
+      "body": "Fallos de sensores de temperatura, presión de admisión o caudal de aire que encienden el testigo sin síntoma evidente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas, no generalistas",
+      "body": "Trabajamos solo con BMW, así que conocemos sus fallos típicos por modelo y motorización."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Precio más ajustado que oficial",
+      "body": "El mismo nivel de diagnóstico, sin el sobrecoste de estructura de un concesionario."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Transparencia total",
+      "body": "Ves el presupuesto desglosado y decides tú qué reparar y con qué recambio."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Ubicación cómoda",
+      "body": "Accesible desde toda la red de autovías del sur de Madrid sin cruzar la ciudad."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "Toda reparación sale con garantía por escrito sobre mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos BMW en Leganés y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Cubrimos todo Leganés, desde el centro histórico hasta los polígonos y las nuevas zonas residenciales del sur.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Leganés?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis flotas de autónomos?",
+      "a": "Sí, adaptamos los planes de mantenimiento a un uso más intensivo del vehículo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo pagar la reparación a plazos?",
+      "a": "Consúltanos, valoramos opciones de financiación para reparaciones importantes."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Hacéis diagnosis sin compromiso?",
+      "a": "El diagnóstico tiene un coste que se descuenta si finalmente realizas la reparación con nosotros."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Tenéis recambios en stock?",
+      "a": "Los más habituales sí; para piezas específicas pedimos plazo de 24-48h."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Revisáis antes de la ITV?",
+      "a": "Sí, ofrecemos preITV para detectar puntos de rechazo con antelación."
+    },
+    {
+      "q": "¿Trabajáis con coches de más de 15 años?",
+      "a": "Sí, tenemos experiencia con toda la gama, incluidos modelos ya descatalogados."
+    },
+    {
+      "q": "¿Dónde estáis exactamente?",
+      "a": "En Leganés, con fácil acceso desde la A-42 y bien comunicado en transporte público."
     }
   ],
-  "closingHeadline": "Tu BMW en Leganés, en buenas manos",
-  "closingCta": "Si tienes un BMW en Leganés y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW en manos de especialistas en Leganés",
+  "closingCta": "Pide tu diagnóstico y descubre qué le pasa realmente a tu BMW.",
+  "testimonialsIntro": "Lo que dicen los clientes de Leganés:",
+  "testimonials": [
+    {
+      "name": "Andrés F.",
+      "neighborhood": "Zarzaquemada",
+      "body": "El ruido de la cadena de distribución de mi 320d lo detectaron a la primera. En otro taller me dijeron que era normal.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío M.",
+      "neighborhood": "San Nicasio",
+      "body": "Uso el coche para trabajo y necesitaba que me lo devolvieran rápido. Cumplieron el plazo que me dieron.",
+      "rating": 5
+    },
+    {
+      "name": "Miguel Á.",
+      "neighborhood": "Vereda de Estudiantes",
+      "body": "Presupuesto claro para el turbo de mi 118d, sin la típica ampliación a mitad de reparación.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Zarzaquemada",
+    "San Nicasio",
+    "Vereda de Estudiantes",
+    "Centro",
+    "El Carrascal",
+    "La Fortuna",
+    "Arroyo Culebro"
+  ],
+  "zoneAccessRoutes": [
+    "A-42",
+    "M-407",
+    "M-425",
+    "Metro Leganés Central"
+  ]
 }

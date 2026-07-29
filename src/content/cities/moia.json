@@ -6,9 +6,9 @@
   "population": 5793,
   "lat": 41.81009,
   "lng": 2.09581,
-  "metaTitle": "Taller BMW en Moià | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Moià. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Moià y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Moià | Bages, diagnosis oficial",
+  "metaDescription": "Taller BMW en Moià, comarca del Bages. Mecánica, electrónica y mantenimiento con diagnosis oficial. Presupuesto claro antes de reparar y garantía real.",
+  "heroSubtitle": "El taller BMW de referencia en Moià y el Moianès.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Moià — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Moià te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Moià, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Moià es la capital de la comarca del Moianès, con un entorno rural y de meseta que combina trayectos cortos dentro del pueblo con desplazamientos largos por carretera hacia Manresa, Vic o Barcelona.\n\nRecibimos BMW de propietarios de Moià y de toda la comarca que prefieren un taller especializado antes que un generalista, especialmente para averías de motor y de electrónica que requieren diagnosis precisa.",
+  "servicesIntro": "Mantenimiento, mecánica general y diagnosis electrónica para BMW, con cobertura de toda la comarca del Moianès.",
+  "processIntro": "Un proceso ordenado para que sepas en todo momento qué le pasa a tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Recogemos síntomas y el historial del vehículo antes de la visita."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica",
+      "body": "Conectamos el software oficial BMW para leer todos los módulos."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Presentamos el coste antes de iniciar cualquier reparación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Trabajamos con piezas de calidad homologada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final",
+      "body": "Verificamos en carretera que la avería queda resuelta."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Moià.",
+  "commonIssuesIntro": "Averías habituales en los BMW que combinan trayectos rurales y desplazamientos largos desde Moià.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí irregular en motores de gasolina con kilometraje elevado."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo desgastado",
+      "body": "El uso mixto rural-carretera acelera el desgaste del turbo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido en frío característico de los motores N47 y N20."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos por aceite de caja degradado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de admisión",
+      "body": "Fallos intermitentes que afectan al consumo y rendimiento."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Cobertura de toda la comarca",
+      "body": "Atendemos a clientes de Moià y de todo el Moianès."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis oficial",
+      "body": "Mismo software que la red oficial BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto claro",
+      "body": "Sin sorpresas ni añadidos de última hora."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Especialización real",
+      "body": "Mecánicos formados específicamente en BMW."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía en cada reparación",
+      "body": "Todo trabajo queda documentado y respaldado."
     }
   ],
-  "zoneText": "Atendemos BMW en Moià y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a Moià y a los municipios de toda la comarca del Moianès.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Moià?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atienden a toda la comarca del Moianès?",
+      "a": "Sí, recibimos vehículos de Moià y de los municipios cercanos habitualmente."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tardan en diagnosticar una avería?",
+      "a": "Normalmente el mismo día, salvo casos complejos."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajan con diésel y gasolina por igual?",
+      "a": "Sí, con formación específica para ambos tipos de motor."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dan presupuesto antes de reparar?",
+      "a": "Siempre, por escrito y aprobado por el cliente."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo dejar el coche fuera de horario?",
+      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
+    },
+    {
+      "q": "¿Ofrecen garantía en las reparaciones?",
+      "a": "Sí, todo trabajo queda documentado y respaldado."
     }
   ],
-  "closingHeadline": "Tu BMW en Moià, en buenas manos",
-  "closingCta": "Si tienes un BMW en Moià y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW de referencia en el Moianès",
+  "closingCta": "Pide cita hoy y confía tu BMW a especialistas de la comarca.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,30 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Moià y la comarca del Moianès.",
+  "testimonials": [
+    {
+      "name": "Marc Solà",
+      "neighborhood": "Moià centro",
+      "body": "Diagnosticaron un fallo de turbo en mi Serie 3 que otro taller no supo ver.",
+      "rating": 5
+    },
+    {
+      "name": "Judit Riba",
+      "neighborhood": "Moià",
+      "body": "Buen trato, presupuesto claro y coche listo en el plazo prometido.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Moià centro",
+    "El Moianès (comarca)",
+    "Calders (zona próxima)",
+    "Manresa (zona próxima)"
+  ],
+  "zoneAccessRoutes": [
+    "C-59",
+    "C-16"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 2478,
   "lat": 41.76657,
   "lng": 2.25228,
-  "metaTitle": "Taller BMW en Aiguafreda | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Aiguafreda. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Aiguafreda y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Aiguafreda | Vallès Oriental",
+  "metaDescription": "Taller especializado en BMW cerca de Aiguafreda, al pie del Montseny. Diagnóstico ISTA y técnicos formados en la marca. Servicio también con recogida.",
+  "heroSubtitle": "Atención especializada en BMW para Aiguafreda y los pueblos al pie del Montseny.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Aiguafreda vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Aiguafreda te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Aiguafreda, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Aiguafreda es un municipio pequeño del Vallès Oriental, con poco más de 2.600 habitantes, situado justo donde la C-17 empieza a subir hacia el Montseny y hacia Vic. Muchos de los BMW que vemos de esta zona son de propietarios que combinan una segunda residencia o casa de montaña con desplazamientos frecuentes a Barcelona o Granollers por trabajo, así que el coche pasa temporadas paradas y luego hace tiradas largas de carretera de forma intensa.\n\nEse patrón de uso -parado varias semanas y luego autovía seguida- es justo el que más penaliza a componentes como la batería, el sistema de frenos por óxido en los discos y el turbo en los diésel. No hace falta un taller a pie de calle en Aiguafreda para dar un buen servicio: coordinamos la recogida del vehículo en el pueblo o en localidades cercanas como Centelles o Tona, y devolvemos el coche revisado sin que el cliente tenga que perder el día.",
+  "servicesIntro": "Diagnóstico, mantenimiento y reparación de BMW con recogida disponible para Aiguafreda y alrededores.",
+  "processIntro": "Un proceso simple, pensado para quien vive fuera del área metropolitana pero no quiere renunciar a un taller especializado.",
   "processSteps": [
     {
       "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "body": "Conectamos el coche al software oficial de BMW en cuanto llega al taller."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el precio final, sin letra pequeña."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Autorización del cliente",
+      "body": "Confirmamos contigo antes de tocar una sola pieza."
     },
     {
       "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "body": "Técnicos formados específicamente en la mecánica BMW se encargan del trabajo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega coordinada",
+      "body": "Acordamos contigo el punto y la hora de entrega más cómodos, incluida recogida en Aiguafreda si lo necesitas."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Aiguafreda.",
+  "commonIssuesIntro": "Problemas típicos en BMW que pasan temporadas parados y luego hacen carretera larga.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Batería descargada",
+      "body": "Coches que se usan poco entre semana pierden carga y sufren arranques débiles, muy habitual en segundas residencias."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Óxido en discos de freno",
+      "body": "Semanas sin rodar dejan una capa de óxido superficial en los discos que conviene revisar antes de un viaje largo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Turbo tras parones",
+      "body": "Retomar la autovía después de semanas parado exige un cuidado especial en el arranque y enfriamiento del turbo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Vanos y Valvetronic",
+      "body": "El ralentí irregular tras un periodo de inactividad suele apuntar a estas unidades."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de presión de neumáticos",
+      "body": "Las bajadas de temperatura en la zona del Montseny afectan a la lectura de estos sensores en invierno."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en Aiguafreda",
+      "body": "No hace falta que te desplaces, coordinamos la recogida del vehículo."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialización BMW",
+      "body": "Sin rodeos: solo trabajamos con esta marca y sus particularidades."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnóstico ISTA oficial",
+      "body": "El mismo sistema que emplea la red de concesionarios."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Precio confirmado antes de empezar, sin sorpresas al recoger el coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención cercana",
+      "body": "Te explicamos cada avería con calma y sin prisas por teléfono o WhatsApp."
     }
   ],
-  "zoneText": "Atendemos BMW en Aiguafreda y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Aiguafreda y a los pueblos del entorno del Montseny y el Vallès Oriental, con recogida coordinada cuando el desplazamiento no es práctico.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Aiguafreda?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Tenéis que recoger el coche en Aiguafreda?",
+      "a": "Sí, coordinamos recogida y entrega para quien no pueda desplazarse."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con coches que solo se usan en vacaciones?",
+      "a": "Sí, es un caso muy habitual en la zona y sabemos qué revisar tras meses parados."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda una revisión completa?",
+      "a": "Normalmente un día, salvo que aparezca algo que requiera pieza específica."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo pedir cita por WhatsApp?",
+      "a": "Sí, es la vía más rápida para coordinar recogida y presupuesto."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Revisáis la batería antes de un viaje largo?",
+      "a": "Sí, lo recomendamos siempre en coches que llevan semanas parados."
+    },
+    {
+      "q": "¿Atendéis también furgonetas o solo turismos BMW?",
+      "a": "Nos centramos en turismos y SUV de la marca."
     }
   ],
-  "closingHeadline": "Tu BMW en Aiguafreda, en buenas manos",
-  "closingCta": "Si tienes un BMW en Aiguafreda y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Especialistas BMW, aunque vivas lejos del taller",
+  "closingCta": "Contáctanos desde Aiguafreda y te explicamos cómo coordinar la recogida de tu coche.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de propietarios de la comarca que confían en nuestro taller.",
+  "testimonials": [
+    {
+      "name": "Enric Vila",
+      "neighborhood": "Aiguafreda",
+      "body": "Mi Serie 5 pasa temporadas en la casa del pueblo. Me recogieron el coche y me explicaron por qué la batería no aguantaba.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Prat",
+      "neighborhood": "Centelles",
+      "body": "Buen trato y presupuesto claro para un problema de frenos con óxido. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Marc Solé",
+      "neighborhood": "Tona",
+      "body": "Vengo desde Tona con mi X1 cuando toca revisión. Siempre me han dado precios cerrados y honestos.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Aiguafreda",
+    "Centelles",
+    "Tona",
+    "Sant Martí de Centelles",
+    "Balenyà"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "BV-1485"
+  ]
 }

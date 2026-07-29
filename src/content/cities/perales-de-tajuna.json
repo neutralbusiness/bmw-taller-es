@@ -6,9 +6,9 @@
   "population": 2877,
   "lat": 40.23049,
   "lng": -3.35836,
-  "metaTitle": "Taller BMW en Perales de Tajuña | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Perales de Tajuña. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Perales de Tajuña y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Perales de Tajuña | Diagnosis y mecánica",
+  "metaDescription": "Reparación y mantenimiento BMW para Perales de Tajuña. Recogida a domicilio, diagnosis con equipo original y taller de referencia en la comarca de Las Vegas.",
+  "heroSubtitle": "Tu BMW, cuidado sin tener que salir de Las Vegas",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Perales de Tajuña vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Perales de Tajuña te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Perales de Tajuña, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Perales de Tajuña es un pueblo de poco menos de 3.000 habitantes en plena comarca de Las Vegas, a unos 50 kilómetros al sureste de Madrid capital. No hay ningún taller especializado en BMW dentro del municipio, y eso es algo que sabemos de sobra: la mayoría de nuestros clientes de aquí conducen hasta Arganda del Rey o directamente hasta Madrid para cualquier revisión que no sea de urgencia.",
+    "Lo que ofrecemos es justo lo que falta: un punto de recogida acordado en el propio pueblo (normalmente en la zona del Ayuntamiento o la gasolinera de la carretera de Chinchón) y traslado del vehículo al taller de la red más cercano, con el coche de vuelta el mismo día siempre que la reparación lo permita.",
+    "No prometemos un taller BMW en cada esquina de la Vega del Tajuña, porque no existe y sería mentira decirlo. Prometemos resolver el problema real: que vivir en un pueblo agrícola de Madrid no te obligue a perder media jornada laboral por un cambio de aceite."
+  ],
+  "servicesIntro": "Desde mantenimiento programado hasta diagnosis de averías eléctricas, cubrimos toda la gama BMW con recogida en Perales de Tajuña incluida en el servicio.",
+  "processIntro": "El proceso está pensado para que no tengas que coger la carretera si no quieres.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Llamada y diagnóstico previo",
+      "body": "Nos cuentas el síntoma por teléfono o WhatsApp y te damos una primera valoración antes de mover el coche."
+    },
+    {
+      "title": "Recogida en el pueblo",
+      "body": "Acordamos un punto fijo en Perales de Tajuña y recogemos el vehículo con conductor propio o grúa si no arranca."
+    },
+    {
+      "title": "Diagnosis en taller",
+      "body": "En el taller de la red conectamos el equipo de diagnosis original BMW y revisamos los códigos de avería reales."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el presupuesto antes de tocar nada; no se factura ni un tornillo sin tu aprobación."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega de vuelta en Perales",
+      "body": "Cuando el coche está listo, lo devolvemos al mismo punto de recogida, sin que tengas que desplazarte."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Perales de Tajuña.",
+  "commonIssuesIntro": "Estas son las averías que más repetimos en BMW de propietarios de la zona de Las Vegas.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío en motores de gasolina de la serie 1 y 3; muy típico en coches con más de 120.000 km sin cambio de aceite adecuado."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "En diésel usados para desplazamientos largos hasta Madrid, el turbo sufre por ciclos de arranque en frío y carretera exigente."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "En los N47 y N20 el estirado de la cadena da síntomas de traqueteo al ralentí que conviene no ignorar."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos o tirones en frío suelen resolverse con actualización de software y cambio del aceite específico de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "El termostato electrónico y los sensores de nivel de líquido dan fallos frecuentes por el uso en carretera con pendientes hacia el Tajuña."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida real en el pueblo",
+      "body": "No es una promesa de marketing: tenemos punto fijo de recogida en Perales y lo cumplimos cada semana."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo original",
+      "body": "Usamos el mismo software que usaría un concesionario BMW, no un lector genérico OBD."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Cerramos precio antes de reparar y no añadimos partidas nuevas sin avisar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú decides si originales o alternativas de calidad probada, con la diferencia de precio explicada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo con el mecánico",
+      "body": "Hablas con quien repara tu coche, no con un intermediario comercial."
     }
   ],
-  "zoneText": "Atendemos BMW en Perales de Tajuña y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Cubrimos todo el casco urbano de Perales de Tajuña y las fincas y urbanizaciones diseminadas junto a la carretera de Chinchón y el valle del Tajuña.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Perales de Tajuña?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Tenéis taller físico en Perales de Tajuña?",
+      "a": "No, el taller físico está en la red cercana; en Perales solo hacemos recogida y entrega del vehículo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tarda la recogida desde que llamo?",
+      "a": "Normalmente entre 24 y 48 horas, salvo urgencias que gestionamos el mismo día."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo llevar yo mismo el coche al taller?",
+      "a": "Por supuesto, la recogida es opcional; si prefieres llevarlo tú, te damos la dirección exacta."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con diésel y gasolina por igual?",
+      "a": "Sí, tenemos experiencia con toda la gama BMW, tanto motores diésel N47/N57 como gasolina B48/B58."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿El presupuesto tiene coste?",
+      "a": "La diagnosis inicial y el presupuesto no tienen coste si finalmente reparas con nosotros."
+    },
+    {
+      "q": "¿Qué pasa si el coche no arranca en Perales?",
+      "a": "Coordinamos grúa hasta el taller sin coste añadido dentro del servicio de recogida."
     }
   ],
-  "closingHeadline": "Tu BMW en Perales de Tajuña, en buenas manos",
-  "closingCta": "Si tienes un BMW en Perales de Tajuña y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, recogido en Perales de Tajuña y reparado como merece",
+  "closingCta": "Escríbenos y acordamos la recogida esta misma semana.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,38 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Vecinos de Perales de Tajuña que ya han confiado en nosotros.",
+  "testimonials": [
+    {
+      "name": "Ángel Serrano",
+      "neighborhood": "Perales de Tajuña",
+      "body": "Recogieron el 320d en la plaza y me lo devolvieron a la tarde con el turbo cambiado. Sin dramas.",
+      "rating": 5
+    },
+    {
+      "name": "Marisol Peña",
+      "neighborhood": "Perales de Tajuña",
+      "body": "Vivo cerca del río y pensaba que tendría que ir a Madrid sí o sí. Al final ni salí del pueblo.",
+      "rating": 5
+    },
+    {
+      "name": "Fernando Olmo",
+      "neighborhood": "Perales de Tajuña",
+      "body": "El presupuesto se cumplió al céntimo, cosa rara en talleres de importación.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Casco urbano",
+    "Carretera de Chinchón",
+    "Zona del río Tajuña",
+    "Polígono agrícola de Las Vegas",
+    "Urbanizaciones cercanas a Tielmes"
+  ],
+  "zoneAccessRoutes": [
+    "M-311 hacia Arganda del Rey",
+    "M-204 hacia Chinchón",
+    "A-3 vía Arganda para llegar a Madrid"
+  ]
 }

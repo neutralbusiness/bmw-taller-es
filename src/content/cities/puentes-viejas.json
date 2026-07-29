@@ -6,9 +6,9 @@
   "population": 642,
   "lat": 40.97806,
   "lng": -3.56085,
-  "metaTitle": "Taller BMW en Puentes Viejas | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Puentes Viejas. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Puentes Viejas y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Puentes Viejas | Sierra Norte Madrid",
+  "metaDescription": "Servicio BMW para Puentes Viejas: recogida a domicilio, diagnosis original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
+  "heroSubtitle": "El embalse de Pinilla también tiene su taller BMW de confianza",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Puentes Viejas: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Puentes Viejas te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Puentes Viejas, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Puentes Viejas es un municipio singular de la Sierra Norte de Madrid, formado por la unión de varios núcleos pequeños -Cervera, Manjirón, Paredes de Buitrago y Robledillo de la Jara entre otros- en torno al embalse de Pinilla. En conjunto no llega a los 500 habitantes, repartidos en pedanías con carácter propio.",
+    "No hay taller especializado en BMW en ninguno de estos núcleos, así que damos servicio desde el taller de referencia de la Sierra Norte, con recogida coordinada según la pedanía concreta donde te encuentres.",
+    "El entorno del embalse trae un uso particular del vehículo: pistas y carreteras estrechas, cambios bruscos de altitud y un invierno duro que exige atención especial a frenos, suspensión y refrigeración."
+  ],
+  "servicesIntro": "Mantenimiento adaptado a entorno de embalse y montaña, frenos, suspensión y diagnosis electrónica.",
+  "processIntro": "Coordinamos la recogida según la pedanía exacta donde vivas.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Consulta telefónica",
+      "body": "Nos indicas en qué pedanía de Puentes Viejas te encuentras y valoramos el problema."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida coordinada",
+      "body": "Fijamos un punto accesible según la pedanía, Cervera, Manjirón, Paredes o Robledillo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnosis con escáner original",
+      "body": "Revisamos la memoria de averías real antes de proponer nada."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto por teléfono",
+      "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega de vuelta",
+      "body": "Devolvemos el coche al mismo punto acordado en la pedanía."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Puentes Viejas.",
+  "commonIssuesIntro": "Averías típicas en BMW usados en el entorno del embalse de Pinilla y la Sierra Norte.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El frío intenso agrava el ruido de arranque en frío por desgaste de Vanos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las cuestas y pistas del entorno exigen mucho al turbo en diésel de más kilometraje."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El estirado de cadena se hace más evidente en las heladas del invierno serrano."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Las pendientes pronunciadas pueden acentuar tirones si la caja no tiene el software actualizado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Revisamos con frecuencia el líquido refrigerante por las exigencias del clima de montaña."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Conocemos las pedanías de Puentes Viejas",
+      "body": "Coordinamos recogida específica según dónde vivas dentro del municipio."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Atención a frenos y suspensión",
+      "body": "Componentes clave para el uso de pistas y carreteras estrechas."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis con equipo original",
+      "body": "Precisión de concesionario sin bajar hasta Madrid."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo y cercano",
+      "body": "Hablas con quien repara tu coche, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos BMW en Puentes Viejas y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todas las pedanías de Puentes Viejas: Cervera de Buitrago, Manjirón, Paredes de Buitrago y Robledillo de la Jara.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Puentes Viejas?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Hay taller BMW en alguna pedanía de Puentes Viejas?",
+      "a": "No, ofrecemos recogida desde cualquier pedanía hasta el taller de referencia de la Sierra Norte."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cubrís todas las pedanías por igual?",
+      "a": "Sí, Cervera, Manjirón, Paredes de Buitrago y Robledillo de la Jara tienen el mismo servicio."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿La recogida cambia según la pedanía?",
+      "a": "Solo el punto de encuentro; el servicio y los tiempos son los mismos."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis en invierno con nieve?",
+      "a": "Sí, aunque en días de nieve intensa reprogramamos por seguridad."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con vehículos xDrive?",
+      "a": "Sí, muy habitual en esta zona de montaña y con experiencia específica."
+    },
+    {
+      "q": "¿Cuánto tarda la recogida desde que llamo?",
+      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso según tu pedanía."
     }
   ],
-  "closingHeadline": "Tu BMW en Puentes Viejas, en buenas manos",
-  "closingCta": "Si tienes un BMW en Puentes Viejas y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Cada pedanía de Puentes Viejas, con el mismo taller de confianza",
+  "closingCta": "Llámanos e indícanos tu pedanía para coordinar la recogida.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Testimonios de vecinos de las distintas pedanías de Puentes Viejas.",
+  "testimonials": [
+    {
+      "name": "Eugenio Mazón",
+      "neighborhood": "Cervera de Buitrago, Puentes Viejas",
+      "body": "Vivo en una pedanía pequeña y pensé que sería complicado. Vinieron sin problema.",
+      "rating": 5
+    },
+    {
+      "name": "Aurora Salcedo",
+      "neighborhood": "Paredes de Buitrago, Puentes Viejas",
+      "body": "Los frenos estaban muy gastados por las pistas y lo detectaron a la primera.",
+      "rating": 5
+    },
+    {
+      "name": "Higinio Bermejo",
+      "neighborhood": "Manjirón, Puentes Viejas",
+      "body": "Explicaron bien por qué el frío afecta tanto aquí arriba. Trato muy honesto.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Cervera de Buitrago",
+    "Manjirón",
+    "Paredes de Buitrago",
+    "Entorno del embalse de Pinilla"
+  ],
+  "zoneAccessRoutes": [
+    "M-127 hacia Buitrago del Lozoya",
+    "M-133 hacia el embalse de Pinilla",
+    "A-1 hacia Madrid vía Buitrago"
+  ]
 }

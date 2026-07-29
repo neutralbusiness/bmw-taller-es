@@ -6,9 +6,9 @@
   "population": 171857,
   "lat": 39.98567,
   "lng": -0.04935,
-  "metaTitle": "Taller BMW en Castelló de la Plana | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Castelló de la Plana. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Castelló de la Plana y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Castellón de la Plana | Diagnóstico especializado",
+  "metaDescription": "Taller BMW en Castelló de la Plana: diagnóstico oficial, Vanos, turbo, caja ZF y mantenimiento completo. Servimos Grau, Centro, Fadrell y toda la ciudad.",
+  "heroSubtitle": "Mecánica BMW especializada en el corazón de Castelló de la Plana.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,151 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Castelló de la Plana — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Castelló de la Plana te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Castelló de la Plana, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Castelló de la Plana es la mayor ciudad de la provincia y una de las plazas con más parque BMW de toda la Comunitat Valenciana, entre el casco urbano, el Grau y las urbanizaciones que han crecido hacia la playa en las últimas décadas. Con una economía apoyada en el sector cerámico, el puerto y la universidad, no es raro cruzarse con series 3, 5 y X en cualquier barrio de la ciudad.\n\nPrecisamente por ese volumen, muchos propietarios se han cansado de esperar semanas para una cita en el concesionario, o de pagar tarifas de capital de provincia por revisiones sencillas. Nuestro taller nace para dar una alternativa seria: mismo nivel de diagnóstico, atención más ágil.\n\nTrabajamos tanto con coches de uso diario en la ciudad, sometidos al tráfico y las paradas continuas del centro, como con vehículos que hacen kilómetros largos por la AP-7 hacia Valencia o Barcelona, y que sufren un desgaste distinto en turbo, caja de cambios y refrigeración.\n\nTambién atendemos con frecuencia BMW que llegan desde los polígonos industriales cercanos al puerto, donde el uso comercial intensivo acelera el desgaste de piezas que en un uso normal durarían mucho más.\n\nSea cual sea tu barrio en Castelló, el objetivo es el mismo: un diagnóstico certero la primera vez, sin vueltas ni presupuestos inflados.",
+  "servicesIntro": "Desde mantenimiento programado hasta averías complejas de motor, caja y electrónica.",
+  "processIntro": "Este es el proceso que seguimos con cada BMW que entra en el taller, venga del centro o del Grau.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Escaneo inicial completo",
+      "body": "Revisamos todos los módulos electrónicos del vehículo, no solo el motor, para no dejar fallos ocultos sin detectar."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Explicación técnica al cliente",
+      "body": "Te enseñamos el diagnóstico en pantalla y te lo traducimos a términos claros antes de autorizar nada."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Intervención mecánica",
+      "body": "Aplicamos el procedimiento del fabricante para tu motor y caja concretos, no un arreglo genérico."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Control de calidad interno",
+      "body": "Un segundo técnico revisa el trabajo antes de dar el coche por terminado."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con informe",
+      "body": "Te devolvemos el vehículo con un informe de lo hecho y recomendaciones de mantenimiento futuro."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Castelló de la Plana.",
+  "commonIssuesIntro": "Los fallos más habituales que vemos en los BMW que circulan por Castelló capital.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Sobrecalentamiento por bomba de agua eléctrica",
+      "body": "La bomba de agua eléctrica de muchos BMW modernos falla sin previo aviso y provoca subidas de temperatura repentinas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo soplado o con juego excesivo",
+      "body": "Un silbido agudo al acelerar o humo azulado en el escape apunta a un turbo con los cojinetes gastados."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Vanos que hace el motor tiritar en ralentí",
+      "body": "Cuando el Vanos pierde presión de aceite el motor vibra más de lo normal al ralentí y el testigo de motor puede encenderse."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP que no engancha bien la primera",
+      "body": "Un retardo notable al meter la marcha desde parado suele ser señal de que toca revisar el aceite y los cuerpos de válvulas de la ZF8."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Cadena de distribución con chasquido en frío",
+      "body": "El ruido metálico durante los primeros segundos tras el arranque es la alarma más clara de una cadena a punto de fallar."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Años de experiencia solo con motores alemanes",
+      "body": "Nuestros técnicos se han formado específicamente en la electrónica y mecánica de BMW, no en talleres multimarca genéricos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Transparencia en cada presupuesto",
+      "body": "No hay letra pequeña: el precio que te damos es el que pagas, salvo que aparezca algo nuevo y te avisemos antes."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Recogida y entrega si lo necesitas",
+      "body": "Sabemos que perder un día entero sin coche no siempre es viable, por eso facilitamos la logística cuando hace falta."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación sale del taller con garantía documentada sobre pieza y mano de obra."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cita sin esperas eternas",
+      "body": "Al no depender de la agenda de un concesionario grande, solemos dar cita en días, no en semanas."
     }
   ],
-  "zoneText": "Atendemos BMW en Castelló de la Plana y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a toda Castelló de la Plana y su área metropolitana, desde el centro histórico hasta el Grau y las zonas de expansión hacia la playa, además de los municipios cercanos que conectan por la AP-7 y la N-340.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Castelló de la Plana?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo dejar el coche por avería sin cita previa?",
+      "a": "Es posible, pero recomendamos llamar antes para asegurarte de que podemos atenderte el mismo día."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con flotas de empresas del polígono?",
+      "a": "Sí, tenemos varios clientes con flotas comerciales y ofrecemos condiciones adaptadas a mantenimiento recurrente."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Tenéis coche de sustitución?",
+      "a": "Disponemos de vehículo de cortesía sujeto a disponibilidad; consúltalo al pedir cita."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un diagnóstico completo?",
+      "a": "Normalmente entre 45 minutos y una hora, dependiendo de la complejidad del síntoma."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Atendéis BMW eléctricos e híbridos como el i3 o el 330e?",
+      "a": "Sí, contamos con formación y equipo específico para la parte de alta tensión de estos modelos."
+    },
+    {
+      "q": "¿Hacéis la revisión de mantenimiento programado tipo concesionario?",
+      "a": "Sí, seguimos los mismos intervalos y procedimientos que marca BMW, pero a precio de taller independiente."
+    },
+    {
+      "q": "¿Qué garantía dais en las reparaciones?",
+      "a": "Toda reparación sale con garantía por escrito sobre pieza y mano de obra."
     }
   ],
-  "closingHeadline": "Tu BMW en Castelló de la Plana, en buenas manos",
-  "closingCta": "Si tienes un BMW en Castelló de la Plana y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Castelló necesitaba",
+  "closingCta": "Pide cita y comprueba la diferencia de un taller especializado en tu ciudad.",
+  "testimonialsIntro": "Clientes de distintos barrios de Castelló que ya nos han confiado su BMW.",
+  "testimonials": [
+    {
+      "name": "Vicent M.",
+      "neighborhood": "Grau de Castelló",
+      "body": "Llevo el X3 aquí desde hace dos años. El diagnóstico del turbo fue exacto, sin probar piezas al tuntún.",
+      "rating": 5
+    },
+    {
+      "name": "Amparo S.",
+      "neighborhood": "Centro",
+      "body": "Cambié del concesionario a este taller y la diferencia de precio es notable sin perder calidad de trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Raül T.",
+      "neighborhood": "Fadrell",
+      "body": "El ruido de la caja ZF que tenía el 520d desapareció después de que revisaran el aceite y los cuerpos de válvulas.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina B.",
+      "neighborhood": "Ciutat Jardí",
+      "body": "Muy claros explicando el problema del Vanos, sin tecnicismos que no entiendes. Volveré seguro.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centro",
+    "Grau de Castelló",
+    "Ermita",
+    "Fadrell",
+    "Rafalafena",
+    "Ciutat Jardí",
+    "Marina",
+    "Sant Llorenç"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "A-23",
+    "N-340",
+    "CV-10",
+    "CV-16"
+  ]
 }

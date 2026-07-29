@@ -6,9 +6,9 @@
   "population": 145,
   "lat": 40.83947,
   "lng": -3.26577,
-  "metaTitle": "Taller BMW en Malaguilla | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Malaguilla. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Malaguilla y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Malaguilla | BMW Taller Guadalajara",
+  "metaDescription": "Servicio especializado en BMW para Malaguilla y la comarca de Guadalajara. Diagnóstico oficial y presupuesto claro, con recogida a domicilio.",
+  "heroSubtitle": "Atención especializada BMW para Malaguilla",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Malaguilla, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Malaguilla te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Malaguilla, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Malaguilla es un municipio pequeño de la provincia de Guadalajara, con un ritmo de vida tranquilo y sin talleres especializados en BMW en el propio pueblo. Los vecinos que tienen uno suelen desplazarse hacia Guadalajara capital o Madrid para cualquier revisión seria.\n\nOfrecemos recogida a domicilio para facilitar el mantenimiento sin necesidad de recorrer kilómetros de carretera, manteniendo el mismo nivel de diagnóstico oficial que en cualquier otra zona de nuestra red.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW, con recogida a domicilio.",
+  "processIntro": "Facilitamos el proceso para quienes viven en un pueblo pequeño sin taller especializado cercano.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto",
+      "body": "Nos cuentas el síntoma del coche por teléfono o WhatsApp."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida",
+      "body": "Coordinamos la recogida del vehículo en Malaguilla."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnóstico",
+      "body": "Identificamos el origen del problema con software oficial de BMW."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto",
+      "body": "Coste detallado antes de reparar nada."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega",
+      "body": "Devolvemos el coche en el punto acordado contigo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Malaguilla.",
+  "commonIssuesIntro": "En los BMW de Malaguilla y alrededores vemos con frecuencia:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Turbo",
+      "body": "Pérdida de potencia en vehículos con uso de carretera hacia Guadalajara."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Vanos",
+      "body": "Ruido en frío en motores de gasolina con kilometraje medio."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Refrigeración",
+      "body": "Fugas menores que conviene detectar antes de que afecten al rendimiento del motor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores",
+      "body": "Testigos encendidos por fallos puntuales de sensores."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar que se corrigen con mantenimiento específico."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida a domicilio",
+      "body": "Evita el desplazamiento hasta Guadalajara o Madrid."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico oficial",
+      "body": "Mismo nivel técnico que un concesionario BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto por escrito",
+      "body": "Antes de cualquier reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trato directo",
+      "body": "Sin intermediarios ni asesores comerciales."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "En cada reparación realizada."
     }
   ],
-  "zoneText": "Atendemos BMW en Malaguilla y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Malaguilla y municipios cercanos de la comarca de Guadalajara, con recogida a domicilio como servicio habitual.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Malaguilla?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Malaguilla?",
+      "a": "Sí, es nuestro servicio habitual para localidades pequeñas de la comarca."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Hay que desplazarse hasta el taller?",
+      "a": "No necesariamente, podemos gestionar todo sin que te muevas."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Sí, siempre por escrito y detallado."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes de siniestro con las principales aseguradoras."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Qué garantía tienen las reparaciones?",
+      "a": "12 meses en mano de obra, según la pieza utilizada."
+    },
+    {
+      "q": "¿Cuánto tarda la recogida y devolución?",
+      "a": "Depende de la reparación; te damos plazo estimado al confirmar el diagnóstico."
     }
   ],
-  "closingHeadline": "Tu BMW en Malaguilla, en buenas manos",
-  "closingCta": "Si tienes un BMW en Malaguilla y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW llega hasta Malaguilla",
+  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que tengas que desplazarte.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,36 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opinión de un vecino de Malaguilla:",
+  "testimonials": [
+    {
+      "name": "Javier R.",
+      "neighborhood": "Malaguilla",
+      "body": "Vinieron a recoger el coche sin que tuviera que desplazarme hasta Guadalajara. Presupuesto claro desde el principio.",
+      "rating": 5
+    },
+    {
+      "name": "Dolors E.",
+      "neighborhood": "Malaguilla",
+      "body": "Cambio de aceite de la caja ZF de mi X1 tras notar tirones en frío durante meses.",
+      "rating": 5
+    },
+    {
+      "name": "Ramón F.",
+      "neighborhood": "Malaguilla",
+      "body": "Diagnóstico del Vanos de mi 320d con la misma seriedad que esperaría de un concesionario.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Malaguilla",
+    "Cogolludo",
+    "Humanes",
+    "Valdepeñas de la Sierra"
+  ],
+  "zoneAccessRoutes": [
+    "CM-1006",
+    "A-1"
+  ]
 }

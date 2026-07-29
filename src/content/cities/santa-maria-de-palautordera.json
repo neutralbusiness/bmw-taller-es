@@ -6,9 +6,9 @@
   "population": 9196,
   "lat": 41.68447,
   "lng": 2.44644,
-  "metaTitle": "Taller BMW en Santa Maria de Palautordera | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Santa Maria de Palautordera. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Santa Maria de Palautordera y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Santa Maria de Palautordera | Vallès Oriental",
+  "metaDescription": "Taller BMW especializado en Santa Maria de Palautordera, junto al Montseny. Diagnosis original, mecánica y mantenimiento con garantía.",
+  "heroSubtitle": "Especialistas BMW a las puertas del Montseny",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Santa Maria de Palautordera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Santa Maria de Palautordera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Santa Maria de Palautordera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Santa Maria de Palautordera, en la comarca del Vallès Oriental y a las puertas del Montseny, combina la C-35 como vía rápida hacia Barcelona con las carreteras de montaña que suben hacia el parque natural. Esa mezcla de autovía y curvas de montaña desgasta de forma particular la suspensión y los frenos de los BMW de la zona.\n\nTrabajamos con propietarios que usan su BMW tanto para el desplazamiento diario hacia Barcelona como para las escapadas de fin de semana hacia el Montseny, ajustando cada revisión a ese doble uso, urbano y de montaña.",
+  "servicesIntro": "Mecánica, electrónica y mantenimiento BMW con recambios homologados y diagnosis original.",
+  "processIntro": "Cinco pasos claros para que sepas siempre qué se está haciendo con tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción",
+      "body": "Recogemos el síntoma y el historial del vehículo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis",
+      "body": "Escaneo completo con equipo original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto",
+      "body": "Comunicación clara antes de tocar el vehículo."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Trabajo realizado por técnicos especializados en BMW."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega",
+      "body": "Prueba de ruta y verificación final del trabajo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Santa Maria de Palautordera.",
+  "commonIssuesIntro": "Averías habituales en BMW de la zona del Montseny, por el uso combinado de autovía y montaña.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío por desgaste del sistema variable de válvulas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia progresiva por exigencia de pendientes de montaña."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Revisión preventiva del tensor en N47."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones resueltos con el aceite específico correcto."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Frenos y suspensión",
+      "body": "Desgaste acelerado por el trazado sinuoso hacia el Montseny."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos BMW",
+      "body": "Todo el taller enfocado en una sola marca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis de nivel oficial",
+      "body": "Mismo software que un concesionario."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Conocimiento del terreno",
+      "body": "Ajustamos revisiones al uso combinado de autovía y montaña."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Sin ampliaciones sorpresa."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía escrita",
+      "body": "Toda reparación queda documentada."
     }
   ],
-  "zoneText": "Atendemos BMW en Santa Maria de Palautordera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Santa Maria de Palautordera y a los municipios del Vallès Oriental cercanos al Montseny.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Santa Maria de Palautordera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con toda la gama BMW?",
+      "a": "Sí, incluidos modelos híbridos."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Necesito cita previa?",
+      "a": "Sí, para reservar tiempo de diagnosis."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Revisáis frenos y suspensión?",
+      "a": "Sí, especialmente exigido por las carreteras del Montseny."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Mantengo la garantía de fábrica?",
+      "a": "Sí, seguimos el plan de mantenimiento oficial."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais coche de sustitución?",
+      "a": "Según disponibilidad, consúltalo al reservar."
+    },
+    {
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Entre 30 y 60 minutos habitualmente."
+    },
+    {
+      "q": "¿Dais presupuesto sin compromiso?",
+      "a": "Siempre, antes de cualquier reparación."
     }
   ],
-  "closingHeadline": "Tu BMW en Santa Maria de Palautordera, en buenas manos",
-  "closingCta": "Si tienes un BMW en Santa Maria de Palautordera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El especialista BMW a las puertas del Montseny",
+  "closingCta": "Reserva tu cita en Santa Maria de Palautordera",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,35 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Santa Maria de Palautordera que confían en el taller.",
+  "testimonials": [
+    {
+      "name": "Anna Vidal",
+      "neighborhood": "Santa Maria de Palautordera",
+      "body": "Revisión de frenos antes de subir al Montseny, muy tranquilizador saber que todo está bien.",
+      "rating": 5
+    },
+    {
+      "name": "Marc Estrada",
+      "neighborhood": "Santa Maria de Palautordera",
+      "body": "Diagnóstico rápido de un ruido en frío que resultó ser la cadena de distribución.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Balcells",
+      "neighborhood": "Santa Maria de Palautordera",
+      "body": "Buen trato y precio justo para el cambio de turbo de mi X1.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centre",
+    "Can Bassa",
+    "Zona del Montseny"
+  ],
+  "zoneAccessRoutes": [
+    "C-35 hacia Barcelona",
+    "BV-5301 hacia el Montseny"
+  ]
 }

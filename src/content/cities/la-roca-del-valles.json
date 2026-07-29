@@ -6,9 +6,9 @@
   "population": 10214,
   "lat": 41.58333,
   "lng": 2.33333,
-  "metaTitle": "Taller BMW en La Roca del Vallès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en La Roca del Vallès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en La Roca del Vallès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en La Roca del Vallès | Especialistas del Vallès Oriental",
+  "metaDescription": "Taller BMW especializado en La Roca del Vallès. Diagnosis original, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado antes de reparar.",
+  "heroSubtitle": "Especialistas en BMW en La Roca del Vallès, junto a la AP-7",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,139 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en La Roca del Vallès — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en La Roca del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en La Roca del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "La Roca del Vallès es conocida por su gran centro comercial y su posición estratégica junto a la AP-7 y la C-60, lo que genera un tráfico constante de vehículos comerciales y particulares que hacen trayectos frecuentes hacia Barcelona, Granollers o Girona. Ese uso intensivo de autovía desgasta de forma particular el turbo y la caja de cambios automática en los BMW diésel con más kilómetros.\n\nTambién trabajamos con vehículos vinculados a la actividad logística y comercial del entorno, que hacen un uso más exigente del coche que el propietario particular medio, algo que se refleja en el tipo de averías que recibimos en el taller.\n\nSomos un taller especializado exclusivamente en BMW, con diagnosis original y técnicos que no reparten su atención entre varias marcas distintas. Recibimos clientes de La Roca del Vallès, pero también de Cardedeu, Vilanova del Vallès y Granollers.",
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación de motor y caja, con foco exclusivo en BMW.",
+  "processIntro": "Nuestro proceso de trabajo con cada vehículo que entra al taller.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y toma de datos",
+      "body": "Anotamos el historial que nos cuentas antes de conectar cualquier equipo de diagnosis."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo original",
+      "body": "Escaneamos todos los módulos electrónicos con el software oficial de BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos el problema con claridad y damos un coste cerrado antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación documentada",
+      "body": "Cada pieza que se monta queda registrada con su referencia exacta."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final en carretera",
+      "body": "Probamos el coche en condiciones reales, incluida autovía si procede."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por La Roca del Vallès.",
+  "commonIssuesIntro": "Averías frecuentes en los BMW que recibimos de La Roca del Vallès y el Vallès Oriental.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic con fallo de potencia",
+      "body": "El uso combinado de tráfico comercial y urbano desgasta antes este sistema en motores de gasolina."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo fatigado por la AP-7",
+      "body": "El uso frecuente en autovía hacia Barcelona o Girona adelanta el desgaste del turbo en diésel con kilometraje alto."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución estirada",
+      "body": "El ruido metálico en frío es la señal más clara, frecuente en motores N47 sin revisión preventiva."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos que suelen resolverse con un cambio correcto del aceite específico de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración defectuosos",
+      "body": "Avisos intermitentes de temperatura, comunes en coches con uso mixto comercial y de autovía."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Únicamente BMW",
+      "body": "Todo el taller está orientado a una sola marca, sin dispersar el conocimiento técnico."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Junto a la AP-7 y C-60",
+      "body": "Fácil acceso desde La Roca del Vallès y municipios cercanos del Vallès Oriental."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "El precio pactado es el que se cobra al final, sin sorpresas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Diagnosis con equipo original",
+      "body": "El mismo software que usa la red oficial de la marca."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "Cada reparación incluye garantía por escrito de pieza y mano de obra."
     }
   ],
-  "zoneText": "Atendemos BMW en La Roca del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a clientes de La Roca del Vallès y de los municipios cercanos del Vallès Oriental.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en La Roca del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis vehículos comerciales de la zona logística?",
+      "a": "Sí, damos servicio a furgonetas y turismos de uso comercial con condiciones adaptadas al volumen de uso."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿El diagnóstico tiene coste?",
+      "a": "Se descuenta del importe final si decides reparar con nosotros."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda una reparación de turbo?",
+      "a": "Normalmente entre 1 y 2 días laborables, según disponibilidad de pieza."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche varios días?",
+      "a": "Sin problema, disponemos de espacio para custodiarlo."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Revisáis el coche antes de un viaje largo?",
+      "a": "Es un servicio muy solicitado, sobre todo revisando turbo, caja y refrigeración."
+    },
+    {
+      "q": "¿Puedo llamar antes de traer el coche?",
+      "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma."
+    },
+    {
+      "q": "¿Dais garantía por escrito?",
+      "a": "Siempre, en todas las reparaciones que realizamos."
     }
   ],
-  "closingHeadline": "Tu BMW en La Roca del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW en La Roca del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Un especialista en BMW en La Roca del Vallès",
+  "closingCta": "Pide cita en nuestro taller",
+  "testimonialsIntro": "Clientes de La Roca del Vallès que confían en el taller.",
+  "testimonials": [
+    {
+      "name": "Oriol Masip",
+      "neighborhood": "Centre",
+      "body": "Uso el coche a diario para trabajo comercial y necesitaba un taller de confianza para el turbo de mi 320d. Aquí lo resolvieron.",
+      "rating": 5
+    },
+    {
+      "name": "Meritxell Bosch",
+      "neighborhood": "Can Sabata",
+      "body": "Diagnóstico correcto de un fallo de caja que en otro taller no supieron identificar en semanas.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier Duran",
+      "neighborhood": "Torres de Can Font",
+      "body": "Presupuesto claro desde el principio y sin coste añadido al final, se agradece la transparencia.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centre",
+    "Can Sabata",
+    "Torres de Can Font",
+    "La Torreta"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7 dirección Barcelona o Girona",
+    "C-60 hacia Mataró",
+    "C-17 desde Granollers"
+  ]
 }

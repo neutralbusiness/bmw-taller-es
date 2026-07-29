@@ -6,9 +6,9 @@
   "population": 17305,
   "lat": 42.06174,
   "lng": 2.25528,
-  "metaTitle": "Taller BMW en Vilaseca | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Vilaseca. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Vilaseca y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Vilaseca | Especialistas junto a la Costa Daurada",
+  "metaDescription": "Taller BMW en Vilaseca, cerca de Salou y PortAventura. Diagnosis ISTA, mantenimiento y reparación de averías. Presupuesto claro antes de reparar.",
+  "heroSubtitle": "Taller BMW especializado en Vilaseca, entre Tarragona y la Costa Daurada",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,140 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Vilaseca — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vilaseca te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Vilaseca, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Vilaseca forma con Salou y La Pineda uno de los núcleos turísticos más activos de la Costa Daurada, lo que multiplica el tráfico rodado durante buena parte del año, especialmente en la franja que conecta con la AP-7 y la N-340. Muchos BMW de la zona combinan uso diario con desplazamientos frecuentes hacia Tarragona, Reus o el aeropuerto.",
+    "Trabajamos con residentes de Vilaseca y con propietarios de segunda residencia que solo pasan temporadas en la costa y necesitan un taller de confianza que responda rápido cuando el coche lleva tiempo parado o aparece una avería justo antes de un viaje.",
+    "Usamos diagnosis ISTA original para localizar averías reales antes de recomendar cualquier sustitución de piezas, y ajustamos los plazos de reparación sabiendo que muchos clientes vienen desde fuera de la comarca.",
+    "Desde el polígono de Vilaseca hasta la zona de La Pineda, damos servicio a un parque BMW variado, desde utilitarios Serie 1 hasta X3 y X5 usados para largas distancias."
+  ],
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación integral para toda la gama BMW, con recambios homologados.",
+  "processIntro": "Un proceso ordenado en cinco pasos, adaptado también a clientes que solo están de paso por la zona.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y síntoma",
+      "body": "Recogemos el historial y el problema exacto que notas al conducir, incluyendo si aparece solo en autopista o también en ciudad."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis ISTA",
+      "body": "Leemos todos los módulos electrónicos del vehículo con el sistema original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto antes de intervenir",
+      "body": "Te llamamos con el resultado exacto y el coste desglosado antes de tocar el coche."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con recambio homologado",
+      "body": "Montamos piezas de garantía siguiendo los procedimientos oficiales de par y montaje."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba y entrega",
+      "body": "Comprobamos el resultado en carretera, incluyendo tramo de AP-7 si la avería lo requiere."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Vilaseca.",
+  "commonIssuesIntro": "Averías frecuentes en los BMW que revisamos en Vilaseca y la Costa Daurada.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ralentí inestable y pérdida de par en gasolina, habitual en coches con muchos kilómetros de autopista."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de presión en diésel 320d por fugas de admisión, más frecuente con el calor intenso del verano."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido metálico en frío en motores N47 que conviene revisar antes de que se agrave."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos resueltos habitualmente con un servicio de aceite completo de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Sobrecalentamiento en atascos veraniegos por fallo de electroventilador o bomba de agua eléctrica."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Cerca de Salou y La Pineda",
+      "body": "Fácil acceso para residentes y propietarios de segunda residencia en la zona turística."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis original ISTA",
+      "body": "El mismo sistema que la red oficial, sin sustituir piezas por prueba y error."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Plazos adaptados a viajeros",
+      "body": "Priorizamos reparaciones para quien viene desde fuera de la comarca."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado",
+      "body": "Coste aprobado igual a coste final, sin sorpresas en la factura."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada y respaldada."
     }
   ],
-  "zoneText": "Atendemos BMW en Vilaseca y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Vilaseca, La Pineda y el entorno de Salou, con acceso rápido desde la AP-7 y la N-340.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vilaseca?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis a clientes con segunda residencia en la zona?",
+      "a": "Sí, adaptamos los plazos y podemos coordinar la entrega y recogida con antelación."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis en temporada alta de verano?",
+      "a": "Sí, aunque recomendamos pedir cita con más antelación en julio y agosto."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche mientras estoy de viaje?",
+      "a": "Sí, disponemos de aparcamiento seguro para vehículos en reparación de varios días."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Hacéis revisión antes de un viaje largo?",
+      "a": "Es una de nuestras consultas más habituales dado el perfil turístico de la zona."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con BMW de alquiler o rent a car?",
+      "a": "Sí, atendemos también flotas de alquiler vacacional de la zona."
+    },
+    {
+      "q": "¿Cuánto tarda el diagnóstico de un turbo?",
+      "a": "Normalmente menos de una hora con el equipo ISTA."
     }
   ],
-  "closingHeadline": "Tu BMW en Vilaseca, en buenas manos",
-  "closingCta": "Si tienes un BMW en Vilaseca y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW listo para la Costa Daurada, sin sorpresas",
+  "closingCta": "Pide presupuesto para tu BMW en Vilaseca",
+  "testimonialsIntro": "Opiniones de clientes de Vilaseca y la Costa Daurada.",
+  "testimonials": [
+    {
+      "name": "Eduard Vives",
+      "neighborhood": "Vilaseca centre",
+      "body": "Reparación de turbo rápida justo antes de un viaje largo. Se portaron muy bien con los plazos.",
+      "rating": 5
+    },
+    {
+      "name": "Susana Camps",
+      "neighborhood": "La Pineda (Vilaseca)",
+      "body": "Diagnosticaron un fallo de refrigeración que en verano podía haber sido grave. Muy agradecida por la rapidez.",
+      "rating": 5
+    },
+    {
+      "name": "Òscar Ribas",
+      "neighborhood": "Vilaseca",
+      "body": "Buen precio en el servicio de la caja automática y explicación clara de lo que hacía falta.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Vilaseca centre",
+    "La Pineda",
+    "Els Munts",
+    "Poble Vell"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "N-340",
+    "T-11 hacia Tarragona"
+  ]
 }

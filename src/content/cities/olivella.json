@@ -6,9 +6,9 @@
   "population": 3678,
   "lat": 41.30283,
   "lng": 1.79812,
-  "metaTitle": "Taller BMW en Olivella | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Olivella. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Olivella y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Olivella | Especialistas cerca de Sitges",
+  "metaDescription": "Taller BMW cerca de Olivella y Sitges, en el Garraf. Diagnóstico ISTA, motor y electrónica BMW. Presupuesto cerrado y garantía por escrito.",
+  "heroSubtitle": "Mecánica BMW especializada para Olivella, entre el Garraf y Sitges.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Olivella — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Olivella te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Olivella, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Olivella, dentro del Parc del Garraf, es un municipio residencial donde muchos vecinos combinan el teletrabajo con desplazamientos frecuentes hacia Sitges o Vilanova i la Geltrú. El terreno del Garraf, con sus curvas y desniveles, exige un poco más a la suspensión y a los frenos que un trayecto llano.",
+    "Trabajamos con propietarios de BMW de Olivella que valoran un trato cercano y un diagnóstico sin rodeos, sin tener que desplazarse hasta Barcelona para una avería que podemos resolver en el mismo Garraf."
+  ],
+  "servicesIntro": "Diagnóstico, suspensión, frenos y electrónica BMW para clientes de Olivella y el Garraf.",
+  "processIntro": "El proceso que seguimos con los BMW que llegan desde Olivella y su entorno de montaña baja.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del problema",
+      "body": "Antes de conectar ningún equipo, escuchamos cómo describes el problema: cuándo aparece, en qué situaciones, si hay ruidos o testigos encendidos. Esa información nos ahorra horas de diagnóstico en Olivella."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico electrónico completo",
+      "body": "Escaneamos todos los módulos del vehículo con herramientas de nivel concesionario para descartar fallos ocultos que un lector genérico no detecta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación cara a cara",
+      "body": "Te enseñamos en el propio taller lo que hemos encontrado, con fotos si hace falta, antes de autorizar ningún trabajo."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución por especialistas en BMW",
+      "body": "La reparación la realiza un mecánico formado específicamente en la marca, no un generalista. Eso marca la diferencia en Vanos, ZF 8HP o Valvetronic."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Control de calidad y entrega",
+      "body": "Revisamos pares de apriete, borramos memorias de avería, comprobamos que no queden testigos y te devolvemos el coche limpio y con garantía por escrito."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Olivella.",
+  "commonIssuesIntro": "Averías habituales en los BMW que circulan por el terreno del Garraf, cerca de Olivella.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Es uno de los sistemas más consultados en nuestro taller: reglaje variable de válvulas que, cuando falla, se nota en ralentí inestable y pérdida de par en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "La sobrealimentación en BMW exige un mantenimiento de aceite estricto: un cambio tardío desgasta antes los cojinetes del turbo y acorta mucho su vida útil."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Recomendamos revisar la cadena de distribución en el intervalo que marca cada motor, no esperar a que suene, porque cuando salta puede dañar válvulas y pistones."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Transmisión automática ZF 8HP",
+      "body": "Los cambios bruscos o el testigo de caja de cambios encendido casi siempre se solucionan con un mantenimiento correcto del aceite y del filtro, sin necesidad de sustituir la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sistema de refrigeración",
+      "body": "Muchos fallos de temperatura de motor no vienen del radiador, sino del sensor o de la bomba de agua eléctrica, un punto débil conocido de varias generaciones BMW."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Mecánicos formados en BMW",
+      "body": "Nuestro personal se forma específicamente en la electrónica y mecánica de BMW, no en cursos genéricos de multimarca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Instalaciones equipadas",
+      "body": "Elevadores, herramienta específica de par y software de programación adaptados a cada generación de BMW, de la Serie 3 E90 al X5 G05."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Sin letra pequeña",
+      "body": "El presupuesto incluye pieza, mano de obra e IVA. Lo que ves es lo que pagas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Revisión previa a la entrega",
+      "body": "Antes de devolverte el coche hacemos una comprobación final para asegurarnos de que no queda ningún testigo pendiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cercanía y confianza en Olivella",
+      "body": "Muchos clientes llegan recomendados por otro cliente de Olivella. El boca a boca en un taller especializado se gana, no se compra."
     }
   ],
-  "zoneText": "Atendemos BMW en Olivella y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Olivella y al resto del Garraf, incluyendo Sitges y Sant Pere de Ribes, una zona de carreteras con desnivel donde la suspensión sufre más de lo habitual.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Olivella?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La suspensión sufre más en el Garraf?",
+      "a": "Sí, las curvas y desniveles de la zona desgastan antes amortiguadores y silentblocks que un trayecto llano."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con clientes de Sitges también?",
+      "a": "Sí, Olivella y Sitges están muy cerca y atendemos a clientes de ambas localidades."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Dais presupuesto antes de cambiar la suspensión?",
+      "a": "Siempre, con el desglose completo por escrito."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto se tarda desde Olivella hasta el taller?",
+      "a": "Un trayecto corto por la C-15 o la C-32, según el punto de partida."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Revisáis los frenos con más frecuencia por el terreno?",
+      "a": "Sí, lo recomendamos especialmente en la zona del Garraf."
+    },
+    {
+      "q": "¿Puedo traer el coche para una segunda opinión?",
+      "a": "Por supuesto, no cobramos por dar una valoración honesta."
     }
   ],
-  "closingHeadline": "Tu BMW en Olivella, en buenas manos",
-  "closingCta": "Si tienes un BMW en Olivella y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Suspensión y frenos a punto para las curvas del Garraf",
+  "closingCta": "Pide cita desde Olivella y revisa tu BMW antes del próximo trayecto por la sierra.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de vecinos de Olivella.",
+  "testimonials": [
+    {
+      "name": "Martí Solervicens",
+      "neighborhood": "Olivella",
+      "body": "La suspensión del X1 sufría con las curvas del Garraf. La revisión y el cambio de amortiguadores lo dejaron como nuevo.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Bosch-Gimpera",
+      "neighborhood": "Olivella",
+      "body": "Diagnóstico honesto de un ruido de frenos que resultó ser algo menor de lo que pensaba.",
+      "rating": 5
+    },
+    {
+      "name": "Agustí Riambau",
+      "neighborhood": "Sitges (cerca de Olivella)",
+      "body": "Muy buena explicación técnica sobre el estado del turbo del 320d antes de decidir la reparación.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Olivella poble",
+    "Can Suriol",
+    "Sitges",
+    "Sant Pere de Ribes"
+  ],
+  "zoneAccessRoutes": [
+    "C-15",
+    "C-32 (autopista del Garraf)",
+    "BV-2115"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 271780,
   "lat": 43.53573,
   "lng": -5.66152,
-  "metaTitle": "Taller BMW en Gijón | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Gijón. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Gijón y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Gijón | Reparación y mantenimiento especializado",
+  "metaDescription": "Taller especializado en BMW en Gijón. Diagnosis original, reparación de motor, turbo, Valvetronic y caja automática ZF 8HP. Presupuesto claro antes de reparar.",
+  "heroSubtitle": "El taller BMW de referencia en Gijón, entre la costa y el Cabildo",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,142 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Gijón, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Gijón te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Gijón, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Gijón tiene un clima húmedo y salino que no perdona a los componentes electrónicos ni a los sistemas de refrigeración de los motores BMW, algo que notamos especialmente en los coches que vienen de la zona de la playa y del puerto. La corrosión en conectores y sensores es más frecuente aquí que en zonas de interior de Asturias.\n\nEl tráfico denso entre el centro y La Calzada, junto con los trayectos habituales por la autovía hacia Oviedo o Avilés, hace que los motores diésel de la marca sufran especialmente en la cadena de distribución y en el turbo cuando no se les da el mantenimiento en los intervalos reales, no solo los que marca el ordenador de a bordo.\n\nSomos un taller especializado únicamente en BMW, con diagnosis original y técnicos que no reparten su tiempo entre diez marcas distintas. Eso se traduce en diagnósticos más rápidos y certeros, especialmente en las averías eléctricas intermitentes que tanto dan la lata en los modelos con más años.\n\nAtendemos tanto a clientes del centro de Gijón como de Roces, El Coto o la zona de El Llano, y también recibimos coches derivados desde Avilés y Villaviciosa cuando el propietario busca un especialista de verdad y no un multimarca.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación de motor y caja de cambios, todo enfocado exclusivamente en BMW.",
+  "processIntro": "Nuestro método de trabajo, pensado para que sepas en todo momento qué está pasando con tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción del vehículo",
+      "body": "Escuchamos primero lo que nos cuentas del comportamiento del coche, es información clave antes de conectar cualquier equipo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica completa",
+      "body": "Conectamos el equipo original de BMW y revisamos todos los módulos, no solo el que marca el testigo en el salpicadero."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Informe y presupuesto",
+      "body": "Te llamamos con el diagnóstico y un presupuesto detallado, sin lenguaje técnico innecesario."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación autorizada",
+      "body": "Solo actuamos sobre lo que has aprobado, y si aparece algo nuevo durante el proceso, te lo comunicamos antes de seguir."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba en carretera real",
+      "body": "Antes de entregar el coche lo probamos en condiciones reales, incluida autovía si la avería lo requiere."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Gijón.",
+  "commonIssuesIntro": "Las averías típicas de los BMW en un entorno costero como Gijón.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic afectada por humedad",
+      "body": "La humedad ambiental acelera el fallo de conectores del sistema Valvetronic, provocando pérdida de potencia y ralentí irregular."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con desgaste prematuro",
+      "body": "En diésel con uso mixto ciudad-autovía, vemos turbos que empiezan a soplar aceite antes de lo esperado para su kilometraje."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución ruidosa",
+      "body": "El sonido metálico al arrancar en frío es una señal clara de que la cadena necesita revisión antes de que dañe el motor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con cambios duros",
+      "body": "Los tirones al cambiar de marcha suelen resolverse con un cambio de aceite de caja bien hecho, con el procedimiento correcto de purga."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Corrosión en sensores de refrigeración",
+      "body": "El ambiente salino de la costa gijonesa acelera el fallo de sensores de temperatura y bombas de agua eléctricas."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas en BMW, sin excepción",
+      "body": "No tocamos otras marcas, lo que nos permite tener el conocimiento técnico al día constantemente."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Equipo de diagnosis original",
+      "body": "El mismo software que usa la red oficial de la marca, no un escáner genérico limitado."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Transparencia en el precio",
+      "body": "Presupuesto por escrito antes de reparar, sin cargos añadidos sin tu autorización."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Experiencia con clima costero",
+      "body": "Conocemos bien los problemas que provoca la humedad y la salinidad en los sistemas electrónicos del coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía en todas las reparaciones",
+      "body": "Cada trabajo queda cubierto por garantía documentada, tanto en pieza como en mano de obra."
     }
   ],
-  "zoneText": "Atendemos BMW en Gijón y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todo Gijón, desde el centro y la playa hasta los barrios del interior de la ciudad.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Gijón?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Notáis diferencia en los coches por el clima costero?",
+      "a": "Sí, la humedad y la sal aceleran el desgaste de conectores y sensores, algo que revisamos con especial atención en cada visita."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Recibís coches de fuera de Gijón?",
+      "a": "Con frecuencia, sobre todo de Avilés, Villaviciosa y Oviedo, cuando el cliente busca un especialista exclusivo en BMW."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda un diagnóstico?",
+      "a": "Normalmente entre una y dos horas, dependiendo de la complejidad del fallo."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche varios días si la reparación es larga?",
+      "a": "Sí, disponemos de espacio para dejar el vehículo el tiempo necesario mientras trabajamos en él."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con seguros para partes de avería?",
+      "a": "Podemos emitir el informe técnico necesario para que lo tramites con tu compañía de seguros."
+    },
+    {
+      "q": "¿Hacéis revisión antes de comprar un BMW de segunda mano?",
+      "a": "Sí, es un servicio habitual: revisamos el coche a fondo antes de que cierres la compra."
+    },
+    {
+      "q": "¿Tenéis garantía por escrito?",
+      "a": "Siempre, cada reparación se entrega con documento de garantía firmado."
     }
   ],
-  "closingHeadline": "Tu BMW en Gijón, en buenas manos",
-  "closingCta": "Si tienes un BMW en Gijón y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Cuida tu BMW como se merece en la costa asturiana",
+  "closingCta": "Pide cita en nuestro taller de Gijón",
+  "testimonialsIntro": "Clientes de Gijón que han confiado en nosotros.",
+  "testimonials": [
+    {
+      "name": "Covadonga Fernández",
+      "neighborhood": "El Coto",
+      "body": "Mi X1 tenía un fallo eléctrico intermitente que nadie más lograba encontrar. Aquí dieron con la causa en un solo día.",
+      "rating": 5
+    },
+    {
+      "name": "Marcos Argüelles",
+      "neighborhood": "Roces",
+      "body": "Cambié la cadena de distribución antes de que se rompiera del todo, gracias al aviso a tiempo del taller.",
+      "rating": 5
+    },
+    {
+      "name": "Lucía Menéndez",
+      "neighborhood": "Centro",
+      "body": "Vengo desde Villaviciosa expresamente porque aquí sí entienden de BMW de verdad, no como en el taller de mi zona.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Coto",
+    "Roces",
+    "El Llano",
+    "La Calzada",
+    "Pumarín",
+    "Centro"
+  ],
+  "zoneAccessRoutes": [
+    "A-8 dirección Avilés",
+    "A-66 hacia Oviedo",
+    "Autovía Minera desde Mieres",
+    "N-632 desde Villaviciosa"
+  ]
 }

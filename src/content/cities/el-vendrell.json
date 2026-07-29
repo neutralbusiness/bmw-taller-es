@@ -6,9 +6,9 @@
   "population": 35821,
   "lat": 41.21667,
   "lng": 1.53333,
-  "metaTitle": "Taller BMW en El Vendrell | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en El Vendrell. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en El Vendrell y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en El Vendrell | Diagnosis oficial y garantía",
+  "metaDescription": "Taller BMW especializado en El Vendrell, capital del Baix Penedès. Mantenimiento, turbo, Valvetronic, caja ZF y diagnosis oficial. Presupuesto sin compromiso.",
+  "heroSubtitle": "Taller BMW en El Vendrell, capital del Baix Penedès y puerta de la Costa Dorada",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en El Vendrell: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en El Vendrell te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en El Vendrell, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "El Vendrell, con cerca de 37.000 habitantes, es la capital administrativa y comercial del Baix Penedès, un municipio que combina el centro histórico con el barrio costero de Coma-ruga y una intensa actividad turística en verano. El tráfico hacia Tarragona y Barcelona por la AP-7 y la N-340 es constante, y el parque BMW de la zona es amplio: desde Series 1 y 3 de uso diario hasta X5 y Series 7 asociados al turismo de mayor poder adquisitivo de Coma-ruga.\n\nNuestro taller trabaja con diagnosis original BMW y con un volumen de trabajo que nos permite mantener piezas de rotación habitual en stock, algo que reduce notablemente los plazos de espera frente a talleres más pequeños de la comarca.\n\nEn verano, con el aumento de población que trae el turismo, incrementamos también la atención a climatización y refrigeración, dos sistemas que en El Vendrell trabajan a pleno rendimiento entre junio y septiembre.\n\nAtendemos tanto a residentes habituales del municipio como a propietarios de segunda residencia en Coma-ruga y Sant Salvador, que buscan un taller de confianza para revisar el coche antes de volver a Barcelona o Madrid.",
+  "servicesIntro": "Mantenimiento integral, electrónica, turbo y caja automática para todos los BMW de El Vendrell y Coma-ruga.",
+  "processIntro": "Un proceso ágil, adaptado al ritmo de una capital de comarca con mucho movimiento.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa",
+      "body": "Reserva online o telefónica; en temporada alta recomendamos anticiparla."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis oficial",
+      "body": "Escaneo completo de centralitas con equipo original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Desglose claro de piezas y mano de obra antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Piezas originales o equivalentes homologados, con trazabilidad completa."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y prueba",
+      "body": "Verificación en carretera y control de calidad antes de devolver el coche."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por El Vendrell.",
+  "commonIssuesIntro": "Las averías más frecuentes en los BMW de El Vendrell y su comarca.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí irregular y pérdida de par en bajas revoluciones, muy común en motores con más de 100.000 km."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Fugas de aceite y pérdida de presión, frecuentes tras años de uso en autovía hacia Tarragona y Barcelona."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "El ruido metálico en arranque en frío anticipa un estiramiento que conviene revisar."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar de marcha que suelen resolverse con mantenimiento específico de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Climatización y refrigeración",
+      "body": "En verano, con temperaturas altas y tráfico denso, es el sistema que más revisiones concentra."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Capital de comarca",
+      "body": "Volumen de trabajo suficiente para mantener piezas habituales en stock."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis oficial",
+      "body": "Mismo software que la red BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención en temporada alta",
+      "body": "Reforzamos el servicio en verano por el aumento de tráfico turístico."
     }
   ],
-  "zoneText": "Atendemos BMW en El Vendrell y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos todo El Vendrell, incluyendo el barrio costero de Coma-ruga y Sant Salvador, con un flujo importante de clientes de temporada durante los meses de verano.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en El Vendrell?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis en verano con más agilidad por el turismo?",
+      "a": "Sí, reforzamos el equipo en temporada alta para reducir los tiempos de espera."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo revisar el coche antes de volver a Barcelona o Madrid?",
+      "a": "Sí, es un servicio muy habitual para residentes de temporada en Coma-ruga."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Tenéis piezas en stock?",
+      "a": "Mantenemos en stock las piezas de mayor rotación para reducir plazos de espera."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Trabajáis con BMW Serie 7 y X5?",
+      "a": "Sí, incluidos modelos de gama alta con suspensión neumática y sistemas avanzados."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tardáis en un diagnóstico?",
+      "a": "Con el equipo oficial, la mayoría de diagnósticos se resuelven en menos de una hora."
+    },
+    {
+      "q": "¿Hacéis revisión de climatización?",
+      "a": "Sí, carga de gas, revisión de compresor y limpieza del circuito completo."
+    },
+    {
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
     }
   ],
-  "closingHeadline": "Tu BMW en El Vendrell, en buenas manos",
-  "closingCta": "Si tienes un BMW en El Vendrell y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El taller BMW de referencia en la capital del Baix Penedès",
+  "closingCta": "Pide cita en El Vendrell y prepara tu BMW para cualquier trayecto.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,44 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de El Vendrell y Coma-ruga.",
+  "testimonials": [
+    {
+      "name": "Josep M.",
+      "neighborhood": "El Vendrell centro",
+      "body": "Reparación de la cadena de distribución impecable, con explicación técnica clara de cada paso.",
+      "rating": 5
+    },
+    {
+      "name": "Carme O.",
+      "neighborhood": "Coma-ruga",
+      "body": "Vengo cada verano a revisar el coche antes de volver a Barcelona. Siempre confianza total.",
+      "rating": 5
+    },
+    {
+      "name": "Robert K.",
+      "neighborhood": "Sant Salvador",
+      "body": "Como residente de temporada, agradezco que hablen claro y no me hagan perder el tiempo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna Maria S.",
+      "neighborhood": "El Vendrell",
+      "body": "El X5 quedó perfecto tras el cambio de turbo. Precio ajustado para el trabajo realizado.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Vendrell centro",
+    "Coma-ruga",
+    "Sant Salvador",
+    "Francàs",
+    "El Vendrell platja"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7 hacia Tarragona y Barcelona",
+    "N-340 como eje costero",
+    "C-51 hacia Vilafranca"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 3178,
   "lat": 40.7435,
   "lng": -3.48846,
-  "metaTitle": "Taller BMW en Talamanca de Jarama | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Talamanca de Jarama. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Talamanca de Jarama y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Talamanca de Jarama | Especialistas en la marca",
+  "metaDescription": "Taller BMW para Talamanca de Jarama y la cuenca del Jarama. Diagnosis original, reparación de motor, turbo y caja ZF. Precios claros y garantía escrita.",
+  "heroSubtitle": "El taller BMW especializado que da servicio a Talamanca de Jarama y su entorno",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Talamanca de Jarama, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Talamanca de Jarama te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Talamanca de Jarama, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Talamanca de Jarama es un pequeño municipio del norte de la Comunidad de Madrid, junto al río Jarama, con un núcleo histórico tranquilo y poca actividad comercial. No cuenta con taller BMW propio, por lo que sus vecinos suelen recurrir a talleres de Algete, San Sebastián de los Reyes o directamente a la capital para el mantenimiento de sus vehículos.\n\nEntre los clientes que recibimos de Talamanca de Jarama predominan los Series 3 y X3 usados para desplazarse a diario hacia el corredor del Jarama o hacia Madrid capital por la A-1. Es un perfil de uso mixto, carretera y ciudad, que exige un mantenimiento equilibrado en frenos, neumáticos y motor.",
+  "servicesIntro": "Servicio técnico BMW completo: motor, transmisión, electrónica y mantenimiento periódico.",
+  "processIntro": "El proceso que seguimos con cada BMW que llega desde Talamanca de Jarama:",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del síntoma",
+      "body": "Anotamos con detalle lo que cuenta el cliente antes de conectar el equipo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con herramienta ISTA",
+      "body": "Lectura completa de unidades de control, no solo del motor."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Desglosamos mano de obra y piezas antes de empezar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Intervención con piezas originales o de calidad equivalente."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba dinámica",
+      "body": "Verificamos en carretera que el problema queda resuelto."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Talamanca de Jarama.",
+  "commonIssuesIntro": "Las averías más frecuentes en los BMW que circulan por la zona del Jarama:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío, síntoma habitual que diagnosticamos con precisión."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia y humo en motores diésel con muchos kilómetros de autovía."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Comprobamos el tensor y el estiramiento antes de que provoque una avería mayor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones o retrasos en cambios de marcha, muy relacionados con el estado del aceite ATF."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "Revisamos fugas de líquido y sensores de temperatura, causa común de testigos encendidos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas solo en BMW",
+      "body": "No trabajamos otras marcas, conocemos la mecánica al detalle."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Equipo de diagnosis original",
+      "body": "El mismo software que usa la red oficial de la marca."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ubicación accesible desde el Jarama",
+      "body": "Trayecto corto por la A-1 desde Talamanca de Jarama."
     }
   ],
-  "zoneText": "Atendemos BMW en Talamanca de Jarama y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Servimos a Talamanca de Jarama y a los municipios cercanos de la cuenca del Jarama, todos ellos sin taller BMW especializado propio.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Talamanca de Jarama?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Cuánto se tarda desde Talamanca de Jarama?",
+      "a": "Aproximadamente 20-25 minutos por la A-1, dependiendo del tráfico."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Tenéis vehículo de sustitución?",
+      "a": "Disponibilidad limitada, consúltalo al pedir cita."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Reparáis modelos diésel antiguos?",
+      "a": "Sí, tenemos amplia experiencia con motores N47 y M47 de generaciones anteriores."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo traer el coche por avería del turbo?",
+      "a": "Sí, es una de las intervenciones más habituales que realizamos."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Hacéis mantenimiento según libro de mantenimiento?",
+      "a": "Sí, seguimos las pautas oficiales de BMW para no perder cobertura de garantía si aplica."
+    },
+    {
+      "q": "¿Trabajáis con aseguradoras?",
+      "a": "Sí, tramitamos partes con la mayoría de compañías."
+    },
+    {
+      "q": "¿Puedo pedir cita el mismo día?",
+      "a": "Según disponibilidad, sí; para avería grave intentamos priorizar."
     }
   ],
-  "closingHeadline": "Tu BMW en Talamanca de Jarama, en buenas manos",
-  "closingCta": "Si tienes un BMW en Talamanca de Jarama y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "BMW cuidado a un paso de Talamanca de Jarama",
+  "closingCta": "Pide tu cita y trae el coche al taller",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de la zona del Jarama:",
+  "testimonials": [
+    {
+      "name": "Rubén A.",
+      "neighborhood": "Talamanca de Jarama",
+      "body": "El presupuesto se cumplió al céntimo, algo que no siempre pasa en otros talleres.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina L.",
+      "neighborhood": "Zona del río Jarama",
+      "body": "Diagnosticaron un fallo de sensor que otro taller no supo encontrar.",
+      "rating": 5
+    },
+    {
+      "name": "David M.",
+      "neighborhood": "Talamanca de Jarama",
+      "body": "Rápidos y claros explicando la avería del turbo de mi 320d.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Núcleo urbano de Talamanca de Jarama",
+    "Ribera del Jarama",
+    "Zona de acceso desde Valdepiélagos",
+    "Entorno de El Vellón"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 hacia Madrid",
+    "M-102 de conexión local",
+    "Carretera hacia Valdepiélagos"
+  ]
 }

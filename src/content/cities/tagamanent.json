@@ -6,9 +6,9 @@
   "population": 322,
   "lat": 41.7401,
   "lng": 2.26649,
-  "metaTitle": "Taller BMW en Tagamanent | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Tagamanent. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Tagamanent y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Tagamanent | Diagnosis y reparación especializada",
+  "metaDescription": "Taller especializado BMW cerca de Tagamanent, en el Vallès Oriental. Diagnosis con equipo original, motor, cambio ZF y mantenimiento. Recogida disponible.",
+  "heroSubtitle": "El taller BMW de referencia para los vecinos de Tagamanent y las masías del entorno del Montseny",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Tagamanent: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Tagamanent te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Tagamanent, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Tagamanent es uno de los municipios más pequeños del Vallès Oriental, repartido entre masías y el entorno del Montseny, sin apenas comercio propio ni, por supuesto, un taller especializado en BMW. Quien vive aquí y conduce un BMW sabe que para una revisión seria hay que salir del término municipal, normalmente hacia Figaró-Montmany, Aiguafreda o ya directamente hacia la zona de Granollers.\n\nTrabajamos con clientes de Tagamanent desde hace años, sobre todo propietarios de Series 3 y X1 diésel que hacen trayectos largos hacia Barcelona o Vic y necesitan un coche fiable. Al vivir en zona de montaña, con curvas y pendientes constantes, los frenos, la suspensión y el motor sufren de forma distinta a un uso urbano, algo que tenemos en cuenta al revisar cada vehículo.\n\nAl ser un núcleo tan pequeño, no pretendemos tener \"barrios\" que ofrecer: lo que ofrecemos es cercanía real con la comarca y la posibilidad de recoger el coche o coordinarnos por teléfono para minimizar los desplazamientos del cliente.",
+  "servicesIntro": "Servicio técnico BMW completo, pensado para quien vive en zona rural y no puede permitirse sorpresas con el coche.",
+  "processIntro": "Un proceso simple, pensado para reducir tus desplazamientos desde Tagamanent:",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto telefónico o WhatsApp",
+      "body": "Nos cuentas el síntoma y, si hace falta, coordinamos recogida del vehículo en la zona."
+    },
+    {
+      "title": "Diagnosis con equipo BMW",
+      "body": "Lectura de todas las unidades de control con herramienta original ISTA para no dejarnos nada por revisar."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el diagnóstico y el precio antes de tocar nada."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación",
+      "body": "Ejecutamos el trabajo con piezas originales o de calidad OEM, según lo que decidas."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega y prueba de carretera",
+      "body": "Probamos el coche en carretera de montaña antes de devolverlo, no solo en ciudad."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Tagamanent.",
+  "commonIssuesIntro": "Las averías que más vemos en los BMW que suben y bajan a diario desde zonas como Tagamanent:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "El uso en pendiente constante y arranques en frío por la altitud aceleran el desgaste de las solenoides Vanos."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Las subidas prolongadas exigen al turbo; vigilamos fugas de aceite y ruidos de sobrealimentación."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Revisamos el estiramiento de cadena en motores N47 y N20, especialmente si el aceite no se ha cambiado a tiempo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "El cambio automático sufre en pendientes largas; comprobamos temperatura y calidad del aceite ATF."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración",
+      "body": "El frío nocturno de montaña puede dejar sensores de temperatura dando lecturas erráticas; los verificamos en cada revisión."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Entendemos la conducción de montaña",
+      "body": "Sabemos cómo afecta el terreno del Montseny a la mecánica de un BMW."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Recogida coordinada",
+      "body": "Para clientes de Tagamanent, facilitamos la logística de traer el coche al taller."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis original",
+      "body": "Mismo software que usa la marca, sin adivinar averías."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Presupuesto cerrado antes de reparar",
+      "body": "Nada de sorpresas en la factura final."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo",
+      "body": "Hablas siempre con el técnico que lleva tu coche, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos BMW en Tagamanent y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a los residentes de Tagamanent y las masías del entorno, así como a los municipios vecinos del Vallès Oriental que comparten la misma situación: sin taller BMW propio y con trayectos de montaña que exigen un mantenimiento cuidado.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Tagamanent?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Tenéis taller en el propio Tagamanent?",
+      "a": "No, Tagamanent no dispone de talleres especializados; trabajamos con clientes de la zona coordinando la recogida o la entrega del vehículo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo dejar el coche sin bajar dos veces?",
+      "a": "Sí, muchos clientes de la zona nos dejan el coche una vez y lo recogen ya reparado, coordinando por teléfono."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con coches de montaña con muchos km?",
+      "a": "Sí, es habitual en esta zona; revisamos con especial atención frenos, suspensión y motor por el tipo de trayecto."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Hacéis diagnosis a domicilio?",
+      "a": "No disponemos de asistencia móvil, pero facilitamos al máximo el traslado del vehículo al taller."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
+    },
+    {
+      "q": "¿Tenéis recambios originales en stock?",
+      "a": "Para reparaciones habituales sí; para piezas específicas gestionamos el pedido en 24-48h."
+    },
+    {
+      "q": "¿Qué modelos BMW reparáis?",
+      "a": "Toda la gama, desde Serie 1 hasta X5, gasolina, diésel e híbridos."
     }
   ],
-  "closingHeadline": "Tu BMW en Tagamanent, en buenas manos",
-  "closingCta": "Si tienes un BMW en Tagamanent y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cuidado aunque vivas lejos del taller",
+  "closingCta": "Escríbenos y coordinamos la recogida desde Tagamanent",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que dicen los pocos pero fieles clientes que llegan desde la zona del Montseny:",
+  "testimonials": [
+    {
+      "name": "Jaume R.",
+      "neighborhood": "Masía cerca de Tagamanent",
+      "body": "Vivo apartado y aun así se organizaron para recoger el X1 sin que tuviera que bajar dos veces.",
+      "rating": 5
+    },
+    {
+      "name": "Nuria C.",
+      "neighborhood": "Zona del Montseny",
+      "body": "El diagnóstico de la Vanos fue exacto, ni una pieza cambiada de más.",
+      "rating": 5
+    },
+    {
+      "name": "Martí S.",
+      "neighborhood": "Figaró-Montmany",
+      "body": "Explican todo con calma, algo que se agradece cuando el taller más cercano queda lejos.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Núcleo de Tagamanent",
+    "Zona de masías del Montseny",
+    "Entorno de Sant Martí de Tagamanent",
+    "Vía de acceso desde Aiguafreda"
+  ],
+  "zoneAccessRoutes": [
+    "C-17 hacia Vic/Barcelona",
+    "Carretera local BV-1485",
+    "Acceso desde Figaró-Montmany"
+  ]
 }

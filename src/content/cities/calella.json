@@ -6,9 +6,9 @@
   "population": 18728,
   "lat": 41.61381,
   "lng": 2.65423,
-  "metaTitle": "Taller BMW en Calella | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Calella. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Calella y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Calella | Maresme | Diagnosis y reparación",
+  "metaDescription": "Taller BMW especializado en Calella, Maresme. Mantenimiento, diagnosis avanzada, motor, turbo y caja automática. Cita previa y garantía escrita.",
+  "heroSubtitle": "El taller BMW especializado de Calella, para residentes y visitantes de la costa del Maresme.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,146 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Calella — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Calella te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Calella, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Calella es uno de los municipios más grandes y conocidos del Maresme, con cerca de 18.000 habitantes fijos que se multiplican en temporada alta por su peso turístico. Eso implica un parque de vehículos amplio y variado: desde BMW de uso diario de residentes que trabajan en la zona textil o de servicios, hasta coches de segunda residencia que solo se usan en verano y necesitan una puesta a punto antes de rodar de nuevo.\n\nAl ser un núcleo con actividad comercial e industrial propia, muchos de nuestros clientes de Calella son gente que combina desplazamientos por la N-II o la C-32 con trayectos urbanos cortos, una combinación que desgasta de forma particular componentes como el turbo o el sistema de frenos. Trabajamos también con bastante frecuencia coches que llegan tras meses parados en garaje, típico de las segundas residencias, y que necesitan una revisión completa antes de volver a circular con garantías.\n\nNuestra relación con Calella se ha construido sobre todo por recomendación: clientes que después de una mala experiencia en un taller genérico buscan alguien que realmente entienda la electrónica y la mecánica específica de BMW, sin tener que desplazarse hasta el concesionario de Barcelona.",
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación mecánica y eléctrica para toda la gama BMW.",
+  "processIntro": "Un proceso claro, pensado tanto para el uso diario como para coches que vuelven a rodar tras meses parados.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y recepción",
+      "body": "Reservas hora, nos cuentas el problema o el histórico del coche."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo de marca",
+      "body": "Escaneamos motor, transmisión, frenos y confort para tener una foto completa."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Priorizamos lo urgente de lo recomendable, tú decides qué hacer primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución del trabajo",
+      "body": "Reparamos con piezas originales o equivalentes de calidad, según acordemos."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de carretera y entrega",
+      "body": "Verificamos el resultado en condiciones reales antes de devolver el coche."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Calella.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW de Calella y la costa del Maresme:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío en motores de gasolina, especialmente tras periodos largos sin usar el coche."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de presión",
+      "body": "Falta de respuesta en aceleración, habitual en coches con uso mixto ciudad-carretera de la zona."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Diagnóstico preventivo del ruido de sonajero para evitar una avería mayor de motor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP",
+      "body": "Tirones o retrasos al cambiar, frecuentes cuando el coche ha estado meses parado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Batería y sistema eléctrico",
+      "body": "Descargas por inactividad prolongada, muy típico en vehículos de segunda residencia."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Experiencia con coches de temporada",
+      "body": "Sabemos cómo poner a punto un BMW que ha pasado meses parado."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Equipo de diagnosis específico",
+      "body": "Detectamos averías reales, no solo apagamos testigos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Precio justo",
+      "body": "Nivel técnico de concesionario sin su sobrecoste."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación importante queda documentada y garantizada."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Ubicación accesible",
+      "body": "Fácil llegada desde Calella por la N-II sin perder media mañana."
     }
   ],
-  "zoneText": "Atendemos BMW en Calella y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Calella está a unos 55 kilómetros de Barcelona por la N-II o la C-32, en plena costa del Maresme. El municipio combina zona turística de primera línea de mar con barrios residenciales y una zona industrial-comercial activa hacia el interior.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Calella?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Podéis revisar un coche que ha estado meses parado?",
+      "a": "Sí, es una de las revisiones más habituales que hacemos para clientes de Calella con segunda residencia."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis en temporada alta con menos espera?",
+      "a": "Recomendamos cita previa, sobre todo en verano cuando aumenta la demanda en la zona."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Hacéis ITV previa antes de la inspección oficial?",
+      "a": "Sí, revisamos los puntos habituales de rechazo antes de que vayas a pasar la ITV."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Tenéis experiencia con híbridos e híbridos enchufables BMW?",
+      "a": "Sí, contamos con el equipo de diagnosis adecuado para esas versiones."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Puedo dejar el coche varios días si estoy fuera?",
+      "a": "Sí, coordinamos entrega y recogida flexible si vives parte del año fuera de Calella."
+    },
+    {
+      "q": "¿Dais presupuesto cerrado?",
+      "a": "Sí, siempre antes de iniciar la reparación."
+    },
+    {
+      "q": "¿Atendéis motos o solo turismos BMW?",
+      "a": "Nos centramos en turismos y todoterrenos de la marca."
     }
   ],
-  "closingHeadline": "Tu BMW en Calella, en buenas manos",
-  "closingCta": "Si tienes un BMW en Calella y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El especialista BMW de confianza en Calella",
+  "closingCta": "Pide cita y ponemos tu BMW a punto, esté o no acostumbrado a rodar todo el año.",
+  "testimonialsIntro": "Opiniones de clientes de Calella que confían en el taller:",
+  "testimonials": [
+    {
+      "name": "Marc T.",
+      "neighborhood": "Calella",
+      "body": "Traje el X3 después de tres meses parado en el garaje y lo dejaron como nuevo, sin sorpresas en el precio.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina A.",
+      "neighborhood": "Calella",
+      "body": "Detectaron el problema de turbo que en otro taller no supieron identificar en dos visitas.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier P.",
+      "neighborhood": "Calella",
+      "body": "Buen trato y explicaciones claras, sin tecnicismos innecesarios.",
+      "rating": 5
+    },
+    {
+      "name": "Berta N.",
+      "neighborhood": "Calella",
+      "body": "Precio mucho más razonable que el concesionario y mismo resultado.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centre / Passeig marítim",
+    "Les Roquetes",
+    "Can Salat",
+    "Vista Alegre",
+    "Polígon industrial de Calella"
+  ],
+  "zoneAccessRoutes": [
+    "N-II (Barcelona-Girona)",
+    "C-32 Maresme (salida Calella)",
+    "Línea R1 Rodalies"
+  ]
 }

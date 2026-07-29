@@ -6,9 +6,9 @@
   "population": 2280,
   "lat": 41.28865,
   "lng": 1.54138,
-  "metaTitle": "Taller BMW en Llorenç del Penedès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Llorenç del Penedès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Llorenç del Penedès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Llorenç del Penedès | BMW Taller",
+  "metaDescription": "Servicio especializado en BMW para Llorenç del Penedès y el Baix Penedès. Diagnóstico oficial y reparación con presupuesto claro.",
+  "heroSubtitle": "Atención especializada BMW para Llorenç del Penedès",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Llorenç del Penedès: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Llorenç del Penedès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Llorenç del Penedès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Llorenç del Penedès es un municipio pequeño del Baix Penedès, con un ritmo tranquilo y sin talleres especializados en BMW dentro del propio pueblo. Los vecinos que tienen un BMW suelen desplazarse hacia El Vendrell o Vilafranca para cualquier revisión seria, algo que intentamos evitar ofreciendo recogida a domicilio y un trato directo, sin intermediarios.\n\nTrabajamos con el mismo nivel de diagnóstico que un concesionario, adaptado a un municipio donde el coche recorre sobre todo carreteras comarcales y la AP-7 para llegar a Tarragona o Barcelona.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento programado y reparación de motor y transmisión para cualquier BMW.",
+  "processIntro": "Facilitamos el proceso para quienes viven lejos de un taller especializado.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto",
+      "body": "Nos cuentas el síntoma y valoramos si conviene recoger el vehículo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico",
+      "body": "Identificamos el origen del problema con el software oficial de BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto",
+      "body": "Te presentamos el coste desglosado antes de reparar nada."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Ejecutamos el trabajo con el recambio que prefieras."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega",
+      "body": "Coordinamos la devolución del coche donde te resulte más cómodo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Llorenç del Penedès.",
+  "commonIssuesIntro": "En los BMW de la zona de Llorenç del Penedès vemos habitualmente:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Turbo",
+      "body": "Pérdida de fuerza en diésel con trayectos frecuentes hacia la AP-7."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Vanos",
+      "body": "Ruido en frío en motores de gasolina con kilometraje medio."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar que se corrigen con mantenimiento específico."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores",
+      "body": "Testigos encendidos por fallos puntuales de sensores."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Fugas menores que conviene detectar antes del verano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida a domicilio",
+      "body": "Ideal para quienes viven lejos de un taller especializado."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico oficial",
+      "body": "Mismo nivel técnico que un concesionario BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto por escrito",
+      "body": "Antes de cualquier reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trato directo",
+      "body": "Sin intermediarios ni asesores comerciales."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "En cada reparación realizada."
     }
   ],
-  "zoneText": "Atendemos BMW en Llorenç del Penedès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Llorenç del Penedès y el Baix Penedès, con recogida a domicilio para facilitar el desplazamiento.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Llorenç del Penedès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Llorenç?",
+      "a": "Sí, ofrecemos recogida a domicilio en toda la zona del Baix Penedès."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Hay que desplazarse hasta el taller?",
+      "a": "No siempre, podemos gestionar todo el proceso sin que te muevas de casa."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Dais presupuesto cerrado?",
+      "a": "Sí, siempre por escrito antes de reparar."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda la reparación de un turbo?",
+      "a": "Entre uno y tres días según disponibilidad de la pieza."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes de siniestro con las principales aseguradoras."
+    },
+    {
+      "q": "¿Qué garantía tienen las reparaciones?",
+      "a": "12 meses en mano de obra, según la pieza utilizada."
     }
   ],
-  "closingHeadline": "Tu BMW en Llorenç del Penedès, en buenas manos",
-  "closingCta": "Si tienes un BMW en Llorenç del Penedès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Especialistas BMW cerca de Llorenç del Penedès",
+  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que te desplaces.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,36 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opinión de un vecino de Llorenç del Penedès:",
+  "testimonials": [
+    {
+      "name": "Pere V.",
+      "neighborhood": "Llorenç del Penedès",
+      "body": "No tenía forma de acercarme al taller y vinieron a recoger el coche sin problema. Presupuesto tal cual me lo dijeron.",
+      "rating": 5
+    },
+    {
+      "name": "Elena C.",
+      "neighborhood": "Llorenç del Penedès",
+      "body": "Diagnóstico rápido del turbo de mi 118d, sin la espera que tenía en el concesionario de El Vendrell.",
+      "rating": 5
+    },
+    {
+      "name": "Gonzalo R.",
+      "neighborhood": "Llorenç del Penedès",
+      "body": "Recogieron el coche y me explicaron por teléfono el problema de la caja ZF antes de repararla.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Llorenç del Penedès",
+    "El Vendrell",
+    "Banyeres del Penedès",
+    "L'Arboç"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "C-51"
+  ]
 }

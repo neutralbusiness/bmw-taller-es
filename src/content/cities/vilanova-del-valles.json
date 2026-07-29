@@ -6,9 +6,9 @@
   "population": 5062,
   "lat": 41.55901,
   "lng": 2.30301,
-  "metaTitle": "Taller BMW en Vilanova del Vallès | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Vilanova del Vallès. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Vilanova del Vallès y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Vilanova del Vallès | Diagnosis y reparación",
+  "metaDescription": "Taller BMW cerca de Vilanova del Vallès, junto a la C-17 y la Granada. Diagnosis ISTA, mantenimiento y reparación de averías comunes. Presupuesto claro.",
+  "heroSubtitle": "Taller BMW próximo a Vilanova del Vallès, en el Vallès Oriental",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,108 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Vilanova del Vallès — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vilanova del Vallès te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Vilanova del Vallès, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Vilanova del Vallès es un municipio pequeño y muy residencial, con muchas urbanizaciones desde las que se llega rápido a la C-17 en dirección a Barcelona o Vic. Muchos de nuestros clientes de aquí usan el BMW a diario para desplazamientos largos, así que el mantenimiento preventivo importa más que la reparación de urgencia.",
+    "Nos ocupamos del cuidado completo del vehículo: revisiones periódicas, cambios de aceite con el intervalo correcto según el ordenador de a bordo, y diagnosis cuando aparece un testigo que no debería estar encendido."
+  ],
+  "servicesIntro": "Mantenimiento preventivo y reparación de averías eléctricas y mecánicas para BMW, con diagnosis original ISTA.",
+  "processIntro": "Trabajamos por fases claras para que la visita sea rápida y sin sorpresas.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y recogida de síntomas",
+      "body": "Concretamos día y hora y anotamos qué notas raro en el coche antes de que llegue al taller."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con ISTA",
+      "body": "Conectamos el sistema de diagnosis original para leer los módulos electrónicos del vehículo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto antes de intervenir",
+      "body": "Te llamamos con el resultado y el coste antes de tocar ninguna pieza."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con recambios homologados",
+      "body": "Montamos piezas de calidad garantizada respetando las especificaciones BMW."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con prueba de carretera",
+      "body": "El coche se prueba antes de devolverlo, con factura y garantía por escrito."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Vilanova del Vallès.",
+  "commonIssuesIntro": "Averías habituales en los BMW que llegan desde Vilanova del Vallès y su entorno.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Ralentí inestable en motores de gasolina con kilometraje medio-alto; diagnosticamos antes de sustituir componentes."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia progresiva en diésel, frecuentemente por fugas en el sistema de admisión."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido metálico en frío en motores N47, señal de que conviene revisar el tensor cuanto antes."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios bruscos que suelen resolverse con servicio de aceite completo de la caja automática."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Fugas en el vaso de expansión o en la bomba de agua eléctrica, típicas a partir de los 8-10 años de uso."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Acceso rápido desde la C-17",
+      "body": "Fácil de llegar sin cruzar el centro urbano ni perder tiempo en desplazamientos largos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis original",
+      "body": "Mismo equipo ISTA que usa la red oficial BMW."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "Sin cargos añadidos tras la aprobación inicial."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trato directo",
+      "body": "Hablas con quien repara el coche, no con un intermediario."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía escrita",
+      "body": "Toda reparación queda documentada."
     }
   ],
-  "zoneText": "Atendemos BMW en Vilanova del Vallès y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Vilanova del Vallès y las urbanizaciones cercanas, con acceso directo desde la C-17.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vilanova del Vallès?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Puedo dejar el coche fuera de horario?",
+      "a": "Sí, disponemos de buzón de llaves para dejar el vehículo antes de la apertura."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Hacéis revisiones antes de viajes largos?",
+      "a": "Sí, es de las consultas más habituales por aquí dada la conexión con la C-17."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con BMW híbridos enchufables?",
+      "a": "Sí, tenemos formación y equipo para la parte eléctrica de los modelos PHEV."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto por teléfono?",
+      "a": "Damos una orientación, pero el presupuesto cerrado siempre llega tras la diagnosis."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tarda un cambio de aceite?",
+      "a": "En torno a una hora, incluyendo la revisión de los niveles restantes."
+    },
+    {
+      "q": "¿Aceptáis vehículos de empresa?",
+      "a": "Sí, trabajamos con flotas pequeñas y autónomos de la zona."
     }
   ],
-  "closingHeadline": "Tu BMW en Vilanova del Vallès, en buenas manos",
-  "closingCta": "Si tienes un BMW en Vilanova del Vallès y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Mantén tu BMW listo para la C-17 sin sorpresas",
+  "closingCta": "Reserva cita para tu BMW cerca de Vilanova del Vallès",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +140,35 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de Vilanova del Vallès.",
+  "testimonials": [
+    {
+      "name": "Pere Codina",
+      "neighborhood": "Vilanova del Vallès",
+      "body": "Revisión completa antes de un viaje largo, todo explicado con tiempo. Muy tranquilizador.",
+      "rating": 5
+    },
+    {
+      "name": "Anna Riera",
+      "neighborhood": "Vilanova del Vallès",
+      "body": "Detectaron una fuga de refrigerante que en el taller anterior no habían visto. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier Comas",
+      "neighborhood": "La Sagrera Vella (Vilanova del Vallès)",
+      "body": "Precio justo y sin líos. Volveré para el mantenimiento anual.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centre",
+    "La Sagrera Vella",
+    "Can Bosc de Baix"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "BV-5001"
+  ]
 }

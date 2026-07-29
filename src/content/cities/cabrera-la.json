@@ -6,9 +6,9 @@
   "population": 2613,
   "lat": 40.86421,
   "lng": -3.60828,
-  "metaTitle": "Taller BMW en La Cabrera | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en La Cabrera. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en La Cabrera y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en La Cabrera | Sierra Norte, salida A-1",
+  "metaDescription": "Taller especializado BMW cerca de La Cabrera, junto a la A-1. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio.",
+  "heroSubtitle": "El taller BMW de confianza en La Cabrera, la puerta de la Sierra Norte junto a la A-1.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por La Cabrera, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en La Cabrera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en La Cabrera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "La Cabrera es un municipio de algo más de 2.700 habitantes en la Sierra Norte de Madrid, conocido por su peña y sus zonas de escalada, situado justo en la salida de la A-1, lo que lo convierte en un punto de referencia para quien vive en la sierra pero necesita el acceso rápido a Madrid, a unos 45 minutos de trayecto.\n\nEl propietario de BMW en La Cabrera combina el trayecto diario hacia Madrid por la A-1 con un uso muy local del pueblo y sus urbanizaciones cercanas, junto a Venturada, en carreteras de curva y pendiente moderada.\n\nNo hay taller especializado BMW en La Cabrera, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Madrid para cualquier mantenimiento.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en La Cabrera.",
+  "processIntro": "Un proceso sencillo pensado para quien hace a diario el trayecto hacia Madrid por la A-1.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto y valoración",
+      "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
+    },
+    {
+      "title": "Recogida en La Cabrera",
+      "body": "Vamos a buscar el coche a tu domicilio o urbanización."
+    },
+    {
+      "title": "Diagnosis con escáner oficial",
+      "body": "Revisamos todos los módulos electrónicos antes de decidir la reparación."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el precio exacto antes de tocar el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega puntual",
+      "body": "Devolvemos el vehículo en tu domicilio, listo para volver a la A-1."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por La Cabrera.",
+  "commonIssuesIntro": "Averías habituales en BMW de uso diario en autovía, como el de La Cabrera.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Turbo con pérdida de presión",
+      "body": "Los trayectos diarios por la A-1 a velocidad sostenida desgastan los retenes del turbo."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Cadena de distribución estirada",
+      "body": "El uso diario de autovía en motores de gasolina acelera el desgaste de la cadena."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Suspensión y amortiguadores",
+      "body": "Las carreteras de curva y pendiente moderada de la zona deterioran silentblocks antes de lo habitual."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Batería exigida por el frío serrano",
+      "body": "Los inviernos de la zona reducen la vida útil de la batería antes de lo esperado."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Sin cambio de aceite de caja periódico aparecen tirones en cambios a baja velocidad."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida a domicilio en La Cabrera",
+      "body": "No hace falta que te desplaces hasta Madrid para el mantenimiento."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sabes el coste final antes de autorizar la reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú eliges el nivel de gasto según la antigüedad del coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Experiencia con commuters diarios de A-1",
+      "body": "Sabemos qué desgastes son típicos del uso diario de autovía y los revisamos primero."
     }
   ],
-  "zoneText": "Atendemos BMW en La Cabrera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a La Cabrera y a los municipios cercanos de la Sierra Norte como Venturada y Cabanillas de la Sierra, con recogida a domicilio para quienes hacen a diario el trayecto hacia Madrid por la A-1.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en La Cabrera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en La Cabrera?",
+      "a": "Sí, a domicilio, sin coste adicional."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con BMW de uso diario en autovía?",
+      "a": "Es el perfil más habitual entre nuestros clientes de la zona, con mucha experiencia."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tardáis en dar presupuesto?",
+      "a": "El mismo día que hacemos la diagnosis."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
+      "a": "Sí, coordinamos la recogida a primera hora de la mañana."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Usáis piezas originales BMW?",
+      "a": "Ofrecemos original o equivalente homologado según lo que prefieras."
+    },
+    {
+      "q": "¿Dais servicio también en Venturada?",
+      "a": "Sí, a todo el entorno cercano de La Cabrera."
     }
   ],
-  "closingHeadline": "Tu BMW en La Cabrera, en buenas manos",
-  "closingCta": "Si tienes un BMW en La Cabrera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW cuidado en la puerta de la sierra",
+  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opiniones de clientes de La Cabrera y alrededores.",
+  "testimonials": [
+    {
+      "name": "Casimiro Venturada",
+      "neighborhood": "La Cabrera",
+      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Madrid.",
+      "rating": 5
+    },
+    {
+      "name": "Piedad Somosierra",
+      "neighborhood": "La Cabrera",
+      "body": "Detectaron un problema de turbo antes de que fuera a más. Muy agradecida.",
+      "rating": 5
+    },
+    {
+      "name": "Wenceslao Robledillo",
+      "neighborhood": "Venturada",
+      "body": "Me recomendó un vecino de La Cabrera y el trato ha sido excelente desde el primer momento.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "La Cabrera",
+    "Venturada",
+    "Cabanillas de la Sierra",
+    "El Molar",
+    "Redueña"
+  ],
+  "zoneAccessRoutes": [
+    "A-1",
+    "M-127"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 93470,
   "lat": 40.62862,
   "lng": -3.16185,
-  "metaTitle": "Taller BMW en Guadalajara | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Guadalajara. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Guadalajara y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Guadalajara | Diagnosis y reparación especializada",
+  "metaDescription": "Taller BMW en Guadalajara especializado en diagnosis original, motor, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado y garantía por escrito en cada reparación.",
+  "heroSubtitle": "Especialistas en BMW en Guadalajara, con fácil acceso desde la A-2",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Guadalajara vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Guadalajara te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Guadalajara, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Guadalajara ha crecido mucho en los últimos años gracias a su cercanía con Madrid y a la A-2, lo que ha traído consigo un parque de BMW considerable, en buena parte de gente que hace el trayecto diario hacia la capital. Ese uso de autovía constante es exigente con el turbo y con la caja de cambios automática, algo que vemos reflejado en el tipo de averías que llegan al taller.\n\nTambién trabajamos con bastantes vehículos de los polígonos industriales de la zona, como Iriépal o Cabanillas del Campo, donde el uso comercial intensivo adelanta el desgaste de la cadena de distribución en los motores diésel más veteranos.\n\nSomos un taller centrado exclusivamente en BMW, con diagnosis original y técnicos especializados que no reparten su atención entre varias marcas distintas. Eso permite diagnósticos más rápidos, especialmente en averías eléctricas intermitentes que en talleres genéricos suelen quedar sin resolver durante meses.\n\nRecibimos clientes de Guadalajara capital, pero también de Azuqueca de Henares, Marchamalo o Cabanillas del Campo, muchos de los cuales prefieren desplazarse un poco más antes que arriesgarse con un diagnóstico impreciso.",
+  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación de motor y caja, siempre con foco exclusivo en BMW.",
+  "processIntro": "Nuestro proceso de trabajo, pensado para que sepas en todo momento qué está pasando con tu coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y toma de datos",
+      "body": "Escuchamos tu descripción del problema antes de conectar cualquier equipo, es información valiosa."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo original",
+      "body": "Escaneamos todos los módulos electrónicos con el software oficial de BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos el problema con claridad y te damos un coste cerrado antes de reparar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación documentada",
+      "body": "Registramos cada pieza montada con su referencia exacta."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final en carretera",
+      "body": "Probamos el coche en autovía si la avería lo justifica, antes de entregarlo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Guadalajara.",
+  "commonIssuesIntro": "Las averías más habituales en los BMW que atendemos en Guadalajara y su área metropolitana.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic con pérdida de potencia",
+      "body": "El desgaste progresivo del sistema provoca ralentí irregular y respuesta más lenta del motor."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo fatigado por la A-2",
+      "body": "El uso diario en autovía hacia Madrid adelanta el desgaste del turbo en diésel con muchos kilómetros."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución estirada",
+      "body": "Ruido metálico en frío, frecuente en motores N47 sin mantenimiento preventivo reciente."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos que suelen resolverse con un cambio correcto del aceite específico de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración defectuosos",
+      "body": "Avisos intermitentes de temperatura, comunes en coches con uso mixto de polígono y autovía."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Únicamente BMW",
+      "body": "Todo el taller está orientado a una sola marca, sin dispersar el conocimiento técnico."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Cerca de la A-2",
+      "body": "Fácil acceso desde Guadalajara capital y desde Azuqueca de Henares o Cabanillas del Campo."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "El precio pactado es el que se cobra al final, sin sorpresas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Diagnosis con equipo original",
+      "body": "El mismo software que usa la red oficial de la marca."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "Cada reparación incluye garantía por escrito de pieza y mano de obra."
     }
   ],
-  "zoneText": "Atendemos BMW en Guadalajara y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Guadalajara capital y a los municipios del corredor del Henares, con acceso rápido desde la A-2.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Guadalajara?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis clientes de Azuqueca de Henares o Cabanillas?",
+      "a": "Sí, es habitual recibir clientes de todo el corredor del Henares."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Cuánto tarda una reparación de turbo?",
+      "a": "Normalmente entre 1 y 2 días laborables, según disponibilidad de pieza."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿El presupuesto es gratuito?",
+      "a": "El diagnóstico se descuenta del importe final si decides reparar con nosotros."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Revisáis el coche antes de un viaje largo por la A-2?",
+      "a": "Es un servicio muy solicitado, sobre todo revisando turbo, caja y refrigeración."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con flotas de los polígonos industriales?",
+      "a": "Sí, damos servicio a vehículos comerciales de Cabanillas e Iriépal."
+    },
+    {
+      "q": "¿Puedo dejar el coche varios días?",
+      "a": "Sin problema, disponemos de espacio para custodiarlo."
+    },
+    {
+      "q": "¿Dais garantía por escrito?",
+      "a": "Siempre, en todas las reparaciones que realizamos."
     }
   ],
-  "closingHeadline": "Tu BMW en Guadalajara, en buenas manos",
-  "closingCta": "Si tienes un BMW en Guadalajara y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW merece un especialista en Guadalajara",
+  "closingCta": "Pide cita en nuestro taller",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,39 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Guadalajara que confían en nosotros.",
+  "testimonials": [
+    {
+      "name": "Alberto Sanz",
+      "neighborhood": "Balconcillo",
+      "body": "Hago el trayecto a Madrid a diario y necesitaba un taller de confianza para el turbo de mi 320d. Aquí lo resolvieron sin dramas.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina Herranz",
+      "neighborhood": "Aguas Vivas",
+      "body": "Diagnóstico correcto de un fallo eléctrico intermitente que otro taller no supo identificar en semanas.",
+      "rating": 5
+    },
+    {
+      "name": "Julián Recuero",
+      "neighborhood": "Azuqueca de Henares",
+      "body": "Vengo desde Azuqueca porque aquí realmente saben de BMW, se nota en cómo explican cada cosa.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Balconcillo",
+    "Aguas Vivas",
+    "Alamín",
+    "Centro",
+    "Villaflores"
+  ],
+  "zoneAccessRoutes": [
+    "A-2 dirección Madrid",
+    "CM-101 hacia Cabanillas del Campo",
+    "GU-30 ronda de circunvalación",
+    "N-320 desde Cuenca"
+  ]
 }

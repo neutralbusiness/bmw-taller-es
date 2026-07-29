@@ -6,9 +6,9 @@
   "population": 3179,
   "lat": 40.56791,
   "lng": -3.1939,
-  "metaTitle": "Taller BMW en Chiloeches | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Chiloeches. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Chiloeches y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Chiloeches | Corredor del Henares, Guadalajara",
+  "metaDescription": "Taller BMW en Chiloeches, Guadalajara. Diagnóstico y reparación de motor, turbo y caja para todo el corredor del Henares junto a la A-2.",
+  "heroSubtitle": "Especialistas BMW en el corredor del Henares, junto a la A-2.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Chiloeches, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Chiloeches te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Chiloeches, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Chiloeches es un municipio en pleno crecimiento del corredor del Henares, en la provincia de Guadalajara, beneficiado por su posición junto a la A-2 y por la expansión industrial y logística de la zona. Muchos de sus vecinos trabajan en los polígonos cercanos de Azuqueca de Henares y Alovera, o se desplazan a diario hacia Madrid.\n\nEse perfil de conductor que hace muchos kilómetros de autovía cada semana es justo el que más sufre ciertos fallos típicos de BMW: turbo, caja automática y refrigeración, sometidos a un uso constante a velocidad de crucero. No hay taller especializado en la marca en Chiloeches, por lo que la mayoría de vecinos resuelven sus averías en Guadalajara capital o en el propio corredor del Henares hacia Madrid.",
+  "servicesIntro": "Diagnóstico y reparación pensados para coches que hacen muchos kilómetros de autovía.",
+  "processIntro": "Trabajamos con el mismo rigor tanto en el coche de uso diario como en el de largos desplazamientos.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico sin compromiso",
+      "body": "Antes de presupuestar nada, identificamos con precisión el origen real del fallo, no solo el síntoma que se ve."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Comunicación transparente",
+      "body": "Te llamamos o escribimos con el diagnóstico y el coste antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación específica BMW",
+      "body": "Cada sistema alemán tiene su procedimiento propio; lo seguimos al pie de la letra, no atajos."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Revisión cruzada",
+      "body": "Comprobamos que la reparación no ha dejado ningún otro aviso pendiente en el resto de módulos."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Devolución del vehículo",
+      "body": "Te devolvemos el coche limpio, probado y con la documentación de lo realizado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Chiloeches.",
+  "commonIssuesIntro": "Fallos habituales en los BMW que hacen trayectos largos por el corredor del Henares.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic con ruido metálico",
+      "body": "El característico traqueteo en frío de los motores de gasolina suele deberse a solenoides Vanos desgastados o al sistema Valvetronic perdiendo precisión."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de potencia",
+      "body": "En los N47, N57, B37 y B47 la fatiga del turbo o fugas en el circuito de admisión se notan como falta de fuerza en aceleraciones."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución estirada",
+      "body": "En los N47 diésel especialmente, una cadena o tensor desgastado provoca ruido de arrastre y, si no se atiende, puede saltar el reglaje."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP con tirones",
+      "body": "El aceite de la ZF8 caduca antes de lo que mucha gente cree; sin cambio a tiempo aparecen tirones al cambiar de marcha."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sondas dando avisos intermitentes",
+      "body": "Sondas lambda, sensores de árbol de levas o de presión de rail generan testigos que van y vienen si empiezan a degradarse."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Años de experiencia solo con motores alemanes",
+      "body": "Nuestros técnicos se han formado específicamente en la electrónica y mecánica de BMW, no en talleres multimarca genéricos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Transparencia en cada presupuesto",
+      "body": "No hay letra pequeña: el precio que te damos es el que pagas, salvo que aparezca algo nuevo y te avisemos antes."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Recogida y entrega si lo necesitas",
+      "body": "Sabemos que perder un día entero sin coche no siempre es viable, por eso facilitamos la logística cuando hace falta."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación sale del taller con garantía documentada sobre pieza y mano de obra."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cita sin esperas eternas",
+      "body": "Al no depender de la agenda de un concesionario grande, solemos dar cita en días, no en semanas."
     }
   ],
-  "zoneText": "Atendemos BMW en Chiloeches y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Chiloeches y a todo el corredor del Henares en Guadalajara: Azuqueca de Henares, Alovera y Yunquera de Henares, con fácil acceso desde la A-2 y la R-2.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Chiloeches?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recomendáis revisiones más frecuentes si hago muchos km de autovía?",
+      "a": "Sí, sobre todo en turbo y caja automática, que sufren más con uso constante a velocidad de crucero."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atendéis coches de empresa o de flota logística?",
+      "a": "Sí, es un perfil muy habitual en la zona y ofrecemos condiciones para mantenimiento recurrente."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Está bien comunicado el taller desde Chiloeches?",
+      "a": "Sí, el acceso por la A-2 es directo y rápido desde el municipio."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo dejar el coche de camino al trabajo?",
+      "a": "Es la dinámica habitual de muchos clientes que trabajan en los polígonos cercanos."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Hacéis diagnóstico de averías intermitentes en carretera?",
+      "a": "Sí, aunque puede requerir alguna prueba de carretera larga para reproducir el fallo."
+    },
+    {
+      "q": "¿Trabajáis con BMW Serie 5 y Serie 3 con muchos kilómetros?",
+      "a": "Es de los perfiles más habituales que recibimos, con motores diésel de alto kilometraje."
     }
   ],
-  "closingHeadline": "Tu BMW en Chiloeches, en buenas manos",
-  "closingCta": "Si tienes un BMW en Chiloeches y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "BMW preparado para la autovía, no solo para la ciudad",
+  "closingCta": "Pide cita desde Chiloeches antes de que una avería te pille en la A-2.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,38 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Chiloeches y el corredor del Henares.",
+  "testimonials": [
+    {
+      "name": "Rubén C.",
+      "neighborhood": "Chiloeches",
+      "body": "Hago 100 km diarios por trabajo y el turbo del 320d empezó a fallar. Diagnóstico rápido y reparación duradera.",
+      "rating": 5
+    },
+    {
+      "name": "Elena H.",
+      "neighborhood": "Azuqueca de Henares",
+      "body": "Precio mucho más razonable que en Madrid capital para el mismo nivel de especialización.",
+      "rating": 5
+    },
+    {
+      "name": "Tomás I.",
+      "neighborhood": "Alovera",
+      "body": "Muy atentos explicando por qué el aceite de la caja automática hay que cambiarlo antes de lo que marca el manual con tanto kilómetro de autovía.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Chiloeches",
+    "Azuqueca de Henares",
+    "Alovera",
+    "Yunquera de Henares",
+    "Guadalajara"
+  ],
+  "zoneAccessRoutes": [
+    "A-2",
+    "R-2",
+    "CM-1004"
+  ]
 }

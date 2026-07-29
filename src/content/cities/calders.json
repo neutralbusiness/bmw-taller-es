@@ -6,9 +6,9 @@
   "population": 955,
   "lat": 41.76756,
   "lng": 1.9681,
-  "metaTitle": "Taller BMW en Calders | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Calders. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Calders y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Calders (Bages) | Diagnosis y reparación",
+  "metaDescription": "Taller especializado BMW cerca de Calders, Bages. Diagnosis por marca, mantenimiento y reparación de motor, caja ZF y turbo. Recogida en Calders disponible.",
+  "heroSubtitle": "El taller BMW de referencia para los propietarios de Calders y el Moianès sur.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Calders: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Calders te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Calders, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Calders es un municipio pequeño del Bages, apenas 800 habitantes repartidos entre el núcleo urbano y las masías del entorno, a caballo entre la comarca del Bages y el Moianès. No hay concesionarios ni talleres especializados en la propia localidad, así que quien tiene un BMW aquí normalmente ya está acostumbrado a desplazarse hasta Manresa o Barcelona para cualquier revisión seria. Nuestro taller trabaja con clientes de Calders desde hace años, sobre todo gente que hace la C-16 o la carretera de Manresa a diario para ir a trabajar y necesita un coche fiable, sin sorpresas.",
+  "servicesIntro": "Cubrimos desde el mantenimiento programado hasta averías de motor y electrónica en cualquier serie BMW.",
+  "processIntro": "El proceso es simple para quien viene desde fuera de Manresa: diagnóstico claro y presupuesto cerrado antes de tocar nada.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha",
+      "body": "Nos cuentas el síntoma o programamos el mantenimiento correspondiente según kilometraje."
+    },
+    {
+      "title": "Diagnosis con equipo BMW",
+      "body": "Usamos herramienta de diagnosis específica de la marca, no un lector genérico."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el diagnóstico y el precio antes de intervenir, sin sorpresas al recoger el coche."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación",
+      "body": "Piezas originales o equivalentes de primera calidad, según lo que decidas."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba y entrega",
+      "body": "Probamos el coche en carretera antes de devolverlo, no solo en el elevador."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Calders.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW que llegan desde Calders y el Moianès:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico al arrancar en frío en motores de gasolina N43/N53, típico de solenoides Vanos desgastados."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con fugas de aceite",
+      "body": "Pérdida de potencia progresiva en diésel con muchos km de carretera, habitual por el uso continuo en autovía."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido tipo sonajero en frío en motores N47 y N20, hay que revisarlo antes de que salte un diente."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP",
+      "body": "Cambios bruscos o tirones que se solucionan casi siempre con un cambio de aceite específico ZF."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y testigos en el cuadro",
+      "body": "Avisos de avería de motor que en la mitad de los casos son sensores de bajo coste, no el motor entero."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialización real en BMW",
+      "body": "No somos un taller genérico que también toca BMW: es nuestra especialidad."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Precio de taller independiente",
+      "body": "Mismo nivel técnico que el concesionario sin el sobrecoste de la marca."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Trato directo",
+      "body": "Hablas con quien repara tu coche, no con un comercial de recambios."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía en reparaciones",
+      "body": "Todo trabajo sale con garantía por escrito."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Facilidad para desplazamientos",
+      "body": "Coordinamos recogida para clientes de Calders y municipios cercanos del Moianès."
     }
   ],
-  "zoneText": "Atendemos BMW en Calders y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Calders queda a unos 45-50 minutos de Barcelona por la C-16 y a poco más de 10 minutos de Manresa, que es donde suele resolverse la vida diaria de quien vive aquí. No hay barrios propiamente dichos: el pueblo se organiza entre el núcleo antiguo, alguna urbanización dispersa y masías del término municipal.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Calders?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Calders?",
+      "a": "Sí, coordinamos recogida y entrega para clientes de Calders y el Moianès, normalmente sin coste añadido en reparaciones importantes."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con diésel y gasolina por igual?",
+      "a": "Sí, tenemos experiencia con ambos, incluidos los motores de cadena de distribución interna típicos de BMW."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿El presupuesto es gratuito?",
+      "a": "El diagnóstico inicial tiene un coste que se descuenta si finalmente haces la reparación con nosotros."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Usáis piezas originales?",
+      "a": "Ofrecemos original de BMW o equivalente de primera marca, tú decides según presupuesto."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tardáis en un mantenimiento normal?",
+      "a": "Un mantenimiento estándar se resuelve en el día si traes el coche por la mañana."
+    },
+    {
+      "q": "¿Atendéis coches con muchos kilómetros?",
+      "a": "Sí, buena parte de nuestros clientes de Calders tienen BMW de más de 150.000 km y los mantenemos rodando de forma fiable."
     }
   ],
-  "closingHeadline": "Tu BMW en Calders, en buenas manos",
-  "closingCta": "Si tienes un BMW en Calders y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW, cerca de Calders, en manos de especialistas",
+  "closingCta": "Reserva tu cita y te decimos exactamente qué le pasa a tu coche antes de tocar nada.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,37 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que dicen los clientes de Calders que confían en nosotros:",
+  "testimonials": [
+    {
+      "name": "Jordi S.",
+      "neighborhood": "Calders",
+      "body": "Vengo desde que se me quedó tirado el Serie 3 en la C-16. Desde entonces no me fío de nadie más.",
+      "rating": 5
+    },
+    {
+      "name": "Marta P.",
+      "neighborhood": "Calders",
+      "body": "Explican todo sin tecnicismos y el presupuesto es el que te dan, no cambia al recoger el coche.",
+      "rating": 5
+    },
+    {
+      "name": "Enric V.",
+      "neighborhood": "Calders",
+      "body": "Diagnosticaron un problema de Vanos que en otro sitio no supieron ni identificar.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Nucli antic de Calders",
+    "Urbanització Can Padró",
+    "El Farell",
+    "Zona de masías del término"
+  ],
+  "zoneAccessRoutes": [
+    "C-16 (eje del Llobregat)",
+    "Carretera de Calders a Manresa (BV-1225)",
+    "C-59 hacia Barcelona"
+  ]
 }

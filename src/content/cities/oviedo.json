@@ -6,9 +6,9 @@
   "population": 220027,
   "lat": 43.36029,
   "lng": -5.84476,
-  "metaTitle": "Taller BMW en Oviedo | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Oviedo. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Oviedo y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Oviedo | Especialistas en mecánica BMW",
+  "metaDescription": "Taller especializado en BMW en Oviedo. Diagnóstico ISTA, motor, turbo, cajas ZF y electrónica. Presupuesto cerrado y garantía por escrito. Pide cita.",
+  "heroSubtitle": "El taller BMW de Oviedo para quien busca el nivel de un concesionario sin sus precios ni sus esperas.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,153 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Oviedo — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Oviedo te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Oviedo, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": [
+    "Oviedo tiene un parque de BMW consolidado, desde los clásicos Serie 3 E46 que todavía se ven por El Cristo o La Tenderina hasta los X3 y X5 más recientes que circulan por el Naranco o Buenavista. La orografía asturiana, con cuestas constantes dentro de la propia ciudad y puertos de montaña cerca, exige un mantenimiento distinto al de una ciudad llana.",
+    "El clima de Oviedo, húmedo y con lluvia frecuente todo el año, también deja huella en la mecánica: vemos más corrosión en conexiones eléctricas y más consultas sobre sistemas de frenos y suspensión que en ciudades más secas del interior. Es algo que tenemos muy presente al revisar cualquier BMW que llega de la zona.",
+    "Trabajamos con clientes de toda la ciudad, desde el centro histórico junto a la Catedral de San Salvador hasta barrios como Ventanielles, San Lázaro o La Corredoria, además de gente que baja desde los concejos cercanos para aprovechar un taller realmente especializado en la marca, algo que en Asturias no abunda fuera de los concesionarios oficiales.",
+    "Contamos con diagnóstico ISTA de nivel concesionario, elevadores adaptados a SUV y berlinas, y un equipo formado específicamente en BMW, lo que nos permite dar respuestas rápidas incluso en averías electrónicas complejas que en otros talleres de Oviedo suelen alargarse semanas."
+  ],
+  "servicesIntro": "Diagnóstico avanzado, motor, turbo, transmisión, frenos, suspensión y electrónica para todos los modelos BMW en Oviedo.",
+  "processIntro": "El proceso que seguimos con cada BMW que entra en nuestro taller de Oviedo, adaptado al clima y la orografía asturiana.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del problema",
+      "body": "Antes de conectar ningún equipo, escuchamos cómo describes el problema: cuándo aparece, en qué situaciones, si hay ruidos o testigos encendidos. Esa información nos ahorra horas de diagnóstico en Oviedo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico electrónico completo",
+      "body": "Escaneamos todos los módulos del vehículo con herramientas de nivel concesionario para descartar fallos ocultos que un lector genérico no detecta."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación cara a cara",
+      "body": "Te enseñamos en el propio taller lo que hemos encontrado, con fotos si hace falta, antes de autorizar ningún trabajo."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución por especialistas en BMW",
+      "body": "La reparación la realiza un mecánico formado específicamente en la marca, no un generalista. Eso marca la diferencia en Vanos, ZF 8HP o Valvetronic."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Control de calidad y entrega",
+      "body": "Revisamos pares de apriete, borramos memorias de avería, comprobamos que no queden testigos y te devolvemos el coche limpio y con garantía por escrito."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Oviedo.",
+  "commonIssuesIntro": "Averías más frecuentes en los BMW de Oviedo, muchas veces relacionadas con la humedad y las cuestas propias de la ciudad.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Cuando el motor pierde fuerza a bajas revoluciones o suena como una cadena de bicicleta al ralentí, sospechamos primero del Vanos. La solución no siempre es cambiarlo entero: a veces basta con la junta o el sensor."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sistema de sobrealimentación",
+      "body": "Un turbo que no da la presión esperada puede deberse simplemente a un manguito de admisión con una grieta, mucho antes de plantearse cambiar el turbo completo."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Alargamiento de la cadena de distribución",
+      "body": "El kit de distribución (cadena, guías y tensor) se desgasta antes de lo que muchos propietarios creen, especialmente en motores diésel con mucho kilometraje urbano."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP",
+      "body": "El mantenimiento cada 60.000-80.000 km del aceite de la ZF 8HP evita la mayoría de averías graves de esta caja, que de otro modo puede acabar necesitando una reparación completa."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de motor",
+      "body": "Fallos de sensores mal diagnosticados llevan a cambiar piezas caras sin necesidad. Nuestro diagnóstico busca siempre el sensor exacto antes de tocar nada más, incluida la sonda de temperatura del líquido refrigerante."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Mecánicos formados en BMW",
+      "body": "Nuestro personal se forma específicamente en la electrónica y mecánica de BMW, no en cursos genéricos de multimarca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Instalaciones equipadas",
+      "body": "Elevadores, herramienta específica de par y software de programación adaptados a cada generación de BMW, de la Serie 3 E90 al X5 G05."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Sin letra pequeña",
+      "body": "El presupuesto incluye pieza, mano de obra e IVA. Lo que ves es lo que pagas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Revisión previa a la entrega",
+      "body": "Antes de devolverte el coche hacemos una comprobación final para asegurarnos de que no queda ningún testigo pendiente."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cercanía y confianza en Oviedo",
+      "body": "Muchos clientes llegan recomendados por otro cliente de Oviedo. El boca a boca en un taller especializado se gana, no se compra."
     }
   ],
-  "zoneText": "Atendemos BMW en Oviedo y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a toda la ciudad de Oviedo y sus concejos cercanos, desde el centro histórico hasta las zonas más altas como el Naranco.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Oviedo?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿La humedad de Oviedo afecta a la electrónica del BMW?",
+      "a": "Sí, es un factor real que vemos en conexiones y sensores. Por eso revisamos con especial atención los puntos de corrosión."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con SUV como el X3 o el X5?",
+      "a": "Sí, contamos con elevadores y equipo adaptado a su peso y electrónica."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda un diagnóstico completo en Oviedo?",
+      "a": "Normalmente entre 1 y 2 horas, según la complejidad."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto cerrado antes de reparar?",
+      "a": "Siempre, por escrito y sin compromiso."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Atendéis a clientes de concejos cercanos a Oviedo?",
+      "a": "Sí, recibimos coches de toda la zona centro de Asturias."
+    },
+    {
+      "q": "¿Trabajáis con BMW eléctricos o híbridos?",
+      "a": "Sí, tenemos formación y equipo para la gama electrificada de BMW."
+    },
+    {
+      "q": "¿Puedo dejar el coche una noche si vengo de fuera de la ciudad?",
+      "a": "Sí, contamos con aparcamiento seguro para estancias más largas."
     }
   ],
-  "closingHeadline": "Tu BMW en Oviedo, en buenas manos",
-  "closingCta": "Si tienes un BMW en Oviedo y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Oviedo necesitaba",
+  "closingCta": "Pide cita y descubre por qué cada vez más ovetenses confían en un taller especializado en la marca.",
+  "testimonialsIntro": "Clientes de distintos barrios de Oviedo cuentan su experiencia.",
+  "testimonials": [
+    {
+      "name": "Marcelino Cangas",
+      "neighborhood": "El Cristo, Oviedo",
+      "body": "El X3 tenía un fallo eléctrico intermitente que otro taller no supo encontrar en meses. Aquí lo resolvieron en una tarde con el diagnóstico correcto.",
+      "rating": 5
+    },
+    {
+      "name": "Covadonga Llaneza",
+      "neighborhood": "La Tenderina, Oviedo",
+      "body": "Muy honestos con el estado real de los frenos del Serie 1, no me vendieron nada que no necesitara.",
+      "rating": 5
+    },
+    {
+      "name": "Belarmino Ordiales",
+      "neighborhood": "Naranco, Oviedo",
+      "body": "Reparación del turbo del 320d con explicación clara y garantía por escrito. Volveré sin dudarlo.",
+      "rating": 5
+    },
+    {
+      "name": "Rosaura Villaverde",
+      "neighborhood": "San Lázaro, Oviedo",
+      "body": "El X5 llevaba un ruido raro en la suspensión desde hacía tiempo. Lo encontraron a la primera.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Cristo",
+    "La Tenderina",
+    "Ventanielles",
+    "San Lázaro",
+    "Buenavista",
+    "La Corredoria",
+    "Naranco"
+  ],
+  "zoneAccessRoutes": [
+    "A-66",
+    "A-64",
+    "Ronda de Oviedo"
+  ]
 }

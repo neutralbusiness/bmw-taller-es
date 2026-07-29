@@ -6,9 +6,9 @@
   "population": 8669,
   "lat": 41.63171,
   "lng": 2.01558,
-  "metaTitle": "Taller BMW en Matadepera | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Matadepera. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Matadepera y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Matadepera | Servicio premium Vallès",
+  "metaDescription": "Taller BMW en Matadepera con diagnosis oficial y atención personalizada. Mecánica, electrónica y mantenimiento para toda la gama, con presupuesto claro.",
+  "heroSubtitle": "Servicio BMW a la altura de Matadepera, sin los precios del concesionario.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Matadepera: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Matadepera te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Matadepera, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Matadepera tiene uno de los parques de vehículos premium más altos de la comarca del Vallès Occidental, y eso se refleja directamente en nuestra cartera de clientes: muchos Serie 5, X5 y modelos M que exigen un nivel de atención que va más allá del mantenimiento básico.\n\nSabemos que en Matadepera se valora la discreción y el trato cuidado tanto como la competencia técnica. Por eso trabajamos con cita programada, explicaciones claras antes de cualquier intervención y un seguimiento cercano de cada vehículo que entra al taller.\n\nTambién atendemos con frecuencia BMW híbridos enchufables y modelos con equipamiento M Sport, que requieren procedimientos de diagnosis y ajuste específicos que no todos los talleres generalistas dominan.",
+  "servicesIntro": "Mantenimiento, motor, suspensión deportiva y electrónica avanzada para BMW de gama alta.",
+  "processIntro": "Un proceso pensado para clientes exigentes que quieren entender cada decisión sobre su coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita personalizada",
+      "body": "Concertamos horario y recogemos el historial completo del vehículo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo oficial",
+      "body": "Leemos todos los módulos electrónicos, incluidos los de equipamiento M Sport."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Explicamos cada partida antes de que el cliente decida cómo proceder."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con piezas de calidad",
+      "body": "Priorizamos recambio original en vehículos de gama alta."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con prueba dinámica",
+      "body": "Probamos el coche en carretera para validar el resultado final."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Matadepera.",
+  "commonIssuesIntro": "Averías habituales en los BMW de gama alta y M Sport que atendemos en Matadepera.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos / Valvetronic",
+      "body": "Pérdida de suavidad en motores de gasolina de alta prestación con kilometraje elevado."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo en motores M Performance",
+      "body": "Desgaste acelerado por el uso deportivo habitual de estos motores."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Ruido en frío en motores N20 y N55, revisable antes de que se convierta en avería mayor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Ajuste fino necesario en modelos deportivos para mantener respuesta óptima de cambio."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sistemas de refrigeración",
+      "body": "Fallos intermitentes en modelos con gestión térmica avanzada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Atención personalizada",
+      "body": "Trato cercano y explicaciones claras para cada cliente."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Experiencia en gama alta",
+      "body": "Formación específica en modelos M y equipamiento deportivo."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Diagnosis oficial",
+      "body": "El mismo software que usa la red oficial BMW."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Discreción y confianza",
+      "body": "Trabajamos con la misma seriedad que espera un cliente de Matadepera."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación queda documentada y respaldada."
     }
   ],
-  "zoneText": "Atendemos BMW en Matadepera y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Matadepera y a los municipios cercanos del Vallès Occidental con perfil similar de vehículo.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Matadepera?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajan con modelos M Performance?",
+      "a": "Sí, tenemos experiencia específica en motores y suspensiones deportivas M."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Atienden BMW híbridos enchufables?",
+      "a": "Sí, con el equipo de seguridad eléctrica necesario para intervenir en ellos."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo pedir cita en horario reservado?",
+      "a": "Sí, ofrecemos citas concertadas para minimizar tiempos de espera."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Usan recambio original?",
+      "a": "Priorizamos original en gama alta, siempre según preferencia del cliente."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tarda una revisión completa?",
+      "a": "Normalmente un día, salvo intervenciones complejas de motor."
+    },
+    {
+      "q": "¿Ofrecen presupuesto antes de intervenir?",
+      "a": "Siempre, detallado y por escrito."
+    },
+    {
+      "q": "¿Garantizan las reparaciones?",
+      "a": "Sí, todo trabajo queda documentado con garantía."
     }
   ],
-  "closingHeadline": "Tu BMW en Matadepera, en buenas manos",
-  "closingCta": "Si tienes un BMW en Matadepera y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El nivel que tu BMW merece, en Matadepera",
+  "closingCta": "Reserva tu cita personalizada y confía tu BMW a especialistas.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,43 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Matadepera valoran nuestro nivel de servicio.",
+  "testimonials": [
+    {
+      "name": "Enric Bassols",
+      "neighborhood": "Matadepera centro",
+      "body": "Mi M3 necesitaba atención especializada y aquí la encontré, con explicaciones claras en cada paso.",
+      "rating": 5
+    },
+    {
+      "name": "Mireia Torrents",
+      "neighborhood": "Can Solà",
+      "body": "Trato exquisito y diagnóstico preciso en mi X5. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Oriol Vendrell",
+      "neighborhood": "Matadepera",
+      "body": "Por fin un taller que entiende un BMW híbrido enchufable sin improvisar.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Camprubí",
+      "neighborhood": "Sant Jordi (Matadepera)",
+      "body": "Cita rápida, presupuesto claro y coche listo cuando dijeron.",
+      "rating": 4
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Matadepera centro",
+    "Can Solà",
+    "Sant Jordi",
+    "Terrassa (zona próxima)"
+  ],
+  "zoneAccessRoutes": [
+    "C-58",
+    "BV-1221",
+    "N-150"
+  ]
 }

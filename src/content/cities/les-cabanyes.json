@@ -6,9 +6,9 @@
   "population": 947,
   "lat": 41.37379,
   "lng": 1.69027,
-  "metaTitle": "Taller BMW en les Cabanyes | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en les Cabanyes. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en les Cabanyes y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW cerca de Les Cabanyes | BMW Taller Penedès",
+  "metaDescription": "Servicio especializado en BMW para Les Cabanyes y el Alt Penedès. Diagnosis oficial, mantenimiento y reparación de averías. Presupuesto claro.",
+  "heroSubtitle": "Atención especializada BMW para Les Cabanyes y el Alt Penedès",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por les Cabanyes, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en les Cabanyes te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en les Cabanyes, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Les Cabanyes es un municipio pequeño del Alt Penedès, de apenas unos cientos de habitantes, rodeado de viñedos y con un ritmo de vida muy distinto al de Vilafranca o Barcelona. No hay talleres especializados en BMW en el propio pueblo, así que los vecinos que tienen un BMW -normalmente para desplazarse a diario hacia Vilafranca del Penedès o hacia la AP-7- terminan buscando un especialista fuera del municipio.\n\nNuestro taller trabaja con varios clientes de la zona del Penedès que prefieren no depender del concesionario más cercano por precio o por tiempos de espera. Ofrecemos diagnóstico con el mismo software que usa la red oficial y recogida del vehículo si el desplazamiento resulta complicado.",
+  "servicesIntro": "Mantenimiento programado, diagnosis avanzada, reparación de motor, caja de cambios y sistemas electrónicos para cualquier BMW.",
+  "processIntro": "El proceso es sencillo, especialmente pensado para clientes que no viven cerca del taller.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto inicial",
+      "body": "Nos cuentas el problema por teléfono o WhatsApp y valoramos si hace falta recoger el coche."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico",
+      "body": "Con el software oficial ISTA identificamos con precisión el origen del fallo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto",
+      "body": "Te enviamos el presupuesto detallado antes de iniciar cualquier reparación."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Ejecutamos el trabajo con recambio original o equivalente homologado, según prefieras."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega",
+      "body": "Coordinamos la devolución del vehículo en el punto que más te convenga."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por les Cabanyes.",
+  "commonIssuesIntro": "En los BMW que llegan desde Les Cabanyes y el Penedès vemos sobre todo:",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos",
+      "body": "Ruido en frío al arrancar, típico de motores de gasolina con kilometraje medio-alto."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de potencia progresiva en diésel con uso de carretera constante hacia la AP-7."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones en frío que se corrigen con el cambio de aceite específico de esta transmisión."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Sensores",
+      "body": "Testigos encendidos por fallos de sensores de presión o temperatura, sin síntoma evidente al volante."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Refrigeración",
+      "body": "Fugas en el circuito que conviene detectar antes del verano, cuando más exige el motor."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida a domicilio",
+      "body": "Si vivir en un pueblo pequeño complica el desplazamiento, vamos nosotros a por el coche."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnóstico oficial",
+      "body": "Mismo nivel de precisión que un concesionario, sin depender de uno."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto por escrito",
+      "body": "Siempre antes de tocar el vehículo, sin sorpresas."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Trato cercano",
+      "body": "Explicamos cada avería en lenguaje claro, sin tecnicismos innecesarios."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía en todo trabajo",
+      "body": "Mano de obra y pieza con garantía documentada."
     }
   ],
-  "zoneText": "Atendemos BMW en les Cabanyes y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos Les Cabanyes y los municipios cercanos del Alt Penedès, con recogida y entrega a domicilio si es necesario.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en les Cabanyes?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en Les Cabanyes?",
+      "a": "Sí, ofrecemos recogida a domicilio para clientes de la zona del Penedès."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Hay que ir hasta el taller obligatoriamente?",
+      "a": "No siempre, en muchos casos podemos gestionar todo sin que te desplaces."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto tarda una reparación de turbo?",
+      "a": "Depende del modelo, normalmente entre uno y tres días."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto sin ver el coche?",
+      "a": "Una orientación inicial sí, el definitivo tras el diagnóstico."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con seguros?",
+      "a": "Sí, gestionamos partes con la mayoría de aseguradoras."
+    },
+    {
+      "q": "¿Qué garantía tienen las reparaciones?",
+      "a": "12 meses en mano de obra, según la pieza utilizada."
     }
   ],
-  "closingHeadline": "Tu BMW en les Cabanyes, en buenas manos",
-  "closingCta": "Si tienes un BMW en les Cabanyes y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Especialistas BMW cerca de Les Cabanyes",
+  "closingCta": "Contáctanos y te decimos si podemos recoger tu BMW sin que te muevas de casa.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,36 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Opinión de clientes del Alt Penedès:",
+  "testimonials": [
+    {
+      "name": "Jordi C.",
+      "neighborhood": "Les Cabanyes",
+      "body": "Vinieron a recoger el coche a casa porque no podía desplazarme. Un servicio que no esperaba encontrar tan cerca.",
+      "rating": 5
+    },
+    {
+      "name": "Meritxell B.",
+      "neighborhood": "Les Cabanyes",
+      "body": "Presupuesto claro para el turbo de mi 320d, sin cambios de última hora.",
+      "rating": 5
+    },
+    {
+      "name": "Salvador T.",
+      "neighborhood": "Les Cabanyes",
+      "body": "Diagnosticaron un fallo de sensor en mi X2 que en otro taller no supieron identificar.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Les Cabanyes",
+    "Sant Martí Sarroca",
+    "La Bleda",
+    "Pontons"
+  ],
+  "zoneAccessRoutes": [
+    "AP-7",
+    "BV-2242"
+  ]
 }

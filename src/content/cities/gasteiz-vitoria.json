@@ -6,9 +6,9 @@
   "population": 257407,
   "lat": 42.84998,
   "lng": -2.67268,
-  "metaTitle": "Taller BMW en Vitoria-Gasteiz | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Vitoria-Gasteiz. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Vitoria-Gasteiz y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Vitoria-Gasteiz | Especialistas certificados",
+  "metaDescription": "Taller especializado en BMW en Vitoria-Gasteiz. Diagnosis con equipo original, mantenimiento, Valvetronic, ZF 8HP y reparación de motor. Presupuesto sin compromiso.",
+  "heroSubtitle": "El taller de confianza para tu BMW en Vitoria-Gasteiz, sin pasar por el concesionario",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,150 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Vitoria-Gasteiz, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima húmedo y templado de la cornisa atlántica, sin los picos de calor extremo de otras zonas, favorece en cambio la aparición de corrosión en líneas de freno, escape y tornillería de los bajos si el coche no se revisa con regularidad. Es uno de los puntos a los que prestamos más atención en cada puesta a punto en la zona.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Vitoria-Gasteiz te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Vitoria-Gasteiz, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Vitoria-Gasteiz tiene una de las densidades de BMW más altas del País Vasco, en parte por su tejido industrial y en parte por una clientela que valora el mantenimiento hecho con criterio. Nuestro taller lleva años especializándose exclusivamente en la marca, con diagnosis original y técnicos que solo tocan motores BMW, no una mezcla de todo.\n\nLa ciudad tiene un clima que pasa factura a los sistemas de refrigeración y a las baterías de los modelos híbridos, algo que vemos con frecuencia en series 3 y 5 que llegan del extrarradio. También trabajamos mucho con vehículos que vienen de las zonas industriales de Gamarra y Ali-Gobeo, donde el uso diario en carretera desgasta antes la cadena de distribución y los sensores de la Valvetronic.\n\nNo somos un taller genérico que además toca BMW: es lo único que hacemos. Eso permite tener el software de diagnosis actualizado, el stock de piezas específicas y la experiencia acumulada para no tirarte meses de pieza en pieza probando qué falla.\n\nTrabajamos con clientes de Gasteiz capital pero también con talleres y particulares de Salvatierra, Legutio o Villarreal de Álava que prefieren desplazarse antes que arriesgarse en un taller multimarca.",
+  "servicesIntro": "Cubrimos todo el ciclo de vida de tu BMW: desde el cambio de aceite programado hasta la reconstrucción de motores con daños en la cadena de distribución.",
+  "processIntro": "Así trabajamos cada vehículo que entra al taller, sin atajos ni presión.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escaneo completo",
+      "body": "Conectamos el equipo de diagnosis original de BMW y leemos todos los módulos, no solo el que dio el aviso. Muchas veces el fallo real está en otro sitio."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnóstico verbal antes de tocar nada",
+      "body": "Te llamamos y te explicamos qué hemos encontrado, en qué orden de prioridad y qué coste aproximado tiene cada punto, antes de mover un tornillo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Nada de sorpresas en la factura final. Lo que se aprueba es lo que se cobra, salvo que aparezca algo nuevo, y en ese caso te avisamos primero."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con piezas trazables",
+      "body": "Usamos piezas OEM o de proveedores homologados según lo que decidas, siempre documentando la referencia exacta que se monta."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de carretera y revisión final",
+      "body": "Antes de entregarlo lo probamos en carretera real, no solo en el elevador, y verificamos que los códigos de error hayan desaparecido de verdad."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Vitoria-Gasteiz.",
+  "commonIssuesIntro": "Estas son las averías que más vemos en los BMW que llegan de Vitoria-Gasteiz y alrededores.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Fallos en Vanos y Valvetronic",
+      "body": "En los motores N43 y N53 es habitual el desgaste del sistema Valvetronic, que provoca ralentí irregular y pérdida de potencia progresiva."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con fugas de aceite",
+      "body": "En los N47 y N20 con muchos kilómetros de carretera, el turbo empieza a consumir aceite y a soplar humo azulado en frío."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución estirada",
+      "body": "El ruido metálico en arranque en frío suele ser la cadena, especialmente en los N47 de antes de 2011, un fallo que si se ignora acaba en motor roto."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con cambios bruscos",
+      "body": "Cuando el aceite de la caja automática no se cambia según el intervalo real, aparecen tirones al cambiar de marcha, sobre todo entre 2ª y 3ª."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración defectuosos",
+      "body": "El sensor de temperatura y la bomba de agua eléctrica dan problemas frecuentes en series 1 y 3, con avisos de sobrecalentamiento intermitentes."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Solo BMW",
+      "body": "No mezclamos marcas. Toda la formación, herramienta y experiencia del taller está enfocada en un único fabricante."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo original",
+      "body": "Usamos el mismo software que emplea la red oficial, no un lector genérico OBD2 que solo lee cuatro códigos básicos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto por escrito siempre",
+      "body": "Nunca empezamos a reparar sin que hayas visto y aprobado el coste real, con desglose de piezas y mano de obra."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía en cada reparación",
+      "body": "Todo lo que reparamos lleva garantía por escrito, con la pieza y la mano de obra cubiertas durante el periodo pactado."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Trato directo con el técnico",
+      "body": "No hablas con un asesor comercial que repite lo que le han dicho: hablas con quien realmente ha tenido el coche en el elevador."
     }
   ],
-  "zoneText": "Atendemos BMW en Vitoria-Gasteiz y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Trabajamos con clientes de toda Vitoria-Gasteiz y su área de influencia, desde el centro histórico hasta los polígonos industriales del extrarradio.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Vitoria-Gasteiz?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con vehículos de fuera de Vitoria?",
+      "a": "Sí, recibimos coches habitualmente de Salvatierra, Legutio y Villarreal de Álava, además de la capital."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Podéis diagnosticar un fallo intermitente que no sale en otro taller?",
+      "a": "Es uno de nuestros puntos fuertes, gracias al equipo original de diagnosis que lee histórico completo de averías, no solo el código actual."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Usáis piezas originales o alternativas?",
+      "a": "Te ofrecemos ambas opciones con precio y garantía diferenciados, y tú decides según tu caso."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda una reparación de cadena de distribución?",
+      "a": "Normalmente entre 2 y 3 días laborables, dependiendo de si hay que pedir alguna pieza específica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais coche de sustitución?",
+      "a": "En reparaciones largas lo gestionamos según disponibilidad, coméntalo al pedir cita."
+    },
+    {
+      "q": "¿Revisáis la caja ZF 8HP aunque no dé fallo visible?",
+      "a": "Sí, recomendamos revisión preventiva del aceite de la caja según el kilometraje real, no según lo que indique el ordenador de a bordo."
+    },
+    {
+      "q": "¿Atendéis urgencias del mismo día?",
+      "a": "Según agenda, intentamos siempre hacer un hueco para averías que dejan el coche inmovilizado."
     }
   ],
-  "closingHeadline": "Tu BMW en Vitoria-Gasteiz, en buenas manos",
-  "closingCta": "Si tienes un BMW en Vitoria-Gasteiz y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW en manos de quien de verdad lo conoce",
+  "closingCta": "Pide cita en nuestro taller de Vitoria-Gasteiz y cuéntanos qué le pasa a tu coche",
+  "testimonialsIntro": "Lo que dicen los clientes que ya han pasado por el taller.",
+  "testimonials": [
+    {
+      "name": "Jon Etxeberria",
+      "neighborhood": "Zaramaga",
+      "body": "Llevé mi Serie 3 con un ruido raro en frío y me explicaron que era la cadena antes de que fuera a mayores. Se lo agradezco.",
+      "rating": 5
+    },
+    {
+      "name": "Nerea Ibáñez",
+      "neighborhood": "Salburua",
+      "body": "Cambio de aceite y revisión de la caja automática de mi X1, precio claro desde el primer momento y sin líos.",
+      "rating": 5
+    },
+    {
+      "name": "Aitor Larrañaga",
+      "neighborhood": "Coronación",
+      "body": "Vine derivado desde Legutio porque el taller de mi pueblo no tenía el equipo de diagnosis. Mereció la pena el viaje.",
+      "rating": 5
+    },
+    {
+      "name": "Miren Sáez de Ugarte",
+      "neighborhood": "Lakua",
+      "body": "Reparación de turbo en mi 320d, funcionando perfecto desde entonces y sin la humareda al arrancar.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Zaramaga",
+    "Salburua",
+    "Coronación",
+    "Lakua",
+    "Aranbizkarra",
+    "Ali-Gobeo",
+    "Gamarra",
+    "El Anglo"
+  ],
+  "zoneAccessRoutes": [
+    "A-1 desde el sur de la ciudad",
+    "N-1 dirección Miranda de Ebro",
+    "A-3302 desde Salvatierra",
+    "Ronda de circunvalación este"
+  ]
 }

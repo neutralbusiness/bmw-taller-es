@@ -6,9 +6,9 @@
   "population": 233532,
   "lat": 37.18817,
   "lng": -3.60667,
-  "metaTitle": "Taller BMW en Granada | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Granada. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Granada y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Granada | Especialistas certificados en la marca",
+  "metaDescription": "Taller BMW en Granada especializado en diagnosis, motor, turbo, Valvetronic y caja ZF 8HP. Equipo original, presupuesto cerrado y garantía en cada reparación.",
+  "heroSubtitle": "Especialistas en BMW en Granada, entre la Vega y Sierra Nevada",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,148 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Granada, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima más seco y con mayor amplitud térmica del interior pone a prueba especialmente el sistema de refrigeración en verano, cuando las temperaturas superan con facilidad los 35°C, y la batería y el sistema de arranque en invierno, con heladas frecuentes en las horas de la mañana. Con ISTA evaluamos el estado real de ambos sistemas antes de que fallen en el peor momento.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Granada te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Granada, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Granada combina un uso del coche muy variado: trayectos cortos por el centro y la Vega, subidas exigentes hacia Sierra Nevada y desplazamientos largos por la A-92 hacia la costa o hacia Jaén. Ese cóctel de condiciones pasa factura de forma distinta según la zona del coche, y lo vemos claramente en el tipo de averías que recibimos en el taller.\n\nLos motores que suben con frecuencia a la estación de esquí sufren más el sistema de refrigeración y los sensores de temperatura, mientras que los que hacen ciudad todo el día en el centro histórico tienden a desgastar antes el sistema Valvetronic por el uso constante en bajas revoluciones y arranques en frío repetidos.\n\nTambién trabajamos con bastantes vehículos que llegan desde la Costa Tropical, donde la humedad y la conducción en cuestas pronunciadas acelera el desgaste del turbo en los diésel más veteranos, algo que notamos especialmente en la serie 3 y en el X3.\n\nSomos un taller centrado únicamente en BMW, lo que nos permite mantener actualizado el software de diagnosis original y un nivel de precisión que un taller multimarca difícilmente puede igualar. Recibimos clientes de toda la capital granadina y de municipios cercanos como Armilla, Maracena o Las Gabias.\n\nSi tu BMW empieza a dar síntomas raros después de una subida a la sierra o de un trayecto largo por la A-92, es buen momento para pasar por diagnosis antes de que el problema vaya a más.",
+  "servicesIntro": "Mantenimiento programado, diagnosis avanzada y reparación de motor y caja, siempre centrados en BMW.",
+  "processIntro": "El proceso que seguimos con cada vehículo que entra al taller.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del cliente",
+      "body": "Antes de conectar nada, te preguntamos qué has notado, cuándo empezó y en qué condiciones se repite el fallo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis con equipo original",
+      "body": "Escaneamos todos los módulos del vehículo con el mismo software que usa la red oficial de BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación y presupuesto",
+      "body": "Te contamos qué hemos encontrado y te damos un presupuesto cerrado antes de tocar el coche."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación con piezas trazables",
+      "body": "Documentamos qué pieza se monta y su procedencia, para que tengas trazabilidad completa."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba final en carretera",
+      "body": "Probamos el coche en condiciones reales, incluyendo cuesta si la avería estaba relacionada con eso."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Granada.",
+  "commonIssuesIntro": "Averías frecuentes en los BMW que atendemos en Granada capital y su área metropolitana.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic desgastada por ciudad",
+      "body": "El uso constante en tráfico del centro granadino acelera el desgaste del sistema Valvetronic en motores de gasolina."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo fatigado por cuestas",
+      "body": "Las subidas repetidas hacia Sierra Nevada o el Albaicín exigen mucho al turbo, adelantando su desgaste en diésel con kilometraje alto."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución ruidosa",
+      "body": "Vibración y ruido metálico en frío, especialmente en motores N47 con revisiones de mantenimiento espaciadas."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos en trayectos largos por la A-92, casi siempre resueltos con un cambio correcto del aceite de caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de refrigeración en coches de sierra",
+      "body": "Los cambios bruscos de temperatura entre la ciudad y la sierra desgastan antes los sensores y la bomba de agua eléctrica."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos en BMW",
+      "body": "No compartimos taller con otras marcas, así que toda nuestra experiencia está enfocada en un solo fabricante."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo original",
+      "body": "Detectamos averías intermitentes que otros talleres no consiguen reproducir."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sabes exactamente qué vas a pagar antes de que empecemos a trabajar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Experiencia en clima y orografía local",
+      "body": "Conocemos bien cómo afecta la sierra y el calor del verano granadino a los sistemas del coche."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía documentada",
+      "body": "Toda reparación incluye garantía por escrito de pieza y mano de obra."
     }
   ],
-  "zoneText": "Atendemos BMW en Granada y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Atendemos a clientes de Granada capital y de los municipios metropolitanos cercanos, con acceso rápido desde la A-92 y la A-44.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Granada?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis coches que suben habitualmente a Sierra Nevada?",
+      "a": "Sí, es un perfil de cliente frecuente y conocemos bien cómo afecta esa exigencia al motor y a la refrigeración."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con clientes de Armilla o Las Gabias?",
+      "a": "Continuamente, están a un trayecto corto y muchos clientes vienen específicamente de esas zonas."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿El diagnóstico tiene coste si no reparo con vosotros?",
+      "a": "El diagnóstico inicial se descuenta del importe de la reparación si decides seguir adelante con nosotros."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Reparáis motores con daño por sobrecalentamiento?",
+      "a": "Sí, desde sustitución de sensores hasta reparaciones mayores si el daño ya afectó a la culata."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Cuánto tarda una revisión completa?",
+      "a": "Una revisión de mantenimiento estándar se realiza en el mismo día."
+    },
+    {
+      "q": "¿Puedo pedir cita solo para una segunda opinión?",
+      "a": "Por supuesto, muchos clientes vienen a contrastar un diagnóstico de otro taller antes de decidir."
+    },
+    {
+      "q": "¿Dais servicio a vehículos de la Costa Tropical?",
+      "a": "Sí, recibimos con frecuencia coches de Motril y alrededores por la A-44."
     }
   ],
-  "closingHeadline": "Tu BMW en Granada, en buenas manos",
-  "closingCta": "Si tienes un BMW en Granada y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "Tu BMW merece un especialista, no un generalista",
+  "closingCta": "Pide cita en nuestro taller de Granada",
+  "testimonialsIntro": "Testimonios de clientes de Granada y su área metropolitana.",
+  "testimonials": [
+    {
+      "name": "Cristina Molina",
+      "neighborhood": "Zaidín",
+      "body": "Subo cada fin de semana a Sierra Nevada y el coche empezó a dar avisos de temperatura. Aquí lo solucionaron sin darle largas.",
+      "rating": 5
+    },
+    {
+      "name": "David Peña",
+      "neighborhood": "Armilla",
+      "body": "Cambio de turbo en mi 320d, con presupuesto claro desde el minuto uno y sin coste añadido al final.",
+      "rating": 5
+    },
+    {
+      "name": "Rocío Salinas",
+      "neighborhood": "Albaicín",
+      "body": "El diagnóstico de un ruido raro en frío que llevaba meses arrastrando, resuelto en una sola visita.",
+      "rating": 5
+    },
+    {
+      "name": "Fernando Castillo",
+      "neighborhood": "Las Gabias",
+      "body": "Vengo desde hace años porque son los únicos que realmente entienden mi X3 sin tener que explicarles todo desde cero.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Zaidín",
+    "Albaicín",
+    "Realejo",
+    "Ronda",
+    "Chana",
+    "Beiro"
+  ],
+  "zoneAccessRoutes": [
+    "A-92 dirección Málaga o Jaén",
+    "A-44 hacia Motril o Jaén",
+    "GR-30 ronda de circunvalación",
+    "Carretera de Sierra Nevada A-395"
+  ]
 }

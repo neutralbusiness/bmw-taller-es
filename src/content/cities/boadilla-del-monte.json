@@ -6,9 +6,9 @@
   "population": 52626,
   "lat": 40.405,
   "lng": -3.87835,
-  "metaTitle": "Taller BMW en Boadilla del Monte | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Boadilla del Monte. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Boadilla del Monte y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Boadilla del Monte | Oeste de Madrid",
+  "metaDescription": "Taller especializado BMW en Boadilla del Monte. Diagnosis oficial, mantenimiento y reparación con recogida en urbanizaciones. Presupuesto cerrado.",
+  "heroSubtitle": "El taller BMW de confianza en Boadilla del Monte, uno de los municipios con más densidad de la marca del oeste de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Boadilla del Monte vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Boadilla del Monte te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Boadilla del Monte, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Boadilla del Monte es uno de los municipios de más renta per cápita de la Comunidad de Madrid, con más de 50.000 habitantes y un crecimiento urbanístico centrado en urbanizaciones de vivienda unifamiliar como Prado de la Vega, El Encinar o Montepríncipe, lo que hace que la densidad de BMW por habitante sea de las más altas de toda la región.\n\nEl perfil de propietario en Boadilla suele ser el de profesionales que trabajan en Madrid capital o en el propio corredor empresarial de la zona, con trayectos diarios por la M-501 y la M-513 combinados con el uso intensivo de las rotondas y avenidas del municipio para llevar a los hijos al colegio o moverse entre urbanizaciones.\n\nEsa combinación de uso urbano de proximidad y trayectos frecuentes de vía rápida hacia Madrid genera un desgaste particular: frenos y suspensión sufren por las rotondas y badenes constantes de las urbanizaciones, mientras que motor y caja de cambios acumulan kilómetros de autovía.\n\nNuestro taller da servicio a todo Boadilla del Monte, con recogida en cualquier urbanización del municipio, desde el Encinar de los Reyes hasta Siglo XXI, para que el mantenimiento no interfiera con la rutina diaria de una familia con varios coches y agendas apretadas.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en cualquier urbanización de Boadilla del Monte.",
+  "processIntro": "Un proceso ágil pensado para quien vive en urbanizaciones y necesita coordinar varios coches a la vez.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Contacto y cita",
+      "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
+    },
+    {
+      "title": "Recogida en tu urbanización",
+      "body": "Pasamos a buscar el coche donde vivas, sin que tengas que moverte."
+    },
+    {
+      "title": "Diagnosis con escáner oficial",
+      "body": "Revisamos todos los sistemas electrónicos antes de decidir la reparación."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te llamamos con el diagnóstico y el precio exacto antes de intervenir."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
-    },
-    {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega puntual",
+      "body": "Devolvemos el coche en el punto acordado, listo para volver a la rutina diaria."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Boadilla del Monte.",
+  "commonIssuesIntro": "Averías típicas en BMW de uso combinado urbanización-autovía, como el habitual en Boadilla del Monte.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Suspensión desgastada por badenes y rotondas",
+      "body": "El uso constante de badenes en las urbanizaciones acelera el desgaste de amortiguadores y silentblocks."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Cadena de distribución con estiramiento",
+      "body": "Los kilómetros de M-501 y M-513 hacia Madrid aceleran el desgaste de la cadena en motores de gasolina."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Turbo con fugas de aceite",
+      "body": "El uso sostenido en autovía fuerza los retenes del turbo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja de cambios ZF 8HP con tirones",
+      "body": "Sin cambio de aceite de caja a tiempo aparecen tirones en cambios de marcha a baja velocidad."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de aparcamiento y asistencia",
+      "body": "El uso frecuente en garajes y rotondas estrechas desgasta antes los sensores de estacionamiento."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Recogida en cualquier urbanización",
+      "body": "No pierdes tiempo llevando el coche al taller, vamos nosotros."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sabes el coste final antes de autorizar nada."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú eliges el nivel de gasto según la antigüedad del vehículo."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Gestión de varios vehículos por familia",
+      "body": "Coordinamos revisiones de varios coches de la misma familia en una sola visita."
     }
   ],
-  "zoneText": "Atendemos BMW en Boadilla del Monte y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a todo Boadilla del Monte, desde las urbanizaciones más antiguas hasta las de reciente construcción, con recogida sin coste adicional en cualquier punto del municipio.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Boadilla del Monte?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en mi urbanización?",
+      "a": "Sí, en cualquier urbanización de Boadilla del Monte, sin coste adicional."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Puedo llevar varios coches de la misma familia a la vez?",
+      "a": "Sí, coordinamos la recogida de varios vehículos en una sola visita."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con BMW de uso combinado urbanización-autovía?",
+      "a": "Es el perfil más habitual entre nuestros clientes de Boadilla, con mucha experiencia."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto se tarda en un mantenimiento estándar?",
+      "a": "Normalmente el mismo día, según carga de trabajo del taller."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais presupuesto antes de reparar?",
+      "a": "Siempre, por escrito y sin compromiso hasta que lo aceptes."
+    },
+    {
+      "q": "¿Revisáis los sensores de aparcamiento?",
+      "a": "Sí, es una revisión habitual dado el uso frecuente de garajes y rotondas estrechas."
     }
   ],
-  "closingHeadline": "Tu BMW en Boadilla del Monte, en buenas manos",
-  "closingCta": "Si tienes un BMW en Boadilla del Monte y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW listo sin salir de Boadilla",
+  "closingCta": "Escríbenos y coordinamos la recogida en tu urbanización.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,45 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Lo que dicen los clientes de Boadilla del Monte.",
+  "testimonials": [
+    {
+      "name": "Fernando Aguirre",
+      "neighborhood": "El Encinar de los Reyes",
+      "body": "Recogieron los dos coches de casa el mismo día y me los devolvieron ambos por la tarde. Muy práctico.",
+      "rating": 5
+    },
+    {
+      "name": "Paloma Isasi",
+      "neighborhood": "Prado de la Vega",
+      "body": "Le hicieron el mantenimiento a mi Serie 3 y el precio fue justo lo presupuestado, sin extras raros.",
+      "rating": 5
+    },
+    {
+      "name": "Borja Landáburu",
+      "neighborhood": "Montepríncipe",
+      "body": "Detectaron un problema de suspensión que en otro taller se les había pasado por alto.",
+      "rating": 5
+    },
+    {
+      "name": "Sonia Recasens",
+      "neighborhood": "Siglo XXI",
+      "body": "Muy buena comunicación, me llamaron antes de tocar el coche para explicarme todo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "El Encinar de los Reyes",
+    "Prado de la Vega",
+    "Montepríncipe",
+    "Siglo XXI",
+    "El Zorro",
+    "Parque Boadilla"
+  ],
+  "zoneAccessRoutes": [
+    "M-501",
+    "M-513",
+    "M-40"
+  ]
 }

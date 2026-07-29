@@ -6,9 +6,9 @@
   "population": 187525,
   "lat": 40.30571,
   "lng": -3.73295,
-  "metaTitle": "Taller BMW en Getafe | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Getafe. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Getafe y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Getafe | Diagnosis y reparación especializada",
+  "metaDescription": "Taller BMW especializado en Getafe. Mantenimiento, avería de motor, Valvetronic, turbo y caja ZF 8HP. Diagnosis original y presupuesto cerrado antes de reparar.",
+  "heroSubtitle": "Especialistas en BMW a un paso de la A-42, sin cita eterna ni sorpresas en factura",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,142 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En BMW más veteranos que siguen circulando por Getafe, series 3 y 5 con motores de seis cilindros en línea de generaciones anteriores, los puntos que más fallan son las juntas de la culata y del cárter (con pérdidas de aceite típicas en los sellos VANOS), la bomba de agua eléctrica y el termostato electrónico. Con ISTA leemos el histórico completo de averías y te decimos con precisión cuáles de estos puntos ya están fallando y cuáles solo conviene vigilar.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Getafe te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Getafe, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Getafe concentra un parque de BMW notable gracias a su cercanía con Madrid y a las zonas industriales que rodean la ciudad, desde Los Ángeles hasta El Bercial. Muchos de los coches que recibimos hacen a diario el trayecto por la A-42 hacia la capital, un uso intensivo en autovía que acelera el desgaste del turbo y de la cadena de distribución en los diésel más veteranos.\n\nTambién es habitual que nos lleguen vehículos derivados desde otros talleres de la zona sur de Madrid que no disponen del software de diagnosis original y se quedan atascados con un código de avería que no saben interpretar. Es la parte del trabajo que más valoramos: encontrar la causa real, no solo borrar el testigo.\n\nTrabajamos tanto con particulares como con pequeñas flotas de la zona, algo habitual en un municipio con tanto movimiento comercial e industrial. Eso nos obliga a ser rápidos sin renunciar a hacer las cosas bien, porque un coche parado es dinero perdido para quien lo usa a diario.\n\nSi vives en Getafe, Los Molinos, Sector III o Perales del Río, estamos a un desplazamiento corto y trabajamos exclusivamente con la marca, lo que se nota en la precisión del diagnóstico.",
+  "servicesIntro": "Desde el mantenimiento periódico hasta averías serias de motor y caja de cambios, todo centrado en BMW.",
+  "processIntro": "El proceso que seguimos con cada vehículo, pensado para no hacerte perder tiempo ni dinero.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita previa y recepción",
+      "body": "Programamos la entrada del coche para no hacerte esperar en cola, con un hueco reservado específicamente para tu vehículo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Escaneo con equipo original BMW",
+      "body": "Leemos todos los módulos electrónicos del coche, no solo el motor, para detectar fallos que aún no han dado síntoma visible."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Explicación clara del problema",
+      "body": "Te contamos qué hemos encontrado en términos entendibles, sin tecnicismos innecesarios, y qué pasa si no se repara."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto antes de intervenir",
+      "body": "No movemos una pieza sin tu aprobación previa por escrito, y el precio final coincide con lo pactado."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Entrega con prueba dinámica",
+      "body": "El coche se prueba en carretera real antes de devolvértelo, comprobando que la avería está resuelta de verdad."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Getafe.",
+  "commonIssuesIntro": "Las averías que más se repiten en los BMW que atendemos en Getafe.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Valvetronic con ralentí inestable",
+      "body": "El motor tiembla o pierde revoluciones al ralentí, un síntoma típico de desgaste en el sistema Valvetronic de los motores de gasolina."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo perdiendo presión",
+      "body": "En diésel con muchos kilómetros de autovía, el turbo empieza a dar falta de potencia y algo de humo negro en aceleración."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Ruido de cadena en frío",
+      "body": "Un traqueteo metálico los primeros segundos tras arrancar suele indicar cadena de distribución estirada o tensor gastado."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "Cambios bruscos entre marchas bajas, casi siempre relacionados con aceite de caja no cambiado en el intervalo correcto."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sobrecalentamiento por sensores",
+      "body": "Avisos intermitentes de temperatura que muchas veces no son el radiador, sino el sensor o la bomba de agua eléctrica fallando."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas, no generalistas",
+      "body": "Todo el taller está montado para trabajar BMW: herramienta específica, formación continua y stock de piezas propias de la marca."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Cerca de la A-42 y M-45",
+      "body": "Fácil acceso desde Madrid capital, Leganés o Fuenlabrada sin perder media mañana en desplazamientos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado",
+      "body": "El precio que apruebas es el que pagas, con las excepciones que te comunicamos siempre antes de actuar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía real por escrito",
+      "body": "Cada reparación queda documentada con garantía de pieza y mano de obra, no una promesa verbal."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Atención a flotas y particulares",
+      "body": "Gestionamos tanto el coche familiar como pequeñas flotas comerciales de la zona, con la misma exigencia técnica."
     }
   ],
-  "zoneText": "Atendemos BMW en Getafe y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Getafe centro y a los barrios y polígonos que la rodean, con fácil acceso desde la A-42.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Getafe?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Atendéis flotas de empresa?",
+      "a": "Sí, trabajamos con pequeñas flotas comerciales de la zona sur de Madrid, con condiciones específicas según volumen."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿El presupuesto tiene coste?",
+      "a": "El diagnóstico inicial y presupuesto son gratuitos si finalmente realizas la reparación con nosotros."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo traer el coche remolcado?",
+      "a": "Sin problema, coordinamos la recepción del vehículo aunque llegue en grúa."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Reparáis motores con daño grave por cadena rota?",
+      "a": "Sí, hacemos desde sustitución de cadena preventiva hasta reconstrucción completa de motor si el daño ya es mayor."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Tenéis las piezas en stock o hay que esperar?",
+      "a": "Las piezas de mantenimiento habitual las tenemos en stock; piezas específicas de motor o caja pueden tardar de 24 a 72 horas."
+    },
+    {
+      "q": "¿Hacéis ITV previa antes de pasar la revisión oficial?",
+      "a": "Podemos revisar los puntos habituales de fallo en ITV antes de que lleves el coche a pasarla."
+    },
+    {
+      "q": "¿Trabajáis también híbridos enchufables de la marca?",
+      "a": "Sí, tenemos experiencia con los sistemas híbridos de BMW, incluyendo diagnóstico de batería de alta tensión."
     }
   ],
-  "closingHeadline": "Tu BMW en Getafe, en buenas manos",
-  "closingCta": "Si tienes un BMW en Getafe y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "En Getafe, tu BMW se merece un especialista",
+  "closingCta": "Reserva tu cita y trae tu BMW al taller",
+  "testimonialsIntro": "Opiniones reales de clientes de Getafe y alrededores.",
+  "testimonials": [
+    {
+      "name": "Raúl Cifuentes",
+      "neighborhood": "Sector III",
+      "body": "Diagnóstico de un fallo intermitente que llevaba meses arrastrando en otro taller, aquí lo encontraron en una tarde.",
+      "rating": 5
+    },
+    {
+      "name": "Beatriz Nogales",
+      "neighborhood": "Los Molinos",
+      "body": "Cambio de caja automática en mi X3, todo explicado paso a paso y sin presión para aprobar nada de más.",
+      "rating": 5
+    },
+    {
+      "name": "Iván Recio",
+      "neighborhood": "El Bercial",
+      "body": "Tengo una furgoneta de reparto y un turismo, ambos BMW, y aquí me los cuidan mejor que en el concesionario.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Sector III",
+    "Los Molinos",
+    "El Bercial",
+    "Perales del Río",
+    "Las Margaritas",
+    "Juan de la Cierva"
+  ],
+  "zoneAccessRoutes": [
+    "A-42 salida Getafe",
+    "M-45 dirección Madrid",
+    "M-406 hacia Leganés",
+    "N-401 desde Toledo"
+  ]
 }

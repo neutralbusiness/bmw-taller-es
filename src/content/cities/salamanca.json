@@ -6,9 +6,9 @@
   "population": 144825,
   "lat": 40.96882,
   "lng": -5.66388,
-  "metaTitle": "Taller BMW en Salamanca | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Salamanca. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Salamanca y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Salamanca | Diagnosis, mantenimiento y reparación",
+  "metaDescription": "Taller especializado en BMW en Salamanca capital. Diagnosis con software oficial, mantenimiento, cajas ZF y reparación de motor. Presupuesto sin compromiso.",
+  "heroSubtitle": "El taller BMW de referencia en Salamanca, con equipo de diagnosis oficial",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,150 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Salamanca — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Salamanca te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Salamanca, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Salamanca es una ciudad con un parque de vehículos BMW notable, empujado en parte por su universidad, su vida profesional ligada a Madrid y Valladolid, y una tradición de comprar coche alemán como inversión a medio plazo. Nuestro taller en Salamanca atiende cada semana desde compactos Serie 1 de estudiantes o profesores hasta X5 y Serie 7 de empresarios de la zona, pasando por una buena cantidad de 320d que siguen siendo el modelo más repetido en nuestras citas.\n\nLa ciudad tiene un centro histórico con restricciones de circulación y calles estrechas que no perdonan la suspensión ni la dirección de un coche mal ajustado, y un extrarradio con avenidas amplias donde los BMW se mueven a gusto. Esa combinación hace que veamos mucho desgaste de casquillos, rótulas y silentblocks en coches que en apariencia están cuidados, simplemente porque el adoquín del centro pasa factura con los años.\n\nTambién es una ciudad de trayectos largos: Madrid, Valladolid, Ávila o Zamora están todos a menos de una hora y media, así que muchos de los BMW que revisamos acumulan bastante autovía, lo que se nota en el estado de neumáticos, frenos y, en los diésel, en la salud del filtro de partículas.\n\nTrabajamos con software de diagnosis oficial de la marca, algo que en Salamanca todavía no es la norma en todos los talleres generalistas, y eso marca la diferencia a la hora de resolver averías electrónicas que de otro modo se quedan sin diagnosticar correctamente durante meses.",
+  "servicesIntro": "Desde el mantenimiento programado según el plan de servicio de BMW hasta reparaciones de motor, caja de cambios y sistemas eléctricos.",
+  "processIntro": "Un proceso pensado para que sepas en todo momento qué se está haciendo con tu coche y por qué.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y recepción del vehículo",
+      "body": "Reservas hora, nos cuentas el síntoma o el servicio que toca y recibimos el coche con una inspección visual inicial."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica",
+      "body": "Conectamos el equipo oficial BMW para leer todos los módulos, no solo el motor."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Te explicamos qué hemos encontrado y qué opciones de reparación existen, con precios diferenciados si aplica."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Reparación",
+      "body": "Ejecutamos el trabajo aprobado con las herramientas específicas de la marca, sin improvisar procedimientos."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba de ruta y entrega",
+      "body": "Probamos el coche en carretera antes de devolverlo, y te explicamos cualquier detalle a vigilar a partir de ahora."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Salamanca.",
+  "commonIssuesIntro": "Estas son las averías que más repetimos en BMW matriculados o residentes en Salamanca.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Muy frecuente en motores de gasolina con más de 120.000 km, con ruido metálico al arrancar en frío."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "En los diésel de trayecto largo Salamanca-Madrid vemos pérdidas de presión y actuadores agarrotados con cierta frecuencia."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Motores N47 y N20 son los que más revisamos preventivamente antes de que el alargamiento de cadena dé un susto mayor."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Tirones al cambiar de marcha que casi siempre se resuelven con el cambio de aceite y filtro específico de la caja."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores de emisiones",
+      "body": "El adoquinado del centro histórico y las paradas frecuentes aceleran el fallo de sondas lambda y sensores de presión diferencial."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnosis con software oficial BMW",
+      "body": "No dependemos de lectores genéricos: accedemos a todos los módulos del vehículo como en un concesionario."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Especialización real en la marca",
+      "body": "No es un taller generalista que también toca BMW: es nuestro día a día."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado y explicado",
+      "body": "Antes de intervenir, sabes exactamente qué vas a pagar y por qué."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Piezas originales o de calidad OEM",
+      "body": "Tú eliges el nivel de pieza según antigüedad y uso del coche, sin que te lo impongamos."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Vehículo de cortesía disponible",
+      "body": "Para reparaciones de varios días, resolvemos tu movilidad mientras trabajamos en tu BMW."
     }
   ],
-  "zoneText": "Atendemos BMW en Salamanca y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Salamanca combina un centro histórico Patrimonio de la Humanidad, con calles estrechas y adoquinadas, y una periferia moderna con avenidas amplias y buena conexión con la circunvalación SA-20. Esta mezcla de firmes hace que el desgaste de la suspensión y la dirección sea distinto según en qué zona se mueva más el coche, algo que tenemos en cuenta en cada revisión.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Salamanca?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Trabajáis con todos los modelos BMW, incluidos eléctricos e híbridos?",
+      "a": "Sí, atendemos desde Serie 1 hasta X7, incluyendo híbridos enchufables como el 330e o el X5 xDrive45e."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Necesito cita previa?",
+      "a": "Recomendamos cita previa para garantizar el equipo de diagnosis disponible, aunque atendemos urgencias según disponibilidad."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿El mantenimiento en vuestro taller mantiene la garantía del fabricante?",
+      "a": "Sí, siempre que se usen piezas homologadas y se registre el mantenimiento conforme a la normativa europea, la garantía no se ve afectada."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais presupuesto antes de empezar a trabajar?",
+      "a": "Siempre. No iniciamos ninguna reparación sin tu aprobación expresa del presupuesto."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Tenéis vehículo de sustitución?",
+      "a": "Sí, para reparaciones que requieran dejar el coche varios días ofrecemos vehículo de cortesía sujeto a disponibilidad."
+    },
+    {
+      "q": "¿Reparáis cajas de cambios ZF de las automáticas?",
+      "a": "Sí, desde mantenimiento con cambio de aceite específico hasta reparaciones mayores si el caso lo requiere."
+    },
+    {
+      "q": "¿Atendéis clientes de fuera de Salamanca capital?",
+      "a": "Sí, recibimos habitualmente clientes de Ciudad Rodrigo, Béjar, Peñaranda y otras localidades de la provincia."
     }
   ],
-  "closingHeadline": "Tu BMW en Salamanca, en buenas manos",
-  "closingCta": "Si tienes un BMW en Salamanca y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Salamanca lleva tiempo buscando",
+  "closingCta": "Pide cita y cuéntanos qué le pasa a tu BMW",
+  "testimonialsIntro": "Opiniones de clientes de Salamanca capital y su área metropolitana.",
+  "testimonials": [
+    {
+      "name": "Ricardo M.",
+      "neighborhood": "Garrido",
+      "body": "Llevé mi Serie 3 después de que dos talleres no dieran con el problema de la Vanos. Aquí lo resolvieron en una tarde.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina P.",
+      "neighborhood": "San Bernardo",
+      "body": "El X3 de mi marido tenía tirones en la caja automática. Cambio de aceite ZF y como nuevo, sin necesidad de nada más caro.",
+      "rating": 5
+    },
+    {
+      "name": "Alberto D.",
+      "neighborhood": "Centro",
+      "body": "Explican todo antes de tocar el coche y el presupuesto se cumple al céntimo. Eso ya vale más que el precio final.",
+      "rating": 5
+    },
+    {
+      "name": "Noelia S.",
+      "neighborhood": "Vidal",
+      "body": "Mi 320d tenía el testigo de motor encendido desde hacía semanas en otro taller. Aquí encontraron la sonda lambda a la primera.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centro histórico",
+    "Garrido",
+    "San Bernardo",
+    "Vidal",
+    "Chamberí",
+    "Pizarrales",
+    "Vistahermosa",
+    "Buenos Aires"
+  ],
+  "zoneAccessRoutes": [
+    "SA-20 (ronda de circunvalación)",
+    "A-62 hacia Valladolid/Portugal",
+    "A-66 (Ruta de la Plata)",
+    "N-501 hacia Ávila/Madrid"
+  ]
 }

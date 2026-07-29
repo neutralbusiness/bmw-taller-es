@@ -6,9 +6,9 @@
   "population": 176418,
   "lat": 42.34106,
   "lng": -3.70184,
-  "metaTitle": "Taller BMW en Burgos | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Burgos. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Burgos y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Burgos | Especialistas certificados",
+  "metaDescription": "Taller especializado BMW en Burgos. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja. Recogida en toda la ciudad y provincia.",
+  "heroSubtitle": "El taller BMW de referencia en Burgos, preparado para el frío castellano y los largos trayectos de la A-1 y la AP-1.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,149 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Burgos: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Burgos te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Burgos, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Burgos es una ciudad de más de 175.000 habitantes en el corazón de Castilla y León, cruzada por el Camino de Santiago y situada en un nudo de comunicaciones estratégico entre la A-1 hacia Madrid, la AP-1 hacia Vitoria y Bilbao, y la A-231 hacia León, lo que hace que buena parte de sus habitantes recorran distancias largas con frecuencia.\n\nEl clima de Burgos es uno de los más fríos de España en invierno, con heladas frecuentes y nieve algunos años, un factor que afecta directamente a la batería, al sistema de refrigeración y a los neumáticos de cualquier BMW que circule por la ciudad, especialmente en barrios más altos o expuestos como Fuentecillas o Villímar.\n\nEl parque de BMW en Burgos combina perfiles muy distintos: profesionales del sector de automoción y logística, muy presente en la ciudad por la fábrica de Michelin y el polígono industrial de Villalonquéjar, familias de barrios como Gamonal o Río Vena que usan el coche a diario, y quienes hacen trayectos frecuentes de larga distancia por trabajo hacia Madrid, Bilbao o Valladolid.\n\nEsa combinación de frío extremo en invierno y trayectos largos de autovía genera un desgaste característico: baterías que fallan antes de lo esperado, sistemas de refrigeración exigidos por los cambios bruscos de temperatura, y motores y cajas de cambios que acumulan muchos kilómetros de carretera en poco tiempo.\n\nNuestro taller trabaja con el equipo de diagnosis oficial BMW y ofrece recogida en toda la ciudad de Burgos, desde el centro histórico hasta Gamonal o Villímar, así como en los municipios cercanos de la provincia.",
+  "servicesIntro": "Mantenimiento integral, diagnosis con equipo oficial y reparación de motor, caja de cambios y electrónica para toda la gama BMW.",
+  "processIntro": "Un proceso claro pensado para el frío castellano y los largos trayectos de autovía que caracterizan a Burgos.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y primera valoración",
+      "body": "Nos cuentas el problema por teléfono o WhatsApp y programamos la cita según urgencia."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Recogida en Burgos o la provincia",
+      "body": "Recogemos el coche en tu barrio o municipio cercano si lo necesitas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "Leemos todos los módulos electrónicos del vehículo con el mismo escáner que usa un concesionario."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Presupuesto cerrado y explicado",
+      "body": "Te llamamos con el diagnóstico completo y el precio antes de tocar el coche."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Reparación y control de calidad",
+      "body": "Ejecutamos la reparación y hacemos una prueba de carretera antes de entregar el vehículo."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Burgos.",
+  "commonIssuesIntro": "Las averías que más se repiten en los BMW que circulan por Burgos, marcadas por el frío y los trayectos largos.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Batería exigida por el frío extremo",
+      "body": "Los inviernos de Burgos, entre los más fríos de España, reducen la vida útil de la batería antes de lo esperado."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Sistema de refrigeración por cambios bruscos",
+      "body": "Los cambios de temperatura entre el frío intenso y el motor caliente exigen bomba de agua y termostato en buen estado."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Turbo con pérdida de presión",
+      "body": "Los trayectos largos por la A-1 y la AP-1 a velocidad sostenida fuerzan los retenes del turbo."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Cadena de distribución estirada",
+      "body": "Motores de gasolina con muchos kilómetros de autovía desarrollan ruido metálico en frío."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "El uso mixto entre ciudad y trayectos largos exige un cambio de aceite de caja más frecuente."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnosis con equipo oficial BMW",
+      "body": "El mismo nivel técnico que un concesionario, con presupuestos más competitivos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Recogida en toda la ciudad y provincia",
+      "body": "Desde el centro de Burgos hasta municipios cercanos como Villalonquéjar o Villagonzalo Pedernales."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado por escrito",
+      "body": "Sabes el coste final antes de autorizar la reparación."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Experiencia con frío extremo",
+      "body": "Sabemos qué componentes fallan antes en Burgos por el clima y los revisamos de forma preventiva."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Piezas originales o equivalentes homologadas",
+      "body": "Tú decides el nivel de gasto según la antigüedad y el uso del vehículo."
     }
   ],
-  "zoneText": "Atendemos BMW en Burgos y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a toda la ciudad de Burgos, desde el centro histórico hasta los barrios más recientes, y a los municipios cercanos de la provincia como Villalonquéjar, Villagonzalo Pedernales o Cardeñajimeno, con recogida a domicilio.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Burgos?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Recogéis el coche en toda la ciudad de Burgos?",
+      "a": "Sí, en cualquier barrio, sin coste adicional."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿También dais servicio a municipios de la provincia?",
+      "a": "Sí, a Villalonquéjar, Villagonzalo Pedernales y otros cercanos."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Revisáis la batería por el frío del invierno?",
+      "a": "Sí, es una de las revisiones más solicitadas en Burgos durante el invierno."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tardáis en dar un presupuesto?",
+      "a": "El mismo día que hacemos la diagnosis, normalmente en unas horas."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Trabajáis con BMW que hacen trayectos largos de autovía por trabajo?",
+      "a": "Sí, es un perfil de cliente muy habitual en Burgos y tenemos experiencia con ese uso."
+    },
+    {
+      "q": "¿Usáis piezas originales BMW?",
+      "a": "Ofrecemos original o equivalente homologado según lo que prefieras y el presupuesto disponible."
+    },
+    {
+      "q": "¿Puedo llevar el coche sin cita previa?",
+      "a": "Recomendamos cita previa para garantizar atención inmediata, pero valoramos las urgencias caso por caso."
     }
   ],
-  "closingHeadline": "Tu BMW en Burgos, en buenas manos",
-  "closingCta": "Si tienes un BMW en Burgos y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW que Burgos necesita",
+  "closingCta": "Pide cita y te recogemos el coche en cualquier punto de Burgos o la provincia.",
+  "testimonialsIntro": "Opiniones de clientes de Burgos capital y la provincia.",
+  "testimonials": [
+    {
+      "name": "Íñigo Mazuelas",
+      "neighborhood": "Gamonal",
+      "body": "Llevo mi Serie 3 desde hace tres años y siempre me explican todo antes de reparar. Muy de fiar.",
+      "rating": 5
+    },
+    {
+      "name": "Teresa Ontoria",
+      "neighborhood": "Villímar",
+      "body": "Detectaron un problema de batería antes de que me dejara tirada en pleno enero. Se lo agradezco mucho.",
+      "rating": 5
+    },
+    {
+      "name": "Raúl Peñaranda",
+      "neighborhood": "Villalonquéjar",
+      "body": "Trabajo en el polígono y me recogieron el coche allí mismo sin tener que desplazarme.",
+      "rating": 5
+    },
+    {
+      "name": "Yolanda Grijalba",
+      "neighborhood": "Río Vena",
+      "body": "Presupuesto claro y sin sorpresas, y me recogieron el coche en casa sin coste extra.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centro",
+    "Gamonal",
+    "Villímar",
+    "Río Vena",
+    "Fuentecillas",
+    "San Pedro de la Fuente",
+    "Villalonquéjar"
+  ],
+  "zoneAccessRoutes": [
+    "A-1",
+    "AP-1",
+    "A-231",
+    "N-120"
+  ]
 }

@@ -6,9 +6,9 @@
   "population": 300618,
   "lat": 41.65541,
   "lng": -4.72353,
-  "metaTitle": "Taller BMW en Valladolid | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Valladolid. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Valladolid y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Valladolid | Diagnosis oficial y mecánica",
+  "metaDescription": "Taller BMW en Valladolid especializado en Vanos, turbo, caja ZF 8HP y electrónica. Diagnosis con software original y presupuesto cerrado. Cita en el día.",
+  "heroSubtitle": "Taller especializado en BMW en Valladolid, cerca de Parquesol y la Ronda Interior, para quien no quiere depender del concesionario.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,99 +31,137 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "En Valladolid vemos a diario BMW diésel de seis cilindros (motores N57 y B57) y cuatro cilindros (N47, B47) que sufren un problema muy característico: la saturación prematura del filtro de partículas (DPF) cuando el coche se usa sobre todo en trayectos cortos urbanos. El motor no llega a la temperatura necesaria para que el DPF se regenere solo, y el aviso salta antes de lo esperado. Con diagnóstico ISTA identificamos si el problema es solo de regeneración o si ya hay una avería real en el sensor de presión diferencial o en la sonda de temperatura de gases.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Valladolid te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Valladolid, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Valladolid es una ciudad con una relación particular con BMW: la fábrica de Renault y el tejido industrial de la zona han traído a la capital castellana muchos conductores que valoran la ingeniería alemana y que buscan un taller que la entienda de verdad, no solo que cambie el aceite.\n\nVemos a diario coches de Parquesol, Delicias y Huerta del Rey con las averías típicas de un BMW con kilometraje medio-alto: fallos de Valvetronic en los motores de gasolina, tirones en la caja ZF 8HP y testigos de motor relacionados con la EGR en los diésel que se mueven por la Ronda Interior y la A-62 camino de Palencia o Burgos.\n\nEl frío del invierno vallisoletano también pasa factura a las baterías y a los sistemas de arranque, así que en octubre y noviembre revisamos muchos coches con fallos intermitentes de arranque en frío que en el resto del año no darían la cara.\n\nTrabajamos con diagnosis original BMW, así que si tu coche viene de otro taller con un código de avería que no acaba de cuadrar, es habitual que aquí encontremos el fallo real en la primera visita.",
+  "servicesIntro": "Mantenimiento, mecánica, electrónica y reparación de averías específicas de BMW y Mini, con piezas originales o equivalentes OE.",
+  "processIntro": "El proceso es el mismo para cada coche, entre BMW clásicos y los modelos más recientes con conducción asistida.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Recepción y escucha del problema",
+      "body": "Nos cuentas cuándo aparece el fallo y en qué condiciones, información clave antes de conectar cualquier equipo."
+    },
+    {
+      "title": "Diagnosis con software original",
+      "body": "Leemos todos los módulos del coche con ISTA, no solo el motor, para no dejarnos ninguna avería sin detectar."
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "body": "Te lo enviamos por escrito antes de tocar el coche, con piezas y mano de obra separadas."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación y verificación",
+      "body": "Montamos la pieza, borramos los códigos y comprobamos que no reaparecen tras varios ciclos de motor."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Prueba real en carretera",
+      "body": "Probamos el coche por la Ronda Interior o la A-62 para confirmar el resultado en condiciones normales de uso."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Valladolid.",
+  "commonIssuesIntro": "Las averías que más se repiten en los BMW de Valladolid, según lo que entra cada semana al taller.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido metálico en frío y pérdida de potencia son el primer síntoma; lo vemos sobre todo en motores N43 y N53 con más de 100.000 km."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con fugas de admisión",
+      "body": "En los diésel N47, las fugas en el circuito de admisión reducen la presión de sobrealimentación y disparan el testigo de motor."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución alargada",
+      "body": "Detectamos el desgaste con el sonido característico en arranque en frío, muy habitual en invierno en Valladolid."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP con tirones",
+      "body": "El aceite degradado por el uso urbano hace que la caja tire al cambiar; recomendamos su sustitución preventiva."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y refrigeración con el frío",
+      "body": "El termostato electrónico y la bomba de agua eléctrica dan más problemas con los cambios bruscos de temperatura del clima castellano."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Diagnosis con equipo original BMW",
+      "body": "No usamos lectores genéricos: el mismo software que en el concesionario, con acceso a todos los módulos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Solo BMW y Mini",
+      "body": "La especialización nos permite reconocer patrones de avería típicos de cada motor sin tanteos."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Presupuesto cerrado y por escrito",
+      "body": "Sabes exactamente cuánto vas a pagar antes de que empecemos a trabajar."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Recogida en Valladolid capital",
+      "body": "Si no puedes acercar el coche, lo recogemos en Parquesol, Delicias o Huerta del Rey."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía real en cada reparación",
+      "body": "12 meses de garantía por escrito en toda intervención mecánica."
     }
   ],
-  "zoneText": "Atendemos BMW en Valladolid y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Valladolid capital y a los municipios que conectan por la A-62 y la A-66, con recogida disponible en los barrios más cercanos al taller.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Valladolid?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Reparáis BMW con muchos kilómetros?",
+      "a": "Sí, es habitual que trabajemos con coches de más de 200.000 km, siempre valorando si la reparación compensa frente al valor del vehículo."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Usáis piezas originales?",
+      "a": "Sí, y también ofrecemos alternativas OE homologadas si prefieres ajustar el presupuesto."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Cuánto se tarda en un diagnóstico completo?",
+      "a": "Entre 30 y 60 minutos con el equipo original BMW."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Dais garantía por escrito?",
+      "a": "Sí, 12 meses en toda reparación mecánica y electrónica."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Podéis recoger el coche en Parquesol?",
+      "a": "Sí, recogemos en Parquesol y en los barrios cercanos al taller sin coste adicional en la mayoría de casos."
+    },
+    {
+      "q": "¿Trabajáis con Mini además de BMW?",
+      "a": "Sí, ambas marcas comparten mucha mecánica y electrónica, así que las cubrimos igual de bien."
     }
   ],
-  "closingHeadline": "Tu BMW en Valladolid, en buenas manos",
-  "closingCta": "Si tienes un BMW en Valladolid y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas."
+  "closingHeadline": "El taller BMW de Valladolid que diagnostica bien a la primera",
+  "closingCta": "Reserva tu cita y trae el coche esta semana.",
+  "testimonialsIntro": "Opiniones de propietarios de BMW en Valladolid que ya han pasado por el taller.",
+  "testimonials": [
+    {
+      "name": "Alberto Cuesta",
+      "neighborhood": "Parquesol",
+      "body": "Mi 320d tenía un fallo de arranque en frío que nadie encontraba. Aquí lo diagnosticaron en menos de una hora: era el sensor de cigüeñal.",
+      "rating": 5
+    },
+    {
+      "name": "Sonia Villar",
+      "neighborhood": "Delicias",
+      "body": "Cambié el aceite de la caja ZF de mi 520d y el cambio de marchas dejó de dar tirones al segundo día.",
+      "rating": 5
+    },
+    {
+      "name": "Ignacio del Río",
+      "neighborhood": "Huerta del Rey",
+      "body": "Presupuesto claro para la reparación del turbo de mi 118d, sin extras al final. Volveré sin dudarlo.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Parquesol",
+    "Delicias",
+    "Huerta del Rey",
+    "Rondilla",
+    "La Victoria"
+  ],
+  "zoneAccessRoutes": [
+    "Ronda Interior",
+    "A-62",
+    "A-66",
+    "VA-30"
+  ]
 }

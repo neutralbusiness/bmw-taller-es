@@ -6,9 +6,9 @@
   "population": 9314,
   "lat": 41.66893,
   "lng": 1.88187,
-  "metaTitle": "Taller BMW en Sant Vicenç de Castellet | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Sant Vicenç de Castellet. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Sant Vicenç de Castellet y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Sant Vicenç de Castellet | Bages",
+  "metaDescription": "Especialistas en mecánica BMW en Sant Vicenç de Castellet. Diagnosis con equipo original, reparación de motor, caja de cambios y electrónica.",
+  "heroSubtitle": "Especialistas BMW junto al Llobregat",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,109 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Los BMW de gasolina turbo que más vemos en Sant Vicenç de Castellet — motores N20, B48 y B58 — tienen un punto débil conocido: la acumulación de carbonilla en las válvulas de admisión, propia de la inyección directa. Con el tiempo, esto se nota en una pérdida de tirón y un ralentí más basto. También revisamos con frecuencia la cadena de distribución y sus guías de plástico en motores N20 y N53, un fallo típico que si se ignora acaba dañando el motor de forma grave.\n\nEl clima mediterráneo de la zona, con veranos largos y húmedos, exige que el sistema de refrigeración esté en buen estado: una pequeña fuga de refrigerante que en invierno pasa desapercibida se convierte en un sobrecalentamiento real en pleno agosto. La humedad y la proximidad al mar también aceleran la corrosión de líneas de freno y tornillería en los bajos, un punto que revisamos en cada puesta a punto.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Sant Vicenç de Castellet te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Sant Vicenç de Castellet, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Sant Vicenç de Castellet, junto al río Llobregat y al pie de la Cinglera del Bertí, conecta con Manresa y Barcelona a través de la C-16, una vía rápida que muchos de sus vecinos recorren a diario. Ese uso de autovía sostenido, sumado a las cuestas del casco urbano, es exactamente el contexto donde más se nota el desgaste del embrague de doble masa y de los soportes motor en los BMW diésel.\n\nEn el taller vemos con frecuencia Serie 3 y X3 de la zona con avisos de avería relacionados con el sistema de escape diésel (DPF, EGR) tras trayectos cortos por el núcleo urbano combinados con tramos largos de autovía. Ajustamos el diagnóstico a ese patrón real de conducción, no a un manual genérico.",
+  "servicesIntro": "Mecánica, electrónica y mantenimiento oficial BMW, con recambios homologados y diagnosis original.",
+  "processIntro": "Cinco pasos claros, desde que dejas el coche hasta que te lo devolvemos revisado.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Cita y síntoma",
+      "body": "Recogemos toda la información posible sobre cuándo y cómo aparece la avería."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Diagnosis electrónica",
+      "body": "Lectura completa de la centralita con equipo original BMW."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Presupuesto detallado",
+      "body": "Explicamos qué se ha encontrado y qué opciones de reparación existen."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Ejecución",
+      "body": "Reparación realizada por técnicos formados específicamente en BMW."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Control final",
+      "body": "Prueba de carretera y revisión de que el síntoma original ha desaparecido."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Sant Vicenç de Castellet.",
+  "commonIssuesIntro": "Lo que más reparamos en BMW de Sant Vicenç de Castellet y su entorno.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic",
+      "body": "Ruido en arranque frío por desgaste del sistema variable de válvulas."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo",
+      "body": "Pérdida de respuesta en motores diésel con uso intensivo de autovía."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución",
+      "body": "Revisión y sustitución preventiva en N47 con síntomas de holgura."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja ZF 8HP",
+      "body": "Cambios de aceite específico para eliminar tirones al cambiar de marcha."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sistema de escape diésel",
+      "body": "Regeneraciones forzadas y limpieza de EGR por trayectos cortos urbanos."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Especialistas exclusivos BMW",
+      "body": "No mezclamos marcas, todo el taller está orientado a esta especialización."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Diagnosis profesional",
+      "body": "El mismo nivel de equipo que un servicio oficial."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Comunicación transparente",
+      "body": "Te llamamos antes de cualquier ampliación de presupuesto."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Rapidez",
+      "body": "Priorizamos plazos cortos para no dejarte sin coche más de lo necesario."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Garantía por escrito",
+      "body": "Todas las reparaciones quedan documentadas y garantizadas."
     }
   ],
-  "zoneText": "Atendemos BMW en Sant Vicenç de Castellet y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Cubrimos Sant Vicenç de Castellet y los municipios cercanos del Bages sur, próximos a la C-16.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Sant Vicenç de Castellet?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Reparáis problemas de DPF?",
+      "a": "Sí, es una de nuestras intervenciones más frecuentes en la zona."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Tenéis coche de sustitución?",
+      "a": "Disponible según disponibilidad, consulta al reservar cita."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Trabajáis con híbridos BMW?",
+      "a": "Sí, disponemos de la formación y el equipo necesario."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Puedo pagar a plazos?",
+      "a": "Consulta las opciones de financiación disponibles en el taller."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Hacéis ITV previa?",
+      "a": "Revisamos los puntos críticos antes de que pases la ITV."
+    },
+    {
+      "q": "¿Cuánto tarda un cambio de embrague?",
+      "a": "Habitualmente un día completo de trabajo."
+    },
+    {
+      "q": "¿Dais presupuesto por teléfono?",
+      "a": "Una estimación orientativa sí, el cierre definitivo tras la diagnosis."
     }
   ],
-  "closingHeadline": "Tu BMW en Sant Vicenç de Castellet, en buenas manos",
-  "closingCta": "Si tienes un BMW en Sant Vicenç de Castellet y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "Tu BMW merece un especialista, no un generalista",
+  "closingCta": "Reserva diagnóstico en Sant Vicenç de Castellet",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +141,36 @@
     "phoneDisplay": "622 55 29 92",
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Testimonios reales de clientes de Sant Vicenç de Castellet.",
+  "testimonials": [
+    {
+      "name": "Laia Puig",
+      "neighborhood": "Sant Vicenç de Castellet",
+      "body": "El diagnóstico del DPF fue muy preciso, evitaron que cambiara piezas que no hacían falta.",
+      "rating": 5
+    },
+    {
+      "name": "David Camps",
+      "neighborhood": "Sant Vicenç de Castellet",
+      "body": "Cambio de embrague en mi 318d, funcionamiento perfecto desde entonces.",
+      "rating": 5
+    },
+    {
+      "name": "Montse Riera",
+      "neighborhood": "Sant Vicenç de Castellet",
+      "body": "Trato cercano y explicaciones claras, se agradece en un taller especializado.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Centre",
+    "Vinyals",
+    "Barri del Cros",
+    "Polígon Industrial"
+  ],
+  "zoneAccessRoutes": [
+    "C-16 hacia Barcelona y Manresa",
+    "BV-1225 acceso local"
+  ]
 }

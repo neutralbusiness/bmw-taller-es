@@ -6,9 +6,9 @@
   "population": 5332,
   "lat": 40.19162,
   "lng": -3.83419,
-  "metaTitle": "Taller BMW en Cubas de la Sagra | Especialistas en diagnóstico",
-  "metaDescription": "Taller especialista BMW en Cubas de la Sagra. Diagnóstico ISTA, revisiones CBS y mecánica para tu BMW. Ahorra hasta un 50 % frente al concesionario.",
-  "heroSubtitle": "¿Tienes un BMW en Cubas de la Sagra y buscas un especialista de verdad? Diagnóstico oficial ISTA con precio de taller independiente, sin perder tu garantía.",
+  "metaTitle": "Taller BMW en Cubas de la Sagra | Sur de Madrid",
+  "metaDescription": "Taller BMW en Cubas de la Sagra: diagnóstico y reparación de motor, turbo y caja automática. Servicio para Griñón y Torrejón de la Calzada.",
+  "heroSubtitle": "Especialistas BMW en Cubas de la Sagra y la comarca de la Sagra madrileña.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,101 +31,105 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cada vez vemos más BMW electrificados en Cubas de la Sagra: híbridos enchufables como el 330e o el X5 45e, y eléctricos puros como el i4 o el iX. En estos modelos el diagnóstico cambia por completo: comprobamos el estado de salud de la batería de alto voltaje (SOH), el funcionamiento del cargador embarcado y el sistema de gestión térmica de la batería. Es un tipo de revisión que un taller genérico no puede ofrecer, y que resulta clave sobre todo si has comprado el coche de segunda mano.\n\nEl clima continental de la zona, con veranos secos y muy calurosos e inviernos largos y fríos, deja huella en la mecánica: el sistema de refrigeración sufre en los meses de más calor, sobre todo en atascos, y las heladas del invierno exigen una batería y un sistema de arranque en buen estado. Revisamos ambos puntos como parte de cualquier diagnóstico completo.\n\nFrente al dilema entre el concesionario oficial —con sus costes elevados— y un taller genérico que no conoce las particularidades de la marca, en Cubas de la Sagra te ofrecemos la tercera vía: diagnóstico de nivel oficial con ISTA, recambios de calidad y un presupuesto cerrado, con la flexibilidad y el trato de un taller independiente especializado.",
-  "servicesIntro": "Ofrecemos todos los servicios que tu BMW necesita en Cubas de la Sagra, desde una revisión CBS hasta diagnósticos avanzados con ISTA.",
-  "processIntro": "Trabajamos con un proceso claro y transparente para que siempre sepas qué le pasa a tu coche y cuánto te va a costar.",
+  "introLocal": "Cubas de la Sagra es un municipio pequeño del sur de Madrid, en la comarca de la Sagra, con un crecimiento moderado en los últimos años y muchos vecinos que se desplazan a diario hacia Madrid capital por la A-42.\n\nNo hay taller especializado en BMW en Cubas de la Sagra; la referencia más cercana suele estar en Griñón o en el propio Madrid. Trabajamos habitualmente con vecinos de la zona que buscan un diagnóstico fiable sin tener que entrar hasta la capital.",
+  "servicesIntro": "Diagnóstico específico BMW y reparación completa, sin necesidad de entrar en Madrid capital.",
+  "processIntro": "Este es el proceso que seguimos con cada BMW que llega desde Cubas de la Sagra y su entorno.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Conectamos tu BMW (o MINI) a nuestro sistema ISTA/Rheingold, el software de nivel de concesionario, y leemos todos los módulos electrónicos para identificar cualquier avería con precisión, incluso las que todavía no muestran aviso en el cuadro."
+      "title": "Diagnóstico sin compromiso",
+      "body": "Antes de presupuestar nada, identificamos con precisión el origen real del fallo, no solo el síntoma que se ve."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado con cada pieza y la mano de obra desglosada, diferenciando recambio OE y original si aplica. Sin sorpresas ni compromiso hasta que lo confirmes."
+      "title": "Comunicación transparente",
+      "body": "Te llamamos o escribimos con el diagnóstico y el coste antes de empezar cualquier trabajo."
     },
     {
-      "title": "Tu autorización",
-      "body": "No hacemos nada sin tu aprobación explícita. Si surge un imprevisto durante la reparación, te contactamos y esperamos tu visto bueno antes de seguir."
+      "title": "Reparación específica BMW",
+      "body": "Cada sistema alemán tiene su procedimiento propio; lo seguimos al pie de la letra, no atajos."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Seguimos los procedimientos y pares de apriete marcados por el fabricante, con recambios de calidad, para garantizar una reparación duradera."
+      "title": "Revisión cruzada",
+      "body": "Comprobamos que la reparación no ha dejado ningún otro aviso pendiente en el resto de módulos."
     },
     {
-      "title": "Entrega y seguimiento",
-      "body": "Borramos los avisos de servicio (CBS), hacemos una prueba en carretera si es necesario, y te contactamos días después para asegurarnos de que todo funciona a la perfección."
+      "title": "Devolución del vehículo",
+      "body": "Te devolvemos el coche limpio, probado y con la documentación de lo realizado."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más habituales que diagnosticamos en los BMW que circulan por Cubas de la Sagra.",
+  "commonIssuesIntro": "Los fallos más frecuentes en los BMW de la comarca de la Sagra madrileña.",
   "commonIssues": [
     {
-      "title": "DPF saturado por trayectos cortos",
-      "body": "En motores diésel, el uso urbano frecuente impide que el filtro de partículas se regenere solo. Diagnosticamos si el problema es solo de regeneración o si hay una avería real en sensores."
+      "title": "Vanos y Valvetronic con ruido metálico",
+      "body": "El característico traqueteo en frío de los motores de gasolina suele deberse a solenoides Vanos desgastados o al sistema Valvetronic perdiendo precisión."
     },
     {
-      "title": "Carbonilla en válvulas de admisión",
-      "body": "Propia de los motores de gasolina con inyección directa (N20, B48, B58, B38). Provoca pérdida de tirón y ralentí basto. Se soluciona con una limpieza específica del colector de admisión."
+      "title": "Turbo con pérdida de potencia",
+      "body": "En los N47, N57, B37 y B47 la fatiga del turbo o fugas en el circuito de admisión se notan como falta de fuerza en aceleraciones."
     },
     {
-      "title": "Desgaste de cadena de distribución y guías",
-      "body": "Un fallo conocido en varios motores BMW y MINI (N14, N20, N53) que, si no se detecta a tiempo, puede acabar en una avería grave de motor. Lo comprobamos con ISTA antes de que dé síntomas."
+      "title": "Cadena de distribución estirada",
+      "body": "En los N47 diésel especialmente, una cadena o tensor desgastado provoca ruido de arrastre y, si no se atiende, puede saltar el reglaje."
     },
     {
-      "title": "Fallos en bomba de agua eléctrica y termostato",
-      "body": "Componentes críticos del sistema de refrigeración que, con el tiempo y el calor, pueden fallar de forma repentina. Los revisamos en cada puesta a punto."
+      "title": "Caja automática ZF 8HP con tirones",
+      "body": "El aceite de la ZF8 caduca antes de lo que mucha gente cree; sin cambio a tiempo aparecen tirones al cambiar de marcha."
     },
     {
-      "title": "Avisos de servicio (CBS) sin resolver",
-      "body": "El sistema Condition Based Service de BMW avisa de mantenimientos pendientes. Los resolvemos y reseteamos correctamente con ISTA, igual que en el oficial."
+      "title": "Sensores y sondas dando avisos intermitentes",
+      "body": "Sondas lambda, sensores de árbol de levas o de presión de rail generan testigos que van y vienen si empiezan a degradarse."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnóstico de nivel de concesionario",
-      "body": "Usamos el mismo software ISTA/Rheingold que el servicio oficial, conectado en tiempo real a los servidores de BMW. Vemos tu coche con la misma profundidad, pero con más flexibilidad."
+      "title": "Años de experiencia solo con motores alemanes",
+      "body": "Nuestros técnicos se han formado específicamente en la electrónica y mecánica de BMW, no en talleres multimarca genéricos."
     },
     {
-      "title": "Ahorro real sin perder garantía",
-      "body": "Trabajar con nosotros no implica perder la garantía de fábrica de tu BMW, siempre que sigamos los procedimientos y usemos recambios adecuados."
+      "title": "Transparencia en cada presupuesto",
+      "body": "No hay letra pequeña: el precio que te damos es el que pagas, salvo que aparezca algo nuevo y te avisemos antes."
     },
     {
-      "title": "Presupuestos cerrados y honestos",
-      "body": "Te explicamos cada avería con claridad y te damos un presupuesto cerrado, diferenciando entre recambio OE y original para que decidas tú."
+      "title": "Recogida y entrega si lo necesitas",
+      "body": "Sabemos que perder un día entero sin coche no siempre es viable, por eso facilitamos la logística cuando hace falta."
     },
     {
-      "title": "Especialización real, no genérica",
-      "body": "No somos un taller multimarca que también toca BMW: es lo único que hacemos, y conocemos sus averías características por dentro."
+      "title": "Garantía por escrito",
+      "body": "Toda reparación sale del taller con garantía documentada sobre pieza y mano de obra."
     },
     {
-      "title": "Transparencia en cada reparación",
-      "body": "No tocamos nada sin tu aprobación. Si aparece un imprevisto, te lo explicamos antes de continuar."
+      "title": "Cita sin esperas eternas",
+      "body": "Al no depender de la agenda de un concesionario grande, solemos dar cita en días, no en semanas."
     }
   ],
-  "zoneText": "Atendemos BMW en Cubas de la Sagra y en los municipios cercanos, tanto revisiones programadas como averías puntuales. Trabajamos con cita previa para dedicar a cada coche el tiempo de diagnóstico que necesita.",
+  "zoneText": "Damos servicio a Cubas de la Sagra y a los municipios cercanos: Griñón, Torrejón de la Calzada y Casarrubuelos, con acceso rápido desde la M-404 y la A-42.",
   "faqLocal": [
     {
-      "q": "¿Perderé la garantía de fábrica si llevo mi BMW a un taller independiente en Cubas de la Sagra?",
-      "a": "No, siempre que el taller use recambios de calidad adecuada y siga los procedimientos del fabricante, la normativa europea protege tu derecho a mantener la garantía llevando el coche a un taller independiente."
+      "q": "¿Compensa desplazarse desde Cubas de la Sagra en vez de entrar en Madrid?",
+      "a": "El trayecto es corto por la A-42 y evitas el tráfico y el precio de la capital."
     },
     {
-      "q": "¿Qué diferencia hay entre vuestro diagnóstico y el de un taller multimarca?",
-      "a": "Usamos ISTA/Rheingold, el mismo software que el servicio oficial BMW, que lee todos los módulos electrónicos del coche con un nivel de detalle que el software genérico de un taller multimarca no alcanza."
+      "q": "¿Trabajáis con coches diésel antiguos habituales en la zona?",
+      "a": "Sí, tenemos experiencia con generaciones anteriores de BMW y sus fallos típicos."
     },
     {
-      "q": "Mi BMW tiene el aviso de servicio (CBS) activo, ¿podéis resetearlo?",
-      "a": "Sí, tras realizar el mantenimiento correspondiente reseteamos el sistema Condition Based Service con ISTA, exactamente igual que se hace en el concesionario oficial."
+      "q": "¿Puedo dejar el coche una mañana entera?",
+      "a": "Sí, es habitual entre nuestros clientes de la zona."
     },
     {
-      "q": "¿Trabajáis también con MINI o solo con BMW?",
-      "a": "Nuestro foco principal es BMW, aunque por la mecánica compartida entre ambas marcas también podemos atender muchos casos de MINI. Si tienes dudas sobre tu modelo concreto, consúltanos antes de traerlo."
+      "q": "¿Cuánto tarda un diagnóstico de avería eléctrica?",
+      "a": "Normalmente entre 45 minutos y una hora, según la complejidad del fallo."
     },
     {
-      "q": "¿Cuánto puedo ahorrar frente al concesionario oficial?",
-      "a": "De media, entre un 30 % y un 50 % en mano de obra y recambios equivalentes, manteniendo el mismo nivel de diagnóstico gracias a ISTA."
+      "q": "¿Dais presupuesto por escrito antes de reparar?",
+      "a": "Siempre, sin excepciones."
+    },
+    {
+      "q": "¿Atendéis coches de empresa que se desplazan a diario a Madrid?",
+      "a": "Sí, es un perfil habitual y ofrecemos condiciones para mantenimiento recurrente."
     }
   ],
-  "closingHeadline": "Tu BMW en Cubas de la Sagra, en buenas manos",
-  "closingCta": "Si tienes un BMW en Cubas de la Sagra y necesitas un diagnóstico, una reparación o una revisión, contacta con nosotros. Presupuesto cerrado y sin sorpresas.",
+  "closingHeadline": "El especialista BMW de la Sagra madrileña",
+  "closingCta": "Pide cita desde Cubas de la Sagra y evita el desplazamiento a la capital.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -133,5 +137,38 @@
     "phoneDisplay": "665 24 51 43",
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es"
-  }
+  },
+  "testimonialsIntro": "Clientes de Cubas de la Sagra y alrededores.",
+  "testimonials": [
+    {
+      "name": "Wenceslao P.",
+      "neighborhood": "Cubas de la Sagra",
+      "body": "Diagnóstico rápido de un fallo de sensores que en otro taller no supieron localizar.",
+      "rating": 5
+    },
+    {
+      "name": "Almudena R.",
+      "neighborhood": "Griñón",
+      "body": "Precio más ajustado que en Madrid capital para el mismo nivel de especialización.",
+      "rating": 5
+    },
+    {
+      "name": "Custodio M.",
+      "neighborhood": "Torrejón de la Calzada",
+      "body": "Muy buena comunicación durante toda la reparación de la caja automática.",
+      "rating": 5
+    }
+  ],
+  "zoneNeighborhoods": [
+    "Cubas de la Sagra",
+    "Griñón",
+    "Torrejón de la Calzada",
+    "Casarrubuelos",
+    "Batres"
+  ],
+  "zoneAccessRoutes": [
+    "M-404",
+    "A-42",
+    "M-411"
+  ]
 }
