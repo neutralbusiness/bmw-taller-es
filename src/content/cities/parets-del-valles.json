@@ -6,162 +6,179 @@
   "population": 17632,
   "lat": 41.57481,
   "lng": 2.23306,
-  "metaTitle": "Taller BMW en Parets del Vallès | Especialistas Vallès Oriental",
-  "metaDescription": "Taller BMW en Parets del Vallès. Diagnóstico ISTA, motor, turbo y caja ZF. Presupuesto cerrado y garantía por escrito. Solicita cita.",
-  "heroSubtitle": "El taller BMW de referencia en Parets del Vallès y el Vallès Oriental.",
+  "metaTitle": "BMW Parets del Vallès — Tu taller especialista con precios de hasta -50%",
+  "metaDescription": "Tu taller BMW de confianza en Parets del Vallès. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Parets del Vallès, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": [
-    "Parets del Vallès, con cerca de 19.000 habitantes, es un municipio con fuerte actividad industrial y muy buena conexión por la AP-7, lo que la convierte en un punto de paso constante hacia Mollet del Vallès, La Llagosta y Barcelona. Ese tránsito diario intenso se traduce en BMW con kilometrajes altos que necesitan un mantenimiento serio.",
-    "Recibimos bastantes vehículos de empresa y de trabajadores de los polígonos de Parets, además de particulares que valoran no tener que desplazarse hasta Barcelona para una avería electrónica seria. La cercanía a la autopista también nos trae consultas frecuentes sobre desgaste de suspensión y neumáticos por uso de autopista sostenido."
-  ],
-  "servicesIntro": "Diagnóstico, motor, turbo, transmisión y mantenimiento programado para BMW en Parets del Vallès.",
-  "processIntro": "Cómo trabajamos cada BMW que llega desde Parets del Vallès, muchos de ellos con uso intensivo de autopista.",
+  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En Parets del Vallès, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nLa realidad es que un BMW no funciona igual en Parets del Vallès que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Parets del Vallès que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Parets del Vallès. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Parets del Vallès y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Parets del Vallès, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Recepción y escucha del problema",
-      "body": "Antes de conectar ningún equipo, escuchamos cómo describes el problema: cuándo aparece, en qué situaciones, si hay ruidos o testigos encendidos. Esa información nos ahorra horas de diagnóstico en Parets del Vallès."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnóstico electrónico completo",
-      "body": "Escaneamos todos los módulos del vehículo con herramientas de nivel concesionario para descartar fallos ocultos que un lector genérico no detecta."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Explicación cara a cara",
-      "body": "Te enseñamos en el propio taller lo que hemos encontrado, con fotos si hace falta, antes de autorizar ningún trabajo."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Ejecución por especialistas en BMW",
-      "body": "La reparación la realiza un mecánico formado específicamente en la marca, no un generalista. Eso marca la diferencia en Vanos, ZF 8HP o Valvetronic."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Control de calidad y entrega",
-      "body": "Revisamos pares de apriete, borramos memorias de avería, comprobamos que no queden testigos y te devolvemos el coche limpio y con garantía por escrito."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en los BMW de Parets del Vallès, entre el uso industrial y el tránsito constante por la AP-7.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Parets del Vallès presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "El sistema Vanos (distribución variable) y Valvetronic (válvulas variables) son marca de la casa BMW, pero también un foco habitual de averías: ruido metálico en frío, pérdida de potencia o testigo de motor encendido. Un desgaste del sensor Vanos o de la unidad Valvetronic se puede confundir con una avería mayor si no se diagnostica bien."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Turbo y sobrealimentación",
-      "body": "En los motores turbo (gasolina N20/N54/B48 o diésel N47/B47) la pérdida de presión, el silbido agudo o el humo azulado suelen apuntar a fugas en el circuito de admisión, actuador electrónico defectuoso o desgaste de los cojinetes del turbo."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Parets del Vallès impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Los motores N47 y N20, entre otros, son conocidos por el estiramiento prematuro de la cadena de distribución. Un tintineo metálico al arrancar en frío es la primera señal, y conviene revisarlo antes de que salte una avería mayor de válvulas."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     },
     {
-      "title": "Caja automática ZF 8HP",
-      "body": "La caja ZF de 8 velocidades es fiable si se mantiene, pero un cambio de aceite y filtro tardío provoca tirones al cambiar de marcha, entradas bruscas o el modo de emergencia que bloquea el coche en una sola marcha."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     },
     {
-      "title": "Sensores y refrigeración",
-      "body": "Los BMW llevan decenas de sensores (temperatura, presión de aceite, cigüeñal) que con el tiempo dan lecturas erráticas, y una bomba de agua eléctrica o un termostato electrónico que fallan sin avisar hasta que el motor se calienta de más."
+      "title": "Averías en el sistema de suspensión adaptativa",
+      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Mecánicos formados en BMW",
-      "body": "Nuestro personal se forma específicamente en la electrónica y mecánica de BMW, no en cursos genéricos de multimarca."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Instalaciones equipadas",
-      "body": "Elevadores, herramienta específica de par y software de programación adaptados a cada generación de BMW, de la Serie 3 E90 al X5 G05."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     },
     {
-      "title": "Sin letra pequeña",
-      "body": "El presupuesto incluye pieza, mano de obra e IVA. Lo que ves es lo que pagas."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Revisión previa a la entrega",
-      "body": "Antes de devolverte el coche hacemos una comprobación final para asegurarnos de que no queda ningún testigo pendiente."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Cercanía y confianza en Parets del Vallès",
-      "body": "Muchos clientes llegan recomendados por otro cliente de Parets del Vallès. El boca a boca en un taller especializado se gana, no se compra."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     }
   ],
-  "zoneText": "Damos servicio a Parets del Vallès y al resto del Vallès Oriental, incluyendo Mollet del Vallès y La Llagosta, con acceso rápido desde la AP-7.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis flotas de empresa de los polígonos de Parets?",
-      "a": "Sí, trabajamos con varias empresas de la zona industrial."
-    },
-    {
-      "q": "¿El uso de autopista desgasta el coche de forma distinta?",
-      "a": "Sí, sobre todo suspensión y neumáticos, además de mayor estrés térmico en el turbo."
-    },
-    {
-      "q": "¿Dais presupuesto cerrado antes de reparar?",
-      "a": "Siempre, con el desglose de pieza y mano de obra."
-    },
-    {
-      "q": "¿Cuánto se tarda desde Parets del Vallès hasta el taller?",
-      "a": "Un trayecto corto por la AP-7 o la C-17, generalmente menos de 20 minutos."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de entrar a trabajar en el polígono?",
-      "a": "Sí, coordinamos horarios flexibles de entrega."
-    },
-    {
-      "q": "¿Trabajáis con BMW de kilometraje alto?",
-      "a": "Sí, es habitual en la zona y tenemos experiencia con motores por encima de los 200.000 km."
-    }
-  ],
-  "closingHeadline": "El taller BMW que Parets del Vallès necesitaba",
-  "closingCta": "Pide cita y comprueba la diferencia de un taller especializado en la marca.",
-  "testimonialsIntro": "Vecinos de Parets del Vallès que confían en nuestro trabajo.",
+  "testimonialsIntro": "Conductores de BMW en Parets del Vallès que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Pere Aymerich",
-      "neighborhood": "Parets del Vallès",
-      "body": "Uso el coche para trabajo y necesitaba rapidez. Diagnóstico correcto del turbo el mismo día.",
+      "name": "Maria",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 330i G20 2021",
+      "body": "Buscaba activar funciones de codificación en mi BMW 330i y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Parets del Vallès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     },
     {
-      "name": "Marta Sagué",
-      "neighborhood": "Parets del Vallès",
-      "body": "Muy buena explicación sobre el mantenimiento de la caja ZF del X3, sin exagerar la avería.",
+      "name": "Enric",
+      "neighborhood": "Barri antic",
+      "car": "BMW X2 sDrive18d F39 2021",
+      "body": "Necesitaba un cambio de embrague en mi BMW X2 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     },
     {
-      "name": "David Reñé",
-      "neighborhood": "Mollet del Vallès (cerca de Parets)",
-      "body": "Buen precio y trato honesto en la reparación de un fallo eléctrico del cuadro de instrumentos.",
+      "name": "Alba",
+      "neighborhood": "Centre de Parets del Vallès",
+      "car": "BMW 335i F30 2015",
+      "body": "Me saltó el aviso de motor en el BMW 335i cuando circulaba cerca de Parets del Vallès. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
+      "rating": 4
+    },
+    {
+      "name": "Gerard",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 116d F20 2018",
+      "body": "Buscaba activar funciones de codificación en mi BMW 116d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Parets del Vallès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     }
   ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Parets del Vallès y municipios colindantes. Si resides en Parets del Vallès, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Parets del Vallès centre",
-    "Mollet del Vallès",
-    "La Llagosta"
+    "Centre de Parets del Vallès",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
     "AP-7",
-    "C-17",
-    "C-33"
-  ]
+    "C-17 (Eix Transversal)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Parets del Vallès, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    }
+  ],
+  "closingHeadline": "Tu alternativa BMW de confianza en Parets del Vallès",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Parets del Vallès.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
