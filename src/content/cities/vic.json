@@ -6,9 +6,9 @@
   "population": 39844,
   "lat": 41.93012,
   "lng": 2.25486,
-  "metaTitle": "Taller BMW en Vic | Diagnosis original y mecánica en Osona",
-  "metaDescription": "Taller BMW en Vic, capital de Osona: diagnosis con software oficial, revisión de Vanos, turbo, caja ZF 8HP y refrigeración. Presupuesto cerrado. Pide cita.",
-  "heroSubtitle": "Taller especializado en BMW en Vic, referencia para toda la comarca de Osona.",
+  "metaTitle": "Taller especializado BMW en Vic — Diagnóstico ISTA y recambio OE",
+  "metaDescription": "¿Buscas un taller BMW en Vic? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "heroSubtitle": "Taller especialista BMW para Vic y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,135 +31,156 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Vic es la capital de Osona y concentra buena parte del tráfico de una comarca amplia, con vecinos que llegan desde Manlleu, Torelló o Roda de Ter para trabajar o hacer gestiones en la ciudad. Muchos de esos trayectos combinan carretera comarcal con tramos de la C-17, un uso mixto que desgasta de forma distinta al puramente urbano de Barcelona.\n\nEl clima de meseta interior de Vic, con inviernos fríos y nieblas persistentes, también afecta a la electrónica y a los sistemas de arranque en frío, así que en los meses de invierno vemos con frecuencia BMW con fallos de arranque que en verano no se manifiestan.\n\nTrabajamos con diagnosis original BMW y suficiente volumen de coches de la comarca como para reconocer rápido los patrones de avería propios de Osona, desde el desgaste de Vanos en los motores de gasolina hasta los tirones de la caja ZF 8HP en los diésel más rodados.",
-  "servicesIntro": "Mantenimiento oficial, mecánica y electrónica BMW en Vic, con piezas originales o equivalentes OE.",
-  "processIntro": "El mismo proceso riguroso para cada coche, sea de Vic capital o de la comarca.",
+  "introLocal": "Vic es una localidad con carácter propio y un fuerte sentido de comunidad. Los propietarios de BMW de la zona merecen un servicio de mantenimiento y reparación que esté a la altura de su vehículo, sin estar obligados a pagar las tarifas del concesionario oficial. La legislación europea ampara esta libertad de elección, y en nuestro taller la convertimos en una realidad práctica: misma exigencia técnica, mismos estándares de calidad, pero con un modelo de costes más eficiente que se traduce en un ahorro real para ti.\n\nEl clima mediterráneo de la provincia de Barcelona, con veranos calurosos y una humedad notable, tiene un impacto directo sobre ciertos componentes de tu BMW. Los sistemas de refrigeración trabajan bajo mayor exigencia en los meses de verano, mientras que la humedad ambiental puede afectar a conexiones eléctricas y sensores en los meses más fríos. Si tu desplazamiento habitual incluye tramos de C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès), el patrón de conducción influye directamente en los intervalos de mantenimiento que el sistema CBS de tu BMW calcula automáticamente. En nuestro taller no nos limitamos a seguir lo que indica el ordenador de a bordo: interpretamos esos datos en función del uso real de tu vehículo para recomendarte el mantenimiento más adecuado.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Vic que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn resumen, somos la alternativa técnicamente rigurosa al concesionario oficial para tu BMW en Vic. Te ofrecemos diagnóstico ISTA de nivel concesionario, recambios de calidad original, aceites homologados y un cumplimiento escrupuloso de los protocolos de BMW, todo ello con un ahorro considerable y un trato personalizado. Si resides en Centre de Vic, Barri antic, Zona residencial nord o cualquier zona de Vic, te invitamos a solicitar un presupuesto sin compromiso. Tu garantía permanecerá intacta y tu bolsillo lo notará desde la primera visita.",
+  "servicesIntro": "Atendemos cualquier necesidad de tu BMW en Vic: revisiones CBS en garantía, diagnóstico ISTA, reparaciones mecánicas, electrónica, codificaciones y mantenimiento preventivo adaptado a tu uso.",
+  "processIntro": "Transparencia y rigor técnico definen nuestro proceso. Así trabajamos con cada BMW que entra en nuestro taller.",
   "processSteps": [
     {
-      "title": "Recepción y escucha del problema",
-      "body": "Nos cuentas cuándo aparece la avería antes de conectar cualquier equipo."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Diagnosis con software original",
-      "body": "Revisamos todos los módulos, no solo el motor."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Por escrito, con piezas y mano de obra detalladas."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Reparación con piezas trazables",
-      "body": "Originales o equivalentes OE, según tu decisión."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Prueba en carretera comarcal",
-      "body": "Confirmamos el resultado en las condiciones reales de la comarca."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Las averías más habituales en los BMW que circulan por Vic y Osona.",
+  "commonIssuesIntro": "Basándonos en nuestra experiencia con vehículos BMW de Vic, estos son los fallos y averías que atendemos con mayor frecuencia en nuestro taller.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "El uso mixto de carretera comarcal y C-17 adelanta el desgaste de las solenoides Vanos."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Vic. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Turbo con pérdida de presión",
-      "body": "En los diésel N47 y N57 detectamos con frecuencia fugas en el circuito de admisión."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "El ruido en frío al arrancar, más frecuente en los inviernos de Osona, suele indicar una cadena alargada."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "El uso combinado de comarcal y autovía degrada el aceite de la caja antes del intervalo estándar."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Vic, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Sensores y refrigeración",
-      "body": "El frío y la niebla de Vic afectan a sensores y conectores, provocando fallos de arranque intermitentes."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     }
   ],
   "whyUs": [
     {
-      "title": "Diagnosis idéntica a la oficial",
-      "body": "El mismo software ISTA que usaría el concesionario."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Referencia para toda la comarca de Osona",
-      "body": "Recibimos coches de Manlleu, Torelló y Roda de Ter con normalidad."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin ampliaciones sin tu aprobación."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Especialistas solo en BMW y Mini",
-      "body": "Reconocemos patrones de avería sin tanteos."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Garantía de 12 meses",
-      "body": "Por escrito en cada reparación."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     }
   ],
-  "zoneText": "Damos servicio a Vic capital y a toda la comarca de Osona, con recogida disponible para quienes vienen desde Manlleu, Torelló o Roda de Ter.",
-  "faqLocal": [
-    {
-      "q": "¿Trabajáis con coches de toda la comarca de Osona?",
-      "a": "Sí, recibimos a diario BMW de Manlleu, Torelló, Roda de Ter y el resto de la comarca."
-    },
-    {
-      "q": "¿El frío de Vic afecta a la electrónica del BMW?",
-      "a": "Sí, es una causa frecuente de fallos de arranque intermitentes en invierno."
-    },
-    {
-      "q": "¿Cuánto tarda un diagnóstico?",
-      "a": "Entre 30 y 60 minutos con el equipo original BMW."
-    },
-    {
-      "q": "¿Dais presupuesto antes de reparar?",
-      "a": "Siempre, por escrito."
-    },
-    {
-      "q": "¿Recogéis el coche fuera de Vic?",
-      "a": "Sí, para municipios cercanos de la comarca, según disponibilidad."
-    },
-    {
-      "q": "¿Qué garantía tiene la reparación?",
-      "a": "12 meses por escrito en mano de obra y piezas."
-    }
-  ],
-  "closingHeadline": "El taller BMW de referencia en Vic y toda Osona",
-  "closingCta": "Pide cita y trae tu coche esta semana.",
-  "testimonialsIntro": "Lo que cuentan los propietarios de BMW de Vic y la comarca de Osona.",
+  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Vic nos confían habitualmente, buscando un servicio experto sin las tarifas del concesionario.",
   "testimonials": [
     {
-      "name": "Jaume Manlleu",
-      "neighborhood": "Vic centro",
-      "body": "Diagnosticaron un fallo de arranque en frío que solo daba la cara en invierno. Nadie lo había encontrado antes.",
+      "name": "Àlex",
+      "neighborhood": "Zona residencial nord",
+      "car": "BMW X3 xDrive30e G01 2023",
+      "body": "Compré mi BMW X3 de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
       "rating": 5
     },
     {
-      "name": "Anna Torelló",
-      "neighborhood": "El Remei",
-      "body": "Cambio de aceite de la caja ZF de mi 318d, se nota mucho el cambio de marchas más suave.",
+      "name": "Sílvia",
+      "neighborhood": "Eixample",
+      "car": "BMW 430i G23 Cabrio 2022",
+      "body": "Mi BMW 430i empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
       "rating": 5
     },
     {
-      "name": "Ramon Sant Julià",
-      "neighborhood": "Vic centro",
-      "body": "Presupuesto claro para la reparación del turbo de mi 120d, sin extras al final.",
+      "name": "Miquel",
+      "neighborhood": "Barri antic",
+      "car": "BMW X3 xDrive20d G01 2022",
+      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW X3 porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en Vic me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
       "rating": 5
+    },
+    {
+      "name": "Rosa",
+      "neighborhood": "Zona industrial",
+      "car": "BMW 420d G22 2021",
+      "body": "Compré mi BMW 420d de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
+      "rating": 4
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a Vic y toda su área de influencia. Atendemos a propietarios de BMW de Centre de Vic, Barri antic, Zona residencial nord, Zona industrial y el resto de barrios y urbanizaciones del municipio. Las buenas comunicaciones a través de C-32, C-33, AP-7 facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Vic centro",
-    "El Remei",
-    "Sant Miquel dels Sants",
-    "Balumbes"
+    "Centre de Vic",
+    "Barri antic",
+    "Zona residencial nord",
+    "Zona industrial",
+    "Eixample"
   ],
   "zoneAccessRoutes": [
-    "C-17",
-    "C-25 Eix Transversal",
-    "N-152"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-17 (Eix Transversal)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Vic, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    }
+  ],
+  "closingHeadline": "El taller que tu BMW merece en Vic",
+  "closingCta": "Contacta con nosotros y solicita un presupuesto cerrado para tu BMW. Sin compromiso, sin letra pequeña. Descubre el ahorro que te estás perdiendo en Vic.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
