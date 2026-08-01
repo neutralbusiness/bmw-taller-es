@@ -6,164 +6,178 @@
   "population": 20764,
   "lat": 41.50507,
   "lng": 2.39227,
-  "metaTitle": "Taller BMW en Vilassar de Mar | Diagnosis ISTA, Maresme",
-  "metaDescription": "Taller BMW especializado en Vilassar de Mar, costa del Maresme. Diagnosis ISTA, mantenimiento y reparación de turbo, Vanos y caja ZF 8HP.",
-  "heroSubtitle": "Taller BMW en Vilassar de Mar, en primera línea del Maresme",
+  "metaTitle": "BMW Vilassar de Mar — Tu taller especialista con precios de hasta -50%",
+  "metaDescription": "Tu taller BMW de confianza en Vilassar de Mar. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Vilassar de Mar, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Taller exclusivo BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Diagnóstico nivel concesionario"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Revisiones CBS en garantía"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios hasta -50%"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin sorpresas"
     }
   ],
-  "introLocal": [
-    "Vilassar de Mar combina un núcleo urbano compacto junto al paseo marítimo con una conexión constante a la N-II y la C-32, lo que hace que muchos BMW de la zona acumulen trayectos mixtos: cortos por el pueblo y largos hacia Barcelona o Mataró. Esa combinación desgasta especialmente el sistema de admisión del turbo y la cadena de distribución en los motores diésel más antiguos.",
-    "Somos un taller especializado en BMW, con diagnosis original ISTA, que atiende tanto a residentes habituales como a quienes vienen desde Cabrils o Premià de Mar por la fama del taller en la comarca.",
-    "Trabajamos con transparencia total: cada presupuesto se explica con la avería real detectada, no con una lista genérica de piezas a sustituir."
-  ],
-  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación integral de motor, transmisión y electrónica para toda la gama BMW.",
-  "processIntro": "Un proceso en cinco pasos, pensado para dar claridad desde el primer momento.",
+  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En Vilassar de Mar, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Vilassar de Mar y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Vilassar de Mar que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn definitiva, los propietarios de BMW en Vilassar de Mar tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
+  "servicesIntro": "Nuestro catálogo de servicios para BMW en Vilassar de Mar cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
+  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Recepción y síntomas",
-      "body": "Recogemos el historial del coche y el problema exacto que has notado al conducir."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Diagnosis ISTA",
-      "body": "Conectamos el sistema original BMW para leer todos los módulos electrónicos."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Presupuesto desglosado",
-      "body": "Te llamamos con el resultado exacto antes de iniciar ninguna reparación."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Reparación con trazabilidad",
-      "body": "Montamos piezas homologadas siguiendo los procedimientos oficiales de par y montaje."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Prueba de carretera y entrega",
-      "body": "Comprobamos el resultado real antes de devolver el coche con garantía."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Las averías que más vemos en los BMW de Vilassar de Mar y el Maresme.",
+  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Vilassar de Mar. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ralentí irregular en gasolina de Serie 1 y 3, frecuente a partir de los 100.000-120.000 km."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Turbo con fugas de admisión",
-      "body": "Pérdida de potencia en diésel 320d, muy habitual en coches con trayectos urbanos frecuentes."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Vilassar de Mar. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Silbido en frío en motores N47 que conviene revisar antes de que afecte a la sincronización."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Vilassar de Mar impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Cambios bruscos con la caja caliente, generalmente resueltos con servicio de aceite específico."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Refrigeración",
-      "body": "Fugas en el vaso de expansión o bomba de agua eléctrica, más frecuentes en verano por la humedad costera."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialistas en BMW",
-      "body": "Todo nuestro trabajo se centra en la marca, con formación y herramienta específica."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Diagnosis original ISTA",
-      "body": "Localizamos la avería real antes de recomendar ninguna pieza."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Lo aprobado es lo que se factura, sin extras de última hora."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Acceso rápido desde la N-II",
-      "body": "Fácil de llegar tanto desde el centro de Vilassar de Mar como desde poblaciones vecinas."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Toda reparación queda documentada y respaldada."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     }
   ],
-  "zoneText": "Atendemos Vilassar de Mar y el litoral del Maresme, con fácil acceso desde la N-II y la C-32.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis clientes de Cabrils y Premià de Mar?",
-      "a": "Sí, es habitual recibir clientes de toda la comarca del Maresme."
-    },
-    {
-      "q": "¿Se puede pagar la reparación a plazos?",
-      "a": "Consultamos con cada cliente las opciones disponibles según el importe."
-    },
-    {
-      "q": "¿Hacéis revisión de la humedad y corrosión por cercanía al mar?",
-      "a": "Sí, revisamos conectores y componentes eléctricos especialmente afectados por el ambiente marino."
-    },
-    {
-      "q": "¿Cuánto tarda un servicio de caja ZF 8HP?",
-      "a": "Normalmente medio día si no hay complicaciones añadidas."
-    },
-    {
-      "q": "¿Trabajáis con BMW de importación?",
-      "a": "Sí, aunque a veces requiere confirmar disponibilidad de recambios específicos."
-    },
-    {
-      "q": "¿Puedo ver las piezas sustituidas?",
-      "a": "Sí, te las mostramos o fotografiamos antes de desecharlas."
-    }
-  ],
-  "closingHeadline": "El taller BMW de confianza en Vilassar de Mar",
-  "closingCta": "Pide diagnosis y presupuesto para tu BMW en Vilassar de Mar",
-  "testimonialsIntro": "Opiniones de clientes de Vilassar de Mar y alrededores.",
+  "testimonialsIntro": "La confianza de nuestros clientes en Vilassar de Mar se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
   "testimonials": [
     {
-      "name": "Anna Serra",
-      "neighborhood": "Vilassar de Mar",
-      "body": "Vine des de Cabrils perquè m'havien parlat molt bé del taller. Van trobar una fuita al turbo que en un altre lloc no havien vist.",
+      "name": "Sergi",
+      "neighborhood": "Barri antic",
+      "car": "BMW X2 sDrive18d F39 2021",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW X2 justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
       "rating": 5
     },
     {
-      "name": "Ferran Puigdollers",
-      "neighborhood": "Vilassar de Mar, zona port",
-      "body": "Servicio de la caja automática impecable, se acabaron los tirones al cambiar de marcha.",
+      "name": "Montse",
+      "neighborhood": "Centre de Vilassar de Mar",
+      "car": "BMW 335i F30 2015",
+      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 335i funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
       "rating": 5
     },
     {
-      "name": "Rosa Miralles",
-      "neighborhood": "Premià de Mar (cliente habitual)",
-      "body": "Aunque vivo en Premià, sigo trayendo el coche aquí por la seriedad del presupuesto.",
+      "name": "Joan",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 116d F20 2018",
+      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW 116d, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
+      "rating": 4
+    },
+    {
+      "name": "Mireia",
+      "neighborhood": "Barri antic",
+      "car": "BMW 520d G30 2020",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 520d justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a Vilassar de Mar y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-32, N-II, Red viaria comarcal facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Port",
-    "Can Nadal",
-    "Can Bruguera"
+    "Centre de Vilassar de Mar",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "N-II",
-    "C-32",
-    "BV-5031 hacia Cabrils"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "N-II (Carretera de Francia)",
+    "Red viaria comarcal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    },
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Vilassar de Mar, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    }
+  ],
+  "closingHeadline": "Tu alternativa BMW de confianza en Vilassar de Mar",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Vilassar de Mar confían en nosotros.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
