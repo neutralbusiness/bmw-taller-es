@@ -6,9 +6,9 @@
   "population": 38918,
   "lat": 41.58098,
   "lng": 1.6172,
-  "metaTitle": "Taller BMW en Igualada | Especialistas del Anoia",
-  "metaDescription": "Taller BMW especializado en Igualada. Diagnosis original, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado y garantía en cada reparación.",
-  "heroSubtitle": "El taller BMW de referencia en Igualada y la comarca del Anoia",
+  "metaTitle": "Especialistas BMW en Igualada — Revisión y reparación con garantía",
+  "metaDescription": "Especialistas BMW en Igualada. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Igualada? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,141 +31,155 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Igualada es la capital de la Anoia y un municipio con fuerte tradición industrial, sobre todo ligada al sector de la piel y la curtiduría, lo que se traduce en un parque de vehículos comerciales y turismos que hacen uso intensivo del coche a diario. Muchos de los BMW que recibimos en el taller combinan trayectos urbanos dentro de Igualada con desplazamientos frecuentes hacia Barcelona por la C-37 y la A-2.\n\nEse patrón de uso, con arranques en frío repetidos y tramos de autovía, es exactamente el que más desgasta el sistema Valvetronic y la cadena de distribución en los motores de gasolina y diésel de la marca, respectivamente. También vemos con frecuencia cajas automáticas ZF 8HP que empiezan a dar tirones por falta de cambio de aceite en el intervalo correcto.\n\nSomos un taller especializado exclusivamente en BMW, con diagnosis original y técnicos que no reparten su tiempo entre varias marcas. Eso permite un nivel de precisión en el diagnóstico que resulta difícil de igualar para un taller multimarca de la comarca.\n\nRecibimos clientes de Igualada capital, pero también de Vilanova del Camí, Santa Margarida de Montbui y Òdena, municipios cercanos donde no siempre hay un especialista exclusivo en la marca.",
-  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación de motor y caja, con foco exclusivo en BMW.",
-  "processIntro": "Nuestro proceso de trabajo con cada vehículo que entra al taller.",
+  "introLocal": "Muchos conductores de BMW que residen en Igualada o sus alrededores asumen que el concesionario oficial es la única opción para mantener su vehículo en condiciones óptimas y conservar la garantía. Sin embargo, el Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente dónde realizas el mantenimiento de tu coche, siempre que el taller siga los protocolos del fabricante y utilice recambios de calidad equivalente. Tanto si vives en Centre de Igualada, Barri antic o cualquier otra zona de Igualada, tienes derecho a una alternativa profesional que te ahorre dinero sin sacrificar ni un ápice de calidad.\n\nEl clima mediterráneo de la provincia de Barcelona, con veranos calurosos y una humedad notable, tiene un impacto directo sobre ciertos componentes de tu BMW. Los sistemas de refrigeración trabajan bajo mayor exigencia en los meses de verano, mientras que la humedad ambiental puede afectar a conexiones eléctricas y sensores en los meses más fríos. Si tu desplazamiento habitual incluye tramos de C-16 (Eix del Llobregat) y la A-2 (Autovía del Nordeste), el patrón de conducción influye directamente en los intervalos de mantenimiento que el sistema CBS de tu BMW calcula automáticamente. En nuestro taller no nos limitamos a seguir lo que indica el ordenador de a bordo: interpretamos esos datos en función del uso real de tu vehículo para recomendarte el mantenimiento más adecuado.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Igualada que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nEn resumen, somos la alternativa técnicamente rigurosa al concesionario oficial para tu BMW en Igualada. Te ofrecemos diagnóstico ISTA de nivel concesionario, recambios de calidad original, aceites homologados y un cumplimiento escrupuloso de los protocolos de BMW, todo ello con un ahorro considerable y un trato personalizado. Si resides en Centre de Igualada, Barri antic, Zona residencial nord o cualquier zona de Igualada, te invitamos a solicitar un presupuesto sin compromiso. Tu garantía permanecerá intacta y tu bolsillo lo notará desde la primera visita.",
+  "servicesIntro": "Atendemos cualquier necesidad de tu BMW en Igualada: revisiones CBS en garantía, diagnóstico ISTA, reparaciones mecánicas, electrónica, codificaciones y mantenimiento preventivo adaptado a tu uso.",
+  "processIntro": "Transparencia y rigor técnico definen nuestro proceso. Así trabajamos con cada BMW que entra en nuestro taller.",
   "processSteps": [
     {
-      "title": "Recepción y toma de datos",
-      "body": "Anotamos el historial que nos cuentas antes de conectar cualquier equipo de diagnosis."
+      "title": "Diagnóstico ISTA completo",
+      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
     },
     {
-      "title": "Diagnosis con equipo original",
-      "body": "Escaneamos todos los módulos electrónicos con el software oficial de BMW."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Te explicamos el problema con claridad y damos un coste cerrado antes de reparar."
+      "title": "Tu aprobación antes de actuar",
+      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
     },
     {
-      "title": "Reparación documentada",
-      "body": "Cada pieza que se monta queda registrada con su referencia exacta."
+      "title": "Reparación especializada BMW",
+      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
     },
     {
-      "title": "Prueba final en carretera",
-      "body": "Probamos el coche en condiciones reales, incluida autovía si procede."
+      "title": "Entrega verificada y seguimiento",
+      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
     }
   ],
-  "commonIssuesIntro": "Averías frecuentes en los BMW que recibimos de Igualada y la comarca del Anoia.",
+  "commonIssuesIntro": "Basándonos en nuestra experiencia con vehículos BMW de Igualada, estos son los fallos y averías que atendemos con mayor frecuencia en nuestro taller.",
   "commonIssues": [
     {
-      "title": "Valvetronic con fallo de potencia",
-      "body": "El uso urbano constante desgasta antes este sistema en motores de gasolina."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     },
     {
-      "title": "Turbo fatigado por la C-37",
-      "body": "El uso frecuente en autovía hacia Barcelona adelanta el desgaste del turbo en diésel con kilometraje alto."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Cadena de distribución estirada",
-      "body": "El ruido metálico en frío es la señal más clara, frecuente en motores N47 sin revisión preventiva."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Igualada. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Caja ZF 8HP con tirones",
-      "body": "Cambios bruscos que suelen resolverse con un cambio correcto del aceite específico de la caja."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     },
     {
-      "title": "Sensores de refrigeración defectuosos",
-      "body": "Avisos intermitentes de temperatura, comunes en coches con uso mixto de comarca y autovía."
+      "title": "Averías en el sistema de suspensión adaptativa",
+      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
     }
   ],
   "whyUs": [
     {
-      "title": "Únicamente BMW",
-      "body": "Todo el taller está orientado a una sola marca, sin dispersar el conocimiento técnico."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     },
     {
-      "title": "Referencia en la comarca del Anoia",
-      "body": "Fácil acceso desde Igualada, Vilanova del Camí y Santa Margarida de Montbui."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "El precio pactado es el que se cobra al final, sin sorpresas."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Diagnosis con equipo original",
-      "body": "El mismo software que usa la red oficial de la marca."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Garantía documentada",
-      "body": "Cada reparación incluye garantía por escrito de pieza y mano de obra."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     }
   ],
-  "zoneText": "Atendemos a clientes de Igualada y de toda la comarca del Anoia, con acceso directo desde la C-37 y la A-2.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis clientes de Vilanova del Camí o Santa Margarida de Montbui?",
-      "a": "Sí, es habitual recibir clientes de toda la comarca del Anoia."
-    },
-    {
-      "q": "¿Trabajáis con vehículos comerciales del sector industrial?",
-      "a": "Sí, damos servicio a furgonetas y turismos de uso comercial con condiciones adaptadas."
-    },
-    {
-      "q": "¿Cuánto tarda una reparación de turbo?",
-      "a": "Normalmente entre 1 y 2 días laborables, según disponibilidad de pieza."
-    },
-    {
-      "q": "¿Hacéis diagnosis sin compromiso de reparar?",
-      "a": "Sí, puedes venir solo a diagnosticar y decidir después."
-    },
-    {
-      "q": "¿Puedo dejar el coche varios días?",
-      "a": "Sin problema, tenemos espacio habilitado para custodiarlo."
-    },
-    {
-      "q": "¿Revisáis el coche antes de un viaje largo?",
-      "a": "Es un servicio muy solicitado, sobre todo revisando turbo, caja y refrigeración."
-    },
-    {
-      "q": "¿Dais garantía por escrito?",
-      "a": "Siempre, en todas las reparaciones que realizamos."
-    }
-  ],
-  "closingHeadline": "Un especialista en BMW, aquí mismo en Igualada",
-  "closingCta": "Reserva tu cita en el taller de Igualada",
-  "testimonialsIntro": "Clientes de Igualada y la comarca del Anoia que confían en el taller.",
+  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Igualada nos confían habitualmente, buscando un servicio experto sin las tarifas del concesionario.",
   "testimonials": [
     {
-      "name": "Ricard Ferran",
-      "neighborhood": "Centre",
-      "body": "Uso el coche a diario para trabajo en el sector de la piel y necesitaba un taller de confianza para el mantenimiento. Aquí lo tengo.",
+      "name": "Marc",
+      "neighborhood": "Barri antic",
+      "car": "BMW X4 xDrive20d G02 2020",
+      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW X4 porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en Igualada me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
       "rating": 5
     },
     {
-      "name": "Núria Amat",
-      "neighborhood": "Fàtima",
-      "body": "Cambio de turbo en mi 320d, presupuesto claro y sin coste añadido al recoger el coche.",
+      "name": "Cristina",
+      "neighborhood": "Zona industrial",
+      "car": "BMW 220i F22 2019",
+      "body": "Compré mi BMW 220i de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
       "rating": 5
     },
     {
-      "name": "Jaume Roca",
-      "neighborhood": "Vilanova del Camí",
-      "body": "Vengo desde Vilanova porque aquí realmente entienden de BMW, no como en talleres genéricos de la zona.",
+      "name": "Albert",
+      "neighborhood": "Centre de Igualada",
+      "car": "BMW iX3 G08 2022",
+      "body": "Mi BMW iX3 empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
+      "rating": 5
+    },
+    {
+      "name": "Gemma",
+      "neighborhood": "Zona residencial nord",
+      "car": "BMW 118d F40 2020",
+      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW 118d porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en Igualada me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestra cobertura abarca Igualada y los municipios de su entorno. Recibimos clientes de Centre de Igualada, Barri antic, Zona residencial nord, Zona industrial y de todas las zonas de Igualada. La red viaria de la zona, con accesos como C-16, A-2, Red viaria comarcal, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Fàtima",
-    "Set Camins",
-    "Poble Sec",
-    "Muntanyà"
+    "Centre de Igualada",
+    "Barri antic",
+    "Zona residencial nord",
+    "Zona industrial",
+    "Eixample"
   ],
   "zoneAccessRoutes": [
-    "C-37 dirección Barcelona",
-    "A-2 hacia Lleida",
-    "C-15 desde Vilafranca del Penedès",
-    "N-II desde Manresa"
-  ]
+    "C-16 (Eix del Llobregat)",
+    "A-2 (Autovía del Nordeste)",
+    "Red viaria comarcal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Igualada, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    }
+  ],
+  "closingHeadline": "Especialistas BMW a tu servicio en Igualada",
+  "closingCta": "Contacta con nosotros y solicita un presupuesto cerrado para tu BMW. Sin compromiso, sin letra pequeña. Descubre el ahorro que te estás perdiendo en Igualada.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
