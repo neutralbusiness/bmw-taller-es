@@ -6,176 +6,178 @@
   "population": 15362,
   "lat": 41.52232,
   "lng": 1.75076,
-  "metaTitle": "Taller BMW en Piera (Anoia) | Mecánica especializada",
-  "metaDescription": "Reparación y mantenimiento BMW en Piera. Diagnosis original, presupuesto cerrado y recogida disponible para toda la comarca de l'Anoia, cerca de Igualada.",
-  "heroSubtitle": "Mecánica BMW seria para l'Anoia, sin desplazarte hasta Barcelona",
+  "metaTitle": "Taller BMW Piera — Mantenimiento oficial sin coste de concesionario",
+  "metaDescription": "Taller especialista BMW en Piera. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "heroSubtitle": "Mantén tu BMW en Piera con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Sin perder tu garantía"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Mecánica especializada BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "ISTA + recambio OE"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Tarifas competitivas"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Aceite homologado LL-04"
     }
   ],
-  "introLocal": [
-    "Piera es un municipio de unos 15.000 habitantes en la comarca de l'Anoia, a unos 45 kilómetros de Barcelona por la A-2 o la AP-7, y muy cerca de Igualada. Con ese tamaño, Piera tiene vida propia: polígonos industriales, urbanizaciones y un núcleo antiguo bien diferenciado, pero ningún taller especializado exclusivamente en BMW.",
-    "Damos servicio a Piera desde el taller de la red más próximo, con opción de recogida en el propio municipio para quien no quiera coger la carretera. La mayoría de nuestros clientes de aquí llevaban años yendo a Barcelona para cualquier avería seria y ahora resuelven lo mismo sin salir de la comarca.",
-    "Conocemos bien el perfil de coche de la zona: series 3 y X3 usados a diario para moverse entre Piera, Igualada y Martorell, con kilometrajes altos y necesidades de mantenimiento reales, no de folleto."
-  ],
-  "servicesIntro": "Mantenimiento programado, frenos, suspensión, distribución y diagnosis electrónica para toda la gama BMW.",
-  "processIntro": "Un proceso pensado para gente que no tiene tiempo que perder entre semana.",
+  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-16 (Eix del Llobregat) y la A-2 (Autovía del Nordeste) hasta los trayectos comarcales que conectan Piera con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nConocemos de primera mano las particularidades del uso de un BMW en esta zona de la provincia de Barcelona. Los desplazamientos diarios por la C-16 (Eix del Llobregat) y la A-2 (Autovía del Nordeste), combinados con la conducción urbana dentro de Piera, generan un patrón de uso mixto que afecta de forma específica a componentes críticos del vehículo. Los motores diésel B47 y B57, muy populares en los modelos Serie 3 y X3, son especialmente sensibles a los trayectos cortos: los ciclos de regeneración del filtro de partículas (DPF) necesitan tramos de conducción sostenida que no siempre se completan. En los motores de gasolina B48 y B58, la conducción urbana con arranques y paradas frecuentes puede acelerar la acumulación de carbonilla en las válvulas de admisión. Nuestro enfoque preventivo tiene en cuenta estas variables para anticiparnos a los problemas.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Piera que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nNuestra propuesta para los conductores de BMW en Piera es sencilla: la misma calidad técnica que el concesionario oficial, con mayor flexibilidad, mejor trato y precios más justos. Cada intervención que realizamos respeta escrupulosamente los protocolos de BMW, utilizando recambios OE y aceites homologados que mantienen tu garantía intacta. Ya sea que vengas desde Centre de Piera, Barri antic o cualquier otro punto de Piera, encontrarás un equipo técnico que conoce tu coche y que se compromete con resultados, no con promesas.",
+  "servicesIntro": "En Piera, cubrimos todas las necesidades de tu BMW: desde el mantenimiento rutinario y las revisiones CBS hasta diagnósticos complejos, codificaciones y reparaciones de alta especialización.",
+  "processIntro": "Nuestro proceso de trabajo está diseñado para que tengas el control en todo momento: diagnóstico, presupuesto y tu aprobación antes de actuar.",
   "processSteps": [
     {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el problema y valoramos si conviene recogida o traer el coche directamente."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Recogida opcional en Piera",
-      "body": "Si lo prefieres, recogemos el vehículo en el polígono o en el centro del pueblo."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Diagnosis con equipo original",
-      "body": "Conectamos el escáner BMW y revisamos memoria de averías real, no aproximaciones."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Recibes el precio desglosado por WhatsApp o email antes de que toquemos el coche."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Entrega y prueba de ruta",
-      "body": "El coche se entrega probado en carretera, con explicación de lo reparado."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Averías frecuentes en los BMW que llegan desde Piera y l'Anoia.",
+  "commonIssuesIntro": "Estos son los problemas más frecuentes que diagnosticamos y reparamos en los BMW que circulan por Piera y su entorno, muchos de ellos relacionados con los patrones de conducción habituales de la zona.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ralentí basto en motores de gasolina de la serie 3, habitual en coches con revisiones espaciadas."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Piera, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Turbo",
-      "body": "Pérdida de fuerza en diésel usados para trayectos diarios Piera-Igualada, sobre todo con filtro de aire descuidado."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Piera. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Estirado de cadena con ruido metálico en frío, típico de los N47 con más de 130.000 km."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Cambios erráticos que en la mayoría de casos se corrigen con actualización de software adaptativo."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     },
     {
-      "title": "Sensores y refrigeración",
-      "body": "Fallos en sensor de nivel de refrigerante y pequeñas fugas en manguitos, frecuentes por el calor del verano en la comarca."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     }
   ],
   "whyUs": [
     {
-      "title": "Cercanía real a l'Anoia",
-      "body": "Evitas el viaje a Barcelona para averías que se resuelven perfectamente aquí cerca."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Diagnosis con equipo BMW original",
-      "body": "Mismo nivel de precisión que un concesionario oficial."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Presupuesto cerrado antes de reparar",
-      "body": "Sin ampliaciones de última hora sin tu visto bueno."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Piezas originales o equivalentes de calidad",
-      "body": "Tú eliges, con la diferencia de precio explicada con claridad."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Técnicos con experiencia específica en BMW",
-      "body": "No es un taller genérico que también toca BMW; es nuestra especialidad."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     }
   ],
-  "zoneText": "Atendemos Piera completa: núcleo urbano, polígonos industriales y urbanizaciones periféricas hacia Igualada y Vallbona d'Anoia.",
-  "faqLocal": [
-    {
-      "q": "¿Hay algún taller BMW dentro de Piera?",
-      "a": "No existe un taller especializado exclusivamente en BMW dentro del municipio; damos servicio desde el taller de la red más cercano."
-    },
-    {
-      "q": "¿Ofrecéis recogida desde Piera?",
-      "a": "Sí, recogemos el vehículo en el pueblo y lo devolvemos una vez reparado."
-    },
-    {
-      "q": "¿Trabajáis con coches de empresa o autónomos?",
-      "a": "Sí, emitimos factura completa y podemos coordinar horarios fuera de la jornada laboral."
-    },
-    {
-      "q": "¿Cuánto cuesta la diagnosis?",
-      "a": "La diagnosis es gratuita si finalmente realizas la reparación con nosotros."
-    },
-    {
-      "q": "¿Tenéis piezas para modelos antiguos?",
-      "a": "Sí, trabajamos tanto con modelos recientes como con BMW de más de 15 años."
-    },
-    {
-      "q": "¿Puedo traer el coche yo mismo sin cita?",
-      "a": "Recomendamos cita previa para garantizar disponibilidad, aunque atendemos urgencias puntuales."
-    },
-    {
-      "q": "¿Qué garantía tiene la reparación?",
-      "a": "Todas las reparaciones incluyen garantía sobre piezas y mano de obra, detallada en el presupuesto."
-    }
-  ],
-  "closingHeadline": "Mecánica BMW seria, a un paso de Piera",
-  "closingCta": "Pide cita o recogida y te confirmamos disponibilidad en el día.",
-  "testimonialsIntro": "Clientes de Piera que ya han pasado por nuestro taller.",
+  "testimonialsIntro": "Propietarios de BMW de Piera y alrededores que han descubierto que calidad técnica y precio justo no son incompatibles.",
   "testimonials": [
     {
-      "name": "Jordi Camps",
-      "neighborhood": "Piera",
-      "body": "Tenía el 318d con un ruido raro en frío y resultó ser la cadena. Diagnóstico rápido y claro.",
+      "name": "Teresa",
+      "neighborhood": "Barri antic",
+      "car": "BMW X6 xDrive30d G06 2021",
+      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW X6, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
       "rating": 5
     },
     {
-      "name": "Anna Rovira",
-      "neighborhood": "Piera",
-      "body": "Antes iba a Barcelona por todo. Ahora con Piera cerca del taller ya no tiene sentido.",
+      "name": "Àlex",
+      "neighborhood": "Centre de Piera",
+      "car": "BMW 320d G20 2021",
+      "body": "Como profesional autónomo, dependo de mi BMW 320d para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de Piera no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
+      "rating": 4
+    },
+    {
+      "name": "Sílvia",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 330i G20 2021",
+      "body": "El filtro de partículas de mi BMW 330i empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
       "rating": 5
     },
     {
-      "name": "Enric Solà",
-      "neighborhood": "Piera",
-      "body": "El X3 llevaba tirones raros en la caja y con la actualización quedó como nuevo.",
-      "rating": 5
-    },
-    {
-      "name": "Marta Vilalta",
-      "neighborhood": "Piera",
-      "body": "Presupuesto claro, sin letra pequeña. Se agradece en un coche de importación.",
+      "name": "Miquel",
+      "neighborhood": "Barri antic",
+      "car": "BMW X2 sDrive18d F39 2021",
+      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW X2, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a Piera y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-16, A-2, Red viaria comarcal facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Centre urbà",
-    "Cal Maristany",
-    "Polígon industrial de Piera",
-    "Can Boada",
-    "Urbanització Can Vidal",
-    "Zona de la riera de Carme"
+    "Centre de Piera",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "A-2 hacia Barcelona e Igualada",
-    "AP-7 dirección Martorell",
-    "C-15 hacia Vilafranca del Penedès"
-  ]
+    "C-16 (Eix del Llobregat)",
+    "A-2 (Autovía del Nordeste)",
+    "Red viaria comarcal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    }
+  ],
+  "closingHeadline": "Cuidamos tu BMW en Piera",
+  "closingCta": "Solicita tu presupuesto sin compromiso. Llámanos, escríbenos por WhatsApp o envíanos un email y comprueba la diferencia de mantener tu BMW con especialistas en Piera.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
