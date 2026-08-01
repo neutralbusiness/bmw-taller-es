@@ -6,160 +6,177 @@
   "population": 16860,
   "lat": 41.68921,
   "lng": 2.48965,
-  "metaTitle": "Taller BMW en Sant Celoni | Vallès Oriental, junto al Montseny",
-  "metaDescription": "Taller especializado en BMW en Sant Celoni. Diagnosis oficial, mantenimiento y reparación adaptados a la conducción de montaña del Montseny.",
-  "heroSubtitle": "Especialistas BMW en Sant Celoni, puerta del Montseny",
+  "metaTitle": "Especialistas BMW en Sant Celoni — Revisión y reparación con garantía",
+  "metaDescription": "Especialistas BMW en Sant Celoni. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Sant Celoni? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": "Sant Celoni es uno de los municipios más grandes del Vallès Oriental y actúa como punto de referencia para buena parte de la comarca, incluida la zona del Montseny. Los BMW que vemos aquí combinan trayectos de autopista por la AP-7 o la C-35 con carreteras de montaña hacia el Montseny, lo que genera un desgaste específico en frenos y suspensión.\n\nTambién es un municipio con bastante actividad industrial y comercial, lo que trae vehículos de empresa y profesionales que hacen muchos kilómetros al año, principalmente en Serie 3 y Serie 5 diésel.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica, con atención específica a la conducción de montaña.",
-  "processIntro": "Revisamos cada BMW pensando en el trayecto real: autopista entre semana, Montseny el fin de semana.",
+  "introLocal": "Muchos conductores de BMW que residen en Sant Celoni o sus alrededores asumen que el concesionario oficial es la única opción para mantener su vehículo en condiciones óptimas y conservar la garantía. Sin embargo, el Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente dónde realizas el mantenimiento de tu coche, siempre que el taller siga los protocolos del fabricante y utilice recambios de calidad equivalente. Tanto si vives en Centre de Sant Celoni, Barri antic o cualquier otra zona de Sant Celoni, tienes derecho a una alternativa profesional que te ahorre dinero sin sacrificar ni un ápice de calidad.\n\nLa realidad es que un BMW no funciona igual en Sant Celoni que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Sant Celoni que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Sant Celoni que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Sant Celoni y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Sant Celoni, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Recepción y escucha del síntoma",
-      "body": "Nos cuentas cuándo aparece el problema y en qué tipo de trayecto."
+      "title": "Diagnóstico ISTA completo",
+      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
     },
     {
-      "title": "Diagnosis oficial BMW",
-      "body": "Conectamos el software de la marca para identificar la avería con precisión."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
     },
     {
-      "title": "Revisión de frenos y suspensión",
-      "body": "Prestamos atención especial dado el uso de montaña habitual en la zona."
+      "title": "Tu aprobación antes de actuar",
+      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te explicamos qué hemos encontrado antes de intervenir."
+      "title": "Reparación especializada BMW",
+      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
     },
     {
-      "title": "Prueba en carretera y entrega",
-      "body": "Probamos el coche en condiciones reales antes de devolverlo."
+      "title": "Entrega verificada y seguimiento",
+      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en BMW de Sant Celoni y el Montseny.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Celoni presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ruido de arranque en frío, frecuente en motores de gasolina con kilometraje medio."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Turbo",
-      "body": "Las subidas hacia el Montseny exigen más al turbo, adelantando su desgaste."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Sant Celoni. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Revisión preventiva recomendada en N47 con kilometraje alto de autopista."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Sant Celoni, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Las bajadas del Montseny con freno motor exigen a la caja; el aceite específico ayuda a alargar su vida."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Sant Celoni impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Refrigeración",
-      "body": "El contraste entre autopista y subida de montaña es exigente para el sistema de refrigeración."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     }
   ],
   "whyUs": [
     {
-      "title": "Experiencia con conducción de montaña",
-      "body": "Sabemos qué revisar en un BMW que sube al Montseny con frecuencia."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Diagnosis oficial de la marca",
-      "body": "Identificamos el fallo real, no solo el síntoma."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin sorpresas en la factura final."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Atendemos flotas de empresa",
-      "body": "Trabajamos también con profesionales que hacen muchos kilómetros al año."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Trato cercano",
-      "body": "Hablas directamente con quien repara tu vehículo."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     }
   ],
-  "zoneText": "Sant Celoni es puerta de entrada al Parc Natural del Montseny y punto de referencia comarcal, con buena conexión por la AP-7 y la C-35. La combinación de autopista y carretera de montaña marca el tipo de mantenimiento que recomendamos en la zona.",
-  "faqLocal": [
-    {
-      "q": "¿Revisáis frenos y suspensión pensando en la conducción de montaña?",
-      "a": "Sí, es una de nuestras revisiones prioritarias dado el uso habitual del Montseny en esta zona."
-    },
-    {
-      "q": "¿Tenéis diagnosis oficial BMW?",
-      "a": "Sí, usamos el software de diagnosis de la marca para identificar averías con precisión."
-    },
-    {
-      "q": "¿Atendéis vehículos de empresa con muchos kilómetros?",
-      "a": "Sí, es habitual en Sant Celoni por su actividad industrial y comercial."
-    },
-    {
-      "q": "¿Dais presupuesto cerrado antes de reparar?",
-      "a": "Siempre, no iniciamos ningún trabajo sin tu aprobación previa."
-    },
-    {
-      "q": "¿Atendéis también Gualba o Fogars de Montclús?",
-      "a": "Sí, recibimos clientes de toda la zona del Montseny y el Vallès Oriental."
-    },
-    {
-      "q": "¿Trabajáis con Serie 5 diésel de uso profesional?",
-      "a": "Sí, es de los modelos que más vemos en esta zona por su perfil comercial e industrial."
-    }
-  ],
-  "closingHeadline": "Tu BMW preparado para el Montseny y la autopista",
-  "closingCta": "Pide cita en Sant Celoni",
-  "testimonialsIntro": "Vecinos de Sant Celoni que ya han confiado en nosotros.",
+  "testimonialsIntro": "Conductores de BMW en Sant Celoni que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Jordi V.",
-      "neighborhood": "Sant Celoni",
-      "body": "El X3 tenía vibración en frenada después de bajar del Montseny. Me explicaron bien el motivo y quedó perfecto.",
+      "name": "Blanca",
+      "neighborhood": "Centre de Sant Celoni",
+      "car": "BMW M340i G20 2022",
+      "body": "Necesitaba un cambio de embrague en mi BMW M340i y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     },
     {
-      "name": "Elena T.",
-      "neighborhood": "Sant Celoni",
-      "body": "Uso el Serie 5 para trabajo y hago muchos kilómetros. Aquí cuidan el mantenimiento como se merece.",
+      "name": "Eduard",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 316d F30 2017",
+      "body": "Me saltó el aviso de motor en el BMW 316d cuando circulaba cerca de Sant Celoni. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     },
     {
-      "name": "Ramon D.",
-      "neighborhood": "Can Barata",
-      "body": "Diagnosis clara y presupuesto sin sorpresas. Repetiré sin duda.",
+      "name": "Anna",
+      "neighborhood": "Barri antic",
+      "car": "BMW X6 xDrive30d G06 2021",
+      "body": "Buscaba activar funciones de codificación en mi BMW X6 y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sant Celoni lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
+      "rating": 5
+    },
+    {
+      "name": "Carles",
+      "neighborhood": "Centre de Sant Celoni",
+      "car": "BMW 320d G20 2021",
+      "body": "Necesitaba un cambio de embrague en mi BMW 320d y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestra cobertura abarca Sant Celoni y los municipios de su entorno. Recibimos clientes de todo Sant Celoni. La red viaria de la zona, con accesos como C-32, Red viaria comarcal, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
   "zoneNeighborhoods": [
     "Centre de Sant Celoni",
-    "Can Barata",
-    "Riera de Gaià",
-    "Campins (zona propia)"
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "AP-7 hacia Barcelona/Girona",
-    "C-35 hacia Vic",
-    "BV-5301 hacia el Montseny"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "Red viaria comarcal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    },
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Sant Celoni, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    }
+  ],
+  "closingHeadline": "Especialistas BMW a tu servicio en Sant Celoni",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Sant Celoni.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
