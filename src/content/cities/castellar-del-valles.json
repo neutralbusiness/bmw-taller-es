@@ -6,167 +6,179 @@
   "population": 24036,
   "lat": 41.61667,
   "lng": 2.08333,
-  "metaTitle": "Taller BMW en Castellar del Vallès | Vallès Occidental",
-  "metaDescription": "Taller BMW especializado en Castellar del Vallès. Diagnosis, mantenimiento, motor, turbo y caja ZF 8HP con garantía escrita.",
-  "heroSubtitle": "Especialistas BMW para Castellar del Vallès y el Vallès Occidental.",
+  "metaTitle": "Taller especializado BMW en Castellar del Vallès — Diagnóstico ISTA y recambio OE",
+  "metaDescription": "¿Buscas un taller BMW en Castellar del Vallès? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "heroSubtitle": "Taller especialista BMW para Castellar del Vallès y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": "Castellar del Vallès es un municipio de unos 24.000 habitantes, uno de los más grandes de esta lista, con una vida económica propia bastante consolidada gracias a su tejido industrial y comercial en el Vallès Occidental. El parque de vehículos es amplio y variado, con una presencia notable de BMW entre profesionales que se mueven a diario hacia Sabadell, Terrassa o Barcelona por la C-58 y la C-1415c.\n\nNo hay concesionario oficial de la marca dentro del propio Castellar, y buena parte de nuestros clientes son vecinos que antes hacían el mantenimiento en Sabadell o Barcelona y han encontrado en nuestro taller una alternativa más cercana, con el mismo nivel de diagnosis técnica y precios más razonables.",
-  "servicesIntro": "Mantenimiento, diagnosis y reparación de motor, transmisión y electrónica para toda la gama BMW.",
-  "processIntro": "Diagnóstico claro y presupuesto cerrado antes de cualquier reparación.",
+  "introLocal": "Castellar del Vallès es una localidad con carácter propio y un fuerte sentido de comunidad. Los propietarios de BMW de la zona merecen un servicio de mantenimiento y reparación que esté a la altura de su vehículo, sin estar obligados a pagar las tarifas del concesionario oficial. La legislación europea ampara esta libertad de elección, y en nuestro taller la convertimos en una realidad práctica: misma exigencia técnica, mismos estándares de calidad, pero con un modelo de costes más eficiente que se traduce en un ahorro real para ti.\n\nLa realidad es que un BMW no funciona igual en Castellar del Vallès que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Castellar del Vallès que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Castellar del Vallès. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Castellar del Vallès y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Castellar del Vallès, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Cita previa",
-      "body": "Reservas hora y el coche entra directamente."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnosis con equipo BMW",
-      "body": "Escaneamos todos los módulos electrónicos del vehículo."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Te llamamos con el precio antes de intervenir."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Trabajamos con piezas originales o equivalentes de calidad."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Prueba de carretera",
-      "body": "Verificamos el resultado antes de la entrega."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías más frecuentes en los BMW que atendemos desde Castellar del Vallès:",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Castellar del Vallès presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ruido metálico en frío por desgaste de solenoides en motores de gasolina."
+      "title": "Averías en el sistema de suspensión adaptativa",
+      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
     },
     {
-      "title": "Turbo",
-      "body": "Pérdida de potencia en coches con uso diario de carretera hacia Sabadell o Barcelona."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Castellar del Vallès impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Ruido de sonajero al arrancar, conviene revisarlo antes de que empeore."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Castellar del Vallès, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Caja automática ZF 8HP",
-      "body": "Tirones al cambiar de marcha, resolubles con mantenimiento específico de la transmisión."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Sensores de motor",
-      "body": "Testigos encendidos por sensores de bajo coste, no siempre implica avería grave."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialización exclusiva en BMW",
-      "body": "Toda la herramienta y formación centrada en la marca."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Precio de taller independiente",
-      "body": "Ahorro real frente al concesionario oficial."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Trato cercano",
-      "body": "Hablas con quien repara tu coche."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Garantía escrita",
-      "body": "Toda reparación relevante queda documentada."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Cerca del Vallès Occidental",
-      "body": "Fácil acceso desde Castellar sin perder media mañana en Barcelona."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     }
   ],
-  "zoneText": "Castellar del Vallès está pegado a Sabadell, a unos 30 kilómetros de Barcelona, con buena conexión por la C-58 y la C-1415c. El municipio combina una zona industrial activa con barrios residenciales consolidados y un casco antiguo bien conservado.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis clientes de Castellar del Vallès habitualmente?",
-      "a": "Sí, es una de las zonas del Vallès Occidental con más clientes recurrentes del taller."
-    },
-    {
-      "q": "¿Necesito cita previa?",
-      "a": "Sí, así garantizamos que tu coche entra sin esperas."
-    },
-    {
-      "q": "¿Dais presupuesto antes de reparar?",
-      "a": "Siempre, sin excepciones."
-    },
-    {
-      "q": "¿Trabajáis con la caja ZF 8HP?",
-      "a": "Sí, es una de las reparaciones más habituales que hacemos."
-    },
-    {
-      "q": "¿Puedo traer un BMW con muchos kilómetros?",
-      "a": "Por supuesto, mantenemos coches de alto kilometraje en buen estado con regularidad."
-    },
-    {
-      "q": "¿Cuánto tarda un mantenimiento estándar?",
-      "a": "Normalmente se resuelve en el mismo día si el coche entra por la mañana."
-    }
-  ],
-  "closingHeadline": "Especialistas BMW cerca de Castellar del Vallès",
-  "closingCta": "Reserva tu cita y ahorra el desplazamiento hasta Barcelona.",
-  "testimonialsIntro": "Opiniones de clientes de Castellar del Vallès:",
+  "testimonialsIntro": "Conductores de BMW en Castellar del Vallès que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Miquel R.",
-      "neighborhood": "Castellar del Vallès",
-      "body": "Cambié al taller tras años yendo a Sabadell, aquí el trato es mucho más cercano y el precio mejor.",
+      "name": "Judit",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 220i F22 2019",
+      "body": "Buscaba activar funciones de codificación en mi BMW 220i y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Castellar del Vallès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     },
     {
-      "name": "Carla F.",
-      "neighborhood": "Castellar del Vallès",
-      "body": "Detectaron un problema de turbo que en otro sitio no supieron identificar en dos visitas.",
+      "name": "Lluís",
+      "neighborhood": "Barri antic",
+      "car": "BMW iX3 G08 2022",
+      "body": "Necesitaba un cambio de embrague en mi BMW iX3 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     },
     {
-      "name": "Bernat J.",
-      "neighborhood": "Castellar del Vallès",
-      "body": "Presupuesto claro y sin sorpresas al recoger el coche.",
+      "name": "Aina",
+      "neighborhood": "Centre de Castellar del Vallès",
+      "car": "BMW 118d F40 2020",
+      "body": "Me saltó el aviso de motor en el BMW 118d cuando circulaba cerca de Castellar del Vallès. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     },
     {
-      "name": "Elisenda P.",
-      "neighborhood": "Castellar del Vallès",
-      "body": "Buen nivel técnico, comparable al concesionario pero con precios más razonables.",
-      "rating": 5
+      "name": "Marc",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 218d F44 Gran Coupé 2020",
+      "body": "Buscaba activar funciones de codificación en mi BMW 218d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Castellar del Vallès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
+      "rating": 4
     }
   ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Castellar del Vallès y municipios colindantes. Si resides en Castellar del Vallès, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Centre de Castellar",
-    "Sant Esteve",
-    "Les Arenes",
-    "Sant Feliu del Racó",
-    "Polígon industrial"
+    "Centre de Castellar del Vallès",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-58 (Barcelona-Terrassa/Manresa)",
-    "C-1415c hacia Sabadell",
-    "BV-1249 comarcal"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-58 (Autopista de Montserrat)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Castellar del Vallès, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    }
+  ],
+  "closingHeadline": "El taller que tu BMW merece en Castellar del Vallès",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Castellar del Vallès.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
