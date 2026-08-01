@@ -6,172 +6,179 @@
   "population": 4927,
   "lat": 41.52943,
   "lng": 2.23988,
-  "metaTitle": "Taller BMW en Martorelles | Vallès Oriental",
-  "metaDescription": "Taller BMW especializado en Martorelles. Mantenimiento, diagnosis y reparación de motor, caja y electrónica con equipo oficial. Presupuesto claro y garantía.",
-  "heroSubtitle": "Servicio técnico BMW de confianza en Martorelles, Vallès Oriental.",
+  "metaTitle": "BMW Martorelles — Tu taller especialista con precios de hasta -50%",
+  "metaDescription": "Tu taller BMW de confianza en Martorelles. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Martorelles, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Taller exclusivo BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Diagnóstico nivel concesionario"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Revisiones CBS en garantía"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios hasta -50%"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin sorpresas"
     }
   ],
-  "introLocal": "Martorelles es un municipio pequeño pero muy bien conectado, encajado entre la C-33 y la AP-7, lo que lo convierte en zona de paso diario de muchos conductores que se desplazan a Barcelona o al Vallès. Esa combinación de trayectos cortos urbanos y tramos de autopista es exactamente el tipo de uso que más desgasta ciertos componentes en los BMW modernos, especialmente turbo y sistemas de admisión.\n\nTrabajamos con clientes de Martorelles que buscan una alternativa cercana al concesionario, sin perder precisión en la diagnosis ni tener que desplazarse hasta Barcelona capital.",
-  "servicesIntro": "Mantenimiento, mecánica general, electrónica y diagnosis avanzada para toda la gama BMW.",
-  "processIntro": "Cinco pasos claros para que sepas exactamente qué pasa con tu coche.",
+  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En Martorelles, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Martorelles y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Martorelles. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nEn definitiva, los propietarios de BMW en Martorelles tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
+  "servicesIntro": "Nuestro catálogo de servicios para BMW en Martorelles cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
+  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Recepción del vehículo",
-      "body": "Escuchamos al cliente y anotamos el contexto de uso y los síntomas."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnosis electrónica",
-      "body": "Conectamos el equipo oficial BMW para leer todos los módulos del coche."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Presentamos el diagnóstico y el coste antes de intervenir."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Ejecución del trabajo",
-      "body": "Reparamos con piezas de calidad homologada."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Entrega y prueba final",
-      "body": "Probamos el vehículo en carretera antes de devolverlo al cliente."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías frecuentes en los BMW que combinan autopista y trayectos urbanos cortos.",
+  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Martorelles. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
   "commonIssues": [
     {
-      "title": "Vanos / Valvetronic",
-      "body": "Ralentí irregular y pérdida de potencia por desgaste de estos sistemas variables."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Turbo desgastado",
-      "body": "El uso mixto autopista-ciudad acelera el desgaste del turbo en motores diésel y gasolina."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Ruido metálico en frío, típico de los motores N47 y N20 con kilometraje elevado."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Cambios bruscos o tirones por degradación del aceite de la caja automática."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     },
     {
-      "title": "Sensores de admisión",
-      "body": "Testigos de avería intermitentes que afectan al consumo y al rendimiento."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Martorelles impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     }
   ],
   "whyUs": [
     {
-      "title": "Ubicación estratégica",
-      "body": "Fácil acceso desde la C-33 y la AP-7 sin entrar en Barcelona."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Diagnosis oficial BMW",
-      "body": "El mismo nivel técnico que la red oficial, sin sus precios."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin sorpresas ni añadidos de última hora."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Especialización real",
-      "body": "Mecánicos formados específicamente en BMW."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Garantía por escrito",
-      "body": "Toda reparación queda cubierta y documentada."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     }
   ],
-  "zoneText": "Damos servicio a Martorelles y a los municipios próximos del Vallès Oriental, con fácil acceso desde las principales vías.",
+  "testimonialsIntro": "La confianza de nuestros clientes en Martorelles se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
+  "testimonials": [
+    {
+      "name": "Miquel",
+      "neighborhood": "Centre de Martorelles",
+      "car": "BMW 316d F30 2017",
+      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 316d funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
+      "rating": 5
+    },
+    {
+      "name": "Rosa",
+      "neighborhood": "Centre de Martorelles",
+      "car": "BMW X6 xDrive30d G06 2021",
+      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW X6, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier",
+      "neighborhood": "Centre de Martorelles",
+      "car": "BMW 320d G20 2021",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 320d justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
+      "rating": 4
+    },
+    {
+      "name": "Judit",
+      "neighborhood": "Centre de Martorelles",
+      "car": "BMW 330i G20 2021",
+      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 330i funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
+      "rating": 5
+    }
+  ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Martorelles y municipios colindantes. Si resides en Martorelles, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
+  "zoneNeighborhoods": [
+    "Centre de Martorelles",
+    "Zona residencial"
+  ],
+  "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-17 (Eix Transversal)",
+    "N-II (Carretera de Francia)"
+  ],
   "faqLocal": [
     {
-      "q": "¿Puedo llegar en autopista sin problema?",
-      "a": "Sí, estamos a muy poca distancia de las salidas de la C-33 y la AP-7."
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
     },
     {
-      "q": "¿Diagnostican fallos de turbo con precisión?",
-      "a": "Sí, con equipo oficial que identifica el origen exacto de la avería."
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
     },
     {
-      "q": "¿Trabajan con la gama Serie 1 y Serie 2?",
-      "a": "Sí, cubrimos toda la gama BMW, tanto gasolina como diésel."
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Martorelles, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
     },
     {
-      "q": "¿Cuánto tarda un mantenimiento estándar?",
-      "a": "Normalmente se completa en el mismo día."
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
     },
     {
-      "q": "¿Hacen diagnosis de caja automática ZF?",
-      "a": "Sí, tanto mantenimiento como reparación de averías electrónicas."
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
     },
     {
-      "q": "¿Ofrecen presupuesto antes de reparar?",
-      "a": "Siempre, por escrito y aprobado por el cliente antes de intervenir."
-    },
-    {
-      "q": "¿Puedo dejar el coche fuera de horario?",
-      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
     }
   ],
-  "closingHeadline": "El taller BMW de Martorelles que buscabas",
-  "closingCta": "Pide cita hoy y conduce con la tranquilidad de un diagnóstico oficial.",
+  "closingHeadline": "Tu alternativa BMW de confianza en Martorelles",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Martorelles confían en nosotros.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 55 29 92",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es"
-  },
-  "testimonialsIntro": "Clientes de Martorelles y el Vallès Oriental opinan sobre nuestro servicio.",
-  "testimonials": [
-    {
-      "name": "Pau Serrat",
-      "neighborhood": "Martorelles centro",
-      "body": "Hago autopista a diario y notaba el turbo raro. Lo diagnosticaron bien y sin líos.",
-      "rating": 5
-    },
-    {
-      "name": "Marta Vidal",
-      "neighborhood": "Martorelles",
-      "body": "Precio muy por debajo del concesionario y mismo nivel de diagnosis. Repetiré.",
-      "rating": 5
-    },
-    {
-      "name": "Ignasi Camps",
-      "neighborhood": "Zona AP-7",
-      "body": "Me arreglaron un problema de caja automática que llevaba meses arrastrando.",
-      "rating": 5
-    }
-  ],
-  "zoneNeighborhoods": [
-    "Martorelles centro",
-    "Zona industrial",
-    "Sant Fost de Campsentelles (zona próxima)",
-    "Mollet del Vallès (zona próxima)"
-  ],
-  "zoneAccessRoutes": [
-    "C-33",
-    "AP-7",
-    "C-17"
-  ]
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
