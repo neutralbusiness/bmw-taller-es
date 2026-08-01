@@ -6,157 +6,178 @@
   "population": 10270,
   "lat": 41.46859,
   "lng": 2.28001,
-  "metaTitle": "Taller BMW en Montgat | Maresme, litoral",
-  "metaDescription": "Taller BMW en Montgat, litoral del Maresme. Diagnosis oficial, mecánica y electrónica con presupuesto claro y garantía en cada reparación.",
-  "heroSubtitle": "Servicio BMW especializado en Montgat y el litoral del Maresme.",
+  "metaTitle": "Taller BMW Montgat — Mantenimiento oficial sin coste de concesionario",
+  "metaDescription": "Taller especialista BMW en Montgat. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "heroSubtitle": "Mantén tu BMW en Montgat con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Taller exclusivo BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Diagnóstico nivel concesionario"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Revisiones CBS en garantía"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios hasta -50%"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin sorpresas"
     }
   ],
-  "introLocal": "Montgat está justo en la frontera entre Barcelona y el Maresme, con acceso directo por la C-32 y por tren de cercanías, lo que la convierte en zona de residentes que trabajan en Barcelona pero prefieren vivir junto al mar.\n\nEl ambiente costero tiene su propio efecto sobre los vehículos: la salinidad acelera la corrosión en ciertos componentes, algo que tenemos en cuenta al revisar frenos y elementos de suspensión en los BMW que llegan desde Montgat.",
-  "servicesIntro": "Mantenimiento, motor y electrónica BMW, con atención especial a la corrosión por ambiente costero.",
-  "processIntro": "Cinco pasos claros para resolver la avería de tu BMW sin sorpresas.",
+  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la AP-7 (Autopista del Mediterráneo) y la C-32 (Autopista del Garraf) hasta los trayectos comarcales que conectan Montgat con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Montgat y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Montgat que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn definitiva, los propietarios de BMW en Montgat tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
+  "servicesIntro": "Nuestro catálogo de servicios para BMW en Montgat cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
+  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Recepción y síntomas",
-      "body": "Recogemos el contexto de uso y los síntomas descritos por el cliente."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Diagnosis electrónica",
-      "body": "Conectamos el software oficial BMW para leer todos los módulos."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Presentamos el coste antes de iniciar cualquier reparación."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Trabajamos con piezas homologadas y procedimientos de la marca."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Prueba final",
-      "body": "Verificamos en carretera que la avería queda resuelta."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en los BMW que circulan en ambiente costero desde Montgat.",
+  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Montgat. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
   "commonIssues": [
     {
-      "title": "Vanos / Valvetronic",
-      "body": "Pérdida de potencia y ralentí irregular en motores de gasolina con kilometraje alto."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     },
     {
-      "title": "Turbo desgastado",
-      "body": "El uso mixto ciudad-autopista acelera el desgaste del turbo."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Montgat, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Ruido metálico en frío, típico de los motores N47 y N20."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Montgat impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Tirones al cambiar de marcha por aceite degradado."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     },
     {
-      "title": "Corrosión en frenos y suspensión",
-      "body": "El ambiente salino costero acelera el deterioro de estos componentes."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     }
   ],
   "whyUs": [
     {
-      "title": "Conocemos el efecto del ambiente costero",
-      "body": "Revisamos con atención los puntos más afectados por la salinidad."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Diagnosis de nivel oficial",
-      "body": "Mismo software que la red oficial BMW."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin sorpresas ni añadidos de última hora."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Especialización real",
-      "body": "Mecánicos formados específicamente en BMW."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todo trabajo queda documentado y respaldado."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     }
   ],
-  "zoneText": "Damos servicio a Montgat y a los municipios cercanos del litoral del Maresme.",
-  "faqLocal": [
-    {
-      "q": "¿Revisan la corrosión por el ambiente costero?",
-      "a": "Sí, prestamos atención especial a frenos y suspensión en vehículos de zona litoral."
-    },
-    {
-      "q": "¿Diagnostican fallos de turbo con precisión?",
-      "a": "Sí, con equipo oficial que identifica el origen exacto de la avería."
-    },
-    {
-      "q": "¿Trabajan con la gama X (X1, X3, X5)?",
-      "a": "Sí, cubrimos toda la gama SUV de BMW."
-    },
-    {
-      "q": "¿Cuánto tarda un mantenimiento estándar?",
-      "a": "Normalmente se completa en el mismo día."
-    },
-    {
-      "q": "¿Hacen diagnosis de caja automática ZF?",
-      "a": "Sí, tanto mantenimiento como reparación de averías electrónicas."
-    },
-    {
-      "q": "¿Ofrecen presupuesto antes de reparar?",
-      "a": "Siempre, por escrito y aprobado por el cliente."
-    },
-    {
-      "q": "¿Puedo dejar el coche fuera de horario?",
-      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
-    }
-  ],
-  "closingHeadline": "El taller BMW del litoral del Maresme",
-  "closingCta": "Pide cita hoy desde Montgat y conduce con la tranquilidad de un diagnóstico oficial.",
-  "testimonialsIntro": "Clientes de Montgat valoran nuestra atención al detalle.",
+  "testimonialsIntro": "La confianza de nuestros clientes en Montgat se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
   "testimonials": [
     {
-      "name": "Pol Amat",
-      "neighborhood": "Montgat centro",
-      "body": "Me detectaron corrosión en los frenos antes de que fuera un problema grave. Muy atentos.",
+      "name": "David",
+      "neighborhood": "Barri antic",
+      "car": "BMW X2 sDrive18d F39 2021",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW X2 justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
       "rating": 5
     },
     {
-      "name": "Laia Miró",
-      "neighborhood": "Montgat Nord",
-      "body": "Precio mucho más ajustado que el concesionario y el mismo nivel de diagnóstico.",
+      "name": "Elena",
+      "neighborhood": "Centre de Montgat",
+      "car": "BMW 335i F30 2015",
+      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 335i funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
+      "rating": 4
+    },
+    {
+      "name": "Pere",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 116d F20 2018",
+      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW 116d, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
+      "rating": 5
+    },
+    {
+      "name": "Carla",
+      "neighborhood": "Barri antic",
+      "car": "BMW 520d G30 2020",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 520d justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a Montgat y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de AP-7, C-32, N-II facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Montgat centro",
-    "Montgat Nord",
-    "El Masnou (zona próxima)",
-    "Badalona (zona próxima)"
+    "Centre de Montgat",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-32",
-    "N-II"
-  ]
+    "AP-7 (Autopista del Mediterráneo)",
+    "C-32 (Autopista del Garraf)",
+    "N-II (Carretera de Francia)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    }
+  ],
+  "closingHeadline": "Cuidamos tu BMW en Montgat",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Montgat confían en nosotros.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
