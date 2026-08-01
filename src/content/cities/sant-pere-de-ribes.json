@@ -6,161 +6,177 @@
   "population": 28353,
   "lat": 41.26045,
   "lng": 1.77391,
-  "metaTitle": "Taller BMW en Sant Pere de Ribes | Junto a Sitges",
-  "metaDescription": "Taller especializado en BMW en Sant Pere de Ribes, junto a Sitges y Vilanova i la Geltrú. Diagnosis oficial y mantenimiento completo.",
-  "heroSubtitle": "Mecánica BMW especializada junto a Sitges y el Garraf",
+  "metaTitle": "Taller BMW Sant Pere de Ribes — Mantenimiento oficial sin coste de concesionario",
+  "metaDescription": "Taller especialista BMW en Sant Pere de Ribes. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "heroSubtitle": "Mantén tu BMW en Sant Pere de Ribes con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": "Sant Pere de Ribes ha crecido mucho en las últimas décadas gracias a su cercanía con Sitges, y hoy es un municipio con un nivel adquisitivo alto y un parque de BMW notable, desde Serie 3 usados a diario hasta X5 y algún que otro Serie 7 de propietarios que trabajan en Barcelona pero han elegido vivir junto al mar.\n\nLa proximidad a la costa trae el factor de corrosión salina habitual en toda esta franja del Garraf, y el trayecto frecuente hacia Barcelona por la C-32 añade un componente de autopista importante en el desgaste de neumáticos y frenos que revisamos en cada mantenimiento.\n\nTambién es un municipio con bastante relieve entre el núcleo de Ribes, Les Roquetes y las urbanizaciones de la sierra del Garraf, lo que genera un uso mixto de ciudad y cuesta que tenemos en cuenta al revisar suspensión y frenos.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica, con atención especial a la corrosión costera y el relieve local.",
-  "processIntro": "Un proceso adaptado al perfil mixto de esta zona: costa, cuesta y trayecto habitual a Barcelona.",
+  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-31 (Autovía de Castelldefels) y la Red viaria comarcal hasta los trayectos comarcales que conectan Sant Pere de Ribes con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nLa realidad es que un BMW no funciona igual en Sant Pere de Ribes que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-31 (Autovía de Castelldefels), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Sant Pere de Ribes que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Sant Pere de Ribes. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Sant Pere de Ribes y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Sant Pere de Ribes, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Recepción y valoración inicial",
-      "body": "Revisamos el vehículo por fuera, prestando atención a corrosión en bajos y frenos."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnosis oficial BMW",
-      "body": "Conectamos el software de la marca para identificar la avería con precisión."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Te explicamos qué hemos encontrado antes de intervenir."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Reparación con piezas adecuadas",
-      "body": "Priorizamos componentes con buen tratamiento anticorrosión dado el clima costero."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Prueba en carretera y entrega",
-      "body": "Probamos el coche en cuesta y en llano antes de devolverlo."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en BMW de Sant Pere de Ribes y el Garraf.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Pere de Ribes presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ruido de arranque en frío por desgaste de solenoides, agravado por la humedad costera."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Sant Pere de Ribes, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Turbo",
-      "body": "El trayecto frecuente por la C-32 exige constancia térmica que, mal gestionada, adelanta el desgaste del turbo."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "En N47 y N20 recomendamos revisión preventiva antes de los 150.000 km."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Las cuestas entre Ribes y Les Roquetes generan tirones que mejoran con el aceite específico de la caja."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     },
     {
-      "title": "Corrosión en frenos y bajos",
-      "body": "El aire salino del Garraf acelera este desgaste, algo que revisamos en cada visita."
+      "title": "Bomba de agua eléctrica defectuosa",
+      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
     }
   ],
   "whyUs": [
     {
-      "title": "Atención específica al clima costero",
-      "body": "Sabemos qué piezas sufren más cerca del mar y las revisamos con prioridad."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Diagnosis oficial BMW",
-      "body": "Identificamos el fallo real antes de proponer cualquier reparación."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin sorpresas en la factura final."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Experiencia con relieve local",
-      "body": "Sabemos qué revisar en coches que combinan ciudad y cuesta cada día."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Piezas originales o equivalentes OEM",
-      "body": "Tú decides el nivel según antigüedad y uso real del vehículo."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     }
   ],
-  "zoneText": "Sant Pere de Ribes combina un núcleo histórico, el barrio de Les Roquetes y varias urbanizaciones en la sierra del Garraf, con buena conexión hacia Barcelona por la C-32 y hacia Vilafranca por la C-15. La cercanía al mar y el relieve local marcan el tipo de mantenimiento que recomendamos.",
-  "faqLocal": [
-    {
-      "q": "¿Revisáis la corrosión por la cercanía al mar?",
-      "a": "Sí, es una de nuestras revisiones prioritarias en toda la zona del Garraf."
-    },
-    {
-      "q": "¿Tenéis diagnosis oficial BMW?",
-      "a": "Sí, contamos con el software de diagnosis de la marca para identificar averías con precisión."
-    },
-    {
-      "q": "¿Atendéis también Sitges y Vilanova i la Geltrú?",
-      "a": "Sí, recibimos habitualmente clientes de ambos municipios y de toda la comarca del Garraf."
-    },
-    {
-      "q": "¿Dais presupuesto cerrado antes de reparar?",
-      "a": "Siempre, no iniciamos ningún trabajo sin tu aprobación expresa."
-    },
-    {
-      "q": "¿Recogéis el coche en las urbanizaciones de la sierra?",
-      "a": "Sí, ofrecemos recogida en todo el término municipal, incluidas las urbanizaciones."
-    },
-    {
-      "q": "¿Trabajáis con X5 y Serie 7, presentes en la zona?",
-      "a": "Sí, tenemos experiencia con toda la gama alta de BMW."
-    }
-  ],
-  "closingHeadline": "Tu BMW cuidado frente a la corrosión del Garraf",
-  "closingCta": "Pide cita en Sant Pere de Ribes",
-  "testimonialsIntro": "Vecinos de Sant Pere de Ribes que ya confían en nosotros.",
+  "testimonialsIntro": "Conductores de BMW en Sant Pere de Ribes que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Toni LL.",
-      "neighborhood": "Les Roquetes",
-      "body": "Los frenos de mi X5 se picaron antes de lo normal por la cercanía al mar. Aquí me lo explicaron bien y quedó resuelto.",
+      "name": "Cristina",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 220i F22 2019",
+      "body": "Buscaba activar funciones de codificación en mi BMW 220i y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sant Pere de Ribes lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     },
     {
-      "name": "Marina C.",
-      "neighborhood": "Sant Pere de Ribes (nucli)",
-      "body": "El Serie 3 tenía tirones subiendo hacia casa. Con el cambio de aceite de la caja se solucionó del todo.",
+      "name": "Albert",
+      "neighborhood": "Barri antic",
+      "car": "BMW iX3 G08 2022",
+      "body": "Necesitaba un cambio de embrague en mi BMW iX3 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
+      "rating": 4
+    },
+    {
+      "name": "Gemma",
+      "neighborhood": "Centre de Sant Pere de Ribes",
+      "car": "BMW 118d F40 2020",
+      "body": "Me saltó el aviso de motor en el BMW 118d cuando circulaba cerca de Sant Pere de Ribes. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     },
     {
-      "name": "Bernat X.",
-      "neighborhood": "Urbanització Vallpineda",
-      "body": "Diagnosis con equipo oficial y explicación clara de cada paso. Muy profesionales.",
+      "name": "Ferran",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 218d F44 Gran Coupé 2020",
+      "body": "Buscaba activar funciones de codificación en mi BMW 218d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sant Pere de Ribes lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     }
   ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Sant Pere de Ribes y municipios colindantes. Si resides en Sant Pere de Ribes, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-31, Red viaria comarcal— facilitan el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Sant Pere de Ribes (nucli)",
-    "Les Roquetes",
-    "Vallpineda",
-    "Can Lluçà",
-    "Mas Alba"
+    "Centre de Sant Pere de Ribes",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-32 hacia Barcelona/Sitges",
-    "C-15 hacia Vilafranca del Penedès",
-    "BV-2115 hacia Vilanova i la Geltrú"
-  ]
+    "C-31 (Autovía de Castelldefels)",
+    "Red viaria comarcal"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    }
+  ],
+  "closingHeadline": "Cuidamos tu BMW en Sant Pere de Ribes",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Sant Pere de Ribes.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
