@@ -6,164 +6,179 @@
   "population": 14991,
   "lat": 41.68333,
   "lng": 2.28333,
-  "metaTitle": "Taller BMW en La Garriga | Especialistas del Vallès Oriental",
-  "metaDescription": "Taller BMW especializado en La Garriga. Diagnosis original, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado antes de reparar.",
-  "heroSubtitle": "Especialistas en BMW en La Garriga, junto al río Congost",
+  "metaTitle": "BMW la Garriga — Tu taller especialista con precios de hasta -50%",
+  "metaDescription": "Tu taller BMW de confianza en la Garriga. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en la Garriga, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": "La Garriga tiene tradición de villa termal y un nivel adquisitivo que se refleja en un parque de BMW considerable para su tamaño. Muchos vecinos usan el coche a diario para desplazarse a Barcelona por la C-17, un trayecto de autovía que exige bastante al turbo y a la caja de cambios automática en los modelos diésel con más kilómetros.\n\nTambién trabajamos con coches que combinan ese uso de autovía con trayectos cortos dentro del propio municipio, un patrón que desgasta de forma particular el sistema Valvetronic en los motores de gasolina si no se revisa con la periodicidad adecuada.\n\nSomos un taller especializado exclusivamente en BMW, con diagnosis original y técnicos que no reparten su atención entre varias marcas distintas. Recibimos clientes de La Garriga capital, pero también de Cardedeu, Les Franqueses del Vallès y L'Ametlla del Vallès.",
-  "servicesIntro": "Mantenimiento, diagnosis avanzada y reparación de motor y caja, con foco exclusivo en BMW.",
-  "processIntro": "Nuestro proceso de trabajo con cada vehículo que entra al taller.",
+  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En la Garriga, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nLa realidad es que un BMW no funciona igual en la Garriga que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de la Garriga que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en la Garriga que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de la Garriga y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en la Garriga, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Recepción y toma de datos",
-      "body": "Anotamos el historial que nos cuentas antes de conectar cualquier equipo de diagnosis."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Diagnosis con equipo original",
-      "body": "Escaneamos todos los módulos electrónicos con el software oficial de BMW."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Te explicamos el problema con claridad y damos un coste cerrado antes de reparar."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Reparación documentada",
-      "body": "Cada pieza que se monta queda registrada con su referencia exacta."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Prueba final en carretera",
-      "body": "Probamos el coche en condiciones reales, incluida autovía si procede."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Averías frecuentes en los BMW que recibimos de La Garriga y el Vallès Oriental.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por la Garriga presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Valvetronic con fallo de potencia",
-      "body": "El uso urbano constante desgasta antes este sistema en motores de gasolina."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Turbo fatigado por la C-17",
-      "body": "El uso frecuente en autovía hacia Barcelona adelanta el desgaste del turbo en diésel con kilometraje alto."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en la Garriga. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Cadena de distribución estirada",
-      "body": "El ruido metálico en frío es la señal más clara, frecuente en motores N47 sin revisión preventiva."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por la Garriga, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Caja ZF 8HP con tirones",
-      "body": "Cambios bruscos que suelen resolverse con un cambio correcto del aceite específico de la caja."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Sensores de refrigeración defectuosos",
-      "body": "Avisos intermitentes de temperatura, comunes en coches con uso mixto de urbanización y autovía."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     }
   ],
   "whyUs": [
     {
-      "title": "Únicamente BMW",
-      "body": "Todo el taller está orientado a una sola marca, sin dispersar el conocimiento técnico."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Cerca de la C-17",
-      "body": "Fácil acceso desde La Garriga y municipios cercanos del Vallès Oriental."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "El precio pactado es el que se cobra al final, sin sorpresas."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Diagnosis con equipo original",
-      "body": "El mismo software que usa la red oficial de la marca."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Garantía documentada",
-      "body": "Cada reparación incluye garantía por escrito de pieza y mano de obra."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     }
   ],
-  "zoneText": "Atendemos a clientes de La Garriga y de los municipios cercanos del Vallès Oriental.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis clientes de Cardedeu o Les Franqueses?",
-      "a": "Sí, es habitual recibir clientes de toda la comarca del Vallès Oriental."
-    },
-    {
-      "q": "¿El diagnóstico tiene coste?",
-      "a": "Se descuenta del importe final si decides reparar con nosotros."
-    },
-    {
-      "q": "¿Cuánto tarda una reparación de turbo?",
-      "a": "Normalmente entre 1 y 2 días laborables, según disponibilidad de pieza."
-    },
-    {
-      "q": "¿Puedo dejar el coche varios días?",
-      "a": "Sin problema, disponemos de espacio para custodiarlo."
-    },
-    {
-      "q": "¿Revisáis el coche antes de un viaje largo?",
-      "a": "Es un servicio muy solicitado, sobre todo revisando turbo, caja y refrigeración."
-    },
-    {
-      "q": "¿Puedo llamar antes de traer el coche?",
-      "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma."
-    },
-    {
-      "q": "¿Dais garantía por escrito?",
-      "a": "Siempre, en todas las reparaciones que realizamos."
-    }
-  ],
-  "closingHeadline": "Un especialista en BMW en La Garriga",
-  "closingCta": "Pide cita en nuestro taller",
-  "testimonialsIntro": "Clientes de La Garriga que confían en el taller.",
+  "testimonialsIntro": "Conductores de BMW en la Garriga que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Pol Casanovas",
-      "neighborhood": "Centre",
-      "body": "Hago el trayecto a Barcelona a diario y necesitaba un taller de confianza para el turbo de mi 320d. Aquí lo resolvieron.",
+      "name": "Núria",
+      "neighborhood": "Barri antic",
+      "car": "BMW 520d G30 2020",
+      "body": "Me saltó el aviso de motor en el BMW 520d cuando circulaba cerca de la Garriga. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     },
     {
-      "name": "Judith Argemí",
-      "neighborhood": "Can Terrers",
-      "body": "Diagnóstico correcto de un fallo de caja que en otro taller no supieron identificar en semanas.",
+      "name": "Pau",
+      "neighborhood": "Centre de la Garriga",
+      "car": "BMW X5 xDrive30d G05 2022",
+      "body": "Buscaba activar funciones de codificación en mi BMW X5 y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en la Garriga lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
       "rating": 5
     },
     {
-      "name": "Marc Oliveras",
-      "neighborhood": "Puiggraciós",
-      "body": "Presupuesto claro desde el principio y sin coste añadido al final, se agradece la transparencia.",
+      "name": "Laia",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 530e G30 2021",
+      "body": "Necesitaba un cambio de embrague en mi BMW 530e y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
+      "rating": 4
+    },
+    {
+      "name": "Oriol",
+      "neighborhood": "Barri antic",
+      "car": "BMW X3 xDrive30e G01 2023",
+      "body": "Me saltó el aviso de motor en el BMW X3 cuando circulaba cerca de la Garriga. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a la Garriga y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-32, C-33, AP-7 facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Can Terrers",
-    "Puiggraciós",
-    "Sant Elies"
+    "Centre de la Garriga",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-17 dirección Barcelona",
-    "C-59 hacia Granollers",
-    "BV-1485 desde Cardedeu"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-17 (Eix Transversal)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
+      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+    }
+  ],
+  "closingHeadline": "Tu alternativa BMW de confianza en la Garriga",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en la Garriga.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
