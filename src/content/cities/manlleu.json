@@ -6,160 +6,179 @@
   "population": 20647,
   "lat": 42.00228,
   "lng": 2.28476,
-  "metaTitle": "Taller BMW en Manlleu | Diagnosis y Mecánica Especializada",
-  "metaDescription": "Taller BMW en Manlleu, Osona. Diagnóstico oficial, mantenimiento, turbo, caja ZF y Vanos. Presupuesto cerrado antes de reparar tu BMW.",
-  "heroSubtitle": "Especialistas BMW en Manlleu y toda la comarca de Osona",
+  "metaTitle": "Taller especializado BMW en Manlleu — Diagnóstico ISTA y recambio OE",
+  "metaDescription": "¿Buscas un taller BMW en Manlleu? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "heroSubtitle": "Taller especialista BMW para Manlleu y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Taller exclusivo BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Diagnóstico nivel concesionario"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Revisiones CBS en garantía"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios hasta -50%"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Presupuesto sin sorpresas"
     }
   ],
-  "introLocal": "Manlleu es una de las ciudades principales de Osona, con un clima interior más frío que el de la costa catalana y un uso del coche marcado por trayectos hacia Vic, Barcelona o el Ripollès. El parque de BMW en la comarca combina berlinas de uso profesional con SUV familiares, muchos de ellos usados también para desplazamientos hacia zonas de montaña en invierno.\n\nNo hay concesionario oficial BMW en la propia comarca de Osona, lo que hace que muchos vecinos de Manlleu, Vic o Torelló busquen un especialista independiente antes que desplazarse hasta Barcelona o Girona. Trabajamos con el mismo diagnóstico oficial que la red oficial, con la ventaja de la cercanía y un trato más directo.",
-  "servicesIntro": "Mantenimiento programado, diagnosis avanzada, reparación de motor, transmisión y climatización para toda la gama BMW.",
-  "processIntro": "Un proceso claro y riguroso, pensado para clientes de toda la comarca de Osona.",
+  "introLocal": "Manlleu es una localidad con carácter propio y un fuerte sentido de comunidad. Los propietarios de BMW de la zona merecen un servicio de mantenimiento y reparación que esté a la altura de su vehículo, sin estar obligados a pagar las tarifas del concesionario oficial. La legislación europea ampara esta libertad de elección, y en nuestro taller la convertimos en una realidad práctica: misma exigencia técnica, mismos estándares de calidad, pero con un modelo de costes más eficiente que se traduce en un ahorro real para ti.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Manlleu y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Manlleu que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn definitiva, los propietarios de BMW en Manlleu tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
+  "servicesIntro": "Nuestro catálogo de servicios para BMW en Manlleu cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
+  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
   "processSteps": [
     {
-      "title": "Recepción",
-      "body": "Escuchamos el síntoma y revisamos el historial de mantenimiento si lo tienes."
+      "title": "Recepción y diagnóstico",
+      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
     },
     {
-      "title": "Diagnóstico ISTA",
-      "body": "Leemos todos los módulos electrónicos con el software oficial de BMW."
+      "title": "Presupuesto sin sorpresas",
+      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
     },
     {
-      "title": "Verificación física",
-      "body": "Contrastamos el resultado electrónico con inspección manual."
+      "title": "Confirmación del cliente",
+      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
     },
     {
-      "title": "Presupuesto",
-      "body": "Coste desglosado antes de iniciar cualquier reparación."
+      "title": "Intervención técnica",
+      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
     },
     {
-      "title": "Prueba de carretera",
-      "body": "Confirmamos que el problema queda resuelto antes de entregar el vehículo."
+      "title": "Control de calidad y entrega",
+      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Con el clima interior de Osona, estas son las averías más frecuentes en Manlleu:",
+  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Manlleu. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
   "commonIssues": [
     {
-      "title": "Refrigeración",
-      "body": "Las heladas de invierno exigen mucho al anticongelante y al termostato electrónico."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Manlleu. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Turbo",
-      "body": "Pérdida de fuerza en diésel con arranques frecuentes en frío durante el invierno."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Manlleu, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "El ruido de cadena estirada en motores N47 aparece antes con muchos arranques en frío."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Manlleu impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Tirones que se agravan con el frío y mejoran claramente con el mantenimiento específico."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Vanos",
-      "body": "Ruido metálico en frío en motores de gasolina con kilometraje medio-alto."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     }
   ],
   "whyUs": [
     {
-      "title": "Único especialista de la comarca",
-      "body": "En Osona no hay concesionario oficial BMW; nosotros cubrimos ese hueco."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Ahorra el viaje a Barcelona",
-      "body": "Mismo diagnóstico oficial sin salir de la comarca."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Conocemos el clima local",
-      "body": "Ajustamos el mantenimiento a los inviernos fríos de Osona."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin ampliaciones no acordadas."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Atendemos toda la comarca",
-      "body": "Vic, Torelló, Roda de Ter y municipios cercanos."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     }
   ],
-  "zoneText": "Atendemos Manlleu y toda la comarca de Osona, incluyendo Vic, Torelló y Roda de Ter.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis clientes de otras localidades de Osona?",
-      "a": "Sí, recibimos vehículos de Vic, Torelló y comarca."
-    },
-    {
-      "q": "¿El frío afecta más a los BMW?",
-      "a": "Sí, sobre todo a refrigeración y arranque; lo tenemos en cuenta en cada revisión."
-    },
-    {
-      "q": "¿Trabajáis con híbridos enchufables?",
-      "a": "Sí, con formación específica en la gama híbrida de BMW."
-    },
-    {
-      "q": "¿Dais presupuesto antes de reparar?",
-      "a": "Siempre, por escrito y detallado."
-    },
-    {
-      "q": "¿Cuánto tarda una revisión completa?",
-      "a": "Entre 2 y 4 horas según modelo y kilometraje."
-    },
-    {
-      "q": "¿Hacéis preITV?",
-      "a": "Sí, revisamos los puntos habituales de rechazo antes de pasar la inspección."
-    }
-  ],
-  "closingHeadline": "El especialista BMW que Osona necesitaba",
-  "closingCta": "Pide cita y trae tu BMW sin salir de la comarca.",
-  "testimonialsIntro": "Opiniones de clientes de Manlleu y Osona:",
+  "testimonialsIntro": "La confianza de nuestros clientes en Manlleu se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
   "testimonials": [
     {
-      "name": "Enric B.",
-      "neighborhood": "Centre",
-      "body": "Vengo desde Vic porque aquí encuentro un especialista de verdad sin ir hasta Barcelona.",
+      "name": "Gerard",
+      "neighborhood": "Barri antic",
+      "car": "BMW X2 sDrive18d F39 2021",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW X2 justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
       "rating": 5
     },
     {
-      "name": "Meritxell C.",
-      "neighborhood": "Erm",
-      "body": "Detectaron la fuga de refrigeración de mi X1 antes del invierno, cuando más falta hacía.",
+      "name": "Pilar",
+      "neighborhood": "Centre de Manlleu",
+      "car": "BMW 335i F30 2015",
+      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 335i funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
       "rating": 5
     },
     {
-      "name": "Roger P.",
-      "neighborhood": "La Font",
-      "body": "Cambio de aceite de la caja ZF y ha desaparecido el tirón en frío que tenía desde hacía meses.",
+      "name": "Josep",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 116d F20 2018",
+      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW 116d, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
       "rating": 5
+    },
+    {
+      "name": "Laura",
+      "neighborhood": "Barri antic",
+      "car": "BMW 520d G30 2020",
+      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 520d justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
+      "rating": 4
     }
   ],
+  "zoneText": "Nuestro taller especialista BMW da servicio a Manlleu y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-32, C-33, AP-7 facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Erm",
-    "La Font",
-    "Puigtió"
+    "Centre de Manlleu",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-17",
-    "C-25",
-    "N-141d"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-17 (Eix Transversal)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Manlleu, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    }
+  ],
+  "closingHeadline": "El taller que tu BMW merece en Manlleu",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Manlleu confían en nosotros.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
