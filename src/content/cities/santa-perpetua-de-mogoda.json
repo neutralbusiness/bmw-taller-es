@@ -6,9 +6,9 @@
   "population": 25048,
   "lat": 41.53333,
   "lng": 2.18333,
-  "metaTitle": "Taller BMW en Santa Perpètua de Mogoda | Vallès Occidental",
-  "metaDescription": "Taller especializado BMW en Santa Perpètua de Mogoda. Diagnosis original, mecánica, electrónica y mantenimiento con garantía escrita.",
-  "heroSubtitle": "Especialistas BMW en el corazón industrial del Vallès",
+  "metaTitle": "Taller especializado BMW en Santa Perpètua de Mogoda — Diagnóstico ISTA y recambio OE",
+  "metaDescription": "¿Buscas un taller BMW en Santa Perpètua de Mogoda? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "heroSubtitle": "Taller especialista BMW para Santa Perpètua de Mogoda y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,145 +31,155 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Santa Perpètua de Mogoda es uno de los polígonos industriales más grandes de Cataluña, con acceso directo a la C-33 y la AP-7 hacia Barcelona y Sabadell. Eso significa una densidad muy alta de vehículos de empresa y comerciales, incluyendo una flota importante de BMW Serie 3 y Serie 5 usados para desplazamientos de trabajo diarios con kilometrajes elevados.\n\nEl tráfico de camiones y furgonetas del polígono, combinado con el uso constante de autopista, somete a estos vehículos a un desgaste acelerado del embrague y del sistema de escape diésel. Trabajamos habitualmente con empresas de la zona que necesitan mantener su flota operativa con plazos de reparación ajustados.\n\nTambién atendemos a los vecinos de las zonas residenciales del municipio, con el mismo nivel de diagnosis que un concesionario oficial pero con la flexibilidad de horarios que necesita quien trabaja en el propio polígono.",
-  "servicesIntro": "Mecánica, electrónica y mantenimiento BMW con recambios homologados y diagnosis original, con atención especial a flotas de empresa.",
-  "processIntro": "Un proceso ágil, pensado para minimizar el tiempo de parada de vehículos de empresa y particulares.",
+  "introLocal": "Santa Perpètua de Mogoda es una localidad con carácter propio y un fuerte sentido de comunidad. Los propietarios de BMW de la zona merecen un servicio de mantenimiento y reparación que esté a la altura de su vehículo, sin estar obligados a pagar las tarifas del concesionario oficial. La legislación europea ampara esta libertad de elección, y en nuestro taller la convertimos en una realidad práctica: misma exigencia técnica, mismos estándares de calidad, pero con un modelo de costes más eficiente que se traduce en un ahorro real para ti.\n\nEl clima mediterráneo de la provincia de Barcelona, con veranos calurosos y una humedad notable, tiene un impacto directo sobre ciertos componentes de tu BMW. Los sistemas de refrigeración trabajan bajo mayor exigencia en los meses de verano, mientras que la humedad ambiental puede afectar a conexiones eléctricas y sensores en los meses más fríos. Si tu desplazamiento habitual incluye tramos de C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès), el patrón de conducción influye directamente en los intervalos de mantenimiento que el sistema CBS de tu BMW calcula automáticamente. En nuestro taller no nos limitamos a seguir lo que indica el ordenador de a bordo: interpretamos esos datos en función del uso real de tu vehículo para recomendarte el mantenimiento más adecuado.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Santa Perpètua de Mogoda. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nEn resumen, somos la alternativa técnicamente rigurosa al concesionario oficial para tu BMW en Santa Perpètua de Mogoda. Te ofrecemos diagnóstico ISTA de nivel concesionario, recambios de calidad original, aceites homologados y un cumplimiento escrupuloso de los protocolos de BMW, todo ello con un ahorro considerable y un trato personalizado. Si resides en Centre de Santa Perpètua de Mogoda, Barri antic, Zona residencial o cualquier zona de Santa Perpètua de Mogoda, te invitamos a solicitar un presupuesto sin compromiso. Tu garantía permanecerá intacta y tu bolsillo lo notará desde la primera visita.",
+  "servicesIntro": "Atendemos cualquier necesidad de tu BMW en Santa Perpètua de Mogoda: revisiones CBS en garantía, diagnóstico ISTA, reparaciones mecánicas, electrónica, codificaciones y mantenimiento preventivo adaptado a tu uso.",
+  "processIntro": "Transparencia y rigor técnico definen nuestro proceso. Así trabajamos con cada BMW que entra en nuestro taller.",
   "processSteps": [
     {
-      "title": "Recepción y análisis",
-      "body": "Recogemos el síntoma y revisamos el historial de mantenimiento del vehículo."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnosis con equipo BMW",
-      "body": "Lectura completa de todas las centralitas con software oficial."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Comunicación clara y rápida, especialmente relevante para flotas de empresa."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Reparación",
-      "body": "Ejecutada por técnicos especializados exclusivamente en BMW."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Prueba y entrega",
-      "body": "Prueba de ruta final antes de la entrega, con prioridad en plazos de flota."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías frecuentes en BMW sometidos a uso intensivo de polígono industrial y autopista.",
+  "commonIssuesIntro": "Basándonos en nuestra experiencia con vehículos BMW de Santa Perpètua de Mogoda, estos son los fallos y averías que atendemos con mayor frecuencia en nuestro taller.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ruido metálico en frío, habitual en vehículos con alto kilometraje de empresa."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Santa Perpètua de Mogoda. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     },
     {
-      "title": "Turbo",
-      "body": "Desgaste acelerado por uso constante de autopista a velocidad sostenida."
+      "title": "Averías en el sistema de suspensión adaptativa",
+      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Revisión preventiva del tensor en N47 antes de averías mayores."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Tirones resueltos con el aceite específico ZF correcto."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     },
     {
-      "title": "Sistema de escape diésel",
-      "body": "Colmatación acelerada por el tráfico denso del polígono."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Santa Perpètua de Mogoda impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialización exclusiva BMW",
-      "body": "Todo el taller orientado a una sola marca."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     },
     {
-      "title": "Atención a flotas de empresa",
-      "body": "Gestión ágil de vehículos comerciales del polígono industrial."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Diagnosis de nivel oficial",
-      "body": "Mismo software que un concesionario oficial."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin ampliaciones sorpresa en la factura."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Plazos ajustados",
-      "body": "Priorizamos la disponibilidad rápida para vehículos de trabajo."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     }
   ],
-  "zoneText": "Damos servicio al polígono industrial de Santa Perpètua de Mogoda y sus zonas residenciales, en el Vallès Occidental.",
-  "faqLocal": [
-    {
-      "q": "¿Atendéis flotas de empresa?",
-      "a": "Sí, gestionamos vehículos comerciales con prioridad de disponibilidad."
-    },
-    {
-      "q": "¿Trabajáis con toda la gama BMW?",
-      "a": "Sí, desde Serie 1 hasta X5 e híbridos."
-    },
-    {
-      "q": "¿Necesito cita previa?",
-      "a": "Sí, para reservar tiempo de diagnosis dedicado."
-    },
-    {
-      "q": "¿Mantengo la garantía de fábrica?",
-      "a": "Sí, seguimos el plan de mantenimiento oficial de BMW."
-    },
-    {
-      "q": "¿Reparáis el sistema de escape diésel?",
-      "a": "Sí, es una intervención muy habitual en vehículos de la zona."
-    },
-    {
-      "q": "¿Dais coche de sustitución?",
-      "a": "Según disponibilidad, consúltalo al reservar."
-    },
-    {
-      "q": "¿Cuánto tarda una reparación de embrague?",
-      "a": "Habitualmente un día completo de trabajo."
-    }
-  ],
-  "closingHeadline": "El taller BMW de confianza para el polígono de Santa Perpètua",
-  "closingCta": "Solicita presupuesto para tu flota o vehículo particular",
-  "testimonialsIntro": "Empresas y particulares de Santa Perpètua de Mogoda que confían en el taller.",
+  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Santa Perpètua de Mogoda nos confían habitualmente, buscando un servicio experto sin las tarifas del concesionario.",
   "testimonials": [
     {
-      "name": "Roger Fontanet",
-      "neighborhood": "Santa Perpètua de Mogoda",
-      "body": "Gestionan la flota de nuestra empresa con mucha agilidad, siempre cumplen los plazos.",
+      "name": "Adrià",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 116d F20 2018",
+      "body": "Mi BMW 116d empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
       "rating": 5
     },
     {
-      "name": "Mireia Casals",
-      "neighborhood": "Santa Perpètua de Mogoda",
-      "body": "Diagnóstico rápido y honesto de un problema del sistema de escape diésel.",
+      "name": "Marta",
+      "neighborhood": "Barri antic",
+      "car": "BMW 520d G30 2020",
+      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW 520d porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en Santa Perpètua de Mogoda me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
       "rating": 5
     },
     {
-      "name": "Iván Rojas",
-      "neighborhood": "Santa Perpètua de Mogoda",
-      "body": "Cambio de embrague realizado en el plazo acordado sin sorpresas.",
+      "name": "Sergi",
+      "neighborhood": "Centre de Santa Perpètua de Mogoda",
+      "car": "BMW X5 xDrive30d G05 2022",
+      "body": "Compré mi BMW X5 de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
       "rating": 5
     },
     {
-      "name": "Paula Nieto",
-      "neighborhood": "Santa Perpètua de Mogoda",
-      "body": "Muy buen trato, resolvieron un fallo eléctrico intermitente que llevaba meses.",
-      "rating": 5
+      "name": "Montse",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 530e G30 2021",
+      "body": "Mi BMW 530e empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
+      "rating": 4
     }
   ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Santa Perpètua de Mogoda y municipios colindantes. Si resides en Santa Perpètua de Mogoda, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Centre",
-    "Can Filbà",
-    "Polígon Industrial",
-    "Can Taió"
+    "Centre de Santa Perpètua de Mogoda",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-33 hacia Barcelona",
-    "AP-7 hacia Sabadell",
-    "N-150 alternativa"
-  ]
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
+    "AP-7",
+    "C-17 (Eix Transversal)",
+    "N-II (Carretera de Francia)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
+      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Santa Perpètua de Mogoda, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    }
+  ],
+  "closingHeadline": "El taller que tu BMW merece en Santa Perpètua de Mogoda",
+  "closingCta": "Contacta con nosotros y solicita un presupuesto cerrado para tu BMW. Sin compromiso, sin letra pequeña. Descubre el ahorro que te estás perdiendo en Santa Perpètua de Mogoda.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
