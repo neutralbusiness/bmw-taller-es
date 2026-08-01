@@ -6,157 +6,180 @@
   "population": 15509,
   "lat": 41.54206,
   "lng": 2.26748,
-  "metaTitle": "Taller BMW en Montornès del Vallès | Vallès Oriental",
-  "metaDescription": "Taller BMW en Montornès del Vallès. Diagnosis oficial, mecánica, caja automática y electrónica con presupuesto claro y garantía en cada reparación.",
-  "heroSubtitle": "Servicio BMW especializado en Montornès del Vallès.",
+  "metaTitle": "Taller BMW en Montornès del Vallès — Especialistas sin perder garantía",
+  "metaDescription": "Taller BMW en Montornès del Vallès: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "heroSubtitle": "Tu BMW merece un especialista. En Montornès del Vallès, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
       "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "text": "Sin perder tu garantía"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Mecánica especializada BMW"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "ISTA + recambio OE"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
+      "text": "Tarifas competitivas"
     },
     {
       "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Aceite homologado LL-04"
     }
   ],
-  "introLocal": "Montornès del Vallès combina zona residencial con un importante polígono industrial, lo que genera un tráfico constante de vehículos de trabajo y de particulares que se desplazan hacia Barcelona o Granollers a diario por la AP-7 y la C-17.\n\nRecibimos BMW tanto de particulares como de autónomos y empresas de la zona, con un enfoque siempre en devolver el vehículo operativo cuanto antes sin renunciar a la precisión de la diagnosis.",
-  "servicesIntro": "Mantenimiento, motor, caja de cambios y electrónica BMW con diagnosis oficial de la marca.",
-  "processIntro": "Cinco pasos claros para resolver la avería de tu BMW sin sorpresas.",
+  "introLocal": "Si conduces un BMW en Montornès del Vallès, probablemente ya te has preguntado alguna vez si realmente necesitas acudir al concesionario oficial para las revisiones y reparaciones de tu vehículo. La respuesta es clara: no. La normativa europea, a través del Reglamento (UE) 461/2010, te garantiza el derecho a elegir el taller que prefieras sin perder la garantía del fabricante, siempre que este cumpla los estándares técnicos de BMW. En Montornès del Vallès, cada vez más propietarios de BMW optan por talleres especializados independientes que ofrecen la misma calidad técnica que el servicio oficial, pero con un trato más cercano y precios significativamente más ajustados.\n\nConocemos de primera mano las particularidades del uso de un BMW en esta zona de la provincia de Barcelona. Los desplazamientos diarios por la C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès), combinados con la conducción urbana dentro de Montornès del Vallès, generan un patrón de uso mixto que afecta de forma específica a componentes críticos del vehículo. Los motores diésel B47 y B57, muy populares en los modelos Serie 3 y X3, son especialmente sensibles a los trayectos cortos: los ciclos de regeneración del filtro de partículas (DPF) necesitan tramos de conducción sostenida que no siempre se completan. En los motores de gasolina B48 y B58, la conducción urbana con arranques y paradas frecuentes puede acelerar la acumulación de carbonilla en las válvulas de admisión. Nuestro enfoque preventivo tiene en cuenta estas variables para anticiparnos a los problemas.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Montornès del Vallès. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nNuestra propuesta para los conductores de BMW en Montornès del Vallès es sencilla: la misma calidad técnica que el concesionario oficial, con mayor flexibilidad, mejor trato y precios más justos. Cada intervención que realizamos respeta escrupulosamente los protocolos de BMW, utilizando recambios OE y aceites homologados que mantienen tu garantía intacta. Ya sea que vengas desde Centre de Montornès del Vallès, Barri antic o cualquier otro punto de Montornès del Vallès, encontrarás un equipo técnico que conoce tu coche y que se compromete con resultados, no con promesas.",
+  "servicesIntro": "En Montornès del Vallès, cubrimos todas las necesidades de tu BMW: desde el mantenimiento rutinario y las revisiones CBS hasta diagnósticos complejos, codificaciones y reparaciones de alta especialización.",
+  "processIntro": "Nuestro proceso de trabajo está diseñado para que tengas el control en todo momento: diagnóstico, presupuesto y tu aprobación antes de actuar.",
   "processSteps": [
     {
-      "title": "Recepción y síntomas",
-      "body": "Recogemos el contexto de uso y los síntomas descritos por el cliente."
+      "title": "Evaluación inicial con ISTA",
+      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
     },
     {
-      "title": "Diagnosis electrónica",
-      "body": "Conectamos el software oficial BMW para leer todos los módulos."
+      "title": "Propuesta económica transparente",
+      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Presentamos el coste antes de iniciar cualquier reparación."
+      "title": "Aprobación del propietario",
+      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Trabajamos con piezas homologadas y procedimientos de la marca."
+      "title": "Ejecución con estándares BMW",
+      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
     },
     {
-      "title": "Prueba final",
-      "body": "Verificamos en carretera que la avería queda resuelta."
+      "title": "Verificación final y seguimiento",
+      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en los BMW que se mueven a diario entre el polígono y la autopista.",
+  "commonIssuesIntro": "Estos son los problemas más frecuentes que diagnosticamos y reparamos en los BMW que circulan por Montornès del Vallès y su entorno, muchos de ellos relacionados con los patrones de conducción habituales de la zona.",
   "commonIssues": [
     {
-      "title": "Vanos / Valvetronic",
-      "body": "Pérdida de potencia y ralentí irregular en motores de gasolina con kilometraje alto."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     },
     {
-      "title": "Turbo desgastado",
-      "body": "El uso mixto ciudad-autopista acelera el desgaste del turbo."
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "Los trayectos cortos y la conducción urbana por Montornès del Vallès impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Ruido metálico en frío, típico de los motores N47 y N20."
+      "title": "Averías en el sistema de suspensión adaptativa",
+      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Tirones al cambiar de marcha por aceite degradado."
+      "title": "Fallos en el sistema Valvetronic/VANOS",
+      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
     },
     {
-      "title": "Sensores de presión de rail",
-      "body": "Fallos intermitentes que afectan al consumo y rendimiento."
+      "title": "Consumo excesivo de aceite en motores turbo",
+      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
     }
   ],
   "whyUs": [
     {
-      "title": "Cerca de la AP-7 y C-17",
-      "body": "Fácil acceso desde Montornès del Vallès y su polígono industrial."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Diagnosis de nivel oficial",
-      "body": "Mismo software que la red oficial BMW."
+      "title": "Atención personalizada y ágil",
+      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin sorpresas ni añadidos de última hora."
+      "title": "Ahorro real de hasta el 50%",
+      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
     },
     {
-      "title": "Especialización real",
-      "body": "Mecánicos formados específicamente en BMW."
+      "title": "Experiencia contrastada",
+      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
     },
     {
-      "title": "Garantía en cada reparación",
-      "body": "Todo trabajo queda documentado y respaldado."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     }
   ],
-  "zoneText": "Damos servicio a Montornès del Vallès y a los municipios cercanos del Vallès Oriental.",
-  "faqLocal": [
-    {
-      "q": "¿Está lejos el taller desde Montornès?",
-      "a": "El acceso por la AP-7 y la C-17 es directo desde Montornès del Vallès."
-    },
-    {
-      "q": "¿Diagnostican fallos de turbo con precisión?",
-      "a": "Sí, con equipo oficial que identifica el origen exacto de la avería."
-    },
-    {
-      "q": "¿Trabajan con vehículos de empresa?",
-      "a": "Sí, atendemos tanto particulares como flotas de autónomos y empresas."
-    },
-    {
-      "q": "¿Cuánto tarda un mantenimiento estándar?",
-      "a": "Normalmente se completa en el mismo día."
-    },
-    {
-      "q": "¿Hacen diagnosis de caja automática ZF?",
-      "a": "Sí, tanto mantenimiento como reparación de averías electrónicas."
-    },
-    {
-      "q": "¿Ofrecen presupuesto antes de reparar?",
-      "a": "Siempre, por escrito y aprobado por el cliente."
-    },
-    {
-      "q": "¿Puedo dejar el coche fuera de horario?",
-      "a": "Sí, disponemos de buzón de llaves para entregas fuera de horario."
-    }
-  ],
-  "closingHeadline": "El taller BMW de Montornès del Vallès en el que confiar",
-  "closingCta": "Pide cita hoy y conduce con la tranquilidad de un diagnóstico oficial.",
-  "testimonialsIntro": "Clientes de Montornès del Vallès valoran nuestra especialización.",
+  "testimonialsIntro": "Propietarios de BMW de Montornès del Vallès y alrededores que han descubierto que calidad técnica y precio justo no son incompatibles.",
   "testimonials": [
     {
-      "name": "Ferran Duran",
-      "neighborhood": "Montornès del Vallès centro",
-      "body": "Uso el coche para trabajo y no podía perder días. Lo arreglaron rápido y bien explicado.",
+      "name": "Sílvia",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 225xe F45 Active Tourer 2020",
+      "body": "Como profesional autónomo, dependo de mi BMW 225xe para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de Montornès del Vallès no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
+      "rating": 4
+    },
+    {
+      "name": "Miquel",
+      "neighborhood": "Barri antic",
+      "car": "BMW X1 sDrive18d F48 2019",
+      "body": "El filtro de partículas de mi BMW X1 empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
       "rating": 5
     },
     {
-      "name": "Carla Nogué",
-      "neighborhood": "Montornès",
-      "body": "Precio mucho más ajustado que el concesionario y el mismo nivel de diagnóstico.",
-      "rating": 4
+      "name": "Rosa",
+      "neighborhood": "Centre de Montornès del Vallès",
+      "car": "BMW M340i G20 2022",
+      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW M340i, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
+      "rating": 5
+    },
+    {
+      "name": "Xavier",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 316d F30 2017",
+      "body": "Como profesional autónomo, dependo de mi BMW 316d para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de Montornès del Vallès no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
+      "rating": 5
     }
   ],
+  "zoneText": "Damos servicio especializado BMW a toda la zona de Montornès del Vallès y municipios colindantes. Si resides en Montornès del Vallès, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
   "zoneNeighborhoods": [
-    "Montornès del Vallès centro",
-    "Polígono industrial",
-    "Granollers (zona próxima)",
-    "Vallromanes (zona próxima)"
+    "Centre de Montornès del Vallès",
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
+    "C-32 (Autopista del Maresme)",
+    "C-33 (Autopista del Vallès)",
     "AP-7",
-    "C-17"
-  ]
+    "C-17 (Eix Transversal)",
+    "N-II (Carretera de Francia)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
+      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+    },
+    {
+      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
+      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Montornès del Vallès, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    },
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    }
+  ],
+  "closingHeadline": "Tu BMW, en manos expertas en Montornès del Vallès",
+  "closingCta": "Solicita tu presupuesto sin compromiso. Llámanos, escríbenos por WhatsApp o envíanos un email y comprueba la diferencia de mantener tu BMW con especialistas en Montornès del Vallès.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
