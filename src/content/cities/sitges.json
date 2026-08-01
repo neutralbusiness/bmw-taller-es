@@ -6,164 +6,178 @@
   "population": 27668,
   "lat": 41.23506,
   "lng": 1.81193,
-  "metaTitle": "Taller BMW en Sitges | Especialistas en el Garraf",
-  "metaDescription": "Taller especializado BMW en Sitges, Garraf. Diagnosis original, mecánica y mantenimiento con garantía escrita. Presupuesto sin compromiso.",
-  "heroSubtitle": "El taller BMW de confianza en la costa del Garraf",
+  "metaTitle": "Especialistas BMW en Sitges — Revisión y reparación con garantía",
+  "metaDescription": "Especialistas BMW en Sitges. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Sitges? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
+      "icon": "✅",
+      "text": "Garantía BMW intacta"
     },
     {
       "icon": "🔧",
-      "text": "Especialistas BMW"
+      "text": "Solo BMW, sin excepciones"
     },
     {
       "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
+      "text": "Software ISTA/Rheingold"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios OE de primer equipo"
     },
     {
       "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
+      "text": "Ahorro real vs concesionario"
     }
   ],
-  "introLocal": "Sitges combina su condición de destino turístico internacional con una población que se multiplica en verano y un parque de vehículos de alto nivel, incluida una presencia notable de BMW deportivos y descapotables. El acceso por la C-32 hacia Barcelona y por la C-15 hacia el Penedès es constante durante todo el año, con especial intensidad en fines de semana y meses estivales.\n\nLa humedad salina de la costa del Garraf, similar a otras zonas litorales, acelera la corrosión de conexiones eléctricas y bajos de carrocería, algo que revisamos con atención especial en los BMW de la zona, sobre todo en aquellos que pasan largas temporadas aparcados cerca del mar.\n\nTambién atendemos a una comunidad importante de propietarios de BMW clásicos y deportivos que disfrutan de las carreteras de montaña hacia Olivella y el Parc del Garraf, donde el desgaste de frenos y suspensión es notablemente mayor que en el uso puramente urbano de la villa.",
-  "servicesIntro": "Mecánica, electrónica y mantenimiento BMW con recambios homologados y diagnosis original, adaptado al clima costero y al uso turístico de la zona.",
-  "processIntro": "Un proceso profesional pensado para la variedad de vehículos BMW que circulan por Sitges.",
+  "introLocal": "Muchos conductores de BMW que residen en Sitges o sus alrededores asumen que el concesionario oficial es la única opción para mantener su vehículo en condiciones óptimas y conservar la garantía. Sin embargo, el Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente dónde realizas el mantenimiento de tu coche, siempre que el taller siga los protocolos del fabricante y utilice recambios de calidad equivalente. Tanto si vives en Centre de Sitges, Barri antic o cualquier otra zona de Sitges, tienes derecho a una alternativa profesional que te ahorre dinero sin sacrificar ni un ápice de calidad.\n\nLa realidad es que un BMW no funciona igual en Sitges que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la AP-7 (Autopista del Mediterráneo), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Sitges que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Sitges que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Sitges y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
+  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Sitges, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
+  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
   "processSteps": [
     {
-      "title": "Recepción y análisis",
-      "body": "Escuchamos el síntoma y revisamos el historial del vehículo."
+      "title": "Diagnóstico ISTA completo",
+      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
     },
     {
-      "title": "Diagnosis con equipo BMW",
-      "body": "Lectura completa de todas las centralitas con software oficial."
+      "title": "Presupuesto cerrado y detallado",
+      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
     },
     {
-      "title": "Presupuesto detallado",
-      "body": "Explicación clara antes de iniciar cualquier reparación."
+      "title": "Tu aprobación antes de actuar",
+      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
     },
     {
-      "title": "Reparación especializada",
-      "body": "Técnicos formados exclusivamente en BMW, con recambios homologados."
+      "title": "Reparación especializada BMW",
+      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
     },
     {
-      "title": "Prueba y entrega",
-      "body": "Prueba de ruta real por carretera de costa y montaña."
+      "title": "Entrega verificada y seguimiento",
+      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
     }
   ],
-  "commonIssuesIntro": "Averías habituales en los BMW de Sitges, por la humedad salina y el uso turístico de la zona.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Sitges presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
   "commonIssues": [
     {
-      "title": "Vanos y Valvetronic",
-      "body": "Ruido metálico en frío, habitual tras periodos largos de parada."
+      "title": "Fugas de aceite en juntas y retenes",
+      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
     },
     {
-      "title": "Turbo",
-      "body": "Desgaste acelerado en modelos deportivos con uso exigente en carreteras de montaña."
+      "title": "Problemas con la caja de cambios automática ZF",
+      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
     },
     {
-      "title": "Cadena de distribución",
-      "body": "Revisión preventiva del tensor en N47 antes de averías mayores."
+      "title": "Desgaste prematuro de frenos",
+      "body": "La conducción urbana por Sitges, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
     },
     {
-      "title": "Caja ZF 8HP",
-      "body": "Tirones resueltos con el aceite específico ZF correcto."
+      "title": "Fallos en inyectores piezoeléctricos",
+      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
     },
     {
-      "title": "Corrosión por salinidad",
-      "body": "Fallos eléctricos intermitentes agravados por la humedad costera del Garraf."
+      "title": "Avería de la cadena de distribución (N47/N57)",
+      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Sitges. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
     }
   ],
   "whyUs": [
     {
-      "title": "Especialización exclusiva BMW",
-      "body": "Todo el taller orientado a una sola marca."
+      "title": "Presupuestos cerrados y transparentes",
+      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
     },
     {
-      "title": "Diagnosis de nivel oficial",
-      "body": "Mismo software que un concesionario oficial."
+      "title": "Recambios OE de primer equipo",
+      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
     },
     {
-      "title": "Atención al detalle costero",
-      "body": "Revisamos especialmente puntos sensibles a la corrosión salina."
+      "title": "Especialización exclusiva en BMW",
+      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
     },
     {
-      "title": "Presupuesto cerrado",
-      "body": "Sin ampliaciones sorpresa en la factura."
+      "title": "Mantenimiento sin perder garantía",
+      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
     },
     {
-      "title": "Garantía documentada",
-      "body": "Cada reparación incluye garantía por escrito."
+      "title": "Diagnóstico ISTA de nivel oficial",
+      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
     }
   ],
-  "zoneText": "Damos servicio a Sitges y sus urbanizaciones, en la comarca del Garraf junto al mar Mediterráneo.",
-  "faqLocal": [
-    {
-      "q": "¿Trabajáis con modelos deportivos BMW?",
-      "a": "Sí, incluidos M Series y descapotables."
-    },
-    {
-      "q": "¿Revisáis la corrosión por salinidad?",
-      "a": "Sí, es un punto que inspeccionamos siempre en vehículos de la costa."
-    },
-    {
-      "q": "¿Necesito cita previa?",
-      "a": "Sí, para reservar tiempo de diagnosis dedicado."
-    },
-    {
-      "q": "¿Mantengo la garantía de fábrica?",
-      "a": "Sí, seguimos el plan de mantenimiento oficial."
-    },
-    {
-      "q": "¿Dais coche de sustitución?",
-      "a": "Según disponibilidad, consúltalo al reservar."
-    },
-    {
-      "q": "¿Atendéis vehículos con uso estacional?",
-      "a": "Sí, revisamos especialmente vehículos que pasan largas temporadas parados."
-    },
-    {
-      "q": "¿Cuánto tarda un diagnóstico?",
-      "a": "Entre 30 y 60 minutos habitualmente."
-    }
-  ],
-  "closingHeadline": "El especialista BMW de confianza en Sitges",
-  "closingCta": "Solicita tu cita en el taller BMW de Sitges",
-  "testimonialsIntro": "Clientes de Sitges que confían en nuestro taller especializado.",
+  "testimonialsIntro": "Conductores de BMW en Sitges que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
   "testimonials": [
     {
-      "name": "Ferran Casanovas",
+      "name": "Meritxell",
       "neighborhood": "Centre de Sitges",
-      "body": "Diagnóstico honesto de una avería eléctrica intermitente que otro taller no supo resolver.",
+      "car": "BMW M340i G20 2022",
+      "body": "Necesitaba un cambio de embrague en mi BMW M340i y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     },
     {
-      "name": "Claudia Berger",
-      "neighborhood": "Terramar",
-      "body": "Revisión completa de mi descapotable antes del verano, todo perfecto.",
+      "name": "Arnau",
+      "neighborhood": "Zona residencial",
+      "car": "BMW 316d F30 2017",
+      "body": "Me saltó el aviso de motor en el BMW 316d cuando circulaba cerca de Sitges. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
       "rating": 5
     },
     {
-      "name": "Robert Wilson",
-      "neighborhood": "Vallpineda",
-      "body": "Cambio de turbo bien explicado y a un precio razonable para un modelo deportivo.",
+      "name": "Irene",
+      "neighborhood": "Barri antic",
+      "car": "BMW X6 xDrive30d G06 2021",
+      "body": "Buscaba activar funciones de codificación en mi BMW X6 y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sitges lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi",
+      "neighborhood": "Centre de Sitges",
+      "car": "BMW 320d G20 2021",
+      "body": "Necesitaba un cambio de embrague en mi BMW 320d y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
       "rating": 5
     }
   ],
+  "zoneText": "Nuestra cobertura abarca Sitges y los municipios de su entorno. Recibimos clientes de todo Sitges. La red viaria de la zona, con accesos como AP-7, C-32, C-31, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
   "zoneNeighborhoods": [
     "Centre de Sitges",
-    "Terramar",
-    "Vallpineda",
-    "Can Girona"
+    "Barri antic",
+    "Zona residencial"
   ],
   "zoneAccessRoutes": [
-    "C-32 hacia Barcelona",
-    "C-15 hacia el Penedès",
-    "BV-2115 hacia Olivella"
-  ]
+    "AP-7 (Autopista del Mediterráneo)",
+    "C-32 (Autopista del Garraf)",
+    "C-31 (Autovía de Castelldefels)"
+  ],
+  "faqLocal": [
+    {
+      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
+      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+    },
+    {
+      "q": "¿Realizáis codificaciones y actualizaciones de software?",
+      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+    },
+    {
+      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
+      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+    },
+    {
+      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
+      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
+    },
+    {
+      "q": "¿Qué aceite utilizáis en las revisiones?",
+      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+    },
+    {
+      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
+      "a": "Para un uso predominantemente urbano con trayectos cortos en Sitges, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+    }
+  ],
+  "closingHeadline": "Especialistas BMW a tu servicio en Sitges",
+  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Sitges.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
