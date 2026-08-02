@@ -4,179 +4,84 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 255,
-  "lat": 42.04174,
-  "lng": 1.75294,
-  "metaTitle": "Taller BMW en l'Espunyola — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en l'Espunyola: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
-  "heroSubtitle": "Tu BMW merece un especialista. En l'Espunyola, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
+  "lat": 42.0417,
+  "lng": 1.7529,
+  "metaTitle": "Taller BMW en l'Espunyola | Servicio a Domicilio Rural BMW",
+  "metaDescription": "Servicio BMW especializado para l'Espunyola y masías del Berguedà. Recogida a domicilio, diagnóstico profesional y mantenimiento adaptado al entorno rural. Llámanos.",
+  "heroSubtitle": "Vivir en una masía no significa renunciar a un servicio BMW de primer nivel. Llegamos hasta tu puerta en l'Espunyola.",
   "trustChips": [
-    {
-      "icon": "🛡️",
-      "text": "Sin perder tu garantía"
-    },
-    {
-      "icon": "🔧",
-      "text": "Mecánica especializada BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "ISTA + recambio OE"
-    },
-    {
-      "icon": "💰",
-      "text": "Tarifas competitivas"
-    },
-    {
-      "icon": "✅",
-      "text": "Aceite homologado LL-04"
-    }
+    {"icon": "🏡", "text": "Recogida en masías"},
+    {"icon": "🔌", "text": "Diagnóstico electrónico BMW"},
+    {"icon": "🛣️", "text": "Adaptado a uso rural"},
+    {"icon": "📋", "text": "Garantía por escrito"},
+    {"icon": "🚗", "text": "Vehículo de sustitución"},
+    {"icon": "💬", "text": "Atención por WhatsApp"}
   ],
-  "introLocal": "Si conduces un BMW en l'Espunyola, probablemente ya te has preguntado alguna vez si realmente necesitas acudir al concesionario oficial para las revisiones y reparaciones de tu vehículo. La respuesta es clara: no. La normativa europea, a través del Reglamento (UE) 461/2010, te garantiza el derecho a elegir el taller que prefieras sin perder la garantía del fabricante, siempre que este cumpla los estándares técnicos de BMW. En l'Espunyola, cada vez más propietarios de BMW optan por talleres especializados independientes que ofrecen la misma calidad técnica que el servicio oficial, pero con un trato más cercano y precios significativamente más ajustados.\n\nConocemos de primera mano las particularidades del uso de un BMW en esta zona de la provincia de Barcelona. Los desplazamientos diarios por la C-16 (Eix del Llobregat) y la A-2 (Autovía del Nordeste), combinados con la conducción urbana dentro de l'Espunyola, generan un patrón de uso mixto que afecta de forma específica a componentes críticos del vehículo. Los motores diésel B47 y B57, muy populares en los modelos Serie 3 y X3, son especialmente sensibles a los trayectos cortos: los ciclos de regeneración del filtro de partículas (DPF) necesitan tramos de conducción sostenida que no siempre se completan. En los motores de gasolina B48 y B58, la conducción urbana con arranques y paradas frecuentes puede acelerar la acumulación de carbonilla en las válvulas de admisión. Nuestro enfoque preventivo tiene en cuenta estas variables para anticiparnos a los problemas.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en l'Espunyola. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nNuestra propuesta para los conductores de BMW en l'Espunyola es sencilla: la misma calidad técnica que el concesionario oficial, con mayor flexibilidad, mejor trato y precios más justos. Cada intervención que realizamos respeta escrupulosamente los protocolos de BMW, utilizando recambios OE y aceites homologados que mantienen tu garantía intacta. Tanto si vives en el centro de l'Espunyola como en sus alrededores, encontrarás un equipo técnico que conoce tu coche y que se compromete con resultados, no con promesas.",
-  "servicesIntro": "En l'Espunyola, cubrimos todas las necesidades de tu BMW: desde el mantenimiento rutinario y las revisiones CBS hasta diagnósticos complejos, codificaciones y reparaciones de alta especialización.",
-  "processIntro": "Nuestro proceso de trabajo está diseñado para que tengas el control en todo momento: diagnóstico, presupuesto y tu aprobación antes de actuar.",
+  "servicesIntro": "Proporcionamos mantenimiento y reparación completa para todos los modelos BMW, con especial atención a las necesidades de los vehículos que circulan por entornos rurales: revisiones periódicas con intervalos adaptados, reparación de motor y turbo, sustitución de embragues y cajas de cambio, mantenimiento reforzado de suspensión y dirección, revisión de sistemas anticontaminación y gestión del AdBlue. Utilizamos herramientas de diagnóstico específicas BMW y piezas de calidad original.",
+  "processIntro": "Hemos diseñado un proceso pensado para quienes viven lejos de todo. Sabemos que en l'Espunyola desplazarse a un taller puede suponer media mañana perdida, así que nos organizamos para que pierdas el menor tiempo posible.",
   "processSteps": [
-    {
-      "title": "Evaluación inicial con ISTA",
-      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
-    },
-    {
-      "title": "Propuesta económica transparente",
-      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
-    },
-    {
-      "title": "Aprobación del propietario",
-      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
-    },
-    {
-      "title": "Ejecución con estándares BMW",
-      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
-    },
-    {
-      "title": "Verificación final y seguimiento",
-      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
-    }
+    {"title": "Consulta rápida por teléfono o WhatsApp", "body": "Cuéntanos qué le pasa a tu BMW o qué revisión necesita. Si puedes, envíanos una foto del testigo del salpicadero o del componente afectado. Te damos una primera orientación al momento."},
+    {"title": "Recogida en tu domicilio o masía", "body": "Coordinamos día y franja horaria para recoger tu vehículo directamente en tu finca. Cubrimos todo el término municipal de l'Espunyola, incluidos los núcleos de El Guixar, Capolat y las masías dispersas accesibles por pista."},
+    {"title": "Diagnóstico e informe fotográfico", "body": "Realizamos una inspección completa con equipo electrónico BMW y te enviamos un informe por WhatsApp con fotos y explicación de cada hallazgo, para que puedas decidir con información real."},
+    {"title": "Reparación y control de calidad", "body": "Ejecutamos los trabajos aprobados con piezas garantizadas. Antes de devolver el coche, hacemos una prueba de rodaje para verificar que todo funciona correctamente."},
+    {"title": "Entrega en tu puerta", "body": "Te devolvemos el BMW en tu domicilio con la factura detallada y las recomendaciones de mantenimiento futuro. Sin desplazamientos innecesarios por tu parte."}
   ],
-  "commonIssuesIntro": "Estos son los problemas más frecuentes que diagnosticamos y reparamos en los BMW que circulan por l'Espunyola y su entorno, muchos de ellos relacionados con los patrones de conducción habituales de la zona.",
+  "introLocal": "L'Espunyola es uno de esos municipios del Berguedà que no se entienden sin recorrerlos. No hay un núcleo urbano compacto: la población se reparte entre masías centenarias, pequeños vecindarios y casas aisladas esparcidas por un territorio de colinas suaves cubiertas de encinas y robles. Aquí, tener un coche fiable no es una comodidad, es una necesidad absoluta. El supermercado más cercano está en Berga, a veinte minutos por una carretera comarcal con curvas. El médico, la farmacia, el colegio de los niños: todo requiere coger el coche. Y cuando ese coche es un BMW, necesita un mantenimiento que esté a la altura de lo que se le exige.\n\nLos caminos que conectan las masías de l'Espunyola con la carretera principal son, en muchos casos, pistas asfaltadas estrechas o incluso tramos de tierra compactada. Un BMW X3, un X1 o un Serie 3 Touring —modelos habituales entre los propietarios de fincas rurales— afronta cada día baches, gravilla suelta, badenes de hormigón y pendientes pronunciadas para acceder a la finca. Este tipo de uso castiga especialmente los componentes de la parte inferior del vehículo: protecciones del cárter, tubos de escape, manguitos de refrigeración, amortiguadores y brazos de suspensión. Un mantenimiento estándar de ciudad no contempla la revisión de estos elementos con la frecuencia que este entorno requiere.\n\nLa distancia a cualquier servicio técnico es un factor determinante en l'Espunyola. El concesionario BMW más próximo está en Manresa o Vic, a más de una hora de conducción. Llevar el coche implica perder una mañana entera, más el problema de cómo volver a casa sin vehículo en una zona sin transporte público de frecuencia razonable. Nosotros eliminamos ese problema: recogemos tu BMW en tu masía o domicilio, realizamos el trabajo en nuestro taller equipado y te lo devolvemos reparado. Así de sencillo.\n\nEl clima de la zona central del Berguedà añade exigencias propias. L'Espunyola se sitúa a unos 700 metros de altitud, lo bastante alto para que las heladas sean habituales de noviembre a marzo y las nieblas matinales dificulten la conducción durante semanas enteras en otoño. Los diésel BMW modernos necesitan que el sistema AdBlue funcione correctamente incluso a temperaturas bajo cero; si el líquido se congela en el depósito o en las líneas de inyección, el motor puede entrar en modo de emergencia y limitar la potencia a 80 km/h. Verificamos el calefactor del depósito AdBlue, la bomba dosificadora y el sensor de nivel en cada revisión de invierno.\n\nPero el uso rural de un BMW no solo implica desgaste mecánico. Los vehículos aparcados al exterior en masías —sin garaje cerrado, expuestos al rocío, la escarcha y el sol directo— sufren un envejecimiento acelerado de juntas de goma, latiguillos de freno y conectores eléctricos. La humedad del Berguedà, alimentada por la proximidad del Llobregat y la vegetación densa, se infiltra en rincones que un taller convencional ni siquiera revisa. Nosotros inspeccionamos el cableado del compartimento motor, los conectores de sensores y las tomas de masa como parte de nuestra revisión habitual, porque sabemos que en esta zona son puntos de fallo frecuente.\n\nAtender a los vecinos de l'Espunyola significa entender un modo de vida donde el coche es el eslabón que conecta la masía con el mundo. No podemos permitir que un BMW deje tirado a su propietario en un camino sin cobertura móvil a las siete de la mañana de un martes de enero. Por eso nuestro mantenimiento preventivo es más exhaustivo, nuestros plazos de entrega más ajustados y nuestra disponibilidad telefónica más amplia que la de cualquier concesionario urbano. Porque aquí, cada día sin coche es un día de aislamiento.",
+  "commonIssuesIntro": "Los BMW que se utilizan a diario en el entorno rural de l'Espunyola desarrollan problemas específicos derivados del tipo de vías, la exposición a la intemperie y las distancias que recorren. Estos son los que tratamos con mayor frecuencia.",
   "commonIssues": [
-    {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
-    },
-    {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
-    },
-    {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
-    },
-    {
-      "title": "Obstrucción del filtro de partículas (DPF)",
-      "body": "Los trayectos cortos y la conducción urbana por l'Espunyola impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
-    },
-    {
-      "title": "Averías en el sistema de suspensión adaptativa",
-      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
-    }
+    {"title": "Deterioro de manguitos y latiguillos por exposición a la intemperie", "body": "Los BMW aparcados al exterior en masías sufren un envejecimiento acelerado de las gomas del compartimento motor. Los manguitos de refrigeración, los latiguillos de freno y las juntas de culata de goma se agrietan antes de tiempo por los ciclos térmicos extremos (helada nocturna seguida de sol directo). Los sustituimos preventivamente antes de que provoquen una fuga o un fallo."},
+    {"title": "Congelación del sistema AdBlue en invierno", "body": "El líquido AdBlue se congela a –11 °C. En l'Espunyola, esa temperatura se alcanza varias noches al año. Si el calefactor del depósito falla, el sistema entra en avería y limita la potencia del motor. Verificamos el calefactor, la bomba dosificadora y el sensor de nivel antes de cada temporada de frío."},
+    {"title": "Daños en protecciones inferiores y cárter", "body": "Los caminos de acceso a masías tienen piedras sueltas, badenes y baches profundos que golpean la parte baja del vehículo. Las protecciones plásticas del cárter se rompen o deforman, dejando expuestos componentes mecánicos sensibles. Revisamos y sustituimos estas protecciones con material reforzado."},
+    {"title": "Corrosión de conectores eléctricos por humedad", "body": "La humedad ambiental del Berguedà central penetra en los conectores de sensores y centralitas, provocando fallos intermitentes difíciles de diagnosticar: testigos que se encienden y apagan, lecturas erráticas de temperatura o problemas esporádicos de inyección. Limpiamos, sellamos y protegemos los conectores con grasa dieléctrica."},
+    {"title": "Desgaste irregular de neumáticos por caminos sin asfaltar", "body": "La circulación frecuente por pistas de tierra o asfalto deteriorado provoca desalineaciones y desgaste irregular de los neumáticos. Realizamos alineación de geometría con equipo 3D y recomendamos rotaciones más frecuentes para maximizar la vida útil del juego."}
   ],
   "whyUs": [
-    {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
-    },
-    {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
-    },
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    },
-    {
-      "title": "Experiencia contrastada",
-      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
-    },
-    {
-      "title": "Recambios OE de primer equipo",
-      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
-    }
+    {"title": "Servicio puerta a puerta en zona rural", "body": "Recogemos y entregamos tu BMW en cualquier punto de l'Espunyola, incluidas masías y fincas dispersas. No necesitas desplazarte ni buscar cómo volver a casa sin coche."},
+    {"title": "Revisiones adaptadas al uso real", "body": "No aplicamos los intervalos de mantenimiento de ciudad. Para un BMW que circula por pistas y caminos rurales, acortamos los plazos de revisión de suspensión, filtros y componentes expuestos a la intemperie."},
+    {"title": "Comunicación clara y sin tecnicismos", "body": "Te explicamos lo que tiene tu coche de forma comprensible, con fotos y sin jerga innecesaria. Recibes el informe por WhatsApp y puedes consultarnos cualquier duda antes de aprobar el presupuesto."},
+    {"title": "Disponibilidad amplia para urgencias", "body": "Sabemos que en zona rural quedarse sin coche es un problema grave. Por eso atendemos consultas por WhatsApp fuera del horario estándar y priorizamos las reparaciones que dejan al propietario sin movilidad."},
+    {"title": "Historial de mantenimiento digitalizado", "body": "Registramos cada intervención en un historial digital vinculado a tu vehículo. Esto te permite acreditar el mantenimiento en caso de venta y nos ayuda a anticipar necesidades futuras según el uso acumulado."}
   ],
-  "testimonialsIntro": "Propietarios de BMW de l'Espunyola y alrededores que han descubierto que calidad técnica y precio justo no son incompatibles.",
+  "testimonialsIntro": "Propietarios de BMW en l'Espunyola y masías del entorno ya han probado nuestro servicio de recogida a domicilio y mantenimiento especializado. Así valoran la experiencia.",
   "testimonials": [
-    {
-      "name": "Gemma",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 530e G30 2021",
-      "body": "Como profesional autónomo, dependo de mi BMW 530e para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de l'Espunyola no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
-      "rating": 4
-    },
-    {
-      "name": "Ferran",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X3 xDrive30e G01 2023",
-      "body": "El filtro de partículas de mi BMW X3 empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
-      "rating": 5
-    },
-    {
-      "name": "Meritxell",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 430i G23 Cabrio 2022",
-      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW 430i, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
-      "rating": 5
-    },
-    {
-      "name": "Arnau",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X3 xDrive20d G01 2022",
-      "body": "Como profesional autónomo, dependo de mi BMW X3 para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de l'Espunyola no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
-      "rating": 5
-    }
+    {"name": "Francesc Riera", "neighborhood": "l'Espunyola (Cal Rosal)", "car": "BMW X3 xDrive20d", "body": "Vivo en una masía a 4 km del pueblo y el camino es de pista. Vinieron a buscar el X3, me lo devolvieron dos días después con la suspensión revisada, las protecciones del cárter nuevas y un informe completísimo. No he encontrado nada parecido en toda la comarca.", "rating": 5},
+    {"name": "Gemma Puigdomènech", "neighborhood": "Berga", "car": "BMW 320d Touring", "body": "Llevé el coche porque se encendía el testigo del AdBlue justo antes del invierno. Me cambiaron el calefactor del depósito y comprobaron toda la línea. Este enero, con –9 grados, ni un solo problema. Tranquilidad total.", "rating": 5},
+    {"name": "Ramon Vilardaga", "neighborhood": "l'Espunyola (El Guixar)", "car": "BMW 520d", "body": "Tenía fallos eléctricos intermitentes que nadie me sabía resolver: el motor de arranque a veces no respondía y el cuadro daba errores aleatorios. Resultó que varios conectores del motor estaban oxidados por la humedad. Los limpiaron, sellaron y desde entonces cero problemas.", "rating": 5},
+    {"name": "Sílvia Camps", "neighborhood": "Capolat", "car": "BMW X1 sDrive18d", "body": "Lo que más valoro es que no tengo que perder un día entero para llevar el coche al taller. Me lo recogen en casa por la mañana y me lo traen por la tarde. Para vivir en Capolat, esto es impagable. Y el trabajo técnico, impecable.", "rating": 5}
   ],
-  "zoneText": "Damos servicio especializado BMW a toda la zona de l'Espunyola y municipios colindantes. Si resides en l'Espunyola, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-16, A-2, Red viaria comarcal— facilitan el desplazamiento desde cualquier punto de la comarca.",
+  "zoneText": "Cubrimos todo el término municipal de l'Espunyola y los municipios colindantes del Berguedà central. Nuestro servicio de recogida y entrega a domicilio alcanza todas las masías y núcleos accesibles por pista asfaltada, así como los pueblos cercanos en un radio de 20 kilómetros.",
   "zoneNeighborhoods": [
-    "Centre de l'Espunyola",
-    "Zona residencial"
+    "Berga",
+    "Capolat",
+    "Montmajor",
+    "Avià",
+    "Casserres",
+    "Puig-reig",
+    "Gironella",
+    "Navàs"
   ],
   "zoneAccessRoutes": [
     "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)",
-    "Red viaria comarcal"
+    "C-26 (Eix Transversal, hacia Solsona)",
+    "BV-4131",
+    "BV-4235 (hacia Capolat)"
   ],
   "faqLocal": [
-    {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
-    },
-    {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
-    },
-    {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
-    },
-    {
-      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
-      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
-    },
-    {
-      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
-      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
-    }
+    {"q": "¿De verdad recogéis el coche en masías alejadas de l'Espunyola?", "a": "Sí, recogemos tu BMW en cualquier masía o finca del término municipal de l'Espunyola y alrededores, siempre que sea accesible por pista asfaltada o camino transitable. Coordinamos la recogida por WhatsApp y acordamos franja horaria para no hacerte esperar."},
+    {"q": "¿Qué hago si mi BMW se queda sin arrancar en la masía?", "a": "Llámanos o escríbenos por WhatsApp. Evaluamos la situación por teléfono y, si es un problema de batería o avería menor, nos desplazamos con el equipo necesario. Si requiere taller, organizamos la grúa y nos encargamos de toda la gestión."},
+    {"q": "¿Cómo afecta aparcar el BMW al exterior durante todo el año?", "a": "La exposición permanente a la intemperie acelera el deterioro de juntas de goma, latiguillos de freno, limpiaparabrisas y conectores eléctricos. También favorece la condensación dentro del motor, que puede degradar el aceite. Recomendamos revisiones semestrales en lugar de anuales si el vehículo no tiene garaje."},
+    {"q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos sin asfaltar?", "a": "Si tu BMW recorre pistas de tierra o caminos en mal estado con frecuencia, recomendamos revisar amortiguadores, silentblocks y rótulas cada 20.000 km, aproximadamente la mitad del intervalo estándar de ciudad. Una inspección a tiempo evita averías en cascada que afectan a la dirección y la estabilidad."},
+    {"q": "¿Puedo congelar el sistema AdBlue de mi BMW si no tiene garaje?", "a": "El AdBlue se congela a –11 °C. Los BMW diésel modernos incluyen un calefactor en el depósito que evita el problema, pero si ese calefactor falla, el líquido se solidifica y el motor entra en modo de emergencia. Verificamos el calefactor antes de cada invierno en nuestra revisión estacional."},
+    {"q": "¿Hacéis también la ITV o solo reparaciones?", "a": "Preparamos tu BMW para la ITV: revisamos todos los puntos que se inspeccionan (luces, frenos, emisiones, dirección, suspensión) y corregimos lo necesario antes de la cita. También podemos gestionar la cita en la estación ITV de Berga si lo prefieres."}
   ],
-  "closingHeadline": "Tu BMW, en manos expertas en l'Espunyola",
-  "closingCta": "Solicita tu presupuesto sin compromiso. Llámanos, escríbenos por WhatsApp o envíanos un email y comprueba la diferencia de mantener tu BMW con especialistas en l'Espunyola.",
+  "closingHeadline": "Vivir lejos no es vivir sin servicio BMW",
+  "closingCta": "Llámanos o envíanos un WhatsApp. Recogemos tu BMW en tu masía de l'Espunyola y te lo devolvemos en perfectas condiciones, sin que tengas que moverte.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

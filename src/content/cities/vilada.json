@@ -4,181 +4,166 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 486,
-  "lat": 42.13553,
-  "lng": 1.92844,
-  "metaTitle": "Especialistas BMW en Vilada — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en Vilada. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
-  "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Vilada? Somos especialistas independientes con la misma tecnología que el concesionario.",
+  "lat": 42.102,
+  "lng": 1.925,
+  "metaTitle": "Taller BMW en Vilada | Especialistas BMW cerca del Pantà de la Baells",
+  "metaDescription": "Taller especializado en BMW en Vilada, junto al Pantà de la Baells. Reparación, diagnóstico y mantenimiento BMW en el Berguedà. Presupuesto sin compromiso.",
+  "heroSubtitle": "Especialistas BMW en Vilada, junto al Pantà de la Baells. Reparación y mantenimiento adaptados al clima de montaña.",
   "trustChips": [
-    {
-      "icon": "🛡️",
-      "text": "Sin perder tu garantía"
-    },
-    {
-      "icon": "🔧",
-      "text": "Mecánica especializada BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "ISTA + recambio OE"
-    },
-    {
-      "icon": "💰",
-      "text": "Tarifas competitivas"
-    },
-    {
-      "icon": "✅",
-      "text": "Aceite homologado LL-04"
-    }
+    {"icon": "🔧", "text": "Técnicos BMW certificados"},
+    {"icon": "💧", "text": "Protección anticorrosión"},
+    {"icon": "💻", "text": "Diagnóstico electrónico BMW"},
+    {"icon": "📋", "text": "Presupuesto sin compromiso"},
+    {"icon": "🏔️", "text": "Servicio en zona de montaña"},
+    {"icon": "🚙", "text": "Especialistas xDrive"}
   ],
-  "introLocal": "Muchos conductores de BMW que residen en Vilada o sus alrededores asumen que el concesionario oficial es la única opción para mantener su vehículo en condiciones óptimas y conservar la garantía. Sin embargo, el Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente dónde realizas el mantenimiento de tu coche, siempre que el taller siga los protocolos del fabricante y utilice recambios de calidad equivalente. Si resides en Vilada, tienes derecho a una alternativa profesional que te ahorre dinero sin sacrificar ni un ápice de calidad.\n\nConocemos de primera mano las particularidades del uso de un BMW en esta zona de la provincia de Barcelona. Los desplazamientos diarios por la C-33 (Autopista del Vallès) y la AP-7, combinados con la conducción urbana dentro de Vilada, generan un patrón de uso mixto que afecta de forma específica a componentes críticos del vehículo. Los motores diésel B47 y B57, muy populares en los modelos Serie 3 y X3, son especialmente sensibles a los trayectos cortos: los ciclos de regeneración del filtro de partículas (DPF) necesitan tramos de conducción sostenida que no siempre se completan. En los motores de gasolina B48 y B58, la conducción urbana con arranques y paradas frecuentes puede acelerar la acumulación de carbonilla en las válvulas de admisión. Nuestro enfoque preventivo tiene en cuenta estas variables para anticiparnos a los problemas.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Vilada que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nNuestra propuesta para los conductores de BMW en Vilada es sencilla: la misma calidad técnica que el concesionario oficial, con mayor flexibilidad, mejor trato y precios más justos. Cada intervención que realizamos respeta escrupulosamente los protocolos de BMW, utilizando recambios OE y aceites homologados que mantienen tu garantía intacta. Tanto si vives en el centro de Vilada como en sus alrededores, encontrarás un equipo técnico que conoce tu coche y que se compromete con resultados, no con promesas.",
-  "servicesIntro": "En Vilada, cubrimos todas las necesidades de tu BMW: desde el mantenimiento rutinario y las revisiones CBS hasta diagnósticos complejos, codificaciones y reparaciones de alta especialización.",
-  "processIntro": "Nuestro proceso de trabajo está diseñado para que tengas el control en todo momento: diagnóstico, presupuesto y tu aprobación antes de actuar.",
+  "introLocal": "Vilada es un municipio de 486 habitantes situado en la comarca del Berguedà, a orillas del Pantà de la Baells, uno de los embalses más importantes de la provincia de Barcelona. Esta posición privilegiada junto a la gran lámina de agua confiere a Vilada unas condiciones ambientales particulares que afectan directamente a los vehículos: la humedad relativa elevada durante buena parte del año, las nieblas matinales que ascienden del embalse y los cambios bruscos de temperatura entre la orilla y las cotas más altas del municipio generan un entorno especialmente agresivo para la carrocería y los sistemas electrónicos de cualquier automóvil.\n\nEl Pantà de la Baells, con una capacidad de 109 hectómetros cúbicos, atrae durante los meses de primavera y verano a un flujo considerable de visitantes que practican pesca, senderismo y deportes acuáticos. Este turismo estacional incrementa el tráfico en las carreteras de acceso a Vilada, especialmente en la C-26 y las pistas que bordean el embalse. Para los residentes con BMW, la temporada alta supone más kilómetros recorridos en carreteras compartidas con vehículos poco habituados a las curvas de montaña, lo que exige frenos, dirección y sistemas de seguridad en perfecto estado.\n\nA diferencia de localidades cercanas como Cercs, marcada por su pasado minero e industrial, o Bagà, orientada al turismo de esquí del Cadí-Moixeró, Vilada tiene un carácter más residencial y contemplativo, ligado al paisaje del embalse y los bosques de ribera que se extienden por las laderas que rodean el pantano. El municipio atrae a familias y jubilados que buscan tranquilidad sin renunciar a la conexión con Berga y, desde allí, con Barcelona por la C-16. Sus calles y accesos se adaptan a una orografía suave pero irregular, con rampas y desniveles que obligan a maniobras constantes de arranque en cuesta. Los BMW con cambio automático gestionan bien estas situaciones, pero el convertidor de par y la transmisión acumulan estrés si no reciben el mantenimiento adecuado. Los modelos con cambio manual, por su parte, desgastan el embrague con mayor rapidez en un entorno donde los stops en pendiente son la norma.\n\nEl microclima generado por el embalse tiene consecuencias directas sobre los vehículos. La evaporación del agua durante el verano y las nieblas densas de otoño e invierno depositan una capa de humedad persistente sobre la carrocería, las juntas de goma y los conectores eléctricos. En los BMW, esto se traduce en oxidación acelerada de componentes del chasis, corrosión de los bornes de la batería y deterioro prematuro de los burletes de puertas y maletero. Un mantenimiento preventivo que tenga en cuenta estas condiciones específicas es fundamental para preservar el valor y la fiabilidad del vehículo.\n\nLa situación de Vilada, relativamente alejada de los centros urbanos con talleres oficiales BMW, hace que muchos propietarios pospongan revisiones o recurran a talleres generalistas que desconocen las particularidades de estos vehículos. Nuestro servicio está pensado precisamente para cubrir esa necesidad: técnicos especializados en BMW que conocen las condiciones del Berguedà y ofrecen recogida del vehículo en Vilada para que la distancia no sea excusa para descuidar el mantenimiento de su coche.",
+  "servicesIntro": "En Vilada y el entorno del Pantà de la Baells ofrecemos servicio técnico completo para BMW: mantenimiento preventivo con especial atención a la protección anticorrosión, reparación mecánica y electrónica, diagnóstico con equipos oficiales ISTA y preparación para ITV. Cubrimos todas las series, desde el compacto Serie 1 hasta los SUV X5 y X7.",
+  "processIntro": "Hemos diseñado un proceso ágil y transparente para que los propietarios de BMW en Vilada puedan mantener su vehículo en perfectas condiciones sin desplazamientos innecesarios.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA completo",
-      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
+      "title": "Solicitud de cita",
+      "body": "Contacte por teléfono o WhatsApp. Nos explica qué necesita su BMW y acordamos fecha y hora. Si precisa recogida en Vilada, la organizamos sin coste adicional según disponibilidad."
     },
     {
-      "title": "Presupuesto cerrado y detallado",
-      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
+      "title": "Inspección y diagnóstico",
+      "body": "Realizamos una inspección visual completa y conectamos el vehículo al sistema ISTA de BMW. Verificamos todos los módulos, consultamos el historial de averías almacenado y evaluamos el estado general."
     },
     {
-      "title": "Tu aprobación antes de actuar",
-      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
+      "title": "Presupuesto detallado",
+      "body": "Le enviamos por WhatsApp o email un presupuesto desglosado con cada operación, pieza y tiempo estimado. Usted decide qué reparaciones autorizar antes de que toquemos el coche."
     },
     {
-      "title": "Reparación especializada BMW",
-      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
-    },
-    {
-      "title": "Entrega verificada y seguimiento",
-      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
+      "title": "Reparación y control de calidad",
+      "body": "Ejecutamos los trabajos autorizados con piezas OEM y verificamos cada intervención. Realizamos pruebas funcionales y, en reparaciones de motor o transmisión, prueba en carretera por los puertos cercanos."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más frecuentes que diagnosticamos y reparamos en los BMW que circulan por Vilada y su entorno, muchos de ellos relacionados con los patrones de conducción habituales de la zona.",
+  "commonIssuesIntro": "La proximidad del Pantà de la Baells y el clima de montaña del Berguedà generan problemas específicos en los BMW que circulan habitualmente por Vilada. Estos son los más frecuentes en nuestro taller.",
   "commonIssues": [
     {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
+      "title": "Corrosión en componentes del chasis y subchasis",
+      "body": "La humedad constante del embalse acelera la oxidación del subchasis, soportes de escape y líneas de freno. En BMW con más de cinco años, es habitual encontrar corrosión avanzada en puntos donde la pintura protectora se ha deteriorado por la gravilla de las carreteras comarcales."
     },
     {
-      "title": "Avería de la cadena de distribución (N47/N57)",
-      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Vilada. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
+      "title": "Fallos en módulos electrónicos por condensación",
+      "body": "Las nieblas del Pantà de la Baells generan condensación en los módulos electrónicos ubicados en zonas bajas del vehículo: módulo de la caja de cambios, centralita del ABS y sensores de aparcamiento. Los síntomas típicos son avisos intermitentes en el cuadro y fallos esporádicos de sistemas."
     },
     {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
+      "title": "Deterioro prematuro de burletes y juntas de estanqueidad",
+      "body": "La alternancia de humedad intensa y sol directo degrada las gomas de puertas, ventanillas y maletero más rápido de lo normal. Cuando los burletes pierden elasticidad, aparecen filtraciones de agua en el habitáculo que pueden dañar la tapicería y la electrónica bajo los asientos."
     },
     {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
+      "title": "Problemas en el sistema de refrigeración (N20/B48)",
+      "body": "Los motores de gasolina turbo de BMW son sensibles a los ciclos térmicos extremos: arranques en frío a 0°C seguidos de subidas de puerto con el motor a plena carga. Las bombas de agua eléctricas y los termostatos son los componentes que más fallan en estas condiciones."
     },
     {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
+      "title": "Desgaste irregular de neumáticos por carreteras sinuosas",
+      "body": "Las continuas curvas de las carreteras que rodean el embalse provocan un desgaste asimétrico de los neumáticos, especialmente en los BMW con suspensión deportiva. Si no se corrige la alineación periódicamente, el desgaste se acelera y compromete la seguridad."
     }
   ],
   "whyUs": [
     {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
+      "title": "Especialistas en protección contra la humedad",
+      "body": "Conocemos de primera mano los efectos del microclima del Pantà de la Baells sobre los vehículos. Aplicamos tratamientos anticorrosión específicos y revisamos los puntos vulnerables que otros talleres pasan por alto."
     },
     {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
+      "title": "Equipamiento de diagnóstico oficial BMW",
+      "body": "Trabajamos con ISTA, la misma herramienta que utilizan los concesionarios oficiales. Esto nos permite leer y borrar códigos de avería, realizar codificaciones, actualizar software y programar llaves y mandos."
     },
     {
-      "title": "Recambios OE de primer equipo",
-      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
+      "title": "Servicio de proximidad en el Berguedà",
+      "body": "No necesita bajar a Manresa o Barcelona para mantener su BMW. Estamos cerca de Vilada y ofrecemos recogida del vehículo para que usted no pierda tiempo en desplazamientos."
     },
     {
-      "title": "Mantenimiento sin perder garantía",
-      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
+      "title": "Piezas originales y alternativas homologadas",
+      "body": "Utilizamos recambios BMW originales o de fabricantes OEM reconocidos como Brembo, Sachs, Lemförder o Mann Filter. Cada pieza incluye garantía y documentación."
     },
     {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
+      "title": "Comunicación directa y transparente",
+      "body": "Le mantenemos informado por WhatsApp con fotos y vídeos del estado de su vehículo. Cada presupuesto es detallado y no realizamos ningún trabajo sin su autorización previa."
     }
   ],
-  "testimonialsIntro": "Propietarios de BMW de Vilada y alrededores que han descubierto que calidad técnica y precio justo no son incompatibles.",
+  "testimonialsIntro": "Los propietarios de BMW en Vilada y el entorno del Pantà de la Baells nos eligen por nuestra especialización y cercanía. Estas son algunas de sus valoraciones.",
   "testimonials": [
     {
-      "name": "Montse",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 118d F40 2020",
-      "body": "El filtro de partículas de mi BMW 118d empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
+      "name": "Francesc Puig",
+      "neighborhood": "Vilada poble",
+      "car": "BMW X5 xDrive30d",
+      "body": "El X5 tenía corrosión bastante avanzada en el subchasis por la humedad del pantano. Me hicieron un tratamiento completo de limpieza y protección y quedó perfecto. En el concesionario directamente me decían que había que cambiar piezas enteras. Muy buen trabajo y mucho más económico.",
       "rating": 5
     },
     {
-      "name": "Joan",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 218d F44 Gran Coupé 2020",
-      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW 218d, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
+      "name": "Núria Soldevila",
+      "neighborhood": "Cal Mestre",
+      "car": "BMW Serie 2 Active Tourer 218d",
+      "body": "Se me encendían avisos aleatorios en el cuadro cada vez que había niebla. Detectaron que era condensación en un conector del módulo ABS. Lo repararon, sellaron bien la zona y desde entonces cero problemas. Conocen muy bien los efectos del clima de aquí.",
       "rating": 5
     },
     {
-      "name": "Mireia",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 120i F40 2022",
-      "body": "Como profesional autónomo, dependo de mi BMW 120i para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de Vilada no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
+      "name": "Manel Torrents",
+      "neighborhood": "Urbanització Pantà de la Baells",
+      "car": "BMW Serie 3 330e",
+      "body": "Tengo un híbrido enchufable y me preocupaba la batería de alto voltaje con tanta humedad. Me hicieron una revisión completa del sistema eléctrico y me dieron recomendaciones para el aparcamiento. Muy profesionales y al día con la tecnología BMW más reciente.",
       "rating": 5
     },
     {
-      "name": "Ricard",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 740d G11 2020",
-      "body": "El filtro de partículas de mi BMW 740d empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
+      "name": "Carme Obiols",
+      "neighborhood": "La Roureda",
+      "car": "BMW X1 xDrive18d",
+      "body": "Uso el coche a diario para bajar a Berga al trabajo y los frenos se me gastaban mucho con tanta curva. Me pusieron unas pastillas de gama alta y ajustaron la suspensión. La diferencia se nota mucho, sobre todo en mojado. Además, vinieron a buscar el coche a casa. Muy recomendable.",
       "rating": 5
     }
   ],
-  "zoneText": "Nuestra cobertura abarca Vilada y los municipios de su entorno. Recibimos clientes de todo Vilada. La red viaria de la zona, con accesos como C-33, AP-7, C-58, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
+  "zoneText": "Cubrimos Vilada y todos los municipios del entorno del Pantà de la Baells y el Berguedà central. Ofrecemos servicio de recogida y entrega del vehículo en la zona para facilitar el mantenimiento de su BMW.",
   "zoneNeighborhoods": [
-    "Centre de Vilada",
-    "Zona residencial"
+    "Cercs",
+    "Olvan",
+    "Cal Rosal",
+    "Berga",
+    "Gironella",
+    "La Nou de Berguedà",
+    "Montmajor",
+    "Puig-reig"
   ],
   "zoneAccessRoutes": [
-    "C-33 (Autopista del Vallès)",
-    "AP-7",
-    "C-58 (Autopista de Montserrat)",
-    "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)"
+    "C-26 (eix transversal, acceso principal)",
+    "C-16 (Eix del Llobregat, Berga–Manresa–Barcelona)",
+    "BV-4131 (acceso local desde Cercs)"
   ],
   "faqLocal": [
     {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+      "q": "¿La humedad del Pantà de la Baells realmente afecta a mi BMW?",
+      "a": "Sí, la humedad elevada y constante del embalse acelera la corrosión del chasis, deteriora las juntas de goma y puede provocar condensación en módulos electrónicos. Recomendamos tratamientos anticorrosión periódicos y revisiones específicas de estanqueidad."
     },
     {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+      "q": "¿Ofrecen servicio de recogida de vehículos en Vilada?",
+      "a": "Sí, coordinamos la recogida y entrega de su BMW en Vilada y el entorno del pantano. Contacte con nosotros para acordar la logística según el tipo de reparación."
     },
     {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+      "q": "¿Pueden hacer la revisión oficial de BMW sin perder la garantía?",
+      "a": "Sí, realizamos el mantenimiento según el plan oficial BMW con piezas homologadas. De acuerdo con la normativa europea de libre competencia, el mantenimiento en un taller independiente especializado no anula la garantía del fabricante."
     },
     {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+      "q": "¿Trabajan con BMW híbridos y eléctricos?",
+      "a": "Sí, estamos preparados para trabajar con los modelos iPerformance (híbridos enchufables) y la gama i (eléctricos). Disponemos de formación y equipamiento para sistemas de alto voltaje BMW."
     },
     {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+      "q": "¿Cuánto tarda una revisión completa de un BMW?",
+      "a": "Una revisión de mantenimiento estándar se completa normalmente en el mismo día. Si se detectan reparaciones adicionales, le informamos antes de proceder y acordamos un plazo realista."
     },
     {
-      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
-      "a": "Para un uso predominantemente urbano con trayectos cortos en Vilada, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+      "q": "¿Qué tratamiento anticorrosión recomiendan para la zona del pantano?",
+      "a": "Aplicamos tratamiento de cera o parafina en los bajos del vehículo y el subchasis, y sellamos los conectores eléctricos expuestos con grasa dieléctrica. La frecuencia depende del estado del vehículo, pero en la zona del pantano recomendamos hacerlo anualmente."
     }
   ],
-  "closingHeadline": "Especialistas BMW a tu servicio en Vilada",
-  "closingCta": "Solicita tu presupuesto sin compromiso. Llámanos, escríbenos por WhatsApp o envíanos un email y comprueba la diferencia de mantener tu BMW con especialistas en Vilada.",
+  "closingHeadline": "Proteja su BMW del clima del Pantà de la Baells",
+  "closingCta": "Contacte con nosotros al 665 245 143 o por WhatsApp. Le asesoramos sobre el mantenimiento que su BMW necesita en Vilada y coordinamos la recogida del vehículo sin compromiso.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

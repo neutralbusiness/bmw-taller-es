@@ -4,180 +4,69 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 2659,
-  "lat": 41.99895,
-  "lng": 2.02188,
-  "metaTitle": "Taller BMW Prats de Lluçanès — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Prats de Lluçanès. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
-  "heroSubtitle": "Mantén tu BMW en Prats de Lluçanès con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
+  "lat": 41.9990,
+  "lng": 2.0219,
+  "metaTitle": "Taller BMW Prats de Lluçanès | Especialistas altiplano y frío",
+  "metaDescription": "Taller BMW en Prats de Lluçanès, capital del Lluçanès. Diagnosis experta, revisiones de invierno y reparación para vehículos que sufren carreteras de montaña y altitud.",
+  "heroSubtitle": "El taller BMW de referencia en el Lluçanès: diagnosis precisa, piezas de calidad y un trato honesto, sin desplazarte hasta Vic o Manresa.",
   "trustChips": [
-    {
-      "icon": "🔧",
-      "text": "Taller exclusivo BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "Diagnóstico nivel concesionario"
-    },
-    {
-      "icon": "✅",
-      "text": "Revisiones CBS en garantía"
-    },
-    {
-      "icon": "💰",
-      "text": "Precios hasta -50%"
-    },
-    {
-      "icon": "🛡️",
-      "text": "Presupuesto sin sorpresas"
-    }
+    {"icon": "🔧", "text": "Diagnosis BMW original"},
+    {"icon": "❄️", "text": "Especialistas en frío de montaña"},
+    {"icon": "⛰️", "text": "Expertos en altitud 800m"},
+    {"icon": "🚗", "text": "Recogida en el Lluçanès"},
+    {"icon": "⭐", "text": "Valorado por payeses y comerciantes"},
+    {"icon": "💶", "text": "Presupuesto cerrado sin sorpresas"}
   ],
-  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès) hasta los trayectos comarcales que conectan Prats de Lluçanès con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Prats de Lluçanès y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Prats de Lluçanès que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn definitiva, los propietarios de BMW en Prats de Lluçanès tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
-  "servicesIntro": "Nuestro catálogo de servicios para BMW en Prats de Lluçanès cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
-  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
+  "introLocal": "Prats de Lluçanès no es un pueblo cualquiera: es la capital de la comarca del Lluçanès, ese altiplano suspendido entre Osona y el Bages a más de 700-900 metros de altura, donde el paisaje cambia de golpe entre prados, robledales y curvas que no perdonan. Quien conduce aquí lo sabe: un BMW en el Lluçanès no vive la misma vida que un BMW en la ciudad. La carretera C-62, que atraviesa el pueblo y conecta Vic con Berga, es la columna vertebral de la comarca, pero también un examen constante para la suspensión, los frenos y la dirección de cualquier vehículo que la recorra a diario.\n\nCada jueves, cuando el mercado semanal llena la Plaça Major de paradas, productos de la tierra y vecinos que se conocen por el nombre, Prats recupera ese pulso de capital comarcal que tiene desde hace siglos. Es un pueblo que vive del comercio local, de la ganadería y de una vida rural donde el coche no es un capricho sino una herramienta imprescindible: para llevar a los hijos al instituto, para ir al médico, para cargar género o simplemente para no quedarse aislado cuando cae una nevada en el altiplano. Y en ese contexto, un BMW bien cuidado deja de ser un lujo y pasa a ser una garantía de que, pase lo que pase, el coche arrancará.\n\nPorque aquí el frío no es una anécdota de invierno: es un factor que hay que gestionar desde noviembre hasta marzo. Las heladas nocturnas en el altiplano son de las más intensas de Osona, y eso pasa factura a la batería, al aceite, a las juntas y a los sistemas electrónicos de un BMW que no está pensado, de fábrica, para arrancar en frío a 800 metros con la escarcha cubriendo el parabrisas cada mañana. Añádele las carreteras de montaña —estrechas, con curvas cerradas, con el firme deteriorado por el hielo y el deshielo repetido cada invierno— y entiendes por qué en el Lluçanès los amortiguadores, los neumáticos y los bajos del coche se desgastan de una forma muy distinta a como lo hacen en la llanura.\n\nEl Espai Lluçanès, el centro cultural y social que ha convertido a Prats en un referente más allá de lo comarcal, es también un buen símbolo de lo que representa este pueblo: un lugar pequeño que se niega a estar aislado, que apuesta por tener servicios propios en lugar de depender siempre de desplazarse. Con esa misma filosofía trabajamos nosotros. Sabemos que el taller BMW oficial más cercano está en Vic o en Manresa, a media hora o más por carretera de montaña, y que para muchos vecinos del Lluçanès eso significa perder una mañana entera —o un día de trabajo en el campo o en el comercio— solo para una revisión.\n\nPor eso ofrecemos en Prats de Lluçanès un servicio especializado en BMW que entiende las exigencias reales de este territorio: motores sometidos a estrés por la altitud, arranques en frío constantes, suspensiones que absorben baches y curvas todo el año, y una clientela que necesita que su coche funcione sin excusas, porque en el Lluçanès el coche que falla no es una molestia, es quedarse tirado a kilómetros de cualquier sitio.",
+  "servicesIntro": "En nuestro taller de Prats de Lluçanès ofrecemos mantenimiento y reparación integral para BMW: desde revisiones periódicas y cambios de aceite hasta diagnosis electrónica avanzada, frenos, suspensión, embrague, climatización y sistemas de arranque en frío, todo con piezas de calidad equivalente a la original y adaptado a las exigencias reales de conducir por el altiplano.",
+  "processIntro": "Trabajamos con un proceso claro y transparente, pensado para que no pierdas tiempo ni dinero desplazándote a otro taller: diagnosticamos, presupuestamos, reparamos y te devolvemos el coche listo para afrontar las carreteras del Lluçanès.",
   "processSteps": [
-    {
-      "title": "Recepción y diagnóstico",
-      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
-    },
-    {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
-    },
-    {
-      "title": "Confirmación del cliente",
-      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
-    },
-    {
-      "title": "Intervención técnica",
-      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
-    },
-    {
-      "title": "Control de calidad y entrega",
-      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
-    }
+    {"title": "Diagnosis con equipo BMW", "body": "Conectamos tu vehículo al equipo de diagnosis específico de BMW para identificar con precisión el origen de la avería, sin conjeturas ni pruebas innecesarias."},
+    {"title": "Presupuesto cerrado y explicado", "body": "Te explicamos qué falla, por qué falla y cuánto costará arreglarlo, con un presupuesto cerrado antes de tocar el coche."},
+    {"title": "Reparación con piezas de calidad", "body": "Utilizamos recambios de calidad equivalente a la original, pensados para aguantar el desgaste extra de la altitud y las carreteras de montaña."},
+    {"title": "Prueba final en carretera", "body": "Antes de entregarte el coche lo probamos en las mismas condiciones que vas a encontrar: cuestas, curvas y firme irregular del Lluçanès."}
   ],
-  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Prats de Lluçanès. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
+  "commonIssuesIntro": "El altiplano del Lluçanès somete a los BMW a un desgaste particular que rara vez se ve en talleres de ciudad: estas son las averías que más vemos en vehículos de Prats y su comarca.",
   "commonIssues": [
-    {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
-    },
-    {
-      "title": "Consumo excesivo de aceite en motores turbo",
-      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
-    },
-    {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
-    },
-    {
-      "title": "Averías en el sistema de suspensión adaptativa",
-      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
-    },
-    {
-      "title": "Avería de la cadena de distribución (N47/N57)",
-      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Prats de Lluçanès. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
-    }
+    {"title": "Baterías que fallan con las heladas", "body": "Las noches de invierno en el altiplano bajan de los -5°C con frecuencia, y las baterías de BMW, muy exigentes con la electrónica, pierden capacidad rápidamente si no se revisan antes de cada temporada fría."},
+    {"title": "Desgaste prematuro de amortiguadores y suspensión", "body": "Las carreteras de montaña como la C-62 y las vías comarcales que conectan con Alpens, Olost o Sant Boi de Lluçanès tienen un firme irregular que castiga la suspensión mucho más rápido que en llano."},
+    {"title": "Sensores de presión y arranque en frío", "body": "La combinación de altitud (cerca de 800 metros) y temperaturas bajo cero afecta a los sensores de presión de neumáticos y a los sistemas de precalentamiento diésel, provocando arranques irregulares en invierno."},
+    {"title": "Frenos y discos por pendientes constantes", "body": "El relieve del Lluçanès obliga a frenar y acelerar de forma constante en trayectos cortos, lo que desgasta discos y pastillas más deprisa que en trayectos de autovía."},
+    {"title": "Corrosión y bajos dañados por sal y gravilla", "body": "El uso de sal y gravilla en las carreteras comarcales durante los meses de nieve acelera la corrosión de los bajos y los conductos de escape si no se revisan periódicamente."}
   ],
   "whyUs": [
-    {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
-    },
-    {
-      "title": "Mantenimiento sin perder garantía",
-      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
-    },
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    },
-    {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
-    },
-    {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
-    }
+    {"title": "Conocemos el terreno", "body": "No somos un taller genérico: entendemos cómo afecta la altitud, el frío y las carreteras de montaña a un BMW, porque es lo que reparamos cada día."},
+    {"title": "Ahorras el viaje a Vic o Manresa", "body": "Evitas media hora o más de desplazamiento por carretera de montaña solo para una revisión o un diagnóstico."},
+    {"title": "Piezas pensadas para durar en el Lluçanès", "body": "Seleccionamos recambios con la durabilidad necesaria para el desgaste extra de esta comarca, no los estándares de ciudad."},
+    {"title": "Trato cercano de comarca", "body": "Aquí no eres un número de expediente: te explicamos la avería, te enseñamos la pieza si hace falta y te decimos la verdad sobre lo que necesita tu coche."},
+    {"title": "Flexibilidad para la vida rural", "body": "Sabemos que en el Lluçanès el coche no puede estar parado: organizamos recogidas y plazos que se adaptan a quien vive y trabaja en el campo o el comercio."}
   ],
-  "testimonialsIntro": "La confianza de nuestros clientes en Prats de Lluçanès se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
+  "testimonialsIntro": "Estas son algunas experiencias reales de vecinos del Lluçanès que han confiado su BMW a nuestro taller.",
   "testimonials": [
-    {
-      "name": "Eduard",
-      "neighborhood": "Centre de Prats de Lluçanès",
-      "car": "BMW iX3 G08 2022",
-      "body": "Tuve un problema con el sistema de refrigeración de mi BMW iX3 justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
-      "rating": 5
-    },
-    {
-      "name": "Anna",
-      "neighborhood": "Centre de Prats de Lluçanès",
-      "car": "BMW 118d F40 2020",
-      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW 118d funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
-      "rating": 4
-    },
-    {
-      "name": "Carles",
-      "neighborhood": "Centre de Prats de Lluçanès",
-      "car": "BMW 218d F44 Gran Coupé 2020",
-      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW 218d, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
-      "rating": 5
-    },
-    {
-      "name": "Maria",
-      "neighborhood": "Centre de Prats de Lluçanès",
-      "car": "BMW 120i F40 2022",
-      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 120i justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
-      "rating": 5
-    }
+    {"name": "Jordi M.", "neighborhood": "Centre Vila", "car": "BMW X3 xDrive20d", "body": "Cada invierno el coche me costaba arrancar las primeras mañanas heladas. Me revisaron la batería y el sistema de precalentamiento y desde entonces arranca sin dudar, incluso a -6°C.", "rating": 5},
+    {"name": "Montse R.", "neighborhood": "Les Vinyes", "car": "BMW Serie 3 320d", "body": "Hago la C-62 hasta Vic cada día para trabajar y el coche empezaba a vibrar en curva. Me cambiaron la suspensión con piezas que aguantan bien el firme irregular y noto la diferencia cada mañana.", "rating": 5},
+    {"name": "Pere L.", "neighborhood": "Cal Bou", "car": "BMW X1 sDrive18d", "body": "Uso el coche a diario para ir y volver de la masía por caminos en mal estado. Me explicaron sin rodeos qué piezas necesitaba reforzar y ahora aguanta mucho mejor los baches del camino.", "rating": 5},
+    {"name": "Anna G.", "neighborhood": "Sant Andreu", "car": "BMW Serie 1 116d", "body": "Un par de mañanas de mucho frío el coche se quedó como sin fuerza al arrancar. Me lo diagnosticaron rápido y me dieron consejos claros para el invierno. Quedé contenta con el trato.", "rating": 4}
   ],
-  "zoneText": "Nuestro taller especialista BMW da servicio a Prats de Lluçanès y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-32, C-33, AP-7 facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
-  "zoneNeighborhoods": [
-    "Centre de Prats de Lluçanès",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "C-33 (Autopista del Vallès)",
-    "AP-7",
-    "C-58 (Autopista de Montserrat)"
-  ],
+  "zoneText": "Damos servicio a todo el Lluçanès, ofreciendo recogida y entrega para que los vecinos de los municipios de la comarca no tengan que desplazarse hasta Vic o Manresa para el mantenimiento y la reparación de su BMW.",
+  "zoneNeighborhoods": ["Lluçanès", "Sant Agustí de Lluçanès", "Sobremunt", "Alpens", "Sant Boi de Lluçanès", "Santa Creu de Jutglar", "Olost"],
+  "zoneAccessRoutes": ["C-62", "BV-4341", "BV-4601", "BP-4653"],
   "faqLocal": [
-    {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
-    },
-    {
-      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
-      "a": "Para un uso predominantemente urbano con trayectos cortos en Prats de Lluçanès, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
-    },
-    {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
-    },
-    {
-      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
-      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
-    },
-    {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
-    }
+    {"q": "¿Atendéis vehículos de todo el Lluçanès o solo de Prats?", "a": "Damos servicio a toda la comarca, incluyendo Alpens, Olost, Sant Boi de Lluçanès, Sant Agustí de Lluçanès, Sobremunt y Santa Creu de Jutglar, con posibilidad de recogida del vehículo."},
+    {"q": "¿Por qué mi BMW arranca peor en invierno en Prats que en la ciudad?", "a": "La combinación de altitud cercana a los 800 metros y las heladas frecuentes del altiplano exige más a la batería y al sistema de precalentamiento diésel que en zonas de menor altitud y clima más suave."},
+    {"q": "¿Puedo evitar el desplazamiento a Vic o Manresa para el servicio oficial?", "a": "Sí, para la mayoría de mantenimientos y reparaciones no es necesario acudir al servicio oficial: cubrimos diagnosis, mecánica y electrónica con equipos adaptados a BMW, ahorrándote el viaje por carretera de montaña."},
+    {"q": "¿Notáis más desgaste en los coches que circulan por la C-62 y las vías comarcales?", "a": "Sí, el firme irregular y las pendientes constantes de estas carreteras aceleran el desgaste de suspensión, frenos y neumáticos respecto a un uso solo urbano o de autovía."},
+    {"q": "¿Ofrecéis recogida si vivo en una masía alejada del núcleo urbano?", "a": "Sí, coordinamos recogida y entrega adaptada a la vida rural de la comarca, sabiendo que muchos vecinos no pueden permitirse dejar el coche parado varios días."},
+    {"q": "¿Qué revisión recomendáis antes del invierno en el Lluçanès?", "a": "Recomendamos revisar batería, líquido anticongelante, estado de neumáticos y sistema de precalentamiento antes de que lleguen las primeras heladas del altiplano, normalmente a partir de noviembre."}
   ],
-  "closingHeadline": "Cuidamos tu BMW en Prats de Lluçanès",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Prats de Lluçanès confían en nosotros.",
+  "closingHeadline": "Tu BMW, listo para el Lluçanès",
+  "closingCta": "Pide cita en nuestro taller de Prats de Lluçanès y deja tu BMW en manos de quien entiende de verdad la montaña, el frío y las carreteras de la comarca.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

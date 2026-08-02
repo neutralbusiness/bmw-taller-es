@@ -4,178 +4,156 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 307,
-  "lat": 42.01649,
-  "lng": 2.46005,
-  "metaTitle": "BMW Rupit i Pruit — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "Tu taller BMW de confianza en Rupit i Pruit. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
-  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Rupit i Pruit, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
+  "lat": 42.0165,
+  "lng": 2.4600,
+  "metaTitle": "Taller BMW en Rupit i Pruit | Collsacabra y Sallent",
+  "metaDescription": "Servicio BMW en Rupit i Pruit, joya del Collsacabra. Taller para carreteras de acantilado, recogida a domicilio y mecánica integral. Pide presupuesto.",
+  "heroSubtitle": "En el espectacular Collsacabra, cada curva cuenta. Confía tu BMW a un taller que conoce las carreteras más exigentes de Osona.",
   "trustChips": [
-    {
-      "icon": "🛡️",
-      "text": "Sin perder tu garantía"
-    },
-    {
-      "icon": "🔧",
-      "text": "Mecánica especializada BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "ISTA + recambio OE"
-    },
-    {
-      "icon": "💰",
-      "text": "Tarifas competitivas"
-    },
-    {
-      "icon": "✅",
-      "text": "Aceite homologado LL-04"
-    }
+    {"icon": "⛰️", "text": "Especialistas en Collsacabra"},
+    {"icon": "🔧", "text": "Mecánica BMW profesional"},
+    {"icon": "🛡️", "text": "Frenos y suspensión reforzados"},
+    {"icon": "🚛", "text": "Recogida gratuita"},
+    {"icon": "📊", "text": "Diagnóstico electrónico total"}
   ],
-  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En Rupit i Pruit, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nConocemos de primera mano las particularidades del uso de un BMW en esta zona de la provincia de Barcelona. Los desplazamientos diarios por la C-32 (Autopista del Maresme) y la Red viaria comarcal, combinados con la conducción urbana dentro de Rupit i Pruit, generan un patrón de uso mixto que afecta de forma específica a componentes críticos del vehículo. Los motores diésel B47 y B57, muy populares en los modelos Serie 3 y X3, son especialmente sensibles a los trayectos cortos: los ciclos de regeneración del filtro de partículas (DPF) necesitan tramos de conducción sostenida que no siempre se completan. En los motores de gasolina B48 y B58, la conducción urbana con arranques y paradas frecuentes puede acelerar la acumulación de carbonilla en las válvulas de admisión. Nuestro enfoque preventivo tiene en cuenta estas variables para anticiparnos a los problemas.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Rupit i Pruit que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nNuestra propuesta para los conductores de BMW en Rupit i Pruit es sencilla: la misma calidad técnica que el concesionario oficial, con mayor flexibilidad, mejor trato y precios más justos. Cada intervención que realizamos respeta escrupulosamente los protocolos de BMW, utilizando recambios OE y aceites homologados que mantienen tu garantía intacta. Tanto si vives en el centro de Rupit i Pruit como en sus alrededores, encontrarás un equipo técnico que conoce tu coche y que se compromete con resultados, no con promesas.",
-  "servicesIntro": "En Rupit i Pruit, cubrimos todas las necesidades de tu BMW: desde el mantenimiento rutinario y las revisiones CBS hasta diagnósticos complejos, codificaciones y reparaciones de alta especialización.",
-  "processIntro": "Nuestro proceso de trabajo está diseñado para que tengas el control en todo momento: diagnóstico, presupuesto y tu aprobación antes de actuar.",
+  "introLocal": "Rupit i Pruit es uno de los pueblos más espectaculares de Cataluña. Encaramado en el borde del altiplano del Collsacabra, con sus calles empedradas medievales, su puente colgante sobre el río Rupit y las vistas vertiginosas al Salto de Sallent — una cascada de más de cien metros de caída libre —, este municipio de 307 habitantes atrae a miles de visitantes cada año. Pero detrás de la postal turística hay una realidad cotidiana marcada por el aislamiento geográfico, las carreteras de montaña más exigentes de la comarca y una dependencia absoluta del vehículo propio.\n\nLlegar a Rupit i Pruit desde Vic o desde cualquier punto de la Plana de Vic requiere atravesar carreteras de montaña con trazados que desafían la mecánica de cualquier vehículo. La BV-5207 desde Roda de Ter asciende por un terreno de escarpes y cingles con curvas de radio mínimo, desniveles abruptos y tramos donde el asfalto se estrecha hasta dejar apenas espacio para dos coches. Para un BMW, cada uno de estos trayectos es un test de estrés para los frenos, la caja de cambios, la suspensión y los neumáticos. No es la carretera para la que estos coches fueron diseñados, pero es la carretera que sus propietarios en Rupit recorren a diario.\n\nEl Collsacabra, además de ser paisajísticamente único, presenta unas condiciones meteorológicas particulares. La altitud del altiplano (entre 800 y 1.000 metros) trae inviernos rigurosos con heladas frecuentes y posibilidad de nieve. Pero lo más característico son las nieblas que se forman en la base de los acantilados y ascienden hasta envolver las carreteras en una visibilidad prácticamente nula. Conducir un BMW en estas condiciones exige que cada componente del sistema de iluminación, de los sensores de asistencia a la conducción y de los limpiaparabrisas funcione a la perfección. No hay margen para un faro desalineado o una escobilla gastada.\n\nEl turismo que recibe Rupit i Pruit genera un tráfico significativo de vehículos, muchos de ellos de alta gama, cuyos propietarios no están acostumbrados a las condiciones de estas carreteras. Los periodos de mayor afluencia — fines de semana de primavera y otoño — coinciden con épocas en que el firme puede estar húmedo por las lluvias y los tramos sombreados mantienen placas de musgo resbaladizo. Un BMW con los frenos al límite o los neumáticos desgastados se convierte en un peligro para todos en estas carreteras sin arcén ni quitamiedos en muchos tramos.\n\nNuestro taller ofrece a residentes y visitantes frecuentes de Rupit i Pruit un servicio BMW integral con recogida y entrega a domicilio. Conocemos palmo a palmo las carreteras del Collsacabra y sabemos exactamente qué exigen de la mecánica de un BMW. Aplicamos protocolos de mantenimiento específicos para conducción de montaña extrema, porque aquí no valen los intervalos estándar pensados para el centro de Barcelona.",
+  "servicesIntro": "Cubrimos todas las necesidades de tu BMW: revisiones de mantenimiento, cambios de aceite y filtros, reparación de motor y turbo, sustitución de embrague y caja de cambios, revisión integral de frenos con cambio de pastillas, discos y líquido, diagnóstico electrónico avanzado, mantenimiento de suspensión y dirección, alineado, preparación para ITV y tratamientos anticorrosivos.",
+  "processIntro": "Dado el aislamiento de Rupit i Pruit, hemos optimizado nuestro proceso para que cada intervención sea lo más eficiente y cómoda posible, minimizando los días sin coche.",
   "processSteps": [
     {
-      "title": "Diagnóstico ISTA completo",
-      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
+      "title": "Contacto y evaluación remota",
+      "body": "Descríbenos el problema o la revisión que necesitas por teléfono o WhatsApp. Si es posible, te pediremos fotos o vídeos del síntoma para hacer una primera evaluación antes de recoger el coche, y así ir preparados con las piezas necesarias."
     },
     {
-      "title": "Presupuesto cerrado y detallado",
-      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
+      "title": "Recogida en Rupit i Pruit",
+      "body": "Enviamos una plataforma o un conductor a recoger tu BMW directamente en Rupit. Nos adaptamos a tu horario y, si lo necesitas, coordinamos la recogida con la apertura de tu negocio o tu jornada laboral."
     },
     {
-      "title": "Tu aprobación antes de actuar",
-      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
+      "title": "Diagnóstico, presupuesto y reparación",
+      "body": "Realizamos el diagnóstico completo en taller, te enviamos presupuesto detallado con documentación visual y, una vez aprobado, ejecutamos todas las intervenciones necesarias. Aprovechamos cada recogida para hacer una revisión integral y adelantar mantenimientos próximos."
     },
     {
-      "title": "Reparación especializada BMW",
-      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
+      "title": "Prueba en condiciones de montaña",
+      "body": "Antes de devolver tu BMW, realizamos pruebas de frenado en pendiente, respuesta de la transmisión en subida y comportamiento de la suspensión en curvas cerradas. Simulamos las condiciones del Collsacabra para garantizar que todo funciona perfectamente."
     },
     {
-      "title": "Entrega verificada y seguimiento",
-      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
+      "title": "Devolución y plan de mantenimiento",
+      "body": "Devolvemos el BMW a tu domicilio en Rupit con un informe completo y un calendario de próximos mantenimientos adaptado a las condiciones de uso real en el Collsacabra."
     }
   ],
-  "commonIssuesIntro": "Estos son los problemas más frecuentes que diagnosticamos y reparamos en los BMW que circulan por Rupit i Pruit y su entorno, muchos de ellos relacionados con los patrones de conducción habituales de la zona.",
+  "commonIssuesIntro": "Las carreteras del Collsacabra son las más técnicamente exigentes de toda la comarca de Osona. Estos son los problemas mecánicos que más frecuentemente encontramos en los BMW que circulan por Rupit i Pruit.",
   "commonIssues": [
     {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
+      "title": "Cristalización de pastillas de freno por sobrecalentamiento",
+      "body": "Los descensos prolongados desde el altiplano del Collsacabra hacia Roda de Ter someten las pastillas de freno a temperaturas que pueden superar los 600°C. Cuando esto ocurre repetidamente, la superficie de la pastilla se cristaliza, perdiendo capacidad de frenado y produciendo chirridos agudos. Sustituimos las pastillas con componentes cerámicos de alto rendimiento y verificamos el estado de los discos para evitar vibraciones."
     },
     {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
+      "title": "Aceite de caja de cambios degradado por uso extremo en pendiente",
+      "body": "Las marchas bajas sostenidas en las subidas y bajadas del Collsacabra elevan la temperatura del aceite de la caja de cambios, degradándolo prematuramente. Los BMW con caja automática ZF son particularmente sensibles a la calidad de este aceite. Recomendamos el cambio de aceite de transmisión cada 60.000 km en lugar de los 100.000+ que sugiere BMW para uso normal."
     },
     {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
+      "title": "Desgaste acelerado de zapatas de freno de mano",
+      "body": "Aparcar en las empinadas calles de Rupit y en los desniveles del entorno rural exige un uso intensivo del freno de mano. Las zapatas se desgastan mucho más rápido que en terreno llano, y un freno de mano que no retiene correctamente en una pendiente del 15% es un problema serio. Revisamos y ajustamos el sistema en cada mantenimiento."
     },
     {
-      "title": "Fallos en inyectores piezoeléctricos",
-      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
+      "title": "Faros desalineados por vibraciones constantes",
+      "body": "Las vibraciones continuas de la carretera del Collsacabra desajustan los mecanismos de regulación de altura de los faros, especialmente los sistemas xenón con nivelación automática. Un faro desalineado en una carretera de montaña sin iluminación artificial deslumbra al tráfico contrario y reduce tu propia visibilidad en las curvas. Verificamos y calibramos el sistema de iluminación en cada revisión."
     },
     {
-      "title": "Avería de la cadena de distribución (N47/N57)",
-      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Rupit i Pruit. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
+      "title": "Grietas en el parabrisas por cambios térmicos bruscos",
+      "body": "El paso rápido de la sombra fría de los cingles al sol directo del altiplano genera gradientes térmicos que estresan el parabrisas. Si el cristal tiene un pequeño impacto previo, el cambio de temperatura puede convertirlo en una grieta que cruza todo el parabrisas. Recomendamos reparar los impactos pequeños de inmediato, antes de que el clima del Collsacabra los amplifique."
     }
   ],
   "whyUs": [
     {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
+      "title": "Conocimiento experto del Collsacabra",
+      "body": "Sabemos exactamente qué le exige cada tramo de la carretera de Rupit a un BMW: dónde sufren más los frenos, dónde se estresan los amortiguadores, dónde las curvas castigan los neumáticos. Ese conocimiento nos permite hacer un mantenimiento verdaderamente preventivo."
     },
     {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
+      "title": "Recogida y entrega en el pueblo",
+      "body": "El viaje desde Rupit hasta Vic es una aventura en sí misma. No tiene sentido que lo hagas solo para una revisión. Nosotros vamos a buscar tu BMW y lo devolvemos en tu puerta, sin coste adicional."
     },
     {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
+      "title": "Mantenimiento concentrado y eficiente",
+      "body": "Cada vez que tu BMW viene al taller, aprovechamos para hacer una revisión integral y adelantar los mantenimientos que se acercan. Así reducimos las recogidas necesarias y tú disfrutas de más tiempo sin preocuparte por el coche."
     },
     {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
+      "title": "Frenos de alto rendimiento para montaña",
+      "body": "Instalamos pastillas cerámicas y discos ventilados de alta gama que resisten el estrés térmico de los descensos del Collsacabra sin cristalizarse ni alabearse. La seguridad en estas carreteras empieza por unos frenos que no fallen cuando más los necesitas."
     },
     {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
+      "title": "Transparencia y confianza",
+      "body": "En un pueblo pequeño, la reputación es todo. Trabajamos con la honestidad y la transparencia que esperarías de un vecino: precios claros, explicaciones directas y una garantía que respaldamos con hechos."
     }
   ],
-  "testimonialsIntro": "Propietarios de BMW de Rupit i Pruit y alrededores que han descubierto que calidad técnica y precio justo no son incompatibles.",
+  "testimonialsIntro": "Los vecinos de Rupit i Pruit que confían en nuestro taller saben que encontrar un servicio BMW fiable a esta altitud no es fácil. Por eso valoran especialmente la calidad y la cercanía de nuestro servicio.",
   "testimonials": [
     {
-      "name": "Carla",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 118d F40 2020",
-      "body": "El filtro de partículas de mi BMW 118d empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
+      "name": "Arnau V.",
+      "neighborhood": "Rupit nucli",
+      "car": "BMW X5 xDrive40d",
+      "body": "Tengo un restaurante en Rupit y el X5 es mi caballo de batalla para subir provisiones. Me desgastaba las pastillas de freno en nada por las bajadas. Me pusieron unas cerámicas de alta gama y la diferencia es abismal: frenan mejor y duran el triple. Inversión que se paga sola.",
       "rating": 5
     },
     {
-      "name": "Andreu",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 218d F44 Gran Coupé 2020",
-      "body": "Llevaba años yendo al concesionario oficial por inercia. Cuando descubrí este taller y comparé presupuestos, no podía creer la diferencia. Para la misma revisión completa de mi BMW 218d, con los mismos aceites LL-04 y filtros OE, me ahorro cerca de un 40%. Ahora vengo siempre aquí y estoy mucho más satisfecho con el trato.",
+      "name": "Gemma B.",
+      "neighborhood": "Pruit",
+      "car": "BMW 320d Touring",
+      "body": "Bajo a Vic todos los días a trabajar y la carretera es un infierno para el coche. Me llevan un control perfecto: cada 15.000 km revisión completa, y si detectan algo entre medias, me avisan. Desde que estoy con ellos no he tenido ni una avería inesperada.",
       "rating": 5
     },
     {
-      "name": "Clara",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 120i F40 2022",
-      "body": "Como profesional autónomo, dependo de mi BMW 120i para trabajar cada día. Necesito un taller fiable que me dé citas rápidas y presupuestos claros. Desde que encontré este taller cerca de Rupit i Pruit no he vuelto al concesionario. Mejor trato, mejor precio y la misma calidad técnica. No se puede pedir más.",
-      "rating": 4
+      "name": "Pau G.",
+      "neighborhood": "Rupit",
+      "car": "BMW 530d",
+      "body": "Se me agrietó el parabrisas entero por un impacto pequeño que no reparé a tiempo. Me explicaron el tema de los cambios de temperatura del Collsacabra y ahora reparo cualquier impacto al momento. Me cambiaron el parabrisas rápidamente y a buen precio.",
+      "rating": 5
     },
     {
-      "name": "Adrià",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 740d G11 2020",
-      "body": "El filtro de partículas de mi BMW 740d empezó a dar problemas por los trayectos cortos que hago a diario. En el concesionario me hablaron directamente de sustituirlo por varios miles de euros. Aquí diagnosticaron el nivel real de saturación y con una regeneración forzada controlada quedó perfecto. Profesionalidad y honestidad, algo difícil de encontrar.",
+      "name": "Mònica E.",
+      "neighborhood": "Cal Roc",
+      "car": "BMW X1 sDrive18d",
+      "body": "Vinieron a buscar el coche a Rupit y me lo devolvieron dos días después con revisión completa, cambio de aceite, frenos nuevos y alineado. Todo perfecto y un trato exquisito. Viviendo aquí arriba, tener un taller así es un lujo.",
       "rating": 5
     }
   ],
-  "zoneText": "Nuestra cobertura abarca Rupit i Pruit y los municipios de su entorno. Recibimos clientes de todo Rupit i Pruit. La red viaria de la zona, con accesos como C-32, Red viaria comarcal, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
-  "zoneNeighborhoods": [
-    "Centre de Rupit i Pruit",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "Red viaria comarcal"
-  ],
+  "zoneText": "Nuestro servicio cubre todo el altiplano del Collsacabra y la zona oriental de Osona, con recogida y entrega gratuita para propietarios de BMW de Rupit i Pruit y las masías del entorno. Llegamos donde otros talleres no llegan.",
+  "zoneNeighborhoods": ["Tavertet", "l'Esquirol (Santa Maria de Corcó)", "Roda de Ter", "les Masies de Roda", "Vilanova de Sau", "Cantonigròs", "Manlleu"],
+  "zoneAccessRoutes": ["BV-5207", "BV-5224", "C-153", "BV-5213"],
   "faqLocal": [
     {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+      "q": "¿Realmente vienen a recoger el coche hasta Rupit i Pruit?",
+      "a": "Sí, hacemos la recogida en Rupit y en cualquier punto del Collsacabra. Conocemos bien las carreteras de acceso y no nos asustan las curvas. Es un servicio gratuito para cualquier reparación que se realice en nuestro taller."
     },
     {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+      "q": "¿Qué tipo de pastillas de freno recomiendan para la carretera de Rupit?",
+      "a": "Para el uso intensivo que exige el Collsacabra, recomendamos pastillas cerámicas de marcas como Brembo o Textar, que resisten mejor las altas temperaturas sin cristalizarse. El coste es algo superior a las pastillas estándar, pero la durabilidad y la seguridad compensan con creces la diferencia."
     },
     {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
+      "q": "¿Cada cuánto debo revisar los frenos de mi BMW si vivo en Rupit?",
+      "a": "Recomendamos una revisión de frenos cada 10.000-12.000 km, frente a los 20.000-30.000 km habituales. Los descensos del Collsacabra generan un desgaste que no es comparable al de conducción llana. Incluimos la revisión de frenos en cada mantenimiento programado."
     },
     {
-      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
-      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+      "q": "¿Pueden cambiar el aceite de la caja de cambios automática de mi BMW?",
+      "a": "Sí, realizamos el cambio de aceite de cajas automáticas ZF con el equipo adecuado para un vaciado y llenado correctos. En las condiciones del Collsacabra recomendamos este servicio cada 60.000 km para mantener la caja en perfecto estado."
     },
     {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+      "q": "¿Cuántos días tarda una revisión completa si recogen en Rupit?",
+      "a": "Una revisión estándar requiere dos días: recogida por la mañana, revisión y reparaciones durante el día siguiente, y entrega por la tarde. Para reparaciones mayores, te informamos del plazo exacto antes de comenzar."
     },
     {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+      "q": "¿Atienden también a turistas que tienen un problema con su BMW visitando Rupit?",
+      "a": "Sí, si tu BMW sufre una avería durante una visita a Rupit i Pruit, podemos asistirte. Recogemos el vehículo, lo diagnosticamos y realizamos la reparación necesaria. Si es algo que requiere más tiempo, te orientamos sobre opciones de transporte mientras tanto."
     }
   ],
-  "closingHeadline": "Tu alternativa BMW de confianza en Rupit i Pruit",
-  "closingCta": "Solicita tu presupuesto sin compromiso. Llámanos, escríbenos por WhatsApp o envíanos un email y comprueba la diferencia de mantener tu BMW con especialistas en Rupit i Pruit.",
+  "closingHeadline": "El taller BMW que llega hasta lo más alto del Collsacabra",
+  "closingCta": "Llama o escribe por WhatsApp para programar la recogida de tu BMW en Rupit i Pruit. Sin desplazamientos por carreteras de montaña, sin esperas y con la máxima calidad técnica.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

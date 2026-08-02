@@ -4,180 +4,70 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 269,
-  "lat": 41.89308,
-  "lng": 2.23984,
-  "metaTitle": "Taller BMW Malla — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Malla. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
-  "heroSubtitle": "Mantén tu BMW en Malla con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
+  "lat": 41.8931,
+  "lng": 2.2398,
+  "metaTitle": "Taller BMW cerca de Malla (Osona) | Diagnosis y reparación",
+  "metaDescription": "Especialistas BMW para vecinos de Malla y las masías de la Plana de Vic. Diagnosis con equipo oficial, recogida a domicilio y presupuesto sin sorpresas.",
+  "heroSubtitle": "Tu BMW revisado por especialistas sin salir de la comarca: recogida en Malla y masías cercanas, diagnosis oficial y presupuesto claro antes de tocar el coche.",
   "trustChips": [
-    {
-      "icon": "✅",
-      "text": "Garantía BMW intacta"
-    },
-    {
-      "icon": "🔧",
-      "text": "Solo BMW, sin excepciones"
-    },
-    {
-      "icon": "💻",
-      "text": "Software ISTA/Rheingold"
-    },
-    {
-      "icon": "🛡️",
-      "text": "Recambios OE de primer equipo"
-    },
-    {
-      "icon": "💰",
-      "text": "Ahorro real vs concesionario"
-    }
+    { "icon": "🔧", "text": "Especialistas BMW" },
+    { "icon": "📍", "text": "A minutos de Malla por la C-17" },
+    { "icon": "🚗", "text": "Recogida en masías y núcleo urbano" },
+    { "icon": "💻", "text": "Diagnosis con software oficial" },
+    { "icon": "💶", "text": "Presupuesto cerrado sin sorpresas" },
+    { "icon": "⭐", "text": "Valorado por talleres de Osona" }
   ],
-  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès) hasta los trayectos comarcales que conectan Malla con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nLa realidad es que un BMW no funciona igual en Malla que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Malla que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Malla que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Malla y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
-  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Malla, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
-  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
+  "introLocal": "Malla es de esos municipios donde el paisaje manda: apenas 269 vecinos repartidos entre el núcleo y un buen número de masías dispersas por la Plana de Vic, con el Puig de Malla vigilando el término y los campos de cereal cambiando de color según la estación. Vivir así tiene ventajas evidentes, pero también un inconveniente muy concreto para quien conduce un BMW: encontrar un taller que entienda estos vehículos sin tener que meterse cada vez en la carretera hacia Vic o, peor, bajar hasta Barcelona. Nosotros trabajamos precisamente para resolver esa distancia.\n\nLa dispersión de las masías alrededor de Malla —muchas a varios minutos del propio pueblo, comunicadas por caminos que en invierno amanecen con niebla espesa y escarcha en el parabrisas— hace que el coche particular sea, más que en ningún otro sitio, una herramienta de trabajo diaria. Un BMW con un testigo encendido, una avería eléctrica o un simple ruido en la suspensión no es un capricho que se pueda posponer: es lo que te lleva a la feina, a Vic, a Tona o a la escuela de los críos. Por eso planteamos el servicio pensando en esa realidad rural, no en la lógica de un taller de ciudad que da por hecho que el cliente puede esperar sin coche una semana.\n\nLa proximidad a Tona y el acceso directo a la C-17 son, en la práctica, lo que hace viable nuestro servicio para Malla. Estamos a un trayecto corto y sin complicaciones, aprovechando una vía rápida que evita perder la mañana entera en desplazamientos. Eso nos permite ofrecer recogida del vehículo en el propio pueblo o incluso en la masía, sin que el propietario tenga que renunciar a media jornada de trabajo agrícola o laboral para acercarse hasta un taller. Sabemos que en Malla el tiempo no sobra, y menos en temporada de campo.\n\nEl clima continental de la comarca, con inviernos secos y fríos, nieblas persistentes en el valle y oscilaciones térmicas notables entre el día y la noche, pasa factura a los vehículos de forma silenciosa: baterías que pierden capacidad antes de lo esperado, condensación en circuitos electrónicos, correas y gomas que se resienten con los cambios bruscos. En un BMW, con su electrónica avanzada y sus sistemas de asistencia, estos factores exigen un mantenimiento más atento que en un utilitario cualquiera, y es justo el tipo de revisión que hacemos con equipo de diagnosis oficial, sin generalizar el problema ni recurrir a soluciones de taller genérico.\n\nEntendemos que un vecino de Malla no necesita el taller más grande, sino el más cercano que realmente sepa lo que tiene entre manos. Por eso combinamos la especialización técnica en la marca con un servicio que se adapta a la vida de la Plana de Vic: horarios flexibles para quien madruga en el campo, recogida a domicilio para las masías más alejadas y una comunicación directa, sin intermediarios, sobre qué le pasa exactamente al coche y cuánto va a costar arreglarlo.",
+  "servicesIntro": "Ofrecemos el catálogo completo de mantenimiento y reparación BMW: desde revisiones periódicas y cambios de aceite con especificación original, hasta diagnosis electrónica avanzada, frenos, suspensión, embrague, climatización y reparación de averías complejas en motor y caja de cambios, todo con el respaldo de equipos de diagnosis actualizados para cada generación de BMW.",
+  "processIntro": "Trabajamos con un proceso pensado para que el cliente de Malla no pierda tiempo ni se quede sin información: desde el primer contacto hasta la entrega del vehículo, cada paso está pensado para minimizar desplazamientos y dar transparencia total sobre el estado del coche.",
   "processSteps": [
-    {
-      "title": "Diagnóstico ISTA completo",
-      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
-    },
-    {
-      "title": "Presupuesto cerrado y detallado",
-      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
-    },
-    {
-      "title": "Tu aprobación antes de actuar",
-      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
-    },
-    {
-      "title": "Reparación especializada BMW",
-      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
-    },
-    {
-      "title": "Entrega verificada y seguimiento",
-      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
-    }
+    { "title": "Contacto y recogida", "body": "Nos escribes por WhatsApp o llamas, nos cuentas el problema y acordamos recogida en Malla o en la masía, o bien traes el coche tú mismo si prefieres." },
+    { "title": "Diagnosis con equipo oficial", "body": "Conectamos el vehículo al software de diagnosis específico BMW para identificar el fallo real, sin conjeturas ni recambios innecesarios." },
+    { "title": "Presupuesto cerrado", "body": "Te explicamos qué ha fallado y te damos un presupuesto claro antes de intervenir; no se toca nada sin tu aprobación." },
+    { "title": "Reparación", "body": "Realizamos la reparación con recambios adecuados a tu modelo, respetando los tiempos y procedimientos que marca el fabricante." },
+    { "title": "Entrega y devolución", "body": "Te devolvemos el vehículo en Malla o donde acordemos, con explicación de lo realizado y recomendaciones de mantenimiento." }
   ],
-  "commonIssuesIntro": "Los BMW que circulan habitualmente por Malla presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
+  "commonIssuesIntro": "Los BMW que circulan por la zona de Malla y la Plana de Vic presentan patrones de avería bastante reconocibles, condicionados tanto por el kilometraje en carretera como por el clima de la comarca. Estos son los más habituales que vemos en el taller.",
   "commonIssues": [
-    {
-      "title": "Desgaste prematuro de frenos",
-      "body": "La conducción urbana por Malla, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
-    },
-    {
-      "title": "Averías en el sistema de suspensión adaptativa",
-      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
-    },
-    {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
-    },
-    {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
-    },
-    {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
-    }
+    { "title": "Batería y sistema eléctrico", "body": "El frío intenso y la humedad de las nieblas invernales de la Plana de Vic reducen el rendimiento de la batería y pueden generar fallos intermitentes en módulos electrónicos, especialmente en modelos con muchos sistemas asistidos." },
+    { "title": "Sensores de suspensión y amortiguación", "body": "El uso constante en carreteras comarcales y caminos de acceso a masías, con baches y firmes irregulares, desgasta antes de tiempo los componentes de suspensión, sobre todo en BMW con suspensión adaptativa." },
+    { "title": "Testigo de motor por sondas o EGR", "body": "Los trayectos cortos combinados con recorridos largos por la C-17 generan ciclos térmicos que afectan a la válvula EGR y las sondas lambda, encendiendo el testigo de avería del motor." },
+    { "title": "Frenos y discos por polvo agrícola", "body": "La cercanía a campos de cultivo aporta partículas de polvo y tierra que aceleran el desgaste de pastillas y discos, especialmente en vehículos que hacen trayectos frecuentes por pistas rurales." },
+    { "title": "Fugas en juntas por oscilación térmica", "body": "El salto térmico propio del clima continental, con heladas nocturnas y días templados, resiente juntas y retenes de motor y caja de cambios con el paso de los años." }
   ],
   "whyUs": [
-    {
-      "title": "Mantenimiento sin perder garantía",
-      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
-    },
-    {
-      "title": "Experiencia contrastada",
-      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
-    },
-    {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
-    },
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    },
-    {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
-    }
+    { "title": "Especialización real en BMW", "body": "No somos un taller generalista: trabajamos exclusivamente con esta marca y conocemos sus particularidades modelo a modelo." },
+    { "title": "Cerca de Malla por la C-17", "body": "El acceso rápido desde Tona y la C-17 nos permite ofrecer recogida y entrega sin que pierdas la jornada." },
+    { "title": "Diagnosis con equipo oficial", "body": "Utilizamos software de diagnosis específico de la marca, evitando reparaciones a ciegas o cambios de piezas innecesarios." },
+    { "title": "Presupuesto transparente", "body": "Sabrás exactamente qué falla y cuánto cuesta arreglarlo antes de que empecemos a trabajar." },
+    { "title": "Servicio adaptado a la vida rural", "body": "Entendemos que en Malla el coche es imprescindible cada día, y organizamos recogidas y horarios pensando en las masías dispersas." }
   ],
-  "testimonialsIntro": "Conductores de BMW en Malla que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
+  "testimonialsIntro": "Vecinos de Malla y de las masías del entorno nos han confiado sus BMW para revisiones y reparaciones; esto es lo que cuentan de su experiencia.",
   "testimonials": [
-    {
-      "name": "Teresa",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 430i G23 Cabrio 2022",
-      "body": "Necesitaba un cambio de embrague en mi BMW 430i y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Àlex",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X3 xDrive20d G01 2022",
-      "body": "Me saltó el aviso de motor en el BMW X3 cuando circulaba cerca de Malla. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
-      "rating": 4
-    },
-    {
-      "name": "Sílvia",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 420d G22 2021",
-      "body": "Buscaba activar funciones de codificación en mi BMW 420d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Malla lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
-      "rating": 5
-    },
-    {
-      "name": "Miquel",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X4 xDrive20d G02 2020",
-      "body": "Necesitaba un cambio de embrague en mi BMW X4 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
-      "rating": 5
-    }
+    { "name": "Jordi S.", "neighborhood": "Masía cerca del Puig de Malla", "car": "BMW Serie 3", "body": "Vinieron a buscar el coche hasta la masía, algo que en Malla no es fácil de encontrar. Diagnosticaron bien un fallo eléctrico que en otro taller no habían sabido explicarme.", "rating": 5 },
+    { "name": "Anna R.", "neighborhood": "Núcleo de Malla", "car": "BMW X1", "body": "Presupuesto claro desde el principio, sin sorpresas al recoger el coche. Se agradece no tener que bajar hasta Vic para algo tan sencillo como una revisión.", "rating": 5 },
+    { "name": "Marc P.", "neighborhood": "Camí de les masies, Malla", "car": "BMW Serie 1", "body": "Se me encendió el testigo de motor un día de niebla y en dos días lo tenía solucionado. Buena comunicación durante todo el proceso.", "rating": 5 },
+    { "name": "Núria V.", "neighborhood": "Zona rural próxima a Tona", "car": "BMW Serie 5", "body": "Llevaba tiempo buscando un taller que realmente entendiera BMW cerca de casa. La recogida a domicilio me ahorra un viaje entero cada vez.", "rating": 5 }
   ],
-  "zoneText": "Nuestra cobertura abarca Malla y los municipios de su entorno. Recibimos clientes de todo Malla. La red viaria de la zona, con accesos como C-32, C-33, AP-7, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
-  "zoneNeighborhoods": [
-    "Centre de Malla",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "C-33 (Autopista del Vallès)",
-    "AP-7",
-    "C-17 (Eix Transversal)"
-  ],
+  "zoneText": "Damos servicio a Malla y a todo su término municipal, incluidas las masías dispersas por la Plana de Vic, así como a los núcleos cercanos que comparten esta zona rural del sur de Osona, con recogida y entrega organizadas para minimizar desplazamientos a nuestros clientes.",
+  "zoneNeighborhoods": ["Malla núcleo", "Tona", "Sant Julià de Vilatorta", "Vic", "Taradell", "Seva", "Muntanyola", "Santa Eugènia de Berga"],
+  "zoneAccessRoutes": ["C-17", "BV-4602", "Carretera de Malla a Tona", "Eix Transversal (C-25)"],
   "faqLocal": [
-    {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
-    },
-    {
-      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
-      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
-    },
-    {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
-    },
-    {
-      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
-      "a": "Para un uso predominantemente urbano con trayectos cortos en Malla, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
-    },
-    {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
-    },
-    {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
-    }
+    { "q": "¿Recogéis el coche en masías dispersas cerca de Malla?", "a": "Sí, organizamos la recogida tanto en el núcleo urbano de Malla como en masías del término, coordinando el horario que mejor te vaya." },
+    { "q": "¿Cuánto se tarda en llegar desde Malla al taller?", "a": "Gracias a la conexión con Tona y la C-17, el trayecto es corto; en la mayoría de casos organizamos nosotros el traslado del vehículo." },
+    { "q": "¿Trabajáis con todos los modelos BMW?", "a": "Sí, atendemos toda la gama BMW, desde Serie 1 hasta Serie 7, X1 a X7, y motorizaciones diésel, gasolina e híbridas." },
+    { "q": "¿Usáis diagnosis oficial de la marca?", "a": "Sí, empleamos software de diagnosis específico BMW para identificar averías con precisión, no reparaciones genéricas." },
+    { "q": "¿Puedo pedir presupuesto antes de dejar el coche?", "a": "Por supuesto, siempre confirmamos el presupuesto contigo antes de iniciar cualquier reparación." },
+    { "q": "¿Qué hacéis si el fallo aparece solo con niebla o frío intenso?", "a": "Reproducimos las condiciones en diagnosis siempre que es posible y revisamos batería, sensores y conexiones especialmente sensibles al frío y la humedad." }
   ],
-  "closingHeadline": "Cuidamos tu BMW en Malla",
-  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Malla.",
+  "closingHeadline": "Tu BMW, cuidado sin salir de la comarca",
+  "closingCta": "Escríbenos por WhatsApp y organizamos la recogida en Malla o tu masía en pocos días.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

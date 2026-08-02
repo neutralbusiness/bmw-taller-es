@@ -4,179 +4,171 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 250,
-  "lat": 41.72974,
-  "lng": 1.61586,
-  "metaTitle": "BMW Aguilar de Segarra — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "Tu taller BMW de confianza en Aguilar de Segarra. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
-  "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Aguilar de Segarra, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
+  "lat": 41.7297,
+  "lng": 1.6159,
+  "metaTitle": "Taller BMW en Aguilar de Segarra | Altiplano del Bages",
+  "metaDescription": "Servicio técnico BMW en Aguilar de Segarra. Especialistas en mantenimiento para vehículos expuestos al viento, polvo y clima extremo del altiplano sur del Bages.",
+  "heroSubtitle": "Servicio BMW profesional en el altiplano del sur del Bages, donde el viento y las distancias exigen un taller que venga a ti",
   "trustChips": [
-    {
-      "icon": "✅",
-      "text": "Garantía BMW intacta"
-    },
-    {
-      "icon": "🔧",
-      "text": "Solo BMW, sin excepciones"
-    },
-    {
-      "icon": "💻",
-      "text": "Software ISTA/Rheingold"
-    },
-    {
-      "icon": "🛡️",
-      "text": "Recambios OE de primer equipo"
-    },
-    {
-      "icon": "💰",
-      "text": "Ahorro real vs concesionario"
-    }
+    {"icon": "🔧", "text": "Mecánica BMW avanzada"},
+    {"icon": "🌬️", "text": "Expertos clima altiplano"},
+    {"icon": "📍", "text": "Cobertura zona rural"},
+    {"icon": "🛡️", "text": "Piezas con garantía"},
+    {"icon": "🚗", "text": "Recogida en domicilio"},
+    {"icon": "💻", "text": "Diagnóstico digital BMW"}
   ],
-  "introLocal": "¿Sabías que llevar tu BMW a un taller independiente especializado no solo no invalida tu garantía, sino que además puede ahorrarte hasta un 50% en mantenimiento y reparaciones? En Aguilar de Segarra, esta información sigue siendo desconocida para muchos conductores que, por costumbre o desinformación, acuden exclusivamente al concesionario oficial. El Reglamento (UE) 461/2010 establece con total claridad que puedes elegir tu taller libremente, y nuestro compromiso es ofrecerte un servicio que justifique esa elección con resultados, no solo con precios.\n\nLa realidad es que un BMW no funciona igual en Aguilar de Segarra que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-16 (Eix del Llobregat), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Aguilar de Segarra que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Aguilar de Segarra. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Aguilar de Segarra y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
-  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Aguilar de Segarra, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
-  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
+  "introLocal": "Aguilar de Segarra ocupa una posición singular en el mapa del Bages: situada en el extremo sur de la comarca, donde la meseta se eleva por encima de los 600 metros y el paisaje se abre en un horizonte amplio de campos de cereal, viñedos dispersos y formaciones rocosas de arenisca. Con apenas 250 habitantes distribuidos entre el pequeño núcleo y un puñado de masías centenarias, este municipio fronterizo con la Anoia vive a medio camino entre dos mundos: el industrial de Manresa al norte y el agrícola de la Segarra al oeste. Es un lugar donde el silencio se mide en kilómetros y donde tener un vehículo fiable no es una comodidad sino una condición para la supervivencia cotidiana.\n\nEl altiplano de Aguilar de Segarra impone a los vehículos un régimen de desgaste particular que los manuales de mantenimiento estándar no contemplan. El viento constante que barre la meseta arrastra polvo mineral, semillas y partículas de tierra seca que se incrustan en cada rendija del vehículo, desde las juntas de las puertas hasta los conductos de ventilación. En verano, las temperaturas superan con facilidad los 35 grados sobre el asfalto expuesto, provocando estrés térmico en neumáticos, fluidos y componentes electrónicos. En invierno, la altitud y la exposición al cierzo hacen que las heladas sean más frecuentes e intensas que en el fondo del valle, con noches que bajan regularmente por debajo de los -5 grados entre diciembre y febrero.\n\nLas carreteras que conectan Aguilar de Segarra con el exterior reflejan fielmente su carácter de pueblo fronterizo. La BV-1031 desciende hacia Calaf y la Anoia, mientras que las pistas locales conducen hacia Rajadell y, desde allí, a la C-25 o la C-55 en dirección a Manresa. Son vías estrechas, con tramos sin arcén y un firme castigado por los ciclos de hielo y deshielo que generan baches y grietas superficiales. Los vehículos agrícolas que comparten estas carreteras dejan además rastros de barro y piedras sueltas que suponen un riesgo constante para los bajos del coche, los neumáticos y los paragolpes delanteros.\n\nPara un propietario de BMW en Aguilar de Segarra, la distancia al taller especializado más cercano ha sido tradicionalmente un obstáculo. Manresa queda a más de 30 kilómetros de carretera comarcal, y Barcelona está prácticamente a una hora y media. Cualquier avería, por menor que sea, implica organizar un desplazamiento largo y perder medio día como mínimo. Esta realidad ha llevado a muchos conductores de la zona a aplazar revisiones y acumular pequeños problemas que, sin intervención a tiempo, derivan en reparaciones costosas. Un testigo encendido en el salpicadero se convierte en algo que se ignora hasta que el fallo se agrava, simplemente porque ir al taller supone demasiado esfuerzo logístico.\n\nNuestro servicio técnico BMW para Aguilar de Segarra nace para romper esa inercia. Ofrecemos diagnóstico y reparación profesional con recogida del vehículo en el propio municipio, de forma que puedas mantener tu BMW en condiciones óptimas sin sacrificar tu jornada. Conocemos el tipo de desgaste que provoca circular por el altiplano del sur del Bages: los filtros que se colmatan antes de tiempo, las baterías que sufren con las heladas extremas, las suspensiones que acusan los baches de las comarcales. Trabajamos con piezas originales BMW y equipamiento de diagnóstico oficial para ofrecer un nivel de servicio idéntico al de un concesionario de ciudad, pero con la cercanía y la flexibilidad que necesita un pueblo como Aguilar de Segarra.",
+  "servicesIntro": "Cubrimos todas las necesidades de mantenimiento y reparación de tu BMW, desde las revisiones programadas hasta las intervenciones de mecánica mayor, con atención especial a los problemas que genera el clima extremo y las carreteras del altiplano del sur del Bages.",
+  "processIntro": "Nuestro objetivo es que mantener tu BMW en perfectas condiciones sea tan sencillo como hacer una llamada, sin importar lo remoto que sea tu domicilio en Aguilar de Segarra.",
   "processSteps": [
     {
-      "title": "Evaluación inicial con ISTA",
-      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
+      "title": "Contacto directo",
+      "body": "Llámanos o escríbenos por WhatsApp describiendo el problema o la revisión que necesitas. Te damos una primera orientación sobre plazos y costes sin compromiso."
     },
     {
-      "title": "Propuesta económica transparente",
-      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
+      "title": "Recogida en Aguilar de Segarra",
+      "body": "Nos desplazamos hasta tu domicilio o punto acordado en el municipio para recoger el BMW. Tú no mueves un dedo."
     },
     {
-      "title": "Aprobación del propietario",
-      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
+      "title": "Diagnóstico integral",
+      "body": "Conectamos tu vehículo al sistema de diagnóstico BMW y realizamos una inspección visual completa de bajos, carrocería y compartimento motor, adaptada a las condiciones de uso del altiplano."
     },
     {
-      "title": "Ejecución con estándares BMW",
-      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
+      "title": "Presupuesto y reparación",
+      "body": "Te enviamos el presupuesto desglosado por WhatsApp o email. Solo procedemos con tu aprobación explícita. Utilizamos piezas originales o equivalentes homologadas."
     },
     {
-      "title": "Verificación final y seguimiento",
-      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
+      "title": "Devolución con informe",
+      "body": "Devolvemos el BMW en Aguilar de Segarra acompañado de un informe técnico detallado y la programación del próximo mantenimiento."
     }
   ],
-  "commonIssuesIntro": "Los BMW que circulan habitualmente por Aguilar de Segarra presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
+  "commonIssuesIntro": "Los vehículos BMW que circulan habitualmente por Aguilar de Segarra y el altiplano del sur del Bages presentan patrones de avería claramente influidos por la altitud, el viento, las variaciones térmicas extremas y el estado de las carreteras comarcales.",
   "commonIssues": [
     {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
+      "title": "Degradación acelerada de neumáticos",
+      "body": "El asfalto caliente del verano y las grietas del firme por los ciclos de hielo-deshielo provocan un desgaste irregular y prematuro de los neumáticos. Revisamos presiones, alineación y estado de la banda de rodadura en cada visita."
     },
     {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
+      "title": "Estrés térmico en componentes electrónicos",
+      "body": "La amplitud térmica del altiplano, con diferencias de más de 40 grados entre verano e invierno, fatiga los conectores eléctricos, las soldaduras de módulos y los cables del motor. Diagnosticamos y reparamos fallos intermitentes de electrónica."
     },
     {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
+      "title": "Baterías debilitadas por heladas extremas",
+      "body": "Las noches bajo -5 grados reducen drásticamente la capacidad de las baterías. Realizamos test de carga y resistencia interna, y sustituimos baterías AGM cuando la capacidad cae por debajo del umbral seguro de arranque."
     },
     {
-      "title": "Desgaste prematuro de frenos",
-      "body": "La conducción urbana por Aguilar de Segarra, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
+      "title": "Filtros obstruidos por polvo mineral",
+      "body": "El viento del altiplano arrastra partículas de tierra seca y polvo de cereal que saturan los filtros de aire motor y habitáculo en la mitad del intervalo habitual. Adelantamos las sustituciones para proteger el motor."
     },
     {
-      "title": "Consumo excesivo de aceite en motores turbo",
-      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
+      "title": "Suspensión castigada por baches",
+      "body": "Las carreteras comarcales entre Aguilar y las poblaciones vecinas acumulan baches y parches irregulares que afectan a amortiguadores, silentblocks y rótulas. Inspeccionamos el tren delantero y trasero para detectar holguras antes de que se conviertan en problema."
     }
   ],
   "whyUs": [
     {
-      "title": "Mantenimiento sin perder garantía",
-      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
+      "title": "Servicio que viene a ti",
+      "body": "No tienes que conducir 30 km hasta Manresa para una revisión. Recogemos y devolvemos tu BMW en Aguilar de Segarra, en el horario que mejor te convenga."
     },
     {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
+      "title": "Adaptados al clima extremo",
+      "body": "Entendemos lo que el altiplano del Bages le hace a un coche. Nuestros planes de mantenimiento ajustan intervalos de filtros, baterías y fluidos al uso real en esta zona."
     },
     {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
+      "title": "Mismo nivel que un concesionario",
+      "body": "Equipo de diagnóstico BMW actualizado, piezas originales o equivalentes homologadas, y técnicos con formación específica en sistemas BMW modernos."
     },
     {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
+      "title": "Presupuestos cerrados y sin sorpresas",
+      "body": "Recibes el desglose completo antes de que empecemos. El precio que aceptas es el precio que pagas, sin costes ocultos."
     },
     {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
+      "title": "Historial de mantenimiento documentado",
+      "body": "Cada intervención queda registrada en un informe que puedes usar para la reventa del vehículo o para justificar garantías ante el fabricante."
     }
   ],
-  "testimonialsIntro": "Conductores de BMW en Aguilar de Segarra que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
+  "testimonialsIntro": "Propietarios de BMW en Aguilar de Segarra y las masías del altiplano sur del Bages ya disfrutan de un servicio técnico especializado que llega hasta donde ellos están.",
   "testimonials": [
     {
-      "name": "Núria",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 330i G20 2021",
-      "body": "Buscaba activar funciones de codificación en mi BMW 330i y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Aguilar de Segarra lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
+      "name": "Valentí Grau Soler",
+      "neighborhood": "Cal Notari",
+      "car": "BMW X3 xDrive30d",
+      "body": "Llevo el X3 por pistas de tierra entre campos todos los días. Me hacían la revisión en Manresa y perdía la mañana entera. Ahora vienen a buscarlo a casa, me lo devuelven al día siguiente y los filtros los cambian antes de que se atasquen. Diferencia total.",
       "rating": 5
     },
     {
-      "name": "Pau",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X2 sDrive18d F39 2021",
-      "body": "Necesitaba un cambio de embrague en mi BMW X2 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
+      "name": "Dolors Prat Viladecans",
+      "neighborhood": "Aguilar centre",
+      "car": "BMW 220d Gran Tourer",
+      "body": "En febrero el coche no arrancaba después de una noche de -7 grados. Me cambiaron la batería esa misma mañana en la puerta de casa. Además me revisaron los calentadores y estaban a punto de fallar. Si no llegan a detectarlo, me hubiera quedado tirada otra vez.",
       "rating": 5
     },
     {
-      "name": "Laia",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 335i F30 2015",
-      "body": "Me saltó el aviso de motor en el BMW 335i cuando circulaba cerca de Aguilar de Segarra. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
-      "rating": 4
+      "name": "Joan Castellà Bernat",
+      "neighborhood": "Mas de la Font",
+      "car": "BMW 530d xDrive",
+      "body": "Los baches de la carretera hacia Rajadell me habían destrozado los amortiguadores delanteros y yo ni me daba cuenta porque el desgaste fue gradual. En la revisión me lo detectaron y me los cambiaron con piezas originales. El coche volvió a ir como una seda.",
+      "rating": 5
     },
     {
-      "name": "Oriol",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 116d F20 2018",
-      "body": "Buscaba activar funciones de codificación en mi BMW 116d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Aguilar de Segarra lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
+      "name": "Mireia Altimira",
+      "neighborhood": "Can Rossinyol",
+      "car": "BMW X1 sDrive18i",
+      "body": "Vivo en una masía a 3 km del pueblo y no tengo otro coche. Necesitaba un taller que entendiera eso y que fuera rápido. Me hacen la revisión completa en medio día y me avisan por WhatsApp cuando hay que programar la siguiente. Genial.",
       "rating": 5
     }
   ],
-  "zoneText": "Damos servicio especializado BMW a toda la zona de Aguilar de Segarra y municipios colindantes. Si resides en Aguilar de Segarra, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-16, A-2, Red viaria comarcal— facilitan el desplazamiento desde cualquier punto de la comarca.",
+  "zoneText": "Cubrimos Aguilar de Segarra y todo el altiplano del sur del Bages, una zona de transición hacia la Anoia y la Segarra donde los talleres especializados en marcas premium brillan por su ausencia.",
   "zoneNeighborhoods": [
-    "Centre de Aguilar de Segarra",
-    "Zona residencial"
+    "Rajadell",
+    "Fonollosa",
+    "Calaf",
+    "Castellfollit del Boix",
+    "Sant Joan de Vilatorrada",
+    "Súria",
+    "Calonge de Segarra",
+    "Pujalt"
   ],
   "zoneAccessRoutes": [
-    "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)",
-    "Red viaria comarcal"
+    "BV-1031 hacia Calaf y Anoia",
+    "Pista local hacia Rajadell",
+    "Conexión a C-25 (Eix Transversal) por Rajadell",
+    "Conexión a C-55 hacia Manresa"
   ],
   "faqLocal": [
     {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+      "q": "¿Venís hasta Aguilar de Segarra a recoger el coche?",
+      "a": "Sí, recogemos y devolvemos tu BMW en Aguilar de Segarra y en las masías del término municipal. Coordinamos el servicio para que coincida con tus horarios."
     },
     {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+      "q": "¿Cada cuánto debo cambiar los filtros si vivo en el altiplano?",
+      "a": "Recomendamos cambiar filtro de aire motor y de habitáculo cada 10.000-12.000 km en lugar de los 20.000-25.000 estándar, debido al polvo mineral y agrícola que arrastra el viento en esta zona."
     },
     {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+      "q": "¿Cómo afectan las heladas a mi BMW?",
+      "a": "Las heladas frecuentes debilitan la batería, pueden causar condensación en módulos electrónicos y aceleran la degradación de líquido refrigerante y limpiaparabrisas. Una revisión previa al invierno previene la mayoría de los problemas."
     },
     {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+      "q": "¿Puedo mantener la garantía oficial BMW con vuestro servicio?",
+      "a": "Sí. Seguimos el plan de mantenimiento del fabricante y utilizamos piezas originales o equivalentes homologadas. La normativa europea protege tu derecho a elegir taller sin perder la garantía."
     },
     {
-      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
-      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
+      "q": "¿Hacéis reparaciones de carrocería por impactos con piedras?",
+      "a": "Sí, reparamos daños en carrocería, paragolpes y ópticas producidos por piedras sueltas de las carreteras comarcales. Preparamos presupuestos compatibles con las aseguradoras."
     },
     {
-      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
-      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
+      "q": "¿Trabajáis con BMW diésel y gasolina?",
+      "a": "Trabajamos con todas las motorizaciones BMW: diésel, gasolina, híbridos enchufables y eléctricos. Nuestro equipo de diagnóstico cubre todos los modelos y generaciones actualmente en circulación."
     }
   ],
-  "closingHeadline": "Tu alternativa BMW de confianza en Aguilar de Segarra",
-  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Aguilar de Segarra.",
+  "closingHeadline": "Tu BMW en el altiplano merece un taller que llegue hasta ti",
+  "closingCta": "Llámanos o envíanos un WhatsApp. Recogemos tu BMW en Aguilar de Segarra y lo devolvemos revisado, reparado y listo para seguir recorriendo el altiplano.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

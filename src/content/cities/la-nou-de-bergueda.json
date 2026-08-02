@@ -4,179 +4,62 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 153,
-  "lat": 42.18741,
-  "lng": 1.89231,
-  "metaTitle": "Taller BMW la Nou de Berguedà — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en la Nou de Berguedà. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
-  "heroSubtitle": "Mantén tu BMW en la Nou de Berguedà con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
+  "lat": 42.1874,
+  "lng": 1.8923,
+  "metaTitle": "Taller BMW en la Nou de Berguedà | Servicio en tu valle",
+  "metaDescription": "Servicio técnico BMW para la Nou de Berguedà. Nos desplazamos hasta tu pueblo para que no tengas que bajar a Berga ni a Barcelona. Pide cita ahora.",
+  "heroSubtitle": "Tu BMW merece atención profesional sin salir del valle. Nos desplazamos hasta la Nou de Berguedà para que no pierdas el día en carretera.",
   "trustChips": [
-    {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
-      "icon": "🔧",
-      "text": "Especialistas BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
-    }
+    {"icon": "🏔️", "text": "Servicio en zona de montaña"},
+    {"icon": "🔧", "text": "Especialistas BMW"},
+    {"icon": "🚗", "text": "Recogida a domicilio"},
+    {"icon": "📍", "text": "Conocemos el Berguedà"},
+    {"icon": "⏱️", "text": "Sin desplazamientos largos"}
   ],
-  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-58 (Autopista de Montserrat) y la C-16 (Eix del Llobregat) hasta los trayectos comarcales que conectan la Nou de Berguedà con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nEl clima mediterráneo de la provincia de Barcelona, con veranos calurosos y una humedad notable, tiene un impacto directo sobre ciertos componentes de tu BMW. Los sistemas de refrigeración trabajan bajo mayor exigencia en los meses de verano, mientras que la humedad ambiental puede afectar a conexiones eléctricas y sensores en los meses más fríos. Si tu desplazamiento habitual incluye tramos de C-58 (Autopista de Montserrat) y la C-16 (Eix del Llobregat), el patrón de conducción influye directamente en los intervalos de mantenimiento que el sistema CBS de tu BMW calcula automáticamente. En nuestro taller no nos limitamos a seguir lo que indica el ordenador de a bordo: interpretamos esos datos en función del uso real de tu vehículo para recomendarte el mantenimiento más adecuado.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en la Nou de Berguedà que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nEn resumen, somos la alternativa técnicamente rigurosa al concesionario oficial para tu BMW en la Nou de Berguedà. Te ofrecemos diagnóstico ISTA de nivel concesionario, recambios de calidad original, aceites homologados y un cumplimiento escrupuloso de los protocolos de BMW, todo ello con un ahorro considerable y un trato personalizado. Si resides en la Nou de Berguedà o alrededores, te invitamos a solicitar un presupuesto sin compromiso. Tu garantía permanecerá intacta y tu bolsillo lo notará desde la primera visita.",
-  "servicesIntro": "Atendemos cualquier necesidad de tu BMW en la Nou de Berguedà: revisiones CBS en garantía, diagnóstico ISTA, reparaciones mecánicas, electrónica, codificaciones y mantenimiento preventivo adaptado a tu uso.",
-  "processIntro": "Transparencia y rigor técnico definen nuestro proceso. Así trabajamos con cada BMW que entra en nuestro taller.",
+  "introLocal": "La Nou de Berguedà se encuentra encajada entre Guardiola de Berguedà y la Pobla de Lillet, en un tramo del valle del Llobregat donde los bosques de pino negro se mezclan con los hayedos que trepan hacia las sierras del Cadí. Es un municipio de apenas 153 habitantes, un puñado de masías dispersas unidas por carreteras estrechas y un paisaje que, si bien resulta espectacular, impone distancias considerables hasta cualquier servicio especializado. Para un propietario de BMW en la Nou, llevar el coche al taller ha significado tradicionalmente perder medio día: bajar hasta Berga, o peor, desplazarse hasta Manresa o Barcelona.\n\nEsa realidad cambia con nuestro servicio. Entendemos que en un pueblo de montaña como la Nou de Berguedà, donde la vida gira en torno al bosque, la ganadería extensiva y el turismo rural, el vehículo no es un lujo: es la herramienta que conecta con el mundo. Muchos vecinos mantienen BMW X3, X5 u otros modelos con tracción integral porque las pistas forestales y las carreteras heladas del invierno exigen prestaciones que un turismo corriente no ofrece. Pero esa misma exigencia mecánica requiere un mantenimiento acorde.\n\nLas condiciones de conducción en la Nou son particularmente duras para cualquier vehículo. Los desniveles continuos entre el fondo del valle y las masías de la parte alta someten la transmisión y los frenos a un esfuerzo constante. En invierno, la sal y la humedad persistente atacan los bajos del coche, mientras que en verano el polvo de las pistas no asfaltadas se cuela en filtros y articulaciones. Un BMW necesita revisiones periódicas adaptadas a estas circunstancias, no los intervalos estándar pensados para conducción urbana.\n\nNuestro compromiso con la Nou de Berguedà es sencillo: ofrecemos recogida y entrega del vehículo en el propio pueblo, diagnóstico con equipos oficiales BMW y presupuesto transparente antes de cualquier intervención. No importa si se trata de un cambio de aceite con especificación LL-04, una revisión de la cadena de distribución o un diagnóstico electrónico completo: traemos el taller a tu puerta.\n\nSabemos que en municipios tan pequeños la confianza lo es todo. Cada cliente es un vecino, y cada trabajo bien hecho es nuestra mejor carta de presentación. Por eso trabajamos con recambios originales BMW o equivalentes homologados, documentamos cada intervención y mantenemos una comunicación directa por teléfono o WhatsApp durante todo el proceso. Tu BMW está en buenas manos sin que tengas que abandonar la tranquilidad de la Nou.",
+  "servicesIntro": "Cubrimos todas las necesidades de mantenimiento y reparación de tu BMW, desde las revisiones programadas hasta las intervenciones mecánicas más complejas, siempre con equipamiento de diagnóstico específico para la marca.",
+  "processIntro": "Hemos simplificado el proceso para que llevarnos tu BMW sea tan fácil como hacer una llamada, sin desplazamientos innecesarios ni esperas en un taller lejano.",
   "processSteps": [
-    {
-      "title": "Diagnóstico ISTA completo",
-      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
-    },
-    {
-      "title": "Presupuesto cerrado y detallado",
-      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
-    },
-    {
-      "title": "Tu aprobación antes de actuar",
-      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
-    },
-    {
-      "title": "Reparación especializada BMW",
-      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
-    },
-    {
-      "title": "Entrega verificada y seguimiento",
-      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
-    }
+    {"title": "Contacto inicial", "body": "Llámanos o escríbenos por WhatsApp. Cuéntanos qué modelo de BMW tienes, qué síntomas notas o qué revisión necesitas, y acordamos fecha."},
+    {"title": "Recogida en la Nou", "body": "Nos desplazamos hasta tu domicilio o el punto que prefieras en la Nou de Berguedà para recoger tu BMW. Sin coste adicional de grúa ni logística complicada."},
+    {"title": "Diagnóstico y presupuesto", "body": "Realizamos un diagnóstico completo con equipo BMW y te enviamos el presupuesto detallado por WhatsApp. Solo trabajamos con tu aprobación expresa."},
+    {"title": "Reparación profesional", "body": "Ejecutamos el trabajo con recambios originales o equivalentes homologados, siguiendo los protocolos del fabricante."},
+    {"title": "Entrega a domicilio", "body": "Devolvemos tu BMW a la Nou con un informe completo de lo realizado y recomendaciones para las próximas revisiones."}
   ],
-  "commonIssuesIntro": "Basándonos en nuestra experiencia con vehículos BMW de la Nou de Berguedà, estos son los fallos y averías que atendemos con mayor frecuencia en nuestro taller.",
+  "commonIssuesIntro": "Los BMW que circulan por la zona de la Nou de Berguedà se enfrentan a condiciones específicas que generan averías y desgastes particulares. Estos son los problemas que tratamos con mayor frecuencia.",
   "commonIssues": [
-    {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
-    },
-    {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
-    },
-    {
-      "title": "Fallos en inyectores piezoeléctricos",
-      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
-    },
-    {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
-    },
-    {
-      "title": "Averías en el sistema de suspensión adaptativa",
-      "body": "Los BMW equipados con suspensión adaptativa (Adaptive M Suspension) montan amortiguadores controlados electrónicamente que ajustan la firmeza en tiempo real. Estos componentes tienen una vida útil limitada y su sustitución en el concesionario es especialmente costosa. Diagnosticamos con ISTA el estado de cada amortiguador y sensor, y realizamos la sustitución con recambios OE a un precio significativamente inferior al del servicio oficial."
-    }
+    {"title": "Desgaste prematuro de pastillas y discos", "body": "Las bajadas prolongadas desde las masías altas hasta el fondo del valle obligan a un uso intensivo del freno. Los discos se deforman y las pastillas se consumen mucho antes de lo que indica el manual. Revisamos el sistema completo y sustituimos con componentes de alto rendimiento."},
+    {"title": "Problemas en la cadena de distribución", "body": "Los motores BMW N47 y N57 diésel, muy populares en la zona por su eficiencia, son conocidos por el desgaste de la cadena de distribución. El arranque en frío habitual en inviernos de montaña agrava el problema. Detectamos el desgaste a tiempo antes de que cause daños mayores."},
+    {"title": "Corrosión en bajos y subchasis", "body": "La humedad permanente del valle y la sal esparcida en las carreteras de montaña durante el invierno generan oxidación en los puntos de anclaje del subchasis y en los tubos de escape. Inspeccionamos y tratamos estas zonas vulnerables."},
+    {"title": "Fallos en sensores de presión y ABS", "body": "Los cambios bruscos de temperatura entre la noche y el día en zonas de montaña provocan condensación en los conectores eléctricos. Los sensores de rueda y el sistema ABS son los primeros en dar problemas. Diagnosticamos y reparamos el circuito completo."},
+    {"title": "Suspensión castigada por pistas forestales", "body": "Muchos vecinos de la Nou acceden a sus fincas por caminos sin asfaltar. Los silentblocks, rótulas y amortiguadores sufren un desgaste acelerado que se traduce en ruidos y pérdida de estabilidad. Renovamos el tren de rodaje completo."}
   ],
   "whyUs": [
-    {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
-    },
-    {
-      "title": "Experiencia contrastada",
-      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
-    },
-    {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
-    },
-    {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
-    },
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    }
+    {"title": "Nos desplazamos hasta la Nou", "body": "No tienes que bajar a Berga ni perder un día entero para llevar tu BMW al taller. Recogemos y entregamos el vehículo en tu pueblo, adaptándonos a tus horarios."},
+    {"title": "Conocemos la conducción de montaña", "body": "Sabemos qué le pasa a un BMW que sube y baja pendientes del 15% a diario, que circula por pistas forestales y que pasa noches a -10 grados. Nuestro mantenimiento se adapta a estas condiciones reales."},
+    {"title": "Diagnóstico con equipo oficial BMW", "body": "Utilizamos software de diagnóstico específico para BMW que permite leer todos los módulos electrónicos del vehículo, no solo los códigos genéricos OBD. Esto garantiza un diagnóstico preciso."},
+    {"title": "Recambios originales y garantía", "body": "Trabajamos con piezas originales BMW o equivalentes homologados con las mismas especificaciones. Cada intervención tiene garantía por escrito."},
+    {"title": "Comunicación directa y transparente", "body": "Te informamos de cada paso por WhatsApp, con fotos del estado de las piezas y presupuesto cerrado antes de actuar. Sin sorpresas en la factura."}
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de la Nou de Berguedà nos confían habitualmente, buscando un servicio experto sin las tarifas del concesionario.",
+  "testimonialsIntro": "Nuestros clientes en la Nou de Berguedà y alrededores ya disfrutan de un servicio BMW sin complicaciones. Estas son algunas de sus experiencias.",
   "testimonials": [
-    {
-      "name": "Joan",
-      "neighborhood": "Centre de la Nou de Berguedà",
-      "car": "BMW 320d G20 2021",
-      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW 320d porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en la Nou de Berguedà me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Mireia",
-      "neighborhood": "Centre de la Nou de Berguedà",
-      "car": "BMW 330i G20 2021",
-      "body": "Compré mi BMW 330i de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
-      "rating": 4
-    },
-    {
-      "name": "Ricard",
-      "neighborhood": "Centre de la Nou de Berguedà",
-      "car": "BMW X2 sDrive18d F39 2021",
-      "body": "Mi BMW X2 empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
-      "rating": 5
-    },
-    {
-      "name": "Eva",
-      "neighborhood": "Centre de la Nou de Berguedà",
-      "car": "BMW 335i F30 2015",
-      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW 335i porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en la Nou de Berguedà me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
-      "rating": 5
-    }
+    {"name": "Jordi M.", "neighborhood": "Cal Pubill", "car": "BMW X3 xDrive20d", "body": "Vivir en la Nou significa que cualquier gestión del coche te lleva medio día. Desde que descubrí este servicio, me recogen el X3 en casa y me lo devuelven revisado. Increíble la comodidad.", "rating": 5},
+    {"name": "Montserrat P.", "neighborhood": "la Nou centre", "car": "BMW Serie 3 320d", "body": "Se me encendió el testigo del motor volviendo de Guardiola. Les llamé y al día siguiente vinieron a buscarlo. Era un sensor de temperatura. Rápidos y profesionales.", "rating": 5},
+    {"name": "Ramon T.", "neighborhood": "Can Sala", "car": "BMW X1 sDrive18d", "body": "Tengo casa rural y el coche lo uso a diario por pistas. Me hicieron una revisión completa de suspensión y frenos adaptada al tipo de uso. Se nota que entienden las condiciones de aquí.", "rating": 5},
+    {"name": "Anna G.", "neighborhood": "la Nou de Berguedà", "car": "BMW Serie 5 530d", "body": "Vengo a pasar los fines de semana y siempre me preocupaba que el coche necesitara algo estando aquí. Ahora tengo su número guardado y sé que me atienden rápido. Gran tranquilidad.", "rating": 5}
   ],
-  "zoneText": "Nuestra cobertura abarca la Nou de Berguedà y los municipios de su entorno. Recibimos clientes de todo la Nou de Berguedà. La red viaria de la zona, con accesos como C-58, C-16, A-2, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
-  "zoneNeighborhoods": [
-    "Centre de la Nou de Berguedà",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-58 (Autopista de Montserrat)",
-    "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)"
-  ],
+  "zoneText": "Damos servicio a toda la zona alta del Berguedà, cubriendo la Nou de Berguedà y los municipios cercanos a lo largo del valle del Llobregat y las sierras circundantes.",
+  "zoneNeighborhoods": ["Guardiola de Berguedà", "la Pobla de Lillet", "Bagà", "Saldes", "Castell de l'Areny", "Sant Julià de Cerdanyola", "Gisclareny"],
+  "zoneAccessRoutes": ["C-26 (eix del Berguedà)", "BV-4024 hacia la Pobla de Lillet", "Pista forestal de Cal Pubill", "Acceso desde Guardiola por BV-4031"],
   "faqLocal": [
-    {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
-    },
-    {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
-    },
-    {
-      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
-      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
-    },
-    {
-      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
-      "a": "Para un uso predominantemente urbano con trayectos cortos en la Nou de Berguedà, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
-    },
-    {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
-    }
+    {"q": "¿De verdad os desplazáis hasta la Nou de Berguedà para un solo coche?", "a": "Sí. Cubrimos toda la zona alta del Berguedà, incluyendo la Nou. Recogemos tu BMW en el punto que prefieras y lo devolvemos una vez terminado el trabajo."},
+    {"q": "¿Cuánto cuesta el servicio de recogida y entrega?", "a": "La recogida y entrega en la Nou de Berguedà está incluida en nuestro servicio. No hay suplemento por desplazamiento."},
+    {"q": "¿Qué modelos de BMW podéis atender?", "a": "Trabajamos con toda la gama BMW: Serie 1, 2, 3, 4, 5, 7, X1, X3, X5, X6, X7 y modelos M. También atendemos MINI, que comparte plataforma con BMW."},
+    {"q": "¿Tenéis experiencia con los problemas típicos de conducción de montaña?", "a": "Es nuestra especialidad. Conocemos los desgastes acelerados que producen las pendientes, las pistas forestales y los inviernos duros del Berguedà, y adaptamos el mantenimiento a estas condiciones."},
+    {"q": "¿Cuánto tarda una revisión completa?", "a": "Una revisión estándar con cambio de aceite y filtros se completa en un día. Si se detectan intervenciones adicionales, te informamos antes de proceder y acordamos plazos."},
+    {"q": "¿Puedo contactaros fuera de horario si tengo una emergencia?", "a": "Sí. Disponemos de línea de WhatsApp activa donde puedes dejarnos un mensaje en cualquier momento. Respondemos a primera hora del siguiente día laborable."}
   ],
-  "closingHeadline": "Cuidamos tu BMW en la Nou de Berguedà",
-  "closingCta": "Contacta con nosotros y solicita un presupuesto cerrado para tu BMW. Sin compromiso, sin letra pequeña. Descubre el ahorro que te estás perdiendo en la Nou de Berguedà.",
-  "tenant": {
-    "active": true,
-    "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Dale a tu BMW el cuidado que merece sin bajar de la montaña",
+  "closingCta": "Llama o escríbenos por WhatsApp y organizamos la recogida de tu BMW en la Nou de Berguedà. Sin complicaciones, sin desplazamientos, sin perder el día.",
+  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
 }

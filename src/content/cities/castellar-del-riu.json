@@ -4,179 +4,63 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 174,
-  "lat": 42.12286,
-  "lng": 1.77249,
-  "metaTitle": "Taller BMW en Castellar del Riu — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Castellar del Riu: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
-  "heroSubtitle": "Tu BMW merece un especialista. En Castellar del Riu, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
+  "lat": 42.1229,
+  "lng": 1.7725,
+  "metaTitle": "Taller BMW en Castellar del Riu | Servicio para Zonas Remotas",
+  "metaDescription": "Taller BMW para Castellar del Riu: suspensión, embrague y electrónica adaptados a pistas forestales y aislamiento de montaña. Diagnóstico profesional BMW.",
+  "heroSubtitle": "Conducir un BMW por las pistas de Castellar del Riu exige un mantenimiento que pocos talleres saben dar. Nosotros sí.",
   "trustChips": [
-    {
-      "icon": "🔧",
-      "text": "Taller exclusivo BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "Diagnóstico nivel concesionario"
-    },
-    {
-      "icon": "✅",
-      "text": "Revisiones CBS en garantía"
-    },
-    {
-      "icon": "💰",
-      "text": "Precios hasta -50%"
-    },
-    {
-      "icon": "🛡️",
-      "text": "Presupuesto sin sorpresas"
-    }
+    {"icon": "🌲", "text": "Taller para zonas aisladas"},
+    {"icon": "🔩", "text": "Suspensión reforzada"},
+    {"icon": "📡", "text": "Diagnóstico electrónico BMW"},
+    {"icon": "🛞", "text": "Neumáticos todoterreno"},
+    {"icon": "📋", "text": "Presupuesto cerrado"},
+    {"icon": "🚗", "text": "Recogida del vehículo"}
   ],
-  "introLocal": "Si conduces un BMW en Castellar del Riu, probablemente ya te has preguntado alguna vez si realmente necesitas acudir al concesionario oficial para las revisiones y reparaciones de tu vehículo. La respuesta es clara: no. La normativa europea, a través del Reglamento (UE) 461/2010, te garantiza el derecho a elegir el taller que prefieras sin perder la garantía del fabricante, siempre que este cumpla los estándares técnicos de BMW. En Castellar del Riu, cada vez más propietarios de BMW optan por talleres especializados independientes que ofrecen la misma calidad técnica que el servicio oficial, pero con un trato más cercano y precios significativamente más ajustados.\n\nEn nuestra experiencia como especialistas BMW, los vehículos que circulan habitualmente por Castellar del Riu y su entorno presentan patrones de desgaste característicos. Los modelos diésel, particularmente los equipados con motores N47, B47 y B57, tienden a acumular problemas en el filtro de partículas cuando predomina la conducción urbana de baja velocidad. Los modelos de gasolina, por su parte, pueden desarrollar depósitos de carbonilla en la admisión, especialmente los B48 con inyección directa. También vemos con frecuencia desgaste prematuro en los sistemas de suspensión adaptativa, provocado por el estado irregular de algunas carreteras comarcales de la zona. Todo esto lo tenemos en cuenta cuando diagnosticamos y planificamos el mantenimiento de tu BMW.\n\nLo que nos diferencia de un taller multimarca convencional es nuestra capacidad para hablar el mismo idioma que tu BMW. Nuestro sistema de diagnóstico ISTA/Rheingold es idéntico al que encontrarás en el concesionario oficial. Con él accedemos a la totalidad de los módulos de control de tu vehículo, leemos y borramos códigos de avería, realizamos pruebas de actuadores, programamos unidades de control nuevas y actualizamos el software del coche cuando es necesario. Para los propietarios de BMW en Castellar del Riu que buscan un servicio técnico de nivel oficial, esta es una garantía tangible de que su coche está en las manos adecuadas.\n\nEl aspecto económico es fundamental, y queremos ser transparentes al respecto. Los talleres oficiales BMW operan con una estructura de costes que incluye las instalaciones de marca, la imagen corporativa, los márgenes de la red de concesionarios y otros gastos indirectos que inevitablemente se trasladan al precio final. Nuestro modelo es diferente: nos centramos exclusivamente en la calidad técnica del servicio. Utilizamos aceites homologados BMW Longlife-04 (LL-04) o la especificación correspondiente a tu motor, filtros y recambios fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW —Bosch, ZF, ATE, Mahle, Continental, LuK—, pero sin el sobrecoste del embalaje con el logotipo de la marca. El resultado es un ahorro que puede alcanzar el 50% en revisiones completas y reparaciones importantes, sin renunciar a nada en calidad.\n\nEn definitiva, los propietarios de BMW en Castellar del Riu tienen una alternativa real y contrastada al servicio oficial. No se trata de un taller genérico que también acepta BMW: somos especialistas que hemos dedicado nuestra carrera profesional a esta marca. Conocemos cada motor, cada caja de cambios, cada sistema electrónico. Trabajamos con las mismas herramientas y materiales que el concesionario, pero con la agilidad, la cercanía y la competitividad de un taller independiente. Contacta con nosotros, cuéntanos qué necesita tu BMW y te daremos una solución profesional, transparente y económicamente ventajosa.",
-  "servicesIntro": "Nuestro catálogo de servicios para BMW en Castellar del Riu cubre todo lo que tu vehículo pueda necesitar: revisiones periódicas CBS, diagnosis avanzada, reparaciones mecánicas, electrónica y mantenimiento preventivo.",
-  "processIntro": "Trabajamos con total transparencia. Conectamos tu BMW al sistema ISTA y te entregamos un presupuesto cerrado antes de cualquier intervención.",
+  "introLocal": "Castellar del Riu es uno de esos municipios del Berguedà que no aparecen en las guías turísticas al uso. Con apenas 174 habitantes dispersos entre masías centenarias y una extensión forestal que supera con creces la superficie habitada, este rincón del prepirineo catalán es el paradigma del aislamiento rural. Los caminos que conectan los núcleos de población son estrechos, muchos sin asfaltar, flanqueados por robles y pinos que en otoño alfombran la calzada de hojas húmedas. Mantener un BMW en estas condiciones no es lo mismo que hacerlo en una ciudad: aquí cada kilómetro recorrido equivale, en desgaste mecánico, a varios kilómetros de autovía.\n\nEl principal enemigo de un BMW en Castellar del Riu es la propia orografía. Las pistas forestales que conectan masías y explotaciones agrícolas presentan firmes irregulares, baches profundos y tramos de tierra compactada que se convierten en barrizales después de cada lluvia. La suspensión de un BMW está diseñada para ofrecer confort y estabilidad en carreteras convencionales, pero el castigo constante de estos caminos acelera el deterioro de amortiguadores, silentblocks y rótulas de dirección. En nuestro taller realizamos inspecciones específicas del tren de rodaje, identificando holguras y desgastes prematuros antes de que comprometan la seguridad o generen averías más costosas en cascada.\n\nEl embrague es otro componente que sufre de forma desproporcionada en entornos como Castellar del Riu. Las pendientes pronunciadas obligan a un uso intensivo del pedal, especialmente en arranques en cuesta sobre gravilla o tierra suelta, donde el patinaje es inevitable. Los BMW con cambio manual —cada vez menos frecuentes pero todavía presentes en modelos de la Serie 1 y Serie 3— pueden ver reducida la vida útil del kit de embrague a la mitad respecto a un uso urbano. Diagnosticamos el estado del disco, el plato de presión y el volante bimasa con pruebas dinámicas, no solo visuales.\n\nLa electrónica de los BMW modernos presenta una paradoja en ubicaciones tan remotas como Castellar del Riu: los sistemas están diseñados para conectarse periódicamente a la red de datos del fabricante, actualizar software y reportar diagnósticos. Cuando el vehículo pasa semanas o meses sin cobertura de datos estable, pueden acumularse errores en las centralitas que solo se manifiestan como testigos encendidos en el cuadro de instrumentos o como comportamientos erráticos de sistemas como el Start/Stop, el control de estabilidad o la gestión del motor. Nuestro equipo de diagnóstico se conecta directamente al bus CAN del vehículo para leer, interpretar y borrar códigos de error con conocimiento de causa, no a ciegas.\n\nLa humedad ambiente en los valles forestales de Castellar del Riu es otro factor que muchos talleres generalistas pasan por alto. La condensación que se forma en el interior del motor durante las noches frías, combinada con trayectos cortos en los que el motor no alcanza su temperatura óptima de funcionamiento, genera una emulsión de agua y aceite que reduce la capacidad lubricante y acelera la corrosión interna. Este fenómeno, conocido como mayonesa en el tapón del aceite, es un indicador de que el motor está trabajando en condiciones marginales. Recomendamos a los propietarios de BMW en Castellar del Riu intervalos de cambio de aceite más cortos que los estándar del fabricante, y utilizamos aceites con paquetes de aditivos anticorrosión reforzados para contrarrestar el efecto de la humedad.",
+  "servicesIntro": "Nuestro catálogo de servicios BMW está pensado para vehículos que trabajan en condiciones duras: suspensión, embrague, electrónica de motor, sistemas de frenado y mantenimientos con intervalos adaptados al uso real en pistas forestales y caminos sin asfaltar.",
+  "processIntro": "Entendemos que desplazarse desde Castellar del Riu requiere planificación. Por eso hemos diseñado un proceso que maximiza la eficiencia de cada visita, desde el primer contacto hasta la entrega del vehículo.",
   "processSteps": [
-    {
-      "title": "Diagnóstico ISTA completo",
-      "body": "Conectamos tu BMW al software ISTA/Rheingold de nivel concesionario para una lectura exhaustiva de todos los módulos electrónicos. Identificamos con precisión el origen de cada fallo o la necesidad de mantenimiento, sin adivinanzas ni operaciones innecesarias."
-    },
-    {
-      "title": "Presupuesto cerrado y detallado",
-      "body": "Te entregamos un presupuesto por escrito que desglosa cada operación y cada pieza (OE u original BMW, según tu preferencia). Sin costes ocultos, sin sorpresas. Si lo deseas, incluimos la comparativa con el precio del servicio oficial."
-    },
-    {
-      "title": "Tu aprobación antes de actuar",
-      "body": "No realizamos ningún trabajo sin tu consentimiento explícito. Si durante la intervención detectamos una necesidad adicional, detenemos el proceso, te contactamos, te explicamos la situación y esperamos tu autorización para continuar."
-    },
-    {
-      "title": "Reparación especializada BMW",
-      "body": "Nuestros técnicos aplican los protocolos, pares de apriete y procedimientos especificados por BMW. Montamos recambios OE o BMW original según tu elección, garantizando un ajuste, rendimiento y durabilidad idénticos al primer equipo."
-    },
-    {
-      "title": "Entrega verificada y seguimiento",
-      "body": "Tras la intervención, actualizamos el historial de servicio digital (CBS), reseteamos los avisos del cuadro de instrumentos y, cuando procede, realizamos una prueba en carretera. Días después contactamos contigo para confirmar que todo funciona correctamente."
-    }
+    {"title": "Consulta remota por WhatsApp", "body": "Envíanos fotos o vídeos del problema. En muchos casos podemos orientar el diagnóstico antes de que te desplaces, anticipando las piezas necesarias."},
+    {"title": "Recepción y evaluación completa", "body": "Al llegar al taller, inspeccionamos no solo la incidencia reportada, sino el estado general del vehículo: tren de rodaje, niveles, electrónica y carrocería inferior."},
+    {"title": "Diagnóstico electrónico profundo", "body": "Conectamos al bus CAN del BMW para una lectura exhaustiva de todas las centralitas. Identificamos errores latentes que no siempre encienden testigos."},
+    {"title": "Intervención con piezas en stock", "body": "Mantenemos stock de los componentes más habituales en vehículos de uso rural: amortiguadores, rótulas, pastillas, filtros y kits de embrague."},
+    {"title": "Entrega con plan de mantenimiento rural", "body": "Te proponemos un calendario de revisiones adaptado al uso real del coche en Castellar del Riu, con intervalos ajustados al desgaste que genera la conducción por pistas."}
   ],
-  "commonIssuesIntro": "A continuación, detallamos las averías más habituales que encontramos en los BMW de Castellar del Riu. Conocerlas te ayudará a detectar los primeros síntomas y actuar a tiempo.",
+  "commonIssuesIntro": "Los BMW que circulan a diario por los caminos de Castellar del Riu presentan un patrón de averías distinto al de la conducción urbana. Estas son las incidencias que tratamos con mayor frecuencia en vehículos de la zona.",
   "commonIssues": [
-    {
-      "title": "Obstrucción del filtro de partículas (DPF)",
-      "body": "Los trayectos cortos y la conducción urbana por Castellar del Riu impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
-    },
-    {
-      "title": "Fallos en inyectores piezoeléctricos",
-      "body": "Los inyectores piezoeléctricos de los motores diésel BMW son componentes de alta precisión que, con el paso de los kilómetros, pueden presentar problemas de dosificación, fugas de retorno o fallo eléctrico. Los síntomas incluyen ralentí irregular, humo excesivo y pérdida de potencia. Realizamos el diagnóstico individual de cada inyector con ISTA y procedemos a la sustitución unitaria o por kits, utilizando siempre recambios de calidad original."
-    },
-    {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
-    },
-    {
-      "title": "Desgaste prematuro de frenos",
-      "body": "La conducción urbana por Castellar del Riu, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
-    },
-    {
-      "title": "Consumo excesivo de aceite en motores turbo",
-      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
-    }
+    {"title": "Amortiguadores y silentblocks prematuramente desgastados", "body": "Las pistas sin asfaltar generan vibraciones constantes que fatigan los componentes de la suspensión mucho antes de lo previsto por el fabricante. Revisamos holguras y reemplazamos con piezas reforzadas."},
+    {"title": "Embrague y volante bimasa con desgaste acelerado", "body": "Los arranques en cuesta sobre gravilla y las maniobras lentas en caminos estrechos multiplican el desgaste del embrague. Diagnosticamos el estado del volante bimasa con herramientas específicas BMW."},
+    {"title": "Condensación y emulsión en el circuito de aceite", "body": "La humedad de los valles forestales, combinada con trayectos cortos, produce acumulación de agua en el aceite. Realizamos análisis de aceite y ajustamos los intervalos de cambio."},
+    {"title": "Errores electrónicos acumulados sin conexión de datos", "body": "Los BMW modernos esperan actualizaciones periódicas. Sin conectividad estable, las centralitas acumulan errores latentes que diagnosticamos y resolvemos mediante conexión directa al bus CAN."},
+    {"title": "Daños en bajos y protecciones inferiores", "body": "Piedras sueltas, ramas y badenes sin señalizar impactan en los protectores del cárter, tubos de escape y líneas de freno. Inspeccionamos y reparamos los daños en la zona inferior del vehículo."}
   ],
   "whyUs": [
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    },
-    {
-      "title": "Recambios OE de primer equipo",
-      "body": "Montamos recambios OE (Original Equipment), fabricados por los mismos proveedores que suministran a la cadena de montaje de BMW: Bosch, ZF, ATE, Mahle, Continental, LuK. Misma calidad, mismas especificaciones, pero sin el sobrecoste del embalaje de marca."
-    },
-    {
-      "title": "Experiencia contrastada",
-      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
-    },
-    {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
-    },
-    {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
-    }
+    {"title": "Entendemos el uso rural del BMW", "body": "No aplicamos intervalos de mantenimiento urbano a un coche que circula por pistas forestales. Adaptamos cada servicio al desgaste real que genera el entorno de Castellar del Riu."},
+    {"title": "Diagnóstico electrónico sin atajos", "body": "Leemos todas las centralitas del vehículo, no solo la de motor. Muchos problemas en BMW se originan en módulos secundarios que un escáner genérico no alcanza."},
+    {"title": "Stock de piezas para desgaste rural", "body": "Amortiguadores, rótulas, kits de embrague y filtros: mantenemos en stock los componentes que más se deterioran en conducción por caminos sin asfaltar."},
+    {"title": "Coordinación para zonas remotas", "body": "Sabemos lo que supone desplazarse desde un municipio sin taller. Agrupamos intervenciones y ofrecemos diagnóstico previo por WhatsApp para reducir visitas innecesarias."},
+    {"title": "Informes claros y sin sorpresas", "body": "Cada reparación incluye un informe con fotografías del estado de las piezas, el trabajo realizado y un presupuesto que respetamos íntegramente."}
   ],
-  "testimonialsIntro": "La confianza de nuestros clientes en Castellar del Riu se basa en resultados reales. Aquí tienes algunas de las experiencias que nos comparten.",
+  "testimonialsIntro": "Vecinos de Castellar del Riu y masías cercanas ya confían en nuestro taller para mantener sus BMW en condiciones óptimas pese al exigente entorno rural. Esto es lo que cuentan.",
   "testimonials": [
-    {
-      "name": "Lluís",
-      "neighborhood": "Centre de Castellar del Riu",
-      "car": "BMW 740d G11 2020",
-      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW 740d, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
-      "rating": 4
-    },
-    {
-      "name": "Aina",
-      "neighborhood": "Centre de Castellar del Riu",
-      "car": "BMW 225xe F45 Active Tourer 2020",
-      "body": "Tuve un problema con el sistema de refrigeración de mi BMW 225xe justo antes de un viaje largo. Me atendieron con urgencia, diagnosticaron una bomba de agua eléctrica defectuosa, la sustituyeron con pieza OE en el mismo día y pude hacer el viaje sin ningún problema. Valoro mucho esa capacidad de reacción.",
-      "rating": 5
-    },
-    {
-      "name": "Marc",
-      "neighborhood": "Centre de Castellar del Riu",
-      "car": "BMW X1 sDrive18d F48 2019",
-      "body": "Tenía dudas sobre si mantener la garantía fuera del concesionario era seguro. Me explicaron la normativa europea con total claridad y me mostraron los recambios OE que iban a montar. Después de dos revisiones completas aquí, mi BMW X1 funciona perfectamente y la garantía sigue intacta. Recomendado al 100%.",
-      "rating": 5
-    },
-    {
-      "name": "Cristina",
-      "neighborhood": "Centre de Castellar del Riu",
-      "car": "BMW M340i G20 2022",
-      "body": "Después de una mala experiencia con un taller multimarca que no supo diagnosticar un problema de consumo de aceite en mi BMW M340i, vine aquí y en la primera visita dieron con el problema: las juntas de las válvulas Valvetronic estaban deterioradas. Lo repararon con piezas OE y el consumo volvió a la normalidad. Gran trabajo.",
-      "rating": 5
-    }
+    {"name": "Josep Maria Rovira", "neighborhood": "Castellar del Riu", "car": "BMW X3 xDrive20d", "body": "El X3 es imprescindible para llegar a la masía, pero las pistas le pasan factura. Me cambiaron amortiguadores y todos los silentblocks del eje trasero. El coche vuelve a ir como nuevo por los caminos.", "rating": 5},
+    {"name": "Montserrat Gironès", "neighborhood": "L'Espunyola", "car": "BMW 320d", "body": "Me salía mayonesa en el tapón del aceite y en otro taller me dijeron que podía ser junta de culata. Aquí me explicaron que era condensación por trayectos cortos y frío, me ajustaron el intervalo de aceite y problema resuelto sin dramas.", "rating": 5},
+    {"name": "Albert Farràs", "neighborhood": "Montmajor", "car": "BMW 116d", "body": "El embrague me duró la mitad de lo normal por las cuestas y la gravilla. Me cambiaron el kit completo con volante bimasa y me dieron un plan de mantenimiento realista para el uso que le doy. Muy profesionales.", "rating": 5},
+    {"name": "Carme Santamaria", "neighborhood": "Capolat", "car": "BMW 218d Active Tourer", "body": "Tenía tres testigos encendidos que nadie me sabía explicar. Resultó que eran errores acumulados en centralitas por falta de actualización. Los limpiaron, verificaron que todo estaba correcto y me ahorraron un disgusto.", "rating": 5}
   ],
-  "zoneText": "Nuestra cobertura abarca Castellar del Riu y los municipios de su entorno. Recibimos clientes de todo Castellar del Riu. La red viaria de la zona, con accesos como C-16, A-2, Red viaria comarcal, permite llegar cómodamente desde localidades vecinas. Si buscas un taller BMW fuera del circuito oficial en esta parte de la provincia de Barcelona, estamos a tu disposición.",
-  "zoneNeighborhoods": [
-    "Centre de Castellar del Riu",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)",
-    "Red viaria comarcal"
-  ],
+  "zoneText": "Cubrimos todo el sector central y occidental del Berguedà, incluyendo los municipios más aislados de montaña, los núcleos dispersos de masías y las poblaciones conectadas por carreteras comarcales y pistas forestales.",
+  "zoneNeighborhoods": ["L'Espunyola", "Montmajor", "Capolat", "Viver i Serrateix", "Navàs", "Olvan", "Avià", "Berga"],
+  "zoneAccessRoutes": ["C-16", "B-430", "BV-4131", "C-26"],
   "faqLocal": [
-    {
-      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
-      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
-    },
-    {
-      "q": "¿Pierdo la garantía de mi BMW si hago la revisión con vosotros?",
-      "a": "No. El Reglamento Europeo 461/2010 protege tu derecho como consumidor a elegir libremente el taller para el mantenimiento de tu vehículo, incluso en período de garantía. En nuestro taller cumplimos todos los requisitos: seguimos el plan de mantenimiento de BMW, utilizamos recambios de calidad original (OE) y aceite homologado LL-04, y sellamos tu historial de servicio digital. La garantía oficial de tu BMW permanece intacta."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
-    },
-    {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
-    },
-    {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
-    },
-    {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
-    }
+    {"q": "¿Los caminos sin asfaltar de Castellar del Riu dañan la suspensión de un BMW?", "a": "Sí, significativamente. Los firmes irregulares aceleran el desgaste de amortiguadores, silentblocks y rótulas. Recomendamos una inspección del tren de rodaje cada 15.000 km en lugar de los 30.000 km habituales."},
+    {"q": "¿Por qué aparece una sustancia blanquecina en el tapón de aceite de mi BMW?", "a": "Es una emulsión de agua y aceite causada por la condensación que genera la humedad ambiental combinada con trayectos cortos. No suele ser junta de culata; la solución habitual es acortar el intervalo de cambio de aceite."},
+    {"q": "¿Puedo enviar fotos por WhatsApp para un diagnóstico previo?", "a": "Sí, es precisamente lo que recomendamos. Envíanos fotos o vídeos del problema y te orientaremos antes de que te desplaces, para que la visita al taller sea lo más productiva posible."},
+    {"q": "¿Mi BMW Serie 1 con cambio manual durará menos el embrague en Castellar del Riu?", "a": "Es probable. El uso intensivo del embrague en pendientes y sobre gravilla puede reducir la vida útil a 80.000-100.000 km frente a los 150.000 km habituales. Diagnosticamos su estado con pruebas específicas."},
+    {"q": "¿Qué protecciones adicionales necesita un BMW que circula por pistas forestales?", "a": "Recomendamos verificar el estado del protector del cárter, las líneas de freno inferiores y el tubo de escape. En algunos modelos, instalar un protector reforzado de cárter es una inversión que evita averías costosas."},
+    {"q": "¿Los errores electrónicos de mi BMW pueden deberse a la falta de cobertura de datos?", "a": "Sí. Los BMW recientes están diseñados para comunicarse periódicamente con los servidores del fabricante. Sin conectividad, algunas centralitas acumulan errores que requieren borrado profesional."}
   ],
-  "closingHeadline": "Tu BMW, en manos expertas en Castellar del Riu",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Contacta con nosotros por teléfono, WhatsApp o email y descubre por qué cada vez más propietarios de BMW en Castellar del Riu confían en nosotros.",
-  "tenant": {
-    "active": true,
-    "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
-  }
+  "closingHeadline": "Tu BMW merece un taller que entienda Castellar del Riu",
+  "closingCta": "Contacta con nosotros por WhatsApp o teléfono y deja tu BMW en manos de un equipo que sabe lo que exige conducir por las pistas y caminos del Berguedà rural.",
+  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
 }

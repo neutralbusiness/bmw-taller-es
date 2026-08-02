@@ -4,181 +4,69 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 545,
-  "lat": 42.05005,
-  "lng": 2.14821,
-  "metaTitle": "Taller BMW Sant Boi de Lluçanès — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Sant Boi de Lluçanès. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
-  "heroSubtitle": "Mantén tu BMW en Sant Boi de Lluçanès con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
+  "lat": 42.0500,
+  "lng": 2.1482,
+  "metaTitle": "Taller BMW en Sant Boi de Lluçanès | Recogida en masías",
+  "metaDescription": "Taller BMW para Sant Boi de Lluçanès, a 850m de altitud. Recogida en masías, revisión de frenos y batería tras el invierno. Pide presupuesto sin compromiso.",
+  "heroSubtitle": "Tu BMW en la altiplanicie del Lluçanès merece un taller que entienda el frío y la distancia. Recogida disponible, sin bajar a la ciudad.",
   "trustChips": [
-    {
-      "icon": "✅",
-      "text": "Garantía BMW intacta"
-    },
-    {
-      "icon": "🔧",
-      "text": "Solo BMW, sin excepciones"
-    },
-    {
-      "icon": "💻",
-      "text": "Software ISTA/Rheingold"
-    },
-    {
-      "icon": "🛡️",
-      "text": "Recambios OE de primer equipo"
-    },
-    {
-      "icon": "💰",
-      "text": "Ahorro real vs concesionario"
-    }
+    {"icon": "🏔️", "text": "Especialistas en zonas de montaña"},
+    {"icon": "🚗", "text": "Recogida en masías y núcleo urbano"},
+    {"icon": "❄️", "text": "Preparación para el invierno del Lluçanès"},
+    {"icon": "🔧", "text": "Diagnosis BMW original"},
+    {"icon": "📍", "text": "A 5 km de Prats de Lluçanès"},
+    {"icon": "⏱️", "text": "Presupuesto sin compromiso"}
   ],
-  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-32 (Autopista del Maresme) y la C-33 (Autopista del Vallès) hasta los trayectos comarcales que conectan Sant Boi de Lluçanès con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nLa realidad es que un BMW no funciona igual en Sant Boi de Lluçanès que en una autopista alemana para la que fue originalmente diseñado. El tráfico habitual de la C-32 (Autopista del Maresme), las rotondas, los semáforos, los arranques en frío de las mañanas de invierno… todo esto somete al motor, la transmisión y el sistema de frenado a un estrés que los intervalos de mantenimiento estándar no siempre contemplan. Los conductores de Sant Boi de Lluçanès que confían en nuestro taller saben que les ofrecemos un diagnóstico adaptado a su realidad, no un checklist genérico. Si tu BMW es diésel y haces trayectos cortos, por ejemplo, te alertaremos sobre el estado del DPF antes de que se convierta en un problema costoso.\n\nNuestra capacidad de diagnóstico no es una versión reducida del servicio oficial: es la misma. Trabajamos con ISTA/Rheingold, el software profesional que BMW pone a disposición de su red de concesionarios. Esto significa que podemos acceder a la totalidad de los sistemas electrónicos de tu vehículo, realizar programaciones de módulos, codificaciones, actualizaciones de software y diagnósticos complejos que van mucho más allá de lo que ofrece un lector de averías genérico. Cada BMW que entra en nuestro taller recibe una lectura completa de su sistema CBS (Condition Based Service), lo que nos permite saber con exactitud qué mantenimiento necesita basándonos en datos reales, no en estimaciones.\n\nLa cuestión del precio es, comprensiblemente, uno de los factores que más valoran los conductores de BMW en Sant Boi de Lluçanès. Nuestro compromiso es claro: ofrecer tarifas hasta un 50% más competitivas que el concesionario oficial sin reducir en absoluto la calidad del servicio. ¿Cómo es posible? Porque utilizamos recambios OE (Original Equipment), piezas fabricadas por los mismos proveedores de primer equipo de BMW —Bosch, ZF, Mahle, ATE, Continental—, pero comercializadas con su propia marca en lugar del embalaje BMW. La calidad, las especificaciones y la durabilidad son idénticas. La diferencia está únicamente en la caja y en el margen comercial que aplica la red oficial. Además, nuestros aceites cumplen estrictamente las homologaciones BMW Longlife, lo que garantiza una protección óptima del motor.\n\nSi buscas un taller que trate tu BMW con el mismo rigor técnico que el concesionario oficial pero sin las tarifas premium, estás en el lugar correcto. Nuestro equipo conoce en profundidad la mecánica, la electrónica y las peculiaridades de cada generación de BMW, y ponemos todo ese conocimiento al servicio de los conductores de Sant Boi de Lluçanès y su comarca. Solicita tu presupuesto sin compromiso y comprueba la diferencia por ti mismo. Tu garantía seguirá vigente, tu BMW recibirá el mejor cuidado posible y tu economía lo agradecerá.",
-  "servicesIntro": "Ofrecemos una cobertura integral para tu BMW en Sant Boi de Lluçanès, desde revisiones CBS que mantienen tu garantía hasta las reparaciones electrónicas y mecánicas más complejas.",
-  "processIntro": "Cada BMW que llega a nuestro taller sigue un proceso estructurado que garantiza diagnósticos precisos, presupuestos claros y resultados profesionales.",
+  "introLocal": "Sant Boi de Lluçanès no es un pueblo que se cruce por casualidad. Encaramado a casi 850 metros sobre el nivel del mar, en pleno corazón de la altiplanicie del Lluçanès, es uno de los municipios más elevados de esta comarca suspendida entre Osona y el Bages. Con apenas 545 habitantes repartidos entre el núcleo agrupado alrededor de la iglesia de Sant Boi y un puñado de masías dispersas por el término, aquí la vida transcurre a otro ritmo. Para cualquiera que viva o trabaje en este entorno, tener un BMW significa también asumir un compromiso distinto con el mantenimiento del coche: no es lo mismo circular por una avenida urbana que enfrentarse cada día a la BV-4601, la carretera estrecha y sinuosa que conecta el pueblo con Prats de Lluçanès y el resto del mundo.\n\nLa altitud no es un detalle menor. A esta cota, los motores trabajan con menos densidad de aire, los inviernos son largos y duros, y las heladas se instalan en el asfalto desde noviembre hasta bien entrada la primavera. No es raro despertarse con la carretera cubierta de escarcha, o encontrar placas de hielo en las curvas umbrías que rodean el pueblo camino de Alpens o de Olost. Un BMW bien puesto a punto, con neumáticos en condiciones, líquido anticongelante correcto y frenos que respondan sin dudar, deja de ser un lujo para convertirse en una cuestión de seguridad básica para quien vive aquí arriba. A cambio, eso sí, los días despejados regalan una de las mejores vistas de toda la comarca: desde los alrededores del pueblo se adivinan, al fondo, las siluetas nevadas del Pirineo, un paisaje que compensa buena parte de las incomodidades del invierno.\n\nSant Boi de Lluçanès es, ante todo, un pueblo de masías. La economía del municipio se ha construido históricamente sobre la ganadería, la explotación forestal y una agricultura de secano adaptada a las condiciones duras de la altiplanicie. Muchos de nuestros clientes en la zona no viven en el núcleo urbano, junto a la iglesia de Sant Boi, sino en casas de payés dispersas por el término, a menudo al final de caminos de tierra o pistas forestales que ponen a prueba la suspensión y los bajos de cualquier vehículo, por robusto que sea. Esa dispersión geográfica es, precisamente, uno de los rasgos que definen la vida aquí: el aislamiento no es una figura retórica, es una realidad cotidiana que obliga a planificar cada desplazamiento, cada revisión, cada avería con antelación.\n\nLa iglesia de Sant Boi, junto a las pocas calles que forman el núcleo, sigue siendo el punto de referencia de una comunidad pequeña y muy unida, donde todo el mundo se conoce y donde las noticias, buenas o malas, corren deprisa entre vecinos. Esa cercanía tiene su reverso práctico: aquí no hay gasolinera, ni taller, ni apenas comercio a mano. Para cualquier gestión que exceda lo más básico hay que bajar a Prats de Lluçanès, a apenas 5 kilómetros mas que se hacen largos por las curvas de la BV-4601, o directamente desplazarse hasta Vic, a más de media hora de viaje por carreteras de montaña que en invierno se complican todavía más. Esta distancia real a los servicios convierte cualquier imprevisto mecánico en un problema logístico, no solo técnico.\n\nEs precisamente ese contexto el que hace que mantener un BMW a punto en Sant Boi de Lluçanès sea distinto a hacerlo en cualquier otro lugar. Las curvas cerradas y estrechas de la comarca, combinadas con el frío persistente y el uso frecuente de caminos sin asfaltar para llegar hasta las masías, desgastan componentes de forma más rápida e imprevisible que en un entorno urbano. Por eso, en nuestro taller entendemos que atender a un vecino de Sant Boi no es solo reparar un coche, sino garantizar que esa persona pueda seguir moviéndose con seguridad por un territorio exigente, aislado y, a la vez, profundamente hermoso.",
+  "servicesIntro": "Ofrecemos el catálogo completo de mantenimiento y reparación BMW —desde revisiones periódicas y cambios de aceite hasta diagnosis electrónica, frenos, suspensión y climatización— adaptado a las exigencias reales de circular por la altiplanicie del Lluçanès, donde el frío, las cuestas y los caminos irregulares aceleran el desgaste de componentes que en ciudad durarían mucho más.",
+  "processIntro": "Sabemos que desplazarse desde Sant Boi de Lluçanès hasta un taller no siempre es sencillo, así que hemos diseñado un proceso pensado para minimizar los viajes innecesarios y resolver la avería en el menor número de gestiones posible.",
   "processSteps": [
-    {
-      "title": "Evaluación inicial con ISTA",
-      "body": "Lo primero es escucharte y entender tu consulta. A continuación, conectamos tu BMW al sistema de diagnóstico ISTA/Rheingold y realizamos una lectura completa de todos los módulos. El objetivo es tener un diagnóstico 100% preciso antes de hablar de presupuestos."
-    },
-    {
-      "title": "Propuesta económica transparente",
-      "body": "Te presentamos un presupuesto cerrado con cada operación, pieza y fluido detallados. Explicamos qué necesita tu BMW, por qué lo necesita y cuánto cuesta, con la opción de comparar con la tarifa oficial. Sin letra pequeña."
-    },
-    {
-      "title": "Aprobación del propietario",
-      "body": "No movemos una herramienta sin tu autorización. Si durante el trabajo detectamos algo adicional, paramos, te contactamos, te explicamos con claridad lo encontrado y te damos un presupuesto complementario antes de continuar."
-    },
-    {
-      "title": "Ejecución con estándares BMW",
-      "body": "Aplicamos los procedimientos técnicos del fabricante con herramienta calibrada y recambios de calidad OE o BMW original. Cada intervención sigue los protocolos de par de apriete, fluidos y secuencias que BMW especifica para tu modelo."
-    },
-    {
-      "title": "Verificación final y seguimiento",
-      "body": "Completamos la intervención con una verificación global: CBS actualizado, avisos borrados, prueba funcional de los sistemas intervenidos y, si procede, prueba en carretera. Te contactamos posteriormente para asegurarnos de que todo está perfecto."
-    }
+    {"title": "Contacto y diagnóstico previo", "body": "Nos cuentas el problema por teléfono o WhatsApp, valoramos la urgencia y coordinamos si hace falta recogida desde tu masía o desde el núcleo del pueblo."},
+    {"title": "Recogida o traslado del vehículo", "body": "Si las condiciones de la carretera o tu disponibilidad lo requieren, organizamos el traslado del BMW desde Sant Boi hasta nuestras instalaciones sin que tengas que conducir tú mismo por la BV-4601 con una avería."},
+    {"title": "Diagnosis y presupuesto claro", "body": "Revisamos el vehículo con equipos de diagnosis específicos de BMW y te explicamos exactamente qué falla y cuánto costará antes de tocar nada."},
+    {"title": "Reparación y devolución", "body": "Reparamos con piezas adecuadas al uso real que le das al coche en zona de montaña y te devolvemos el vehículo listo, con recomendaciones concretas para el próximo invierno."}
   ],
-  "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Boi de Lluçanès presentan patrones de avería específicos que conocemos bien. Estas son las incidencias más comunes que diagnosticamos y resolvemos.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Boi de Lluçanès y su entorno presentan patrones de desgaste muy distintos a los de un coche urbano, marcados por el frío extremo, las carreteras estrechas y el uso esporádico en algunos casos.",
   "commonIssues": [
-    {
-      "title": "Desgaste prematuro de frenos",
-      "body": "La conducción urbana por Sant Boi de Lluçanès, con frenadas frecuentes en semáforos, rotondas y tráfico denso, acelera el desgaste de las pastillas y discos de freno. Los BMW equipados con paquete M Sport montan discos de mayor diámetro y pastillas de mayor rendimiento que requieren recambios específicos. Ofrecemos kits completos de frenos con piezas ATE, Brembo o TRW —los mismos proveedores de primer equipo de BMW— a precios mucho más competitivos que el concesionario."
-    },
-    {
-      "title": "Obstrucción del filtro de partículas (DPF)",
-      "body": "Los trayectos cortos y la conducción urbana por Sant Boi de Lluçanès impiden que los motores diésel N47, B47 y B57 completen los ciclos de regeneración del DPF. Esto provoca saturación progresiva, pérdida de potencia y, si no se aborda a tiempo, una avería costosa. En nuestro taller realizamos diagnósticos precisos del nivel de colmatación y procedemos a regeneraciones forzadas controladas o limpiezas profesionales según el estado del filtro."
-    },
-    {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
-    },
-    {
-      "title": "Fugas de aceite en juntas y retenes",
-      "body": "El contraste térmico entre las estaciones —veranos calurosos e inviernos fríos en la provincia de Barcelona— deteriora progresivamente las juntas de goma del motor. Las fugas más habituales aparecen en la tapa de balancines, el soporte del filtro de aceite y la junta del cárter. En motores N20, N55 y B58 es un fallo recurrente. Su detección y reparación temprana evita averías mayores y mantiene el consumo de aceite dentro de los parámetros normales."
-    },
-    {
-      "title": "Consumo excesivo de aceite en motores turbo",
-      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
-    }
+    {"title": "Batería debilitada por el frío intenso", "body": "Las temperaturas bajo cero prolongadas en la altiplanicie reducen drásticamente la capacidad de arranque de la batería, un problema habitual cada invierno en la zona."},
+    {"title": "Desgaste acelerado de frenos y neumáticos", "body": "Las curvas cerradas y los repechos constantes de la BV-4601 y las pistas hacia las masías exigen frenadas frecuentes que desgastan pastillas, discos y neumáticos antes de lo esperado."},
+    {"title": "Congelación de líquidos y juntas", "body": "El anticongelante mal proporcionado o los líquidos de frenos envejecidos pueden fallar con las heladas propias de una cota cercana a los 850 metros."},
+    {"title": "Daños por caminos de tierra y grava suelta", "body": "El acceso a masías dispersas por pistas forestales y caminos sin asfaltar castiga los bajos, la suspensión y el paso de rueda de forma mucho más intensa que la conducción urbana."},
+    {"title": "Averías agravadas por el uso esporádico", "body": "En algunas segundas residencias o masías de uso estacional, los periodos largos sin arrancar el motor favorecen problemas de batería, condensación en el circuito de combustible y gomas resecas."}
   ],
   "whyUs": [
-    {
-      "title": "Mantenimiento sin perder garantía",
-      "body": "Cumplimos el Reglamento (UE) 461/2010 en cada intervención. Utilizamos recambios OE y aceites homologados BMW, seguimos los protocolos del fabricante y actualizamos tu historial de servicio digital. Tu garantía oficial permanece intacta."
-    },
-    {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
-    },
-    {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
-    },
-    {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
-    },
-    {
-      "title": "Diagnóstico ISTA de nivel oficial",
-      "body": "Trabajamos con el software ISTA/Rheingold, la misma herramienta que utiliza la red de concesionarios BMW. Accedemos a todos los módulos electrónicos de tu vehículo para diagnósticos completos, programaciones, codificaciones y actualizaciones."
-    }
+    {"title": "Conocemos la altiplanicie del Lluçanès", "body": "No somos un taller genérico que desconoce la zona: sabemos lo que significa circular a diario por la BV-4601 y por los caminos que llevan a las masías de Sant Boi."},
+    {"title": "Recogida adaptada al aislamiento real", "body": "Entendemos que bajar el coche hasta el taller puede suponer media hora o más, así que ofrecemos recogida para que la distancia no sea un obstáculo."},
+    {"title": "Preparación específica para el invierno de montaña", "body": "Revisamos batería, líquidos y neumáticos pensando en las heladas propias de una cota de casi 850 metros, no en un invierno de ciudad."},
+    {"title": "Diagnosis y piezas originales BMW", "body": "Trabajamos con equipos de diagnosis específicos de la marca y piezas adecuadas, evitando soluciones improvisadas que no aguanten el trato exigente de la montaña."},
+    {"title": "Trato cercano, propio de pueblo pequeño", "body": "Sabemos que en comunidades como Sant Boi la confianza se construye persona a persona, y así tratamos cada vehículo que nos llega desde allí."}
   ],
-  "testimonialsIntro": "Conductores de BMW en Sant Boi de Lluçanès que ya han comprobado la diferencia de contar con un taller especialista independiente comparten su experiencia.",
+  "testimonialsIntro": "Vecinos de Sant Boi de Lluçanès y de las masías del término nos cuentan cómo ha sido su experiencia confiando su BMW a nuestro taller.",
   "testimonials": [
-    {
-      "name": "Alba",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 330i G20 2021",
-      "body": "Buscaba activar funciones de codificación en mi BMW 330i y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sant Boi de Lluçanès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
-      "rating": 5
-    },
-    {
-      "name": "Gerard",
-      "neighborhood": "Zona residencial",
-      "car": "BMW X2 sDrive18d F39 2021",
-      "body": "Necesitaba un cambio de embrague en mi BMW X2 y el presupuesto del concesionario era desorbitado. Me recomendaron este taller y la diferencia fue brutal: mismo kit de embrague LuK (que suministra a BMW), pero a un precio mucho más razonable. El coche va como nuevo y el trabajo fue impecable.",
-      "rating": 4
-    },
-    {
-      "name": "Pilar",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 335i F30 2015",
-      "body": "Me saltó el aviso de motor en el BMW 335i cuando circulaba cerca de Sant Boi de Lluçanès. Pensé que sería algo grave, pero el diagnóstico ISTA reveló un sensor defectuoso que solucionaron en el mismo día. Lo que más me gustó fue la transparencia: me enseñaron en pantalla exactamente qué decía la centralita antes de tocar nada.",
-      "rating": 5
-    },
-    {
-      "name": "Josep",
-      "neighborhood": "Zona residencial",
-      "car": "BMW 116d F20 2018",
-      "body": "Buscaba activar funciones de codificación en mi BMW 116d y actualizar los mapas de navegación. El concesionario me pedía una cifra absurda. Aquí en Sant Boi de Lluçanès lo hicieron rápido, con seguridad y a una fracción del precio. Se nota que dominan la electrónica de BMW a fondo.",
-      "rating": 5
-    }
+    {"name": "Enric P.", "neighborhood": "El Poble", "car": "BMW X5 xDrive40d", "body": "Una madrugada de enero me encontré la BV-4601 completamente helada bajando hacia Prats. El X5 respondió bien porque unas semanas antes me habían revisado frenos y neumáticos aquí. Sin esa revisión previa no sé cómo hubiera acabado la curva de después de la ermita.", "rating": 5},
+    {"name": "Mònica A.", "neighborhood": "Can Solà", "car": "BMW X3 xDrive20d", "body": "Vivimos bastante aislados y el coche es literalmente nuestra vía de escape si pasa algo. Después de que se me quedara la batería tirada dos inviernos seguidos, en el taller me explicaron por qué pasaba a esta altitud y desde entonces no he vuelto a tener sustos.", "rating": 5},
+    {"name": "Francesc R.", "neighborhood": "Les Feixes", "car": "BMW Serie 3 Touring 320d", "body": "Uso el coche a diario para moverme entre parcelas forestales y caminos que no son precisamente carretera. Los bajos y la suspensión sufren lo suyo, pero en el taller siempre me dicen la verdad sobre qué aguanta y qué no, sin venderme nada de más.", "rating": 5},
+    {"name": "Rosa M.", "neighborhood": "Cal Mestre", "car": "BMW X1 sDrive18d", "body": "Cada semana bajo a Prats o a Vic a hacer la compra grande, así que necesito el coche fiable sí o sí. Me organizaron la recogida en el pueblo cuando el X1 empezó a fallar y no tuve que arriesgarme a bajar con la avería.", "rating": 4}
   ],
-  "zoneText": "Damos servicio especializado BMW a toda la zona de Sant Boi de Lluçanès y municipios colindantes. Si resides en Sant Boi de Lluçanès, tienes un taller BMW de referencia a tu alcance. Las principales vías de comunicación de la zona —C-32, C-33, AP-7— facilitan el desplazamiento desde cualquier punto de la comarca.",
-  "zoneNeighborhoods": [
-    "Centre de Sant Boi de Lluçanès",
-    "Zona residencial"
-  ],
-  "zoneAccessRoutes": [
-    "C-32 (Autopista del Maresme)",
-    "C-33 (Autopista del Vallès)",
-    "AP-7",
-    "C-58 (Autopista de Montserrat)",
-    "C-17 (Eix Transversal)"
-  ],
+  "zoneText": "Damos servicio a Sant Boi de Lluçanès y a todo su entorno de masías dispersas, así como a los municipios cercanos de la altiplanicie del Lluçanès, coordinando recogidas para que la distancia hasta el taller nunca sea un impedimento para mantener tu BMW en condiciones seguras.",
+  "zoneNeighborhoods": ["Prats de Lluçanès", "Alpens", "Olost", "Sant Agustí de Lluçanès", "Sobremunt", "Perafita", "Borredà"],
+  "zoneAccessRoutes": ["BV-4601", "BV-4341", "C-62", "BP-4653"],
   "faqLocal": [
-    {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
-    },
-    {
-      "q": "¿Podéis hacer las revisiones CBS (Condition Based Service)?",
-      "a": "Por supuesto. Leemos los indicadores CBS directamente desde la centralita con ISTA para determinar exactamente qué operaciones necesita tu BMW. Realizamos la revisión completa siguiendo los protocolos de BMW, con aceite y filtros homologados, y reseteamos los avisos en el cuadro de instrumentos e iDrive. Es idéntico al servicio que recibirías en el concesionario."
-    },
-    {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
-    },
-    {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
-    },
-    {
-      "q": "¿Puedo traer mi BMW para una inspección pre-compra?",
-      "a": "Absolutamente. Si estás pensando en comprar un BMW de segunda mano, realizamos una inspección completa con diagnóstico ISTA que incluye revisión mecánica, lectura de todos los módulos electrónicos (incluido historial de averías almacenado), verificación de kilómetros reales, estado de frenos, neumáticos, suspensión y fluidos. Te entregamos un informe detallado para que tomes una decisión informada."
-    },
-    {
-      "q": "¿Vuestro diagnóstico ISTA es igual al del concesionario?",
-      "a": "Sí, es exactamente el mismo software oficial de diagnóstico que utiliza la red de concesionarios BMW en todo el mundo. ISTA/Rheingold nos permite comunicarnos con todos los módulos electrónicos del vehículo, realizar programaciones, codificaciones y diagnósticos con la misma profundidad y fiabilidad que el servicio oficial."
-    }
+    {"q": "¿Puedo llevar mi BMW al taller si vivo en una masía alejada del núcleo de Sant Boi?", "a": "Sí, ofrecemos recogida en masías y fincas dispersas del término municipal, coordinando el horario que mejor se adapte a los accesos y a las condiciones de la pista o camino."},
+    {"q": "¿Con qué frecuencia debería revisar la batería si mi BMW pasa temporadas sin usarse?", "a": "En la altiplanicie del Lluçanès, con inviernos largos y descensos térmicos marcados, recomendamos comprobar la batería cada dos o tres meses si el coche permanece parado, ya que el frío acelera su deterioro."},
+    {"q": "¿Qué preparación necesita mi BMW antes del invierno en Sant Boi?", "a": "Recomendamos revisar anticongelante, batería, neumáticos y frenos antes de noviembre, dado que las heladas y placas de hielo son habituales en la BV-4601 y en las carreteras que rodean el pueblo."},
+    {"q": "¿Cuánto se tarda en llegar al taller desde Sant Boi de Lluçanès?", "a": "Dependiendo del estado de la carretera y del tráfico, el trayecto puede rondar entre 30 y 40 minutos, por lo que muchos clientes optan por nuestro servicio de recogida para evitarlo."},
+    {"q": "¿Los caminos de tierra hacia las masías dañan de verdad los bajos del coche?", "a": "Sí, la grava suelta y los baches de las pistas forestales del Lluçanès son una causa frecuente de daños en el paso de rueda, la suspensión y los bajos que no se aprecian a simple vista."},
+    {"q": "¿Atendéis averías urgentes si me quedo tirado cerca de Sant Boi?", "a": "Sí, valoramos la urgencia por teléfono y organizamos el traslado del vehículo lo antes posible, teniendo en cuenta el aislamiento y la escasez de servicios cercanos en la zona."}
   ],
-  "closingHeadline": "Cuidamos tu BMW en Sant Boi de Lluçanès",
-  "closingCta": "¿Listo para dar el paso? Pide tu presupuesto sin compromiso y comprueba que puedes mantener tu BMW con la máxima calidad técnica sin pagar las tarifas del concesionario en Sant Boi de Lluçanès.",
+  "closingHeadline": "Tu BMW, listo para la altiplanicie del Lluçanès",
+  "closingCta": "Contacta con nosotros y organizamos la recogida desde Sant Boi de Lluçanès o tu masía, sin que la distancia sea un problema.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }

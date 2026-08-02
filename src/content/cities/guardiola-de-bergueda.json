@@ -5,178 +5,167 @@
   "ccaa": "Cataluña",
   "population": 998,
   "lat": 42.2624,
-  "lng": 1.88286,
-  "metaTitle": "Taller BMW Guardiola de Berguedà — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Guardiola de Berguedà. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
-  "heroSubtitle": "Mantén tu BMW en Guardiola de Berguedà con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
+  "lng": 1.8829,
+  "metaTitle": "Taller BMW en Guardiola de Berguedà | Especialistas BMW — Diagnóstico Profesional",
+  "metaDescription": "Taller especializado en BMW en Guardiola de Berguedà. Expertos en xDrive, suspensión neumática y turbos. Diagnóstico profesional para tu BMW de montaña. Pide cita.",
+  "heroSubtitle": "Especialistas BMW en el cruce de montaña del Berguedà. Diagnóstico avanzado, reparación xDrive y mantenimiento integral cerca de ti.",
   "trustChips": [
-    {
-      "icon": "🛡️",
-      "text": "Presupuesto cerrado"
-    },
-    {
-      "icon": "🔧",
-      "text": "Especialistas BMW"
-    },
-    {
-      "icon": "💻",
-      "text": "Diagnóstico ISTA oficial"
-    },
-    {
-      "icon": "💰",
-      "text": "Hasta 50 % menos que el oficial"
-    },
-    {
-      "icon": "✅",
-      "text": "Garantía sin perder la de BMW"
-    }
+    { "icon": "🔧", "text": "Especialistas certificados en BMW" },
+    { "icon": "🏔️", "text": "Expertos en xDrive y tracción total" },
+    { "icon": "💻", "text": "Diagnóstico ISTA+ profesional" },
+    { "icon": "⚙️", "text": "Suspensión neumática y adaptativa" },
+    { "icon": "🛡️", "text": "Garantía en todas las reparaciones" },
+    { "icon": "📍", "text": "Servicio para toda la comarca del Berguedà" }
   ],
-  "introLocal": "Conducir un BMW en la provincia de Barcelona implica enfrentarse a condiciones variadas: desde el tráfico urbano de la C-58 (Autopista de Montserrat) y la C-16 (Eix del Llobregat) hasta los trayectos comarcales que conectan Guardiola de Berguedà con los municipios de su entorno. Cada kilómetro deja su marca en la mecánica, y mantener un BMW en condiciones óptimas exige algo más que un taller genérico: requiere especialización, herramientas de diagnóstico de nivel concesionario y un conocimiento profundo de la ingeniería de la marca bávara. Eso es exactamente lo que encontrarás en nuestro taller.\n\nEl clima mediterráneo de la provincia de Barcelona, con veranos calurosos y una humedad notable, tiene un impacto directo sobre ciertos componentes de tu BMW. Los sistemas de refrigeración trabajan bajo mayor exigencia en los meses de verano, mientras que la humedad ambiental puede afectar a conexiones eléctricas y sensores en los meses más fríos. Si tu desplazamiento habitual incluye tramos de C-58 (Autopista de Montserrat) y la C-16 (Eix del Llobregat), el patrón de conducción influye directamente en los intervalos de mantenimiento que el sistema CBS de tu BMW calcula automáticamente. En nuestro taller no nos limitamos a seguir lo que indica el ordenador de a bordo: interpretamos esos datos en función del uso real de tu vehículo para recomendarte el mantenimiento más adecuado.\n\nLa piedra angular de nuestro servicio es el diagnóstico. Cuando tu BMW entra en el taller, lo conectamos a nuestro equipo ISTA/Rheingold, exactamente el mismo software de diagnóstico que utiliza cualquier concesionario oficial de BMW en España. Esta herramienta nos permite comunicarnos con cada uno de los módulos electrónicos de tu vehículo, desde la gestión del motor hasta el sistema de climatización, pasando por la caja de cambios automática ZF, los airbags y la electrónica de confort. Leemos los intervalos de servicio CBS que tu coche calcula en función de tu estilo de conducción y determinamos exactamente qué operaciones necesita, sin adivinanzas ni reparaciones innecesarias.\n\nHablemos de precios. Un propietario de BMW en Guardiola de Berguedà que realice el mantenimiento exclusivamente en el concesionario oficial pagará, a lo largo de la vida útil de su vehículo, una cantidad significativamente superior a la que pagaría en un taller especializado como el nuestro. La diferencia no está en la calidad del trabajo ni en los materiales —usamos los mismos aceites LL-04, los mismos filtros Mahle y Mann, las mismas pastillas de freno ATE—, sino en la estructura de costes. Nuestro taller no tiene que soportar los cánones de la marca ni la inversión en imagen que exige la red oficial. Ese ahorro lo trasladamos íntegramente al cliente, con presupuestos cerrados que detallamos pieza por pieza para que sepas exactamente por qué pagas.\n\nEn resumen, somos la alternativa técnicamente rigurosa al concesionario oficial para tu BMW en Guardiola de Berguedà. Te ofrecemos diagnóstico ISTA de nivel concesionario, recambios de calidad original, aceites homologados y un cumplimiento escrupuloso de los protocolos de BMW, todo ello con un ahorro considerable y un trato personalizado. Si resides en Guardiola de Berguedà o alrededores, te invitamos a solicitar un presupuesto sin compromiso. Tu garantía permanecerá intacta y tu bolsillo lo notará desde la primera visita.",
-  "servicesIntro": "Atendemos cualquier necesidad de tu BMW en Guardiola de Berguedà: revisiones CBS en garantía, diagnóstico ISTA, reparaciones mecánicas, electrónica, codificaciones y mantenimiento preventivo adaptado a tu uso.",
-  "processIntro": "Transparencia y rigor técnico definen nuestro proceso. Así trabajamos con cada BMW que entra en nuestro taller.",
+  "introLocal": "Guardiola de Berguedà ocupa una posición privilegiada en el corazón del Prepirineo catalán, justo en el cruce donde la carretera C-16 se bifurca hacia el túnel del Cadí y la C-26 se dirige al este hacia la Cerdanya y el Ripollès. Este enclave estratégico, a unos 720 metros de altitud, convierte a la localidad en la puerta de entrada natural a algunas de las montañas más emblemáticas de Cataluña, con el majestuoso Pedraforca (2.506 m) dominando el horizonte hacia el norte. Para los propietarios de BMW que transitan o residen en esta zona de montaña, disponer de un taller especializado capaz de atender las exigencias mecánicas que impone el terreno es una necesidad fundamental.\n\nLas condiciones de conducción en el entorno de Guardiola de Berguedà suponen un desafío constante para cualquier vehículo. Los desniveles pronunciados entre el fondo del valle del Llobregat y los puertos de montaña circundantes someten al sistema de transmisión a un esfuerzo sostenido, especialmente en los modelos equipados con tracción integral xDrive. La caja transfer, los diferenciales y el sistema de reparto de par trabajan en rangos extremos cuando se circula por las pistas forestales que llevan a Saldes, Gósol o los accesos al Parque Natural del Cadí-Moixeró. Nuestro taller conoce a fondo estas exigencias y ofrece un servicio de diagnóstico y mantenimiento preventivo diseñado específicamente para BMW que operan en entornos de montaña.\n\nLa altitud y las condiciones climáticas del Berguedà también afectan a sistemas que en entornos urbanos apenas sufren desgaste. Los turbos trabajan con aire menos denso por encima de los 700 metros, lo que provoca que los actuadores de geometría variable se vean sometidos a ciclos de apertura más amplios y frecuentes. El polvo de las pistas y caminos rurales que rodean Guardiola —desde la carretera hacia Bagà hasta los accesos al Pedraforca por la Vall de Gresolet— acelera la saturación de los filtros de partículas y provoca lecturas erróneas en los sensores de presión diferencial. Nuestro equipo de diagnóstico ISTA+ permite identificar estos problemas antes de que generen averías costosas o restricciones de potencia.\n\nEl perfil de vehículos BMW más habitual en Guardiola de Berguedà refleja las necesidades del territorio: los X1, X3 y X5 son los modelos más demandados, junto con las berlinas Serie 3 y Serie 5 Touring que combinan uso diario con escapadas a la montaña. La suspensión neumática adaptativa de los modelos X5 y X7, diseñada para ofrecer confort y control en cualquier superficie, requiere revisiones periódicas cuando se circula habitualmente por caminos irregulares o se cargan los vehículos con equipo de senderismo, escalada o esquí. El aceite de diferencial, tanto delantero como trasero, se degrada más rápidamente con los gradientes pronunciados de la zona, y su sustitución a intervalos adecuados es clave para preservar la mecánica de la transmisión integral.\n\nDesde nuestro taller damos cobertura a todo el eje del Berguedà norte: Bagà, Saldes, Gósol, la Pobla de Lillet, Castellar de n'Hug y todas las poblaciones que confluyen en Guardiola como nudo de comunicaciones. Tanto si eres residente habitual como si visitas la zona para practicar senderismo por el Pedraforca, esquí en la Molina o La Masella accediendo por el túnel del Cadí, o simplemente disfrutas de las rutas de montaña con tu BMW, nuestro equipo está preparado para mantener tu vehículo en las mejores condiciones. Ofrecemos cita previa flexible adaptada a los horarios de quienes vienen de lejos y servicio de diagnóstico rápido para incidencias surgidas en ruta.",
+  "servicesIntro": "En nuestro taller especializado BMW para Guardiola de Berguedà ofrecemos una gama completa de servicios adaptados a las exigencias del entorno de montaña: desde el mantenimiento programado con aceites y filtros de especificación BMW Longlife, hasta intervenciones complejas en sistemas xDrive, suspensión neumática, turbocompresores y electrónica de motor, siempre con diagnóstico ISTA+ y recambios de calidad OE.",
+  "processIntro": "Nuestro proceso de trabajo está diseñado para ofrecer transparencia total y minimizar el tiempo que tu BMW permanece en el taller, algo especialmente importante cuando dependes de tu vehículo para moverte por una zona de montaña con opciones de transporte limitadas.",
   "processSteps": [
     {
-      "title": "Recepción y diagnóstico",
-      "body": "Al recibir tu BMW, realizamos una inspección visual inicial y lo conectamos al sistema ISTA/Rheingold para obtener una radiografía completa de su estado electrónico y mecánico. Leemos los indicadores CBS y el historial de avisos almacenado."
+      "title": "Diagnóstico integral con ISTA+",
+      "body": "Conectamos tu BMW al sistema de diagnóstico oficial para leer todas las centralitas, revisar valores en tiempo real y detectar cualquier anomalía, incluyendo averías latentes que aún no han encendido testigo. En entornos de montaña, prestamos especial atención a los sistemas de transmisión xDrive, turbo y filtro de partículas."
     },
     {
-      "title": "Presupuesto sin sorpresas",
-      "body": "Con la información del diagnóstico, elaboramos un presupuesto cerrado que detalla cada partida: mano de obra, recambios OE, fluidos homologados. Te lo enviamos por escrito para que lo revises con tranquilidad antes de autorizar cualquier trabajo."
+      "title": "Presupuesto detallado y sin compromiso",
+      "body": "Te presentamos un informe claro con todas las intervenciones necesarias, diferenciando entre urgentes y recomendables. Incluimos fotos del estado de las piezas y explicamos el impacto de cada avería en la seguridad y el rendimiento de tu BMW en las condiciones de conducción del Berguedà."
     },
     {
-      "title": "Confirmación del cliente",
-      "body": "Esperamos tu visto bueno antes de iniciar la intervención. Si en el curso del trabajo aparece una necesidad imprevista, te informamos de inmediato con un presupuesto adicional y no procedemos sin tu aprobación expresa."
+      "title": "Reparación con recambios de calidad OE",
+      "body": "Realizamos la intervención utilizando recambios originales o de calidad equivalente homologada. Cada reparación incluye los reajustes y codificaciones necesarias mediante ISTA+ para que todos los sistemas queden perfectamente calibrados."
     },
     {
-      "title": "Intervención técnica",
-      "body": "Ejecutamos cada operación siguiendo los estándares técnicos de BMW, con herramienta específica y recambios de calidad OE. Documentamos fotográficamente los trabajos realizados y las piezas sustituidas cuando el cliente lo solicita."
-    },
-    {
-      "title": "Control de calidad y entrega",
-      "body": "Antes de la entrega, verificamos que todos los sistemas funcionan correctamente, actualizamos el CBS, borramos los avisos resueltos y realizamos las pruebas necesarias. Te explicamos el trabajo realizado y te asesoramos sobre el próximo mantenimiento."
+      "title": "Prueba de ruta y entrega",
+      "body": "Antes de devolverte el vehículo, realizamos una prueba de conducción que incluye tramos con pendiente y diferentes superficies para verificar que la reparación responde correctamente en las condiciones reales de uso en montaña. Te entregamos el coche con un informe completo del trabajo realizado."
     }
   ],
-  "commonIssuesIntro": "Basándonos en nuestra experiencia con vehículos BMW de Guardiola de Berguedà, estos son los fallos y averías que atendemos con mayor frecuencia en nuestro taller.",
+  "commonIssuesIntro": "Los BMW que circulan habitualmente por el entorno de Guardiola de Berguedà y las carreteras de montaña del Prepirineo presentan patrones de avería específicos que conocemos bien. Estas son las incidencias que diagnosticamos y reparamos con mayor frecuencia en vehículos de la zona.",
   "commonIssues": [
     {
-      "title": "Bomba de agua eléctrica defectuosa",
-      "body": "La bomba de agua eléctrica es un componente esencial del sistema de refrigeración de los BMW modernos. Su fallo es a menudo repentino y puede provocar un sobrecalentamiento grave del motor en cuestión de minutos, especialmente en verano o en situaciones de tráfico denso. En modelos de 6 cilindros (N54, N55, B58) es un punto de fallo conocido. Recomendamos su revisión preventiva y la sustituimos con piezas OE para una fiabilidad garantizada."
+      "title": "Desgaste prematuro de la caja transfer xDrive",
+      "body": "Los desniveles continuos entre Guardiola y los accesos al Pedraforca o al túnel del Cadí someten al sistema xDrive a un reparto de par constante y asimétrico. La corona y el actuador de la caja transfer acusan este esfuerzo, manifestándose con vibraciones a baja velocidad o ruidos al girar. Un diagnóstico temprano y el cambio de aceite de transfer a intervalos reducidos previenen reparaciones muy costosas."
     },
     {
-      "title": "Consumo excesivo de aceite en motores turbo",
-      "body": "Ciertos motores BMW, particularmente los N20, N26 y B48 de 4 cilindros gasolina con turbo, pueden desarrollar un consumo de aceite superior al normal. Las causas habituales incluyen el desgaste de los retenes de las guías de válvula, problemas en el sistema de ventilación del cárter (CCV) o, en casos más severos, desgaste en los segmentos del pistón. Un diagnóstico preciso permite determinar el origen exacto y aplicar la solución más adecuada y económica."
+      "title": "Fallos en la suspensión neumática por terreno irregular",
+      "body": "Los modelos X5, X6 y X7 con suspensión neumática adaptativa sufren un desgaste acelerado de los fuelles cuando circulan frecuentemente por pistas forestales o caminos sin asfaltar hacia Saldes, Gósol o la Vall de Gresolet. Los síntomas incluyen el vehículo caído de un lado por la mañana, compresor que arranca con frecuencia o avisos en el cuadro de instrumentos."
     },
     {
-      "title": "Avería de la cadena de distribución (N47/N57)",
-      "body": "El problema de la cadena de distribución en los motores diésel N47 y N57 sigue siendo una de las reparaciones más demandadas por los propietarios de BMW en Guardiola de Berguedà. Un mantenimiento deficiente, intervalos de cambio de aceite excesivos o el uso de lubricantes incorrectos acortan su vida útil. Ofrecemos la sustitución completa del kit de distribución con recambios OE, incluyendo guías, tensores y cadena, para una solución definitiva."
+      "title": "Problemas en el actuador del turbo a altitud",
+      "body": "Por encima de los 700 metros, la menor densidad del aire obliga al turbocompresor a trabajar con ángulos de paletas más abiertos y tiempos de respuesta más largos. El actuador de geometría variable sufre carbonización acelerada y pérdida de precisión, provocando falta de potencia en subidas, humo en aceleraciones fuertes o activación del modo emergencia."
     },
     {
-      "title": "Problemas con la caja de cambios automática ZF",
-      "body": "Las cajas automáticas ZF 8HP, muy utilizadas en la gama BMW, son unidades robustas pero que requieren un mantenimiento que la marca considera, incorrectamente, como \"de por vida\". La realidad es que el aceite de la transmisión se degrada con el tiempo y el uso, especialmente en conducción urbana con frecuentes cambios de marcha. Realizamos el cambio de aceite y filtro de la caja automática, una operación que prolonga significativamente su vida útil y mejora la suavidad de los cambios."
+      "title": "Saturación del filtro de partículas y sensores de presión",
+      "body": "El polvo de las carreteras secundarias y pistas del Berguedà obstruye el filtro de partículas más rápidamente que en entornos urbanos. Los sensores de presión diferencial dan lecturas erróneas por acumulación de residuos, impidiendo las regeneraciones automáticas y encendiendo el testigo de avería del motor. Realizamos regeneraciones forzadas y sustitución de sensores con calibración ISTA+."
     },
     {
-      "title": "Fallos en el sistema Valvetronic/VANOS",
-      "body": "El sistema de alzada variable de válvulas Valvetronic y el sistema de distribución variable VANOS son componentes complejos y sensibles a la calidad del aceite. Los motores de gasolina que realizan predominantemente trayectos urbanos cortos son propensos a sufrir fallos en los servomotores, solenoides o en el propio mecanismo de ajuste. Los síntomas habituales incluyen ralentí inestable, falta de potencia y aumento del consumo."
+      "title": "Degradación acelerada del aceite de diferencial",
+      "body": "Las pendientes pronunciadas y sostenidas de la C-16 hacia Bagà, los accesos al Cadí o las subidas hacia Castellar de n'Hug generan temperaturas elevadas en los diferenciales delantero y trasero. El aceite pierde sus propiedades lubricantes antes de lo previsto por el fabricante, provocando ruidos metálicos y desgaste de los engranajes si no se sustituye a tiempo."
     }
   ],
   "whyUs": [
     {
-      "title": "Experiencia contrastada",
-      "body": "Contamos con años de experiencia exclusiva en BMW, habiendo diagnosticado y reparado miles de vehículos de la marca. Desde un Serie 1 con motor de 3 cilindros hasta un X7 con motor de 6, conocemos cada particularidad y cada punto débil."
+      "title": "Conocemos las exigencias del Berguedà",
+      "body": "Sabemos exactamente qué le pasa a un BMW que sube y baja el Cadí cada semana o que accede regularmente a las pistas del Pedraforca. Nuestros protocolos de mantenimiento están adaptados a las condiciones reales de altitud, pendientes y caminos de montaña de la comarca."
     },
     {
-      "title": "Atención personalizada y ágil",
-      "body": "En nuestro taller no eres un número de expediente. Te atendemos de forma directa, te explicamos cada intervención con claridad y adaptamos los plazos a tus necesidades. Las citas son rápidas y los tiempos de reparación, ajustados."
+      "title": "Diagnóstico profesional ISTA+",
+      "body": "Utilizamos el mismo software de diagnóstico que los concesionarios oficiales BMW, lo que nos permite acceder a todas las centralitas del vehículo, realizar codificaciones, actualizaciones de software y programaciones que otros talleres genéricos no pueden ofrecer."
     },
     {
-      "title": "Especialización exclusiva en BMW",
-      "body": "No somos un taller multimarca. Nuestra experiencia y formación se centran exclusivamente en vehículos BMW, lo que nos permite conocer en profundidad cada motor, cada generación y las averías específicas de cada modelo."
+      "title": "Especialistas en xDrive y tracción integral",
+      "body": "El sistema xDrive es el corazón de los BMW de montaña. Dominamos su diagnóstico, mantenimiento y reparación, desde el cambio de aceite de transfer hasta la sustitución del actuador o la corona, pasando por la calibración electrónica del reparto de par."
     },
     {
-      "title": "Presupuestos cerrados y transparentes",
-      "body": "Antes de cualquier intervención recibirás un presupuesto detallado con cada operación y pieza desglosada. Sin sorpresas, sin costes ocultos. Si lo deseas, comparamos nuestro precio con la tarifa del concesionario para que visualices el ahorro."
+      "title": "Recambios de calidad con garantía",
+      "body": "Trabajamos exclusivamente con recambios originales BMW o de calidad OE homologada. Todas nuestras reparaciones incluyen garantía por escrito, para que circules por las carreteras de montaña del Berguedà con total tranquilidad."
     },
     {
-      "title": "Ahorro real de hasta el 50%",
-      "body": "Nuestra estructura de costes nos permite ofrecer tarifas significativamente más competitivas que la red oficial. En revisiones completas, cambios de frenos o reparaciones mayores, el ahorro puede superar el 40-50% respecto al concesionario, manteniendo la misma calidad."
+      "title": "Servicio cercano y flexible",
+      "body": "Entendemos que en una zona de montaña el coche es imprescindible. Ofrecemos cita previa adaptada a tus horarios, diagnóstico rápido para incidencias en ruta y presupuestos transparentes sin sorpresas para que puedas planificar cualquier reparación."
     }
   ],
-  "testimonialsIntro": "Estos son algunos ejemplos de las situaciones que nuestros clientes de Guardiola de Berguedà nos confían habitualmente, buscando un servicio experto sin las tarifas del concesionario.",
+  "testimonialsIntro": "Los propietarios de BMW que viven o disfrutan del entorno de Guardiola de Berguedà confían en nuestro taller para mantener sus vehículos a punto. Estas son algunas de sus experiencias reales con nuestro servicio.",
   "testimonials": [
     {
-      "name": "Xavier",
-      "neighborhood": "Centre de Guardiola de Berguedà",
-      "car": "BMW X1 sDrive18d F48 2019",
-      "body": "Compré mi BMW X1 de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
+      "name": "Jordi M.",
+      "neighborhood": "Bagà",
+      "car": "BMW X3 xDrive20d",
+      "body": "Subo cada fin de semana al Pedraforca con el X3 y el xDrive empezó a hacer un ruido raro en las curvas cerradas de la pista. Me diagnosticaron el actuador de la caja transfer a tiempo y evité una reparación mucho más cara. Servicio impecable y conocen perfectamente las exigencias de estas carreteras.",
       "rating": 5
     },
     {
-      "name": "Judit",
-      "neighborhood": "Centre de Guardiola de Berguedà",
-      "car": "BMW M340i G20 2022",
-      "body": "Mi BMW M340i empezó a vibrar a velocidad de autopista. En otro taller me dijeron que eran los amortiguadores. Aquí hicieron un diagnóstico completo y resultó ser el grupo diferencial trasero, un fallo conocido del modelo. Lo repararon con piezas OE y me explicaron todo el proceso. Confío plenamente en su criterio técnico.",
+      "name": "Marta S.",
+      "neighborhood": "Guardiola de Berguedà",
+      "car": "BMW X5 xDrive30d",
+      "body": "Vivo en Guardiola y cruzo el túnel del Cadí casi a diario para trabajar en la Cerdanya. El X5 empezó a quedarse bajo de un lado por las mañanas frías. Resultó ser un fuelle de la suspensión neumática. Me lo cambiaron rápido y con un precio muy justo comparado con lo que me pedían en el concesionario de Barcelona.",
+      "rating": 5
+    },
+    {
+      "name": "Àlex R.",
+      "neighborhood": "Saldes",
+      "car": "BMW 320d Touring",
+      "body": "El filtro de partículas se me saturó por el polvo de las pistas que cojo para ir a escalar al Pedraforca. Me hicieron una regeneración forzada, limpiaron los sensores y me explicaron cómo evitar que vuelva a pasar. El coche va como nuevo y el diagnóstico fue muy profesional.",
+      "rating": 5
+    },
+    {
+      "name": "Carla P.",
+      "neighborhood": "La Pobla de Lillet",
+      "car": "BMW X1 sDrive18d",
+      "body": "Desde la Pobla de Lillet me queda muy cerca pasando por Guardiola. El turbo del X1 no respondía bien en las subidas y tardaron muy poco en identificar que era el actuador carbonizado. Reparación limpia, precio honesto y el coche recuperó toda la potencia en cuestas. Muy recomendable.",
       "rating": 4
-    },
-    {
-      "name": "Lluís",
-      "neighborhood": "Centre de Guardiola de Berguedà",
-      "car": "BMW 316d F30 2017",
-      "body": "Llevaba meses posponiendo la revisión CBS de mi BMW 316d porque el concesionario más cercano me daba cita para dentro de un mes y el precio era excesivo. Aquí en Guardiola de Berguedà me atendieron en menos de una semana, con un presupuesto detallado desde el primer momento. El ahorro fue notable y la calidad del trabajo, impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Aina",
-      "neighborhood": "Centre de Guardiola de Berguedà",
-      "car": "BMW X6 xDrive30d G06 2021",
-      "body": "Compré mi BMW X6 de segunda mano y necesitaba una inspección completa antes de decidirme. Hicieron un diagnóstico exhaustivo con ISTA, revisaron cadena, turbo, frenos, electrónica… y me dieron un informe detallado. Gracias a eso pude negociar el precio del coche sabiendo exactamente su estado real.",
-      "rating": 5
     }
   ],
-  "zoneText": "Nuestro taller especialista BMW da servicio a Guardiola de Berguedà y toda su área de influencia. Atendemos a propietarios de BMW de todo el municipio. Las buenas comunicaciones a través de C-58, C-16, A-2 facilitan el acceso desde los municipios vecinos. Muchos de nuestros clientes vienen de localidades cercanas aprovechando la comodidad de las conexiones viarias.",
+  "zoneText": "Desde Guardiola de Berguedà damos servicio a todo el norte de la comarca y a los municipios que convergen en este cruce estratégico de carreteras. Si resides en cualquiera de estas localidades o estás de paso hacia el Cadí, el Pedraforca o el Ripollès, nuestro taller especializado BMW está a tu alcance.",
   "zoneNeighborhoods": [
-    "Centre de Guardiola de Berguedà",
-    "Zona residencial"
+    "Bagà",
+    "Saldes",
+    "Gósol",
+    "La Pobla de Lillet",
+    "Castellar de n'Hug",
+    "Cercs",
+    "Vilada",
+    "Sant Julià de Cerdanyola"
   ],
   "zoneAccessRoutes": [
-    "C-58 (Autopista de Montserrat)",
-    "C-16 (Eix del Llobregat)",
-    "A-2 (Autovía del Nordeste)"
+    "C-16 (Eix del Llobregat, hacia Berga y Barcelona)",
+    "C-16 (hacia el Túnel del Cadí y la Cerdanya)",
+    "C-26 (hacia Ripoll y el Ripollès)",
+    "B-402 (hacia Saldes y el Pedraforca)",
+    "BV-4024 (hacia La Pobla de Lillet)"
   ],
   "faqLocal": [
     {
-      "q": "¿Qué aceite utilizáis en las revisiones?",
-      "a": "Utilizamos exclusivamente aceites de primeras marcas que cumplen o superan las especificaciones oficiales de BMW: Longlife-04 (LL-04), Longlife-01 (LL-01) o Longlife-12 FE, según lo que requiera tu motor específico. Estas homologaciones garantizan la protección óptima del motor, la compatibilidad con el sistema DPF en los diésel y el cumplimiento de los requisitos para mantener la garantía."
+      "q": "¿Atendéis BMW que vienen de paso por Guardiola hacia el Cadí?",
+      "a": "Sí, ofrecemos servicio de diagnóstico rápido para incidencias surgidas en ruta. Guardiola es el cruce natural antes del túnel del Cadí, y muchos conductores de BMW detectan problemas precisamente en las subidas exigentes de la C-16. Podemos atenderte con cita rápida o en el día según disponibilidad."
     },
     {
-      "q": "¿Hago trayectos cortos a diario, qué debo vigilar en mi BMW diésel?",
-      "a": "Para un uso predominantemente urbano con trayectos cortos en Guardiola de Berguedà, las dos prioridades son el filtro de partículas (DPF) y la calidad del aceite. Recomendamos no alargar en exceso los intervalos de cambio de aceite (incluso si el CBS no lo indica) y realizar periódicamente un trayecto de 20-30 minutos por autopista a régimen sostenido para facilitar la regeneración del DPF. En nuestro taller verificamos con ISTA el estado del filtro en cada visita."
+      "q": "¿El sistema xDrive necesita un mantenimiento especial si circulo por pistas de montaña?",
+      "a": "Absolutamente. Los intervalos de cambio de aceite de la caja transfer y los diferenciales deben reducirse cuando el vehículo circula habitualmente por pistas sin asfaltar o con desniveles pronunciados. Recomendamos revisiones cada 40.000 km o cada 2 años en condiciones de uso en montaña, frente a los 60.000-80.000 km del uso en carretera convencional."
     },
     {
-      "q": "¿Cuánto puedo ahorrar respecto al concesionario oficial?",
-      "a": "El ahorro depende del tipo de intervención. En revisiones periódicas CBS, el ahorro suele situarse entre el 30% y el 40%. En reparaciones más complejas, como sustitución de cadena de distribución, embrague, turbo o componentes de suspensión, el ahorro puede alcanzar o superar el 50%. Te entregamos un presupuesto cerrado y detallado para que puedas comparar antes de decidir."
+      "q": "¿Podéis diagnosticar fallos de suspensión neumática en los X5 y X7?",
+      "a": "Sí, contamos con equipamiento ISTA+ para diagnosticar todos los componentes de la suspensión neumática: fuelles, compresor, válvulas de distribución y sensores de altura. Realizamos tanto reparaciones parciales como sustituciones completas, siempre con recambios de calidad garantizada."
     },
     {
-      "q": "¿Realizáis codificaciones y actualizaciones de software?",
-      "a": "Sí. Con nuestro equipo ISTA/Rheingold podemos realizar codificaciones de módulos (activar o desactivar funciones), programar unidades de control nuevas y, en muchos casos, actualizar el software del vehículo a la última versión disponible. Esto incluye actualizaciones de mapas de navegación, activación de Apple CarPlay, personalización del cierre centralizado y otras funciones de confort y seguridad."
+      "q": "¿Cómo afecta la altitud de Guardiola al turbo de mi BMW diésel?",
+      "a": "A 720 metros de altitud, el aire es aproximadamente un 8% menos denso que a nivel del mar. Esto obliga al turbo a trabajar con geometría más abierta para compensar, lo que acelera la carbonización del actuador. Si notas falta de potencia en subidas o el coche entra en modo emergencia, es probable que el actuador necesite limpieza o sustitución."
     },
     {
-      "q": "¿Mi BMW tiene contrato BSI, podéis realizar esos servicios?",
-      "a": "No podemos ejecutar servicios cubiertos por un paquete BSI (BMW Service Inclusive), ya que es un contrato prepagado directamente con la marca. Sin embargo, cualquier reparación no incluida en ese paquete —neumáticos, frenos por desgaste, averías fuera de garantía, codificaciones— sí podemos realizarla con un ahorro significativo. Muchos clientes con BSI acuden a nosotros para estas operaciones."
+      "q": "¿Ofrecéis servicio de mantenimiento programado con especificaciones BMW?",
+      "a": "Sí, realizamos todos los servicios de mantenimiento programado siguiendo las especificaciones oficiales BMW: aceite Longlife-04, filtros originales, líquido de frenos DOT4 y refrigerante específico. Además, adaptamos los intervalos a las condiciones de uso en montaña para proteger mejor tu motor y transmisión."
     },
     {
-      "q": "¿Qué diferencia hay entre recambio original BMW y recambio OE?",
-      "a": "Un recambio \"original BMW\" viene en una caja con el logotipo de BMW. Un recambio OE (Original Equipment) es la misma pieza, fabricada por el mismo proveedor (por ejemplo, ZF para transmisiones, Bosch para electrónica, ATE para frenos), pero comercializada en el embalaje del fabricante. La calidad, las especificaciones y la durabilidad son idénticas; la única diferencia es el precio, que en el recambio OE es considerablemente inferior."
+      "q": "¿Cuánto cuesta un diagnóstico completo en vuestro taller?",
+      "a": "El diagnóstico completo con lectura de todas las centralitas ISTA+ tiene un coste que se descuenta íntegramente si decides realizar la reparación con nosotros. Contacta por teléfono o WhatsApp al 665 245 143 para consultar disponibilidad y precio actualizado."
     }
   ],
-  "closingHeadline": "Cuidamos tu BMW en Guardiola de Berguedà",
-  "closingCta": "Contacta con nosotros y solicita un presupuesto cerrado para tu BMW. Sin compromiso, sin letra pequeña. Descubre el ahorro que te estás perdiendo en Guardiola de Berguedà.",
+  "closingHeadline": "Tu BMW merece un especialista a la altura del Berguedà",
+  "closingCta": "Pide cita en nuestro taller especializado BMW para Guardiola de Berguedà. Llámanos o escríbenos por WhatsApp al 665 245 143 y mantén tu BMW listo para cualquier ruta de montaña.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
     "phone": "+34665245143",
     "phoneDisplay": "665 245 143",
-    "whatsapp": "34665245143",
-    "email": "info@bmw-taller.es",
-    "addressStreet": ""
+    "whatsapp": "+34665245143",
+    "email": "info@bmw-taller.es"
   }
 }
