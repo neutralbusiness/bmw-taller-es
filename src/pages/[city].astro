@@ -44,7 +44,7 @@ interface CityContent {
   heroImage?: string;
   heroSubtitle: string;
   trustChips?: TrustChip[];
-  introLocal: string;
+  introLocal: string | string[];
   servicesIntro: string;
   servicesOverrides?: Record<string, string>;
   processIntro?: string;
@@ -321,7 +321,10 @@ const schemaGraph = {
   "@graph": [autoRepair, organization, webPage, breadcrumb, faqEntity],
 };
 
-const introParagraphs = city.introLocal.split("\n\n").filter(Boolean);
+const introParagraphs = (Array.isArray(city.introLocal)
+  ? city.introLocal
+  : city.introLocal.split("\n\n")
+).filter(Boolean);
 
 /* Initials del primer nombre para el avatar de los testimonios. */
 const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();

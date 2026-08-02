@@ -21,7 +21,7 @@ interface CityContent {
   metaTitle: string;
   metaDescription: string;
   heroSubtitle: string;
-  introLocal: string;
+  introLocal: string | string[];
   servicesIntro: string;
   servicesOverrides?: Record<string, string>;
   processIntro?: string;
@@ -161,7 +161,7 @@ export const GET: APIRoute = ({ props }) => {
   // ───── Contexto local extenso (intro) ─────
   lines.push(`## Contexto local de ${city.name}`);
   lines.push("");
-  lines.push(city.introLocal);
+  lines.push(Array.isArray(city.introLocal) ? city.introLocal.join("\n\n") : city.introLocal);
   lines.push("");
 
   // ───── FAQ ─────
