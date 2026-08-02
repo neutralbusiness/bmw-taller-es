@@ -17,7 +17,8 @@
 export async function onRequest(context) {
   const { request, next, env } = context;
   const url = new URL(request.url);
-  const hostname = (request.headers.get("x-forwarded-host") || url.hostname).toLowerCase();
+  const forwardedHost = request.headers.get("x-forwarded-host");
+  const hostname = (forwardedHost || url.hostname).toLowerCase();
 
   // Dominio principal sin subdominio relevante → master directorio
   const isApex = hostname === "bmw-taller.es";
@@ -45,6 +46,14 @@ export async function onRequest(context) {
         return env.ASSETS.fetch(request);
       }
 
+      // Rutas legales compartidas: NO se reescriben a /<slug>/... — se sirven
+      // desde el master (existen una sola vez en el build, con canonical a www).
+      if (/^\/(aviso-legal|privacidad)\/?$/.test(url.pathname)) {
+        const legal = new URL(url);
+        legal.pathname = url.pathname.endsWith("/") ? url.pathname : `${url.pathname}/`;
+        return env.ASSETS.fetch(new Request(legal.toString(), request));
+      }
+
       // Rewrite interno: /<algo> o / → /<slug>/<resto>
       let rewrittenPath = url.pathname === "/" || url.pathname === ""
         ? `/${subdomain}/`
@@ -59,10 +68,23 @@ export async function onRequest(context) {
 
       const rewritten = new URL(url);
       rewritten.pathname = rewrittenPath;
+      // Si la ruta no existe, ASSETS responde con dist/404.html y status 404
+      // (al existir 404.html en el build, Pages desactiva el fallback SPA que
+      // antes devolvía la portada con 200). Se propaga tal cual.
       return env.ASSETS.fetch(new Request(rewritten.toString(), request));
     }
   }
 
-  // pages.dev directo y otros casos → continuar
+  // Dominio técnico *.pages.dev accedido en directo (sin X-Forwarded-Host del
+  // Worker): duplica todo el contenido del build → marcar noindex. El tráfico
+  // real llega siempre vía Worker con X-Forwarded-Host y no pasa por aquí.
+  if (!forwardedHost && url.hostname.toLowerCase().endsWith(".pages.dev")) {
+    const res = await next();
+    const marked = new Response(res.body, res);
+    marked.headers.set("X-Robots-Tag", "noindex");
+    return marked;
+  }
+
+  // Otros casos → continuar
   return next();
 }

@@ -4,12 +4,15 @@ import { NETWORK } from "../lib/network.ts";
 interface Props {
   title: string;
   description: string;
-  canonical: string;
+  /** URL canónica. Omitir en páginas que no deben declarar canonical (p.ej. 404). */
+  canonical?: string;
   schema?: object;
   ogImage?: string;
+  /** true → emite <meta name="robots" content="noindex"> (páginas de error, etc.). */
+  noindex?: boolean;
 }
 
-const { title, description, canonical, schema, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
+const { title, description, canonical, schema, noindex = false, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -19,11 +22,12 @@ const { title, description, canonical, schema, ogImage = `https://${NETWORK.doma
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    {canonical && <link rel="canonical" href={canonical} />}
 
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical} />
+    {canonical && <meta property="og:url" content={canonical} />}
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_ES" />
     <meta property="og:image" content={ogImage} />

@@ -53,6 +53,7 @@ const schema = {
       <span class="nav-brand">{NETWORK.brand}</span>
       <div class="nav-links">
         <a href="#directorio">Directorio</a>
+        <a href="/zonas/">Zonas</a>
         <a href={`tel:${NETWORK.phone}`}>{NETWORK.phoneDisplay}</a>
       </div>
     </div>
@@ -110,6 +111,13 @@ const schema = {
     <div class="container">
       <p style="margin: 0; color: white; font-weight: 700;">{NETWORK.brand}</p>
       <p style="margin: 0.5rem 0; font-size: 0.85rem;">{NETWORK.tagline} · {NETWORK.email}</p>
+      <p style="margin: 0.75rem 0 0; font-size: 0.85rem;">
+        <a href="/zonas/" style="color: white; font-weight: 600; text-decoration: underline;">Todas las zonas con taller BMW</a>
+        <span style="opacity: 0.5;"> · </span>
+        <a href="/aviso-legal/" style="color: rgba(255,255,255,0.7);">Aviso legal</a>
+        <span style="opacity: 0.5;"> · </span>
+        <a href="/privacidad/" style="color: rgba(255,255,255,0.7);">Privacidad</a>
+      </p>
     </div>
   </footer>
 </Layout>

@@ -74,6 +74,36 @@ export async function getStaticPaths() {
 
 const { city } = Astro.props as { city: CityContent };
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
+
+/* ──────────────────────────────────────────────────────────
+   Enlazado interno "Talleres cercanos": las 8 ciudades activas
+   más próximas por distancia haversine (lat/lng del JSON).
+   Rompe la orfandad de los subdominios: cada página recibe
+   enlaces internos desde sus vecinas.
+   ────────────────────────────────────────────────────────── */
+interface NearbyCity { slug: string; name: string; province: string; lat?: number; lng?: number; }
+const _allCityMods = import.meta.glob<{ default: NearbyCity }>("../content/cities/*.json", { eager: true });
+const _allCities: NearbyCity[] = Object.values(_allCityMods).map(m => m.default);
+
+function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const toRad = (d: number) => (d * Math.PI) / 180;
+  const dLat = toRad(lat2 - lat1);
+  const dLng = toRad(lng2 - lng1);
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+
+const nearbyCities: Array<NearbyCity & { distanceKm: number }> =
+  city.lat && city.lng
+    ? _allCities
+        .filter(c => c.slug !== city.slug && typeof c.lat === "number" && typeof c.lng === "number")
+        .map(c => ({ ...c, distanceKm: haversineKm(city.lat!, city.lng!, c.lat!, c.lng!) }))
+        .sort((a, b) => a.distanceKm - b.distanceKm)
+        .slice(0, 8)
+    : [];
 // Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)
 type BlogPost = CollectionEntry<"blog">;
 const _allBlog = await getCollection("blog");
@@ -231,28 +261,11 @@ const autoRepair = {
     })),
   },
   ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
-  ...(city.testimonials && city.testimonials.length > 0
-    ? {
-        aggregateRating: {
-          "@type": "AggregateRating",
-          ratingValue: (city.testimonials.reduce((s, ti) => s + (ti.rating || 5), 0) / city.testimonials.length).toFixed(1),
-          reviewCount: city.testimonials.length,
-          bestRating: 5,
-          worstRating: 1,
-        },
-        review: city.testimonials.map(t => ({
-          "@type": "Review",
-          author: { "@type": "Person", name: t.name },
-          reviewRating: {
-            "@type": "Rating",
-            ratingValue: t.rating || 5,
-            bestRating: 5,
-            worstRating: 1,
-          },
-          reviewBody: t.body,
-        })),
-      }
-    : {}),
+  /* Nota SEO: NO emitimos aggregateRating ni Review en el JSON-LD.
+     Las opiniones visibles en #opiniones son testimonios editoriales, no
+     reseñas verificadas de una plataforma; marcar cientos de LocalBusiness
+     con reseñas autoservidas (y teléfono compartido) es structured data
+     spam y riesgo de acción manual. Los testimonios siguen en el HTML. */
 };
 
 const organization = {
@@ -724,6 +737,57 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </section>
   )}
 
+  {/* ─────────────────────── TALLERES CERCANOS (enlazado interno de la red) ─────────────────────── */}
+  {nearbyCities.length > 0 && (
+    <section id="cercanas" class="nearby-section">
+      <div class="container">
+        <div class="section-head">
+          <span class="section-eyebrow"><span class="num">10</span> Red {NETWORK.brand}</span>
+          <h2>Talleres BMW cerca de {city.name}</h2>
+          <p class="section-lead">
+            ¿No te pilla a mano? La red {NETWORK.brand} también atiende en estas localidades
+            próximas a {city.name}, con el mismo diagnóstico ISTA y la misma política de
+            presupuesto cerrado.
+          </p>
+        </div>
+        <ul class="nearby-list">
+          {nearbyCities.map(n => (
+            <li>
+              <a href={`https://${n.slug}.${NETWORK.domain}/`} class="chip nearby-chip">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                <span>Taller BMW en {n.name}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <style>
+        .nearby-list {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.55rem;
+        }
+        .nearby-chip {
+          gap: 0.5rem;
+          font-weight: 600;
+          color: var(--ink-800);
+          transition: border-color 130ms ease, background 130ms ease, color 130ms ease;
+        }
+        .nearby-chip svg { width: 15px; height: 15px; color: var(--amber-600); flex-shrink: 0; }
+        .nearby-chip:hover {
+          border-color: var(--ink-900);
+          background: var(--ink-900);
+          color: white;
+        }
+        .nearby-chip:hover svg { color: var(--amber-400); }
+      </style>
+    </section>
+  )}
+
   </main>
 
   {/* ─────────────────────── FOOTER ─────────────────────── */}
@@ -768,6 +832,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         <span>© {new Date().getFullYear()} {NETWORK.brand}. Hecho en {city.name}.</span>
         <div class="footer-legal-links">
           <a href="https://www.bmw-taller.es/">Red completa</a>
+          <a href="https://www.bmw-taller.es/zonas/">Todas las zonas</a>
           <a href="/aviso-legal/">Aviso legal</a>
           <a href="/privacidad/">Privacidad</a>
         </div>

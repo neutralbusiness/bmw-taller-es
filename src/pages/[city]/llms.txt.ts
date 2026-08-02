@@ -202,7 +202,7 @@ export const GET: APIRoute = ({ props }) => {
     `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
     `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
     `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `teléfono, email, área servida y rating agregado calculado a partir de las opiniones publicadas.`,
+    `teléfono, email y área servida.`,
   );
   lines.push("");
 

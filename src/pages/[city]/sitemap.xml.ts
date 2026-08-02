@@ -11,7 +11,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = async ({ params }) => {
   const base = `https://${params.city}.${NETWORK.domain}`;
-  const lastmod = new Date().toISOString().slice(0, 10);
 
   // Blog posts visibles para esta ciudad = específicos de la ciudad + globales
   const all = await getCollection("blog");
@@ -21,38 +20,52 @@ export const GET: APIRoute = async ({ params }) => {
     return parts[0] === params.city;          // city-specific
   });
 
-  const blogUrls = cityPosts.map(p => {
-    const slug = p.id.split("/").pop();
-    const last = (p.data.updatedDate || p.data.publishDate).toISOString().slice(0, 10);
-    return `  <url>
+  /*
+   * Reglas SEO del sitemap:
+   *  - Solo páginas HTML indexables (nada de /llms.txt: no es una página).
+   *  - /blog/ y sus posts solo si esta ciudad tiene posts visibles; un blog
+   *    vacío en el sitemap son URLs fantasma.
+   *  - lastmod solo cuando hay fecha real de contenido (posts). Para la
+   *    portada no la tenemos, y poner la fecha del build sería engañoso →
+   *    se omite.
+   */
+  const urls: string[] = [];
+
+  urls.push(`  <url>
+    <loc>${base}/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>`);
+
+  if (cityPosts.length > 0) {
+    const newest = cityPosts
+      .map(p => (p.data.updatedDate || p.data.publishDate))
+      .sort((a, b) => b.getTime() - a.getTime())[0]
+      .toISOString()
+      .slice(0, 10);
+
+    urls.push(`  <url>
+    <loc>${base}/blog/</loc>
+    <lastmod>${newest}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>`);
+
+    for (const p of cityPosts) {
+      const slug = p.id.split("/").pop();
+      const last = (p.data.updatedDate || p.data.publishDate).toISOString().slice(0, 10);
+      urls.push(`  <url>
     <loc>${base}/blog/${slug}/</loc>
     <lastmod>${last}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>`;
-  }).join("\n");
+  </url>`);
+    }
+  }
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>${base}/</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>${base}/blog/</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-${blogUrls}
-  <url>
-    <loc>${base}/llms.txt</loc>
-    <lastmod>${lastmod}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+${urls.join("\n")}
 </urlset>
 `;
   return new Response(body, {
