@@ -15,6 +15,7 @@ export const NETWORK = {
   whatsapp: "34641161771",
   email: "info@bmw-taller.es",
   heroImage: "/img/hero.webp",
+  gtmId: "GTM-MXDJ2V5T",
 } as const;
 
 // Servicios del taller BMW (cards en #servicios). Texto base — el copy de cada

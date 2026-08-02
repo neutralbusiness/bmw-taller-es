@@ -894,6 +894,21 @@ const { title, description, canonical, schema, noindex = false, ogImage = `https
     </style>
   <!-- Neutral B contact tracker -->
   <script async src="https://panel.neutralb.es/track.js"></script>
+  <!-- GTM: carga diferida para no bloquear LCP/FCP -->
+  {NETWORK.gtmId && (
+    <script define:vars={{ gtmId: NETWORK.gtmId }}>
+      addEventListener('DOMContentLoaded', () => {
+        requestIdleCallback(() => {
+          const s = document.createElement('script');
+          s.src = `https://www.googletagmanager.com/gtm.js?id=${gtmId}`;
+          s.async = true;
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({ 'gtm.start': Date.now(), event: 'gtm.js' });
+          document.head.appendChild(s);
+        }, { timeout: 3000 });
+      });
+    </script>
+  )}
   </head>
   <body>
     <!-- Navigation progress bar -->
