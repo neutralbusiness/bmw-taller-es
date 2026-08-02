@@ -25,7 +25,7 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: ${base}/sitemap.xml
+Sitemap: ${base}/sitemap-index.xml
 `;
   return new Response(body, {
     headers: {
