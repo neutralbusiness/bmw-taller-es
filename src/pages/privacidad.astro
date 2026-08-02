@@ -1,9 +1,12 @@
 ---
 import LegalShell from "../components/LegalShell.astro";
 import { NETWORK } from "../lib/network.ts";
+import { loadIssuer } from "../lib/issuer.ts";
 
+const issuer = await loadIssuer();
 const title = `Política de privacidad | ${NETWORK.brand}`;
 const description = `Política de privacidad (RGPD y LOPDGDD) del sitio web ${NETWORK.brand} (${NETWORK.domain}) y sus subdominios de ciudad.`;
+const domicilio = `${issuer.address} – ${issuer.city} (${issuer.province})`;
 ---
 
 <LegalShell title={title} description={description} path="/privacidad/" heading="Política de privacidad">
@@ -11,20 +14,20 @@ const description = `Política de privacidad (RGPD y LOPDGDD) del sitio web ${NE
 
   <p>
     Esta política describe cómo se tratan los datos personales de los usuarios de
-    <strong>bmw-taller.es</strong> y de todos sus subdominios de ciudad
-    (<em>{"{ciudad}"}.bmw-taller.es</em>), conforme al Reglamento (UE) 2016/679 (RGPD) y
+    <strong>{NETWORK.domain}</strong> y de todos sus subdominios de ciudad
+    (<em>{"{ciudad}"}.{NETWORK.domain}</em>), conforme al Reglamento (UE) 2016/679 (RGPD) y
     a la Ley Orgánica 3/2018 (LOPDGDD).
   </p>
 
   <h2>1. Responsable del tratamiento</h2>
   <ul>
-    <li><strong>Nombre comercial:</strong> BMW Taller</li>
-    <li><strong>Titular:</strong> Ana Gissela Torres Cruz</li>
-    <li><strong>NIF:</strong> Se facilitará previo requerimiento e identificación del solicitante</li>
-    <li><strong>Domicilio:</strong> Avinguda U, 40 – Les Cabanyes (Barcelona)</li>
-    <li><strong>Email:</strong> <a href="mailto:info@bmw-taller.es">info@bmw-taller.es</a></li>
-    <li><strong>Email protección de datos:</strong> <a href="mailto:rgpd@bmw-taller.es">rgpd@bmw-taller.es</a></li>
-    <li><strong>Teléfono:</strong> <a href="tel:+34665245143">665 24 51 43</a></li>
+    <li><strong>Nombre comercial:</strong> {NETWORK.brand}</li>
+    <li><strong>Titular:</strong> {issuer.titular}</li>
+    <li><strong>NIF:</strong> {issuer.cifDisplay}</li>
+    <li><strong>Domicilio:</strong> {domicilio}</li>
+    <li><strong>Email:</strong> <a href={`mailto:info@${NETWORK.domain}`}>info@{NETWORK.domain}</a></li>
+    <li><strong>Email protección de datos:</strong> <a href={`mailto:rgpd@${NETWORK.domain}`}>rgpd@{NETWORK.domain}</a></li>
+    <li><strong>Teléfono:</strong> <a href={`tel:${issuer.phone}`}>{issuer.phoneDisplay}</a></li>
   </ul>
 
   <h2>2. Datos que se tratan</h2>
@@ -91,7 +94,7 @@ const description = `Política de privacidad (RGPD y LOPDGDD) del sitio web ${NE
   <p>
     Puedes ejercer en cualquier momento tus derechos de <strong>acceso, rectificación,
     supresión, oposición, limitación del tratamiento y portabilidad</strong> escribiendo a
-    <a href="mailto:rgpd@bmw-taller.es">rgpd@bmw-taller.es</a> con el asunto
+    <a href={`mailto:rgpd@${NETWORK.domain}`}>rgpd@{NETWORK.domain}</a> con el asunto
     «Protección de datos», adjuntando información suficiente para identificarte.
   </p>
   <p>
