@@ -35,6 +35,11 @@ ${urls
   </url>`,
   )
   .join("\n")}
+  <url>
+    <loc>${base}/llms.txt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
 `;
 
