@@ -10,64 +10,183 @@
   "metaDescription": "Especialistas BMW para vecinos de Malla y las masías de la Plana de Vic. Diagnosis con equipo oficial, recogida a domicilio y presupuesto sin sorpresas.",
   "heroSubtitle": "Tu BMW revisado por especialistas sin salir de la comarca: recogida en Malla y masías cercanas, diagnosis oficial y presupuesto claro antes de tocar el coche.",
   "trustChips": [
-    { "icon": "🔧", "text": "Especialistas BMW" },
-    { "icon": "📍", "text": "A minutos de Malla por la C-17" },
-    { "icon": "🚗", "text": "Recogida en masías y núcleo urbano" },
-    { "icon": "💻", "text": "Diagnosis con software oficial" },
-    { "icon": "💶", "text": "Presupuesto cerrado sin sorpresas" },
-    { "icon": "⭐", "text": "Valorado por talleres de Osona" }
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "📍",
+      "text": "A minutos de Malla por la C-17"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida en masías y núcleo urbano"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnosis con software oficial"
+    },
+    {
+      "icon": "💶",
+      "text": "Presupuesto cerrado sin sorpresas"
+    },
+    {
+      "icon": "⭐",
+      "text": "Valorado por talleres de Osona"
+    }
   ],
   "introLocal": "Malla es de esos municipios donde el paisaje manda: apenas 269 vecinos repartidos entre el núcleo y un buen número de masías dispersas por la Plana de Vic, con el Puig de Malla vigilando el término y los campos de cereal cambiando de color según la estación. Vivir así tiene ventajas evidentes, pero también un inconveniente muy concreto para quien conduce un BMW: encontrar un taller que entienda estos vehículos sin tener que meterse cada vez en la carretera hacia Vic o, peor, bajar hasta Barcelona. Nosotros trabajamos precisamente para resolver esa distancia.\n\nLa dispersión de las masías alrededor de Malla —muchas a varios minutos del propio pueblo, comunicadas por caminos que en invierno amanecen con niebla espesa y escarcha en el parabrisas— hace que el coche particular sea, más que en ningún otro sitio, una herramienta de trabajo diaria. Un BMW con un testigo encendido, una avería eléctrica o un simple ruido en la suspensión no es un capricho que se pueda posponer: es lo que te lleva a la feina, a Vic, a Tona o a la escuela de los críos. Por eso planteamos el servicio pensando en esa realidad rural, no en la lógica de un taller de ciudad que da por hecho que el cliente puede esperar sin coche una semana.\n\nLa proximidad a Tona y el acceso directo a la C-17 son, en la práctica, lo que hace viable nuestro servicio para Malla. Estamos a un trayecto corto y sin complicaciones, aprovechando una vía rápida que evita perder la mañana entera en desplazamientos. Eso nos permite ofrecer recogida del vehículo en el propio pueblo o incluso en la masía, sin que el propietario tenga que renunciar a media jornada de trabajo agrícola o laboral para acercarse hasta un taller. Sabemos que en Malla el tiempo no sobra, y menos en temporada de campo.\n\nEl clima continental de la comarca, con inviernos secos y fríos, nieblas persistentes en el valle y oscilaciones térmicas notables entre el día y la noche, pasa factura a los vehículos de forma silenciosa: baterías que pierden capacidad antes de lo esperado, condensación en circuitos electrónicos, correas y gomas que se resienten con los cambios bruscos. En un BMW, con su electrónica avanzada y sus sistemas de asistencia, estos factores exigen un mantenimiento más atento que en un utilitario cualquiera, y es justo el tipo de revisión que hacemos con equipo de diagnosis oficial, sin generalizar el problema ni recurrir a soluciones de taller genérico.\n\nEntendemos que un vecino de Malla no necesita el taller más grande, sino el más cercano que realmente sepa lo que tiene entre manos. Por eso combinamos la especialización técnica en la marca con un servicio que se adapta a la vida de la Plana de Vic: horarios flexibles para quien madruga en el campo, recogida a domicilio para las masías más alejadas y una comunicación directa, sin intermediarios, sobre qué le pasa exactamente al coche y cuánto va a costar arreglarlo.",
   "servicesIntro": "Ofrecemos el catálogo completo de mantenimiento y reparación BMW: desde revisiones periódicas y cambios de aceite con especificación original, hasta diagnosis electrónica avanzada, frenos, suspensión, embrague, climatización y reparación de averías complejas en motor y caja de cambios, todo con el respaldo de equipos de diagnosis actualizados para cada generación de BMW.",
   "processIntro": "Trabajamos con un proceso pensado para que el cliente de Malla no pierda tiempo ni se quede sin información: desde el primer contacto hasta la entrega del vehículo, cada paso está pensado para minimizar desplazamientos y dar transparencia total sobre el estado del coche.",
   "processSteps": [
-    { "title": "Contacto y recogida", "body": "Nos escribes por WhatsApp o llamas, nos cuentas el problema y acordamos recogida en Malla o en la masía, o bien traes el coche tú mismo si prefieres." },
-    { "title": "Diagnosis con equipo oficial", "body": "Conectamos el vehículo al software de diagnosis específico BMW para identificar el fallo real, sin conjeturas ni recambios innecesarios." },
-    { "title": "Presupuesto cerrado", "body": "Te explicamos qué ha fallado y te damos un presupuesto claro antes de intervenir; no se toca nada sin tu aprobación." },
-    { "title": "Reparación", "body": "Realizamos la reparación con recambios adecuados a tu modelo, respetando los tiempos y procedimientos que marca el fabricante." },
-    { "title": "Entrega y devolución", "body": "Te devolvemos el vehículo en Malla o donde acordemos, con explicación de lo realizado y recomendaciones de mantenimiento." }
+    {
+      "title": "Contacto y recogida",
+      "body": "Nos escribes por WhatsApp o llamas, nos cuentas el problema y acordamos recogida en Malla o en la masía, o bien traes el coche tú mismo si prefieres."
+    },
+    {
+      "title": "Diagnosis con equipo oficial",
+      "body": "Conectamos el vehículo al software de diagnosis específico BMW para identificar el fallo real, sin conjeturas ni recambios innecesarios."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Te explicamos qué ha fallado y te damos un presupuesto claro antes de intervenir; no se toca nada sin tu aprobación."
+    },
+    {
+      "title": "Reparación",
+      "body": "Realizamos la reparación con recambios adecuados a tu modelo, respetando los tiempos y procedimientos que marca el fabricante."
+    },
+    {
+      "title": "Entrega y devolución",
+      "body": "Te devolvemos el vehículo en Malla o donde acordemos, con explicación de lo realizado y recomendaciones de mantenimiento."
+    }
   ],
   "commonIssuesIntro": "Los BMW que circulan por la zona de Malla y la Plana de Vic presentan patrones de avería bastante reconocibles, condicionados tanto por el kilometraje en carretera como por el clima de la comarca. Estos son los más habituales que vemos en el taller.",
   "commonIssues": [
-    { "title": "Batería y sistema eléctrico", "body": "El frío intenso y la humedad de las nieblas invernales de la Plana de Vic reducen el rendimiento de la batería y pueden generar fallos intermitentes en módulos electrónicos, especialmente en modelos con muchos sistemas asistidos." },
-    { "title": "Sensores de suspensión y amortiguación", "body": "El uso constante en carreteras comarcales y caminos de acceso a masías, con baches y firmes irregulares, desgasta antes de tiempo los componentes de suspensión, sobre todo en BMW con suspensión adaptativa." },
-    { "title": "Testigo de motor por sondas o EGR", "body": "Los trayectos cortos combinados con recorridos largos por la C-17 generan ciclos térmicos que afectan a la válvula EGR y las sondas lambda, encendiendo el testigo de avería del motor." },
-    { "title": "Frenos y discos por polvo agrícola", "body": "La cercanía a campos de cultivo aporta partículas de polvo y tierra que aceleran el desgaste de pastillas y discos, especialmente en vehículos que hacen trayectos frecuentes por pistas rurales." },
-    { "title": "Fugas en juntas por oscilación térmica", "body": "El salto térmico propio del clima continental, con heladas nocturnas y días templados, resiente juntas y retenes de motor y caja de cambios con el paso de los años." }
+    {
+      "title": "Batería y sistema eléctrico",
+      "body": "El frío intenso y la humedad de las nieblas invernales de la Plana de Vic reducen el rendimiento de la batería y pueden generar fallos intermitentes en módulos electrónicos, especialmente en modelos con muchos sistemas asistidos."
+    },
+    {
+      "title": "Sensores de suspensión y amortiguación",
+      "body": "El uso constante en carreteras comarcales y caminos de acceso a masías, con baches y firmes irregulares, desgasta antes de tiempo los componentes de suspensión, sobre todo en BMW con suspensión adaptativa."
+    },
+    {
+      "title": "Testigo de motor por sondas o EGR",
+      "body": "Los trayectos cortos combinados con recorridos largos por la C-17 generan ciclos térmicos que afectan a la válvula EGR y las sondas lambda, encendiendo el testigo de avería del motor."
+    },
+    {
+      "title": "Frenos y discos por polvo agrícola",
+      "body": "La cercanía a campos de cultivo aporta partículas de polvo y tierra que aceleran el desgaste de pastillas y discos, especialmente en vehículos que hacen trayectos frecuentes por pistas rurales."
+    },
+    {
+      "title": "Fugas en juntas por oscilación térmica",
+      "body": "El salto térmico propio del clima continental, con heladas nocturnas y días templados, resiente juntas y retenes de motor y caja de cambios con el paso de los años."
+    }
   ],
   "whyUs": [
-    { "title": "Especialización real en BMW", "body": "No somos un taller generalista: trabajamos exclusivamente con esta marca y conocemos sus particularidades modelo a modelo." },
-    { "title": "Cerca de Malla por la C-17", "body": "El acceso rápido desde Tona y la C-17 nos permite ofrecer recogida y entrega sin que pierdas la jornada." },
-    { "title": "Diagnosis con equipo oficial", "body": "Utilizamos software de diagnosis específico de la marca, evitando reparaciones a ciegas o cambios de piezas innecesarios." },
-    { "title": "Presupuesto transparente", "body": "Sabrás exactamente qué falla y cuánto cuesta arreglarlo antes de que empecemos a trabajar." },
-    { "title": "Servicio adaptado a la vida rural", "body": "Entendemos que en Malla el coche es imprescindible cada día, y organizamos recogidas y horarios pensando en las masías dispersas." }
+    {
+      "title": "Especialización real en BMW",
+      "body": "No somos un taller generalista: trabajamos exclusivamente con esta marca y conocemos sus particularidades modelo a modelo."
+    },
+    {
+      "title": "Cerca de Malla por la C-17",
+      "body": "El acceso rápido desde Tona y la C-17 nos permite ofrecer recogida y entrega sin que pierdas la jornada."
+    },
+    {
+      "title": "Diagnosis con equipo oficial",
+      "body": "Utilizamos software de diagnosis específico de la marca, evitando reparaciones a ciegas o cambios de piezas innecesarios."
+    },
+    {
+      "title": "Presupuesto transparente",
+      "body": "Sabrás exactamente qué falla y cuánto cuesta arreglarlo antes de que empecemos a trabajar."
+    },
+    {
+      "title": "Servicio adaptado a la vida rural",
+      "body": "Entendemos que en Malla el coche es imprescindible cada día, y organizamos recogidas y horarios pensando en las masías dispersas."
+    }
   ],
   "testimonialsIntro": "Vecinos de Malla y de las masías del entorno nos han confiado sus BMW para revisiones y reparaciones; esto es lo que cuentan de su experiencia.",
   "testimonials": [
-    { "name": "Jordi S.", "neighborhood": "Masía cerca del Puig de Malla", "car": "BMW Serie 3", "body": "Vinieron a buscar el coche hasta la masía, algo que en Malla no es fácil de encontrar. Diagnosticaron bien un fallo eléctrico que en otro taller no habían sabido explicarme.", "rating": 5 },
-    { "name": "Anna R.", "neighborhood": "Núcleo de Malla", "car": "BMW X1", "body": "Presupuesto claro desde el principio, sin sorpresas al recoger el coche. Se agradece no tener que bajar hasta Vic para algo tan sencillo como una revisión.", "rating": 5 },
-    { "name": "Marc P.", "neighborhood": "Camí de les masies, Malla", "car": "BMW Serie 1", "body": "Se me encendió el testigo de motor un día de niebla y en dos días lo tenía solucionado. Buena comunicación durante todo el proceso.", "rating": 5 },
-    { "name": "Núria V.", "neighborhood": "Zona rural próxima a Tona", "car": "BMW Serie 5", "body": "Llevaba tiempo buscando un taller que realmente entendiera BMW cerca de casa. La recogida a domicilio me ahorra un viaje entero cada vez.", "rating": 5 }
+    {
+      "name": "Jordi S.",
+      "neighborhood": "Masía cerca del Puig de Malla",
+      "car": "BMW Serie 3",
+      "body": "Vinieron a buscar el coche hasta la masía, algo que en Malla no es fácil de encontrar. Diagnosticaron bien un fallo eléctrico que en otro taller no habían sabido explicarme.",
+      "rating": 5
+    },
+    {
+      "name": "Anna R.",
+      "neighborhood": "Núcleo de Malla",
+      "car": "BMW X1",
+      "body": "Presupuesto claro desde el principio, sin sorpresas al recoger el coche. Se agradece no tener que bajar hasta Vic para algo tan sencillo como una revisión.",
+      "rating": 5
+    },
+    {
+      "name": "Marc P.",
+      "neighborhood": "Camí de les masies, Malla",
+      "car": "BMW Serie 1",
+      "body": "Se me encendió el testigo de motor un día de niebla y en dos días lo tenía solucionado. Buena comunicación durante todo el proceso.",
+      "rating": 5
+    },
+    {
+      "name": "Núria V.",
+      "neighborhood": "Zona rural próxima a Tona",
+      "car": "BMW Serie 5",
+      "body": "Llevaba tiempo buscando un taller que realmente entendiera BMW cerca de casa. La recogida a domicilio me ahorra un viaje entero cada vez.",
+      "rating": 5
+    }
   ],
   "zoneText": "Damos servicio a Malla y a todo su término municipal, incluidas las masías dispersas por la Plana de Vic, así como a los núcleos cercanos que comparten esta zona rural del sur de Osona, con recogida y entrega organizadas para minimizar desplazamientos a nuestros clientes.",
-  "zoneNeighborhoods": ["Malla núcleo", "Tona", "Sant Julià de Vilatorta", "Vic", "Taradell", "Seva", "Muntanyola", "Santa Eugènia de Berga"],
-  "zoneAccessRoutes": ["C-17", "BV-4602", "Carretera de Malla a Tona", "Eix Transversal (C-25)"],
+  "zoneNeighborhoods": [
+    "Malla núcleo",
+    "Tona",
+    "Sant Julià de Vilatorta",
+    "Vic",
+    "Taradell",
+    "Seva",
+    "Muntanyola",
+    "Santa Eugènia de Berga"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "BV-4602",
+    "Carretera de Malla a Tona",
+    "Eix Transversal (C-25)"
+  ],
   "faqLocal": [
-    { "q": "¿Recogéis el coche en masías dispersas cerca de Malla?", "a": "Sí, organizamos la recogida tanto en el núcleo urbano de Malla como en masías del término, coordinando el horario que mejor te vaya." },
-    { "q": "¿Cuánto se tarda en llegar desde Malla al taller?", "a": "Gracias a la conexión con Tona y la C-17, el trayecto es corto; en la mayoría de casos organizamos nosotros el traslado del vehículo." },
-    { "q": "¿Trabajáis con todos los modelos BMW?", "a": "Sí, atendemos toda la gama BMW, desde Serie 1 hasta Serie 7, X1 a X7, y motorizaciones diésel, gasolina e híbridas." },
-    { "q": "¿Usáis diagnosis oficial de la marca?", "a": "Sí, empleamos software de diagnosis específico BMW para identificar averías con precisión, no reparaciones genéricas." },
-    { "q": "¿Puedo pedir presupuesto antes de dejar el coche?", "a": "Por supuesto, siempre confirmamos el presupuesto contigo antes de iniciar cualquier reparación." },
-    { "q": "¿Qué hacéis si el fallo aparece solo con niebla o frío intenso?", "a": "Reproducimos las condiciones en diagnosis siempre que es posible y revisamos batería, sensores y conexiones especialmente sensibles al frío y la humedad." }
+    {
+      "q": "¿Recogéis el coche en masías dispersas cerca de Malla?",
+      "a": "Sí, organizamos la recogida tanto en el núcleo urbano de Malla como en masías del término, coordinando el horario que mejor te vaya."
+    },
+    {
+      "q": "¿Cuánto se tarda en llegar desde Malla al taller?",
+      "a": "Gracias a la conexión con Tona y la C-17, el trayecto es corto; en la mayoría de casos organizamos nosotros el traslado del vehículo."
+    },
+    {
+      "q": "¿Trabajáis con todos los modelos BMW?",
+      "a": "Sí, atendemos toda la gama BMW, desde Serie 1 hasta Serie 7, X1 a X7, y motorizaciones diésel, gasolina e híbridas."
+    },
+    {
+      "q": "¿Usáis diagnosis oficial de la marca?",
+      "a": "Sí, empleamos software de diagnosis específico BMW para identificar averías con precisión, no reparaciones genéricas."
+    },
+    {
+      "q": "¿Puedo pedir presupuesto antes de dejar el coche?",
+      "a": "Por supuesto, siempre confirmamos el presupuesto contigo antes de iniciar cualquier reparación."
+    },
+    {
+      "q": "¿Qué hacéis si el fallo aparece solo con niebla o frío intenso?",
+      "a": "Reproducimos las condiciones en diagnosis siempre que es posible y revisamos batería, sensores y conexiones especialmente sensibles al frío y la humedad."
+    }
   ],
   "closingHeadline": "Tu BMW, cuidado sin salir de la comarca",
   "closingCta": "Escríbenos por WhatsApp y organizamos la recogida en Malla o tu masía en pocos días.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

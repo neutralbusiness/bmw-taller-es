@@ -5,16 +5,31 @@
   "ccaa": "Cataluña",
   "population": 643,
   "lat": 41.8341,
-  "lng": 1.6930,
+  "lng": 1.693,
   "metaTitle": "Taller BMW en Sant Mateu de Bages | Especialistas BMW Bages",
   "metaDescription": "Taller especializado en BMW en Sant Mateu de Bages. Mantenimiento, diagnosis y reparación adaptados al entorno minero y salino del Bages. Presupuesto gratis.",
   "heroSubtitle": "Especialistas BMW en Sant Mateu de Bages: protegemos tu vehículo del entorno salino y minero del Bages. Pide cita hoy.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas exclusivos BMW"},
-    {"icon": "🛡️", "text": "Protección anticorrosión salina"},
-    {"icon": "📍", "text": "Servicio en comarca del Bages"},
-    {"icon": "⏱️", "text": "Presupuesto en 24 horas"},
-    {"icon": "✅", "text": "Diagnosis BMW profesional"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas exclusivos BMW"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Protección anticorrosión salina"
+    },
+    {
+      "icon": "📍",
+      "text": "Servicio en comarca del Bages"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Presupuesto en 24 horas"
+    },
+    {
+      "icon": "✅",
+      "text": "Diagnosis BMW profesional"
+    }
   ],
   "introLocal": "Sant Mateu de Bages es un pequeño municipio de poco más de 600 habitantes enclavado en el corazón de la comarca del Bages, en la provincia de Barcelona. Su territorio se extiende entre el valle del río Cardener y las ondulaciones del paisaje interior catalán, en una zona donde la historia de la minería de sal potásica ha moldeado tanto la economía como el carácter del entorno. Desde las calles del pueblo se divisan, hacia el sur, las siluetas inconfundibles de Montserrat, mientras que hacia el norte se intuyen las imponentes formaciones salinas de Cardona, con su célebre montaña de sal y el castillo medieval que la corona.\n\nLos residentes de Sant Mateu de Bages comparten su día a día entre la agricultura de secano —viñedos, olivos y cereales— y la vinculación con la actividad minera e industrial que ha definido esta parte del Bages durante más de un siglo. La proximidad a Súria y Cardona, dos centros neurálgicos de la extracción de potasa, hace que muchos vecinos se desplacen a diario por carreteras comarcales como la BV-3001 y conecten con la C-55, la arteria principal que recorre el valle del Cardener hacia Manresa y más allá. Este tránsito habitual por vías frecuentadas por camiones pesados de la industria minera somete a los vehículos a un desgaste particular: polvo mineral en suspensión, vibraciones constantes por el estado irregular del firme y una exposición permanente a partículas salinas que el viento arrastra desde las escombreras y las explotaciones a cielo abierto.\n\nPara los propietarios de BMW en Sant Mateu de Bages, estas condiciones representan un desafío específico que no se encuentra en otros entornos. La sal ambiental, incluso en concentraciones bajas, acelera los procesos de corrosión en los bajos del vehículo, atacando componentes metálicos de la suspensión, el sistema de escape y las líneas de freno. El polvo fino de origen mineral se infiltra en el sistema de filtración de aire con mayor rapidez que el polvo convencional, reduciendo la eficiencia del motor y aumentando el consumo de combustible si no se realizan sustituciones de filtros con la frecuencia adecuada. La pintura y los acabados exteriores también sufren: las micro-partículas salinas y calcáreas actúan como abrasivo, deteriorando el barniz y facilitando la aparición de puntos de óxido en zonas expuestas.\n\nLa vida en Sant Mateu de Bages implica además recorridos por carreteras estrechas y sinuosas que conectan el pueblo con las localidades vecinas. La iglesia medieval del municipio, testigo de siglos de historia, preside un casco urbano tranquilo desde el que parten caminos rurales hacia masías dispersas y campos de cultivo. Quienes conducen un BMW por estas rutas necesitan un mantenimiento que tenga en cuenta no solo los kilómetros recorridos, sino el tipo de kilómetros: curvas cerradas que exigen más de la dirección y los neumáticos, pendientes que cargan el sistema de frenado y tramos de asfalto deteriorado donde la suspensión absorbe impactos continuos. Un taller que conozca estas particularidades puede anticipar los puntos de desgaste antes de que se conviertan en averías costosas.\n\nNuestro servicio especializado para BMW atiende a propietarios de Sant Mateu de Bages y de toda la zona del Bages interior con un enfoque preventivo y adaptado al entorno. Conocemos de primera mano las condiciones que impone el paisaje minero-salino sobre la mecánica y la carrocería de estos vehículos, y aplicamos protocolos de revisión y tratamiento diseñados para prolongar la vida útil de cada componente. Desde tratamientos anticorrosión reforzados hasta revisiones de filtración específicas para ambientes con alta carga de partículas, ofrecemos a los conductores de BMW de esta comarca la tranquilidad de saber que su vehículo recibe la atención técnica que su entorno exige.",
   "servicesIntro": "Ofrecemos una gama completa de servicios para BMW adaptados a las exigencias del entorno salino y minero de Sant Mateu de Bages, desde mantenimientos preventivos hasta reparaciones complejas de motor, transmisión y electrónica.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

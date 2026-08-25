@@ -10,63 +10,178 @@
   "metaDescription": "Taller BMW en Olost, corazón del Lluçanès. Diagnosis, mantenimiento y reparación para masies y explotaciones ganaderas. Presupuesto sin compromiso.",
   "heroSubtitle": "Taller BMW en Olost: revisiones y reparaciones adaptadas al clima de montaña y a los caminos de las masies del Lluçanès.",
   "trustChips": [
-    { "icon": "🔧", "text": "Diagnosis BMW original" },
-    { "icon": "🏔️", "text": "Especialistas en clima de montaña" },
-    { "icon": "🐄", "text": "Conocemos el uso agroganadero" },
-    { "icon": "⏱️", "text": "Cita en 24-48h" },
-    { "icon": "❄️", "text": "Preparación para inviernos fríos" },
-    { "icon": "📍", "text": "A un paso de Prats y Vic" }
+    {
+      "icon": "🔧",
+      "text": "Diagnosis BMW original"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Especialistas en clima de montaña"
+    },
+    {
+      "icon": "🐄",
+      "text": "Conocemos el uso agroganadero"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Cita en 24-48h"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación para inviernos fríos"
+    },
+    {
+      "icon": "📍",
+      "text": "A un paso de Prats y Vic"
+    }
   ],
   "introLocal": "Olost se asienta en pleno corazón del Lluçanès, esa altiplanicie de entre 700 y 900 metros que actúa como frontera natural y a la vez como nexo entre las comarcas de Osona y el Bages. Es un pueblo que respira ganadería y ruralidad: las explotaciones lecheras y las granjas de vacuno y porcino salpican un paisaje de prados y bosques de roble y pino que se extiende hasta donde alcanza la vista desde el campanario. El río Gavarresa, que serpentea por el término municipal, ha marcado históricamente la vida agrícola de la zona, regando los campos que alimentan al ganado y dando nombre a algunas de las masías más antiguas del entorno.\n\nQuien vive en Olost o en sus alrededores sabe que el coche no es un capricho, sino una herramienta de trabajo imprescindible. Las masías aisladas que rodean el núcleo urbano dependen de caminos rurales, muchos de ellos sin asfaltar, para conectar con el pueblo y con los mercados donde se vende la producción. Un BMW que circula a diario por estas pistas de tierra y grava sufre un desgaste muy distinto al de un vehículo urbano: suspensiones exigidas al límite, bajos de carrocería expuestos a piedras y barro, y neumáticos que se llevan la peor parte de un terreno irregular. En nuestro taller entendemos esta realidad porque la vemos entrar por la puerta cada semana.\n\nEl clima de Olost añade otra capa de exigencia mecánica. A esta altitud, los inviernos son largos y duros, con heladas frecuentes entre noviembre y marzo y nevadas que, aunque no sean constantes, cuando llegan dejan la comarca prácticamente incomunicada durante horas. Los arranques en frío por debajo de cero grados son habituales, y eso pone a prueba baterías, aceites y sistemas de precalentamiento de los motores diésel, tan presentes en la flota de BMW que circula por la zona por su fiabilidad en trayectos largos. Además, la altitud media del Lluçanès exige motores bien calibrados: el aire más enrarecido afecta al rendimiento y hace que un mantenimiento descuidado se note antes que en la costa.\n\nOlost también es conocido por su Festa Major, que llena las calles de vida cada año, y por el emblemático puente románico que cruza el Gavarresa, testigo silencioso de siglos de paso de payeses, ganado y, hoy en día, de tractores y turismos camino de Prats de Lluçanès o Vic a través de la BV-4341. Esta carretera, junto con los caminos secundarios que conectan las masías con el núcleo, forma la columna vertebral de la movilidad diaria de la comarca. Las distancias a servicios especializados son largas: el taller más cercano con capacidad para diagnosticar electrónica alemana de última generación puede estar a 20 o 30 minutos, y eso, para quien tiene una granja que atender, es tiempo que no sobra.\n\nPor eso trabajamos con la mentalidad cooperativa que caracteriza al Lluçanès: la misma que lleva generaciones organizando la comercialización conjunta de leche y ganado también puede aplicarse al mantenimiento del vehículo, planificando revisiones antes de que lleguen los primeros fríos y evitando averías que dejarían a una familia sin transporte en pleno invierno. Conocemos el terreno, conocemos el clima y conocemos las exigencias reales de quienes viven y trabajan entre Olost, Prats, Sant Boi de Lluçanès y las masías dispersas que dan vida a esta altiplanicie.",
   "servicesIntro": "Ofrecemos el catálogo completo de servicios BMW: mantenimiento programado según libro de mantenimiento, diagnosis electrónica con equipos originales de la marca, reparación de motor, cambio, frenos, suspensión y sistemas de tracción integral xDrive, tan habituales en los vehículos que circulan por caminos rurales del Lluçanès.",
   "processIntro": "Nuestro proceso está pensado para minimizar los desplazamientos y el tiempo de espera de quienes viven lejos del taller, con diagnóstico claro desde el primer momento y presupuesto cerrado antes de intervenir.",
   "processSteps": [
-    { "title": "Recepción y escucha", "body": "Recogemos el historial del vehículo y el tipo de uso (rural, largos trayectos, caminos sin asfaltar) para orientar la diagnosis desde el primer minuto." },
-    { "title": "Diagnosis con equipo original", "body": "Conectamos el sistema de diagnosis BMW para identificar con precisión averías mecánicas y electrónicas, incluidas las derivadas del uso en pistas y del frío." },
-    { "title": "Presupuesto cerrado", "body": "Antes de tocar el vehículo, te explicamos qué falla, por qué y cuánto costará repararlo, sin sorpresas al recogerlo." },
-    { "title": "Reparación y verificación", "body": "Ejecutamos la reparación con recambios adecuados al modelo y comprobamos el resultado con una prueba de carretera antes de la entrega." }
+    {
+      "title": "Recepción y escucha",
+      "body": "Recogemos el historial del vehículo y el tipo de uso (rural, largos trayectos, caminos sin asfaltar) para orientar la diagnosis desde el primer minuto."
+    },
+    {
+      "title": "Diagnosis con equipo original",
+      "body": "Conectamos el sistema de diagnosis BMW para identificar con precisión averías mecánicas y electrónicas, incluidas las derivadas del uso en pistas y del frío."
+    },
+    {
+      "title": "Presupuesto cerrado",
+      "body": "Antes de tocar el vehículo, te explicamos qué falla, por qué y cuánto costará repararlo, sin sorpresas al recogerlo."
+    },
+    {
+      "title": "Reparación y verificación",
+      "body": "Ejecutamos la reparación con recambios adecuados al modelo y comprobamos el resultado con una prueba de carretera antes de la entrega."
+    }
   ],
   "commonIssuesIntro": "Los BMW que circulan por Olost y el Lluçanès presentan patrones de avería muy particulares, ligados al uso agrícola, a los caminos de las masías y a los inviernos duros de la altiplanicie.",
   "commonIssues": [
-    { "title": "Desgaste prematuro de suspensión y dirección", "body": "Los caminos sin asfaltar hacia las masías machacan amortiguadores, silentblocks y rótulas mucho antes de lo esperado en un uso urbano." },
-    { "title": "Problemas de arranque en frío", "body": "Las heladas habituales entre noviembre y marzo exigen baterías en buen estado y sistemas de precalentamiento diésel revisados antes del invierno." },
-    { "title": "Golpes y daños en el bajo de carrocería", "body": "Piedras, socavones y barro en las pistas rurales afectan a cárteres, tubos de escape y protecciones bajas del motor." },
-    { "title": "Deterioro por largos periodos de ralentí", "body": "El trabajo en el campo implica motores encendidos mientras se carga o descarga ganado y material, lo que acelera el desgaste de válvulas EGR y filtro de partículas." },
-    { "title": "Filtros y aceites saturados antes de tiempo", "body": "El polvo del camino y la tierra de las explotaciones ganaderas colmatan filtros de aire y habitáculo con más rapidez que en circulación por asfalto." }
+    {
+      "title": "Desgaste prematuro de suspensión y dirección",
+      "body": "Los caminos sin asfaltar hacia las masías machacan amortiguadores, silentblocks y rótulas mucho antes de lo esperado en un uso urbano."
+    },
+    {
+      "title": "Problemas de arranque en frío",
+      "body": "Las heladas habituales entre noviembre y marzo exigen baterías en buen estado y sistemas de precalentamiento diésel revisados antes del invierno."
+    },
+    {
+      "title": "Golpes y daños en el bajo de carrocería",
+      "body": "Piedras, socavones y barro en las pistas rurales afectan a cárteres, tubos de escape y protecciones bajas del motor."
+    },
+    {
+      "title": "Deterioro por largos periodos de ralentí",
+      "body": "El trabajo en el campo implica motores encendidos mientras se carga o descarga ganado y material, lo que acelera el desgaste de válvulas EGR y filtro de partículas."
+    },
+    {
+      "title": "Filtros y aceites saturados antes de tiempo",
+      "body": "El polvo del camino y la tierra de las explotaciones ganaderas colmatan filtros de aire y habitáculo con más rapidez que en circulación por asfalto."
+    }
   ],
   "whyUs": [
-    { "title": "Conocimiento del entorno rural", "body": "Sabemos cómo afecta el uso agrícola y los caminos de las masías a un BMW, y ajustamos el mantenimiento a esa realidad." },
-    { "title": "Preparación específica para el invierno de montaña", "body": "Revisamos batería, líquidos y sistemas de arranque en frío antes de que lleguen las heladas del Lluçanès." },
-    { "title": "Diagnosis con tecnología original", "body": "Utilizamos equipos de diagnosis propios de la marca para no dejar ninguna avería electrónica sin identificar." },
-    { "title": "Trato cercano y sin tecnicismos", "body": "Explicamos cada reparación en términos claros, con presupuesto cerrado antes de intervenir." },
-    { "title": "Ahorro de desplazamientos", "body": "Al estar cerca de Olost y su entorno, evitamos que tengas que recorrer largas distancias hasta un taller especializado en la ciudad." }
+    {
+      "title": "Conocimiento del entorno rural",
+      "body": "Sabemos cómo afecta el uso agrícola y los caminos de las masías a un BMW, y ajustamos el mantenimiento a esa realidad."
+    },
+    {
+      "title": "Preparación específica para el invierno de montaña",
+      "body": "Revisamos batería, líquidos y sistemas de arranque en frío antes de que lleguen las heladas del Lluçanès."
+    },
+    {
+      "title": "Diagnosis con tecnología original",
+      "body": "Utilizamos equipos de diagnosis propios de la marca para no dejar ninguna avería electrónica sin identificar."
+    },
+    {
+      "title": "Trato cercano y sin tecnicismos",
+      "body": "Explicamos cada reparación en términos claros, con presupuesto cerrado antes de intervenir."
+    },
+    {
+      "title": "Ahorro de desplazamientos",
+      "body": "Al estar cerca de Olost y su entorno, evitamos que tengas que recorrer largas distancias hasta un taller especializado en la ciudad."
+    }
   ],
   "testimonialsIntro": "Vecinos de Olost y de las masías del Lluçanès nos cuentan cómo su BMW responde al uso diario en la comarca.",
   "testimonials": [
-    { "name": "Ramon V.", "neighborhood": "El Nucli", "car": "BMW X3 xDrive30d", "body": "Con la explotación lechera necesito el X3 cada día para llevar la leche hasta la cooperativa, llueva o nieve. Desde que llevo el mantenimiento aquí no he tenido ni una avería en plena recogida.", "rating": 5 },
-    { "name": "Neus F.", "neighborhood": "Les Masies de Voltregà", "car": "BMW Serie 3 318d", "body": "Hago la BV-4341 dos veces al día para ir a trabajar a Vic. En invierno con hielo es un trayecto delicado, pero el coche siempre responde porque me avisan de todo antes de que se convierta en problema.", "rating": 5 },
-    { "name": "Joan B.", "neighborhood": "Cal Rector", "car": "BMW X1 xDrive20d", "body": "El camino hasta mi masía es puro barro y piedra suelta buena parte del año. Me revisaron la suspensión y me explicaron qué piezas aguantarían mejor ese trato, y se nota muchísimo.", "rating": 5 },
-    { "name": "Carme D.", "neighborhood": "La Caseta", "car": "BMW Serie 2 Gran Coupé", "body": "El invierno pasado con las heladas fuertes tenía miedo de quedarme tirada por las mañanas. Me prepararon la batería y el sistema de arranque antes de que llegara el frío y no ha fallado ni un día.", "rating": 4 }
+    {
+      "name": "Ramon V.",
+      "neighborhood": "El Nucli",
+      "car": "BMW X3 xDrive30d",
+      "body": "Con la explotación lechera necesito el X3 cada día para llevar la leche hasta la cooperativa, llueva o nieve. Desde que llevo el mantenimiento aquí no he tenido ni una avería en plena recogida.",
+      "rating": 5
+    },
+    {
+      "name": "Neus F.",
+      "neighborhood": "Les Masies de Voltregà",
+      "car": "BMW Serie 3 318d",
+      "body": "Hago la BV-4341 dos veces al día para ir a trabajar a Vic. En invierno con hielo es un trayecto delicado, pero el coche siempre responde porque me avisan de todo antes de que se convierta en problema.",
+      "rating": 5
+    },
+    {
+      "name": "Joan B.",
+      "neighborhood": "Cal Rector",
+      "car": "BMW X1 xDrive20d",
+      "body": "El camino hasta mi masía es puro barro y piedra suelta buena parte del año. Me revisaron la suspensión y me explicaron qué piezas aguantarían mejor ese trato, y se nota muchísimo.",
+      "rating": 5
+    },
+    {
+      "name": "Carme D.",
+      "neighborhood": "La Caseta",
+      "car": "BMW Serie 2 Gran Coupé",
+      "body": "El invierno pasado con las heladas fuertes tenía miedo de quedarme tirada por las mañanas. Me prepararon la batería y el sistema de arranque antes de que llegara el frío y no ha fallado ni un día.",
+      "rating": 4
+    }
   ],
   "zoneText": "Damos servicio a Olost y a todo el Lluçanès, incluyendo los núcleos y masías de Prats de Lluçanès, Sant Boi de Lluçanès, Santa Eulàlia de Riuprimer, Perafita, Santa Creu de Jutglar, Lluçà y Sobremunt, conectados por la BV-4341 y las carreteras secundarias de la comarca.",
-  "zoneNeighborhoods": ["Prats de Lluçanès", "Sant Boi de Lluçanès", "Santa Eulàlia de Riuprimer", "Perafita", "Santa Creu de Jutglar", "Lluçà", "Sobremunt"],
-  "zoneAccessRoutes": ["BV-4341", "BV-4601", "BP-4653", "C-62"],
+  "zoneNeighborhoods": [
+    "Prats de Lluçanès",
+    "Sant Boi de Lluçanès",
+    "Santa Eulàlia de Riuprimer",
+    "Perafita",
+    "Santa Creu de Jutglar",
+    "Lluçà",
+    "Sobremunt"
+  ],
+  "zoneAccessRoutes": [
+    "BV-4341",
+    "BV-4601",
+    "BP-4653",
+    "C-62"
+  ],
   "faqLocal": [
-    { "q": "¿Atendéis vehículos que circulan a diario por caminos de masía sin asfaltar?", "a": "Sí, es uno de los usos más habituales que vemos. Ajustamos las revisiones de suspensión, dirección y protecciones bajas a ese desgaste específico." },
-    { "q": "¿Preparáis el coche para los inviernos fríos del Lluçanès?", "a": "Sí, antes de la temporada de heladas revisamos batería, líquidos anticongelantes y sistemas de arranque en frío para evitar sorpresas en las madrugadas de montaña." },
-    { "q": "Vivo en una masía alejada de Olost, ¿puedo dejar el coche igualmente?", "a": "Sí, trabajamos habitualmente con clientes de masías dispersas por la comarca; podemos coordinar la entrega y recogida para minimizar tus desplazamientos." },
-    { "q": "¿El uso agrícola con largos periodos de motor al ralentí daña el BMW?", "a": "Puede acelerar el desgaste de componentes como la válvula EGR o el filtro de partículas. Lo revisamos específicamente si nos indicas este tipo de uso." },
-    { "q": "¿Tenéis recambios disponibles o hay que esperar mucho por la distancia a Barcelona?", "a": "Gestionamos los pedidos con antelación para minimizar tiempos de espera, sabiendo que en Olost no se puede depender de un taller urbano para todo." },
-    { "q": "¿Qué pasa si mi BMW se avería en la BV-4341 o en un camino rural?", "a": "Contáctanos y te orientamos sobre la mejor forma de trasladar el vehículo hasta el taller según la avería y tu ubicación exacta en la comarca." }
+    {
+      "q": "¿Atendéis vehículos que circulan a diario por caminos de masía sin asfaltar?",
+      "a": "Sí, es uno de los usos más habituales que vemos. Ajustamos las revisiones de suspensión, dirección y protecciones bajas a ese desgaste específico."
+    },
+    {
+      "q": "¿Preparáis el coche para los inviernos fríos del Lluçanès?",
+      "a": "Sí, antes de la temporada de heladas revisamos batería, líquidos anticongelantes y sistemas de arranque en frío para evitar sorpresas en las madrugadas de montaña."
+    },
+    {
+      "q": "Vivo en una masía alejada de Olost, ¿puedo dejar el coche igualmente?",
+      "a": "Sí, trabajamos habitualmente con clientes de masías dispersas por la comarca; podemos coordinar la entrega y recogida para minimizar tus desplazamientos."
+    },
+    {
+      "q": "¿El uso agrícola con largos periodos de motor al ralentí daña el BMW?",
+      "a": "Puede acelerar el desgaste de componentes como la válvula EGR o el filtro de partículas. Lo revisamos específicamente si nos indicas este tipo de uso."
+    },
+    {
+      "q": "¿Tenéis recambios disponibles o hay que esperar mucho por la distancia a Barcelona?",
+      "a": "Gestionamos los pedidos con antelación para minimizar tiempos de espera, sabiendo que en Olost no se puede depender de un taller urbano para todo."
+    },
+    {
+      "q": "¿Qué pasa si mi BMW se avería en la BV-4341 o en un camino rural?",
+      "a": "Contáctanos y te orientamos sobre la mejor forma de trasladar el vehículo hasta el taller según la avería y tu ubicación exacta en la comarca."
+    }
   ],
   "closingHeadline": "Tu BMW, listo para el Lluçanès en cualquier estación",
   "closingCta": "Pide cita en nuestro taller de Olost y prepara tu BMW para los caminos, el frío y los kilómetros de la comarca.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

@@ -5,16 +5,31 @@
   "ccaa": "Cataluña",
   "population": 312,
   "lat": 41.9581,
-  "lng": 2.3540,
+  "lng": 2.354,
   "metaTitle": "Taller BMW en Tavèrnoles | Tranquilidad Rural, Servicio Pro",
   "metaDescription": "Taller BMW cerca de Tavèrnoles. Mantenimiento para masías y vida rural en Osona. Diagnóstico profesional, recogida a domicilio y precios competitivos.",
   "heroSubtitle": "La vida tranquila de Tavèrnoles merece un BMW siempre a punto. Servicio técnico con recogida a domicilio y sin desplazamientos.",
   "trustChips": [
-    {"icon": "🏡", "text": "Servicio adaptado a vida rural"},
-    {"icon": "🔧", "text": "Mecánica BMW completa"},
-    {"icon": "📱", "text": "Gestión por WhatsApp"},
-    {"icon": "🚗", "text": "Recogida en masías"},
-    {"icon": "✅", "text": "Garantía total en reparaciones"}
+    {
+      "icon": "🏡",
+      "text": "Servicio adaptado a vida rural"
+    },
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW completa"
+    },
+    {
+      "icon": "📱",
+      "text": "Gestión por WhatsApp"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida en masías"
+    },
+    {
+      "icon": "✅",
+      "text": "Garantía total en reparaciones"
+    }
   ],
   "introLocal": "Tavèrnoles es la esencia de la Osona rural. Apenas 300 habitantes repartidos entre un discreto núcleo urbano y un puñado de masías dispersas por un territorio de colinas suaves entre la Plana de Vic y la entrada a les Guilleries. No hay semáforos, no hay polígonos industriales, no hay aglomeraciones. Lo que sí hay es un paisaje de bosques mixtos, campos de labor y caminos ancestrales que conectan casas de piedra con siglos de historia. Para los vecinos de Tavèrnoles que conducen un BMW, esta tranquilidad tiene un reverso mecánico que conviene conocer.\n\nEl día a día en Tavèrnoles implica circular por carreteras secundarias que no reciben la misma atención que las vías principales de la comarca. El asfalto muestra parches irregulares, los márgenes invaden la calzada con vegetación, y los accesos a muchas masías son caminos de tierra o grava que se deterioran con cada temporada de lluvias. Un BMW diseñado para la suavidad del asfalto perfecto se enfrenta aquí a un terreno que exige revisar la suspensión, la dirección y los neumáticos con más frecuencia de lo que marca el libro de mantenimiento.\n\nLa proximidad de Tavèrnoles a les Guilleries introduce una humedad ambiental notable, especialmente en las épocas de niebla y en las mañanas de rocío que se prolongan hasta bien entrada la primavera. Esta humedad penetra en los recovecos de la carrocería, en los conectores eléctricos y en los mecanismos de las cerraduras y elevalunas. Los BMW con sistemas electrónicos complejos — que son prácticamente todos los fabricados en las últimas dos décadas — pueden experimentar fallos intermitentes causados por la oxidación gradual de contactos si no se aplica un mantenimiento preventivo específico.\n\nLos vecinos de Tavèrnoles que trabajan fuera del municipio, la mayoría en Vic o Manlleu, acumulan unos 30-40 kilómetros diarios de carretera comarcal con un perfil muy particular: curvas, cambios de rasante y tramos sombríos donde el asfalto tarda en secar tras la lluvia o la helada. Este tipo de conducción exige frenos progresivos y fiables, una iluminación potente y unos neumáticos con buen drenaje en mojado. Nuestro taller revisa todos estos sistemas con la atención que merece la seguridad de cada conductor.\n\nPara los propietarios de BMW de Tavèrnoles, nuestro servicio elimina la necesidad de desplazarse hasta Vic. Ofrecemos recogida del vehículo en cualquier punto del municipio, incluidas las masías más alejadas, y lo devolvemos reparado y revisado. Así puedes mantener tu BMW en condiciones óptimas sin alterar la tranquilidad de tu vida rural.",
   "servicesIntro": "Proporcionamos todos los servicios que tu BMW necesita: desde las revisiones periódicas con cambio de aceite y filtros hasta reparaciones mayores de motor, caja de cambios y diferencial. Nuestro diagnóstico electrónico cubre todos los modelos y años, y trabajamos con piezas originales o de primer equipo homologado.",
@@ -114,8 +129,21 @@
     }
   ],
   "zoneText": "Ofrecemos servicio de recogida y entrega gratuita en Tavèrnoles y todas las poblaciones del entorno rural entre Vic y les Guilleries. Ninguna masía queda demasiado lejos para nuestro servicio.",
-  "zoneNeighborhoods": ["Vic", "Folgueroles", "Roda de Ter", "les Masies de Roda", "Vilanova de Sau", "Sant Julià de Vilatorta", "Santa Eugènia de Berga"],
-  "zoneAccessRoutes": ["BV-5213", "C-153", "BV-5207", "C-17"],
+  "zoneNeighborhoods": [
+    "Vic",
+    "Folgueroles",
+    "Roda de Ter",
+    "les Masies de Roda",
+    "Vilanova de Sau",
+    "Sant Julià de Vilatorta",
+    "Santa Eugènia de Berga"
+  ],
+  "zoneAccessRoutes": [
+    "BV-5213",
+    "C-153",
+    "BV-5207",
+    "C-17"
+  ],
   "faqLocal": [
     {
       "q": "¿Pueden recoger mi BMW en una masía de difícil acceso en Tavèrnoles?",
@@ -147,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

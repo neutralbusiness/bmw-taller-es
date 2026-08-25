@@ -10,11 +10,26 @@
   "metaDescription": "Taller especializado en BMW en la Pobla de Lillet. Sin desplazarte 60 km hasta Manresa. Diagnóstico oficial, xDrive, cadena distribución y suspensión adaptativa.",
   "heroSubtitle": "Especialistas BMW cerca de ti: olvídate de bajar a Manresa o Vic para mantener tu BMW en perfecto estado.",
   "trustChips": [
-    { "icon": "🔧", "text": "Diagnóstico BMW profesional" },
-    { "icon": "🏔️", "text": "Servicio en el Alt Berguedà" },
-    { "icon": "⏱️", "text": "Sin esperas de concesionario" },
-    { "icon": "💶", "text": "Hasta un 40% más económico" },
-    { "icon": "📍", "text": "Sin desplazarte 60+ km" }
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW profesional"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Servicio en el Alt Berguedà"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Sin esperas de concesionario"
+    },
+    {
+      "icon": "💶",
+      "text": "Hasta un 40% más económico"
+    },
+    {
+      "icon": "📍",
+      "text": "Sin desplazarte 60+ km"
+    }
   ],
   "introLocal": "La Pobla de Lillet ocupa un enclave privilegiado en el alto valle del Llobregat, a unos 850 metros de altitud, rodeada por las sierras del Cadí y del Moixeró y los contrafuertes del Pedraforca. Aquí, donde el río Llobregat nace entre hayedos y prados de montaña, la vida transcurre a un ritmo diferente del de la gran ciudad. Sin embargo, los vehículos de sus habitantes afrontan exigencias mecánicas que no conocen quienes circulan por llano: curvas continuas, pendientes pronunciadas y cambios de temperatura extremos entre invierno y verano.\n\nPara los propietarios de BMW en la Pobla de Lillet y en todo el Alt Berguedà, mantener su vehículo en condiciones óptimas ha supuesto históricamente un problema logístico considerable. El concesionario oficial más cercano se encuentra a más de 60 kilómetros, ya sea bajando por la C-16 hasta Manresa o desviándose hacia Vic. Eso significa medio día perdido solo en desplazamiento, además del coste de combustible y el tiempo de espera en un servicio oficial saturado. Nuestro taller especializado en BMW elimina esa barrera: ofrecemos diagnóstico y reparación con equipamiento de nivel oficial sin que tengas que abandonar la comarca.\n\nLa Pobla de Lillet es conocida internacionalmente por los Jardins Artigas, diseñados por Antoni Gaudí durante su estancia en la fábrica de cemento Asland a principios del siglo XX, y por el Tren del Ciment, la línea de ferrocarril industrial restaurada que conecta el núcleo urbano con el Museu del Ciment de Castellar de n'Hug siguiendo el curso del Llobregat. Miles de visitantes recorren cada año estas carreteras de montaña para descubrir el patrimonio modernista e industrial del valle, y muchos residentes locales conducen BMW precisamente por su tracción integral xDrive y su estabilidad en firmes mojados o nevados. Pero esas mismas condiciones de montaña —curvas cerradas en la B-402, el puerto de la Pobla, las bajadas hacia Guardiola de Berguedà— someten a la suspensión adaptativa, la dirección y el sistema de tracción a un desgaste muy superior al del uso urbano.\n\nNuestro equipo conoce a fondo los problemas recurrentes de los BMW que circulan por el Berguedà: la cadena de distribución de los motores N47 y N57 diésel, propensa a estirarse con los ciclos de frío extremo y aceleración en pendiente; la carbonización de la válvula EGR agravada por trayectos cortos de montaña que no permiten alcanzar la temperatura óptima de regeneración del filtro de partículas; el desgaste prematuro de la cremallera de dirección por la conducción sinuosa; y la fatiga de los amortiguadores adaptativos en firmes irregulares. Detectamos estos fallos con herramientas de diagnóstico ISTA antes de que se conviertan en averías costosas.\n\nVivir en la Pobla de Lillet, junto a las Fonts del Llobregat y a los pies del Prepirineo, es un privilegio que no debería implicar renunciar a un mantenimiento de calidad para tu BMW. Tanto si resides aquí todo el año como si vienes los fines de semana a disfrutar de la naturaleza y el patrimonio cultural, nuestro taller te ofrece el mismo nivel técnico que encontrarías en Barcelona, pero a la puerta de tu casa y a precios justos de comarca.",
   "servicesIntro": "En nuestro taller especializado en BMW atendemos todas las necesidades mecánicas y electrónicas de tu vehículo en la Pobla de Lillet. Desde revisiones de mantenimiento programado y cambio de aceite con especificaciones BMW Longlife hasta diagnósticos avanzados con ISTA, reparación de sistemas xDrive, sustitución de cadenas de distribución, limpieza de válvulas EGR y recalibración de suspensión adaptativa. Todo sin necesidad de desplazarte fuera del Berguedà.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

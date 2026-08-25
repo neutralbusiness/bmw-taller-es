@@ -10,56 +10,177 @@
   "metaDescription": "Servicio BMW para Fogars de Montclús, zona de Santa Fe del Montseny. Mantenimiento de alta montaña, frenado extremo y altitud. 665 245 143.",
   "heroSubtitle": "En la alta montaña del Montseny, tu BMW necesita un servicio que entienda cada metro de desnivel. Estamos preparados.",
   "trustChips": [
-    {"icon": "🔧", "text": "BMW alta montaña"},
-    {"icon": "🏔️", "text": "Santa Fe del Montseny"},
-    {"icon": "🌧️", "text": "Lluvia y niebla"},
-    {"icon": "❄️", "text": "Hielo invernal"},
-    {"icon": "💻", "text": "Diagnóstico completo"}
+    {
+      "icon": "🔧",
+      "text": "BMW alta montaña"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Santa Fe del Montseny"
+    },
+    {
+      "icon": "🌧️",
+      "text": "Lluvia y niebla"
+    },
+    {
+      "icon": "❄️",
+      "text": "Hielo invernal"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico completo"
+    }
   ],
   "introLocal": "Fogars de Montclús abarca una de las zonas más elevadas y agrestes del macizo del Montseny, incluyendo el célebre enclave de Santa Fe. Con apenas 442 habitantes repartidos en un término municipal extenso y montañoso, este es un lugar donde la naturaleza impone sus condiciones sin concesiones. Las carreteras ascienden entre bosques centenarios, las pendientes superan con frecuencia el 12% y en invierno, el hielo y la nieve son visitantes habituales.\n\nPara un BMW, circular por Fogars de Montclús es un test de resistencia mecánica integral. Las subidas prolongadas hacia Santa Fe someten al motor a un régimen de alto par a bajas revoluciones durante kilómetros, elevando la temperatura del aceite y del refrigerante muy por encima de los valores habituales. Los motores turbo BMW, que generan su máximo par a regímenes relativamente bajos, trabajan con las válvulas de descarga casi permanentemente abiertas, lo que acelera el desgaste de la turbina y de la wastegate.\n\nLas bajadas son el reverso: kilómetros de frenado continuo donde los discos alcanzan temperaturas que pueden superar los 500 °C. A estas temperaturas, un líquido de frenos con punto de ebullición insuficiente (por antigüedad o contaminación con agua) puede producir burbujas de vapor en los conductos, generando el temido vapor lock: pisas el pedal y no frena. Es un riesgo real en las carreteras de Fogars de Montclús, y por eso insistimos en la renovación periódica del líquido de frenos con especificación DOT 4 de bajo contenido higroscópico.\n\nLa altitud de los recorridos habituales —entre 500 y 1.100 metros— genera cambios bruscos de temperatura y presión que afectan al turbo (que debe compensar la menor densidad del aire), a los neumáticos (cuya presión varía con la altitud) y a los sistemas electrónicos, que reciben lecturas distintas de los sensores barométricos y de temperatura.\n\nEl entorno de bosque caducifolio y la elevada pluviometría generan un suelo permanentemente húmedo donde proliferan musgos y líquenes que se adhieren a los bajos del vehículo. Los conductos de drenaje se obstruyen con materia orgánica y la corrosión avanza en las superficies metálicas no protegidas.\n\nFogars de Montclús es también un destino recreativo de primer orden: miles de excursionistas y ciclistas suben cada fin de semana hacia Santa Fe, el Matagalls o les Agudes, y muchos de ellos conducen BMW. Para estos visitantes habituales, el coche acumula un patrón de desgaste estacional muy marcado: uso intensivo de frenos y motor durante los fines de semana y periodos de inactividad entre semana. Los discos de freno que se sobrecalientan un sábado y se enfrían bruscamente al aparcar acumulan tensiones internas que, con el tiempo, los alabean y generan vibraciones al frenar. Nuestro protocolo incluye la medición del alabeo con reloj comparador para detectar el problema antes de que comprometa la seguridad.\n\nEntre los BMW habituales en la zona destacan los X3 y X5 con tracción xDrive, muy apreciados por su capacidad de subir a Santa Fe incluso con la carretera mojada o con nieve residual. También hay berlinas Serie 3 y Serie 5 de residentes que trabajan en Sant Celoni, Girona o Barcelona y que combinan la bajada diaria por carretera de montaña con el crucero en autopista. Para estos conductores, ajustamos los intervalos de mantenimiento de frenos a la mitad de lo que BMW recomienda para uso urbano, porque las condiciones de uso no tienen nada que ver.\n\nNuestro taller es el referente BMW para los conductores de Fogars de Montclús y la zona de Santa Fe. Dominamos las exigencias mecánicas de la alta montaña y aplicamos protocolos de mantenimiento que garantizan la seguridad en cada descenso y cada subida.",
   "servicesIntro": "Servicio BMW de alta montaña: frenos para descensos extremos, motor y turbo preparados para la altitud, y protección integral contra la humedad del bosque montano.",
   "processIntro": "Un protocolo de trabajo riguroso para que tu BMW esté siempre seguro en las carreteras más exigentes del Montseny.",
   "processSteps": [
-    {"title": "Primer contacto", "body": "Llámanos o escríbenos por WhatsApp. Si tienes dificultades de acceso por nieve o hielo, podemos coordinar la recogida."},
-    {"title": "Diagnóstico de alta montaña", "body": "Verificamos frenos (líquido, discos, pastillas, pinzas), motor y turbo (temperaturas, presiones), suspensión y electrónica."},
-    {"title": "Presupuesto con enfoque en seguridad", "body": "Priorizamos los elementos que afectan a la seguridad en montaña y te lo explicamos con claridad."},
-    {"title": "Reparación con componentes de alta exigencia", "body": "Utilizamos pastillas, discos y líquidos de frenos dimensionados para las temperaturas extremas de las bajadas del Montseny."},
-    {"title": "Prueba en altitud", "body": "Verificamos la reparación con una prueba que incluye subida y bajada en pendiente real."}
+    {
+      "title": "Primer contacto",
+      "body": "Llámanos o escríbenos por WhatsApp. Si tienes dificultades de acceso por nieve o hielo, podemos coordinar la recogida."
+    },
+    {
+      "title": "Diagnóstico de alta montaña",
+      "body": "Verificamos frenos (líquido, discos, pastillas, pinzas), motor y turbo (temperaturas, presiones), suspensión y electrónica."
+    },
+    {
+      "title": "Presupuesto con enfoque en seguridad",
+      "body": "Priorizamos los elementos que afectan a la seguridad en montaña y te lo explicamos con claridad."
+    },
+    {
+      "title": "Reparación con componentes de alta exigencia",
+      "body": "Utilizamos pastillas, discos y líquidos de frenos dimensionados para las temperaturas extremas de las bajadas del Montseny."
+    },
+    {
+      "title": "Prueba en altitud",
+      "body": "Verificamos la reparación con una prueba que incluye subida y bajada en pendiente real."
+    }
   ],
   "commonIssuesIntro": "La alta montaña del Montseny genera averías que rara vez se ven en otros entornos. Las conocemos y sabemos prevenirlas.",
   "commonIssues": [
-    {"title": "Vapor lock por líquido de frenos degradado", "body": "El líquido de frenos absorbe humedad y baja su punto de ebullición. En descensos extremos puede hervir y perder presión. Renovamos con DOT 4 de alta especificación."},
-    {"title": "Turbo con sobrecarga por altitud", "body": "A más de 800 metros, el turbo trabaja más para compensar la menor densidad del aire. Verificamos holgura, presiones y temperatura de los gases de escape."},
-    {"title": "Neumáticos con presión incorrecta por desnivel", "body": "La presión cambia con la altitud: un neumático inflado a nivel del mar tendrá más presión a 1.000 metros. Ajustamos la presión al rango de altitudes que recorres."},
-    {"title": "Motor recalentado en subidas prolongadas", "body": "Las subidas a Santa Fe pueden elevar la temperatura del refrigerante peligrosamente. Verificamos el circuito de refrigeración, el termostato y el ventilador eléctrico."},
-    {"title": "Corrosión de bajos por humedad permanente", "body": "El suelo húmedo del bosque montano y los musgos atrapan la humedad contra los componentes metálicos. Inspeccionamos y tratamos los bajos con protección anticorrosión."}
+    {
+      "title": "Vapor lock por líquido de frenos degradado",
+      "body": "El líquido de frenos absorbe humedad y baja su punto de ebullición. En descensos extremos puede hervir y perder presión. Renovamos con DOT 4 de alta especificación."
+    },
+    {
+      "title": "Turbo con sobrecarga por altitud",
+      "body": "A más de 800 metros, el turbo trabaja más para compensar la menor densidad del aire. Verificamos holgura, presiones y temperatura de los gases de escape."
+    },
+    {
+      "title": "Neumáticos con presión incorrecta por desnivel",
+      "body": "La presión cambia con la altitud: un neumático inflado a nivel del mar tendrá más presión a 1.000 metros. Ajustamos la presión al rango de altitudes que recorres."
+    },
+    {
+      "title": "Motor recalentado en subidas prolongadas",
+      "body": "Las subidas a Santa Fe pueden elevar la temperatura del refrigerante peligrosamente. Verificamos el circuito de refrigeración, el termostato y el ventilador eléctrico."
+    },
+    {
+      "title": "Corrosión de bajos por humedad permanente",
+      "body": "El suelo húmedo del bosque montano y los musgos atrapan la humedad contra los componentes metálicos. Inspeccionamos y tratamos los bajos con protección anticorrosión."
+    }
   ],
   "whyUs": [
-    {"title": "Experiencia en alta montaña", "body": "Conocemos las exigencias mecánicas que las carreteras de Santa Fe y el Montseny imponen sobre cada BMW."},
-    {"title": "Frenos para descensos extremos", "body": "Montamos componentes y líquidos de frenos dimensionados para las temperaturas de frenado que se alcanzan en el Montseny."},
-    {"title": "Motor y turbo de altitud", "body": "Verificamos el rendimiento del turbocompresor y del sistema de refrigeración en condiciones de altitud real."},
-    {"title": "Recogida en condiciones difíciles", "body": "Si la nieve o el hielo impiden bajar tu BMW, podemos coordinarnos para recogerlo con medios adecuados."},
-    {"title": "Diagnóstico completo BMW", "body": "Leemos todos los módulos electrónicos con equipos profesionales para un diagnóstico sin puntos ciegos."}
+    {
+      "title": "Experiencia en alta montaña",
+      "body": "Conocemos las exigencias mecánicas que las carreteras de Santa Fe y el Montseny imponen sobre cada BMW."
+    },
+    {
+      "title": "Frenos para descensos extremos",
+      "body": "Montamos componentes y líquidos de frenos dimensionados para las temperaturas de frenado que se alcanzan en el Montseny."
+    },
+    {
+      "title": "Motor y turbo de altitud",
+      "body": "Verificamos el rendimiento del turbocompresor y del sistema de refrigeración en condiciones de altitud real."
+    },
+    {
+      "title": "Recogida en condiciones difíciles",
+      "body": "Si la nieve o el hielo impiden bajar tu BMW, podemos coordinarnos para recogerlo con medios adecuados."
+    },
+    {
+      "title": "Diagnóstico completo BMW",
+      "body": "Leemos todos los módulos electrónicos con equipos profesionales para un diagnóstico sin puntos ciegos."
+    }
   ],
   "testimonialsIntro": "Conductores de BMW de Fogars de Montclús y la zona de Santa Fe del Montseny valoran un servicio técnico a la altura de sus carreteras.",
   "testimonials": [
-    {"name": "Carles E.", "neighborhood": "Fogars de Montclús", "car": "BMW 340i F30", "body": "Bajando de Santa Fe noté que el pedal de freno se hundía. Era el líquido de frenos: llevaba cuatro años sin cambiar. Nunca más lo dejaré pasar.", "rating": 5},
-    {"name": "Gemma W.", "neighborhood": "Santa Fe zona", "car": "BMW X5 F15", "body": "El motor se calentaba subiendo a Santa Fe con el coche cargado. Termostato defectuoso: lo cambiaron y la temperatura ya no se mueve.", "rating": 5},
-    {"name": "Sergi J.", "neighborhood": "Fogars de Montclús", "car": "BMW 320d F31", "body": "Me recogieron el BMW cuando no podía sacarlo por la nieve de enero. Servicio que no encuentras en ningún concesionario de ciudad.", "rating": 5},
-    {"name": "Meritxell D.", "neighborhood": "Montaña del Montseny", "car": "BMW 220d F22", "body": "Los bajos tenían puntos de corrosión por la humedad permanente. Tratamiento anticorrosión completo y ahora lo revisan en cada visita.", "rating": 4}
+    {
+      "name": "Carles E.",
+      "neighborhood": "Fogars de Montclús",
+      "car": "BMW 340i F30",
+      "body": "Bajando de Santa Fe noté que el pedal de freno se hundía. Era el líquido de frenos: llevaba cuatro años sin cambiar. Nunca más lo dejaré pasar.",
+      "rating": 5
+    },
+    {
+      "name": "Gemma W.",
+      "neighborhood": "Santa Fe zona",
+      "car": "BMW X5 F15",
+      "body": "El motor se calentaba subiendo a Santa Fe con el coche cargado. Termostato defectuoso: lo cambiaron y la temperatura ya no se mueve.",
+      "rating": 5
+    },
+    {
+      "name": "Sergi J.",
+      "neighborhood": "Fogars de Montclús",
+      "car": "BMW 320d F31",
+      "body": "Me recogieron el BMW cuando no podía sacarlo por la nieve de enero. Servicio que no encuentras en ningún concesionario de ciudad.",
+      "rating": 5
+    },
+    {
+      "name": "Meritxell D.",
+      "neighborhood": "Montaña del Montseny",
+      "car": "BMW 220d F22",
+      "body": "Los bajos tenían puntos de corrosión por la humedad permanente. Tratamiento anticorrosión completo y ahora lo revisan en cada visita.",
+      "rating": 4
+    }
   ],
   "zoneText": "Atendemos BMW en Fogars de Montclús, Santa Fe del Montseny y toda la zona de alta montaña del macizo, con servicio de recogida cuando las condiciones lo requieran.",
-  "zoneNeighborhoods": ["Campins", "Montseny", "Sant Celoni", "Arbúcies", "Gualba", "Viladrau", "Breda"],
-  "zoneAccessRoutes": ["BV-5301 desde Sant Celoni", "BV-5114 desde Arbúcies", "Carreteras del Parque Natural del Montseny"],
+  "zoneNeighborhoods": [
+    "Campins",
+    "Montseny",
+    "Sant Celoni",
+    "Arbúcies",
+    "Gualba",
+    "Viladrau",
+    "Breda"
+  ],
+  "zoneAccessRoutes": [
+    "BV-5301 desde Sant Celoni",
+    "BV-5114 desde Arbúcies",
+    "Carreteras del Parque Natural del Montseny"
+  ],
   "faqLocal": [
-    {"q": "¿Hay servicio técnico BMW para Fogars de Montclús?", "a": "Sí. Nuestro taller BMW atiende a Fogars de Montclús y la zona de Santa Fe con experiencia en las exigencias de la alta montaña."},
-    {"q": "¿El líquido de frenos es tan importante en montaña?", "a": "Es crítico. Un líquido de frenos con punto de ebullición bajo puede hervir en descensos extremos, provocando pérdida total de frenado. Lo renovamos cada 2 años o antes."},
-    {"q": "¿Puedo subir a Santa Fe con un BMW de tracción trasera?", "a": "En condiciones secas, sí. En invierno con hielo o nieve, es arriesgado sin neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en estas condiciones."},
-    {"q": "¿Recogéis BMW en zonas con nieve?", "a": "Sí. Disponemos de medios para acceder en condiciones invernales y recoger tu vehículo cuando tú no puedas circular."},
-    {"q": "¿La altitud afecta al turbo de mi BMW?", "a": "Sí. A mayor altitud, menor densidad del aire. El turbo compensa girando más rápido, lo que acelera su desgaste. Recomendamos revisiones del turbo anuales para vehículos de montaña."},
-    {"q": "¿Por qué mi BMW consume más subiendo al Montseny?", "a": "Las subidas prolongadas exigen más potencia y, por tanto, más combustible. Si el consumo es excesivo, puede haber problemas adicionales de inyección, turbo o sensores que debemos revisar."}
+    {
+      "q": "¿Hay servicio técnico BMW para Fogars de Montclús?",
+      "a": "Sí. Nuestro taller BMW atiende a Fogars de Montclús y la zona de Santa Fe con experiencia en las exigencias de la alta montaña."
+    },
+    {
+      "q": "¿El líquido de frenos es tan importante en montaña?",
+      "a": "Es crítico. Un líquido de frenos con punto de ebullición bajo puede hervir en descensos extremos, provocando pérdida total de frenado. Lo renovamos cada 2 años o antes."
+    },
+    {
+      "q": "¿Puedo subir a Santa Fe con un BMW de tracción trasera?",
+      "a": "En condiciones secas, sí. En invierno con hielo o nieve, es arriesgado sin neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en estas condiciones."
+    },
+    {
+      "q": "¿Recogéis BMW en zonas con nieve?",
+      "a": "Sí. Disponemos de medios para acceder en condiciones invernales y recoger tu vehículo cuando tú no puedas circular."
+    },
+    {
+      "q": "¿La altitud afecta al turbo de mi BMW?",
+      "a": "Sí. A mayor altitud, menor densidad del aire. El turbo compensa girando más rápido, lo que acelera su desgaste. Recomendamos revisiones del turbo anuales para vehículos de montaña."
+    },
+    {
+      "q": "¿Por qué mi BMW consume más subiendo al Montseny?",
+      "a": "Las subidas prolongadas exigen más potencia y, por tanto, más combustible. Si el consumo es excesivo, puede haber problemas adicionales de inyección, turbo o sensores que debemos revisar."
+    }
   ],
   "closingHeadline": "Seguridad BMW a la altura de las cumbres del Montseny",
   "closingCta": "Llámanos para una revisión de frenos, motor y turbo de tu BMW. En la montaña, la seguridad empieza por un mantenimiento sin compromisos.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

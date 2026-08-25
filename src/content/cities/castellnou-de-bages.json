@@ -10,11 +10,26 @@
   "metaDescription": "Taller especializado en BMW para Castellnou de Bages. Diagnóstico avanzado, mantenimiento y reparación de todas las series. Recogida a domicilio disponible.",
   "heroSubtitle": "Servicio técnico BMW de confianza para Castellnou de Bages. Diagnóstico profesional, recogida a domicilio y presupuesto sin compromiso.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "🚗", "text": "Recogida a domicilio"},
-    {"icon": "💻", "text": "Diagnóstico ISTA"},
-    {"icon": "✅", "text": "Garantía por escrito"},
-    {"icon": "📍", "text": "Cerca de Castellnou"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida a domicilio"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico ISTA"
+    },
+    {
+      "icon": "✅",
+      "text": "Garantía por escrito"
+    },
+    {
+      "icon": "📍",
+      "text": "Cerca de Castellnou"
+    }
   ],
   "introLocal": "Castellnou de Bages es un pequeño municipio situado en el corazón de la comarca del Bages, enclavado entre Manresa y Balsareny en la provincia de Barcelona. Con apenas 1.184 habitantes, esta localidad de marcado carácter residencial y rural conserva la autenticidad de los pueblos del interior catalán, donde la tranquilidad y las vistas privilegiadas a la montaña de Montserrat definen el día a día de sus vecinos. Para quienes conducen un BMW en Castellnou de Bages, contar con un servicio técnico especializado y accesible es fundamental, ya que la distancia a los concesionarios oficiales de las grandes ciudades hace que cada desplazamiento para una simple revisión se convierta en una pérdida de tiempo considerable.\n\nLa carretera BV-4511, eje principal de comunicación del municipio, conecta Castellnou de Bages con la red viaria comarcal a través de trazados sinuosos y desniveles propios de la geografía del Bages. Estas carreteras secundarias, flanqueadas por campos de viñedos y zonas agrícolas, someten a los vehículos BMW a un régimen de conducción exigente: curvas cerradas que castigan la dirección y los neumáticos, cambios constantes de marcha que aceleran el desgaste del embrague y la caja de cambios, y firmes irregulares que ponen a prueba la suspensión adaptativa de modelos como el Serie 3 o el X1. El polvo procedente de los caminos rurales y las explotaciones agrícolas circundantes se acumula en filtros de aire y sistemas de climatización, reduciendo progresivamente su eficacia si no se realiza un mantenimiento periódico adecuado.\n\nEl clima continental del Bages añade otro factor determinante para el cuidado de un BMW en Castellnou de Bages. Los inviernos son rigurosos, con heladas frecuentes entre noviembre y marzo que afectan especialmente a las baterías de tecnología AGM, a los sistemas de arranque y a la respuesta de los sensores electrónicos. La escarcha matinal sobre las carreteras locales obliga a utilizar con frecuencia los sistemas de tracción y estabilidad del vehículo, lo que acentúa la importancia de mantener en perfecto estado tanto los frenos como el control dinámico de estabilidad (DSC). En verano, las temperaturas elevadas y la sequedad ambiental exigen un sistema de refrigeración en óptimas condiciones para evitar sobrecalentamientos, especialmente en motores diésel de la familia B47 y B57 que equipan buena parte de los BMW de la zona.\n\nLa iglesia románica de Sant Andreu, símbolo patrimonial de Castellnou de Bages, nos recuerda que este es un territorio con siglos de historia, donde lo antiguo convive con la modernidad de unos vecinos que eligen vehículos premium para sus desplazamientos diarios hacia Manresa, Sallent o incluso Barcelona por la C-16. Esos trayectos mixtos, combinando carreteras comarcales estrechas con vías rápidas, generan un patrón de uso que exige atención técnica especializada: los sistemas de inyección directa acumulan carbonilla en recorridos cortos a baja velocidad, mientras que los tramos de autopista ponen a prueba turbocompresores y sistemas de escape. Nuestro taller entiende esta realidad y ofrece un servicio adaptado a las necesidades específicas de los conductores de BMW de Castellnou de Bages.\n\nSabemos que vivir en un municipio pequeño no debería significar renunciar a un servicio técnico de primer nivel para tu BMW. Por eso, ofrecemos recogida y entrega del vehículo a domicilio en Castellnou de Bages y alrededores, para que no tengas que reorganizar tu agenda ni depender de terceros. Utilizamos equipos de diagnóstico homologados, recambios de calidad OE y un equipo de técnicos con formación continua en la tecnología BMW más reciente. Desde una revisión de mantenimiento programado hasta una reparación compleja del sistema Valvetronic o la codificación de un módulo electrónico, nuestro compromiso es el mismo: que tu BMW rinda como el primer día en cada curva de la BV-4511 y en cada kilómetro hacia Manresa.",
   "servicesIntro": "Ofrecemos una gama completa de servicios especializados para todas las series y modelos BMW. Desde el mantenimiento preventivo según los intervalos del fabricante hasta reparaciones mecánicas y electrónicas de alta complejidad, nuestro taller cuenta con el equipamiento y la experiencia necesarios para mantener tu BMW en condiciones óptimas.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

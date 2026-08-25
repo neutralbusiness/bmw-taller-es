@@ -5,17 +5,35 @@
   "ccaa": "Cataluña",
   "population": 2230,
   "lat": 41.9377,
-  "lng": 2.3150,
+  "lng": 2.315,
   "metaTitle": "Taller BMW en Folgueroles | Cuidado con Carácter",
   "metaDescription": "Taller BMW especializado cerca de Folgueroles. Mantenimiento y reparación con la atención al detalle que merece tu BMW en la tierra de Verdaguer, Osona.",
   "heroSubtitle": "En el pueblo que vio nacer a Verdaguer, tu BMW encuentra un taller con la misma pasión por hacer las cosas bien.",
   "trustChips": [
-    {"icon": "🔧", "text": "Taller solo BMW"},
-    {"icon": "🏅", "text": "Atención al detalle"},
-    {"icon": "🛡️", "text": "Piezas originales"},
-    {"icon": "📍", "text": "A 3 min de Folgueroles"},
-    {"icon": "✅", "text": "Diagnóstico certificado"},
-    {"icon": "🌿", "text": "Entorno tranquilo"}
+    {
+      "icon": "🔧",
+      "text": "Taller solo BMW"
+    },
+    {
+      "icon": "🏅",
+      "text": "Atención al detalle"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Piezas originales"
+    },
+    {
+      "icon": "📍",
+      "text": "A 3 min de Folgueroles"
+    },
+    {
+      "icon": "✅",
+      "text": "Diagnóstico certificado"
+    },
+    {
+      "icon": "🌿",
+      "text": "Entorno tranquilo"
+    }
   ],
   "introLocal": "Folgueroles es un pueblo con alma. Cuna del poeta Jacint Verdaguer, esta pequeña población al noreste de Vic conserva un carácter auténtico que sus habitantes protegen con orgullo. Las calles empedradas del casco antiguo, la iglesia románica y la Casa Museu Verdaguer conviven con urbanizaciones modernas donde familias jóvenes han encontrado un equilibrio entre la vida rural y la cercanía a los servicios de la capital comarcal. Es un pueblo que elige la calidad sobre la cantidad, y eso se refleja también en los coches que circulan por sus calles. Las plazas de aparcamiento frente a la iglesia o junto a la casa museo muestran una proporción de vehículos alemanes superior a la media comarcal, reflejo de una comunidad que aprecia la ingeniería bien hecha y la durabilidad de las cosas.\n\nLos propietarios de BMW en Folgueroles comparten esa filosofía de apreciar lo bien hecho. No buscan el coche más llamativo sino el que mejor combina ingeniería, confort y fiabilidad. Por eso es habitual ver BMW Serie 3 Touring familiares, X1 versátiles y algún Serie 5 discreto en las plazas de aparcamiento del pueblo. Son coches que deben responder tanto en la carretera comarcal hacia Vic como en los caminos que suben hacia el Collsacabra, donde muchos habitantes de Folgueroles pasan sus fines de semana. Es un coche para todo: la compra semanal en Vic, la excursión dominical a Rupit, la vuelta del colegio por carreteras estrechas y la escapada ocasional a Barcelona por la C-17. Un uso completo que requiere un vehículo en perfectas condiciones.\n\nLas carreteras que rodean Folgueroles tienen personalidad propia. La BV-5213 hacia Sant Julià de Vilatorta serpentea entre colinas con curvas ciegas y cambios de rasante que ponen a prueba la dirección y la visibilidad. Los caminos hacia las masías del término municipal transcurren entre bosques de encinas y robles donde las hojas caídas en otoño crean una alfombra resbaladiza que exige neumáticos en buen estado. En primavera, el polen de los bosques circundantes satura los filtros de habitáculo mucho antes de lo previsto.\n\nEl clima de Folgueroles comparte las características de la Plana de Vic pero con matices propios de su leve elevación respecto al fondo del valle. Las heladas matinales son habituales desde noviembre hasta marzo, y la niebla, aunque menos persistente que en el llano, aparece con frecuencia en las horas previas al amanecer. En verano, las tormentas vespertinas de carácter convectivo descargan granizo con cierta regularidad, un riesgo para carrocerías y lunas que los propietarios de BMW conocen bien. Las tormentas pueden descargar piedras de hielo del tamaño de una avellana que dejan marcas visibles en capós y techos, y si la pintura se rompe hasta el metal, el proceso de oxidación comienza casi de inmediato con la humedad otoñal posterior.\n\nMantener un BMW en Folgueroles requiere un taller que valore la precisión tanto como los vecinos de este pueblo valoran su patrimonio. Un servicio donde cada revisión se realice con rigor, donde el diagnóstico no se quede en la superficie y donde el propietario reciba la información completa sobre el estado de su vehículo. Nuestro taller ofrece exactamente esa filosofía de trabajo, con la ventaja añadida de estar a solo tres minutos de Folgueroles.",
   "servicesIntro": "Cubrimos todas las necesidades mecánicas y electrónicas de tu BMW, desde revisiones de mantenimiento programado hasta reparaciones complejas de motor, transmisión, suspensión y electrónica de confort y seguridad.",
@@ -161,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

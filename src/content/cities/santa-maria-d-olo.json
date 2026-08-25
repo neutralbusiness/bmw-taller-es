@@ -5,16 +5,31 @@
   "ccaa": "Cataluña",
   "population": 1048,
   "lat": 41.8672,
-  "lng": 2.0600,
+  "lng": 2.06,
   "metaTitle": "Taller BMW en Santa Maria d'Oló | Especialistas Alta Montaña",
   "metaDescription": "Servicio técnico BMW en Santa Maria d'Oló. Especialistas en desgaste por carreteras de montaña, frío extremo y conducción rural. Presupuesto sin compromiso.",
   "heroSubtitle": "Expertos en BMW para las exigentes carreteras de montaña del norte del Bages. Diagnóstico avanzado y recogida a domicilio.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas montaña"},
-    {"icon": "🔧", "text": "Diagnóstico BMW oficial"},
-    {"icon": "🚗", "text": "Recogida a domicilio"},
-    {"icon": "❄️", "text": "Preparación invernal"},
-    {"icon": "📍", "text": "Servicio comarca Bages"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas montaña"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW oficial"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida a domicilio"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación invernal"
+    },
+    {
+      "icon": "📍",
+      "text": "Servicio comarca Bages"
+    }
   ],
   "introLocal": "Santa Maria d'Oló ocupa un enclave singular en el extremo norte de la comarca del Bages, donde el paisaje ondulado de la Cataluña central da paso a las primeras estribaciones montañosas del Lluçanès y el Moianès. Con apenas algo más de mil habitantes repartidos entre el núcleo urbano y numerosas masías dispersas, este municipio conserva un carácter profundamente rural que define tanto su encanto como los retos diarios de movilidad para sus vecinos. Las carreteras BV-4316 y BV-4317 constituyen prácticamente las únicas vías de conexión con el exterior, serpenteando entre bosques densos de encinas y pinos que cubren las laderas del valle del río Oló.\n\nEl entorno natural de Santa Maria d'Oló resulta tan espectacular como exigente para cualquier vehículo. La Gorga del Pont, con sus paredes verticales esculpidas por siglos de erosión fluvial, ejemplifica la orografía abrupta que caracteriza la zona. Los senderos que recorren los bosques y las gargantas atraen a excursionistas durante todo el año, pero las mismas condiciones que hacen del municipio un paraíso para el senderismo suponen un desafío constante para los automóviles. Las pendientes pronunciadas, las curvas cerradas sin visibilidad y los tramos donde la calzada se estrecha hasta convertirse casi en pista forestal someten a frenos, suspensión y transmisión a un desgaste muy superior al habitual.\n\nLos inviernos en esta zona de transición entre el Bages y el Lluçanès pueden ser particularmente crudos. Las heladas nocturnas son frecuentes desde noviembre hasta bien entrado marzo, y no es raro que la nieve cubra las carreteras durante varios días seguidos. Para un BMW, estas condiciones significan un esfuerzo adicional del sistema de tracción, mayor solicitación de los neumáticos y un castigo constante a los componentes electrónicos expuestos a cambios bruscos de temperatura. La humedad procedente del río Oló y de los numerosos torrentes que cruzan el término municipal agrava además los problemas de corrosión en bajos y elementos de suspensión, algo especialmente relevante en vehículos con componentes de aluminio como los BMW.\n\nEl aislamiento geográfico de Santa Maria d'Oló añade una dimensión práctica que no puede ignorarse. La distancia hasta el taller oficial más cercano supera los cuarenta kilómetros por carreteras sinuosas, lo que convierte cualquier avería menor en un contratiempo considerable. Los propietarios de BMW en esta zona necesitan un servicio técnico que no solo entienda la mecánica alemana, sino que comprenda las condiciones específicas a las que se enfrentan estos vehículos en un entorno de montaña aislado. Desde la calibración de los sistemas de asistencia a la conducción —diseñados para autopistas, no para caminos forestales con gravilla— hasta el mantenimiento preventivo reforzado que exige circular por vías donde un ciervo o un jabalí pueden aparecer en cualquier curva.\n\nNuestro compromiso con los propietarios de BMW en Santa Maria d'Oló va más allá del taller convencional. Conocemos cada tramo de la BV-4316, sabemos qué exige la subida desde Moià y entendemos por qué un BMW que circula habitualmente entre masías necesita revisiones más frecuentes de suspensión y protección anticorrosión. Ofrecemos servicio de recogida y entrega del vehículo para que la distancia no sea nunca un obstáculo, y adaptamos cada intervención a la realidad de conducir en uno de los rincones más bellos y exigentes de la provincia de Barcelona.",
   "servicesIntro": "Ofrecemos una gama completa de servicios técnicos para BMW adaptados a las condiciones de montaña y aislamiento propias de Santa Maria d'Oló, desde mantenimientos preventivos reforzados hasta reparaciones complejas de motor y transmisión.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

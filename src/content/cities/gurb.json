@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW en Gurb, Osona. Mantenimiento adaptado a caminos rurales, masías y conducción agrícola. Diagnóstico avanzado cerca de Vic para tu BMW.",
   "heroSubtitle": "Tu BMW recorre caminos de masía y carreteras de la Plana cada día. Nosotros lo mantenemos preparado para ambos mundos.",
   "trustChips": [
-    {"icon": "🏡", "text": "Expertos en entorno rural"},
-    {"icon": "🔧", "text": "Diagnóstico BMW completo"},
-    {"icon": "🛡️", "text": "Recambios originales"},
-    {"icon": "🌾", "text": "Protección antipólvo"},
-    {"icon": "📍", "text": "Junto a Vic"}
+    {
+      "icon": "🏡",
+      "text": "Expertos en entorno rural"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW completo"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios originales"
+    },
+    {
+      "icon": "🌾",
+      "text": "Protección antipólvo"
+    },
+    {
+      "icon": "📍",
+      "text": "Junto a Vic"
+    }
   ],
   "introLocal": "Gurb es un municipio singular dentro de Osona. A diferencia de los pueblos compactos de la comarca, su territorio se extiende alrededor de Vic como un mosaico de masías dispersas, campos de cereales y pequeños núcleos de población conectados por una red de caminos vecinales y carreteras secundarias. Esta estructura rural, heredada de siglos de tradición agrícola, define un modo de vida en el que el coche no es un lujo sino una herramienta imprescindible para cada desplazamiento. Ir al médico, llevar a los niños al colegio en Vic, bajar al mercado o simplemente visitar al vecino más cercano: todo requiere subirse al coche y recorrer kilómetros de caminos que varían enormemente en estado y trazado según la estación del año.\n\nLos propietarios de BMW en Gurb someten sus vehículos a condiciones que no aparecen en ningún manual de mantenimiento estándar. Los caminos de acceso a las masías, muchos sin asfaltar o con firme deteriorado, castigan las suspensiones, los bajos del coche y los neumáticos con piedras sueltas, baches y polvo agrícola constante. En época de cosecha, las máquinas dejan restos de tierra y vegetación en la calzada que se adhieren a los bajos y obstruyen filtros. En días de lluvia, el barro se acumula en los pasos de rueda y puede bloquear sensores de velocidad o afectar al sistema ABS. Los tractores y maquinaria agrícola que comparten estos caminos con los turismos dejan además surcos profundos que se endurecen al secarse, convirtiéndose en auténticas trampas para las llantas de aleación y las protecciones plásticas de los bajos.\n\nEl clima continental de la Plana de Vic amplifica estos desafíos. Gurb comparte con la capital comarcal las heladas severas de invierno y las temperaturas sofocantes de verano, pero su altitud y dispersión geográfica hacen que las masías más alejadas experimenten condiciones aún más extremas. La escarcha matinal sobre caminos sin tratar convierte los trayectos en pruebas de tracción y adherencia. La niebla del valle, que aquí tarda más en disiparse por la proximidad al Ter, mantiene los vehículos envueltos en humedad durante horas. En las noches más frías de enero, el termómetro puede descender por debajo de los menos ocho grados en las zonas más abiertas de Gurb, sometiendo los líquidos del vehículo, la batería y los componentes de goma a un estrés térmico considerable.\n\nPara un BMW, este entorno significa un desgaste acelerado en componentes que en un uso urbano durarían mucho más. Los amortiguadores de un X3 que recorre diariamente dos kilómetros de camino rural necesitan revisión con el doble de frecuencia. Los filtros de aire de un Serie 3 que aparca junto a campos en periodo de siembra se saturan antes de los intervalos recomendados. Las juntas de estanqueidad sufren con los cambios térmicos extremos entre la noche gélida y el mediodía tórrido.\n\nNuestro taller conoce Gurb y su territorio. Sabemos que aquí un BMW no circula solo por autopista: atraviesa caminos de tierra, soporta polvo de campo y convive con las inclemencias de un clima interior sin contemplaciones. Por eso adaptamos cada servicio de mantenimiento a la realidad concreta de tu uso, con intervalos ajustados y atención especial a los puntos que el entorno rural de Gurb pone a prueba cada día.",
   "servicesIntro": "Cubrimos todas las necesidades de tu BMW con servicios que van desde el mantenimiento preventivo hasta reparaciones mecánicas y electrónicas complejas, siempre adaptados a las exigencias del entorno rural de la Plana de Vic.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

@@ -10,56 +10,177 @@
   "metaDescription": "Servicio BMW para Castellfollit de Riubregós. Taller especializado con recogida a domicilio para los municipios más remotos de la Anoia. 665 245 143.",
   "heroSubtitle": "Que la distancia no comprometa el cuidado de tu BMW. Servicio técnico especializado con recogida en Castellfollit de Riubregós.",
   "trustChips": [
-    {"icon": "🔧", "text": "BMW especializado"},
-    {"icon": "🏰", "text": "Llegamos a zonas remotas"},
-    {"icon": "🚛", "text": "Recogida y entrega"},
-    {"icon": "💻", "text": "Electrónica avanzada"},
-    {"icon": "🛡️", "text": "Garantía escrita"}
+    {
+      "icon": "🔧",
+      "text": "BMW especializado"
+    },
+    {
+      "icon": "🏰",
+      "text": "Llegamos a zonas remotas"
+    },
+    {
+      "icon": "🚛",
+      "text": "Recogida y entrega"
+    },
+    {
+      "icon": "💻",
+      "text": "Electrónica avanzada"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía escrita"
+    }
   ],
   "introLocal": "Castellfollit de Riubregós, con su perfil fortificado y apenas 184 habitantes, es uno de los municipios más apartados del extremo norte de la Anoia. Enclavado en un paisaje de cerros, campos de cereal y barrancos, este pueblo conserva el carácter de frontera que tuvo durante siglos. Hoy, esa frontera no es militar sino logística: los conductores de BMW que residen aquí se enfrentan al reto de mantener un vehículo premium sin un servicio técnico especializado a una distancia razonable.\n\nLas carreteras que conectan Castellfollit con el exterior son estrechas, con tramos de firme deteriorado y curvas ciegas entre cortados. El trazado del río Riubregós dibuja un valle encajado que obliga a las vías a seguir su curso serpenteante. Esta conducción técnica somete a la dirección, la suspensión y los frenos a un trabajo constante que nada tiene que ver con el uso urbano para el que los intervalos de mantenimiento de BMW están calculados.\n\nA los riesgos del trazado se suma la fauna. Los campos de cereal y los barrancos del Riubregós concentran jabalíes y corzos que atraviesan la calzada al amanecer y al caer la tarde, precisamente en las horas en que los vecinos se desplazan a trabajar. Un encuentro de este tipo, incluso sin consecuencias aparentes, merece una revisión: un golpe leve puede desplazar el radar frontal, dañar el radiador o el intercooler ocultos tras el paragolpes o dejar un sensor de aparcamiento fuera de servicio. Tras cualquier impacto con un animal, inspeccionamos el frontal completo y comprobamos que los sistemas de seguridad respondan correctamente antes de dar el vehículo por seguro.\n\nEl aislamiento geográfico tiene una consecuencia práctica directa: cuando algo falla en el coche, no hay alternativa inmediata. Un BMW con un problema de arranque, un fallo del turbo o un aviso de avería en el cuadro deja a su propietario literalmente incomunicado. Por eso, el mantenimiento preventivo en Castellfollit no es una recomendación sino una necesidad vital. Anticipar las averías es la única forma de evitar quedarse tirado en un lugar donde la grúa puede tardar horas.\n\nNuestro servicio de recogida y entrega ha sido diseñado pensando precisamente en municipios como Castellfollit de Riubregós. Coordinamos la logística para que tu BMW reciba el mantenimiento o la reparación que necesita sin que tú tengas que invertir medio día en desplazamientos. El diagnóstico, el presupuesto y el seguimiento se realizan por teléfono o WhatsApp con total transparencia.\n\nOtro rasgo distintivo del parque local es su veteranía. En Castellfollit los BMW se conservan muchos años: no es raro atender Serie 3 E90 o X3 E83 con más de quince años y kilometrajes altos, cuidados por propietarios que prefieren mantener un coche conocido antes que cambiarlo. Estos veteranos exigen atención a componentes que envejecen por edad y no por kilómetros: los plásticos del circuito de refrigeración se vuelven quebradizos, los soportes de motor pierden consistencia y el cableado sufre en las zonas de flexión. Conocemos bien estas series, localizamos recambio de calidad a buen precio y diseñamos planes de mantenimiento que alargan la vida útil del vehículo con una inversión razonable.\n\nCada BMW que recibimos de la zona de Castellfollit pasa por una inspección ampliada que incluye, además de los puntos habituales, una revisión específica de bajos (por el impacto de caminos en mal estado), del sistema de iluminación (fundamental en carreteras sin alumbrado) y de la batería (sometida a arranques en frío extremo).",
   "servicesIntro": "Servicio técnico BMW completo con logística adaptada a las zonas más remotas de la Anoia: recogida, diagnóstico, reparación y entrega sin que tengas que moverte.",
   "processIntro": "Un proceso pensado para clientes que viven lejos del taller, con comunicación constante y mínimo impacto en tu rutina.",
   "processSteps": [
-    {"title": "Llamada o WhatsApp", "body": "Contacta con nosotros, describe la situación y organizamos la recogida de tu BMW en Castellfollit o donde lo necesites."},
-    {"title": "Recogida del vehículo", "body": "Recogemos tu BMW en la ubicación acordada y lo trasladamos al taller para su diagnóstico."},
-    {"title": "Diagnóstico e informe", "body": "Realizamos la inspección completa y te enviamos el informe con fotos y presupuesto por WhatsApp."},
-    {"title": "Reparación autorizada", "body": "Con tu aprobación, ejecutamos todas las intervenciones necesarias agrupadas para maximizar la eficiencia."},
-    {"title": "Entrega a domicilio", "body": "Te devolvemos tu BMW reparado en Castellfollit o punto de recogida, con documentación completa."}
+    {
+      "title": "Llamada o WhatsApp",
+      "body": "Contacta con nosotros, describe la situación y organizamos la recogida de tu BMW en Castellfollit o donde lo necesites."
+    },
+    {
+      "title": "Recogida del vehículo",
+      "body": "Recogemos tu BMW en la ubicación acordada y lo trasladamos al taller para su diagnóstico."
+    },
+    {
+      "title": "Diagnóstico e informe",
+      "body": "Realizamos la inspección completa y te enviamos el informe con fotos y presupuesto por WhatsApp."
+    },
+    {
+      "title": "Reparación autorizada",
+      "body": "Con tu aprobación, ejecutamos todas las intervenciones necesarias agrupadas para maximizar la eficiencia."
+    },
+    {
+      "title": "Entrega a domicilio",
+      "body": "Te devolvemos tu BMW reparado en Castellfollit o punto de recogida, con documentación completa."
+    }
   ],
   "commonIssuesIntro": "El aislamiento y las condiciones viarias de Castellfollit de Riubregós provocan averías que requieren atención preventiva y un diagnóstico certero.",
   "commonIssues": [
-    {"title": "Bajos dañados por firme deteriorado", "body": "Protectores de cárter, conductos de freno y tubo de escape sufren impactos en tramos con baches y piedras sueltas. Inspeccionamos y reparamos los daños."},
-    {"title": "Sistema de iluminación deficiente", "body": "Faros desalineados o con bombillas debilitadas son un riesgo grave en carreteras sin alumbrado público. Reglamos y sustituimos para garantizar visibilidad óptima."},
-    {"title": "Batería con capacidad reducida", "body": "El frío extremo y los arranques esporádicos (vehículo parado varios días) drenan la batería. Diagnosticamos la capacidad real y sustituimos si es necesario."},
-    {"title": "Líquido de frenos higroscópico", "body": "El líquido de frenos absorbe humedad con el tiempo, bajando su punto de ebullición. En frenadas intensivas en pendiente puede provocar vapor lock. Lo renovamos periódicamente."},
-    {"title": "Correas y tensores fatigados", "body": "Las oscilaciones térmicas extremas y el envejecimiento natural fatigan las correas auxiliares. Una rotura en zona remota es un problema grave. Las revisamos preventivamente."}
+    {
+      "title": "Bajos dañados por firme deteriorado",
+      "body": "Protectores de cárter, conductos de freno y tubo de escape sufren impactos en tramos con baches y piedras sueltas. Inspeccionamos y reparamos los daños."
+    },
+    {
+      "title": "Sistema de iluminación deficiente",
+      "body": "Faros desalineados o con bombillas debilitadas son un riesgo grave en carreteras sin alumbrado público. Reglamos y sustituimos para garantizar visibilidad óptima."
+    },
+    {
+      "title": "Batería con capacidad reducida",
+      "body": "El frío extremo y los arranques esporádicos (vehículo parado varios días) drenan la batería. Diagnosticamos la capacidad real y sustituimos si es necesario."
+    },
+    {
+      "title": "Líquido de frenos higroscópico",
+      "body": "El líquido de frenos absorbe humedad con el tiempo, bajando su punto de ebullición. En frenadas intensivas en pendiente puede provocar vapor lock. Lo renovamos periódicamente."
+    },
+    {
+      "title": "Correas y tensores fatigados",
+      "body": "Las oscilaciones térmicas extremas y el envejecimiento natural fatigan las correas auxiliares. Una rotura en zona remota es un problema grave. Las revisamos preventivamente."
+    }
   ],
   "whyUs": [
-    {"title": "Llegamos donde estás", "body": "Servicio de recogida y entrega diseñado para los municipios más remotos de la Anoia, como Castellfollit de Riubregós."},
-    {"title": "Mantenimiento preventivo riguroso", "body": "Anticipamos averías porque sabemos que quedarse parado en una zona aislada es inaceptable."},
-    {"title": "Comunicación transparente a distancia", "body": "Fotos, presupuestos y actualizaciones por WhatsApp. Siempre sabes en qué punto está tu BMW."},
-    {"title": "Inspección ampliada de bajos e iluminación", "body": "Revisamos específicamente los componentes que más sufren en carreteras rurales sin mantenimiento."},
-    {"title": "Reparaciones agrupadas", "body": "Concentramos todas las intervenciones en una sola visita al taller para minimizar el tiempo sin vehículo."}
+    {
+      "title": "Llegamos donde estás",
+      "body": "Servicio de recogida y entrega diseñado para los municipios más remotos de la Anoia, como Castellfollit de Riubregós."
+    },
+    {
+      "title": "Mantenimiento preventivo riguroso",
+      "body": "Anticipamos averías porque sabemos que quedarse parado en una zona aislada es inaceptable."
+    },
+    {
+      "title": "Comunicación transparente a distancia",
+      "body": "Fotos, presupuestos y actualizaciones por WhatsApp. Siempre sabes en qué punto está tu BMW."
+    },
+    {
+      "title": "Inspección ampliada de bajos e iluminación",
+      "body": "Revisamos específicamente los componentes que más sufren en carreteras rurales sin mantenimiento."
+    },
+    {
+      "title": "Reparaciones agrupadas",
+      "body": "Concentramos todas las intervenciones en una sola visita al taller para minimizar el tiempo sin vehículo."
+    }
   ],
   "testimonialsIntro": "Residentes de Castellfollit de Riubregós y los municipios más apartados de la Anoia valoran un servicio BMW que no les obliga a recorrer decenas de kilómetros.",
   "testimonials": [
-    {"name": "Marc S.", "neighborhood": "Castellfollit de Riubregós", "car": "BMW 430d F36", "body": "Me recogieron el BMW en la puerta de casa y me lo devolvieron tres días después con revisión completa. Sin moverme del pueblo.", "rating": 5},
-    {"name": "Dolors P.", "neighborhood": "Masía El Barranc", "car": "BMW X3 F25", "body": "Vivir sola en una masía y que el coche falle es mi peor pesadilla. Ahora hago revisiones preventivas cada seis meses y duermo tranquila.", "rating": 5},
-    {"name": "Pau N.", "neighborhood": "Castellfollit", "car": "BMW 320d E91", "body": "Me avisaron de que la correa estaba a punto de romperse. Si llega a romperse camino de Calaf, el disgusto habría sido mayúsculo.", "rating": 5},
-    {"name": "Àngels R.", "neighborhood": "Zona rural Riubregós", "car": "BMW 216d F46", "body": "Los faros no alumbraban bien las curvas de noche. Me los reglaron, cambiaron las bombillas y ahora conduzco mucho más segura.", "rating": 4}
+    {
+      "name": "Marc S.",
+      "neighborhood": "Castellfollit de Riubregós",
+      "car": "BMW 430d F36",
+      "body": "Me recogieron el BMW en la puerta de casa y me lo devolvieron tres días después con revisión completa. Sin moverme del pueblo.",
+      "rating": 5
+    },
+    {
+      "name": "Dolors P.",
+      "neighborhood": "Masía El Barranc",
+      "car": "BMW X3 F25",
+      "body": "Vivir sola en una masía y que el coche falle es mi peor pesadilla. Ahora hago revisiones preventivas cada seis meses y duermo tranquila.",
+      "rating": 5
+    },
+    {
+      "name": "Pau N.",
+      "neighborhood": "Castellfollit",
+      "car": "BMW 320d E91",
+      "body": "Me avisaron de que la correa estaba a punto de romperse. Si llega a romperse camino de Calaf, el disgusto habría sido mayúsculo.",
+      "rating": 5
+    },
+    {
+      "name": "Àngels R.",
+      "neighborhood": "Zona rural Riubregós",
+      "car": "BMW 216d F46",
+      "body": "Los faros no alumbraban bien las curvas de noche. Me los reglaron, cambiaron las bombillas y ahora conduzco mucho más segura.",
+      "rating": 4
+    }
   ],
   "zoneText": "Cubrimos Castellfollit de Riubregós y todo el extremo norte de la Anoia, con servicio de recogida y entrega para los municipios más alejados.",
-  "zoneNeighborhoods": ["Pujalt", "Calonge de Segarra", "Sant Pere Sallavinera", "Calaf", "Els Prats de Rei", "Torà", "Aguilar de Segarra"],
-  "zoneAccessRoutes": ["C-1412a desde Calaf", "BV-3009", "Carreteras comarcales del valle del Riubregós"],
+  "zoneNeighborhoods": [
+    "Pujalt",
+    "Calonge de Segarra",
+    "Sant Pere Sallavinera",
+    "Calaf",
+    "Els Prats de Rei",
+    "Torà",
+    "Aguilar de Segarra"
+  ],
+  "zoneAccessRoutes": [
+    "C-1412a desde Calaf",
+    "BV-3009",
+    "Carreteras comarcales del valle del Riubregós"
+  ],
   "faqLocal": [
-    {"q": "¿Es posible llevar un BMW a reparar desde Castellfollit de Riubregós?", "a": "Sí. Ofrecemos servicio de recogida a domicilio en Castellfollit y todo el norte de la Anoia. No necesitas desplazarte."},
-    {"q": "¿Cuánto cuesta la recogida y entrega del vehículo?", "a": "Contacta con nosotros para un presupuesto que incluya la logística de recogida y entrega. En muchos casos lo integramos en el servicio sin coste adicional."},
-    {"q": "¿Puedo hacer el mantenimiento preventivo dos veces al año?", "a": "Es muy recomendable en zonas aisladas como Castellfollit. Una revisión semestral permite anticipar problemas antes de que dejen el vehículo fuera de servicio."},
-    {"q": "¿Revisáis los bajos del BMW?", "a": "Sí. La inspección de bajos es parte de nuestro protocolo estándar para vehículos de zonas rurales: cárter, conductos de freno, escape y protecciones."},
-    {"q": "¿Qué hago si mi BMW no arranca en Castellfollit?", "a": "Llámanos. Podemos enviarte asistencia para arrancarlo o gestionar su traslado al taller con grúa. Además, te recomendamos una revisión de batería y sistema de arranque para prevenir futuras incidencias."},
-    {"q": "¿Cuánto tarda en volver mi BMW tras la reparación?", "a": "Dependiendo de la intervención, entre 1 y 3 días hábiles. Te mantenemos informado del progreso en todo momento."}
+    {
+      "q": "¿Es posible llevar un BMW a reparar desde Castellfollit de Riubregós?",
+      "a": "Sí. Ofrecemos servicio de recogida a domicilio en Castellfollit y todo el norte de la Anoia. No necesitas desplazarte."
+    },
+    {
+      "q": "¿Cuánto cuesta la recogida y entrega del vehículo?",
+      "a": "Contacta con nosotros para un presupuesto que incluya la logística de recogida y entrega. En muchos casos lo integramos en el servicio sin coste adicional."
+    },
+    {
+      "q": "¿Puedo hacer el mantenimiento preventivo dos veces al año?",
+      "a": "Es muy recomendable en zonas aisladas como Castellfollit. Una revisión semestral permite anticipar problemas antes de que dejen el vehículo fuera de servicio."
+    },
+    {
+      "q": "¿Revisáis los bajos del BMW?",
+      "a": "Sí. La inspección de bajos es parte de nuestro protocolo estándar para vehículos de zonas rurales: cárter, conductos de freno, escape y protecciones."
+    },
+    {
+      "q": "¿Qué hago si mi BMW no arranca en Castellfollit?",
+      "a": "Llámanos. Podemos enviarte asistencia para arrancarlo o gestionar su traslado al taller con grúa. Además, te recomendamos una revisión de batería y sistema de arranque para prevenir futuras incidencias."
+    },
+    {
+      "q": "¿Cuánto tarda en volver mi BMW tras la reparación?",
+      "a": "Dependiendo de la intervención, entre 1 y 3 días hábiles. Te mantenemos informado del progreso en todo momento."
+    }
   ],
   "closingHeadline": "Tu BMW cuidado, incluso en el rincón más remoto de la Anoia",
   "closingCta": "Contacta hoy y olvídate de las distancias. Recogemos, reparamos y entregamos tu BMW en Castellfollit de Riubregós.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

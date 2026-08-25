@@ -10,55 +10,175 @@
   "metaDescription": "Servicio técnico BMW en Montmajor, sur del Berguedà. Especialistas en vehículos de uso agrícola y rural. Diagnóstico avanzado, mantenimiento integral y reparación.",
   "heroSubtitle": "Tu BMW trabaja duro en el campo del Berguedà. Nosotros lo cuidamos con la precisión que merece. Diagnóstico profesional cerca de ti.",
   "trustChips": [
-    {"icon": "🔧", "text": "Diagnóstico BMW profesional"},
-    {"icon": "🌾", "text": "Expertos en uso rural"},
-    {"icon": "⚙️", "text": "Recambios originales"},
-    {"icon": "📍", "text": "Cobertura sur Berguedà"},
-    {"icon": "🛡️", "text": "Garantía por escrito"}
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW profesional"
+    },
+    {
+      "icon": "🌾",
+      "text": "Expertos en uso rural"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Recambios originales"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura sur Berguedà"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía por escrito"
+    }
   ],
   "introLocal": "Montmajor ocupa una posición singular en el mapa del Berguedà: es la puerta sur de la comarca, un municipio de altiplano que mira tanto hacia las cumbres del Prepirineo como hacia las llanuras cerealistas del Solsonès. Sus 473 habitantes viven repartidos entre el núcleo principal y una constelación de masías diseminadas por un paisaje de campos de cereal, bosques de encina y caminos rurales que exigen mucho de cualquier vehículo. Para quienes conducen un BMW por estas tierras, contar con un servicio técnico que entienda las particularidades de este entorno no es un lujo, sino una necesidad.\n\nLos BMW que circulan por Montmajor tienen un perfil de uso muy distinto al de los que ruedan por el Eixample barcelonés. Aquí, un X3 o un X5 no es un capricho urbano: es la herramienta de trabajo que conecta la masía con el pueblo, que arrastra remolques con fardos de paja por pistas sin asfaltar, que soporta el polvo del verano y el barro de las lluvias de otoño. Los trayectos cortos y frecuentes entre fincas castigan especialmente los sistemas de inyección diésel y los filtros de partículas, que no alcanzan la temperatura óptima de regeneración. Los caminos de tierra aceleran el desgaste de silentblocks, rótulas y amortiguadores. El polvo fino del cereal trillado se cuela en los filtros de aire y reduce el rendimiento del motor. Conocemos estos problemas porque los vemos cada semana.\n\nLa situación geográfica de Montmajor, en el límite entre el Berguedà y el Solsonès, hace que sus vecinos a menudo se encuentren lejos de cualquier concesionario oficial. La ciudad más cercana con servicio BMW de marca es Manresa, a más de cuarenta kilómetros por una carretera comarcal sinuosa. Eso supone casi una hora de viaje solo de ida, más el tiempo de espera en el taller, más el regreso: medio día perdido para una simple revisión. Nuestro compromiso es eliminar esa barrera. Ofrecemos diagnóstico con equipo homologado ISTA, programación de módulos y mantenimiento integral sin que tengas que cruzar media provincia.\n\nEl clima de la meseta de Montmajor añade sus propios desafíos. Los inviernos son secos y fríos, con heladas frecuentes de noviembre a marzo que ponen a prueba las baterías AGM de los BMW modernos. Un BMW 320d aparcado a la intemperie junto a la era de una masía puede perder hasta un treinta por ciento de capacidad de arranque en una noche de menos diez grados. Los calentadores diésel trabajan al límite y, cuando fallan, el motor protesta con arranques difíciles, humo blanco y un ralentí inestable. Nuestro protocolo de preparación invernal incluye test de batería bajo carga real, verificación de calentadores con pinza amperimétrica y revisión del circuito de AdBlue para evitar la cristalización del aditivo en el depósito.\n\nPero no todo es mantenimiento preventivo. Montmajor también es punto de paso para quienes suben hacia Berga por la C-26 o se desvían hacia Sant Llorenç de Morunys. El tráfico de fin de semana, con excursionistas y segundas residencias, incrementa la demanda de asistencia rápida. Un pinchazo en el camino de la Rasa, un testigo de avería encendido antes de llegar a la gasolinera de Capolat, un ruido sospechoso en la dirección después de pasar el desvío de Serrateix: son situaciones que conocemos y resolvemos con agilidad. Si conduces un BMW en Montmajor o en cualquier pueblo del sur del Berguedà, tienes un taller especialista más cerca de lo que crees.",
   "servicesIntro": "Ofrecemos la gama completa de servicios para BMW en Montmajor y el sur del Berguedà: desde revisiones de mantenimiento con aceite homologado BMW LL-04 hasta reparaciones complejas de motor, caja de cambios automática y sistemas electrónicos. Trabajamos con equipos de diagnóstico de última generación compatibles con todos los modelos BMW, desde la Serie 1 hasta el X7, incluyendo híbridos y eléctricos.",
   "processIntro": "Nuestro proceso de trabajo está diseñado para que pierdas el menor tiempo posible. Sabemos que en el campo cada hora cuenta, por eso organizamos las reparaciones con eficiencia y transparencia.",
   "processSteps": [
-    {"title": "Contacto y cita previa", "body": "Llámanos o escríbenos por WhatsApp. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad. Si tu BMW no arranca, organizamos la recogida."},
-    {"title": "Diagnóstico con equipo BMW", "body": "Conectamos tu vehículo al sistema de diagnóstico ISTA para leer todos los módulos electrónicos. Te explicamos cada avería detectada, sin tecnicismos innecesarios, y te entregamos un presupuesto detallado."},
-    {"title": "Aprobación y reparación", "body": "Solo trabajamos con tu autorización expresa. Utilizamos recambios originales o equivalentes de primera calidad. Te informamos si surge cualquier imprevisto durante la reparación."},
-    {"title": "Control de calidad y entrega", "body": "Antes de devolverte el coche, realizamos una prueba de carretera y un borrado final de errores. Te explicamos el trabajo realizado y las recomendaciones para el próximo mantenimiento."}
+    {
+      "title": "Contacto y cita previa",
+      "body": "Llámanos o escríbenos por WhatsApp. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad. Si tu BMW no arranca, organizamos la recogida."
+    },
+    {
+      "title": "Diagnóstico con equipo BMW",
+      "body": "Conectamos tu vehículo al sistema de diagnóstico ISTA para leer todos los módulos electrónicos. Te explicamos cada avería detectada, sin tecnicismos innecesarios, y te entregamos un presupuesto detallado."
+    },
+    {
+      "title": "Aprobación y reparación",
+      "body": "Solo trabajamos con tu autorización expresa. Utilizamos recambios originales o equivalentes de primera calidad. Te informamos si surge cualquier imprevisto durante la reparación."
+    },
+    {
+      "title": "Control de calidad y entrega",
+      "body": "Antes de devolverte el coche, realizamos una prueba de carretera y un borrado final de errores. Te explicamos el trabajo realizado y las recomendaciones para el próximo mantenimiento."
+    }
   ],
   "commonIssuesIntro": "Los BMW que trabajan en el entorno rural de Montmajor presentan averías características relacionadas con los caminos sin asfaltar, los trayectos cortos y el clima extremo del altiplano. Estos son los problemas que diagnosticamos con mayor frecuencia.",
   "commonIssues": [
-    {"title": "Filtro de partículas DPF saturado por trayectos cortos", "body": "Los desplazamientos entre masías y el pueblo, de apenas cinco o diez kilómetros, impiden que el FAP alcance la temperatura de regeneración. El resultado es un filtro obstruido que activa el testigo de avería y limita la potencia del motor. Realizamos regeneraciones forzadas con equipo profesional y, cuando es necesario, limpieza química del filtro."},
-    {"title": "Desgaste prematuro de suspensión por caminos rurales", "body": "Las pistas de tierra, los baches y los pasos de ganado castigan amortiguadores, muelles, silentblocks y rótulas mucho antes de lo que marca el plan de mantenimiento estándar. Revisamos todo el tren de rodaje y sustituimos los componentes desgastados para devolver el confort y la seguridad a tu BMW."},
-    {"title": "Batería descargada por frío extremo y paradas prolongadas", "body": "En las masías aisladas de Montmajor, un BMW puede pasar varios días sin moverse en pleno invierno. La combinación de frío intenso y consumos parásitos agota la batería AGM. Realizamos test de capacidad bajo carga y sustituimos la batería con registro correcto en el sistema inteligente de gestión energética IBS."},
-    {"title": "Filtro de aire obstruido por polvo agrícola", "body": "La siega del cereal, el laboreo de los campos y el tránsito por caminos de tierra generan una cantidad de polvo que el filtro de aire estándar no siempre soporta durante todo el intervalo de mantenimiento. Un filtro colmatado reduce potencia, aumenta el consumo y puede dañar el turbo. Revisamos y sustituimos el filtro con la frecuencia que exige el uso real del vehículo."},
-    {"title": "Calentadores diésel averiados", "body": "Las heladas del altiplano, que pueden bajar de menos ocho grados con facilidad, exigen calentadores en perfecto estado para un arranque limpio. Un calentador fundido provoca humo blanco, arranques prolongados y ralentí irregular. Los sustituimos individualmente, verificando cada uno con pinza amperimétrica antes de montar."}
+    {
+      "title": "Filtro de partículas DPF saturado por trayectos cortos",
+      "body": "Los desplazamientos entre masías y el pueblo, de apenas cinco o diez kilómetros, impiden que el FAP alcance la temperatura de regeneración. El resultado es un filtro obstruido que activa el testigo de avería y limita la potencia del motor. Realizamos regeneraciones forzadas con equipo profesional y, cuando es necesario, limpieza química del filtro."
+    },
+    {
+      "title": "Desgaste prematuro de suspensión por caminos rurales",
+      "body": "Las pistas de tierra, los baches y los pasos de ganado castigan amortiguadores, muelles, silentblocks y rótulas mucho antes de lo que marca el plan de mantenimiento estándar. Revisamos todo el tren de rodaje y sustituimos los componentes desgastados para devolver el confort y la seguridad a tu BMW."
+    },
+    {
+      "title": "Batería descargada por frío extremo y paradas prolongadas",
+      "body": "En las masías aisladas de Montmajor, un BMW puede pasar varios días sin moverse en pleno invierno. La combinación de frío intenso y consumos parásitos agota la batería AGM. Realizamos test de capacidad bajo carga y sustituimos la batería con registro correcto en el sistema inteligente de gestión energética IBS."
+    },
+    {
+      "title": "Filtro de aire obstruido por polvo agrícola",
+      "body": "La siega del cereal, el laboreo de los campos y el tránsito por caminos de tierra generan una cantidad de polvo que el filtro de aire estándar no siempre soporta durante todo el intervalo de mantenimiento. Un filtro colmatado reduce potencia, aumenta el consumo y puede dañar el turbo. Revisamos y sustituimos el filtro con la frecuencia que exige el uso real del vehículo."
+    },
+    {
+      "title": "Calentadores diésel averiados",
+      "body": "Las heladas del altiplano, que pueden bajar de menos ocho grados con facilidad, exigen calentadores en perfecto estado para un arranque limpio. Un calentador fundido provoca humo blanco, arranques prolongados y ralentí irregular. Los sustituimos individualmente, verificando cada uno con pinza amperimétrica antes de montar."
+    }
   ],
   "whyUs": [
-    {"title": "Conocemos el terreno que pisa tu BMW", "body": "No somos un taller genérico de ciudad que aplica protocolos estándar. Sabemos cómo afectan los caminos de tierra, el polvo de cereal y las heladas del altiplano a cada componente de tu BMW. Nuestras recomendaciones de mantenimiento se adaptan a la realidad de Montmajor."},
-    {"title": "Diagnóstico de nivel concesionario", "body": "Trabajamos con ISTA, el mismo sistema de diagnóstico que utilizan los concesionarios oficiales BMW. Podemos leer y programar todos los módulos electrónicos, actualizar software y codificar nuevos componentes sin que tengas que ir a Manresa o Barcelona."},
-    {"title": "Ahorro de tiempo real", "body": "Un viaje al concesionario más cercano te cuesta medio día. Con nosotros, tu BMW está atendido sin salir de la comarca. Ofrecemos cita rápida y, para reparaciones programadas, servicio de recogida y entrega."},
-    {"title": "Presupuesto cerrado y sin sorpresas", "body": "Antes de tocar una sola pieza, te presentamos un presupuesto detallado con el coste de mano de obra y recambios. Si durante la reparación aparece algo imprevisto, te llamamos para consultarte. Nunca encontrarás un cargo que no hayas aprobado."},
-    {"title": "Garantía por escrito en cada reparación", "body": "Todas nuestras intervenciones incluyen garantía documentada sobre mano de obra y recambios. Trabajamos con piezas originales BMW o equivalentes de fabricantes de primer equipo como Bosch, Sachs o Mann Filter."}
+    {
+      "title": "Conocemos el terreno que pisa tu BMW",
+      "body": "No somos un taller genérico de ciudad que aplica protocolos estándar. Sabemos cómo afectan los caminos de tierra, el polvo de cereal y las heladas del altiplano a cada componente de tu BMW. Nuestras recomendaciones de mantenimiento se adaptan a la realidad de Montmajor."
+    },
+    {
+      "title": "Diagnóstico de nivel concesionario",
+      "body": "Trabajamos con ISTA, el mismo sistema de diagnóstico que utilizan los concesionarios oficiales BMW. Podemos leer y programar todos los módulos electrónicos, actualizar software y codificar nuevos componentes sin que tengas que ir a Manresa o Barcelona."
+    },
+    {
+      "title": "Ahorro de tiempo real",
+      "body": "Un viaje al concesionario más cercano te cuesta medio día. Con nosotros, tu BMW está atendido sin salir de la comarca. Ofrecemos cita rápida y, para reparaciones programadas, servicio de recogida y entrega."
+    },
+    {
+      "title": "Presupuesto cerrado y sin sorpresas",
+      "body": "Antes de tocar una sola pieza, te presentamos un presupuesto detallado con el coste de mano de obra y recambios. Si durante la reparación aparece algo imprevisto, te llamamos para consultarte. Nunca encontrarás un cargo que no hayas aprobado."
+    },
+    {
+      "title": "Garantía por escrito en cada reparación",
+      "body": "Todas nuestras intervenciones incluyen garantía documentada sobre mano de obra y recambios. Trabajamos con piezas originales BMW o equivalentes de fabricantes de primer equipo como Bosch, Sachs o Mann Filter."
+    }
   ],
   "testimonialsIntro": "Los propietarios de BMW en Montmajor y los municipios vecinos confían en nuestro servicio. Estas son algunas de sus experiencias reales.",
   "testimonials": [
-    {"name": "Josep Solà", "neighborhood": "Capolat", "car": "BMW X3 xDrive20d", "body": "Tengo una masía entre Capolat y Montmajor y el X3 es mi vehículo de diario. Se me saturó el filtro de partículas de tanto ir y venir por caminos cortos. Me lo regeneraron en una mañana y me explicaron cómo evitar que vuelva a pasar. Un servicio impecable sin tener que bajar a Manresa.", "rating": 5},
-    {"name": "Marta Casals", "neighborhood": "Montmajor", "car": "BMW 520d Touring", "body": "Llevaba semanas con un ruido en la suspensión delantera que me ponía nerviosa cada vez que cogía el camino de la finca. Resultó ser un silentblock partido. Me lo cambiaron el mismo día y el coche volvió a rodar como nuevo. Muy profesionales y cercanos.", "rating": 5},
-    {"name": "Francesc Ribera", "neighborhood": "Serrateix", "car": "BMW 318d", "body": "Una mañana de enero el coche no arrancó. Batería muerta por el frío. Vinieron a buscarlo, me pusieron una batería nueva registrada correctamente en el sistema del coche y me lo devolvieron a casa. Precio justo y sin complicaciones.", "rating": 5},
-    {"name": "Núria Pujol", "neighborhood": "L'Espunyola", "car": "BMW X1 sDrive18d", "body": "Uso el X1 para ir de L'Espunyola a Berga cada día a trabajar y los fines de semana por los caminos de la zona. Me hacen las revisiones completas con aceite BMW y filtros de calidad. Siempre me avisan de lo que conviene vigilar antes de que se convierta en avería. Muy recomendables.", "rating": 5}
+    {
+      "name": "Josep Solà",
+      "neighborhood": "Capolat",
+      "car": "BMW X3 xDrive20d",
+      "body": "Tengo una masía entre Capolat y Montmajor y el X3 es mi vehículo de diario. Se me saturó el filtro de partículas de tanto ir y venir por caminos cortos. Me lo regeneraron en una mañana y me explicaron cómo evitar que vuelva a pasar. Un servicio impecable sin tener que bajar a Manresa.",
+      "rating": 5
+    },
+    {
+      "name": "Marta Casals",
+      "neighborhood": "Montmajor",
+      "car": "BMW 520d Touring",
+      "body": "Llevaba semanas con un ruido en la suspensión delantera que me ponía nerviosa cada vez que cogía el camino de la finca. Resultó ser un silentblock partido. Me lo cambiaron el mismo día y el coche volvió a rodar como nuevo. Muy profesionales y cercanos.",
+      "rating": 5
+    },
+    {
+      "name": "Francesc Ribera",
+      "neighborhood": "Serrateix",
+      "car": "BMW 318d",
+      "body": "Una mañana de enero el coche no arrancó. Batería muerta por el frío. Vinieron a buscarlo, me pusieron una batería nueva registrada correctamente en el sistema del coche y me lo devolvieron a casa. Precio justo y sin complicaciones.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Pujol",
+      "neighborhood": "L'Espunyola",
+      "car": "BMW X1 sDrive18d",
+      "body": "Uso el X1 para ir de L'Espunyola a Berga cada día a trabajar y los fines de semana por los caminos de la zona. Me hacen las revisiones completas con aceite BMW y filtros de calidad. Siempre me avisan de lo que conviene vigilar antes de que se convierta en avería. Muy recomendables.",
+      "rating": 5
+    }
   ],
   "zoneText": "Desde Montmajor damos cobertura a todo el sur del Berguedà y la franja limítrofe con el Solsonès. Si vives en cualquiera de estos municipios, tu BMW tiene servicio especialista a pocos minutos.",
-  "zoneNeighborhoods": ["Capolat", "Serrateix", "L'Espunyola", "Viver i Serrateix", "Navàs", "Cardona", "Sant Llorenç de Morunys", "Casserres"],
-  "zoneAccessRoutes": ["C-26", "BV-4241", "L-401", "C-16"],
+  "zoneNeighborhoods": [
+    "Capolat",
+    "Serrateix",
+    "L'Espunyola",
+    "Viver i Serrateix",
+    "Navàs",
+    "Cardona",
+    "Sant Llorenç de Morunys",
+    "Casserres"
+  ],
+  "zoneAccessRoutes": [
+    "C-26",
+    "BV-4241",
+    "L-401",
+    "C-16"
+  ],
   "faqLocal": [
-    {"q": "¿Hay taller BMW cerca de Montmajor o tengo que ir a Manresa?", "a": "No necesitas bajar a Manresa. Ofrecemos servicio técnico especializado en BMW con cobertura en Montmajor y todo el sur del Berguedà. Diagnóstico con equipo oficial, recambios de calidad y garantía en cada reparación."},
-    {"q": "¿Pueden recoger mi BMW en la masía si no arranca?", "a": "Sí. Disponemos de servicio de recogida en Montmajor, Capolat, Serrateix, L'Espunyola y municipios cercanos. Llámanos o escríbenos por WhatsApp y organizamos el traslado del vehículo."},
-    {"q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos de tierra?", "a": "En condiciones de uso rural intenso, recomendamos una inspección visual de amortiguadores, silentblocks y rótulas cada 15.000 kilómetros o una vez al año, lo que ocurra antes. Los caminos sin asfaltar del Berguedà aceleran el desgaste significativamente respecto a la conducción en asfalto."},
-    {"q": "¿El filtro de partículas de mi BMW se puede limpiar o hay que cambiarlo?", "a": "En la mayoría de los casos, una regeneración forzada con equipo profesional o una limpieza química es suficiente para recuperar el filtro. Solo recomendamos la sustitución cuando el sustrato cerámico está dañado o la obstrucción es irreversible. Siempre te informamos de ambas opciones con su coste."},
-    {"q": "¿Qué aceite usáis para los BMW diésel?", "a": "Utilizamos exclusivamente aceites con homologación BMW Longlife-04 (LL-04), que es la especificación requerida por la mayoría de los motores diésel BMW con filtro de partículas. El aceite correcto es fundamental para la durabilidad del motor y del FAP."},
-    {"q": "¿Preparáis el BMW para el invierno del Berguedà?", "a": "Sí. Nuestro servicio de preparación invernal incluye test de batería bajo carga, verificación de calentadores diésel, comprobación del nivel y estado del AdBlue, revisión del sistema de climatización y control del anticongelante del circuito de refrigeración. Recomendamos hacerlo antes de noviembre."}
+    {
+      "q": "¿Hay taller BMW cerca de Montmajor o tengo que ir a Manresa?",
+      "a": "No necesitas bajar a Manresa. Ofrecemos servicio técnico especializado en BMW con cobertura en Montmajor y todo el sur del Berguedà. Diagnóstico con equipo oficial, recambios de calidad y garantía en cada reparación."
+    },
+    {
+      "q": "¿Pueden recoger mi BMW en la masía si no arranca?",
+      "a": "Sí. Disponemos de servicio de recogida en Montmajor, Capolat, Serrateix, L'Espunyola y municipios cercanos. Llámanos o escríbenos por WhatsApp y organizamos el traslado del vehículo."
+    },
+    {
+      "q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos de tierra?",
+      "a": "En condiciones de uso rural intenso, recomendamos una inspección visual de amortiguadores, silentblocks y rótulas cada 15.000 kilómetros o una vez al año, lo que ocurra antes. Los caminos sin asfaltar del Berguedà aceleran el desgaste significativamente respecto a la conducción en asfalto."
+    },
+    {
+      "q": "¿El filtro de partículas de mi BMW se puede limpiar o hay que cambiarlo?",
+      "a": "En la mayoría de los casos, una regeneración forzada con equipo profesional o una limpieza química es suficiente para recuperar el filtro. Solo recomendamos la sustitución cuando el sustrato cerámico está dañado o la obstrucción es irreversible. Siempre te informamos de ambas opciones con su coste."
+    },
+    {
+      "q": "¿Qué aceite usáis para los BMW diésel?",
+      "a": "Utilizamos exclusivamente aceites con homologación BMW Longlife-04 (LL-04), que es la especificación requerida por la mayoría de los motores diésel BMW con filtro de partículas. El aceite correcto es fundamental para la durabilidad del motor y del FAP."
+    },
+    {
+      "q": "¿Preparáis el BMW para el invierno del Berguedà?",
+      "a": "Sí. Nuestro servicio de preparación invernal incluye test de batería bajo carga, verificación de calentadores diésel, comprobación del nivel y estado del AdBlue, revisión del sistema de climatización y control del anticongelante del circuito de refrigeración. Recomendamos hacerlo antes de noviembre."
+    }
   ],
   "closingHeadline": "Tu BMW merece un taller que conozca Montmajor",
   "closingCta": "Llámanos o escríbenos por WhatsApp y danos los datos de tu BMW. Te daremos cita rápida y un presupuesto sin compromiso, sin que tengas que salir de la comarca.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

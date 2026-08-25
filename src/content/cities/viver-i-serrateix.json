@@ -10,43 +10,127 @@
   "metaDescription": "Taller BMW de confianza cerca de Viver i Serrateix. Mantenimiento preventivo, reparación de motor y electrónica. Recogida incluida. Pide cita hoy.",
   "heroSubtitle": "En la puerta sur del Berguedà, donde la comarca se funde con la Catalunya central, tu BMW merece atención profesional sin ir lejos.",
   "trustChips": [
-    {"icon": "⚙️", "text": "Mecánica BMW avanzada"},
-    {"icon": "🖥️", "text": "Electrónica y centralitas"},
-    {"icon": "🛡️", "text": "Garantía en cada reparación"},
-    {"icon": "🗓️", "text": "Cita en 24-48h"},
-    {"icon": "📍", "text": "Cobertura Berguedà sur"}
+    {
+      "icon": "⚙️",
+      "text": "Mecánica BMW avanzada"
+    },
+    {
+      "icon": "🖥️",
+      "text": "Electrónica y centralitas"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía en cada reparación"
+    },
+    {
+      "icon": "🗓️",
+      "text": "Cita en 24-48h"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura Berguedà sur"
+    }
   ],
   "servicesIntro": "Realizamos todo tipo de intervenciones sobre vehículos BMW, desde revisiones de mantenimiento programado hasta reparaciones complejas de motor, caja de cambios, electrónica y sistemas de asistencia a la conducción. Nuestro equipamiento incluye herramientas de diagnóstico compatibles con la totalidad de centralitas BMW, lo que nos permite abordar desde un simple cambio de aceite hasta la reprogramación de un módulo de confort o la calibración de sensores ADAS.",
   "processIntro": "Trabajamos con un método ordenado que prioriza la información al cliente en cada fase. Cada BMW que entra en nuestro taller sigue un protocolo que garantiza trazabilidad y calidad desde la recepción hasta la entrega final.",
   "processSteps": [
-    {"title": "Solicitud de cita", "body": "Contacta con nosotros por teléfono, WhatsApp o correo electrónico. Te asignamos cita en un plazo de 24 a 48 horas y, si lo necesitas, organizamos la recogida del vehículo en Viver, Serrateix o cualquier pueblo cercano."},
-    {"title": "Recepción e inspección inicial", "body": "Al recibir el BMW, realizamos una inspección visual de 30 puntos y conectamos el equipo de diagnóstico para extraer todos los códigos de avería almacenados, incluso los ya borrados. Documentamos el estado del vehículo con fotografías."},
-    {"title": "Diagnóstico detallado y presupuesto", "body": "Cruzamos los datos electrónicos con la inspección física para elaborar un diagnóstico preciso. Te enviamos un presupuesto desglosado con explicación clara de cada partida. No empezamos sin tu aprobación."},
-    {"title": "Ejecución y verificación", "body": "Realizamos los trabajos con piezas de calidad OE y verificamos cada reparación con pruebas funcionales y lectura de parámetros en tiempo real. Si durante el proceso detectamos algo adicional, te informamos antes de intervenir."},
-    {"title": "Entrega documentada", "body": "Recibes el vehículo con un informe completo de lo realizado, las piezas sustituidas y un plan de mantenimiento personalizado basado en tu kilometraje y tipo de uso."}
+    {
+      "title": "Solicitud de cita",
+      "body": "Contacta con nosotros por teléfono, WhatsApp o correo electrónico. Te asignamos cita en un plazo de 24 a 48 horas y, si lo necesitas, organizamos la recogida del vehículo en Viver, Serrateix o cualquier pueblo cercano."
+    },
+    {
+      "title": "Recepción e inspección inicial",
+      "body": "Al recibir el BMW, realizamos una inspección visual de 30 puntos y conectamos el equipo de diagnóstico para extraer todos los códigos de avería almacenados, incluso los ya borrados. Documentamos el estado del vehículo con fotografías."
+    },
+    {
+      "title": "Diagnóstico detallado y presupuesto",
+      "body": "Cruzamos los datos electrónicos con la inspección física para elaborar un diagnóstico preciso. Te enviamos un presupuesto desglosado con explicación clara de cada partida. No empezamos sin tu aprobación."
+    },
+    {
+      "title": "Ejecución y verificación",
+      "body": "Realizamos los trabajos con piezas de calidad OE y verificamos cada reparación con pruebas funcionales y lectura de parámetros en tiempo real. Si durante el proceso detectamos algo adicional, te informamos antes de intervenir."
+    },
+    {
+      "title": "Entrega documentada",
+      "body": "Recibes el vehículo con un informe completo de lo realizado, las piezas sustituidas y un plan de mantenimiento personalizado basado en tu kilometraje y tipo de uso."
+    }
   ],
   "introLocal": "Viver i Serrateix marca el límite meridional de la comarca del Berguedà, ese punto donde las montañas prepirenaicas empiezan a ceder y el paisaje se abre hacia las llanuras onduladas de la Catalunya central. Es un municipio de 178 habitantes repartidos entre el núcleo de Viver, el de Serrateix —con su monasterio benedictino de Sant Pere, fundado en el siglo X— y un puñado de masías dispersas por valles silenciosos. Aquí la vida transcurre a un ritmo distinto, pero las exigencias mecánicas de un BMW son exactamente las mismas que en cualquier otra parte. O más.\n\nLa situación geográfica de Viver i Serrateix convierte cada desplazamiento cotidiano en un recorrido que combina tramos de carretera comarcal, subidas y bajadas moderadas y algún kilómetro de camino secundario para llegar a la finca. El eje habitual de comunicación pasa por Navàs hacia el sur o por Puig-reig y Gironella hacia el norte, conectando con la C-16 para cualquier gestión que requiera salir de la comarca. Un BMW que hace este trayecto a diario acumula ciclos de calentamiento y enfriamiento del motor más exigentes que los de un uso puramente urbano o de autovía, lo que repercute en la vida útil de componentes como el termostato, la bomba de agua —especialmente las bombas eléctricas de los motores N20 y B48— y las juntas de la culata.\n\nEl entorno de Serrateix, con sus caminos que serpentean entre campos de cereal y bosques de pino, ofrece un paisaje magnífico pero un firme que no perdona. Las raíces de los árboles levantan el asfalto en algunos tramos, los drenajes transversales crean resaltos bruscos y las cunetas se comen el arcén en las curvas más cerradas. Para un BMW con perfil de neumático bajo —algo habitual en los acabados M Sport—, esto significa riesgo de daño en llanta, pinchazos y desalineaciones que provocan desgaste irregular y vibraciones a velocidad de autovía. Nosotros revisamos geometría, presión y estado de los neumáticos con criterios adaptados a este tipo de vías, no con los estándares de conducción en asfalto perfecto.\n\nViver i Serrateix comparte con el resto del Berguedà sur un clima continental con inviernos fríos y veranos calurosos, pero su menor altitud respecto al norte de la comarca —unos 550 metros— modera ligeramente las temperaturas mínimas. Aun así, las noches bajo cero son frecuentes de diciembre a febrero, lo suficiente para poner a prueba el circuito de refrigeración, el sistema de calefacción y la viscosidad del aceite en los primeros minutos de funcionamiento. Los propietarios de BMW diésel deben prestar especial atención al sistema de precalentamiento: una sola bujía incandescente defectuosa puede pasar desapercibida en verano pero provocar un arranque difícil y un ralentí inestable con humo blanco cuando el termómetro baja de los 2 °C.\n\nLa cercanía a Navàs y Manresa —núcleos con más servicios pero que implican al menos 20 o 30 minutos de desplazamiento— hace que muchos vecinos de Viver i Serrateix pospongan el mantenimiento de su vehículo por la incomodidad logística de llevarlo al taller. Esa demora convierte revisiones sencillas en reparaciones costosas. Un manguito de refrigeración agrietado que se podría haber sustituido por 80 euros acaba reventando en carretera y provocando un sobrecalentamiento que daña la culata. Una pastilla de freno al límite que se podría haber cambiado en una hora acaba rayando el disco y triplicando la factura. Nuestro servicio de recogida a domicilio elimina la excusa del desplazamiento: te llamamos, coordinamos, recogemos el coche y te lo devolvemos reparado.\n\nEl monasterio de Sant Pere de Serrateix lleva más de mil años en pie porque alguien se ocupó de mantenerlo siglo tras siglo. Tu BMW no necesita durar un milenio, pero sí merece un mantenimiento constante y adaptado a las particularidades de la zona donde circula. Esa es exactamente nuestra especialidad: cuidar los BMW del Berguedà con el rigor y la cercanía que un concesionario de ciudad no puede ofrecer.",
   "commonIssuesIntro": "Los BMW que circulan habitualmente por Viver i Serrateix y las carreteras del Berguedà sur presentan averías con un patrón propio, derivado de las condiciones climáticas y del tipo de carreteras de la zona. Estas son las cinco incidencias que resolvemos con mayor regularidad.",
   "commonIssues": [
-    {"title": "Fallos en la bomba de agua eléctrica", "body": "Los motores BMW de cuatro cilindros turbo (N20, B48) montan una bomba de agua accionada eléctricamente que es un punto débil conocido. Los ciclos térmicos frecuentes de la conducción comarcal —arrancar en frío, subir temperatura, parar, volver a arrancar— aceleran el desgaste del impulsor interno. Un fallo súbito puede causar sobrecalentamiento grave en minutos. Sustituimos la bomba preventivamente si detectamos pérdida de caudal o ruido anómalo."},
-    {"title": "Daños en llantas y neumáticos por firme irregular", "body": "Los resaltos, raíces y baches de las carreteras secundarias alrededor de Serrateix provocan impactos que deforman llantas de aleación y causan pinchazos laterales, especialmente en neumáticos de perfil bajo. Inspeccionamos llantas con detector de fisuras y montamos neumáticos con flanco reforzado cuando el cliente lo solicita."},
-    {"title": "Termostato bloqueado en posición abierta", "body": "Los ciclos continuos de calentamiento y enfriamiento debilitan el elemento de cera del termostato. Cuando se bloquea abierto, el motor tarda demasiado en alcanzar la temperatura de servicio: la calefacción funciona mal, el consumo sube y el filtro de partículas no regenera bien. Lo diagnosticamos midiendo la temperatura real del refrigerante frente a la lectura de la centralita."},
-    {"title": "Ralentí inestable y humo blanco en arranque invernal", "body": "Una o varias bujías de precalentamiento degradadas provocan una combustión incompleta al arrancar en frío. El motor tiembla durante los primeros segundos y emite humo blanco o gris azulado. Medimos la resistencia individual de cada bujía y sustituimos el juego completo si alguna está fuera de tolerancia, ya que suelen degradarse de forma simultánea."},
-    {"title": "Pérdida de refrigerante por manguito agrietado", "body": "Los manguitos de goma del circuito de refrigeración se endurecen y agrietan tras años de exposición a los extremos térmicos del Berguedà. Una microfuga puede pasar meses sin ser detectada, bajando el nivel de refrigerante gradualmente hasta que el motor se sobrecalienta. En cada revisión inspeccionamos visualmente todos los manguitos y realizamos una prueba de presión del circuito."}
+    {
+      "title": "Fallos en la bomba de agua eléctrica",
+      "body": "Los motores BMW de cuatro cilindros turbo (N20, B48) montan una bomba de agua accionada eléctricamente que es un punto débil conocido. Los ciclos térmicos frecuentes de la conducción comarcal —arrancar en frío, subir temperatura, parar, volver a arrancar— aceleran el desgaste del impulsor interno. Un fallo súbito puede causar sobrecalentamiento grave en minutos. Sustituimos la bomba preventivamente si detectamos pérdida de caudal o ruido anómalo."
+    },
+    {
+      "title": "Daños en llantas y neumáticos por firme irregular",
+      "body": "Los resaltos, raíces y baches de las carreteras secundarias alrededor de Serrateix provocan impactos que deforman llantas de aleación y causan pinchazos laterales, especialmente en neumáticos de perfil bajo. Inspeccionamos llantas con detector de fisuras y montamos neumáticos con flanco reforzado cuando el cliente lo solicita."
+    },
+    {
+      "title": "Termostato bloqueado en posición abierta",
+      "body": "Los ciclos continuos de calentamiento y enfriamiento debilitan el elemento de cera del termostato. Cuando se bloquea abierto, el motor tarda demasiado en alcanzar la temperatura de servicio: la calefacción funciona mal, el consumo sube y el filtro de partículas no regenera bien. Lo diagnosticamos midiendo la temperatura real del refrigerante frente a la lectura de la centralita."
+    },
+    {
+      "title": "Ralentí inestable y humo blanco en arranque invernal",
+      "body": "Una o varias bujías de precalentamiento degradadas provocan una combustión incompleta al arrancar en frío. El motor tiembla durante los primeros segundos y emite humo blanco o gris azulado. Medimos la resistencia individual de cada bujía y sustituimos el juego completo si alguna está fuera de tolerancia, ya que suelen degradarse de forma simultánea."
+    },
+    {
+      "title": "Pérdida de refrigerante por manguito agrietado",
+      "body": "Los manguitos de goma del circuito de refrigeración se endurecen y agrietan tras años de exposición a los extremos térmicos del Berguedà. Una microfuga puede pasar meses sin ser detectada, bajando el nivel de refrigerante gradualmente hasta que el motor se sobrecalienta. En cada revisión inspeccionamos visualmente todos los manguitos y realizamos una prueba de presión del circuito."
+    }
   ],
   "whyUs": [
-    {"title": "Cercanía real al Berguedà sur", "body": "No somos un taller de Barcelona que dice cubrir toda Cataluña en un mapa. Trabajamos con los conductores de Viver i Serrateix, Navàs, Puig-reig y Gironella de forma habitual. Conocemos las carreteras, el clima y las necesidades reales de la zona."},
-    {"title": "Protocolo de inspección de 30 puntos", "body": "Cada BMW que entra en nuestro taller pasa una inspección estandarizada que cubre motor, transmisión, frenos, suspensión, dirección, circuito de refrigeración, sistema eléctrico y carrocería inferior. No nos limitamos a lo que el cliente nos dice: buscamos lo que aún no ha notado."},
-    {"title": "Diagnóstico electrónico completo", "body": "Nuestro equipo lee todas las centralitas del vehículo, no solo la de motor. Esto incluye centralita de caja de cambios, módulo DSC, centralita de confort, iDrive y sistemas ADAS. Muchos fallos intermitentes solo se diagnostican correctamente con acceso a todos los módulos."},
-    {"title": "Precios justos documentados", "body": "Publicamos tarifas orientativas de las operaciones más comunes y entregamos presupuesto cerrado antes de cada intervención. Si el precio final difiere del presupuestado, es a la baja: nunca cobramos más de lo acordado."},
-    {"title": "Mantenimiento preventivo estacional", "body": "Proponemos un plan de revisión adaptado al ciclo climático del Berguedà: preparación para invierno (batería, precalentamiento, AdBlue, anticongelante) y revisión de primavera (frenos, suspensión, alineación). Dos paradas al año que evitan muchas averías en carretera."}
+    {
+      "title": "Cercanía real al Berguedà sur",
+      "body": "No somos un taller de Barcelona que dice cubrir toda Cataluña en un mapa. Trabajamos con los conductores de Viver i Serrateix, Navàs, Puig-reig y Gironella de forma habitual. Conocemos las carreteras, el clima y las necesidades reales de la zona."
+    },
+    {
+      "title": "Protocolo de inspección de 30 puntos",
+      "body": "Cada BMW que entra en nuestro taller pasa una inspección estandarizada que cubre motor, transmisión, frenos, suspensión, dirección, circuito de refrigeración, sistema eléctrico y carrocería inferior. No nos limitamos a lo que el cliente nos dice: buscamos lo que aún no ha notado."
+    },
+    {
+      "title": "Diagnóstico electrónico completo",
+      "body": "Nuestro equipo lee todas las centralitas del vehículo, no solo la de motor. Esto incluye centralita de caja de cambios, módulo DSC, centralita de confort, iDrive y sistemas ADAS. Muchos fallos intermitentes solo se diagnostican correctamente con acceso a todos los módulos."
+    },
+    {
+      "title": "Precios justos documentados",
+      "body": "Publicamos tarifas orientativas de las operaciones más comunes y entregamos presupuesto cerrado antes de cada intervención. Si el precio final difiere del presupuestado, es a la baja: nunca cobramos más de lo acordado."
+    },
+    {
+      "title": "Mantenimiento preventivo estacional",
+      "body": "Proponemos un plan de revisión adaptado al ciclo climático del Berguedà: preparación para invierno (batería, precalentamiento, AdBlue, anticongelante) y revisión de primavera (frenos, suspensión, alineación). Dos paradas al año que evitan muchas averías en carretera."
+    }
   ],
   "testimonialsIntro": "Conductores de BMW que viven o trabajan cerca de Viver i Serrateix comparten su experiencia con nuestro taller. Casos reales, vehículos reales, resultados comprobables.",
   "testimonials": [
-    {"name": "Miquel Torras", "neighborhood": "Viver i Serrateix", "car": "BMW 330i", "body": "Se me encendió el testigo de temperatura volviendo de Navàs. Me paré y llamé al taller. Me dijeron que no siguiera conduciendo y organizaron la recogida en media hora. Era la bomba de agua eléctrica, que la cambiaron al día siguiente. Si hubiera seguido conduciendo, me habría cargado el motor. Agradecido de verdad.", "rating": 5},
-    {"name": "Laura Montserrat", "neighborhood": "Puig-reig", "car": "BMW X1 sDrive16d", "body": "Cada invierno el coche me costaba arrancar y echaba un humazo blanco los primeros minutos. Me dijeron que era normal por el frío. Aquí comprobaron las bujías de precalentamiento y dos estaban fundidas. Las cambiaron todas y este enero arranca al primer toque, incluso con escarcha.", "rating": 5},
-    {"name": "Enric Solà", "neighborhood": "Serrateix", "car": "BMW 520d Touring", "body": "Llevo tres años trayendo el 520d aquí y la diferencia con el concesionario es la atención personalizada. Me llaman cuando toca la revisión, me recogen el coche en casa y me explican todo sin prisa. El precio es razonable y el trabajo, impecable. No cambio de taller.", "rating": 5},
-    {"name": "Neus Clotet", "neighborhood": "Navàs", "car": "BMW X3 xDrive20d", "body": "Reventé una llanta en un bache cerca de Serrateix un domingo. El lunes a primera hora ya tenían el coche, y para el martes tenía llanta nueva y neumático montado. Además me revisaron la otra llanta del mismo eje porque podía tener una fisura interna. Eso es profesionalidad.", "rating": 5}
+    {
+      "name": "Miquel Torras",
+      "neighborhood": "Viver i Serrateix",
+      "car": "BMW 330i",
+      "body": "Se me encendió el testigo de temperatura volviendo de Navàs. Me paré y llamé al taller. Me dijeron que no siguiera conduciendo y organizaron la recogida en media hora. Era la bomba de agua eléctrica, que la cambiaron al día siguiente. Si hubiera seguido conduciendo, me habría cargado el motor. Agradecido de verdad.",
+      "rating": 5
+    },
+    {
+      "name": "Laura Montserrat",
+      "neighborhood": "Puig-reig",
+      "car": "BMW X1 sDrive16d",
+      "body": "Cada invierno el coche me costaba arrancar y echaba un humazo blanco los primeros minutos. Me dijeron que era normal por el frío. Aquí comprobaron las bujías de precalentamiento y dos estaban fundidas. Las cambiaron todas y este enero arranca al primer toque, incluso con escarcha.",
+      "rating": 5
+    },
+    {
+      "name": "Enric Solà",
+      "neighborhood": "Serrateix",
+      "car": "BMW 520d Touring",
+      "body": "Llevo tres años trayendo el 520d aquí y la diferencia con el concesionario es la atención personalizada. Me llaman cuando toca la revisión, me recogen el coche en casa y me explican todo sin prisa. El precio es razonable y el trabajo, impecable. No cambio de taller.",
+      "rating": 5
+    },
+    {
+      "name": "Neus Clotet",
+      "neighborhood": "Navàs",
+      "car": "BMW X3 xDrive20d",
+      "body": "Reventé una llanta en un bache cerca de Serrateix un domingo. El lunes a primera hora ya tenían el coche, y para el martes tenía llanta nueva y neumático montado. Además me revisaron la otra llanta del mismo eje porque podía tener una fisura interna. Eso es profesionalidad.",
+      "rating": 5
+    }
   ],
   "zoneText": "Ofrecemos servicio completo para propietarios de BMW en Viver i Serrateix y todo el Berguedà sur, así como en los municipios limítrofes de la comarca del Bages. Recogemos y entregamos vehículos en un radio de 25 kilómetros, cubriendo desde Gironella hasta Navàs y desde Casserres hasta Cardona.",
   "zoneNeighborhoods": [
@@ -66,21 +150,39 @@
     "B-423 (hacia Cardona)"
   ],
   "faqLocal": [
-    {"q": "¿Cuánto se tarda en llegar desde Viver i Serrateix a vuestro taller?", "a": "El desplazamiento es corto, pero si prefieres no moverte, recogemos tu BMW en Viver o Serrateix sin coste adicional. Coordinamos día y hora por WhatsApp para que no pierdas tiempo esperando."},
-    {"q": "¿Merece la pena hacer mantenimiento preventivo si mi BMW tiene pocos kilómetros?", "a": "Sí, especialmente en un entorno como el Berguedà. El desgaste no solo depende de los kilómetros: los ciclos térmicos, la humedad, la calidad del asfalto y el tiempo de exposición a la intemperie deterioran componentes aunque el coche circule poco. Recomendamos al menos una revisión anual independientemente del kilometraje."},
-    {"q": "¿Qué BMW se ven más por la zona de Viver i Serrateix?", "a": "Los modelos más habituales en el Berguedà sur son el BMW 320d y 520d en berlina y Touring, el X1 y el X3 en versiones diésel. También vemos cada vez más BMW Serie 1 y Serie 2 Active Tourer entre conductores que buscan un coche compacto con calidad premium para uso diario."},
-    {"q": "¿Puedo pasar la ITV con vosotros si tengo un BMW con muchos años?", "a": "Preparamos BMW de cualquier antigüedad para la ITV. Revisamos todos los puntos de inspección —luces, frenos, emisiones, holguras de dirección y suspensión, estado de carrocería— y solucionamos lo que haga falta antes de la cita. En vehículos con más de 10 años, la preparación es especialmente importante porque los criterios de emisiones son más exigentes."},
-    {"q": "¿Es cierto que la bomba de agua eléctrica de BMW falla mucho?", "a": "La bomba de agua eléctrica de los motores BMW N20, N55 y B48 es un componente que tiene una tasa de fallo superior a la media. Suele fallar entre los 80.000 y los 120.000 km, y cuando lo hace puede causar sobrecalentamiento en pocos minutos. Recomendamos su sustitución preventiva a partir de los 80.000 km si el vehículo se usa en montaña, donde las exigencias térmicas son mayores."},
-    {"q": "¿Trabajáis también con BMW híbridos enchufables?", "a": "Sí, atendemos los modelos BMW iPerformance y la gama actual de híbridos enchufables (Serie 3, Serie 5, X1 y X3 en versión PHEV). Contamos con formación y equipo específico para trabajar con el sistema de alto voltaje de forma segura, incluyendo diagnóstico de la batería de tracción y el cargador embarcado."}
+    {
+      "q": "¿Cuánto se tarda en llegar desde Viver i Serrateix a vuestro taller?",
+      "a": "El desplazamiento es corto, pero si prefieres no moverte, recogemos tu BMW en Viver o Serrateix sin coste adicional. Coordinamos día y hora por WhatsApp para que no pierdas tiempo esperando."
+    },
+    {
+      "q": "¿Merece la pena hacer mantenimiento preventivo si mi BMW tiene pocos kilómetros?",
+      "a": "Sí, especialmente en un entorno como el Berguedà. El desgaste no solo depende de los kilómetros: los ciclos térmicos, la humedad, la calidad del asfalto y el tiempo de exposición a la intemperie deterioran componentes aunque el coche circule poco. Recomendamos al menos una revisión anual independientemente del kilometraje."
+    },
+    {
+      "q": "¿Qué BMW se ven más por la zona de Viver i Serrateix?",
+      "a": "Los modelos más habituales en el Berguedà sur son el BMW 320d y 520d en berlina y Touring, el X1 y el X3 en versiones diésel. También vemos cada vez más BMW Serie 1 y Serie 2 Active Tourer entre conductores que buscan un coche compacto con calidad premium para uso diario."
+    },
+    {
+      "q": "¿Puedo pasar la ITV con vosotros si tengo un BMW con muchos años?",
+      "a": "Preparamos BMW de cualquier antigüedad para la ITV. Revisamos todos los puntos de inspección —luces, frenos, emisiones, holguras de dirección y suspensión, estado de carrocería— y solucionamos lo que haga falta antes de la cita. En vehículos con más de 10 años, la preparación es especialmente importante porque los criterios de emisiones son más exigentes."
+    },
+    {
+      "q": "¿Es cierto que la bomba de agua eléctrica de BMW falla mucho?",
+      "a": "La bomba de agua eléctrica de los motores BMW N20, N55 y B48 es un componente que tiene una tasa de fallo superior a la media. Suele fallar entre los 80.000 y los 120.000 km, y cuando lo hace puede causar sobrecalentamiento en pocos minutos. Recomendamos su sustitución preventiva a partir de los 80.000 km si el vehículo se usa en montaña, donde las exigencias térmicas son mayores."
+    },
+    {
+      "q": "¿Trabajáis también con BMW híbridos enchufables?",
+      "a": "Sí, atendemos los modelos BMW iPerformance y la gama actual de híbridos enchufables (Serie 3, Serie 5, X1 y X3 en versión PHEV). Contamos con formación y equipo específico para trabajar con el sistema de alto voltaje de forma segura, incluyendo diagnóstico de la batería de tracción y el cargador embarcado."
+    }
   ],
   "closingHeadline": "Mil años de historia merecen un taller con fundamento",
   "closingCta": "Contacta con nosotros por teléfono o WhatsApp y recibe un presupuesto sin compromiso. Recogemos tu BMW en Viver i Serrateix y alrededores.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

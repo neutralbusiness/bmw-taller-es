@@ -10,56 +10,178 @@
   "metaDescription": "Servicio BMW para el pueblo de Montseny, base del Turó de l'Home. Especialistas en mecánica de altitud, nieve y carreteras de puerto. 665 245 143.",
   "heroSubtitle": "Al pie de la cumbre más alta del Montseny, tu BMW necesita un mantenimiento de altitud. Servicio técnico a la altura del desafío.",
   "trustChips": [
-    {"icon": "🔧", "text": "BMW de altitud"},
-    {"icon": "🗻", "text": "Base Turó de l'Home"},
-    {"icon": "❄️", "text": "Nieve e hielo"},
-    {"icon": "⛽", "text": "Motor y turbo"},
-    {"icon": "🛡️", "text": "Seguridad en montaña"}
+    {
+      "icon": "🔧",
+      "text": "BMW de altitud"
+    },
+    {
+      "icon": "🗻",
+      "text": "Base Turó de l'Home"
+    },
+    {
+      "icon": "❄️",
+      "text": "Nieve e hielo"
+    },
+    {
+      "icon": "⛽",
+      "text": "Motor y turbo"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Seguridad en montaña"
+    }
   ],
   "introLocal": "El pueblo de Montseny, a los pies del Turó de l'Home (1.706 m), es el punto habitado más emblemático del macizo que da nombre a toda la sierra. Con apenas 303 habitantes, este municipio vive a caballo entre la tradición rural de montaña y el flujo constante de excursionistas, ciclistas y conductores que ascienden a las cotas más altas del parque natural. Para los propietarios de BMW que residen aquí, cada salida del pueblo es una prueba de conducción alpina.\n\nLa carretera que conecta el pueblo de Montseny con el fondo de valle (hacia Sant Celoni o Vic) es un recorrido de más de 15 kilómetros de curvas cerradas con pendientes que oscilan entre el 8% y el 14%. Bajar al trabajo o a hacer la compra implica un descenso continuo que castiga los frenos con la misma intensidad que un puerto de montaña profesional. Y subir de vuelta es un ejercicio de paciencia para el motor, la transmisión y el conductor.\n\nLa altitud del pueblo (superior a 500 metros) y la proximidad de las cumbres (1.706 m) generan un gradiente térmico acusado. En invierno, la temperatura en el pueblo puede ser 5-8 grados inferior a la de Sant Celoni, y en las cotas altas se alcanzan con facilidad los -10 °C. La nieve cierra periódicamente los accesos a las cumbres y puede aparecer en el propio pueblo varios días al año. Los BMW con tracción trasera necesitan obligatoriamente neumáticos de invierno o cadenas, mientras que los xDrive ganan un margen de seguridad pero no eliminan el riesgo.\n\nLa combinación de altitud, frío extremo y humedad del bosque montano crea un cóctel agresivo para los vehículos. El arranque en frío a -10 °C exige una batería con capacidad de arranque en frío (CCA) muy superior a la habitual. El aceite de motor debe tener una viscosidad en frío (0W-xx) que permita lubricar instantáneamente los componentes internos. Y el líquido anticongelante debe proteger hasta al menos -25 °C para evitar daños en el bloque motor.\n\nEl pueblo de Montseny vive una dualidad: los residentes permanentes son pocos, pero los fines de semana y festivos la población se multiplica con los visitantes que suben a pasear, hacer senderismo o simplemente disfrutar del entorno. Muchos de estos visitantes habituales conducen BMW y someten sus vehículos al mismo ciclo repetido: subida exigente, aparcamiento prolongado en altitud con frío y humedad, y descenso largo con frenos calientes. Este patrón acaba pasando factura si no se compensa con un mantenimiento adaptado.\n\nEntre los BMW que vemos con más frecuencia en Montseny destacan los X3 y X5 con tracción xDrive, preferidos por su seguridad en carreteras con nieve o hielo, junto a berlinas Serie 3 y Serie 5 diésel de residentes que bajan a trabajar cada mañana a Sant Celoni o Vic. Los modelos más antiguos, con más de diez años y más de 150.000 km, son los que más riesgo presentan en este entorno: sus sistemas de refrigeración, frenado y suspensión están al límite de su vida útil, y las exigencias del Montseny aceleran su deterioro final. Para estos vehículos, una inspección exhaustiva antes del invierno puede evitar una avería grave en una carretera de montaña sin cobertura de móvil.\n\nNuestro taller es la referencia BMW para el pueblo de Montseny y las cotas altas del macizo. Ofrecemos un servicio que combina la preparación mecánica para altitud y frío extremo con la revisión de los sistemas de seguridad que son vitales en las carreteras de puerto.",
   "servicesIntro": "Servicio BMW de montaña alta: preparación para frío extremo, frenos de puerto, motor y turbo de altitud, y neumáticos de invierno. Todo lo que tu BMW necesita para vivir en las alturas.",
   "processIntro": "Un proceso que prioriza la seguridad sobre todo lo demás, porque las carreteras de Montseny no admiten medias tintas.",
   "processSteps": [
-    {"title": "Contacto y valoración inicial", "body": "Cuéntanos tu situación por teléfono o WhatsApp. Si no puedes bajar por nieve o hielo, organizamos la recogida."},
-    {"title": "Diagnóstico alpino completo", "body": "Verificamos todos los sistemas críticos para conducción de montaña: frenos (incluido líquido), motor, turbo, refrigeración, batería, neumáticos y electrónica."},
-    {"title": "Plan de actuación por seguridad", "body": "Clasificamos las intervenciones por impacto en la seguridad. Las que afectan a la capacidad de frenado o control del vehículo van primero."},
-    {"title": "Reparación con especificación alpina", "body": "Montamos componentes seleccionados para soportar altitud, frío y uso extremo de montaña."},
-    {"title": "Prueba de subida y bajada", "body": "Verificamos la reparación en un recorrido que incluye pendientes reales para asegurar que todo responde correctamente."}
+    {
+      "title": "Contacto y valoración inicial",
+      "body": "Cuéntanos tu situación por teléfono o WhatsApp. Si no puedes bajar por nieve o hielo, organizamos la recogida."
+    },
+    {
+      "title": "Diagnóstico alpino completo",
+      "body": "Verificamos todos los sistemas críticos para conducción de montaña: frenos (incluido líquido), motor, turbo, refrigeración, batería, neumáticos y electrónica."
+    },
+    {
+      "title": "Plan de actuación por seguridad",
+      "body": "Clasificamos las intervenciones por impacto en la seguridad. Las que afectan a la capacidad de frenado o control del vehículo van primero."
+    },
+    {
+      "title": "Reparación con especificación alpina",
+      "body": "Montamos componentes seleccionados para soportar altitud, frío y uso extremo de montaña."
+    },
+    {
+      "title": "Prueba de subida y bajada",
+      "body": "Verificamos la reparación en un recorrido que incluye pendientes reales para asegurar que todo responde correctamente."
+    }
   ],
   "commonIssuesIntro": "Vivir al pie del Turó de l'Home implica que tu BMW afronta condiciones que la mayoría de conductores no experimentan jamás. Estas son las averías más frecuentes.",
   "commonIssues": [
-    {"title": "Batería incapaz de arrancar en frío extremo", "body": "A -10 °C, una batería con capacidad de arranque en frío (CCA) insuficiente no puede mover el motor de arranque. Instalamos baterías AGM con CCA adecuado para la altitud de Montseny."},
-    {"title": "Líquido de frenos con punto de ebullición bajo", "body": "El líquido de frenos envejece y absorbe agua, bajando su punto de ebullición. En los descensos del Montseny, puede hervir y provocar pérdida total de frenada."},
-    {"title": "Aceite de motor inadecuado para frío extremo", "body": "Un aceite 5W-40 puede ser insuficiente para arranques a -10 °C. Utilizamos aceites 0W-30 o 0W-40 BMW Longlife que fluyen instantáneamente incluso en frío extremo."},
-    {"title": "Sistema de calefacción con bajo rendimiento", "body": "El termostato puede quedarse parcialmente abierto, impidiendo que el motor alcance la temperatura óptima y reduciendo la eficacia de la calefacción. Diagnosticamos y sustituimos."},
-    {"title": "Neumáticos inadecuados para nieve", "body": "Los neumáticos de verano son peligrosos con hielo o nieve. Asesoramos y montamos neumáticos de invierno con marcaje 3PMSF adecuados para tu modelo BMW."}
+    {
+      "title": "Batería incapaz de arrancar en frío extremo",
+      "body": "A -10 °C, una batería con capacidad de arranque en frío (CCA) insuficiente no puede mover el motor de arranque. Instalamos baterías AGM con CCA adecuado para la altitud de Montseny."
+    },
+    {
+      "title": "Líquido de frenos con punto de ebullición bajo",
+      "body": "El líquido de frenos envejece y absorbe agua, bajando su punto de ebullición. En los descensos del Montseny, puede hervir y provocar pérdida total de frenada."
+    },
+    {
+      "title": "Aceite de motor inadecuado para frío extremo",
+      "body": "Un aceite 5W-40 puede ser insuficiente para arranques a -10 °C. Utilizamos aceites 0W-30 o 0W-40 BMW Longlife que fluyen instantáneamente incluso en frío extremo."
+    },
+    {
+      "title": "Sistema de calefacción con bajo rendimiento",
+      "body": "El termostato puede quedarse parcialmente abierto, impidiendo que el motor alcance la temperatura óptima y reduciendo la eficacia de la calefacción. Diagnosticamos y sustituimos."
+    },
+    {
+      "title": "Neumáticos inadecuados para nieve",
+      "body": "Los neumáticos de verano son peligrosos con hielo o nieve. Asesoramos y montamos neumáticos de invierno con marcaje 3PMSF adecuados para tu modelo BMW."
+    }
   ],
   "whyUs": [
-    {"title": "Expertos en BMW de altitud", "body": "Sabemos cómo afecta la altitud al turbo, al motor y a los fluidos de tu BMW, y actuamos en consecuencia."},
-    {"title": "Preparación invernal profesional", "body": "Verificamos cada sistema que el invierno del Montseny va a poner a prueba: batería, anticongelante, líquido de frenos, neumáticos y calefacción."},
-    {"title": "Frenos para puertos de verdad", "body": "Componentes seleccionados para soportar la temperatura de los descensos continuos desde las cotas altas del Montseny."},
-    {"title": "Recogida en montaña", "body": "Si la nieve o el hielo te impiden mover tu BMW, nosotros vamos a buscarlo."},
-    {"title": "Diagnóstico electrónico BMW completo", "body": "Todos los módulos del vehículo escaneados con equipos profesionales."}
+    {
+      "title": "Expertos en BMW de altitud",
+      "body": "Sabemos cómo afecta la altitud al turbo, al motor y a los fluidos de tu BMW, y actuamos en consecuencia."
+    },
+    {
+      "title": "Preparación invernal profesional",
+      "body": "Verificamos cada sistema que el invierno del Montseny va a poner a prueba: batería, anticongelante, líquido de frenos, neumáticos y calefacción."
+    },
+    {
+      "title": "Frenos para puertos de verdad",
+      "body": "Componentes seleccionados para soportar la temperatura de los descensos continuos desde las cotas altas del Montseny."
+    },
+    {
+      "title": "Recogida en montaña",
+      "body": "Si la nieve o el hielo te impiden mover tu BMW, nosotros vamos a buscarlo."
+    },
+    {
+      "title": "Diagnóstico electrónico BMW completo",
+      "body": "Todos los módulos del vehículo escaneados con equipos profesionales."
+    }
   ],
   "testimonialsIntro": "Residentes del pueblo de Montseny y conductores habituales de las cotas altas confían en nuestro servicio BMW.",
   "testimonials": [
-    {"name": "Ignasi R.", "neighborhood": "Montseny poble", "car": "BMW X3 G01 xDrive", "body": "Me prepararon el X3 para el invierno completo: neumáticos de invierno, anticongelante a -30 °C, batería nueva y líquido de frenos. He pasado el invierno sin un solo susto.", "rating": 5},
-    {"name": "Aida S.", "neighborhood": "Montseny", "car": "BMW 320d F30", "body": "El coche no arrancaba una mañana a -8 °C. La batería no tenía suficiente CCA para estas temperaturas. Me pusieron una AGM de mayor capacidad y resuelto.", "rating": 5},
-    {"name": "Bernat G.", "neighborhood": "Camí del Turó", "car": "BMW 530d G31", "body": "Bajando hacia Sant Celoni noté que el pedal de freno se alargaba. Líquido de frenos con el punto de ebullición por los suelos. Una negligencia que no repetiré.", "rating": 5},
-    {"name": "Clara E.", "neighborhood": "Montseny", "car": "BMW 116d F20", "body": "La calefacción apenas calentaba. El termostato estaba medio abierto y el motor no llegaba a temperatura. Ahora calienta al minuto de arrancar.", "rating": 4}
+    {
+      "name": "Ignasi R.",
+      "neighborhood": "Montseny poble",
+      "car": "BMW X3 G01 xDrive",
+      "body": "Me prepararon el X3 para el invierno completo: neumáticos de invierno, anticongelante a -30 °C, batería nueva y líquido de frenos. He pasado el invierno sin un solo susto.",
+      "rating": 5
+    },
+    {
+      "name": "Aida S.",
+      "neighborhood": "Montseny",
+      "car": "BMW 320d F30",
+      "body": "El coche no arrancaba una mañana a -8 °C. La batería no tenía suficiente CCA para estas temperaturas. Me pusieron una AGM de mayor capacidad y resuelto.",
+      "rating": 5
+    },
+    {
+      "name": "Bernat G.",
+      "neighborhood": "Camí del Turó",
+      "car": "BMW 530d G31",
+      "body": "Bajando hacia Sant Celoni noté que el pedal de freno se alargaba. Líquido de frenos con el punto de ebullición por los suelos. Una negligencia que no repetiré.",
+      "rating": 5
+    },
+    {
+      "name": "Clara E.",
+      "neighborhood": "Montseny",
+      "car": "BMW 116d F20",
+      "body": "La calefacción apenas calentaba. El termostato estaba medio abierto y el motor no llegaba a temperatura. Ahora calienta al minuto de arrancar.",
+      "rating": 4
+    }
   ],
   "zoneText": "Atendemos BMW en el pueblo de Montseny y todas las cotas altas del macizo, con servicio de recogida invernal y preparación para altitud.",
-  "zoneNeighborhoods": ["Fogars de Montclús", "Campins", "Viladrau", "Arbúcies", "Aiguafreda", "Tagamanent", "Sant Celoni"],
-  "zoneAccessRoutes": ["BV-5301 desde Sant Celoni", "BV-5114 desde Arbúcies", "BV-5301 hacia Turó de l'Home", "C-35 conexión general"],
+  "zoneNeighborhoods": [
+    "Fogars de Montclús",
+    "Campins",
+    "Viladrau",
+    "Arbúcies",
+    "Aiguafreda",
+    "Tagamanent",
+    "Sant Celoni"
+  ],
+  "zoneAccessRoutes": [
+    "BV-5301 desde Sant Celoni",
+    "BV-5114 desde Arbúcies",
+    "BV-5301 hacia Turó de l'Home",
+    "C-35 conexión general"
+  ],
   "faqLocal": [
-    {"q": "¿Hay taller BMW para el pueblo de Montseny?", "a": "Sí. Nuestro taller BMW atiende al pueblo de Montseny con experiencia específica en las exigencias de la alta montaña y las carreteras del macizo."},
-    {"q": "¿Qué preparación invernal necesita mi BMW en Montseny?", "a": "Batería con alto CCA, anticongelante protección hasta -25 °C mínimo, líquido de frenos renovado, aceite 0W-xx, neumáticos de invierno 3PMSF y verificación del sistema de calefacción."},
-    {"q": "¿Es seguro vivir en Montseny con un BMW de tracción trasera?", "a": "En verano sí. En invierno, necesitas obligatoriamente neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en nieve y hielo."},
-    {"q": "¿Qué aceite necesita mi BMW a esta altitud?", "a": "Utilizamos aceites 0W-30 o 0W-40 con especificación BMW Longlife, que fluyen correctamente incluso a -15 °C y protegen el motor en todo el rango de temperaturas del Montseny."},
-    {"q": "¿Venís a buscar mi BMW si está nevado?", "a": "Sí. Disponemos de medios para acceder en condiciones invernales y trasladar tu vehículo al taller."},
-    {"q": "¿Cada cuánto cambiar el líquido de frenos en montaña?", "a": "Cada 2 años como máximo, idealmente cada año si usas las carreteras de puerto con frecuencia. El líquido absorbe humedad y pierde capacidad de soportar las altas temperaturas de los descensos."}
+    {
+      "q": "¿Hay taller BMW para el pueblo de Montseny?",
+      "a": "Sí. Nuestro taller BMW atiende al pueblo de Montseny con experiencia específica en las exigencias de la alta montaña y las carreteras del macizo."
+    },
+    {
+      "q": "¿Qué preparación invernal necesita mi BMW en Montseny?",
+      "a": "Batería con alto CCA, anticongelante protección hasta -25 °C mínimo, líquido de frenos renovado, aceite 0W-xx, neumáticos de invierno 3PMSF y verificación del sistema de calefacción."
+    },
+    {
+      "q": "¿Es seguro vivir en Montseny con un BMW de tracción trasera?",
+      "a": "En verano sí. En invierno, necesitas obligatoriamente neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en nieve y hielo."
+    },
+    {
+      "q": "¿Qué aceite necesita mi BMW a esta altitud?",
+      "a": "Utilizamos aceites 0W-30 o 0W-40 con especificación BMW Longlife, que fluyen correctamente incluso a -15 °C y protegen el motor en todo el rango de temperaturas del Montseny."
+    },
+    {
+      "q": "¿Venís a buscar mi BMW si está nevado?",
+      "a": "Sí. Disponemos de medios para acceder en condiciones invernales y trasladar tu vehículo al taller."
+    },
+    {
+      "q": "¿Cada cuánto cambiar el líquido de frenos en montaña?",
+      "a": "Cada 2 años como máximo, idealmente cada año si usas las carreteras de puerto con frecuencia. El líquido absorbe humedad y pierde capacidad de soportar las altas temperaturas de los descensos."
+    }
   ],
   "closingHeadline": "Tu BMW a la altura del Turó de l'Home",
   "closingCta": "No dejes que la montaña ponga a prueba un BMW sin preparar. Contacta hoy para una revisión completa de altitud y seguridad.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

@@ -10,64 +10,183 @@
   "metaDescription": "Taller BMW en les Masies de Voltregà, Osona. Mantenimiento, diagnosis y reparación para trabajadores de la industria textil. Presupuesto sin compromiso.",
   "heroSubtitle": "Cuidamos tu BMW frente a la humedad del Ter y el polvo industrial de las naves de Osona. Diagnosis experta cerca de Torelló.",
   "trustChips": [
-    { "icon": "🔧", "text": "Especialistas BMW" },
-    { "icon": "🏭", "text": "Zona industrial Osona" },
-    { "icon": "🌊", "text": "Protección anticorrosión Ter" },
-    { "icon": "⚡", "text": "Diagnosis eléctrica avanzada" },
-    { "icon": "📍", "text": "Cerca de Torelló" },
-    { "icon": "⏱️", "text": "Presupuesto en 24h" }
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "🏭",
+      "text": "Zona industrial Osona"
+    },
+    {
+      "icon": "🌊",
+      "text": "Protección anticorrosión Ter"
+    },
+    {
+      "icon": "⚡",
+      "text": "Diagnosis eléctrica avanzada"
+    },
+    {
+      "icon": "📍",
+      "text": "Cerca de Torelló"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Presupuesto en 24h"
+    }
   ],
   "introLocal": "les Masies de Voltregà es, ante todo, un pueblo de trabajadores. Entre las naves textiles que salpican el término municipal y los polígonos industriales cercanos a Torelló, buena parte de sus 3.144 vecinos empieza el día con un trayecto corto pero exigente: de casa a la fábrica, de la fábrica al polígono, y vuelta a casa cruzando puentes sobre el Ter. Es un patrón de uso que desgasta los coches de una forma muy distinta a la de quien solo circula por ciudad, y los BMW no son una excepción. Los motores diésel, los más habituales en la zona por su eficiencia en estos trayectos repetitivos, acumulan carbonilla a un ritmo acelerado cuando no alcanzan temperatura de régimen, y los filtros de partículas luchan por regenerarse sin los tramos largos de carretera que necesitan.\n\nLa proximidad al río Ter, con su humedad constante especialmente en los meses de niebla propios de la Plana de Vic, es uno de los factores que más nos preocupa cuando revisamos un vehículo de la zona. La condensación se cuela en conectores eléctricos, acelera la oxidación de los bajos y favorece la aparición de puntos de óxido en zonas donde la pintura ya está castigada por el uso diario. En un BMW, con su electrónica sofisticada y sus múltiples módulos de control, esta humedad puede traducirse en fallos intermitentes que son difíciles de diagnosticar sin el equipo adecuado. Los sensores de aparcamiento, las cámaras y los radares de asistencia a la conducción son componentes expuestos que sufren especialmente la agresión de esta humedad fluvial permanente, mostrando avisos en el cuadro de instrumentos que desaparecen cuando el sol calienta el coche y reaparecen a la mañana siguiente.\n\nA esto se suma el carácter industrial del entorno. Las partículas en suspensión de los procesos textiles y las naves cercanas afectan de forma directa a los filtros de habitáculo, a los sistemas de admisión y a la propia pintura del vehículo, que recibe un nivel de suciedad fina muy superior al de una zona puramente residencial. No es raro que veamos filtros de aire saturados antes de lo esperado, o barnices con microrrayas causadas por ese polvo que se deposita constantemente sobre la carrocería.\n\nEl perfil de conductor que atendemos en les Masies de Voltregà suele ser gente que necesita el coche en marcha sí o sí: operarios y técnicos que fichan a primera hora, autónomos que reparten entre polígonos, familias que combinan trabajo en la industria local con desplazamientos a Vic o Manlleu por la C-17. Para ellos, una avería no es solo una molestia, es un problema de logística diaria. Por eso en nuestro taller priorizamos la disponibilidad rápida de citas y una diagnosis certera a la primera, evitando el ir y venir que tanto cuesta cuando el coche es la herramienta de trabajo.\n\nConocemos bien las particularidades de mantener un BMW en esta comarca: la exposición combinada a humedad fluvial y ambiente industrial exige revisiones más frecuentes de los sistemas eléctricos, tratamientos anticorrosión reforzados en los bajos y un control estricto de los filtros. Trabajamos con diagnosis original BMW y piezas de calidad para que tu vehículo aguante el ritmo de vida de Osona sin sorpresas.",
   "servicesIntro": "Ofrecemos un servicio integral para BMW pensado en las condiciones reales de Osona: humedad del Ter, ambiente industrial y trayectos diarios entre polígonos.",
   "processIntro": "Trabajamos con un proceso claro y transparente para que sepas en todo momento qué le pasa a tu BMW y cuánto costará repararlo.",
   "processSteps": [
-    { "title": "Diagnosis inicial", "body": "Conectamos el equipo de diagnosis original BMW para identificar con precisión el origen de la avería, prestando especial atención a la electrónica sensible a la humedad." },
-    { "title": "Presupuesto claro", "body": "Te explicamos el problema en un lenguaje entendible y te damos un presupuesto cerrado antes de tocar el coche, sin sorpresas al final." },
-    { "title": "Reparación con piezas de calidad", "body": "Usamos recambios homologados y tratamientos anticorrosión reforzados, pensando en el desgaste extra del entorno industrial y fluvial de la zona." },
-    { "title": "Revisión final y prueba", "body": "Antes de entregarte el vehículo, hacemos una prueba de carretera y revisamos que todos los sistemas, especialmente los eléctricos, funcionen con normalidad." },
-    { "title": "Entrega y seguimiento", "body": "Te devolvemos el coche listo para tu rutina diaria y quedamos disponibles si surge cualquier duda en los días posteriores." }
+    {
+      "title": "Diagnosis inicial",
+      "body": "Conectamos el equipo de diagnosis original BMW para identificar con precisión el origen de la avería, prestando especial atención a la electrónica sensible a la humedad."
+    },
+    {
+      "title": "Presupuesto claro",
+      "body": "Te explicamos el problema en un lenguaje entendible y te damos un presupuesto cerrado antes de tocar el coche, sin sorpresas al final."
+    },
+    {
+      "title": "Reparación con piezas de calidad",
+      "body": "Usamos recambios homologados y tratamientos anticorrosión reforzados, pensando en el desgaste extra del entorno industrial y fluvial de la zona."
+    },
+    {
+      "title": "Revisión final y prueba",
+      "body": "Antes de entregarte el vehículo, hacemos una prueba de carretera y revisamos que todos los sistemas, especialmente los eléctricos, funcionen con normalidad."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te devolvemos el coche listo para tu rutina diaria y quedamos disponibles si surge cualquier duda en los días posteriores."
+    }
   ],
   "commonIssuesIntro": "Estas son las averías que más vemos en los BMW de les Masies de Voltregà y su entorno industrial, marcadas por la humedad del Ter y el polvo de las fábricas.",
   "commonIssues": [
-    { "title": "Corrosión en bajos y conectores", "body": "La humedad constante procedente del Ter acelera la oxidación de los bajos del vehículo y de los conectores eléctricos, provocando fallos intermitentes difíciles de rastrear sin diagnosis especializada." },
-    { "title": "Filtros de habitáculo saturados", "body": "El polvo y las partículas en suspensión de las naves textiles cercanas colmatan antes de lo habitual los filtros de aire, reduciendo el rendimiento de la climatización y afectando a la calidad del aire interior." },
-    { "title": "Fallos eléctricos intermitentes", "body": "Los módulos de control de los BMW son especialmente sensibles a la condensación en ambientes de niebla frecuente como los de la Plana de Vic, generando testigos que se encienden y apagan sin patrón claro." },
-    { "title": "Desgaste prematuro de la pintura", "body": "Las micropartículas industriales que se depositan sobre la carrocería a diario provocan microrrayas y opacidad en el barniz, especialmente en vehículos que se estacionan cerca de zonas fabriles." },
-    { "title": "Frenos y suspensión exigidos", "body": "Los trayectos cortos y repetitivos entre polígonos, con frenadas frecuentes en accesos a naves y rotondas, aceleran el desgaste de pastillas, discos y elementos de suspensión." }
+    {
+      "title": "Corrosión en bajos y conectores",
+      "body": "La humedad constante procedente del Ter acelera la oxidación de los bajos del vehículo y de los conectores eléctricos, provocando fallos intermitentes difíciles de rastrear sin diagnosis especializada."
+    },
+    {
+      "title": "Filtros de habitáculo saturados",
+      "body": "El polvo y las partículas en suspensión de las naves textiles cercanas colmatan antes de lo habitual los filtros de aire, reduciendo el rendimiento de la climatización y afectando a la calidad del aire interior."
+    },
+    {
+      "title": "Fallos eléctricos intermitentes",
+      "body": "Los módulos de control de los BMW son especialmente sensibles a la condensación en ambientes de niebla frecuente como los de la Plana de Vic, generando testigos que se encienden y apagan sin patrón claro."
+    },
+    {
+      "title": "Desgaste prematuro de la pintura",
+      "body": "Las micropartículas industriales que se depositan sobre la carrocería a diario provocan microrrayas y opacidad en el barniz, especialmente en vehículos que se estacionan cerca de zonas fabriles."
+    },
+    {
+      "title": "Frenos y suspensión exigidos",
+      "body": "Los trayectos cortos y repetitivos entre polígonos, con frenadas frecuentes en accesos a naves y rotondas, aceleran el desgaste de pastillas, discos y elementos de suspensión."
+    }
   ],
   "whyUs": [
-    { "title": "Especialistas en BMW", "body": "Nos dedicamos exclusivamente a la marca, con equipo de diagnosis original y mecánicos formados específicamente en la electrónica y mecánica BMW." },
-    { "title": "Conocemos el entorno de Osona", "body": "Sabemos cómo la humedad del Ter y el polvo industrial de la zona afectan a tu vehículo, y ajustamos las revisiones a esas condiciones reales." },
-    { "title": "Rapidez para no parar tu jornada", "body": "Entendemos que muchos clientes necesitan el coche para llegar a la fábrica o al polígono, por lo que priorizamos diagnósticos rápidos y precisos." },
-    { "title": "Presupuesto cerrado y transparente", "body": "Nada de sorpresas: te decimos el precio antes de empezar y te explicamos cada reparación con claridad." },
-    { "title": "Cercanía y trato directo", "body": "Estamos a un paso de Torelló y atendemos a los vecinos de les Masies de Voltregà con la confianza de un taller de proximidad." }
+    {
+      "title": "Especialistas en BMW",
+      "body": "Nos dedicamos exclusivamente a la marca, con equipo de diagnosis original y mecánicos formados específicamente en la electrónica y mecánica BMW."
+    },
+    {
+      "title": "Conocemos el entorno de Osona",
+      "body": "Sabemos cómo la humedad del Ter y el polvo industrial de la zona afectan a tu vehículo, y ajustamos las revisiones a esas condiciones reales."
+    },
+    {
+      "title": "Rapidez para no parar tu jornada",
+      "body": "Entendemos que muchos clientes necesitan el coche para llegar a la fábrica o al polígono, por lo que priorizamos diagnósticos rápidos y precisos."
+    },
+    {
+      "title": "Presupuesto cerrado y transparente",
+      "body": "Nada de sorpresas: te decimos el precio antes de empezar y te explicamos cada reparación con claridad."
+    },
+    {
+      "title": "Cercanía y trato directo",
+      "body": "Estamos a un paso de Torelló y atendemos a los vecinos de les Masies de Voltregà con la confianza de un taller de proximidad."
+    }
   ],
   "testimonialsIntro": "Esto es lo que nos cuentan algunos vecinos de les Masies de Voltregà y alrededores que han confiado en nosotros para el mantenimiento de su BMW.",
   "testimonials": [
-    { "name": "Jordi Puigdemunt", "neighborhood": "les Masies de Voltregà", "car": "BMW Serie 3", "body": "Trabajo en una nave textil cerca de Torelló y el coche me hacía fallar el testigo de motor cada dos por tres. Detectaron humedad en un conector en diez minutos, algo que en otro taller no habían sabido ver.", "rating": 5 },
-    { "name": "Montse Roviralta", "neighborhood": "Vinyoles", "car": "BMW X1", "body": "El filtro de habitáculo estaba negro de polvo de fábrica y ni me había dado cuenta de por qué la climatización iba mal. Me lo explicaron todo muy claro y ahora respiro mucho mejor en el coche.", "rating": 5 },
-    { "name": "Albert Serrallonga", "neighborhood": "Sant Martí de Sobremunt", "car": "BMW Serie 1", "body": "Vivo cerca del Ter y cada invierno el coche se llenaba de humedad. Me hicieron un tratamiento anticorrosión en los bajos y desde entonces no ha vuelto a fallar nada eléctrico.", "rating": 5 },
-    { "name": "Núria Bacardit", "neighborhood": "les Masies de Voltregà", "car": "BMW Serie 5", "body": "Necesitaba el coche sí o sí para llegar a mi turno en el polígono. Me dieron cita rápida, diagnosticaron el problema de frenos a la primera y cumplieron el presupuesto al céntimo.", "rating": 5 }
+    {
+      "name": "Jordi Puigdemunt",
+      "neighborhood": "les Masies de Voltregà",
+      "car": "BMW Serie 3",
+      "body": "Trabajo en una nave textil cerca de Torelló y el coche me hacía fallar el testigo de motor cada dos por tres. Detectaron humedad en un conector en diez minutos, algo que en otro taller no habían sabido ver.",
+      "rating": 5
+    },
+    {
+      "name": "Montse Roviralta",
+      "neighborhood": "Vinyoles",
+      "car": "BMW X1",
+      "body": "El filtro de habitáculo estaba negro de polvo de fábrica y ni me había dado cuenta de por qué la climatización iba mal. Me lo explicaron todo muy claro y ahora respiro mucho mejor en el coche.",
+      "rating": 5
+    },
+    {
+      "name": "Albert Serrallonga",
+      "neighborhood": "Sant Martí de Sobremunt",
+      "car": "BMW Serie 1",
+      "body": "Vivo cerca del Ter y cada invierno el coche se llenaba de humedad. Me hicieron un tratamiento anticorrosión en los bajos y desde entonces no ha vuelto a fallar nada eléctrico.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Bacardit",
+      "neighborhood": "les Masies de Voltregà",
+      "car": "BMW Serie 5",
+      "body": "Necesitaba el coche sí o sí para llegar a mi turno en el polígono. Me dieron cita rápida, diagnosticaron el problema de frenos a la primera y cumplieron el presupuesto al céntimo.",
+      "rating": 5
+    }
   ],
   "zoneText": "Atendemos a los vecinos de les Masies de Voltregà y a toda la comarca de Osona, con especial atención al entorno industrial que rodea Torelló y a los pueblos bañados por el Ter. Nuestro taller es un punto de referencia cercano para quienes necesitan un BMW fiable para moverse cada día entre polígonos, fábricas y núcleos rurales de la Plana de Vic.",
-  "zoneNeighborhoods": ["les Masies de Voltregà", "Vinyoles", "Sant Martí de Sobremunt", "Torelló", "Sant Bartomeu del Grau", "Sora", "Vidrà", "Orís"],
-  "zoneAccessRoutes": ["C-17 (Barcelona - Ripoll)", "C-37 (Vic - Olot)", "BV-4608 (acceso a Torelló)", "Carretera de la Plana de Vic"],
+  "zoneNeighborhoods": [
+    "les Masies de Voltregà",
+    "Vinyoles",
+    "Sant Martí de Sobremunt",
+    "Torelló",
+    "Sant Bartomeu del Grau",
+    "Sora",
+    "Vidrà",
+    "Orís"
+  ],
+  "zoneAccessRoutes": [
+    "C-17 (Barcelona - Ripoll)",
+    "C-37 (Vic - Olot)",
+    "BV-4608 (acceso a Torelló)",
+    "Carretera de la Plana de Vic"
+  ],
   "faqLocal": [
-    { "q": "¿Por qué mi BMW tiene más problemas eléctricos viviendo cerca del Ter?", "a": "La humedad constante del río, combinada con las nieblas frecuentes de la Plana de Vic, favorece la condensación en conectores y módulos electrónicos, provocando fallos intermitentes que un BMW, con su electrónica avanzada, refleja antes que otros vehículos." },
-    { "q": "¿Con qué frecuencia debo cambiar el filtro de habitáculo si trabajo cerca de una fábrica textil?", "a": "En zonas con actividad industrial cercana recomendamos revisar el filtro cada 10.000 km aproximadamente, la mitad del intervalo habitual, ya que las partículas en suspensión lo saturan más rápido." },
-    { "q": "¿Ofrecéis tratamiento anticorrosión para los bajos del coche?", "a": "Sí, aplicamos tratamientos reforzados pensados específicamente para vehículos expuestos a la humedad fluvial, muy recomendables para quienes viven o trabajan cerca del Ter." },
-    { "q": "¿Puedo llevar mi BMW antes de entrar a trabajar en el polígono?", "a": "Sí, ofrecemos horarios flexibles y citas rápidas para no interferir en tu jornada laboral, sabiendo que muchos clientes de la zona dependen del coche para llegar a la fábrica." },
-    { "q": "¿Trabajáis solo con BMW o también con otras marcas?", "a": "Estamos especializados exclusivamente en BMW, lo que nos permite ofrecer diagnosis más precisas y un conocimiento profundo de sus sistemas específicos." },
-    { "q": "¿Cuánto tardáis en dar un presupuesto?", "a": "Normalmente entregamos un presupuesto cerrado en menos de 24 horas tras la diagnosis inicial, para que puedas decidir con toda la información." }
+    {
+      "q": "¿Por qué mi BMW tiene más problemas eléctricos viviendo cerca del Ter?",
+      "a": "La humedad constante del río, combinada con las nieblas frecuentes de la Plana de Vic, favorece la condensación en conectores y módulos electrónicos, provocando fallos intermitentes que un BMW, con su electrónica avanzada, refleja antes que otros vehículos."
+    },
+    {
+      "q": "¿Con qué frecuencia debo cambiar el filtro de habitáculo si trabajo cerca de una fábrica textil?",
+      "a": "En zonas con actividad industrial cercana recomendamos revisar el filtro cada 10.000 km aproximadamente, la mitad del intervalo habitual, ya que las partículas en suspensión lo saturan más rápido."
+    },
+    {
+      "q": "¿Ofrecéis tratamiento anticorrosión para los bajos del coche?",
+      "a": "Sí, aplicamos tratamientos reforzados pensados específicamente para vehículos expuestos a la humedad fluvial, muy recomendables para quienes viven o trabajan cerca del Ter."
+    },
+    {
+      "q": "¿Puedo llevar mi BMW antes de entrar a trabajar en el polígono?",
+      "a": "Sí, ofrecemos horarios flexibles y citas rápidas para no interferir en tu jornada laboral, sabiendo que muchos clientes de la zona dependen del coche para llegar a la fábrica."
+    },
+    {
+      "q": "¿Trabajáis solo con BMW o también con otras marcas?",
+      "a": "Estamos especializados exclusivamente en BMW, lo que nos permite ofrecer diagnosis más precisas y un conocimiento profundo de sus sistemas específicos."
+    },
+    {
+      "q": "¿Cuánto tardáis en dar un presupuesto?",
+      "a": "Normalmente entregamos un presupuesto cerrado en menos de 24 horas tras la diagnosis inicial, para que puedas decidir con toda la información."
+    }
   ],
   "closingHeadline": "Tu BMW merece un taller que entiende Osona",
   "closingCta": "Pide cita y protege tu BMW de la humedad del Ter y el desgaste industrial de la zona. Presupuesto claro, sin compromiso.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

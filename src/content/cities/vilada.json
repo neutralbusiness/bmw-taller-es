@@ -10,12 +10,30 @@
   "metaDescription": "Taller especializado en BMW en Vilada, junto al Pantà de la Baells. Reparación, diagnóstico y mantenimiento BMW en el Berguedà. Presupuesto sin compromiso.",
   "heroSubtitle": "Especialistas BMW en Vilada, junto al Pantà de la Baells. Reparación y mantenimiento adaptados al clima de montaña.",
   "trustChips": [
-    {"icon": "🔧", "text": "Técnicos BMW certificados"},
-    {"icon": "💧", "text": "Protección anticorrosión"},
-    {"icon": "💻", "text": "Diagnóstico electrónico BMW"},
-    {"icon": "📋", "text": "Presupuesto sin compromiso"},
-    {"icon": "🏔️", "text": "Servicio en zona de montaña"},
-    {"icon": "🚙", "text": "Especialistas xDrive"}
+    {
+      "icon": "🔧",
+      "text": "Técnicos BMW certificados"
+    },
+    {
+      "icon": "💧",
+      "text": "Protección anticorrosión"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico electrónico BMW"
+    },
+    {
+      "icon": "📋",
+      "text": "Presupuesto sin compromiso"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Servicio en zona de montaña"
+    },
+    {
+      "icon": "🚙",
+      "text": "Especialistas xDrive"
+    }
   ],
   "introLocal": "Vilada es un municipio de 486 habitantes situado en la comarca del Berguedà, a orillas del Pantà de la Baells, uno de los embalses más importantes de la provincia de Barcelona. Esta posición privilegiada junto a la gran lámina de agua confiere a Vilada unas condiciones ambientales particulares que afectan directamente a los vehículos: la humedad relativa elevada durante buena parte del año, las nieblas matinales que ascienden del embalse y los cambios bruscos de temperatura entre la orilla y las cotas más altas del municipio generan un entorno especialmente agresivo para la carrocería y los sistemas electrónicos de cualquier automóvil.\n\nEl Pantà de la Baells, con una capacidad de 109 hectómetros cúbicos, atrae durante los meses de primavera y verano a un flujo considerable de visitantes que practican pesca, senderismo y deportes acuáticos. Este turismo estacional incrementa el tráfico en las carreteras de acceso a Vilada, especialmente en la C-26 y las pistas que bordean el embalse. Para los residentes con BMW, la temporada alta supone más kilómetros recorridos en carreteras compartidas con vehículos poco habituados a las curvas de montaña, lo que exige frenos, dirección y sistemas de seguridad en perfecto estado.\n\nA diferencia de localidades cercanas como Cercs, marcada por su pasado minero e industrial, o Bagà, orientada al turismo de esquí del Cadí-Moixeró, Vilada tiene un carácter más residencial y contemplativo, ligado al paisaje del embalse y los bosques de ribera que se extienden por las laderas que rodean el pantano. El municipio atrae a familias y jubilados que buscan tranquilidad sin renunciar a la conexión con Berga y, desde allí, con Barcelona por la C-16. Sus calles y accesos se adaptan a una orografía suave pero irregular, con rampas y desniveles que obligan a maniobras constantes de arranque en cuesta. Los BMW con cambio automático gestionan bien estas situaciones, pero el convertidor de par y la transmisión acumulan estrés si no reciben el mantenimiento adecuado. Los modelos con cambio manual, por su parte, desgastan el embrague con mayor rapidez en un entorno donde los stops en pendiente son la norma.\n\nEl microclima generado por el embalse tiene consecuencias directas sobre los vehículos. La evaporación del agua durante el verano y las nieblas densas de otoño e invierno depositan una capa de humedad persistente sobre la carrocería, las juntas de goma y los conectores eléctricos. En los BMW, esto se traduce en oxidación acelerada de componentes del chasis, corrosión de los bornes de la batería y deterioro prematuro de los burletes de puertas y maletero. Un mantenimiento preventivo que tenga en cuenta estas condiciones específicas es fundamental para preservar el valor y la fiabilidad del vehículo.\n\nLa situación de Vilada, relativamente alejada de los centros urbanos con talleres oficiales BMW, hace que muchos propietarios pospongan revisiones o recurran a talleres generalistas que desconocen las particularidades de estos vehículos. Nuestro servicio está pensado precisamente para cubrir esa necesidad: técnicos especializados en BMW que conocen las condiciones del Berguedà y ofrecen recogida del vehículo en Vilada para que la distancia no sea excusa para descuidar el mantenimiento de su coche.",
   "servicesIntro": "En Vilada y el entorno del Pantà de la Baells ofrecemos servicio técnico completo para BMW: mantenimiento preventivo con especial atención a la protección anticorrosión, reparación mecánica y electrónica, diagnóstico con equipos oficiales ISTA y preparación para ITV. Cubrimos todas las series, desde el compacto Serie 1 hasta los SUV X5 y X7.",
@@ -161,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

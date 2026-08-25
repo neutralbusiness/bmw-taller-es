@@ -10,11 +10,26 @@
   "metaDescription": "Taller especializado en BMW en Avinyó, Bages. Mantenimiento adaptado a caminos rurales, polvo agrícola y frío invernal. Diagnóstico profesional. Pide cita.",
   "heroSubtitle": "Tu BMW merece un taller que entienda los caminos rurales del Bages. Diagnóstico, mantenimiento y reparación especializada en Avinyó.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "🌾", "text": "Expertos en entorno rural"},
-    {"icon": "💻", "text": "Diagnóstico oficial"},
-    {"icon": "🛡️", "text": "Garantía por escrito"},
-    {"icon": "🚗", "text": "Recogida a domicilio"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "🌾",
+      "text": "Expertos en entorno rural"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico oficial"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía por escrito"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida a domicilio"
+    }
   ],
   "introLocal": "Avinyó es un municipio de poco más de 2.300 habitantes situado en el sector oriental de la comarca del Bages, en la Catalunya central. Rodeado de viñedos, campos de cereal y extensos bosques de encina, este pueblo conserva un carácter profundamente rural que define tanto su paisaje como la forma de vida de sus vecinos. Las masies dispersas por el término municipal, muchas de ellas habitadas y en activo, son testimonio de una tradición agrícola que se remonta siglos atrás. Para los propietarios de BMW que residen en Avinyó o en sus alrededores, contar con un taller que comprenda las particularidades de este entorno es fundamental.\n\nLa red viaria local está formada en gran parte por la carretera BV-4316, que conecta Avinyó con Artés a apenas cinco kilómetros al oeste, y por una serie de caminos rurales, pistas forestales y accesos a fincas que no siempre están asfaltados. Circular por estos tramos con un BMW significa someter la suspensión, los neumáticos y los bajos del vehículo a un desgaste muy distinto al de la conducción urbana. Las piedras sueltas, los baches y el firme irregular pueden provocar desalineaciones en la dirección, deterioro prematuro de los silentblocks y daños en las protecciones inferiores del motor. Nuestro taller conoce estos problemas de primera mano y aplica revisiones específicas para vehículos que transitan habitualmente por estas vías.\n\nEl polvo generado por la actividad agrícola y los caminos sin pavimentar es otro factor determinante para el mantenimiento de un BMW en Avinyó. Las partículas finas se acumulan en el filtro de aire, reduciendo progresivamente el rendimiento del motor, y penetran en el sistema de climatización, afectando a la calidad del aire interior. En los modelos diésel, el polvo agrava la obstrucción del filtro de partículas, adelantando los ciclos de regeneración y aumentando el consumo. Recomendamos a nuestros clientes de la zona intervalos de sustitución más cortos para los filtros, adaptados a la realidad de estos caminos.\n\nLos inviernos en el Bages interior son rigurosos. Las heladas frecuentes entre noviembre y marzo, con temperaturas que pueden descender por debajo de los menos cinco grados, someten a las baterías BMW a un esfuerzo máximo en cada arranque. El líquido refrigerante debe mantener su punto de congelación por debajo de los valores extremos de la zona, y los sistemas de inyección necesitan un funcionamiento impecable para garantizar arranques fiables en frío. Además, la humedad matinal que se acumula en los valles cercanos al río Gavarresa puede favorecer la corrosión en componentes eléctricos y conectores si no se revisan periódicamente. Nuestro protocolo de preparación invernal está diseñado específicamente para las condiciones climáticas de esta parte de la comarca.\n\nAvinyó cuenta con un valioso patrimonio románico, con iglesias como Sant Pere y Santa Maria que atraen visitantes y reflejan la identidad del municipio. Esta zona de transición entre el Bages y el Moianès combina la tranquilidad del medio rural con una distancia considerable a los grandes centros de servicios del automóvil. Por eso ofrecemos servicio de recogida y entrega del vehículo para que nuestros clientes de Avinyó, de las masies del término y de los núcleos cercanos como Artés o Calders no tengan que desplazarse. Entendemos que vivir en un entorno rural no debe significar renunciar a un servicio técnico de primer nivel para tu BMW.",
   "servicesIntro": "Ofrecemos una gama completa de servicios para BMW en Avinyó: desde el mantenimiento preventivo con revisiones adaptadas al entorno rural, hasta reparaciones mecánicas complejas, diagnóstico electrónico con equipos específicos BMW, cambio de distribución, revisiones de suspensión, sistemas de frenos, climatización y preparación para ITV. Trabajamos con piezas originales y equivalentes homologadas.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

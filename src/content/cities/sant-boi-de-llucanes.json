@@ -4,69 +4,184 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 545,
-  "lat": 42.0500,
+  "lat": 42.05,
   "lng": 2.1482,
   "metaTitle": "Taller BMW en Sant Boi de Lluçanès | Recogida en masías",
   "metaDescription": "Taller BMW para Sant Boi de Lluçanès, a 850m de altitud. Recogida en masías, revisión de frenos y batería tras el invierno. Pide presupuesto sin compromiso.",
   "heroSubtitle": "Tu BMW en la altiplanicie del Lluçanès merece un taller que entienda el frío y la distancia. Recogida disponible, sin bajar a la ciudad.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas en zonas de montaña"},
-    {"icon": "🚗", "text": "Recogida en masías y núcleo urbano"},
-    {"icon": "❄️", "text": "Preparación para el invierno del Lluçanès"},
-    {"icon": "🔧", "text": "Diagnosis BMW original"},
-    {"icon": "📍", "text": "A 5 km de Prats de Lluçanès"},
-    {"icon": "⏱️", "text": "Presupuesto sin compromiso"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas en zonas de montaña"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida en masías y núcleo urbano"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación para el invierno del Lluçanès"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnosis BMW original"
+    },
+    {
+      "icon": "📍",
+      "text": "A 5 km de Prats de Lluçanès"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Presupuesto sin compromiso"
+    }
   ],
   "introLocal": "Sant Boi de Lluçanès no es un pueblo que se cruce por casualidad. Encaramado a casi 850 metros sobre el nivel del mar, en pleno corazón de la altiplanicie del Lluçanès, es uno de los municipios más elevados de esta comarca suspendida entre Osona y el Bages. Con apenas 545 habitantes repartidos entre el núcleo agrupado alrededor de la iglesia de Sant Boi y un puñado de masías dispersas por el término, aquí la vida transcurre a otro ritmo. Para cualquiera que viva o trabaje en este entorno, tener un BMW significa también asumir un compromiso distinto con el mantenimiento del coche: no es lo mismo circular por una avenida urbana que enfrentarse cada día a la BV-4601, la carretera estrecha y sinuosa que conecta el pueblo con Prats de Lluçanès y el resto del mundo.\n\nLa altitud no es un detalle menor. A esta cota, los motores trabajan con menos densidad de aire, los inviernos son largos y duros, y las heladas se instalan en el asfalto desde noviembre hasta bien entrada la primavera. No es raro despertarse con la carretera cubierta de escarcha, o encontrar placas de hielo en las curvas umbrías que rodean el pueblo camino de Alpens o de Olost. Un BMW bien puesto a punto, con neumáticos en condiciones, líquido anticongelante correcto y frenos que respondan sin dudar, deja de ser un lujo para convertirse en una cuestión de seguridad básica para quien vive aquí arriba. A cambio, eso sí, los días despejados regalan una de las mejores vistas de toda la comarca: desde los alrededores del pueblo se adivinan, al fondo, las siluetas nevadas del Pirineo, un paisaje que compensa buena parte de las incomodidades del invierno.\n\nSant Boi de Lluçanès es, ante todo, un pueblo de masías. La economía del municipio se ha construido históricamente sobre la ganadería, la explotación forestal y una agricultura de secano adaptada a las condiciones duras de la altiplanicie. Muchos de nuestros clientes en la zona no viven en el núcleo urbano, junto a la iglesia de Sant Boi, sino en casas de payés dispersas por el término, a menudo al final de caminos de tierra o pistas forestales que ponen a prueba la suspensión y los bajos de cualquier vehículo, por robusto que sea. Esa dispersión geográfica es, precisamente, uno de los rasgos que definen la vida aquí: el aislamiento no es una figura retórica, es una realidad cotidiana que obliga a planificar cada desplazamiento, cada revisión, cada avería con antelación.\n\nLa iglesia de Sant Boi, junto a las pocas calles que forman el núcleo, sigue siendo el punto de referencia de una comunidad pequeña y muy unida, donde todo el mundo se conoce y donde las noticias, buenas o malas, corren deprisa entre vecinos. Esa cercanía tiene su reverso práctico: aquí no hay gasolinera, ni taller, ni apenas comercio a mano. Para cualquier gestión que exceda lo más básico hay que bajar a Prats de Lluçanès, a apenas 5 kilómetros mas que se hacen largos por las curvas de la BV-4601, o directamente desplazarse hasta Vic, a más de media hora de viaje por carreteras de montaña que en invierno se complican todavía más. Esta distancia real a los servicios convierte cualquier imprevisto mecánico en un problema logístico, no solo técnico.\n\nEs precisamente ese contexto el que hace que mantener un BMW a punto en Sant Boi de Lluçanès sea distinto a hacerlo en cualquier otro lugar. Las curvas cerradas y estrechas de la comarca, combinadas con el frío persistente y el uso frecuente de caminos sin asfaltar para llegar hasta las masías, desgastan componentes de forma más rápida e imprevisible que en un entorno urbano. Por eso, en nuestro taller entendemos que atender a un vecino de Sant Boi no es solo reparar un coche, sino garantizar que esa persona pueda seguir moviéndose con seguridad por un territorio exigente, aislado y, a la vez, profundamente hermoso.",
   "servicesIntro": "Ofrecemos el catálogo completo de mantenimiento y reparación BMW —desde revisiones periódicas y cambios de aceite hasta diagnosis electrónica, frenos, suspensión y climatización— adaptado a las exigencias reales de circular por la altiplanicie del Lluçanès, donde el frío, las cuestas y los caminos irregulares aceleran el desgaste de componentes que en ciudad durarían mucho más.",
   "processIntro": "Sabemos que desplazarse desde Sant Boi de Lluçanès hasta un taller no siempre es sencillo, así que hemos diseñado un proceso pensado para minimizar los viajes innecesarios y resolver la avería en el menor número de gestiones posible.",
   "processSteps": [
-    {"title": "Contacto y diagnóstico previo", "body": "Nos cuentas el problema por teléfono o WhatsApp, valoramos la urgencia y coordinamos si hace falta recogida desde tu masía o desde el núcleo del pueblo."},
-    {"title": "Recogida o traslado del vehículo", "body": "Si las condiciones de la carretera o tu disponibilidad lo requieren, organizamos el traslado del BMW desde Sant Boi hasta nuestras instalaciones sin que tengas que conducir tú mismo por la BV-4601 con una avería."},
-    {"title": "Diagnosis y presupuesto claro", "body": "Revisamos el vehículo con equipos de diagnosis específicos de BMW y te explicamos exactamente qué falla y cuánto costará antes de tocar nada."},
-    {"title": "Reparación y devolución", "body": "Reparamos con piezas adecuadas al uso real que le das al coche en zona de montaña y te devolvemos el vehículo listo, con recomendaciones concretas para el próximo invierno."}
+    {
+      "title": "Contacto y diagnóstico previo",
+      "body": "Nos cuentas el problema por teléfono o WhatsApp, valoramos la urgencia y coordinamos si hace falta recogida desde tu masía o desde el núcleo del pueblo."
+    },
+    {
+      "title": "Recogida o traslado del vehículo",
+      "body": "Si las condiciones de la carretera o tu disponibilidad lo requieren, organizamos el traslado del BMW desde Sant Boi hasta nuestras instalaciones sin que tengas que conducir tú mismo por la BV-4601 con una avería."
+    },
+    {
+      "title": "Diagnosis y presupuesto claro",
+      "body": "Revisamos el vehículo con equipos de diagnosis específicos de BMW y te explicamos exactamente qué falla y cuánto costará antes de tocar nada."
+    },
+    {
+      "title": "Reparación y devolución",
+      "body": "Reparamos con piezas adecuadas al uso real que le das al coche en zona de montaña y te devolvemos el vehículo listo, con recomendaciones concretas para el próximo invierno."
+    }
   ],
   "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Boi de Lluçanès y su entorno presentan patrones de desgaste muy distintos a los de un coche urbano, marcados por el frío extremo, las carreteras estrechas y el uso esporádico en algunos casos.",
   "commonIssues": [
-    {"title": "Batería debilitada por el frío intenso", "body": "Las temperaturas bajo cero prolongadas en la altiplanicie reducen drásticamente la capacidad de arranque de la batería, un problema habitual cada invierno en la zona."},
-    {"title": "Desgaste acelerado de frenos y neumáticos", "body": "Las curvas cerradas y los repechos constantes de la BV-4601 y las pistas hacia las masías exigen frenadas frecuentes que desgastan pastillas, discos y neumáticos antes de lo esperado."},
-    {"title": "Congelación de líquidos y juntas", "body": "El anticongelante mal proporcionado o los líquidos de frenos envejecidos pueden fallar con las heladas propias de una cota cercana a los 850 metros."},
-    {"title": "Daños por caminos de tierra y grava suelta", "body": "El acceso a masías dispersas por pistas forestales y caminos sin asfaltar castiga los bajos, la suspensión y el paso de rueda de forma mucho más intensa que la conducción urbana."},
-    {"title": "Averías agravadas por el uso esporádico", "body": "En algunas segundas residencias o masías de uso estacional, los periodos largos sin arrancar el motor favorecen problemas de batería, condensación en el circuito de combustible y gomas resecas."}
+    {
+      "title": "Batería debilitada por el frío intenso",
+      "body": "Las temperaturas bajo cero prolongadas en la altiplanicie reducen drásticamente la capacidad de arranque de la batería, un problema habitual cada invierno en la zona."
+    },
+    {
+      "title": "Desgaste acelerado de frenos y neumáticos",
+      "body": "Las curvas cerradas y los repechos constantes de la BV-4601 y las pistas hacia las masías exigen frenadas frecuentes que desgastan pastillas, discos y neumáticos antes de lo esperado."
+    },
+    {
+      "title": "Congelación de líquidos y juntas",
+      "body": "El anticongelante mal proporcionado o los líquidos de frenos envejecidos pueden fallar con las heladas propias de una cota cercana a los 850 metros."
+    },
+    {
+      "title": "Daños por caminos de tierra y grava suelta",
+      "body": "El acceso a masías dispersas por pistas forestales y caminos sin asfaltar castiga los bajos, la suspensión y el paso de rueda de forma mucho más intensa que la conducción urbana."
+    },
+    {
+      "title": "Averías agravadas por el uso esporádico",
+      "body": "En algunas segundas residencias o masías de uso estacional, los periodos largos sin arrancar el motor favorecen problemas de batería, condensación en el circuito de combustible y gomas resecas."
+    }
   ],
   "whyUs": [
-    {"title": "Conocemos la altiplanicie del Lluçanès", "body": "No somos un taller genérico que desconoce la zona: sabemos lo que significa circular a diario por la BV-4601 y por los caminos que llevan a las masías de Sant Boi."},
-    {"title": "Recogida adaptada al aislamiento real", "body": "Entendemos que bajar el coche hasta el taller puede suponer media hora o más, así que ofrecemos recogida para que la distancia no sea un obstáculo."},
-    {"title": "Preparación específica para el invierno de montaña", "body": "Revisamos batería, líquidos y neumáticos pensando en las heladas propias de una cota de casi 850 metros, no en un invierno de ciudad."},
-    {"title": "Diagnosis y piezas originales BMW", "body": "Trabajamos con equipos de diagnosis específicos de la marca y piezas adecuadas, evitando soluciones improvisadas que no aguanten el trato exigente de la montaña."},
-    {"title": "Trato cercano, propio de pueblo pequeño", "body": "Sabemos que en comunidades como Sant Boi la confianza se construye persona a persona, y así tratamos cada vehículo que nos llega desde allí."}
+    {
+      "title": "Conocemos la altiplanicie del Lluçanès",
+      "body": "No somos un taller genérico que desconoce la zona: sabemos lo que significa circular a diario por la BV-4601 y por los caminos que llevan a las masías de Sant Boi."
+    },
+    {
+      "title": "Recogida adaptada al aislamiento real",
+      "body": "Entendemos que bajar el coche hasta el taller puede suponer media hora o más, así que ofrecemos recogida para que la distancia no sea un obstáculo."
+    },
+    {
+      "title": "Preparación específica para el invierno de montaña",
+      "body": "Revisamos batería, líquidos y neumáticos pensando en las heladas propias de una cota de casi 850 metros, no en un invierno de ciudad."
+    },
+    {
+      "title": "Diagnosis y piezas originales BMW",
+      "body": "Trabajamos con equipos de diagnosis específicos de la marca y piezas adecuadas, evitando soluciones improvisadas que no aguanten el trato exigente de la montaña."
+    },
+    {
+      "title": "Trato cercano, propio de pueblo pequeño",
+      "body": "Sabemos que en comunidades como Sant Boi la confianza se construye persona a persona, y así tratamos cada vehículo que nos llega desde allí."
+    }
   ],
   "testimonialsIntro": "Vecinos de Sant Boi de Lluçanès y de las masías del término nos cuentan cómo ha sido su experiencia confiando su BMW a nuestro taller.",
   "testimonials": [
-    {"name": "Enric P.", "neighborhood": "El Poble", "car": "BMW X5 xDrive40d", "body": "Una madrugada de enero me encontré la BV-4601 completamente helada bajando hacia Prats. El X5 respondió bien porque unas semanas antes me habían revisado frenos y neumáticos aquí. Sin esa revisión previa no sé cómo hubiera acabado la curva de después de la ermita.", "rating": 5},
-    {"name": "Mònica A.", "neighborhood": "Can Solà", "car": "BMW X3 xDrive20d", "body": "Vivimos bastante aislados y el coche es literalmente nuestra vía de escape si pasa algo. Después de que se me quedara la batería tirada dos inviernos seguidos, en el taller me explicaron por qué pasaba a esta altitud y desde entonces no he vuelto a tener sustos.", "rating": 5},
-    {"name": "Francesc R.", "neighborhood": "Les Feixes", "car": "BMW Serie 3 Touring 320d", "body": "Uso el coche a diario para moverme entre parcelas forestales y caminos que no son precisamente carretera. Los bajos y la suspensión sufren lo suyo, pero en el taller siempre me dicen la verdad sobre qué aguanta y qué no, sin venderme nada de más.", "rating": 5},
-    {"name": "Rosa M.", "neighborhood": "Cal Mestre", "car": "BMW X1 sDrive18d", "body": "Cada semana bajo a Prats o a Vic a hacer la compra grande, así que necesito el coche fiable sí o sí. Me organizaron la recogida en el pueblo cuando el X1 empezó a fallar y no tuve que arriesgarme a bajar con la avería.", "rating": 4}
+    {
+      "name": "Enric P.",
+      "neighborhood": "El Poble",
+      "car": "BMW X5 xDrive40d",
+      "body": "Una madrugada de enero me encontré la BV-4601 completamente helada bajando hacia Prats. El X5 respondió bien porque unas semanas antes me habían revisado frenos y neumáticos aquí. Sin esa revisión previa no sé cómo hubiera acabado la curva de después de la ermita.",
+      "rating": 5
+    },
+    {
+      "name": "Mònica A.",
+      "neighborhood": "Can Solà",
+      "car": "BMW X3 xDrive20d",
+      "body": "Vivimos bastante aislados y el coche es literalmente nuestra vía de escape si pasa algo. Después de que se me quedara la batería tirada dos inviernos seguidos, en el taller me explicaron por qué pasaba a esta altitud y desde entonces no he vuelto a tener sustos.",
+      "rating": 5
+    },
+    {
+      "name": "Francesc R.",
+      "neighborhood": "Les Feixes",
+      "car": "BMW Serie 3 Touring 320d",
+      "body": "Uso el coche a diario para moverme entre parcelas forestales y caminos que no son precisamente carretera. Los bajos y la suspensión sufren lo suyo, pero en el taller siempre me dicen la verdad sobre qué aguanta y qué no, sin venderme nada de más.",
+      "rating": 5
+    },
+    {
+      "name": "Rosa M.",
+      "neighborhood": "Cal Mestre",
+      "car": "BMW X1 sDrive18d",
+      "body": "Cada semana bajo a Prats o a Vic a hacer la compra grande, así que necesito el coche fiable sí o sí. Me organizaron la recogida en el pueblo cuando el X1 empezó a fallar y no tuve que arriesgarme a bajar con la avería.",
+      "rating": 4
+    }
   ],
   "zoneText": "Damos servicio a Sant Boi de Lluçanès y a todo su entorno de masías dispersas, así como a los municipios cercanos de la altiplanicie del Lluçanès, coordinando recogidas para que la distancia hasta el taller nunca sea un impedimento para mantener tu BMW en condiciones seguras.",
-  "zoneNeighborhoods": ["Prats de Lluçanès", "Alpens", "Olost", "Sant Agustí de Lluçanès", "Sobremunt", "Perafita", "Borredà"],
-  "zoneAccessRoutes": ["BV-4601", "BV-4341", "C-62", "BP-4653"],
+  "zoneNeighborhoods": [
+    "Prats de Lluçanès",
+    "Alpens",
+    "Olost",
+    "Sant Agustí de Lluçanès",
+    "Sobremunt",
+    "Perafita",
+    "Borredà"
+  ],
+  "zoneAccessRoutes": [
+    "BV-4601",
+    "BV-4341",
+    "C-62",
+    "BP-4653"
+  ],
   "faqLocal": [
-    {"q": "¿Puedo llevar mi BMW al taller si vivo en una masía alejada del núcleo de Sant Boi?", "a": "Sí, ofrecemos recogida en masías y fincas dispersas del término municipal, coordinando el horario que mejor se adapte a los accesos y a las condiciones de la pista o camino."},
-    {"q": "¿Con qué frecuencia debería revisar la batería si mi BMW pasa temporadas sin usarse?", "a": "En la altiplanicie del Lluçanès, con inviernos largos y descensos térmicos marcados, recomendamos comprobar la batería cada dos o tres meses si el coche permanece parado, ya que el frío acelera su deterioro."},
-    {"q": "¿Qué preparación necesita mi BMW antes del invierno en Sant Boi?", "a": "Recomendamos revisar anticongelante, batería, neumáticos y frenos antes de noviembre, dado que las heladas y placas de hielo son habituales en la BV-4601 y en las carreteras que rodean el pueblo."},
-    {"q": "¿Cuánto se tarda en llegar al taller desde Sant Boi de Lluçanès?", "a": "Dependiendo del estado de la carretera y del tráfico, el trayecto puede rondar entre 30 y 40 minutos, por lo que muchos clientes optan por nuestro servicio de recogida para evitarlo."},
-    {"q": "¿Los caminos de tierra hacia las masías dañan de verdad los bajos del coche?", "a": "Sí, la grava suelta y los baches de las pistas forestales del Lluçanès son una causa frecuente de daños en el paso de rueda, la suspensión y los bajos que no se aprecian a simple vista."},
-    {"q": "¿Atendéis averías urgentes si me quedo tirado cerca de Sant Boi?", "a": "Sí, valoramos la urgencia por teléfono y organizamos el traslado del vehículo lo antes posible, teniendo en cuenta el aislamiento y la escasez de servicios cercanos en la zona."}
+    {
+      "q": "¿Puedo llevar mi BMW al taller si vivo en una masía alejada del núcleo de Sant Boi?",
+      "a": "Sí, ofrecemos recogida en masías y fincas dispersas del término municipal, coordinando el horario que mejor se adapte a los accesos y a las condiciones de la pista o camino."
+    },
+    {
+      "q": "¿Con qué frecuencia debería revisar la batería si mi BMW pasa temporadas sin usarse?",
+      "a": "En la altiplanicie del Lluçanès, con inviernos largos y descensos térmicos marcados, recomendamos comprobar la batería cada dos o tres meses si el coche permanece parado, ya que el frío acelera su deterioro."
+    },
+    {
+      "q": "¿Qué preparación necesita mi BMW antes del invierno en Sant Boi?",
+      "a": "Recomendamos revisar anticongelante, batería, neumáticos y frenos antes de noviembre, dado que las heladas y placas de hielo son habituales en la BV-4601 y en las carreteras que rodean el pueblo."
+    },
+    {
+      "q": "¿Cuánto se tarda en llegar al taller desde Sant Boi de Lluçanès?",
+      "a": "Dependiendo del estado de la carretera y del tráfico, el trayecto puede rondar entre 30 y 40 minutos, por lo que muchos clientes optan por nuestro servicio de recogida para evitarlo."
+    },
+    {
+      "q": "¿Los caminos de tierra hacia las masías dañan de verdad los bajos del coche?",
+      "a": "Sí, la grava suelta y los baches de las pistas forestales del Lluçanès son una causa frecuente de daños en el paso de rueda, la suspensión y los bajos que no se aprecian a simple vista."
+    },
+    {
+      "q": "¿Atendéis averías urgentes si me quedo tirado cerca de Sant Boi?",
+      "a": "Sí, valoramos la urgencia por teléfono y organizamos el traslado del vehículo lo antes posible, teniendo en cuenta el aislamiento y la escasez de servicios cercanos en la zona."
+    }
   ],
   "closingHeadline": "Tu BMW, listo para la altiplanicie del Lluçanès",
   "closingCta": "Contacta con nosotros y organizamos la recogida desde Sant Boi de Lluçanès o tu masía, sin que la distancia sea un problema.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

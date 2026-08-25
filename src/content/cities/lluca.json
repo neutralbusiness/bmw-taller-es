@@ -10,11 +10,26 @@
   "metaDescription": "Servicio BMW en Lluçà, el municipio que da nombre al Lluçanès. Reparación, mantenimiento y diagnóstico para tu BMW en el entorno rural más auténtico de Barcelona.",
   "heroSubtitle": "Donde nació el Lluçanès, nace también tu servicio BMW de confianza. Atención técnica experta sin abandonar la comarca.",
   "trustChips": [
-    {"icon": "🔧", "text": "Reparación integral BMW"},
-    {"icon": "🌿", "text": "Servicio adaptado al medio rural"},
-    {"icon": "📊", "text": "Diagnosis electrónica completa"},
-    {"icon": "🛞", "text": "Suspensión y tren de rodaje"},
-    {"icon": "✅", "text": "Presupuesto sin compromiso"}
+    {
+      "icon": "🔧",
+      "text": "Reparación integral BMW"
+    },
+    {
+      "icon": "🌿",
+      "text": "Servicio adaptado al medio rural"
+    },
+    {
+      "icon": "📊",
+      "text": "Diagnosis electrónica completa"
+    },
+    {
+      "icon": "🛞",
+      "text": "Suspensión y tren de rodaje"
+    },
+    {
+      "icon": "✅",
+      "text": "Presupuesto sin compromiso"
+    }
   ],
   "introLocal": "Lluçà es el municipio que da nombre a toda una comarca y, sin embargo, sigue siendo uno de los secretos mejor guardados del interior de Barcelona. Con apenas 259 habitantes repartidos entre el núcleo histórico y las masías que salpican sus valles, este pueblo guarda entre sus piedras los restos del castillo de Lluçà y la magnífica iglesia románica de Sant Vicenç, testimonios de un pasado medieval que contrasta con la soledad serena del presente.\n\nCircular en BMW por Lluçà es una experiencia que combina el placer de conducir por carreteras vacías con los desafíos de un terreno que no perdona descuidos mecánicos. La BV-4341, arteria principal que conecta Lluçà con Prats de Lluçanès y con la carretera hacia Berga, atraviesa un paisaje ondulado donde las rectas son excepción y las curvas entre campos y bosques marcan el ritmo de cada trayecto. Los desniveles son moderados pero constantes, y el firme sufre las consecuencias de inviernos rigurosos y veranos secos que agrietan el asfalto.\n\nLa vida cotidiana en Lluçà depende absolutamente del vehículo privado. No hay transporte público regular, la tienda más cercana está en Prats de Lluçanès y cualquier gestión administrativa, médica o comercial requiere coger el coche. Para quienes han elegido un BMW como su vehículo diario en este entorno, el mantenimiento no es opcional: es la garantía de no quedarse aislado. Un fallo mecánico en una masía a tres kilómetros del núcleo urbano, sin cobertura de telefonía móvil, puede convertirse en un problema serio.\n\nEl patrimonio natural de Lluçà incluye rutas como el camino al Serrat de la Guàrdia y los senderos que conectan con el río Lluçanès, itinerarios que muchos vecinos recorren con sus vehículos hasta el punto de inicio. Los BMW con tracción integral son especialmente apreciados aquí por su capacidad para afrontar pistas forestales y caminos de tierra en cualquier estación, pero este uso mixto entre asfalto y camino acelera el desgaste de componentes como los amortiguadores, los neumáticos y las rótulas de dirección.\n\nLos inviernos en Lluçà, aunque algo más moderados que en el norte de la comarca por su menor altitud, siguen siendo rigurosos. Las nieblas persistentes del altiplano envuelven el municipio durante semanas, creando una humedad ambiental que penetra en cada rincón del vehículo. Esta humedad constante es enemiga silenciosa de los contactos eléctricos, los conectores del motor y los sistemas electrónicos de confort. Un BMW que pasa las noches a la intemperie en Lluçà necesita revisiones eléctricas más frecuentes que el mismo modelo aparcado en un garaje urbano.\n\nNuestro servicio técnico para BMW ofrece a los vecinos de Lluçà algo que hasta ahora les obligaba a desplazarse: atención especializada de marca premium dentro de la comarca. Realizamos desde cambios de aceite con las especificaciones exactas de BMW hasta diagnósticos complejos del sistema de gestión del motor, pasando por revisiones de seguridad pre-ITV y preparaciones estacionales. Cada intervención se ejecuta con la meticulosidad que un BMW exige y la flexibilidad horaria que la vida rural necesita.\n\nPara los habitantes de Lluçà, saber que hay un taller BMW accesible sin recorrer cincuenta kilómetros significa recuperar tiempo, reducir costes de desplazamiento y, sobre todo, tener la seguridad de que su vehículo recibirá la atención que merece cuando la necesite, no cuando puedan organizarse para llevarla a cabo.",
   "servicesIntro": "Cubrimos todas las necesidades técnicas de tu BMW en Lluçà: mantenimiento preventivo según los intervalos del fabricante, reparaciones mecánicas y electrónicas, preparación para ITV y diagnóstico avanzado con herramientas específicas para la marca bávara.",
@@ -164,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

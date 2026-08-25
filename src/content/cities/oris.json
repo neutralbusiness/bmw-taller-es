@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW para Orís, pequeño pueblo del valle del Ter. Servicio técnico integral, diagnóstico profesional y recogida a domicilio sin coste. Llama ahora.",
   "heroSubtitle": "En la tranquilidad del valle del Ter entre Torelló y Sant Quirze, tu BMW merece un taller de cercanía con calidad profesional.",
   "trustChips": [
-    {"icon": "🔧", "text": "Servicio BMW integral"},
-    {"icon": "🏘️", "text": "Taller de proximidad"},
-    {"icon": "💬", "text": "Atención por WhatsApp"},
-    {"icon": "🚗", "text": "Recogida sin coste"},
-    {"icon": "⚙️", "text": "Diagnóstico profesional BMW"}
+    {
+      "icon": "🔧",
+      "text": "Servicio BMW integral"
+    },
+    {
+      "icon": "🏘️",
+      "text": "Taller de proximidad"
+    },
+    {
+      "icon": "💬",
+      "text": "Atención por WhatsApp"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida sin coste"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Diagnóstico profesional BMW"
+    }
   ],
   "introLocal": "Orís es uno de los municipios más pequeños del valle del Ter en la comarca de Osona, con apenas 294 habitantes distribuidos entre un núcleo reducido y un puñado de casas y masías a lo largo de la ribera fluvial. Situado entre Torelló y Sant Quirze de Besora, Orís vive en ese punto dulce donde la comarca de Osona empieza a elevarse hacia las montañas del Ripollès, un territorio de transición donde el valle se estrecha y el paisaje se vuelve más agreste. Para sus vecinos, la vida transcurre con la calma propia de un pueblo diminuto, pero la movilidad depende íntegramente del coche.\n\nLa realidad de Orís como municipio de menos de 300 habitantes significa que no hay servicios de proximidad: ni supermercado, ni farmacia, ni centro médico. Todo pasa por coger el coche y desplazarse a Torelló, a Sant Quirze de Besora o a Vic. Para los propietarios de BMW del pueblo, el coche es literalmente el cordón umbilical que les conecta con el mundo, y una avería imprevista no es solo una molestia mecánica sino un problema logístico de primer orden. Por eso, tener un taller de confianza que entienda esta dependencia y ofrezca un servicio rápido y fiable es fundamental.\n\nLas carreteras de Orís discurren paralelas al río Ter, con trazados que combinan rectas junto al cauce con tramos ascendentes hacia las colinas que flanquean el valle. La N-152, que pasa cerca del municipio rumbo a Ripoll y la frontera francesa, soporta un tráfico considerable de camiones y vehículos que transitan entre la costa y los Pirineos. Los conductores de BMW de Orís que se incorporan a esta vía necesitan un vehículo con la dirección precisa, los frenos a punto y una motorización que responda con solvencia en las aceleraciones de incorporación.\n\nEl microclima del valle del Ter en esta zona produce nieblas frecuentes en otoño e invierno, cuando el aire frío se estanca entre las colinas y la humedad del río se condensa en capas densas que pueden durar días. Estas nieblas limitan drásticamente la visibilidad y generan un ambiente permanentemente húmedo que afecta a la carrocería, a la electrónica y al interior del vehículo. Los BMW que pasan la noche al exterior en Orís acumulan una humedad que, sin ventilación adecuada, favorece la aparición de hongos en tapicerías y conductos de climatización.\n\nNuestro taller pone al alcance de los vecinos de Orís un servicio BMW completo sin necesidad de grandes desplazamientos. Recogemos el coche en tu domicilio, realizamos el mantenimiento o la reparación necesaria y lo devolvemos en perfectas condiciones. El mismo servicio técnico que encontrarías en un gran taller de Vic, pero con la proximidad y el trato personal de un pueblo.",
   "servicesIntro": "Ofrecemos la gama completa de servicios para BMW: revisiones periódicas, cambio de aceite y filtros, diagnóstico electrónico de todos los módulos, reparación de motor y turbo, mantenimiento de caja de cambios manual y automática, revisión de frenos y suspensión, alineado de dirección, recarga de aire acondicionado y preparación para ITV.",
@@ -114,8 +129,20 @@
     }
   ],
   "zoneText": "Cubrimos el tramo norte del valle del Ter en Osona, dando servicio a los pequeños municipios entre Torelló y Sant Quirze de Besora. Recogemos y entregamos vehículos sin coste adicional en todo este corredor.",
-  "zoneNeighborhoods": ["Torelló", "Sant Vicenç de Torelló", "Sant Pere de Torelló", "les Masies de Voltregà", "Sant Hipòlit de Voltregà", "Sant Quirze de Besora", "Montesquiu"],
-  "zoneAccessRoutes": ["N-152", "C-17", "BV-5224"],
+  "zoneNeighborhoods": [
+    "Torelló",
+    "Sant Vicenç de Torelló",
+    "Sant Pere de Torelló",
+    "les Masies de Voltregà",
+    "Sant Hipòlit de Voltregà",
+    "Sant Quirze de Besora",
+    "Montesquiu"
+  ],
+  "zoneAccessRoutes": [
+    "N-152",
+    "C-17",
+    "BV-5224"
+  ],
   "faqLocal": [
     {
       "q": "¿Recogen el coche directamente en Orís?",
@@ -147,9 +174,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

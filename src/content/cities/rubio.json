@@ -10,56 +10,177 @@
   "metaDescription": "Servicio técnico BMW en Rubió, Anoia. Especialistas en frenos, suspensión y desgaste por conducción en ladera. Diagnóstico profesional. 665 245 143.",
   "heroSubtitle": "Tu BMW necesita atención especial en las laderas de Rubió. Frenos, suspensión y motor en manos expertas.",
   "trustChips": [
-    {"icon": "🔧", "text": "Frenos y suspensión BMW"},
-    {"icon": "⛰️", "text": "Conducción en ladera"},
-    {"icon": "💻", "text": "Diagnóstico computerizado"},
-    {"icon": "🛡️", "text": "Piezas garantizadas"},
-    {"icon": "📍", "text": "Cerca de Igualada"}
+    {
+      "icon": "🔧",
+      "text": "Frenos y suspensión BMW"
+    },
+    {
+      "icon": "⛰️",
+      "text": "Conducción en ladera"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico computerizado"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Piezas garantizadas"
+    },
+    {
+      "icon": "📍",
+      "text": "Cerca de Igualada"
+    }
   ],
   "introLocal": "Rubió se extiende por las laderas que flanquean la cuenca de Igualada, ofreciendo a sus poco más de 200 habitantes un paisaje de colinas, bosque mediterráneo y campos de secano. Para los propietarios de BMW que viven aquí, la orografía define el tipo de conducción: subidas y bajadas constantes, curvas cerradas con poca visibilidad y tramos donde la pendiente exige un uso intensivo de frenos y cambio de marchas.\n\nEsta conducción en ladera tiene un impacto medible sobre el sistema de frenado. Los discos ventilados de los BMW se calientan en exceso durante los descensos prolongados, y si las pastillas no son de la calidad adecuada, el fenómeno de fading —pérdida temporal de eficacia por sobrecalentamiento— puede presentarse en el peor momento. En nuestro taller instalamos componentes de frenado que cumplen o superan las especificaciones originales BMW, dimensionados para soportar el uso intensivo que impone la topografía de Rubió.\n\nLa suspensión es otro sistema que acusa la conducción en pendiente. Los amortiguadores trabajan de forma asimétrica: el eje delantero soporta más carga en las bajadas y el trasero en las subidas, generando un desgaste desigual que se manifiesta en ruidos, pérdida de confort y una peor respuesta en curva. Los BMW con suspensión deportiva M Sport son especialmente sensibles a este patrón de uso, ya que sus componentes más rígidos toleran peor los desequilibrios.\n\nEl entorno boscoso de Rubió genera resinas y savia que se depositan en la pintura y los cristales del vehículo, provocando manchas difíciles de eliminar si no se tratan a tiempo. Además, las hojas y la materia orgánica obstruyen los drenajes del capó y del techo solar, causando filtraciones de agua en el habitáculo que pueden dañar la electrónica del suelo del vehículo.\n\nLa Serra de Rubió, coronada por uno de los parques eólicos más veteranos de Cataluña, explica otro rasgo de la conducción local: el viento. Los aerogeneradores están ahí por algo, y las rachas que barren la cresta zarandean los vehículos en los tramos altos y descubiertos, algo que los conductores de SUV notan especialmente en las manos. A ello se suman los accesos de grava que conducen a las masías dispersas del término, donde la tracción integral demuestra su utilidad pero el vehículo paga un peaje en forma de polvo y proyecciones menores que revisamos en cada visita al taller.\n\nLa conducción en pendiente también pasa factura a la transmisión. En los BMW con cambio automático, el trabajo continuado en subida eleva la temperatura del aceite de la caja por encima de lo habitual, y aunque el fabricante la describa como lubricada de por vida, nuestra experiencia con vehículos de la zona aconseja sustituir aceite y filtro hacia los 80.000-100.000 kilómetros para preservar la suavidad y la durabilidad del conjunto. Completamos el consejo con técnica de conducción: usar el modo manual o Sport para retener con el motor en los descensos largos reduce el esfuerzo de los frenos y alarga la vida de discos y pastillas, algo que explicamos con detalle a cada cliente que nos lo pide.\n\nNuestro taller ofrece a los residentes de Rubió la posibilidad de mantener su BMW en condiciones óptimas sin los desplazamientos largos que implica acudir a un concesionario. Cercanía, profesionalidad y un profundo conocimiento del entorno local al servicio de tu vehículo.",
   "servicesIntro": "Realizamos todo tipo de intervenciones sobre vehículos BMW: mantenimientos programados, reparaciones mecánicas y electrónicas, con especial experiencia en sistemas de frenado y suspensión para conducción en pendiente.",
   "processIntro": "Nuestro flujo de trabajo prioriza la transparencia y la comunicación directa contigo en cada fase.",
   "processSteps": [
-    {"title": "Contacto previo", "body": "Cuéntanos qué necesita tu BMW por teléfono o WhatsApp. Te damos cita en la primera fecha disponible."},
-    {"title": "Evaluación completa", "body": "Revisamos frenos, suspensión, motor y electrónica para identificar no solo el problema reportado, sino cualquier otro que pueda surgir."},
-    {"title": "Presupuesto y aprobación", "body": "Te enviamos el presupuesto detallado por WhatsApp o correo. Solo procedemos con tu confirmación."},
-    {"title": "Trabajo técnico", "body": "Intervenimos con las herramientas, los recambios y los procedimientos que tu BMW requiere."},
-    {"title": "Prueba en pendiente real", "body": "Probamos el vehículo en las propias carreteras de la zona para verificar la reparación en condiciones reales."}
+    {
+      "title": "Contacto previo",
+      "body": "Cuéntanos qué necesita tu BMW por teléfono o WhatsApp. Te damos cita en la primera fecha disponible."
+    },
+    {
+      "title": "Evaluación completa",
+      "body": "Revisamos frenos, suspensión, motor y electrónica para identificar no solo el problema reportado, sino cualquier otro que pueda surgir."
+    },
+    {
+      "title": "Presupuesto y aprobación",
+      "body": "Te enviamos el presupuesto detallado por WhatsApp o correo. Solo procedemos con tu confirmación."
+    },
+    {
+      "title": "Trabajo técnico",
+      "body": "Intervenimos con las herramientas, los recambios y los procedimientos que tu BMW requiere."
+    },
+    {
+      "title": "Prueba en pendiente real",
+      "body": "Probamos el vehículo en las propias carreteras de la zona para verificar la reparación en condiciones reales."
+    }
   ],
   "commonIssuesIntro": "La conducción en ladera y el entorno boscoso de Rubió generan patrones de avería específicos en los vehículos BMW.",
   "commonIssues": [
-    {"title": "Fading de frenos en descensos", "body": "Los descensos prolongados recalientan pastillas y discos. Instalamos componentes de alto rendimiento para eliminar la pérdida de eficacia en frenadas sostenidas."},
-    {"title": "Amortiguadores con desgaste asimétrico", "body": "La conducción en pendiente constante desgasta desigualmente los amortiguadores delanteros y traseros. Realizamos diagnóstico en banco y sustituimos por pares."},
-    {"title": "Drenajes obstruidos por materia vegetal", "body": "Hojas, resina y agujas de pino bloquean los drenajes del capó y techo solar, causando filtraciones. Limpiamos y verificamos todos los conductos de evacuación."},
-    {"title": "Consumo de combustible elevado", "body": "Las subidas constantes y el uso intensivo del motor en marchas bajas disparan el consumo. Optimizamos la gestión del motor y verificamos inyectores y sensores."},
-    {"title": "Embrague con desgaste prematuro", "body": "Los BMW con caja manual sufren un desgaste acelerado del embrague por las arrancadas en pendiente. Diagnosticamos el estado y sustituimos el kit completo cuando es necesario."}
+    {
+      "title": "Fading de frenos en descensos",
+      "body": "Los descensos prolongados recalientan pastillas y discos. Instalamos componentes de alto rendimiento para eliminar la pérdida de eficacia en frenadas sostenidas."
+    },
+    {
+      "title": "Amortiguadores con desgaste asimétrico",
+      "body": "La conducción en pendiente constante desgasta desigualmente los amortiguadores delanteros y traseros. Realizamos diagnóstico en banco y sustituimos por pares."
+    },
+    {
+      "title": "Drenajes obstruidos por materia vegetal",
+      "body": "Hojas, resina y agujas de pino bloquean los drenajes del capó y techo solar, causando filtraciones. Limpiamos y verificamos todos los conductos de evacuación."
+    },
+    {
+      "title": "Consumo de combustible elevado",
+      "body": "Las subidas constantes y el uso intensivo del motor en marchas bajas disparan el consumo. Optimizamos la gestión del motor y verificamos inyectores y sensores."
+    },
+    {
+      "title": "Embrague con desgaste prematuro",
+      "body": "Los BMW con caja manual sufren un desgaste acelerado del embrague por las arrancadas en pendiente. Diagnosticamos el estado y sustituimos el kit completo cuando es necesario."
+    }
   ],
   "whyUs": [
-    {"title": "Probamos tu BMW en tu terreno", "body": "No nos limitamos a la prueba en llano. Verificamos frenos y suspensión en las propias pendientes de la zona."},
-    {"title": "Especialistas en frenos BMW", "body": "Experiencia directa con los sistemas de frenado de todas las series, incluyendo frenos M Sport de alto rendimiento."},
-    {"title": "Servicio a minutos de Rubió", "body": "Proximidad real: evita desplazamientos largos hasta Igualada o Barcelona para una reparación BMW de calidad."},
-    {"title": "Comunicación directa", "body": "Te informamos de cada hallazgo y cada decisión. Tu presupuesto incluye fotos de los componentes afectados."},
-    {"title": "Recambios de calidad certificada", "body": "Solo utilizamos piezas que igualan o superan las especificaciones originales del fabricante BMW."}
+    {
+      "title": "Probamos tu BMW en tu terreno",
+      "body": "No nos limitamos a la prueba en llano. Verificamos frenos y suspensión en las propias pendientes de la zona."
+    },
+    {
+      "title": "Especialistas en frenos BMW",
+      "body": "Experiencia directa con los sistemas de frenado de todas las series, incluyendo frenos M Sport de alto rendimiento."
+    },
+    {
+      "title": "Servicio a minutos de Rubió",
+      "body": "Proximidad real: evita desplazamientos largos hasta Igualada o Barcelona para una reparación BMW de calidad."
+    },
+    {
+      "title": "Comunicación directa",
+      "body": "Te informamos de cada hallazgo y cada decisión. Tu presupuesto incluye fotos de los componentes afectados."
+    },
+    {
+      "title": "Recambios de calidad certificada",
+      "body": "Solo utilizamos piezas que igualan o superan las especificaciones originales del fabricante BMW."
+    }
   ],
   "testimonialsIntro": "Vecinos de Rubió y alrededores de Igualada comparten su experiencia con nuestro servicio BMW.",
   "testimonials": [
-    {"name": "Albert M.", "neighborhood": "Rubió", "car": "BMW 330i F30", "body": "Los frenos olían a quemado cada vez que bajaba al pueblo. Me pusieron discos y pastillas de alto rendimiento y la diferencia es brutal.", "rating": 5},
-    {"name": "Cristina U.", "neighborhood": "Can Rubió", "car": "BMW X1 U11", "body": "Filtraciones de agua por el techo solar. Resulta que los drenajes estaban tapados con hojas de pino. Limpieza a fondo y problema resuelto.", "rating": 5},
-    {"name": "David P.", "neighborhood": "Rubió", "car": "BMW 520d F11 Touring", "body": "El embrague patinaba en las cuestas. Me cambiaron el kit completo con volante bimasa y ahora sube como nuevo.", "rating": 5},
-    {"name": "Laia O.", "neighborhood": "Urbanización Rubió", "car": "BMW 218i F45", "body": "El amortiguador trasero izquierdo hacía ruido. Lo habían cambiado solo uno antes; aquí me los pusieron por pares y queda perfecto.", "rating": 4}
+    {
+      "name": "Albert M.",
+      "neighborhood": "Rubió",
+      "car": "BMW 330i F30",
+      "body": "Los frenos olían a quemado cada vez que bajaba al pueblo. Me pusieron discos y pastillas de alto rendimiento y la diferencia es brutal.",
+      "rating": 5
+    },
+    {
+      "name": "Cristina U.",
+      "neighborhood": "Can Rubió",
+      "car": "BMW X1 U11",
+      "body": "Filtraciones de agua por el techo solar. Resulta que los drenajes estaban tapados con hojas de pino. Limpieza a fondo y problema resuelto.",
+      "rating": 5
+    },
+    {
+      "name": "David P.",
+      "neighborhood": "Rubió",
+      "car": "BMW 520d F11 Touring",
+      "body": "El embrague patinaba en las cuestas. Me cambiaron el kit completo con volante bimasa y ahora sube como nuevo.",
+      "rating": 5
+    },
+    {
+      "name": "Laia O.",
+      "neighborhood": "Urbanización Rubió",
+      "car": "BMW 218i F45",
+      "body": "El amortiguador trasero izquierdo hacía ruido. Lo habían cambiado solo uno antes; aquí me los pusieron por pares y queda perfecto.",
+      "rating": 4
+    }
   ],
   "zoneText": "Damos servicio a propietarios de BMW en Rubió y en la cuenca de Igualada, con acceso por las carreteras comarcales de la zona.",
-  "zoneNeighborhoods": ["Igualada", "Òdena", "Jorba", "Copons", "Castellolí", "La Torre de Claramunt", "Vilanova del Camí"],
-  "zoneAccessRoutes": ["BV-1032 desde Igualada", "Carreteras comarcales de Rubió", "A-2 salida Igualada"],
+  "zoneNeighborhoods": [
+    "Igualada",
+    "Òdena",
+    "Jorba",
+    "Copons",
+    "Castellolí",
+    "La Torre de Claramunt",
+    "Vilanova del Camí"
+  ],
+  "zoneAccessRoutes": [
+    "BV-1032 desde Igualada",
+    "Carreteras comarcales de Rubió",
+    "A-2 salida Igualada"
+  ],
   "faqLocal": [
-    {"q": "¿Dónde hay un taller BMW cercano a Rubió?", "a": "Nuestro taller especializado BMW atiende a los residentes de Rubió y toda la cuenca de Igualada. Estamos a pocos minutos por las carreteras comarcales."},
-    {"q": "¿Es normal que los frenos de mi BMW huelan al bajar cuestas?", "a": "Un ligero olor puede ser normal en descensos pronunciados, pero si es frecuente o intenso, indica que pastillas o discos necesitan revisión. No lo pospongas."},
-    {"q": "¿El techo solar de mi BMW puede tener filtraciones?", "a": "Sí. Los drenajes del techo solar se obstruyen con facilidad en zonas boscosas. Recomendamos una limpieza anual para prevenir filtraciones que dañen la electrónica interior."},
-    {"q": "¿Cuánto dura un embrague BMW en conducción de montaña?", "a": "En uso intensivo con pendientes frecuentes, el embrague puede necesitar sustitución a partir de los 80.000-100.000 km, frente a los 150.000 km en uso urbano/autovía."},
-    {"q": "¿Hacéis alineación de dirección?", "a": "Sí. Realizamos alineación y equilibrado con equipos de precisión, especialmente recomendable si circulas habitualmente por carreteras con firme irregular."},
-    {"q": "¿Reparáis BMW con suspensión M Sport?", "a": "Sí. Tenemos experiencia con la suspensión deportiva M Sport y sus componentes específicos. Utilizamos recambios adecuados para mantener las prestaciones originales."}
+    {
+      "q": "¿Dónde hay un taller BMW cercano a Rubió?",
+      "a": "Nuestro taller especializado BMW atiende a los residentes de Rubió y toda la cuenca de Igualada. Estamos a pocos minutos por las carreteras comarcales."
+    },
+    {
+      "q": "¿Es normal que los frenos de mi BMW huelan al bajar cuestas?",
+      "a": "Un ligero olor puede ser normal en descensos pronunciados, pero si es frecuente o intenso, indica que pastillas o discos necesitan revisión. No lo pospongas."
+    },
+    {
+      "q": "¿El techo solar de mi BMW puede tener filtraciones?",
+      "a": "Sí. Los drenajes del techo solar se obstruyen con facilidad en zonas boscosas. Recomendamos una limpieza anual para prevenir filtraciones que dañen la electrónica interior."
+    },
+    {
+      "q": "¿Cuánto dura un embrague BMW en conducción de montaña?",
+      "a": "En uso intensivo con pendientes frecuentes, el embrague puede necesitar sustitución a partir de los 80.000-100.000 km, frente a los 150.000 km en uso urbano/autovía."
+    },
+    {
+      "q": "¿Hacéis alineación de dirección?",
+      "a": "Sí. Realizamos alineación y equilibrado con equipos de precisión, especialmente recomendable si circulas habitualmente por carreteras con firme irregular."
+    },
+    {
+      "q": "¿Reparáis BMW con suspensión M Sport?",
+      "a": "Sí. Tenemos experiencia con la suspensión deportiva M Sport y sus componentes específicos. Utilizamos recambios adecuados para mantener las prestaciones originales."
+    }
   ],
   "closingHeadline": "Frenos, suspensión y motor BMW a punto en Rubió",
   "closingCta": "No esperes a que la pendiente ponga a prueba unos frenos desgastados. Contacta con nosotros para una revisión completa de tu BMW.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

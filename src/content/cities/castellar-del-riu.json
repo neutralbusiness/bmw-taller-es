@@ -10,57 +10,183 @@
   "metaDescription": "Taller BMW para Castellar del Riu: suspensión, embrague y electrónica adaptados a pistas forestales y aislamiento de montaña. Diagnóstico profesional BMW.",
   "heroSubtitle": "Conducir un BMW por las pistas de Castellar del Riu exige un mantenimiento que pocos talleres saben dar. Nosotros sí.",
   "trustChips": [
-    {"icon": "🌲", "text": "Taller para zonas aisladas"},
-    {"icon": "🔩", "text": "Suspensión reforzada"},
-    {"icon": "📡", "text": "Diagnóstico electrónico BMW"},
-    {"icon": "🛞", "text": "Neumáticos todoterreno"},
-    {"icon": "📋", "text": "Presupuesto cerrado"},
-    {"icon": "🚗", "text": "Recogida del vehículo"}
+    {
+      "icon": "🌲",
+      "text": "Taller para zonas aisladas"
+    },
+    {
+      "icon": "🔩",
+      "text": "Suspensión reforzada"
+    },
+    {
+      "icon": "📡",
+      "text": "Diagnóstico electrónico BMW"
+    },
+    {
+      "icon": "🛞",
+      "text": "Neumáticos todoterreno"
+    },
+    {
+      "icon": "📋",
+      "text": "Presupuesto cerrado"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida del vehículo"
+    }
   ],
   "introLocal": "Castellar del Riu es uno de esos municipios del Berguedà que no aparecen en las guías turísticas al uso. Con apenas 174 habitantes dispersos entre masías centenarias y una extensión forestal que supera con creces la superficie habitada, este rincón del prepirineo catalán es el paradigma del aislamiento rural. Los caminos que conectan los núcleos de población son estrechos, muchos sin asfaltar, flanqueados por robles y pinos que en otoño alfombran la calzada de hojas húmedas. Mantener un BMW en estas condiciones no es lo mismo que hacerlo en una ciudad: aquí cada kilómetro recorrido equivale, en desgaste mecánico, a varios kilómetros de autovía.\n\nEl principal enemigo de un BMW en Castellar del Riu es la propia orografía. Las pistas forestales que conectan masías y explotaciones agrícolas presentan firmes irregulares, baches profundos y tramos de tierra compactada que se convierten en barrizales después de cada lluvia. La suspensión de un BMW está diseñada para ofrecer confort y estabilidad en carreteras convencionales, pero el castigo constante de estos caminos acelera el deterioro de amortiguadores, silentblocks y rótulas de dirección. En nuestro taller realizamos inspecciones específicas del tren de rodaje, identificando holguras y desgastes prematuros antes de que comprometan la seguridad o generen averías más costosas en cascada.\n\nEl embrague es otro componente que sufre de forma desproporcionada en entornos como Castellar del Riu. Las pendientes pronunciadas obligan a un uso intensivo del pedal, especialmente en arranques en cuesta sobre gravilla o tierra suelta, donde el patinaje es inevitable. Los BMW con cambio manual —cada vez menos frecuentes pero todavía presentes en modelos de la Serie 1 y Serie 3— pueden ver reducida la vida útil del kit de embrague a la mitad respecto a un uso urbano. Diagnosticamos el estado del disco, el plato de presión y el volante bimasa con pruebas dinámicas, no solo visuales.\n\nLa electrónica de los BMW modernos presenta una paradoja en ubicaciones tan remotas como Castellar del Riu: los sistemas están diseñados para conectarse periódicamente a la red de datos del fabricante, actualizar software y reportar diagnósticos. Cuando el vehículo pasa semanas o meses sin cobertura de datos estable, pueden acumularse errores en las centralitas que solo se manifiestan como testigos encendidos en el cuadro de instrumentos o como comportamientos erráticos de sistemas como el Start/Stop, el control de estabilidad o la gestión del motor. Nuestro equipo de diagnóstico se conecta directamente al bus CAN del vehículo para leer, interpretar y borrar códigos de error con conocimiento de causa, no a ciegas.\n\nLa humedad ambiente en los valles forestales de Castellar del Riu es otro factor que muchos talleres generalistas pasan por alto. La condensación que se forma en el interior del motor durante las noches frías, combinada con trayectos cortos en los que el motor no alcanza su temperatura óptima de funcionamiento, genera una emulsión de agua y aceite que reduce la capacidad lubricante y acelera la corrosión interna. Este fenómeno, conocido como mayonesa en el tapón del aceite, es un indicador de que el motor está trabajando en condiciones marginales. Recomendamos a los propietarios de BMW en Castellar del Riu intervalos de cambio de aceite más cortos que los estándar del fabricante, y utilizamos aceites con paquetes de aditivos anticorrosión reforzados para contrarrestar el efecto de la humedad.",
   "servicesIntro": "Nuestro catálogo de servicios BMW está pensado para vehículos que trabajan en condiciones duras: suspensión, embrague, electrónica de motor, sistemas de frenado y mantenimientos con intervalos adaptados al uso real en pistas forestales y caminos sin asfaltar.",
   "processIntro": "Entendemos que desplazarse desde Castellar del Riu requiere planificación. Por eso hemos diseñado un proceso que maximiza la eficiencia de cada visita, desde el primer contacto hasta la entrega del vehículo.",
   "processSteps": [
-    {"title": "Consulta remota por WhatsApp", "body": "Envíanos fotos o vídeos del problema. En muchos casos podemos orientar el diagnóstico antes de que te desplaces, anticipando las piezas necesarias."},
-    {"title": "Recepción y evaluación completa", "body": "Al llegar al taller, inspeccionamos no solo la incidencia reportada, sino el estado general del vehículo: tren de rodaje, niveles, electrónica y carrocería inferior."},
-    {"title": "Diagnóstico electrónico profundo", "body": "Conectamos al bus CAN del BMW para una lectura exhaustiva de todas las centralitas. Identificamos errores latentes que no siempre encienden testigos."},
-    {"title": "Intervención con piezas en stock", "body": "Mantenemos stock de los componentes más habituales en vehículos de uso rural: amortiguadores, rótulas, pastillas, filtros y kits de embrague."},
-    {"title": "Entrega con plan de mantenimiento rural", "body": "Te proponemos un calendario de revisiones adaptado al uso real del coche en Castellar del Riu, con intervalos ajustados al desgaste que genera la conducción por pistas."}
+    {
+      "title": "Consulta remota por WhatsApp",
+      "body": "Envíanos fotos o vídeos del problema. En muchos casos podemos orientar el diagnóstico antes de que te desplaces, anticipando las piezas necesarias."
+    },
+    {
+      "title": "Recepción y evaluación completa",
+      "body": "Al llegar al taller, inspeccionamos no solo la incidencia reportada, sino el estado general del vehículo: tren de rodaje, niveles, electrónica y carrocería inferior."
+    },
+    {
+      "title": "Diagnóstico electrónico profundo",
+      "body": "Conectamos al bus CAN del BMW para una lectura exhaustiva de todas las centralitas. Identificamos errores latentes que no siempre encienden testigos."
+    },
+    {
+      "title": "Intervención con piezas en stock",
+      "body": "Mantenemos stock de los componentes más habituales en vehículos de uso rural: amortiguadores, rótulas, pastillas, filtros y kits de embrague."
+    },
+    {
+      "title": "Entrega con plan de mantenimiento rural",
+      "body": "Te proponemos un calendario de revisiones adaptado al uso real del coche en Castellar del Riu, con intervalos ajustados al desgaste que genera la conducción por pistas."
+    }
   ],
   "commonIssuesIntro": "Los BMW que circulan a diario por los caminos de Castellar del Riu presentan un patrón de averías distinto al de la conducción urbana. Estas son las incidencias que tratamos con mayor frecuencia en vehículos de la zona.",
   "commonIssues": [
-    {"title": "Amortiguadores y silentblocks prematuramente desgastados", "body": "Las pistas sin asfaltar generan vibraciones constantes que fatigan los componentes de la suspensión mucho antes de lo previsto por el fabricante. Revisamos holguras y reemplazamos con piezas reforzadas."},
-    {"title": "Embrague y volante bimasa con desgaste acelerado", "body": "Los arranques en cuesta sobre gravilla y las maniobras lentas en caminos estrechos multiplican el desgaste del embrague. Diagnosticamos el estado del volante bimasa con herramientas específicas BMW."},
-    {"title": "Condensación y emulsión en el circuito de aceite", "body": "La humedad de los valles forestales, combinada con trayectos cortos, produce acumulación de agua en el aceite. Realizamos análisis de aceite y ajustamos los intervalos de cambio."},
-    {"title": "Errores electrónicos acumulados sin conexión de datos", "body": "Los BMW modernos esperan actualizaciones periódicas. Sin conectividad estable, las centralitas acumulan errores latentes que diagnosticamos y resolvemos mediante conexión directa al bus CAN."},
-    {"title": "Daños en bajos y protecciones inferiores", "body": "Piedras sueltas, ramas y badenes sin señalizar impactan en los protectores del cárter, tubos de escape y líneas de freno. Inspeccionamos y reparamos los daños en la zona inferior del vehículo."}
+    {
+      "title": "Amortiguadores y silentblocks prematuramente desgastados",
+      "body": "Las pistas sin asfaltar generan vibraciones constantes que fatigan los componentes de la suspensión mucho antes de lo previsto por el fabricante. Revisamos holguras y reemplazamos con piezas reforzadas."
+    },
+    {
+      "title": "Embrague y volante bimasa con desgaste acelerado",
+      "body": "Los arranques en cuesta sobre gravilla y las maniobras lentas en caminos estrechos multiplican el desgaste del embrague. Diagnosticamos el estado del volante bimasa con herramientas específicas BMW."
+    },
+    {
+      "title": "Condensación y emulsión en el circuito de aceite",
+      "body": "La humedad de los valles forestales, combinada con trayectos cortos, produce acumulación de agua en el aceite. Realizamos análisis de aceite y ajustamos los intervalos de cambio."
+    },
+    {
+      "title": "Errores electrónicos acumulados sin conexión de datos",
+      "body": "Los BMW modernos esperan actualizaciones periódicas. Sin conectividad estable, las centralitas acumulan errores latentes que diagnosticamos y resolvemos mediante conexión directa al bus CAN."
+    },
+    {
+      "title": "Daños en bajos y protecciones inferiores",
+      "body": "Piedras sueltas, ramas y badenes sin señalizar impactan en los protectores del cárter, tubos de escape y líneas de freno. Inspeccionamos y reparamos los daños en la zona inferior del vehículo."
+    }
   ],
   "whyUs": [
-    {"title": "Entendemos el uso rural del BMW", "body": "No aplicamos intervalos de mantenimiento urbano a un coche que circula por pistas forestales. Adaptamos cada servicio al desgaste real que genera el entorno de Castellar del Riu."},
-    {"title": "Diagnóstico electrónico sin atajos", "body": "Leemos todas las centralitas del vehículo, no solo la de motor. Muchos problemas en BMW se originan en módulos secundarios que un escáner genérico no alcanza."},
-    {"title": "Stock de piezas para desgaste rural", "body": "Amortiguadores, rótulas, kits de embrague y filtros: mantenemos en stock los componentes que más se deterioran en conducción por caminos sin asfaltar."},
-    {"title": "Coordinación para zonas remotas", "body": "Sabemos lo que supone desplazarse desde un municipio sin taller. Agrupamos intervenciones y ofrecemos diagnóstico previo por WhatsApp para reducir visitas innecesarias."},
-    {"title": "Informes claros y sin sorpresas", "body": "Cada reparación incluye un informe con fotografías del estado de las piezas, el trabajo realizado y un presupuesto que respetamos íntegramente."}
+    {
+      "title": "Entendemos el uso rural del BMW",
+      "body": "No aplicamos intervalos de mantenimiento urbano a un coche que circula por pistas forestales. Adaptamos cada servicio al desgaste real que genera el entorno de Castellar del Riu."
+    },
+    {
+      "title": "Diagnóstico electrónico sin atajos",
+      "body": "Leemos todas las centralitas del vehículo, no solo la de motor. Muchos problemas en BMW se originan en módulos secundarios que un escáner genérico no alcanza."
+    },
+    {
+      "title": "Stock de piezas para desgaste rural",
+      "body": "Amortiguadores, rótulas, kits de embrague y filtros: mantenemos en stock los componentes que más se deterioran en conducción por caminos sin asfaltar."
+    },
+    {
+      "title": "Coordinación para zonas remotas",
+      "body": "Sabemos lo que supone desplazarse desde un municipio sin taller. Agrupamos intervenciones y ofrecemos diagnóstico previo por WhatsApp para reducir visitas innecesarias."
+    },
+    {
+      "title": "Informes claros y sin sorpresas",
+      "body": "Cada reparación incluye un informe con fotografías del estado de las piezas, el trabajo realizado y un presupuesto que respetamos íntegramente."
+    }
   ],
   "testimonialsIntro": "Vecinos de Castellar del Riu y masías cercanas ya confían en nuestro taller para mantener sus BMW en condiciones óptimas pese al exigente entorno rural. Esto es lo que cuentan.",
   "testimonials": [
-    {"name": "Josep Maria Rovira", "neighborhood": "Castellar del Riu", "car": "BMW X3 xDrive20d", "body": "El X3 es imprescindible para llegar a la masía, pero las pistas le pasan factura. Me cambiaron amortiguadores y todos los silentblocks del eje trasero. El coche vuelve a ir como nuevo por los caminos.", "rating": 5},
-    {"name": "Montserrat Gironès", "neighborhood": "L'Espunyola", "car": "BMW 320d", "body": "Me salía mayonesa en el tapón del aceite y en otro taller me dijeron que podía ser junta de culata. Aquí me explicaron que era condensación por trayectos cortos y frío, me ajustaron el intervalo de aceite y problema resuelto sin dramas.", "rating": 5},
-    {"name": "Albert Farràs", "neighborhood": "Montmajor", "car": "BMW 116d", "body": "El embrague me duró la mitad de lo normal por las cuestas y la gravilla. Me cambiaron el kit completo con volante bimasa y me dieron un plan de mantenimiento realista para el uso que le doy. Muy profesionales.", "rating": 5},
-    {"name": "Carme Santamaria", "neighborhood": "Capolat", "car": "BMW 218d Active Tourer", "body": "Tenía tres testigos encendidos que nadie me sabía explicar. Resultó que eran errores acumulados en centralitas por falta de actualización. Los limpiaron, verificaron que todo estaba correcto y me ahorraron un disgusto.", "rating": 5}
+    {
+      "name": "Josep Maria Rovira",
+      "neighborhood": "Castellar del Riu",
+      "car": "BMW X3 xDrive20d",
+      "body": "El X3 es imprescindible para llegar a la masía, pero las pistas le pasan factura. Me cambiaron amortiguadores y todos los silentblocks del eje trasero. El coche vuelve a ir como nuevo por los caminos.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat Gironès",
+      "neighborhood": "L'Espunyola",
+      "car": "BMW 320d",
+      "body": "Me salía mayonesa en el tapón del aceite y en otro taller me dijeron que podía ser junta de culata. Aquí me explicaron que era condensación por trayectos cortos y frío, me ajustaron el intervalo de aceite y problema resuelto sin dramas.",
+      "rating": 5
+    },
+    {
+      "name": "Albert Farràs",
+      "neighborhood": "Montmajor",
+      "car": "BMW 116d",
+      "body": "El embrague me duró la mitad de lo normal por las cuestas y la gravilla. Me cambiaron el kit completo con volante bimasa y me dieron un plan de mantenimiento realista para el uso que le doy. Muy profesionales.",
+      "rating": 5
+    },
+    {
+      "name": "Carme Santamaria",
+      "neighborhood": "Capolat",
+      "car": "BMW 218d Active Tourer",
+      "body": "Tenía tres testigos encendidos que nadie me sabía explicar. Resultó que eran errores acumulados en centralitas por falta de actualización. Los limpiaron, verificaron que todo estaba correcto y me ahorraron un disgusto.",
+      "rating": 5
+    }
   ],
   "zoneText": "Cubrimos todo el sector central y occidental del Berguedà, incluyendo los municipios más aislados de montaña, los núcleos dispersos de masías y las poblaciones conectadas por carreteras comarcales y pistas forestales.",
-  "zoneNeighborhoods": ["L'Espunyola", "Montmajor", "Capolat", "Viver i Serrateix", "Navàs", "Olvan", "Avià", "Berga"],
-  "zoneAccessRoutes": ["C-16", "B-430", "BV-4131", "C-26"],
+  "zoneNeighborhoods": [
+    "L'Espunyola",
+    "Montmajor",
+    "Capolat",
+    "Viver i Serrateix",
+    "Navàs",
+    "Olvan",
+    "Avià",
+    "Berga"
+  ],
+  "zoneAccessRoutes": [
+    "C-16",
+    "B-430",
+    "BV-4131",
+    "C-26"
+  ],
   "faqLocal": [
-    {"q": "¿Los caminos sin asfaltar de Castellar del Riu dañan la suspensión de un BMW?", "a": "Sí, significativamente. Los firmes irregulares aceleran el desgaste de amortiguadores, silentblocks y rótulas. Recomendamos una inspección del tren de rodaje cada 15.000 km en lugar de los 30.000 km habituales."},
-    {"q": "¿Por qué aparece una sustancia blanquecina en el tapón de aceite de mi BMW?", "a": "Es una emulsión de agua y aceite causada por la condensación que genera la humedad ambiental combinada con trayectos cortos. No suele ser junta de culata; la solución habitual es acortar el intervalo de cambio de aceite."},
-    {"q": "¿Puedo enviar fotos por WhatsApp para un diagnóstico previo?", "a": "Sí, es precisamente lo que recomendamos. Envíanos fotos o vídeos del problema y te orientaremos antes de que te desplaces, para que la visita al taller sea lo más productiva posible."},
-    {"q": "¿Mi BMW Serie 1 con cambio manual durará menos el embrague en Castellar del Riu?", "a": "Es probable. El uso intensivo del embrague en pendientes y sobre gravilla puede reducir la vida útil a 80.000-100.000 km frente a los 150.000 km habituales. Diagnosticamos su estado con pruebas específicas."},
-    {"q": "¿Qué protecciones adicionales necesita un BMW que circula por pistas forestales?", "a": "Recomendamos verificar el estado del protector del cárter, las líneas de freno inferiores y el tubo de escape. En algunos modelos, instalar un protector reforzado de cárter es una inversión que evita averías costosas."},
-    {"q": "¿Los errores electrónicos de mi BMW pueden deberse a la falta de cobertura de datos?", "a": "Sí. Los BMW recientes están diseñados para comunicarse periódicamente con los servidores del fabricante. Sin conectividad, algunas centralitas acumulan errores que requieren borrado profesional."}
+    {
+      "q": "¿Los caminos sin asfaltar de Castellar del Riu dañan la suspensión de un BMW?",
+      "a": "Sí, significativamente. Los firmes irregulares aceleran el desgaste de amortiguadores, silentblocks y rótulas. Recomendamos una inspección del tren de rodaje cada 15.000 km en lugar de los 30.000 km habituales."
+    },
+    {
+      "q": "¿Por qué aparece una sustancia blanquecina en el tapón de aceite de mi BMW?",
+      "a": "Es una emulsión de agua y aceite causada por la condensación que genera la humedad ambiental combinada con trayectos cortos. No suele ser junta de culata; la solución habitual es acortar el intervalo de cambio de aceite."
+    },
+    {
+      "q": "¿Puedo enviar fotos por WhatsApp para un diagnóstico previo?",
+      "a": "Sí, es precisamente lo que recomendamos. Envíanos fotos o vídeos del problema y te orientaremos antes de que te desplaces, para que la visita al taller sea lo más productiva posible."
+    },
+    {
+      "q": "¿Mi BMW Serie 1 con cambio manual durará menos el embrague en Castellar del Riu?",
+      "a": "Es probable. El uso intensivo del embrague en pendientes y sobre gravilla puede reducir la vida útil a 80.000-100.000 km frente a los 150.000 km habituales. Diagnosticamos su estado con pruebas específicas."
+    },
+    {
+      "q": "¿Qué protecciones adicionales necesita un BMW que circula por pistas forestales?",
+      "a": "Recomendamos verificar el estado del protector del cárter, las líneas de freno inferiores y el tubo de escape. En algunos modelos, instalar un protector reforzado de cárter es una inversión que evita averías costosas."
+    },
+    {
+      "q": "¿Los errores electrónicos de mi BMW pueden deberse a la falta de cobertura de datos?",
+      "a": "Sí. Los BMW recientes están diseñados para comunicarse periódicamente con los servidores del fabricante. Sin conectividad, algunas centralitas acumulan errores que requieren borrado profesional."
+    }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda Castellar del Riu",
   "closingCta": "Contacta con nosotros por WhatsApp o teléfono y deja tu BMW en manos de un equipo que sabe lo que exige conducir por las pistas y caminos del Berguedà rural.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

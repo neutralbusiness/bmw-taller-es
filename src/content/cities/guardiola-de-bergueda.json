@@ -10,12 +10,30 @@
   "metaDescription": "Taller especializado en BMW en Guardiola de Berguedà. Expertos en xDrive, suspensión neumática y turbos. Diagnóstico profesional para tu BMW de montaña. Pide cita.",
   "heroSubtitle": "Especialistas BMW en el cruce de montaña del Berguedà. Diagnóstico avanzado, reparación xDrive y mantenimiento integral cerca de ti.",
   "trustChips": [
-    { "icon": "🔧", "text": "Especialistas certificados en BMW" },
-    { "icon": "🏔️", "text": "Expertos en xDrive y tracción total" },
-    { "icon": "💻", "text": "Diagnóstico ISTA+ profesional" },
-    { "icon": "⚙️", "text": "Suspensión neumática y adaptativa" },
-    { "icon": "🛡️", "text": "Garantía en todas las reparaciones" },
-    { "icon": "📍", "text": "Servicio para toda la comarca del Berguedà" }
+    {
+      "icon": "🔧",
+      "text": "Especialistas certificados en BMW"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Expertos en xDrive y tracción total"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico ISTA+ profesional"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Suspensión neumática y adaptativa"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía en todas las reparaciones"
+    },
+    {
+      "icon": "📍",
+      "text": "Servicio para toda la comarca del Berguedà"
+    }
   ],
   "introLocal": "Guardiola de Berguedà ocupa una posición privilegiada en el corazón del Prepirineo catalán, justo en el cruce donde la carretera C-16 se bifurca hacia el túnel del Cadí y la C-26 se dirige al este hacia la Cerdanya y el Ripollès. Este enclave estratégico, a unos 720 metros de altitud, convierte a la localidad en la puerta de entrada natural a algunas de las montañas más emblemáticas de Cataluña, con el majestuoso Pedraforca (2.506 m) dominando el horizonte hacia el norte. Para los propietarios de BMW que transitan o residen en esta zona de montaña, disponer de un taller especializado capaz de atender las exigencias mecánicas que impone el terreno es una necesidad fundamental.\n\nLas condiciones de conducción en el entorno de Guardiola de Berguedà suponen un desafío constante para cualquier vehículo. Los desniveles pronunciados entre el fondo del valle del Llobregat y los puertos de montaña circundantes someten al sistema de transmisión a un esfuerzo sostenido, especialmente en los modelos equipados con tracción integral xDrive. La caja transfer, los diferenciales y el sistema de reparto de par trabajan en rangos extremos cuando se circula por las pistas forestales que llevan a Saldes, Gósol o los accesos al Parque Natural del Cadí-Moixeró. Nuestro taller conoce a fondo estas exigencias y ofrece un servicio de diagnóstico y mantenimiento preventivo diseñado específicamente para BMW que operan en entornos de montaña.\n\nLa altitud y las condiciones climáticas del Berguedà también afectan a sistemas que en entornos urbanos apenas sufren desgaste. Los turbos trabajan con aire menos denso por encima de los 700 metros, lo que provoca que los actuadores de geometría variable se vean sometidos a ciclos de apertura más amplios y frecuentes. El polvo de las pistas y caminos rurales que rodean Guardiola —desde la carretera hacia Bagà hasta los accesos al Pedraforca por la Vall de Gresolet— acelera la saturación de los filtros de partículas y provoca lecturas erróneas en los sensores de presión diferencial. Nuestro equipo de diagnóstico ISTA+ permite identificar estos problemas antes de que generen averías costosas o restricciones de potencia.\n\nEl perfil de vehículos BMW más habitual en Guardiola de Berguedà refleja las necesidades del territorio: los X1, X3 y X5 son los modelos más demandados, junto con las berlinas Serie 3 y Serie 5 Touring que combinan uso diario con escapadas a la montaña. La suspensión neumática adaptativa de los modelos X5 y X7, diseñada para ofrecer confort y control en cualquier superficie, requiere revisiones periódicas cuando se circula habitualmente por caminos irregulares o se cargan los vehículos con equipo de senderismo, escalada o esquí. El aceite de diferencial, tanto delantero como trasero, se degrada más rápidamente con los gradientes pronunciados de la zona, y su sustitución a intervalos adecuados es clave para preservar la mecánica de la transmisión integral.\n\nDesde nuestro taller damos cobertura a todo el eje del Berguedà norte: Bagà, Saldes, Gósol, la Pobla de Lillet, Castellar de n'Hug y todas las poblaciones que confluyen en Guardiola como nudo de comunicaciones. Tanto si eres residente habitual como si visitas la zona para practicar senderismo por el Pedraforca, esquí en la Molina o La Masella accediendo por el túnel del Cadí, o simplemente disfrutas de las rutas de montaña con tu BMW, nuestro equipo está preparado para mantener tu vehículo en las mejores condiciones. Ofrecemos cita previa flexible adaptada a los horarios de quienes vienen de lejos y servicio de diagnóstico rápido para incidencias surgidas en ruta.",
   "servicesIntro": "En nuestro taller especializado BMW para Guardiola de Berguedà ofrecemos una gama completa de servicios adaptados a las exigencias del entorno de montaña: desde el mantenimiento programado con aceites y filtros de especificación BMW Longlife, hasta intervenciones complejas en sistemas xDrive, suspensión neumática, turbocompresores y electrónica de motor, siempre con diagnóstico ISTA+ y recambios de calidad OE.",
@@ -163,9 +181,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

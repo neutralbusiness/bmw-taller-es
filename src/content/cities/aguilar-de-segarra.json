@@ -10,12 +10,30 @@
   "metaDescription": "Servicio técnico BMW en Aguilar de Segarra. Especialistas en mantenimiento para vehículos expuestos al viento, polvo y clima extremo del altiplano sur del Bages.",
   "heroSubtitle": "Servicio BMW profesional en el altiplano del sur del Bages, donde el viento y las distancias exigen un taller que venga a ti",
   "trustChips": [
-    {"icon": "🔧", "text": "Mecánica BMW avanzada"},
-    {"icon": "🌬️", "text": "Expertos clima altiplano"},
-    {"icon": "📍", "text": "Cobertura zona rural"},
-    {"icon": "🛡️", "text": "Piezas con garantía"},
-    {"icon": "🚗", "text": "Recogida en domicilio"},
-    {"icon": "💻", "text": "Diagnóstico digital BMW"}
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW avanzada"
+    },
+    {
+      "icon": "🌬️",
+      "text": "Expertos clima altiplano"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura zona rural"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Piezas con garantía"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida en domicilio"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico digital BMW"
+    }
   ],
   "introLocal": "Aguilar de Segarra ocupa una posición singular en el mapa del Bages: situada en el extremo sur de la comarca, donde la meseta se eleva por encima de los 600 metros y el paisaje se abre en un horizonte amplio de campos de cereal, viñedos dispersos y formaciones rocosas de arenisca. Con apenas 250 habitantes distribuidos entre el pequeño núcleo y un puñado de masías centenarias, este municipio fronterizo con la Anoia vive a medio camino entre dos mundos: el industrial de Manresa al norte y el agrícola de la Segarra al oeste. Es un lugar donde el silencio se mide en kilómetros y donde tener un vehículo fiable no es una comodidad sino una condición para la supervivencia cotidiana.\n\nEl altiplano de Aguilar de Segarra impone a los vehículos un régimen de desgaste particular que los manuales de mantenimiento estándar no contemplan. El viento constante que barre la meseta arrastra polvo mineral, semillas y partículas de tierra seca que se incrustan en cada rendija del vehículo, desde las juntas de las puertas hasta los conductos de ventilación. En verano, las temperaturas superan con facilidad los 35 grados sobre el asfalto expuesto, provocando estrés térmico en neumáticos, fluidos y componentes electrónicos. En invierno, la altitud y la exposición al cierzo hacen que las heladas sean más frecuentes e intensas que en el fondo del valle, con noches que bajan regularmente por debajo de los -5 grados entre diciembre y febrero.\n\nLas carreteras que conectan Aguilar de Segarra con el exterior reflejan fielmente su carácter de pueblo fronterizo. La BV-1031 desciende hacia Calaf y la Anoia, mientras que las pistas locales conducen hacia Rajadell y, desde allí, a la C-25 o la C-55 en dirección a Manresa. Son vías estrechas, con tramos sin arcén y un firme castigado por los ciclos de hielo y deshielo que generan baches y grietas superficiales. Los vehículos agrícolas que comparten estas carreteras dejan además rastros de barro y piedras sueltas que suponen un riesgo constante para los bajos del coche, los neumáticos y los paragolpes delanteros.\n\nPara un propietario de BMW en Aguilar de Segarra, la distancia al taller especializado más cercano ha sido tradicionalmente un obstáculo. Manresa queda a más de 30 kilómetros de carretera comarcal, y Barcelona está prácticamente a una hora y media. Cualquier avería, por menor que sea, implica organizar un desplazamiento largo y perder medio día como mínimo. Esta realidad ha llevado a muchos conductores de la zona a aplazar revisiones y acumular pequeños problemas que, sin intervención a tiempo, derivan en reparaciones costosas. Un testigo encendido en el salpicadero se convierte en algo que se ignora hasta que el fallo se agrava, simplemente porque ir al taller supone demasiado esfuerzo logístico.\n\nNuestro servicio técnico BMW para Aguilar de Segarra nace para romper esa inercia. Ofrecemos diagnóstico y reparación profesional con recogida del vehículo en el propio municipio, de forma que puedas mantener tu BMW en condiciones óptimas sin sacrificar tu jornada. Conocemos el tipo de desgaste que provoca circular por el altiplano del sur del Bages: los filtros que se colmatan antes de tiempo, las baterías que sufren con las heladas extremas, las suspensiones que acusan los baches de las comarcales. Trabajamos con piezas originales BMW y equipamiento de diagnóstico oficial para ofrecer un nivel de servicio idéntico al de un concesionario de ciudad, pero con la cercanía y la flexibilidad que necesita un pueblo como Aguilar de Segarra.",
   "servicesIntro": "Cubrimos todas las necesidades de mantenimiento y reparación de tu BMW, desde las revisiones programadas hasta las intervenciones de mecánica mayor, con atención especial a los problemas que genera el clima extremo y las carreteras del altiplano del sur del Bages.",
@@ -166,9 +184,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

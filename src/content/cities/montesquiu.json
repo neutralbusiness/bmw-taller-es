@@ -10,11 +10,26 @@
   "metaDescription": "Taller especializado en BMW en Montesquiu. Mantenimiento adaptado a carreteras de montaña, frenos y suspensión para la ruta del Ter. Presupuesto sin compromiso.",
   "heroSubtitle": "Tu BMW merece un taller que entienda las exigencias de las carreteras de montaña entre Osona y el Ripollès. Llámanos hoy.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas en conducción de montaña"},
-    {"icon": "🔧", "text": "Diagnosis BMW profesional"},
-    {"icon": "🛡️", "text": "Garantía en cada reparación"},
-    {"icon": "⏱️", "text": "Servicio rápido sin cita previa"},
-    {"icon": "📍", "text": "Cobertura Osona-Ripollès"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas en conducción de montaña"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnosis BMW profesional"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía en cada reparación"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Servicio rápido sin cita previa"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura Osona-Ripollès"
+    }
   ],
   "introLocal": "Montesquiu ocupa una posición singular en la geografía catalana: enclavada en el paso natural entre la Plana de Vic y la comarca del Ripollès, esta villa de poco más de 900 habitantes es la puerta que conecta dos mundos. Su imponente Castell de Montesquiu, convertido hoy en parque y centro cultural, preside un paisaje donde el río Ter se encajona entre montañas antes de abrirse hacia la llanura osonenca. Para quienes conducen un BMW por estas tierras, cada trayecto es una experiencia que pone a prueba la mecánica del vehículo.\n\nLas carreteras que rodean Montesquiu combinan tramos rectos junto al Ter con curvas cerradas de montaña, cambios de rasante pronunciados y pendientes que exigen lo máximo de frenos, transmisión y suspensión. La N-152, arteria principal que une Vic con Ripoll y la frontera francesa, transcurre a escasos kilómetros y concentra un tráfico constante de vehículos que ascienden hacia los puertos pirenaicos. Los conductores de BMW que recorren estas rutas a diario saben que un mantenimiento riguroso no es un lujo, sino una necesidad impuesta por la propia orografía.\n\nEl clima continental de Montesquiu añade un factor adicional de exigencia mecánica. Los inviernos traen heladas frecuentes que castigan las baterías y endurecen los neumáticos, mientras que las nieblas densas del valle del Ter reducen la visibilidad y obligan a un uso intensivo de la iluminación y los sistemas de asistencia a la conducción. En verano, los ascensos prolongados hacia el Ripollès someten los motores a temperaturas elevadas, especialmente en los modelos turboalimentados que predominan en la gama BMW actual. Nuestro taller conoce cada una de estas condiciones y adapta los protocolos de mantenimiento a la realidad climática de la zona.\n\nMontesquiu vive también del turismo que genera su patrimonio histórico y natural. El Castell de Montesquiu atrae visitantes durante todo el año, y las rutas de senderismo por las gargantas del Ter son un reclamo para excursionistas que a menudo llegan en vehículos de alta gama. Para estos visitantes, y para los residentes que necesitan desplazarse hasta Vic o Manlleu para sus gestiones cotidianas, disponer de un servicio técnico BMW cercano y fiable elimina la preocupación de tener que recorrer largas distancias para una simple revisión o una reparación urgente.\n\nNuestro compromiso con Montesquiu y su entorno se traduce en un servicio personalizado que tiene en cuenta las particularidades de cada conductor. Ya sea un BMW Serie 3 que recorre la N-152 a diario o un X3 que afronta los caminos rurales hacia Santa Maria de Besora, aplicamos diagnósticos específicos y utilizamos repuestos de calidad original para garantizar que cada vehículo rinda al máximo en las condiciones reales de la comarca.",
   "servicesIntro": "Ofrecemos una gama completa de servicios para BMW en Montesquiu: desde revisiones periódicas y cambios de aceite hasta reparaciones complejas de motor, caja de cambios y electrónica. Nuestro equipamiento de diagnóstico es compatible con todos los modelos y generaciones BMW, permitiéndonos detectar y resolver cualquier avería con la precisión que tu vehículo merece.",
@@ -118,8 +133,20 @@
     }
   ],
   "zoneText": "Nuestro servicio técnico BMW cubre toda la zona norte de Osona y el acceso al Ripollès, ofreciendo asistencia a conductores de Montesquiu y las poblaciones vecinas del valle del Ter. Si necesitas que recojamos tu vehículo, organizamos el transporte sin coste adicional en un radio de 15 kilómetros.",
-  "zoneNeighborhoods": ["Sant Quirze de Besora", "Santa Maria de Besora", "Sora", "Orís", "Sant Pere de Torelló", "Torelló", "Vidrà"],
-  "zoneAccessRoutes": ["N-152", "C-17", "BV-4601"],
+  "zoneNeighborhoods": [
+    "Sant Quirze de Besora",
+    "Santa Maria de Besora",
+    "Sora",
+    "Orís",
+    "Sant Pere de Torelló",
+    "Torelló",
+    "Vidrà"
+  ],
+  "zoneAccessRoutes": [
+    "N-152",
+    "C-17",
+    "BV-4601"
+  ],
   "faqLocal": [
     {
       "q": "¿Están preparados para BMW que circulan habitualmente por la N-152 hacia el Ripollès?",
@@ -151,9 +178,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

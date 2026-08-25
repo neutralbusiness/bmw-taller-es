@@ -5,17 +5,35 @@
   "ccaa": "Cataluña",
   "population": 2396,
   "lat": 42.2788,
-  "lng": 1.8350,
+  "lng": 1.835,
   "metaTitle": "Taller BMW en Bagà | Especialistas BMW — Diagnóstico Profesional",
   "metaDescription": "Taller BMW en Bagà, Berguedà. Especialistas en averías por frío, preparación invernal y diagnóstico avanzado junto al túnel del Cadí.",
   "heroSubtitle": "Tu BMW preparado para el frío del Berguedà y el paso del Cadí. Diagnóstico avanzado, soluciones rápidas y atención cercana.",
   "trustChips": [
-    {"icon": "snowflake", "text": "Especialistas en averías por frío extremo"},
-    {"icon": "tools", "text": "Diagnóstico BMW con equipo oficial"},
-    {"icon": "shield-check", "text": "Garantía en todas las reparaciones"},
-    {"icon": "clock", "text": "Cita previa en 24 h"},
-    {"icon": "map-pin", "text": "Servicio para todo el Alto Berguedà"},
-    {"icon": "car", "text": "Preparación invernal completa"}
+    {
+      "icon": "snowflake",
+      "text": "Especialistas en averías por frío extremo"
+    },
+    {
+      "icon": "tools",
+      "text": "Diagnóstico BMW con equipo oficial"
+    },
+    {
+      "icon": "shield-check",
+      "text": "Garantía en todas las reparaciones"
+    },
+    {
+      "icon": "clock",
+      "text": "Cita previa en 24 h"
+    },
+    {
+      "icon": "map-pin",
+      "text": "Servicio para todo el Alto Berguedà"
+    },
+    {
+      "icon": "car",
+      "text": "Preparación invernal completa"
+    }
   ],
   "introLocal": "Bagà, capital histórica del Alto Berguedà, se levanta a unos 800 metros de altitud en la confluencia del río Bastareny con el Llobregat. Su casco medieval, presidido por la plaza porticada y la iglesia de Sant Esteve, es uno de los conjuntos góticos mejor conservados de la provincia de Barcelona. Pero más allá de su encanto patrimonial, Bagà es ante todo un punto estratégico: la boca sur del túnel del Cadí convierte a esta villa en puerta de entrada a la Cerdanya, el Ripollès y las estaciones de esquí de La Molina y Masella.\n\nEsta posición privilegiada en el corredor de la C-16 implica un tráfico rodado constante durante todo el año, con picos especialmente intensos en temporada de nieve. Miles de vehículos —entre ellos numerosos BMW de gamas X y Serie 3— atraviesan cada fin de semana el túnel para acceder a las pistas. El frío riguroso del invierno, con temperaturas que bajan con frecuencia de los –5 °C, y las pendientes propias del Prepirineo ponen a prueba cualquier mecánica. Las baterías sufren, los sistemas diésel se resienten y los neumáticos de verano se convierten en un riesgo real sobre asfalto helado. No hay que olvidar que la carretera entre Bagà y Guardiola discurre a la sombra del Pedraforca y acumula placas de hielo hasta bien entrada la primavera.\n\nPor eso contar con un taller especializado en BMW cerca de Bagà no es un lujo, sino una necesidad práctica. Los motores diésel de BMW, referentes en eficiencia, requieren atención específica cuando operan en condiciones de frío prolongado: las bujías de precalentamiento se degradan más rápido, el sistema AdBlue puede cristalizar en el depósito si la resistencia calefactora falla y la electrónica del motor necesita calibraciones que solo un equipo de diagnóstico profesional puede realizar. Nuestro conocimiento de estas particularidades nos permite anticiparnos a las averías antes de que te dejen tirado en la cuneta de camino a la estación. También trabajamos con los sistemas de tracción integral xDrive, fundamentales para moverse con seguridad por las carreteras secundarias del entorno de Bagà cuando la nieve cubre el firme.\n\nAdemás de los residentes de Bagà, atendemos a conductores de toda la zona alta del Berguedà: Guardiola de Berguedà, la Pobla de Lillet, Gósol, Saldes y los pueblos del entorno de la Serra del Cadí. También a quienes, de paso hacia la Cerdanya, notan un testigo encendido o un comportamiento anómalo y prefieren resolver el problema antes de cruzar el túnel. Estar cerca de la C-16 nos permite ofrecer un servicio ágil y accesible, sin necesidad de bajar hasta Berga o desplazarse a Barcelona.\n\nNuestro compromiso con los propietarios de BMW en Bagà y el Alto Berguedà va más allá de la reparación puntual. Ofrecemos planes de mantenimiento adaptados a las condiciones de montaña, revisiones pre-invierno completas y asesoramiento sobre neumáticos de invierno homologados para cada modelo. Creemos que un BMW bien cuidado rinde igual a 800 metros de altitud que a nivel del mar, siempre que las intervenciones las haga quien conoce la marca y el entorno. Esa es nuestra filosofía y la razón por la que cada vez más conductores de BMW en el Berguedà nos eligen como su taller de confianza.",
   "servicesIntro": "En nuestro taller para BMW en Bagà ofrecemos una gama completa de servicios adaptados al uso real que los conductores de la zona dan a sus vehículos: desde revisiones de mantenimiento programado y cambio de aceite con especificaciones BMW Longlife, hasta reparaciones complejas de motor, caja de cambios automática, suspensión neumática y electrónica de carrocería. Todo con recambios de calidad equivalente al original y diagnóstico por ordenador con software específico de la marca.",
@@ -162,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

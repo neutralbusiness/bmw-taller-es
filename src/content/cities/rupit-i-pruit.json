@@ -5,16 +5,31 @@
   "ccaa": "Cataluña",
   "population": 307,
   "lat": 42.0165,
-  "lng": 2.4600,
+  "lng": 2.46,
   "metaTitle": "Taller BMW en Rupit i Pruit | Collsacabra y Sallent",
   "metaDescription": "Servicio BMW en Rupit i Pruit, joya del Collsacabra. Taller para carreteras de acantilado, recogida a domicilio y mecánica integral. Pide presupuesto.",
   "heroSubtitle": "En el espectacular Collsacabra, cada curva cuenta. Confía tu BMW a un taller que conoce las carreteras más exigentes de Osona.",
   "trustChips": [
-    {"icon": "⛰️", "text": "Especialistas en Collsacabra"},
-    {"icon": "🔧", "text": "Mecánica BMW profesional"},
-    {"icon": "🛡️", "text": "Frenos y suspensión reforzados"},
-    {"icon": "🚛", "text": "Recogida gratuita"},
-    {"icon": "📊", "text": "Diagnóstico electrónico total"}
+    {
+      "icon": "⛰️",
+      "text": "Especialistas en Collsacabra"
+    },
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW profesional"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Frenos y suspensión reforzados"
+    },
+    {
+      "icon": "🚛",
+      "text": "Recogida gratuita"
+    },
+    {
+      "icon": "📊",
+      "text": "Diagnóstico electrónico total"
+    }
   ],
   "introLocal": "Rupit i Pruit es uno de los pueblos más espectaculares de Cataluña. Encaramado en el borde del altiplano del Collsacabra, con sus calles empedradas medievales, su puente colgante sobre el río Rupit y las vistas vertiginosas al Salto de Sallent — una cascada de más de cien metros de caída libre —, este municipio de 307 habitantes atrae a miles de visitantes cada año. Pero detrás de la postal turística hay una realidad cotidiana marcada por el aislamiento geográfico, las carreteras de montaña más exigentes de la comarca y una dependencia absoluta del vehículo propio.\n\nLlegar a Rupit i Pruit desde Vic o desde cualquier punto de la Plana de Vic requiere atravesar carreteras de montaña con trazados que desafían la mecánica de cualquier vehículo. La BV-5207 desde Roda de Ter asciende por un terreno de escarpes y cingles con curvas de radio mínimo, desniveles abruptos y tramos donde el asfalto se estrecha hasta dejar apenas espacio para dos coches. Para un BMW, cada uno de estos trayectos es un test de estrés para los frenos, la caja de cambios, la suspensión y los neumáticos. No es la carretera para la que estos coches fueron diseñados, pero es la carretera que sus propietarios en Rupit recorren a diario.\n\nEl Collsacabra, además de ser paisajísticamente único, presenta unas condiciones meteorológicas particulares. La altitud del altiplano (entre 800 y 1.000 metros) trae inviernos rigurosos con heladas frecuentes y posibilidad de nieve. Pero lo más característico son las nieblas que se forman en la base de los acantilados y ascienden hasta envolver las carreteras en una visibilidad prácticamente nula. Conducir un BMW en estas condiciones exige que cada componente del sistema de iluminación, de los sensores de asistencia a la conducción y de los limpiaparabrisas funcione a la perfección. No hay margen para un faro desalineado o una escobilla gastada.\n\nEl turismo que recibe Rupit i Pruit genera un tráfico significativo de vehículos, muchos de ellos de alta gama, cuyos propietarios no están acostumbrados a las condiciones de estas carreteras. Los periodos de mayor afluencia — fines de semana de primavera y otoño — coinciden con épocas en que el firme puede estar húmedo por las lluvias y los tramos sombreados mantienen placas de musgo resbaladizo. Un BMW con los frenos al límite o los neumáticos desgastados se convierte en un peligro para todos en estas carreteras sin arcén ni quitamiedos en muchos tramos.\n\nNuestro taller ofrece a residentes y visitantes frecuentes de Rupit i Pruit un servicio BMW integral con recogida y entrega a domicilio. Conocemos palmo a palmo las carreteras del Collsacabra y sabemos exactamente qué exigen de la mecánica de un BMW. Aplicamos protocolos de mantenimiento específicos para conducción de montaña extrema, porque aquí no valen los intervalos estándar pensados para el centro de Barcelona.",
   "servicesIntro": "Cubrimos todas las necesidades de tu BMW: revisiones de mantenimiento, cambios de aceite y filtros, reparación de motor y turbo, sustitución de embrague y caja de cambios, revisión integral de frenos con cambio de pastillas, discos y líquido, diagnóstico electrónico avanzado, mantenimiento de suspensión y dirección, alineado, preparación para ITV y tratamientos anticorrosivos.",
@@ -118,8 +133,21 @@
     }
   ],
   "zoneText": "Nuestro servicio cubre todo el altiplano del Collsacabra y la zona oriental de Osona, con recogida y entrega gratuita para propietarios de BMW de Rupit i Pruit y las masías del entorno. Llegamos donde otros talleres no llegan.",
-  "zoneNeighborhoods": ["Tavertet", "l'Esquirol (Santa Maria de Corcó)", "Roda de Ter", "les Masies de Roda", "Vilanova de Sau", "Cantonigròs", "Manlleu"],
-  "zoneAccessRoutes": ["BV-5207", "BV-5224", "C-153", "BV-5213"],
+  "zoneNeighborhoods": [
+    "Tavertet",
+    "l'Esquirol (Santa Maria de Corcó)",
+    "Roda de Ter",
+    "les Masies de Roda",
+    "Vilanova de Sau",
+    "Cantonigròs",
+    "Manlleu"
+  ],
+  "zoneAccessRoutes": [
+    "BV-5207",
+    "BV-5224",
+    "C-153",
+    "BV-5213"
+  ],
   "faqLocal": [
     {
       "q": "¿Realmente vienen a recoger el coche hasta Rupit i Pruit?",
@@ -151,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

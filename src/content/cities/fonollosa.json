@@ -5,16 +5,31 @@
   "ccaa": "Cataluña",
   "population": 1438,
   "lat": 41.7659,
-  "lng": 1.7010,
+  "lng": 1.701,
   "metaTitle": "Taller BMW en Fonollosa | Especialistas Bages Rural",
   "metaDescription": "Taller especializado en BMW para Fonollosa y los núcleos de Canet de Fals, Fals y Camps. Servicio adaptado a las exigencias de los caminos agrícolas del Bages.",
   "heroSubtitle": "Cuidamos tu BMW en el corazón agrícola del Bages. Servicio especializado para Fonollosa, Canet de Fals, Fals y Camps.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "🌾", "text": "Adaptados al entorno rural"},
-    {"icon": "🚗", "text": "Recogida a domicilio"},
-    {"icon": "📍", "text": "Cobertura todos los núcleos"},
-    {"icon": "⏱️", "text": "Diagnóstico en 24h"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "🌾",
+      "text": "Adaptados al entorno rural"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida a domicilio"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura todos los núcleos"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Diagnóstico en 24h"
+    }
   ],
   "servicesIntro": "Ofrecemos una gama completa de servicios para BMW adaptados a las necesidades específicas de los conductores de Fonollosa, desde revisiones preventivas reforzadas hasta reparaciones de los daños causados por caminos sin asfaltar y las duras condiciones climáticas de la zona.",
   "processIntro": "Nuestro proceso de trabajo está diseñado para que los propietarios de BMW en Fonollosa reciban un servicio completo sin necesidad de desplazarse hasta la ciudad, minimizando los inconvenientes de la distancia.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

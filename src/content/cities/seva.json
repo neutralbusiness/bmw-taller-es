@@ -4,50 +4,137 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 3436,
-  "lat": 41.8370,
+  "lat": 41.837,
   "lng": 2.2767,
   "metaTitle": "Taller BMW en Seva | Mantenimiento para Commuters",
   "metaDescription": "Taller BMW especializado en Seva, Osona. Revisamos el desgaste de tu commute diario por la C-17: frenos, suspensión y electrónica. Pide cita.",
   "heroSubtitle": "Vives en Seva por la calidad de vida, pero tu BMW paga cada día el peaje de la C-17. Te lo cuidamos como se merece.",
   "trustChips": [
-    { "icon": "🔧", "text": "Especialistas BMW en Osona" },
-    { "icon": "🛣️", "text": "Expertos en desgaste por commute C-17" },
-    { "icon": "🌫️", "text": "Protección anticorrosión por boira" },
-    { "icon": "⚙️", "text": "Diagnosis con equipo original BMW" },
-    { "icon": "📍", "text": "A 10 minutos de Seva" },
-    { "icon": "🕐", "text": "Cita en 24-48h" }
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW en Osona"
+    },
+    {
+      "icon": "🛣️",
+      "text": "Expertos en desgaste por commute C-17"
+    },
+    {
+      "icon": "🌫️",
+      "text": "Protección anticorrosión por boira"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Diagnosis con equipo original BMW"
+    },
+    {
+      "icon": "📍",
+      "text": "A 10 minutos de Seva"
+    },
+    {
+      "icon": "🕐",
+      "text": "Cita en 24-48h"
+    }
   ],
   "introLocal": "Seva ha vivido una transformación silenciosa en las últimas dos décadas. Lo que era un pueblo agrícola de la Plana de Vic se ha convertido en uno de los refugios residenciales favoritos para quienes trabajan en Barcelona pero ya no quieren vivir allí. Casas con jardín, aire limpio, el Ter cerca y la sensación de pueblo, todo a menos de una hora de la ciudad gracias a la C-17. Es una decisión que mucha gente de Seva no cambiaría por nada. El problema es que esa hora de coche, ida y vuelta, cinco días a la semana, se lo cobra alguien: tu BMW.\n\nEl trayecto Seva-Barcelona por la C-17 no es un paseo. Empieza en carretera comarcal, entra en autovía a la altura de Centelles, atraviesa túneles, absorbe las curvas de El Congost y termina en el tráfico denso de la entrada a Barcelona. Son kilómetros de conducción muy variada en muy poco tiempo: aceleraciones en incorporaciones, frenadas bruscas por retenciones, cambios de rasante en los túneles y luego, de golpe, el stop-and-go de la ciudad. Para un motor y una suspensión BMW, diseñados para rendir en un rango amplio de condiciones, esta variabilidad diaria acumula un desgaste distinto al de quien solo hace trayectos urbanos o solo carretera. Vemos discos de freno con un desgaste irregular característico, bujes y silentblocks que ceden antes de lo esperado, y neumáticos con un desgaste asimétrico por la combinación de curvas de montaña y autovía recta.\n\nA esto se suma el clima de la Plana de Vic. Los inviernos en Seva traen boira espesa y persistente, sobre todo en las horas en que la gente sale hacia el trabajo. Esa humedad constante, combinada con las sales que se usan en la C-17 y en los tramos de montaña cuando hiela, es una combinación agresiva para los bajos y los sistemas de frenado de cualquier coche, pero especialmente para los BMW con conectores y sensores electrónicos expuestos en el tren delantero y trasero. No es raro que veamos avisos en el cuadro que aparecen solo con humedad, corrosión incipiente en terminales eléctricos, o testigos de ABS y sensores de aparcamiento que fallan de forma intermitente durante los meses de niebla.\n\nLos veranos, en cambio, aprietan por el otro extremo: calor seco, polvo de los caminos agrícolas del entorno de Seva y Centelles, y trayectos por autovía a temperaturas altas que exigen mucho al sistema de refrigeración y al aire acondicionado. Un BMW que hace cada día el Seva-Barcelona-Seva en agosto somete su motor a ciclos térmicos exigentes: arranque en frío por la mañana, autovía a temperatura de servicio, parón en un atasco con el aire a tope, y vuelta a casa por la tarde con el asfalto todavía caliente. Es el tipo de uso real, intensivo, para el que muchos manuales de mantenimiento genéricos no están pensados.\n\nNosotros trabajamos con vecinos de Seva que hacen exactamente este recorrido cada día, y hemos ajustado nuestros protocolos de revisión a ese patrón de uso concreto: no es lo mismo revisar un BMW de alguien que hace 8.000 km al año dentro de Vic que revisar el de alguien que hace 25.000 km al año entre Seva y Barcelona por la C-17. Sabemos qué piezas fallan antes en ese perfil de conducción, qué controlar en cada revisión y cómo anticiparnos a la avería antes de que aparezca en mitad de un atasco en el Vallès.",
   "servicesIntro": "Ofrecemos mantenimiento y reparación especializada en BMW, con protocolos adaptados al uso real de quienes combinan carretera de montaña, autovía y ciudad en su día a día entre Seva y Barcelona.",
   "processIntro": "Un proceso pensado para minimizar tu tiempo sin coche, sabiendo que lo necesitas cada mañana para llegar al trabajo.",
   "processSteps": [
-    { "title": "Diagnóstico con equipo original BMW", "body": "Conectamos tu BMW al mismo sistema que usa la marca para leer todos los módulos electrónicos, no solo el motor, y detectar avisos ocultos antes de que se conviertan en avería." },
-    { "title": "Revisión orientada a tu commute", "body": "Comprobamos específicamente los puntos que más sufren en el trayecto Seva-Barcelona: frenos, suspensión, neumáticos y estanqueidad de conectores eléctricos frente a la humedad." },
-    { "title": "Presupuesto claro antes de tocar nada", "body": "Te explicamos qué hay que hacer, qué puede esperar y qué precio tiene cada cosa, sin sorpresas al recoger el coche." },
-    { "title": "Reparación y verificación en carretera", "body": "Una vez reparado, hacemos una prueba real que incluye tramo de autovía para confirmar que todo responde como debe antes de devolvértelo." },
-    { "title": "Seguimiento y próxima revisión", "body": "Te avisamos con antelación cuando toca la siguiente revisión según tu kilometraje real, no según una tabla genérica." }
+    {
+      "title": "Diagnóstico con equipo original BMW",
+      "body": "Conectamos tu BMW al mismo sistema que usa la marca para leer todos los módulos electrónicos, no solo el motor, y detectar avisos ocultos antes de que se conviertan en avería."
+    },
+    {
+      "title": "Revisión orientada a tu commute",
+      "body": "Comprobamos específicamente los puntos que más sufren en el trayecto Seva-Barcelona: frenos, suspensión, neumáticos y estanqueidad de conectores eléctricos frente a la humedad."
+    },
+    {
+      "title": "Presupuesto claro antes de tocar nada",
+      "body": "Te explicamos qué hay que hacer, qué puede esperar y qué precio tiene cada cosa, sin sorpresas al recoger el coche."
+    },
+    {
+      "title": "Reparación y verificación en carretera",
+      "body": "Una vez reparado, hacemos una prueba real que incluye tramo de autovía para confirmar que todo responde como debe antes de devolvértelo."
+    },
+    {
+      "title": "Seguimiento y próxima revisión",
+      "body": "Te avisamos con antelación cuando toca la siguiente revisión según tu kilometraje real, no según una tabla genérica."
+    }
   ],
   "commonIssuesIntro": "Estas son las averías que vemos con más frecuencia en los BMW de conductores que hacen el trayecto diario entre Seva y Barcelona por la C-17.",
   "commonIssues": [
-    { "title": "Desgaste prematuro de frenos", "body": "Las frenadas repetidas en las retenciones de entrada a Barcelona, combinadas con las curvas de bajada hacia Centelles, gastan discos y pastillas más rápido que en un uso urbano estándar." },
-    { "title": "Silentblocks y buje de suspensión", "body": "El paso constante de firme de montaña a autovía lisa acelera el desgaste de los elementos de suspensión, generando ruidos y pérdida de precisión en la dirección." },
-    { "title": "Corrosión por boira invernal", "body": "La humedad persistente de la Plana de Vic ataca conectores, sensores de aparcamiento y terminales eléctricos del bajo del coche durante los meses de niebla." },
-    { "title": "Testigos ABS y sensores intermitentes", "body": "Fallos que aparecen solo en días húmedos o con niebla, y que muchas veces se diagnostican mal si no se conoce el patrón climático de la zona." },
-    { "title": "Sobrecalentamiento en verano por ciclo térmico", "body": "El arranque en frío, la autovía a temperatura de servicio y el atasco con el aire acondicionado a tope exigen mucho al sistema de refrigeración en los meses de calor." }
+    {
+      "title": "Desgaste prematuro de frenos",
+      "body": "Las frenadas repetidas en las retenciones de entrada a Barcelona, combinadas con las curvas de bajada hacia Centelles, gastan discos y pastillas más rápido que en un uso urbano estándar."
+    },
+    {
+      "title": "Silentblocks y buje de suspensión",
+      "body": "El paso constante de firme de montaña a autovía lisa acelera el desgaste de los elementos de suspensión, generando ruidos y pérdida de precisión en la dirección."
+    },
+    {
+      "title": "Corrosión por boira invernal",
+      "body": "La humedad persistente de la Plana de Vic ataca conectores, sensores de aparcamiento y terminales eléctricos del bajo del coche durante los meses de niebla."
+    },
+    {
+      "title": "Testigos ABS y sensores intermitentes",
+      "body": "Fallos que aparecen solo en días húmedos o con niebla, y que muchas veces se diagnostican mal si no se conoce el patrón climático de la zona."
+    },
+    {
+      "title": "Sobrecalentamiento en verano por ciclo térmico",
+      "body": "El arranque en frío, la autovía a temperatura de servicio y el atasco con el aire acondicionado a tope exigen mucho al sistema de refrigeración en los meses de calor."
+    }
   ],
   "whyUs": [
-    { "title": "Conocemos tu trayecto de memoria", "body": "Sabemos exactamente qué le pasa a un BMW que hace cada día el Seva-Centelles-C-17-Barcelona, porque atendemos a muchos vecinos que hacen esa ruta." },
-    { "title": "Cerca de casa, sin perder tiempo", "body": "A pocos minutos de Seva, para que dejar o recoger el coche no te robe la tarde." },
-    { "title": "Equipo de diagnóstico original BMW", "body": "Nada de escáneres genéricos: usamos el mismo sistema que la marca para leer todos los módulos del vehículo." },
-    { "title": "Presupuesto cerrado y sin sorpresas", "body": "Te decimos el precio antes de empezar, y nos ceñimos a él salvo que aparezca algo que te consultemos primero." },
-    { "title": "Coche de sustitución para no perder tu rutina", "body": "Si la reparación requiere más de un día, te ofrecemos alternativa para que no falte a tu commute a Barcelona." }
+    {
+      "title": "Conocemos tu trayecto de memoria",
+      "body": "Sabemos exactamente qué le pasa a un BMW que hace cada día el Seva-Centelles-C-17-Barcelona, porque atendemos a muchos vecinos que hacen esa ruta."
+    },
+    {
+      "title": "Cerca de casa, sin perder tiempo",
+      "body": "A pocos minutos de Seva, para que dejar o recoger el coche no te robe la tarde."
+    },
+    {
+      "title": "Equipo de diagnóstico original BMW",
+      "body": "Nada de escáneres genéricos: usamos el mismo sistema que la marca para leer todos los módulos del vehículo."
+    },
+    {
+      "title": "Presupuesto cerrado y sin sorpresas",
+      "body": "Te decimos el precio antes de empezar, y nos ceñimos a él salvo que aparezca algo que te consultemos primero."
+    },
+    {
+      "title": "Coche de sustitución para no perder tu rutina",
+      "body": "Si la reparación requiere más de un día, te ofrecemos alternativa para que no falte a tu commute a Barcelona."
+    }
   ],
   "testimonialsIntro": "Esto es lo que cuentan algunos vecinos de Seva y alrededores que confían en nosotros para cuidar su BMW.",
   "testimonials": [
-    { "name": "Marc Pujol", "neighborhood": "Seva centro", "car": "BMW Serie 3", "body": "Hago el Seva-Barcelona cada día por la C-17 y notaba vibración en los frenos desde hacía meses. Me explicaron que era por el tipo de frenada que hago en las retenciones y me lo dejaron perfecto.", "rating": 5 },
-    { "name": "Laia Vilardell", "neighborhood": "Urbanització Can Passavent", "car": "BMW X1", "body": "Se me encendía el testigo de ABS solo los días de niebla, algo que en otro taller no supieron explicarme. Aquí lo relacionaron enseguida con la humedad de la zona y solucionado.", "rating": 5 },
-    { "name": "Jordi Ferran", "neighborhood": "Seva", "car": "BMW Serie 1", "body": "Trato cercano y precios claros. Vine porque me pillaba a mano viniendo de Centelles y ahora ya no me planteo llevar el coche a otro sitio.", "rating": 5 },
-    { "name": "Anna Rovira", "neighborhood": "Can Miró", "car": "BMW Serie 5", "body": "El coche se me recalentaba en verano en los atascos de entrada a Barcelona. Revisaron el sistema de refrigeración y desde entonces no he tenido ningún problema más.", "rating": 5 }
+    {
+      "name": "Marc Pujol",
+      "neighborhood": "Seva centro",
+      "car": "BMW Serie 3",
+      "body": "Hago el Seva-Barcelona cada día por la C-17 y notaba vibración en los frenos desde hacía meses. Me explicaron que era por el tipo de frenada que hago en las retenciones y me lo dejaron perfecto.",
+      "rating": 5
+    },
+    {
+      "name": "Laia Vilardell",
+      "neighborhood": "Urbanització Can Passavent",
+      "car": "BMW X1",
+      "body": "Se me encendía el testigo de ABS solo los días de niebla, algo que en otro taller no supieron explicarme. Aquí lo relacionaron enseguida con la humedad de la zona y solucionado.",
+      "rating": 5
+    },
+    {
+      "name": "Jordi Ferran",
+      "neighborhood": "Seva",
+      "car": "BMW Serie 1",
+      "body": "Trato cercano y precios claros. Vine porque me pillaba a mano viniendo de Centelles y ahora ya no me planteo llevar el coche a otro sitio.",
+      "rating": 5
+    },
+    {
+      "name": "Anna Rovira",
+      "neighborhood": "Can Miró",
+      "car": "BMW Serie 5",
+      "body": "El coche se me recalentaba en verano en los atascos de entrada a Barcelona. Revisaron el sistema de refrigeración y desde entonces no he tenido ningún problema más.",
+      "rating": 5
+    }
   ],
   "zoneText": "Atendemos a conductores de Seva y de toda la comarca de Osona sur, especialmente a quienes comparten el mismo patrón de conducción diaria hacia Barcelona a través de la C-17.",
   "zoneNeighborhoods": [
@@ -67,21 +154,39 @@
     "Acceso desde Aiguafreda por la antigua carretera de montaña"
   ],
   "faqLocal": [
-    { "q": "¿Cada cuánto debo revisar mi BMW si hago el trayecto Seva-Barcelona a diario?", "a": "Con un uso intensivo de autovía y montaña combinado, recomendamos adelantar la revisión de frenos y suspensión respecto al intervalo estándar del fabricante, normalmente cada 15.000 km en lugar de esperar al servicio completo." },
-    { "q": "¿Por qué se me enciende el testigo de ABS solo cuando hay niebla?", "a": "Es un problema habitual en la zona de la Plana de Vic: la humedad afecta a conectores y sensores de aparcamiento o ABS que tienen alguna conexión degradada. Se diagnostica con el equipo original y normalmente tiene solución sencilla." },
-    { "q": "¿Trabajáis con coche de sustitución para no perder mi rutina de commute?", "a": "Sí, si la reparación se alarga más de un día te facilitamos un vehículo de sustitución para que no dependas del coche parado para llegar al trabajo." },
-    { "q": "¿Es normal que los frenos se desgasten más rápido haciendo este trayecto?", "a": "Sí, la combinación de curvas de bajada hacia Centelles y las frenadas repetidas en las retenciones de entrada a Barcelona desgastan discos y pastillas más rápido que en un uso solo urbano." },
-    { "q": "¿Cuánto tardáis en dar cita desde Seva?", "a": "Normalmente dentro de 24 a 48 horas, y si es una avería que te impide ir a trabajar intentamos priorizarla el mismo día." },
-    { "q": "¿Hacéis revisión previa a la ITV?", "a": "Sí, revisamos todos los puntos habituales de la inspección y te avisamos si hay algo que conviene corregir antes de pasarla." }
+    {
+      "q": "¿Cada cuánto debo revisar mi BMW si hago el trayecto Seva-Barcelona a diario?",
+      "a": "Con un uso intensivo de autovía y montaña combinado, recomendamos adelantar la revisión de frenos y suspensión respecto al intervalo estándar del fabricante, normalmente cada 15.000 km en lugar de esperar al servicio completo."
+    },
+    {
+      "q": "¿Por qué se me enciende el testigo de ABS solo cuando hay niebla?",
+      "a": "Es un problema habitual en la zona de la Plana de Vic: la humedad afecta a conectores y sensores de aparcamiento o ABS que tienen alguna conexión degradada. Se diagnostica con el equipo original y normalmente tiene solución sencilla."
+    },
+    {
+      "q": "¿Trabajáis con coche de sustitución para no perder mi rutina de commute?",
+      "a": "Sí, si la reparación se alarga más de un día te facilitamos un vehículo de sustitución para que no dependas del coche parado para llegar al trabajo."
+    },
+    {
+      "q": "¿Es normal que los frenos se desgasten más rápido haciendo este trayecto?",
+      "a": "Sí, la combinación de curvas de bajada hacia Centelles y las frenadas repetidas en las retenciones de entrada a Barcelona desgastan discos y pastillas más rápido que en un uso solo urbano."
+    },
+    {
+      "q": "¿Cuánto tardáis en dar cita desde Seva?",
+      "a": "Normalmente dentro de 24 a 48 horas, y si es una avería que te impide ir a trabajar intentamos priorizarla el mismo día."
+    },
+    {
+      "q": "¿Hacéis revisión previa a la ITV?",
+      "a": "Sí, revisamos todos los puntos habituales de la inspección y te avisamos si hay algo que conviene corregir antes de pasarla."
+    }
   ],
   "closingHeadline": "Tu BMW también hace el Seva-Barcelona cada día. Que no note el desgaste.",
   "closingCta": "Pide cita y déjanos revisar los puntos que más sufren con tu commute diario por la C-17.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

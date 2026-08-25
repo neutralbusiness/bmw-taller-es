@@ -4,17 +4,32 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 2193,
-  "lat": 42.0380,
+  "lat": 42.038,
   "lng": 2.3647,
   "metaTitle": "Taller BMW en L'Esquirol | Montaña y Collsacabra",
   "metaDescription": "Taller BMW cerca de L'Esquirol, puerta del Collsacabra. Especialistas en mantenimiento para conducción de montaña, pendientes y clima de altitud en Osona.",
   "heroSubtitle": "Tu BMW sube al Collsacabra contigo. Nosotros nos aseguramos de que cada componente esté listo para la montaña.",
   "trustChips": [
-    {"icon": "⛰️", "text": "BMW de montaña"},
-    {"icon": "🔧", "text": "Mecánica especializada"},
-    {"icon": "❄️", "text": "Preparación invernal"},
-    {"icon": "🛡️", "text": "Piezas originales"},
-    {"icon": "🏔️", "text": "Zona Collsacabra"}
+    {
+      "icon": "⛰️",
+      "text": "BMW de montaña"
+    },
+    {
+      "icon": "🔧",
+      "text": "Mecánica especializada"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación invernal"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Piezas originales"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Zona Collsacabra"
+    }
   ],
   "introLocal": "L'Esquirol es la puerta del Collsacabra, uno de los paisajes más espectaculares de la Cataluña interior. Desde este municipio se accede a los acantilados de Tavertet, al Santuari de Cabrera, a las rutas de senderismo del Far y a un territorio de montaña media que atrae a excursionistas y amantes de la naturaleza durante todo el año. Pero L'Esquirol no es solo turismo de fin de semana: es un pueblo vivo con habitantes que se desplazan a diario por carreteras de montaña donde las condiciones de conducción no tienen nada que ver con el llano de la Plana de Vic. Aquí arriba, cada trayecto es una prueba de la capacidad mecánica del vehículo: pendientes que obligan a reducir dos marchas, curvas ciegas tras las que puede aparecer un ciclista o un rebaño, y tramos de sombra donde la escarcha persiste hasta mediodía en los meses fríos.\n\nLos BMW que circulan por L'Esquirol y los accesos al Collsacabra se enfrentan a un reto mecánico constante. Las carreteras que suben desde Vic y Roda de Ter son un encadenamiento de curvas cerradas, pendientes del ocho y diez por ciento, y tramos estrechos donde hay que ceder el paso a vehículos en sentido contrario sobre firmes deteriorados por las heladas. Las bajadas son igualmente exigentes: el freno de motor trabaja sin descanso y los discos de freno acumulan temperaturas que en terreno llano jamás alcanzarían. El olor a pastilla de freno caliente al llegar al pueblo tras una bajada intensa es una experiencia que los conductores de L'Esquirol conocen de sobra, señal inequívoca de que los materiales están trabajando al límite de su capacidad.\n\nLa altitud de L'Esquirol, por encima de los 700 metros, impone condiciones climáticas más severas que en el fondo del valle. Las heladas llegan antes en otoño y se marchan más tarde en primavera. La nieve, infrecuente en Vic, aquí aparece varias veces cada invierno y obliga a circular con precaución durante días hasta que se funde. La humedad de las nieblas que ascienden desde la Plana se condensa sobre los vehículos aparcados al aire libre, y la temperatura nocturna puede caer diez grados por debajo de cero, sometiendo baterías, aceites y líquidos de freno a un esfuerzo extremo.\n\nEste entorno moldea un tipo de desgaste específico en los BMW. Los motores trabajan más forzados en las subidas y necesitan lubricantes que mantengan sus propiedades viscosas en un rango térmico amplísimo. Las cadenas cinemáticas de los modelos xDrive se someten a esfuerzos laterales y de tracción inusuales en las curvas de montaña. Los sistemas electrónicos de estabilidad y control de tracción se activan con una frecuencia que acelera el desgaste de sensores y actuadores. Un BMW que vive en L'Esquirol puede activar el control de estabilidad varias veces en un solo trayecto de diez minutos si la carretera está húmeda o helada, mientras que el mismo modelo en ciudad apenas lo necesitaría una vez al mes.\n\nNuestro taller comprende las exigencias de conducir un BMW en L'Esquirol y el Collsacabra. Cada servicio se plantea con la conciencia de que este no es un coche de ciudad, sino un vehículo que debe responder en condiciones de montaña real. Desde la elección del aceite hasta la revisión de frenos, cada decisión técnica se toma pensando en las pendientes, el frío y las curvas que tu BMW afronta cada día.",
   "servicesIntro": "Nuestro servicio abarca todo lo que tu BMW necesita para rendir en las condiciones exigentes de la montaña: desde mantenimiento preventivo reforzado hasta reparaciones de motor, transmisión, frenos y electrónica adaptadas al uso en altitud.",
@@ -161,9 +176,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

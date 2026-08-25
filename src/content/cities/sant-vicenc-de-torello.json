@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW en Sant Vicenç de Torelló. Mantenimiento y reparación para profesionales de Osona. Diagnóstico avanzado. Presupuesto gratis.",
   "heroSubtitle": "Servicio BMW de confianza para los profesionales de Sant Vicenç de Torelló. Diagnóstico avanzado y reparación sin demoras.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "📍", "text": "Servicio en Osona"},
-    {"icon": "⏱️", "text": "Reparación sin demoras"},
-    {"icon": "💶", "text": "Presupuesto gratuito"},
-    {"icon": "🛡️", "text": "Garantía por escrito"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "📍",
+      "text": "Servicio en Osona"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Reparación sin demoras"
+    },
+    {
+      "icon": "💶",
+      "text": "Presupuesto gratuito"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía por escrito"
+    }
   ],
   "introLocal": "Sant Vicenç de Torelló es una localidad de poco más de dos mil habitantes enclavada en el valle del río Ter, en plena comarca de Osona. Su historia está íntimamente ligada a la industria textil que durante décadas marcó el ritmo de vida de toda la zona. Las antiguas fábricas a orillas del Ter dieron trabajo a generaciones enteras y forjaron un carácter local marcado por la constancia, el esfuerzo y la fiabilidad. Aunque muchas de aquellas naves textiles han cerrado o se han reconvertido, su legado permanece en la mentalidad de los vecinos: gente práctica que valora la calidad, la durabilidad y el trabajo bien hecho. Ese mismo espíritu es el que aplicamos al cuidado de los vehículos BMW de quienes hoy siguen moviendo la economía de este rincón del Prepirineo catalán.\n\nLa proximidad inmediata a Torelló convierte a Sant Vicenç en un núcleo donde conviven familias trabajadoras, pequeños empresarios y autónomos que necesitan su coche cada día sin excepción. Muchos de ellos recorren la C-17 a diario para desplazarse a polígonos industriales, almacenes o clientes repartidos entre Vic, Manlleu y más allá. Para quien depende de su BMW como herramienta de trabajo, una avería no es solo un inconveniente: es una jornada perdida, un cliente que no se visita, una entrega que no llega. Por eso ofrecemos un servicio pensado para minimizar tiempos de taller y devolver el vehículo en perfectas condiciones lo antes posible, porque entendemos que cada hora sin coche tiene un coste real para tu negocio.\n\nEl clima continental de la zona, con inviernos fríos y nieblas persistentes en el fondo del valle, somete a los vehículos a un desgaste particular. Los arranques en frío repetidos, la humedad constante y las heladas nocturnas afectan a baterías, sistemas de inyección y componentes electrónicos. En verano, el polvo de las zonas industriales y los caminos de acceso a naves y parcelas se cuela en filtros y conductos. Conocemos estas condiciones de primera mano porque trabajamos con conductores de la comarca desde hace años y adaptamos cada revisión a la realidad climática y al uso intensivo que se le da al vehículo en esta zona del interior de Barcelona.\n\nSant Vicenç de Torelló mantiene ese carácter de pueblo donde la gente se conoce y la confianza se gana con hechos. Los talleres de la zona saben que aquí la reputación lo es todo: un trabajo bien hecho genera recomendaciones de boca a boca que ningún anuncio puede sustituir. Nuestro compromiso con los propietarios de BMW de Sant Vicenç y alrededores es precisamente ese: transparencia en el diagnóstico, honestidad en el presupuesto y calidad en cada intervención, desde un simple cambio de aceite hasta una reparación compleja de motor o caja de cambios.\n\nSi conduces un BMW y vives o trabajas en Sant Vicenç de Torelló, cuentas con un servicio técnico que entiende tanto tu coche como tu forma de vida. Sabemos que tu vehículo no es un capricho sino una necesidad, una extensión de tu jornada laboral que debe funcionar cada mañana sin excusas. Lo tratamos con la seriedad que merece, aplicando la misma exigencia que los ingenieros de Múnich pusieron al diseñarlo. Estamos a una llamada de distancia para cualquier consulta, revisión programada o urgencia mecánica.",
   "servicesIntro": "Cubrimos toda la gama de servicios para vehículos BMW: mantenimientos periódicos con aceites y piezas de calidad OEM, diagnosis electrónica con equipo específico BMW, reparación de motor y transmisión, sistemas de frenos, suspensión, dirección, climatización, electricidad y electrónica del vehículo. También realizamos preparación para ITV y asesoramiento técnico personalizado.",
@@ -158,9 +173,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

@@ -10,11 +10,26 @@
   "metaDescription": "Servicio BMW especializado cerca de Sant Pere de Torelló. Reparación y mantenimiento para el clima húmedo del valle del Ter. Diagnóstico profesional en Osona.",
   "heroSubtitle": "En el corazón industrial del Ter, tu BMW merece técnicos que conozcan cada desafío de estas carreteras y este clima.",
   "trustChips": [
-    {"icon": "🔧", "text": "Mecánica BMW avanzada"},
-    {"icon": "💧", "text": "Protección antihumedad"},
-    {"icon": "🏭", "text": "Zona industrial cubierta"},
-    {"icon": "⚡", "text": "Electrónica especializada"},
-    {"icon": "📋", "text": "Garantía por escrito"}
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW avanzada"
+    },
+    {
+      "icon": "💧",
+      "text": "Protección antihumedad"
+    },
+    {
+      "icon": "🏭",
+      "text": "Zona industrial cubierta"
+    },
+    {
+      "icon": "⚡",
+      "text": "Electrónica especializada"
+    },
+    {
+      "icon": "📋",
+      "text": "Garantía por escrito"
+    }
   ],
   "introLocal": "Sant Pere de Torelló se asienta en el tramo alto del valle del Ter, donde el río describe sus últimas curvas amplias antes de encajarse hacia el sur. Este municipio del norte de Osona comparte con la vecina Torelló un pasado industrial que todavía define su carácter: naves reconvertidas, polígonos activos y una población trabajadora que se desplaza entre las fábricas de la ribera y los barrios residenciales de las laderas. Aquí, los BMW circulan por carreteras que combinan asfalto industrial desgastado con tramos de montaña que ascienden hacia la Serra de Bellmunt. La estampa de chimeneas antiguas junto a naves modernas es el telón de fondo de un municipio que ha sabido reinventarse sin perder la memoria de lo que fue: un motor económico del alto Ter que sigue generando empleo y movimiento.\n\nLa proximidad al río Ter marca profundamente las condiciones que soportan los vehículos en Sant Pere de Torelló. La humedad relativa se mantiene elevada durante gran parte del año, y en invierno la niebla del fondo del valle puede persistir hasta bien entrada la mañana. Esta humedad constante penetra en conectores eléctricos, acelera la corrosión galvánica entre metales diferentes y favorece la aparición de moho en conductos de climatización. Los BMW, con su compleja red de módulos electrónicos, son particularmente sensibles a estos efectos. Los propietarios que aparcan sus coches junto al río o en las zonas bajas del pueblo notan cómo los contactos eléctricos se deterioran más rápido y cómo los testigos del cuadro se encienden con más frecuencia en las mañanas de diciembre y enero.\n\nLa actividad industrial de la zona añade otro factor: las partículas en suspensión procedentes de naves y talleres se depositan sobre la carrocería y se filtran en el sistema de ventilación. Los filtros de habitáculo y de motor se colmatan más rápido que en zonas exclusivamente residenciales. Al mismo tiempo, el tráfico de vehículos pesados por las carreteras de acceso a los polígonos deteriora el firme, creando baches e irregularidades que castigan la suspensión y la dirección de los turismos que comparten esas vías. Las rotondas de acceso a las zonas industriales, diseñadas para camiones, presentan radios amplios que los turismos recorren a velocidades inadecuadas, generando desgaste lateral en los neumáticos que pasa desapercibido hasta que la banda de rodadura muestra un patrón irregular preocupante.\n\nLos conductores de Sant Pere de Torelló que eligen BMW lo hacen por prestaciones y fiabilidad, dos cualidades que solo se mantienen con un mantenimiento riguroso y adaptado al entorno. El desgaste de frenos en las pendientes hacia el Ter, la fatiga de los componentes de suspensión por el firme industrial y la agresión constante de la humedad sobre la electrónica exigen un taller que vaya más allá de los intervalos genéricos del fabricante.\n\nNuestro servicio responde a esa necesidad. Conocemos las carreteras entre Sant Pere de Torelló, Torelló y Sant Vicenç de Torelló. Entendemos lo que el clima del Ter hace a un BMW temporada tras temporada. Y aplicamos ese conocimiento en cada revisión, cada diagnóstico y cada reparación para que tu vehículo rinda como debe en las condiciones reales de esta parte de Osona.",
   "servicesIntro": "Desde revisiones de mantenimiento hasta reparaciones complejas de motor y electrónica, nuestro taller ofrece todos los servicios que tu BMW necesita con la especialización y el equipamiento adecuados para cada modelo.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

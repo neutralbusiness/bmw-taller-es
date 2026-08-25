@@ -10,11 +10,26 @@
   "metaDescription": "Taller especializado en BMW en Sant Julià de Vilatorta. Mantenimiento premium para vehículos de alta gama con atención personalizada cerca de Vic.",
   "heroSubtitle": "Cuidamos tu BMW con la misma exigencia que tú eliges para vivir en Sant Julià de Vilatorta. Servicio a la altura.",
   "trustChips": [
-    {"icon": "🏆", "text": "Servicio premium BMW"},
-    {"icon": "🔧", "text": "Diagnóstico avanzado"},
-    {"icon": "🛡️", "text": "Recambios originales"},
-    {"icon": "⛳", "text": "Junto al Golf Osona"},
-    {"icon": "🚗", "text": "Especialistas alta gama"}
+    {
+      "icon": "🏆",
+      "text": "Servicio premium BMW"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico avanzado"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios originales"
+    },
+    {
+      "icon": "⛳",
+      "text": "Junto al Golf Osona"
+    },
+    {
+      "icon": "🚗",
+      "text": "Especialistas alta gama"
+    }
   ],
   "introLocal": "Sant Julià de Vilatorta ocupa un lugar especial dentro de la comarca de Osona. Este municipio residencial, situado a escasos minutos de Vic, atrae a familias y profesionales que valoran la tranquilidad, las vistas privilegiadas a las Guilleries y un entorno natural que pocos lugares pueden ofrecer. Aquí, donde el campo de golf dibuja ondulaciones verdes sobre la plana, los vehículos reflejan el nivel de vida de sus propietarios: BMW Serie 5, X5 y berlinas de representación son habituales en las calles arboladas del pueblo. No es casualidad que la densidad de coches de alta gama por habitante sea una de las más altas de la comarca: Sant Julià de Vilatorta es sinónimo de exigencia en todos los aspectos de la vida cotidiana.\n\nLos conductores de Sant Julià de Vilatorta utilizan sus BMW de forma particular. Las carreteras secundarias que serpentean hacia las Guilleries exigen mucho de la dirección y la suspensión, con curvas cerradas, desniveles pronunciados y firme irregular en los tramos forestales. Al mismo tiempo, los desplazamientos diarios hacia Vic o Barcelona por la C-17 acumulan kilómetros de autopista que desgastan neumáticos, frenos y componentes del tren motriz. Esta combinación de conducción montañosa y rodaje en llano es especialmente exigente para los sistemas adaptativos de un BMW. Los amortiguadores regulables electrónicamente, presentes en muchos modelos de la gama alta, ajustan su firmeza cientos de veces por segundo y acumulan más ciclos de trabajo en una semana aquí que en un mes de uso puramente urbano.\n\nEl microclima de la zona añade un factor diferencial. Las mañanas de invierno en Sant Julià de Vilatorta amanecen cubiertas por la característica boira de la Plana de Vic, una niebla densa y persistente que deposita humedad sobre cada componente del vehículo. La condensación se filtra en conectores eléctricos, acelera la oxidación de elementos metálicos expuestos y puede generar fallos intermitentes en sensores y módulos electrónicos. En verano, el contraste térmico entre las mañanas frescas y las tardes calurosas somete los materiales a ciclos de dilatación constantes. Las juntas de goma del circuito de refrigeración, los manguitos del turbo y las gomas de las ventanillas acusan esta amplitud térmica con mayor velocidad que en climas más templados de la costa.\n\nQuien elige vivir en Sant Julià de Vilatorta no se conforma con cualquier servicio para su vehículo. Los propietarios de BMW de esta localidad buscan un taller que entienda la ingeniería alemana, que utilice equipos de diagnóstico homologados y que trate cada coche con el rigor que merece. No se trata solo de cambiar aceite o pastillas: se trata de mantener la experiencia de conducción que define a un BMW, desde la respuesta del volante en las curvas de montaña hasta el confort acústico en autopista.\n\nNuestro taller ofrece exactamente eso. Conocemos las carreteras de la zona, entendemos las exigencias del clima osonense y trabajamos con la tecnología necesaria para mantener cada BMW en su estado óptimo. Desde revisiones programadas hasta intervenciones complejas en motor o electrónica, cada servicio se ejecuta con la precisión que los conductores de Sant Julià de Vilatorta esperan.",
   "servicesIntro": "Ofrecemos una gama completa de servicios para BMW que abarca desde el mantenimiento preventivo programado hasta reparaciones mecánicas y electrónicas de alta complejidad, siempre con recambios originales y equipos de diagnóstico específicos para cada modelo y motorización.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

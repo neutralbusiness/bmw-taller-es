@@ -10,56 +10,178 @@
   "metaDescription": "Servicio técnico BMW en Castellar de n'Hug: arranques en frío, turbo de altura y mantenimiento invernal. Especialistas en condiciones extremas del Pirineo.",
   "heroSubtitle": "Tu BMW merece un taller que entienda el frío extremo y las exigencias de la alta montaña del Berguedà. Llámanos.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas en alta montaña"},
-    {"icon": "❄️", "text": "Preparación invernal BMW"},
-    {"icon": "🔧", "text": "Diagnóstico oficial BMW"},
-    {"icon": "⛽", "text": "Sistemas diésel y AdBlue"},
-    {"icon": "🛡️", "text": "Garantía en cada reparación"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas en alta montaña"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación invernal BMW"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico oficial BMW"
+    },
+    {
+      "icon": "⛽",
+      "text": "Sistemas diésel y AdBlue"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía en cada reparación"
+    }
   ],
   "introLocal": "Castellar de n'Hug ocupa un lugar singular en la geografía catalana: aquí, a más de 1.300 metros de altitud, brotan las Fonts del Llobregat, el nacimiento del río que vertebra buena parte de la provincia de Barcelona. Este pequeño municipio de apenas 175 habitantes, situado en el extremo norte del Berguedà, es un enclave donde la naturaleza impone sus condiciones con rotundidad. Para quienes conducen un BMW en este entorno, contar con un servicio técnico que comprenda las particularidades mecánicas derivadas de la altitud y el clima de alta montaña no es un lujo, sino una necesidad práctica.\n\nLas condiciones invernales en Castellar de n'Hug son las más severas de toda la comarca. Las temperaturas nocturnas descienden con frecuencia por debajo de los -10 °C entre diciembre y febrero, y las nevadas cubren carreteras y accesos durante semanas. Un BMW estacionado a la intemperie en estas condiciones somete su batería a un esfuerzo descomunal: la capacidad de arranque en frío se reduce drásticamente, el aceite del motor aumenta su viscosidad y los calentadores diésel deben funcionar a la perfección para garantizar el encendido. Nuestro taller realiza revisiones específicas de preparación invernal que incluyen test de batería con carga simulada, verificación del circuito de calentadores y sustitución de aceite por formulaciones de baja viscosidad homologadas por BMW.\n\nLa proximidad a estaciones de esquí como La Molina y Masella convierte a Castellar de n'Hug en punto de paso habitual para vehículos cargados con equipaje, portaesquís y pasajeros. Esta sobrecarga afecta al rendimiento del turbo, especialmente en motores diésel BMW que ya de por sí trabajan con menor densidad de oxígeno a esta altitud. El turbocompresor necesita girar más rápido para compensar la menor presión atmosférica, lo que acelera el desgaste de rodamientos y sellos. Diagnosticamos y prevenimos estos problemas antes de que se conviertan en averías costosas, utilizando equipos de lectura que monitorizan la presión de soplado y las temperaturas de gases de escape en condiciones reales de altitud.\n\nLa carretera que conecta Castellar de n'Hug con Guardiola de Berguedà y la C-16 serpentea por pendientes pronunciadas y curvas cerradas entre paisajes de prados alpinos y bosques de pino negro. Los descensos prolongados hacia el valle del Llobregat someten el sistema de frenado a un estrés térmico considerable. El cristalizado de pastillas y discos —lo que técnicamente se conoce como brake glazing— es un fenómeno frecuente en BMW que transitan regularmente estas rutas de montaña. Nuestro servicio incluye inspección del estado de la superficie de frenado, medición de espesores y sustitución con componentes que soportan las exigencias de conducción alpina.\n\nEl sistema AdBlue, presente en todos los BMW diésel modernos con normativa Euro 6, es especialmente vulnerable al frío extremo de Castellar de n'Hug. La solución de urea cristaliza a -11 °C, y cuando esto ocurre, el vehículo puede entrar en modo de emergencia o directamente impedir el arranque. Verificamos el estado del calefactor del depósito de AdBlue, los sensores de nivel y calidad, y el inyector del catalizador SCR para que tu BMW arranque sin sorpresas incluso en las mañanas más gélidas junto a las Fonts del Llobregat. Cada intervención se registra con códigos originales BMW, garantizando la trazabilidad y el mantenimiento del valor de tu vehículo.",
   "servicesIntro": "Ofrecemos un catálogo completo de servicios técnicos BMW adaptados a las exigencias mecánicas que impone la vida en alta montaña: desde mantenimientos programados con aceites de baja viscosidad hasta reparaciones de turbo, sistemas de inyección diésel, frenos de alto rendimiento y electrónica de motor.",
   "processIntro": "Nuestro proceso de reparación está diseñado para minimizar los desplazamientos desde Castellar de n'Hug, optimizando cada visita al taller con diagnósticos precisos y soluciones definitivas.",
   "processSteps": [
-    {"title": "Contacto y diagnóstico previo", "body": "Nos describes la incidencia por teléfono o WhatsApp. Si es posible, realizamos una primera orientación remota para anticipar piezas y reducir tiempos de espera."},
-    {"title": "Recogida o cita programada", "body": "Coordinamos la visita para que el desplazamiento desde Castellar de n'Hug sea lo más eficiente posible, agrupando intervenciones si es necesario."},
-    {"title": "Diagnóstico con equipo BMW", "body": "Conectamos tu vehículo a sistemas de diagnóstico compatibles con protocolo BMW para leer todos los módulos electrónicos y obtener un mapa exacto del estado mecánico."},
-    {"title": "Reparación y pruebas", "body": "Ejecutamos la reparación con recambios de calidad OEM, y realizamos pruebas de carretera simulando condiciones de montaña: pendientes, frío y carga."},
-    {"title": "Entrega con informe detallado", "body": "Te devolvemos el vehículo con un informe completo de la intervención y recomendaciones de mantenimiento adaptadas a tu uso en alta montaña."}
+    {
+      "title": "Contacto y diagnóstico previo",
+      "body": "Nos describes la incidencia por teléfono o WhatsApp. Si es posible, realizamos una primera orientación remota para anticipar piezas y reducir tiempos de espera."
+    },
+    {
+      "title": "Recogida o cita programada",
+      "body": "Coordinamos la visita para que el desplazamiento desde Castellar de n'Hug sea lo más eficiente posible, agrupando intervenciones si es necesario."
+    },
+    {
+      "title": "Diagnóstico con equipo BMW",
+      "body": "Conectamos tu vehículo a sistemas de diagnóstico compatibles con protocolo BMW para leer todos los módulos electrónicos y obtener un mapa exacto del estado mecánico."
+    },
+    {
+      "title": "Reparación y pruebas",
+      "body": "Ejecutamos la reparación con recambios de calidad OEM, y realizamos pruebas de carretera simulando condiciones de montaña: pendientes, frío y carga."
+    },
+    {
+      "title": "Entrega con informe detallado",
+      "body": "Te devolvemos el vehículo con un informe completo de la intervención y recomendaciones de mantenimiento adaptadas a tu uso en alta montaña."
+    }
   ],
   "commonIssuesIntro": "La combinación de altitud extrema, frío intenso y carreteras de montaña genera un perfil de averías específico en los BMW que circulan por la zona de Castellar de n'Hug. Estas son las incidencias que resolvemos con mayor frecuencia.",
   "commonIssues": [
-    {"title": "Cristalización del AdBlue en invierno", "body": "A las temperaturas habituales de Castellar de n'Hug, la urea del depósito AdBlue puede congelarse, activando el modo de emergencia del motor. Revisamos calefactor, sensor y circuito completo."},
-    {"title": "Pérdida de potencia del turbo en altitud", "body": "La menor presión atmosférica a 1.300 m obliga al turbocompresor a trabajar fuera de su rango óptimo. Diagnosticamos la presión de soplado y el estado de la válvula wastegate."},
-    {"title": "Batería descargada tras noches bajo cero", "body": "Temperaturas de -10 °C o inferiores reducen la capacidad de la batería un 30-40%. Realizamos test de carga y sustituimos con baterías AGM de alta capacidad de arranque en frío."},
-    {"title": "Frenos cristalizados por descensos prolongados", "body": "Las bajadas desde Castellar de n'Hug hacia la C-16 someten los frenos a sobrecalentamiento. El glazing reduce la capacidad de frenado; sustituimos pastillas y rectificamos discos."},
-    {"title": "Fallos en calentadores diésel", "body": "Los calentadores son críticos para el arranque en frío. Un solo calentador defectuoso puede impedir el encendido a -5 °C. Los diagnosticamos individualmente y sustituimos los defectuosos."}
+    {
+      "title": "Cristalización del AdBlue en invierno",
+      "body": "A las temperaturas habituales de Castellar de n'Hug, la urea del depósito AdBlue puede congelarse, activando el modo de emergencia del motor. Revisamos calefactor, sensor y circuito completo."
+    },
+    {
+      "title": "Pérdida de potencia del turbo en altitud",
+      "body": "La menor presión atmosférica a 1.300 m obliga al turbocompresor a trabajar fuera de su rango óptimo. Diagnosticamos la presión de soplado y el estado de la válvula wastegate."
+    },
+    {
+      "title": "Batería descargada tras noches bajo cero",
+      "body": "Temperaturas de -10 °C o inferiores reducen la capacidad de la batería un 30-40%. Realizamos test de carga y sustituimos con baterías AGM de alta capacidad de arranque en frío."
+    },
+    {
+      "title": "Frenos cristalizados por descensos prolongados",
+      "body": "Las bajadas desde Castellar de n'Hug hacia la C-16 someten los frenos a sobrecalentamiento. El glazing reduce la capacidad de frenado; sustituimos pastillas y rectificamos discos."
+    },
+    {
+      "title": "Fallos en calentadores diésel",
+      "body": "Los calentadores son críticos para el arranque en frío. Un solo calentador defectuoso puede impedir el encendido a -5 °C. Los diagnosticamos individualmente y sustituimos los defectuosos."
+    }
   ],
   "whyUs": [
-    {"title": "Experiencia real en clima de alta montaña", "body": "No hablamos de frío en abstracto: conocemos las condiciones exactas de Castellar de n'Hug y adaptamos cada servicio a la realidad del Pirineo catalán."},
-    {"title": "Diagnóstico con protocolo BMW", "body": "Utilizamos equipos de lectura compatibles con todos los módulos electrónicos BMW, desde motor hasta sistemas ADAS, para diagnósticos exhaustivos."},
-    {"title": "Recambios de calidad OEM", "body": "Montamos piezas equivalentes o superiores a las originales, seleccionadas por su rendimiento en condiciones de temperatura extrema y altitud."},
-    {"title": "Mínimos desplazamientos", "body": "Sabemos que bajar desde Castellar de n'Hug lleva tiempo. Agrupamos intervenciones y ofrecemos diagnóstico previo remoto para aprovechar cada visita."},
-    {"title": "Transparencia total", "body": "Cada reparación se documenta con informe técnico, fotografías del estado de las piezas y presupuesto cerrado antes de intervenir."}
+    {
+      "title": "Experiencia real en clima de alta montaña",
+      "body": "No hablamos de frío en abstracto: conocemos las condiciones exactas de Castellar de n'Hug y adaptamos cada servicio a la realidad del Pirineo catalán."
+    },
+    {
+      "title": "Diagnóstico con protocolo BMW",
+      "body": "Utilizamos equipos de lectura compatibles con todos los módulos electrónicos BMW, desde motor hasta sistemas ADAS, para diagnósticos exhaustivos."
+    },
+    {
+      "title": "Recambios de calidad OEM",
+      "body": "Montamos piezas equivalentes o superiores a las originales, seleccionadas por su rendimiento en condiciones de temperatura extrema y altitud."
+    },
+    {
+      "title": "Mínimos desplazamientos",
+      "body": "Sabemos que bajar desde Castellar de n'Hug lleva tiempo. Agrupamos intervenciones y ofrecemos diagnóstico previo remoto para aprovechar cada visita."
+    },
+    {
+      "title": "Transparencia total",
+      "body": "Cada reparación se documenta con informe técnico, fotografías del estado de las piezas y presupuesto cerrado antes de intervenir."
+    }
   ],
   "testimonialsIntro": "Propietarios de BMW de la zona norte del Berguedà confían en nuestro servicio. Estas son algunas de sus experiencias reales tras pasar por nuestro taller.",
   "testimonials": [
-    {"name": "Oriol Puigdomènech", "neighborhood": "Castellar de n'Hug", "car": "BMW 320d", "body": "Llevaba dos inviernos con problemas de arranque cada mañana. Me revisaron los calentadores, la batería y el circuito de AdBlue en una sola visita. Desde entonces, arranca a la primera incluso con -12 °C.", "rating": 5},
-    {"name": "Marta Soldevila", "neighborhood": "Guardiola de Berguedà", "car": "BMW X1 sDrive18d", "body": "Subir cada fin de semana a la nieve con el X1 cargado estaba pasando factura al turbo. Me explicaron exactamente qué ocurría con la presión en altitud y lo solucionaron. Un taller serio y sin rodeos.", "rating": 5},
-    {"name": "Ferran Casafont", "neighborhood": "Bagà", "car": "BMW 520d Touring", "body": "Los frenos me vibraban después de cada bajada desde Castellar. Pensaba que eran los discos alabeados, pero resultó ser cristalización de pastillas. Me lo resolvieron en un día y la diferencia es brutal.", "rating": 5},
-    {"name": "Núria Vallhonrat", "neighborhood": "La Pobla de Lillet", "car": "BMW 118d", "body": "Vivo cerca de las Fonts del Llobregat y el coche pasa noches a la intemperie en invierno. Me hicieron una preparación invernal completa: batería nueva, aceite de baja viscosidad y revisión de todo el sistema de arranque. Tranquilidad total.", "rating": 5}
+    {
+      "name": "Oriol Puigdomènech",
+      "neighborhood": "Castellar de n'Hug",
+      "car": "BMW 320d",
+      "body": "Llevaba dos inviernos con problemas de arranque cada mañana. Me revisaron los calentadores, la batería y el circuito de AdBlue en una sola visita. Desde entonces, arranca a la primera incluso con -12 °C.",
+      "rating": 5
+    },
+    {
+      "name": "Marta Soldevila",
+      "neighborhood": "Guardiola de Berguedà",
+      "car": "BMW X1 sDrive18d",
+      "body": "Subir cada fin de semana a la nieve con el X1 cargado estaba pasando factura al turbo. Me explicaron exactamente qué ocurría con la presión en altitud y lo solucionaron. Un taller serio y sin rodeos.",
+      "rating": 5
+    },
+    {
+      "name": "Ferran Casafont",
+      "neighborhood": "Bagà",
+      "car": "BMW 520d Touring",
+      "body": "Los frenos me vibraban después de cada bajada desde Castellar. Pensaba que eran los discos alabeados, pero resultó ser cristalización de pastillas. Me lo resolvieron en un día y la diferencia es brutal.",
+      "rating": 5
+    },
+    {
+      "name": "Núria Vallhonrat",
+      "neighborhood": "La Pobla de Lillet",
+      "car": "BMW 118d",
+      "body": "Vivo cerca de las Fonts del Llobregat y el coche pasa noches a la intemperie en invierno. Me hicieron una preparación invernal completa: batería nueva, aceite de baja viscosidad y revisión de todo el sistema de arranque. Tranquilidad total.",
+      "rating": 5
+    }
   ],
   "zoneText": "Desde nuestro taller damos cobertura a todo el norte del Berguedà y zonas limítrofes del Ripollès y la Cerdanya, incluyendo los municipios de montaña con acceso por la C-16 y las carreteras comarcales del alto Llobregat.",
-  "zoneNeighborhoods": ["Guardiola de Berguedà", "Bagà", "La Pobla de Lillet", "Saldes", "Gósol", "Gisclareny", "Sant Julià de Cerdanyola"],
-  "zoneAccessRoutes": ["C-16", "BV-4024", "BV-4031", "B-402"],
+  "zoneNeighborhoods": [
+    "Guardiola de Berguedà",
+    "Bagà",
+    "La Pobla de Lillet",
+    "Saldes",
+    "Gósol",
+    "Gisclareny",
+    "Sant Julià de Cerdanyola"
+  ],
+  "zoneAccessRoutes": [
+    "C-16",
+    "BV-4024",
+    "BV-4031",
+    "B-402"
+  ],
   "faqLocal": [
-    {"q": "¿Puede congelarse el AdBlue de mi BMW en Castellar de n'Hug?", "a": "Sí. La solución de urea cristaliza a -11 °C, temperatura que se alcanza con frecuencia en invierno en Castellar de n'Hug. Es fundamental verificar el calefactor del depósito antes de la temporada de frío."},
-    {"q": "¿Cada cuánto debo cambiar la batería si el coche duerme a la intemperie en alta montaña?", "a": "En condiciones de frío extremo como las de Castellar de n'Hug, la vida útil de una batería convencional se reduce a 3-4 años. Recomendamos baterías AGM y un test de carga cada otoño."},
-    {"q": "¿Afecta la altitud al rendimiento del turbo de mi BMW diésel?", "a": "Sí. A 1.300 metros, la densidad del aire es un 12-15% menor que a nivel del mar. El turbo compensa girando más rápido, lo que acelera el desgaste. Monitorizamos la presión de soplado en cada revisión."},
-    {"q": "¿Ofrecéis servicio de recogida del vehículo en Castellar de n'Hug?", "a": "Podemos coordinar la recogida en casos de avería que impidan la conducción. Contacta con nosotros por teléfono o WhatsApp para organizar la logística."},
-    {"q": "¿Por qué me vibran los frenos después de bajar desde Castellar de n'Hug?", "a": "Los descensos prolongados sobrecalientan las pastillas, que pueden cristalizarse y perder capacidad de frenado. Es distinto de un disco alabeado y requiere una solución específica."},
-    {"q": "¿Necesito cadenas o neumáticos de invierno para subir a Castellar de n'Hug en mi BMW?", "a": "Recomendamos neumáticos de invierno homologados M+S o el marcaje alpino (3PMSF) de noviembre a abril. Asesoramos sobre la medida correcta para tu modelo BMW."}
+    {
+      "q": "¿Puede congelarse el AdBlue de mi BMW en Castellar de n'Hug?",
+      "a": "Sí. La solución de urea cristaliza a -11 °C, temperatura que se alcanza con frecuencia en invierno en Castellar de n'Hug. Es fundamental verificar el calefactor del depósito antes de la temporada de frío."
+    },
+    {
+      "q": "¿Cada cuánto debo cambiar la batería si el coche duerme a la intemperie en alta montaña?",
+      "a": "En condiciones de frío extremo como las de Castellar de n'Hug, la vida útil de una batería convencional se reduce a 3-4 años. Recomendamos baterías AGM y un test de carga cada otoño."
+    },
+    {
+      "q": "¿Afecta la altitud al rendimiento del turbo de mi BMW diésel?",
+      "a": "Sí. A 1.300 metros, la densidad del aire es un 12-15% menor que a nivel del mar. El turbo compensa girando más rápido, lo que acelera el desgaste. Monitorizamos la presión de soplado en cada revisión."
+    },
+    {
+      "q": "¿Ofrecéis servicio de recogida del vehículo en Castellar de n'Hug?",
+      "a": "Podemos coordinar la recogida en casos de avería que impidan la conducción. Contacta con nosotros por teléfono o WhatsApp para organizar la logística."
+    },
+    {
+      "q": "¿Por qué me vibran los frenos después de bajar desde Castellar de n'Hug?",
+      "a": "Los descensos prolongados sobrecalientan las pastillas, que pueden cristalizarse y perder capacidad de frenado. Es distinto de un disco alabeado y requiere una solución específica."
+    },
+    {
+      "q": "¿Necesito cadenas o neumáticos de invierno para subir a Castellar de n'Hug en mi BMW?",
+      "a": "Recomendamos neumáticos de invierno homologados M+S o el marcaje alpino (3PMSF) de noviembre a abril. Asesoramos sobre la medida correcta para tu modelo BMW."
+    }
   ],
   "closingHeadline": "Tu BMW al nivel del Pirineo: llámanos desde Castellar de n'Hug",
   "closingCta": "Contacta con nuestro taller y prepara tu BMW para afrontar el invierno y la altitud del alto Berguedà con total garantía. Te atendemos por teléfono y WhatsApp.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

@@ -10,12 +10,30 @@
   "metaDescription": "Taller especializado en BMW en Cercs, Berguedà. Diagnóstico profesional, frenos, turbo y electrónica para conducción de montaña junto al Pantà de la Baells.",
   "heroSubtitle": "Especialistas BMW en el corazón del Berguedà. Diagnóstico avanzado y mantenimiento adaptado a la conducción de montaña y embalse.",
   "trustChips": [
-    { "icon": "wrench", "text": "Especialistas exclusivos en BMW" },
-    { "icon": "cpu", "text": "Diagnóstico con equipo oficial BMW" },
-    { "icon": "mountain", "text": "Expertos en conducción de montaña" },
-    { "icon": "shield-check", "text": "Garantía en todas las reparaciones" },
-    { "icon": "clock", "text": "Cita previa en 24 h" },
-    { "icon": "map-pin", "text": "Cobertura en todo el Berguedà" }
+    {
+      "icon": "wrench",
+      "text": "Especialistas exclusivos en BMW"
+    },
+    {
+      "icon": "cpu",
+      "text": "Diagnóstico con equipo oficial BMW"
+    },
+    {
+      "icon": "mountain",
+      "text": "Expertos en conducción de montaña"
+    },
+    {
+      "icon": "shield-check",
+      "text": "Garantía en todas las reparaciones"
+    },
+    {
+      "icon": "clock",
+      "text": "Cita previa en 24 h"
+    },
+    {
+      "icon": "map-pin",
+      "text": "Cobertura en todo el Berguedà"
+    }
   ],
   "introLocal": "Cercs, enclavado en el corazón de la comarca del Berguedà a unos 700 metros de altitud, es un municipio que ha sabido transformar su identidad. Desde sus orígenes como pueblo minero —con el carbón como motor económico durante más de un siglo— hasta su reconversión hacia el turismo, el ocio y la naturaleza, Cercs ofrece un entorno singular donde la historia industrial convive con paisajes de montaña espectaculares. El Museu de les Mines, ubicado en las antiguas instalaciones de Sant Corneli, es testimonio vivo de ese pasado y uno de los principales atractivos culturales de la zona.\n\nEl gran protagonista geográfico del municipio es el Pantà de la Baells, el embalse más importante del río Llobregat, cuyas aguas turquesas se extienden al pie de las montañas prepirenaicas. Este entorno atrae a miles de visitantes cada año para la práctica del senderismo, la pesca, el piragüismo y el ciclismo de montaña. Las carreteras que rodean el embalse, con sus curvas cerradas, desniveles pronunciados y tramos de fuerte pendiente, son un auténtico banco de pruebas para cualquier vehículo, y los BMW que circulan por esta zona requieren un mantenimiento especialmente riguroso.\n\nLa C-16, eje vertebrador que conecta Barcelona con la Cerdanya atravesando el túnel del Cadí, pasa junto a Cercs y constituye la principal vía de acceso al municipio. Este corredor de alta montaña somete a los vehículos a cambios de altitud significativos, largos tramos de ascenso y descenso continuado, y condiciones meteorológicas cambiantes que van desde la niebla densa en otoño hasta las heladas invernales. Para un BMW, circular habitualmente por estas carreteras implica una exigencia mecánica muy superior a la de un entorno urbano o de autopista.\n\nLa humedad procedente del embalse, combinada con las temperaturas frías de montaña, genera un microclima particular que afecta a los sistemas eléctricos y electrónicos de los vehículos. Los sensores, conectores y módulos de control de los BMW son especialmente sensibles a la condensación y la corrosión acelerada que provoca este ambiente. Por ello, los propietarios de BMW en Cercs y alrededores necesitan un taller que conozca no solo la mecánica de la marca, sino también las particularidades que impone el territorio.\n\nAdemás, la orografía del término municipal de Cercs obliga a circular por carreteras secundarias con firmes irregulares, curvas sin peraltar y pendientes que superan el diez por ciento en algunos tramos. Los BMW con suspensión deportiva o neumáticos de perfil bajo acusan especialmente estas condiciones, y componentes como silentblocks, amortiguadores y rótulas sufren un envejecimiento prematuro que conviene vigilar con revisiones periódicas. Las épocas de deshielo y lluvias intensas añaden un factor más: la sal y la gravilla depositadas en la calzada aceleran la corrosión de bajos y elementos de escape.\n\nNuestro taller especializado en BMW ofrece a los conductores de Cercs, Sant Corneli, la zona del Pantà de la Baells y el conjunto del Berguedà un servicio de diagnóstico y reparación adaptado a las condiciones reales de uso en montaña. Conocemos las averías más frecuentes que genera la conducción por estas carreteras —desde el desgaste prematuro de frenos por las bajadas hacia el embalse hasta los problemas de turbo por la altitud— y aplicamos soluciones específicas con recambios de calidad y la experiencia de años trabajando exclusivamente con vehículos BMW.",
   "servicesIntro": "En Cercs ofrecemos un catálogo completo de servicios para BMW que abarca desde el mantenimiento preventivo —cambios de aceite, filtros y líquidos adaptados a la exigencia de montaña— hasta reparaciones complejas de motor, transmisión, electrónica y sistemas de frenado. Nuestro equipo de diagnóstico profesional permite detectar con precisión cualquier avería, incluyendo las que se manifiestan de forma intermitente por las condiciones de altitud y humedad propias del entorno del Pantà de la Baells.",
@@ -160,9 +178,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

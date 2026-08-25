@@ -4,69 +4,184 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 2659,
-  "lat": 41.9990,
+  "lat": 41.999,
   "lng": 2.0219,
   "metaTitle": "Taller BMW Prats de Lluçanès | Especialistas altiplano y frío",
   "metaDescription": "Taller BMW en Prats de Lluçanès, capital del Lluçanès. Diagnosis experta, revisiones de invierno y reparación para vehículos que sufren carreteras de montaña y altitud.",
   "heroSubtitle": "El taller BMW de referencia en el Lluçanès: diagnosis precisa, piezas de calidad y un trato honesto, sin desplazarte hasta Vic o Manresa.",
   "trustChips": [
-    {"icon": "🔧", "text": "Diagnosis BMW original"},
-    {"icon": "❄️", "text": "Especialistas en frío de montaña"},
-    {"icon": "⛰️", "text": "Expertos en altitud 800m"},
-    {"icon": "🚗", "text": "Recogida en el Lluçanès"},
-    {"icon": "⭐", "text": "Valorado por payeses y comerciantes"},
-    {"icon": "💶", "text": "Presupuesto cerrado sin sorpresas"}
+    {
+      "icon": "🔧",
+      "text": "Diagnosis BMW original"
+    },
+    {
+      "icon": "❄️",
+      "text": "Especialistas en frío de montaña"
+    },
+    {
+      "icon": "⛰️",
+      "text": "Expertos en altitud 800m"
+    },
+    {
+      "icon": "🚗",
+      "text": "Recogida en el Lluçanès"
+    },
+    {
+      "icon": "⭐",
+      "text": "Valorado por payeses y comerciantes"
+    },
+    {
+      "icon": "💶",
+      "text": "Presupuesto cerrado sin sorpresas"
+    }
   ],
   "introLocal": "Prats de Lluçanès no es un pueblo cualquiera: es la capital de la comarca del Lluçanès, ese altiplano suspendido entre Osona y el Bages a más de 700-900 metros de altura, donde el paisaje cambia de golpe entre prados, robledales y curvas que no perdonan. Quien conduce aquí lo sabe: un BMW en el Lluçanès no vive la misma vida que un BMW en la ciudad. La carretera C-62, que atraviesa el pueblo y conecta Vic con Berga, es la columna vertebral de la comarca, pero también un examen constante para la suspensión, los frenos y la dirección de cualquier vehículo que la recorra a diario.\n\nCada jueves, cuando el mercado semanal llena la Plaça Major de paradas, productos de la tierra y vecinos que se conocen por el nombre, Prats recupera ese pulso de capital comarcal que tiene desde hace siglos. Es un pueblo que vive del comercio local, de la ganadería y de una vida rural donde el coche no es un capricho sino una herramienta imprescindible: para llevar a los hijos al instituto, para ir al médico, para cargar género o simplemente para no quedarse aislado cuando cae una nevada en el altiplano. Y en ese contexto, un BMW bien cuidado deja de ser un lujo y pasa a ser una garantía de que, pase lo que pase, el coche arrancará.\n\nPorque aquí el frío no es una anécdota de invierno: es un factor que hay que gestionar desde noviembre hasta marzo. Las heladas nocturnas en el altiplano son de las más intensas de Osona, y eso pasa factura a la batería, al aceite, a las juntas y a los sistemas electrónicos de un BMW que no está pensado, de fábrica, para arrancar en frío a 800 metros con la escarcha cubriendo el parabrisas cada mañana. Añádele las carreteras de montaña —estrechas, con curvas cerradas, con el firme deteriorado por el hielo y el deshielo repetido cada invierno— y entiendes por qué en el Lluçanès los amortiguadores, los neumáticos y los bajos del coche se desgastan de una forma muy distinta a como lo hacen en la llanura.\n\nEl Espai Lluçanès, el centro cultural y social que ha convertido a Prats en un referente más allá de lo comarcal, es también un buen símbolo de lo que representa este pueblo: un lugar pequeño que se niega a estar aislado, que apuesta por tener servicios propios en lugar de depender siempre de desplazarse. Con esa misma filosofía trabajamos nosotros. Sabemos que el taller BMW oficial más cercano está en Vic o en Manresa, a media hora o más por carretera de montaña, y que para muchos vecinos del Lluçanès eso significa perder una mañana entera —o un día de trabajo en el campo o en el comercio— solo para una revisión.\n\nPor eso ofrecemos en Prats de Lluçanès un servicio especializado en BMW que entiende las exigencias reales de este territorio: motores sometidos a estrés por la altitud, arranques en frío constantes, suspensiones que absorben baches y curvas todo el año, y una clientela que necesita que su coche funcione sin excusas, porque en el Lluçanès el coche que falla no es una molestia, es quedarse tirado a kilómetros de cualquier sitio.",
   "servicesIntro": "En nuestro taller de Prats de Lluçanès ofrecemos mantenimiento y reparación integral para BMW: desde revisiones periódicas y cambios de aceite hasta diagnosis electrónica avanzada, frenos, suspensión, embrague, climatización y sistemas de arranque en frío, todo con piezas de calidad equivalente a la original y adaptado a las exigencias reales de conducir por el altiplano.",
   "processIntro": "Trabajamos con un proceso claro y transparente, pensado para que no pierdas tiempo ni dinero desplazándote a otro taller: diagnosticamos, presupuestamos, reparamos y te devolvemos el coche listo para afrontar las carreteras del Lluçanès.",
   "processSteps": [
-    {"title": "Diagnosis con equipo BMW", "body": "Conectamos tu vehículo al equipo de diagnosis específico de BMW para identificar con precisión el origen de la avería, sin conjeturas ni pruebas innecesarias."},
-    {"title": "Presupuesto cerrado y explicado", "body": "Te explicamos qué falla, por qué falla y cuánto costará arreglarlo, con un presupuesto cerrado antes de tocar el coche."},
-    {"title": "Reparación con piezas de calidad", "body": "Utilizamos recambios de calidad equivalente a la original, pensados para aguantar el desgaste extra de la altitud y las carreteras de montaña."},
-    {"title": "Prueba final en carretera", "body": "Antes de entregarte el coche lo probamos en las mismas condiciones que vas a encontrar: cuestas, curvas y firme irregular del Lluçanès."}
+    {
+      "title": "Diagnosis con equipo BMW",
+      "body": "Conectamos tu vehículo al equipo de diagnosis específico de BMW para identificar con precisión el origen de la avería, sin conjeturas ni pruebas innecesarias."
+    },
+    {
+      "title": "Presupuesto cerrado y explicado",
+      "body": "Te explicamos qué falla, por qué falla y cuánto costará arreglarlo, con un presupuesto cerrado antes de tocar el coche."
+    },
+    {
+      "title": "Reparación con piezas de calidad",
+      "body": "Utilizamos recambios de calidad equivalente a la original, pensados para aguantar el desgaste extra de la altitud y las carreteras de montaña."
+    },
+    {
+      "title": "Prueba final en carretera",
+      "body": "Antes de entregarte el coche lo probamos en las mismas condiciones que vas a encontrar: cuestas, curvas y firme irregular del Lluçanès."
+    }
   ],
   "commonIssuesIntro": "El altiplano del Lluçanès somete a los BMW a un desgaste particular que rara vez se ve en talleres de ciudad: estas son las averías que más vemos en vehículos de Prats y su comarca.",
   "commonIssues": [
-    {"title": "Baterías que fallan con las heladas", "body": "Las noches de invierno en el altiplano bajan de los -5°C con frecuencia, y las baterías de BMW, muy exigentes con la electrónica, pierden capacidad rápidamente si no se revisan antes de cada temporada fría."},
-    {"title": "Desgaste prematuro de amortiguadores y suspensión", "body": "Las carreteras de montaña como la C-62 y las vías comarcales que conectan con Alpens, Olost o Sant Boi de Lluçanès tienen un firme irregular que castiga la suspensión mucho más rápido que en llano."},
-    {"title": "Sensores de presión y arranque en frío", "body": "La combinación de altitud (cerca de 800 metros) y temperaturas bajo cero afecta a los sensores de presión de neumáticos y a los sistemas de precalentamiento diésel, provocando arranques irregulares en invierno."},
-    {"title": "Frenos y discos por pendientes constantes", "body": "El relieve del Lluçanès obliga a frenar y acelerar de forma constante en trayectos cortos, lo que desgasta discos y pastillas más deprisa que en trayectos de autovía."},
-    {"title": "Corrosión y bajos dañados por sal y gravilla", "body": "El uso de sal y gravilla en las carreteras comarcales durante los meses de nieve acelera la corrosión de los bajos y los conductos de escape si no se revisan periódicamente."}
+    {
+      "title": "Baterías que fallan con las heladas",
+      "body": "Las noches de invierno en el altiplano bajan de los -5°C con frecuencia, y las baterías de BMW, muy exigentes con la electrónica, pierden capacidad rápidamente si no se revisan antes de cada temporada fría."
+    },
+    {
+      "title": "Desgaste prematuro de amortiguadores y suspensión",
+      "body": "Las carreteras de montaña como la C-62 y las vías comarcales que conectan con Alpens, Olost o Sant Boi de Lluçanès tienen un firme irregular que castiga la suspensión mucho más rápido que en llano."
+    },
+    {
+      "title": "Sensores de presión y arranque en frío",
+      "body": "La combinación de altitud (cerca de 800 metros) y temperaturas bajo cero afecta a los sensores de presión de neumáticos y a los sistemas de precalentamiento diésel, provocando arranques irregulares en invierno."
+    },
+    {
+      "title": "Frenos y discos por pendientes constantes",
+      "body": "El relieve del Lluçanès obliga a frenar y acelerar de forma constante en trayectos cortos, lo que desgasta discos y pastillas más deprisa que en trayectos de autovía."
+    },
+    {
+      "title": "Corrosión y bajos dañados por sal y gravilla",
+      "body": "El uso de sal y gravilla en las carreteras comarcales durante los meses de nieve acelera la corrosión de los bajos y los conductos de escape si no se revisan periódicamente."
+    }
   ],
   "whyUs": [
-    {"title": "Conocemos el terreno", "body": "No somos un taller genérico: entendemos cómo afecta la altitud, el frío y las carreteras de montaña a un BMW, porque es lo que reparamos cada día."},
-    {"title": "Ahorras el viaje a Vic o Manresa", "body": "Evitas media hora o más de desplazamiento por carretera de montaña solo para una revisión o un diagnóstico."},
-    {"title": "Piezas pensadas para durar en el Lluçanès", "body": "Seleccionamos recambios con la durabilidad necesaria para el desgaste extra de esta comarca, no los estándares de ciudad."},
-    {"title": "Trato cercano de comarca", "body": "Aquí no eres un número de expediente: te explicamos la avería, te enseñamos la pieza si hace falta y te decimos la verdad sobre lo que necesita tu coche."},
-    {"title": "Flexibilidad para la vida rural", "body": "Sabemos que en el Lluçanès el coche no puede estar parado: organizamos recogidas y plazos que se adaptan a quien vive y trabaja en el campo o el comercio."}
+    {
+      "title": "Conocemos el terreno",
+      "body": "No somos un taller genérico: entendemos cómo afecta la altitud, el frío y las carreteras de montaña a un BMW, porque es lo que reparamos cada día."
+    },
+    {
+      "title": "Ahorras el viaje a Vic o Manresa",
+      "body": "Evitas media hora o más de desplazamiento por carretera de montaña solo para una revisión o un diagnóstico."
+    },
+    {
+      "title": "Piezas pensadas para durar en el Lluçanès",
+      "body": "Seleccionamos recambios con la durabilidad necesaria para el desgaste extra de esta comarca, no los estándares de ciudad."
+    },
+    {
+      "title": "Trato cercano de comarca",
+      "body": "Aquí no eres un número de expediente: te explicamos la avería, te enseñamos la pieza si hace falta y te decimos la verdad sobre lo que necesita tu coche."
+    },
+    {
+      "title": "Flexibilidad para la vida rural",
+      "body": "Sabemos que en el Lluçanès el coche no puede estar parado: organizamos recogidas y plazos que se adaptan a quien vive y trabaja en el campo o el comercio."
+    }
   ],
   "testimonialsIntro": "Estas son algunas experiencias reales de vecinos del Lluçanès que han confiado su BMW a nuestro taller.",
   "testimonials": [
-    {"name": "Jordi M.", "neighborhood": "Centre Vila", "car": "BMW X3 xDrive20d", "body": "Cada invierno el coche me costaba arrancar las primeras mañanas heladas. Me revisaron la batería y el sistema de precalentamiento y desde entonces arranca sin dudar, incluso a -6°C.", "rating": 5},
-    {"name": "Montse R.", "neighborhood": "Les Vinyes", "car": "BMW Serie 3 320d", "body": "Hago la C-62 hasta Vic cada día para trabajar y el coche empezaba a vibrar en curva. Me cambiaron la suspensión con piezas que aguantan bien el firme irregular y noto la diferencia cada mañana.", "rating": 5},
-    {"name": "Pere L.", "neighborhood": "Cal Bou", "car": "BMW X1 sDrive18d", "body": "Uso el coche a diario para ir y volver de la masía por caminos en mal estado. Me explicaron sin rodeos qué piezas necesitaba reforzar y ahora aguanta mucho mejor los baches del camino.", "rating": 5},
-    {"name": "Anna G.", "neighborhood": "Sant Andreu", "car": "BMW Serie 1 116d", "body": "Un par de mañanas de mucho frío el coche se quedó como sin fuerza al arrancar. Me lo diagnosticaron rápido y me dieron consejos claros para el invierno. Quedé contenta con el trato.", "rating": 4}
+    {
+      "name": "Jordi M.",
+      "neighborhood": "Centre Vila",
+      "car": "BMW X3 xDrive20d",
+      "body": "Cada invierno el coche me costaba arrancar las primeras mañanas heladas. Me revisaron la batería y el sistema de precalentamiento y desde entonces arranca sin dudar, incluso a -6°C.",
+      "rating": 5
+    },
+    {
+      "name": "Montse R.",
+      "neighborhood": "Les Vinyes",
+      "car": "BMW Serie 3 320d",
+      "body": "Hago la C-62 hasta Vic cada día para trabajar y el coche empezaba a vibrar en curva. Me cambiaron la suspensión con piezas que aguantan bien el firme irregular y noto la diferencia cada mañana.",
+      "rating": 5
+    },
+    {
+      "name": "Pere L.",
+      "neighborhood": "Cal Bou",
+      "car": "BMW X1 sDrive18d",
+      "body": "Uso el coche a diario para ir y volver de la masía por caminos en mal estado. Me explicaron sin rodeos qué piezas necesitaba reforzar y ahora aguanta mucho mejor los baches del camino.",
+      "rating": 5
+    },
+    {
+      "name": "Anna G.",
+      "neighborhood": "Sant Andreu",
+      "car": "BMW Serie 1 116d",
+      "body": "Un par de mañanas de mucho frío el coche se quedó como sin fuerza al arrancar. Me lo diagnosticaron rápido y me dieron consejos claros para el invierno. Quedé contenta con el trato.",
+      "rating": 4
+    }
   ],
   "zoneText": "Damos servicio a todo el Lluçanès, ofreciendo recogida y entrega para que los vecinos de los municipios de la comarca no tengan que desplazarse hasta Vic o Manresa para el mantenimiento y la reparación de su BMW.",
-  "zoneNeighborhoods": ["Lluçanès", "Sant Agustí de Lluçanès", "Sobremunt", "Alpens", "Sant Boi de Lluçanès", "Santa Creu de Jutglar", "Olost"],
-  "zoneAccessRoutes": ["C-62", "BV-4341", "BV-4601", "BP-4653"],
+  "zoneNeighborhoods": [
+    "Lluçanès",
+    "Sant Agustí de Lluçanès",
+    "Sobremunt",
+    "Alpens",
+    "Sant Boi de Lluçanès",
+    "Santa Creu de Jutglar",
+    "Olost"
+  ],
+  "zoneAccessRoutes": [
+    "C-62",
+    "BV-4341",
+    "BV-4601",
+    "BP-4653"
+  ],
   "faqLocal": [
-    {"q": "¿Atendéis vehículos de todo el Lluçanès o solo de Prats?", "a": "Damos servicio a toda la comarca, incluyendo Alpens, Olost, Sant Boi de Lluçanès, Sant Agustí de Lluçanès, Sobremunt y Santa Creu de Jutglar, con posibilidad de recogida del vehículo."},
-    {"q": "¿Por qué mi BMW arranca peor en invierno en Prats que en la ciudad?", "a": "La combinación de altitud cercana a los 800 metros y las heladas frecuentes del altiplano exige más a la batería y al sistema de precalentamiento diésel que en zonas de menor altitud y clima más suave."},
-    {"q": "¿Puedo evitar el desplazamiento a Vic o Manresa para el servicio oficial?", "a": "Sí, para la mayoría de mantenimientos y reparaciones no es necesario acudir al servicio oficial: cubrimos diagnosis, mecánica y electrónica con equipos adaptados a BMW, ahorrándote el viaje por carretera de montaña."},
-    {"q": "¿Notáis más desgaste en los coches que circulan por la C-62 y las vías comarcales?", "a": "Sí, el firme irregular y las pendientes constantes de estas carreteras aceleran el desgaste de suspensión, frenos y neumáticos respecto a un uso solo urbano o de autovía."},
-    {"q": "¿Ofrecéis recogida si vivo en una masía alejada del núcleo urbano?", "a": "Sí, coordinamos recogida y entrega adaptada a la vida rural de la comarca, sabiendo que muchos vecinos no pueden permitirse dejar el coche parado varios días."},
-    {"q": "¿Qué revisión recomendáis antes del invierno en el Lluçanès?", "a": "Recomendamos revisar batería, líquido anticongelante, estado de neumáticos y sistema de precalentamiento antes de que lleguen las primeras heladas del altiplano, normalmente a partir de noviembre."}
+    {
+      "q": "¿Atendéis vehículos de todo el Lluçanès o solo de Prats?",
+      "a": "Damos servicio a toda la comarca, incluyendo Alpens, Olost, Sant Boi de Lluçanès, Sant Agustí de Lluçanès, Sobremunt y Santa Creu de Jutglar, con posibilidad de recogida del vehículo."
+    },
+    {
+      "q": "¿Por qué mi BMW arranca peor en invierno en Prats que en la ciudad?",
+      "a": "La combinación de altitud cercana a los 800 metros y las heladas frecuentes del altiplano exige más a la batería y al sistema de precalentamiento diésel que en zonas de menor altitud y clima más suave."
+    },
+    {
+      "q": "¿Puedo evitar el desplazamiento a Vic o Manresa para el servicio oficial?",
+      "a": "Sí, para la mayoría de mantenimientos y reparaciones no es necesario acudir al servicio oficial: cubrimos diagnosis, mecánica y electrónica con equipos adaptados a BMW, ahorrándote el viaje por carretera de montaña."
+    },
+    {
+      "q": "¿Notáis más desgaste en los coches que circulan por la C-62 y las vías comarcales?",
+      "a": "Sí, el firme irregular y las pendientes constantes de estas carreteras aceleran el desgaste de suspensión, frenos y neumáticos respecto a un uso solo urbano o de autovía."
+    },
+    {
+      "q": "¿Ofrecéis recogida si vivo en una masía alejada del núcleo urbano?",
+      "a": "Sí, coordinamos recogida y entrega adaptada a la vida rural de la comarca, sabiendo que muchos vecinos no pueden permitirse dejar el coche parado varios días."
+    },
+    {
+      "q": "¿Qué revisión recomendáis antes del invierno en el Lluçanès?",
+      "a": "Recomendamos revisar batería, líquido anticongelante, estado de neumáticos y sistema de precalentamiento antes de que lleguen las primeras heladas del altiplano, normalmente a partir de noviembre."
+    }
   ],
   "closingHeadline": "Tu BMW, listo para el Lluçanès",
   "closingCta": "Pide cita en nuestro taller de Prats de Lluçanès y deja tu BMW en manos de quien entiende de verdad la montaña, el frío y las carreteras de la comarca.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

@@ -5,17 +5,35 @@
   "ccaa": "Cataluña",
   "population": 1578,
   "lat": 42.0119,
-  "lng": 1.8460,
+  "lng": 1.846,
   "metaTitle": "Taller BMW en Casserres | Especialistas BMW — Diagnóstico Profesional",
   "metaDescription": "Taller especializado en BMW en Casserres, Berguedà. Reparación de suspensiones, filtros de partículas y mantenimiento integral para conducción rural. Presupuesto sin compromiso.",
   "heroSubtitle": "Especialistas BMW en el corazón del Berguedà. Tu taller de confianza para caminos rurales, pistas agrícolas y carreteras de montaña.",
   "trustChips": [
-    { "icon": "🔧", "text": "Especialistas exclusivos en BMW" },
-    { "icon": "🛤️", "text": "Expertos en conducción rural y caminos agrícolas" },
-    { "icon": "📋", "text": "Diagnóstico profesional con equipo oficial" },
-    { "icon": "🚗", "text": "Servicio de recogida y entrega a domicilio" },
-    { "icon": "💬", "text": "Presupuesto previo sin compromiso" },
-    { "icon": "⏱️", "text": "Citas rápidas, sin largas esperas" }
+    {
+      "icon": "🔧",
+      "text": "Especialistas exclusivos en BMW"
+    },
+    {
+      "icon": "🛤️",
+      "text": "Expertos en conducción rural y caminos agrícolas"
+    },
+    {
+      "icon": "📋",
+      "text": "Diagnóstico profesional con equipo oficial"
+    },
+    {
+      "icon": "🚗",
+      "text": "Servicio de recogida y entrega a domicilio"
+    },
+    {
+      "icon": "💬",
+      "text": "Presupuesto previo sin compromiso"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Citas rápidas, sin largas esperas"
+    }
   ],
   "introLocal": "Casserres es un municipio tranquilo y auténtico enclavado en el sur de la comarca del Berguedà, en la provincia de Barcelona. Situado a unos 500 metros de altitud sobre el valle del río Llobregat, este pequeño pueblo de poco más de 1.500 habitantes conserva el carácter rural y la serenidad que definen la vida en el interior de Cataluña. Rodeado de campos de cultivo, masías centenarias y bosques de encinas, Casserres ofrece un paisaje donde la naturaleza y la actividad agrícola conviven en perfecto equilibrio.\n\nLa ubicación geográfica de Casserres, entre Berga al norte y Manresa al sur, convierte al vehículo privado en una herramienta imprescindible para sus habitantes. La carretera B-402 conecta el pueblo con los núcleos más importantes de la zona, mientras que la proximidad a la C-16 permite acceder a la red viaria principal de Cataluña. Sin embargo, gran parte de la vida cotidiana en Casserres transcurre por caminos rurales, pistas forestales y accesos a fincas agrícolas que exigen mucho de cualquier vehículo, especialmente de modelos premium como los BMW.\n\nLos propietarios de BMW en Casserres y sus alrededores conocen bien los desafíos que impone la conducción rural. Los caminos sin asfaltar, los baches tras las lluvias de otoño, el barro acumulado en los bajos del coche durante las labores del campo, las piedras que saltan contra la carrocería y los desniveles propios de las pistas agrícolas someten a la suspensión, la dirección y los bajos del vehículo a un desgaste muy superior al de la conducción urbana. A esto se suma que muchos BMW diésel de la zona sufren problemas con el filtro de partículas, ya que los trayectos cortos y a baja velocidad, tan habituales en el entorno rural, impiden la regeneración completa del sistema.\n\nHasta ahora, los conductores de BMW en Casserres debían desplazarse a Berga, Manresa o incluso a Barcelona para encontrar un taller con la especialización y el equipamiento necesarios para atender correctamente sus vehículos. Esos desplazamientos suponen tiempo, kilómetros adicionales y la incomodidad de quedarse sin coche durante días. Nuestro taller nace precisamente para resolver esa carencia: ofrecemos servicio técnico especializado en BMW con la cercanía y la confianza de un taller de proximidad, sin renunciar a la calidad de diagnóstico y reparación que exige la marca bávara.\n\nEn BMW Taller entendemos las necesidades específicas de los conductores rurales del Berguedà. Sabemos que tu BMW no solo es un coche de carretera, sino también tu compañero en las tareas del campo, en los desplazamientos por pistas sin asfaltar y en las jornadas de invierno con heladas y humedad. Por eso adaptamos nuestros servicios a la realidad de la zona: revisiones de suspensión reforzadas, tratamientos anticorrosión para los bajos, limpieza y regeneración de filtros de partículas, y reparaciones de carrocería por impactos de grava y piedras. Tu BMW merece un especialista que conozca el terreno que pisa.",
   "servicesIntro": "En Casserres ofrecemos una gama completa de servicios especializados en BMW, diseñados para responder a las exigencias de la conducción rural en el Berguedà. Desde el mantenimiento preventivo hasta las reparaciones más complejas de motor, suspensión, electrónica y carrocería, nuestro equipo cuenta con la formación y el equipamiento de diagnóstico específico para cada modelo de la marca bávara.",
@@ -162,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

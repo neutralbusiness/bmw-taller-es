@@ -10,12 +10,30 @@
   "metaDescription": "Taller BMW en Alpens, norte del Lluçanès. Mantenimiento preventivo para clima extremo, reparación de suspensión y diagnóstico electrónico profesional.",
   "heroSubtitle": "En la frontera entre el Lluçanès y el Ripollès, tu BMW necesita un servicio que conozca cada curva. Estamos aquí.",
   "trustChips": [
-    {"icon": "❄️", "text": "Preparación invernal BMW"},
-    {"icon": "🔧", "text": "Diagnóstico electrónico avanzado"},
-    {"icon": "🏔️", "text": "Especialistas clima de montaña"},
-    {"icon": "🛞", "text": "Neumáticos y tracción integral"},
-    {"icon": "📋", "text": "Historial digital completo"},
-    {"icon": "🛡️", "text": "Recambios certificados BMW"}
+    {
+      "icon": "❄️",
+      "text": "Preparación invernal BMW"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico electrónico avanzado"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Especialistas clima de montaña"
+    },
+    {
+      "icon": "🛞",
+      "text": "Neumáticos y tracción integral"
+    },
+    {
+      "icon": "📋",
+      "text": "Historial digital completo"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Recambios certificados BMW"
+    }
   ],
   "introLocal": "Alpens ocupa el extremo norte del Lluçanès, en ese punto donde el altiplano comienza a elevarse hacia las cumbres del Ripollès y los paisajes ganan verticalidad. A casi 900 metros de altitud, este municipio de poco más de trescientos habitantes vive rodeado de bosques de pino silvestre, prados de montaña y una quietud que solo interrumpen el viento del norte y el canto de las aves rapaces que sobrevuelan la sierra de Curull.\n\nLa posición geográfica de Alpens convierte cada desplazamiento en una pequeña expedición. La carretera BV-4608 que conecta con Prats de Lluçanès serpentea durante kilómetros entre barrancos y collados, mientras que el acceso hacia el Ripollès por la C-17 requiere atravesar el puerto de Canes, un tramo donde la nieve y el hielo pueden aparecer de octubre a abril. Para los propietarios de BMW en Alpens, mantener el vehículo en condiciones óptimas no es un capricho, es una necesidad vital que puede marcar la diferencia entre llegar o quedarse tirado en una carretera de montaña sin cobertura móvil.\n\nLa iglesia románica de Sant Pere d'Alpens, visible desde la entrada del pueblo, lleva más de mil años resistiendo los inviernos del Prepirineo. Los BMW que circulan por estas carreteras también necesitan esa capacidad de resistencia, pero a diferencia de la piedra románica, la mecánica requiere mantenimiento periódico. El frío persistente, con mínimas que frecuentemente bajan de los -10°C en enero y febrero, castiga especialmente las juntas de estanqueidad, los manguitos del circuito de refrigeración y los componentes electrónicos sensibles a la humedad por condensación.\n\nLos conductores de Alpens que eligen BMW lo hacen, en muchos casos, por la tracción integral xDrive que les permite afrontar con seguridad las condiciones más adversas. Sin embargo, un sistema xDrive que no recibe el mantenimiento adecuado pierde eficacia progresivamente. Los diferenciales necesitan cambio de aceite, la caja transfer requiere inspección y los sensores de tracción deben calibrarse para responder correctamente en superficies resbaladizas. En nuestro taller, estos protocolos forman parte del mantenimiento estándar para vehículos de montaña.\n\nLa distancia que separa Alpens de los talleres oficiales BMW más cercanos, ya sea en Vic hacia el sur o en Ripoll hacia el norte, supone un inconveniente real para los vecinos del pueblo. Un trayecto de ida y vuelta a Vic puede consumir fácilmente dos horas por carreteras que en invierno presentan tramos helados o con cadenas obligatorias. Nuestro servicio técnico elimina esta barrera logística ofreciendo atención especializada BMW dentro de la comarca, con la misma capacidad de diagnóstico y reparación que encontrarías en un centro urbano.\n\nAlpens es también punto de partida para excursiones hacia el Puig de la Força y las fuentes del Lluçanès, rutas que en verano atraen a visitantes con vehículos que necesitan revisar frenos antes de afrontar descensos pronunciados. Tanto para residentes habituales como para quienes tienen segunda residencia en la zona, disponer de un taller BMW de confianza cerca de Alpens supone una garantía de movilidad durante todo el año, sin importar lo que el calendario meteorológico depare.\n\nLa ganadería extensiva, presente en varias explotaciones del término municipal, obliga a muchos vecinos a circular diariamente por pistas de acceso a pastos y granjas que no figuran en ningún mapa. Estos trayectos, aunque cortos, someten a la suspensión y al sistema de escape a impactos y vibraciones que aceleran el desgaste de componentes. Nuestro servicio incluye inspecciones específicas del tren inferior y la línea de escape para detectar y corregir estos daños antes de que comprometan la seguridad o el confort de conducción de tu BMW.",
   "servicesIntro": "Nuestro catálogo de servicios BMW abarca desde revisiones de mantenimiento programado hasta intervenciones complejas en motorización, transmisión y sistemas electrónicos, con protocolos específicamente diseñados para vehículos que operan en altitud y clima frío extremo.",
@@ -166,9 +184,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

@@ -5,60 +5,181 @@
   "ccaa": "Cataluña",
   "population": 173,
   "lat": 41.9889,
-  "lng": 1.9660,
+  "lng": 1.966,
   "metaTitle": "Taller BMW en Santa Maria de Merlès | Mecánica BMW Rural",
   "metaDescription": "Servicio BMW en Santa Maria de Merlès: mantenimiento rural, motor diésel, distribución y frenos para las carreteras del valle del Merlès. Presupuesto sin compromiso.",
   "heroSubtitle": "Entre el Berguedà y el Lluçanès, tu BMW necesita un taller que conozca las carreteras del valle del Merlès. Estamos aquí.",
   "trustChips": [
-    {"icon": "🔧", "text": "Motor diésel BMW"},
-    {"icon": "⏱️", "text": "Distribución y cadena"},
-    {"icon": "🛣️", "text": "Frenos para carreteras sinuosas"},
-    {"icon": "📱", "text": "Cita por WhatsApp"},
-    {"icon": "✅", "text": "Sin sorpresas en factura"}
+    {
+      "icon": "🔧",
+      "text": "Motor diésel BMW"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Distribución y cadena"
+    },
+    {
+      "icon": "🛣️",
+      "text": "Frenos para carreteras sinuosas"
+    },
+    {
+      "icon": "📱",
+      "text": "Cita por WhatsApp"
+    },
+    {
+      "icon": "✅",
+      "text": "Sin sorpresas en factura"
+    }
   ],
   "introLocal": "Santa Maria de Merlès se extiende a lo largo del valle que traza el río Merlès antes de tributar al Llobregat, en una franja de territorio que marca la frontera natural entre las comarcas del Berguedà y el Lluçanès. Con 173 habitantes censados, este municipio es un cruce de caminos rurales donde confluyen ganaderos, agricultores y familias que han elegido vivir lejos del ruido urbano sin renunciar a la movilidad que ofrece un buen vehículo. Y en esa ecuación, el BMW ocupa un lugar destacado: fiable, resistente y capaz de cubrir con solvencia los kilómetros que separan Santa Maria de Merlès de los núcleos de servicios como Berga o Vic.\n\nLas carreteras que vertebran el día a día en Santa Maria de Merlès son estrechas, onduladas y con un trazado que sigue los caprichos del relieve. La BV-4406 y las pistas que conectan con Lluçà, Prats de Lluçanès y Sant Agustí de Lluçanès combinan rectas cortas con curvas de visibilidad reducida, cambios de rasante y tramos donde el asfalto ha perdido la batalla contra las raíces de los árboles. Este tipo de conducción, que alterna aceleraciones y frenadas constantes con giros de volante de ángulo cerrado, somete al motor, la dirección y los frenos a un régimen de trabajo que los manuales del fabricante clasifican como severo. Nosotros lo clasificamos como normal para la zona, y ajustamos los mantenimientos en consecuencia.\n\nUno de los componentes que más vigilamos en los BMW de propietarios de Santa Maria de Merlès es el sistema de distribución. Los motores diésel BMW de cuatro cilindros —la serie N47 y su sucesora B47— utilizan cadenas de distribución que, a pesar de su diseño de larga duración, pueden presentar alargamiento prematuro cuando el motor trabaja en frío durante períodos prolongados o cuando los intervalos de cambio de aceite se exceden. En un entorno rural donde los trayectos matutinos comienzan con el motor a temperatura ambiente baja y donde no siempre es fácil cumplir el calendario del concesionario, la cadena de distribución merece una atención especial. Medimos el alargamiento con herramientas específicas y recomendamos la sustitución preventiva antes de que se produzca un salto de eslabón, avería que en un motor BMW puede suponer la destrucción del propulsor.\n\nLa posición de Santa Maria de Merlès como encrucijada entre comarcas tiene una consecuencia práctica: los propietarios de BMW acumulan kilometrajes elevados. Ir a Berga para una gestión, a Vic para el hospital o a Manresa para compras implica recorridos de entre 30 y 60 kilómetros por trayecto, casi siempre por carreteras secundarias. Esta acumulación de kilómetros en condiciones de conducción exigente adelanta los plazos de sustitución de discos de freno, filtro de partículas, amortiguadores y neumáticos. En nuestro taller no nos guiamos únicamente por el cuentakilómetros del vehículo, sino por el tipo de kilómetros que se recorren: un kilómetro por la BV-4406 no equivale a un kilómetro de autopista.\n\nEl valle del Merlès es también una zona de nieblas densas en otoño e invierno, fenómeno que afecta a la electrónica exterior del BMW. Los sensores del parachoques delantero —radar ACC, cámara de frenado autónomo— pueden dar lecturas erróneas cuando acumulan humedad o suciedad persistente. Los faros adaptativos con tecnología LED o láser también pueden ver reducido su rendimiento si las lentes externas pierden estanqueidad. Verificamos el estado de todos los sensores ADAS y del sistema de iluminación como parte de nuestras revisiones periódicas, porque en una carretera de montaña sin iluminación artificial, la visibilidad no es negociable.",
   "servicesIntro": "Prestamos servicios técnicos BMW orientados a la conducción rural de larga distancia: distribución por cadena, mantenimiento de motor diésel, frenos de alto kilometraje, electrónica de sensores ADAS y revisiones con intervalos adaptados al uso real en carreteras comarcales.",
   "processIntro": "Nuestro proceso busca que cada visita al taller sea resolutiva. Sabemos que desde Santa Maria de Merlès el desplazamiento requiere tiempo, y lo compensamos con eficiencia y comunicación clara.",
   "processSteps": [
-    {"title": "Reserva de cita con detalle", "body": "Al contactar, te pedimos el modelo exacto, el kilometraje y una descripción del síntoma. Así preparamos herramientas y piezas antes de tu llegada."},
-    {"title": "Inspección integral del vehículo", "body": "No nos limitamos al motivo de la visita. Aprovechamos para revisar los puntos críticos del BMW en conducción rural: suspensión, frenos, distribución y sensores."},
-    {"title": "Presupuesto detallado y aprobación", "body": "Te presentamos un presupuesto desglosado con el coste de cada pieza y cada hora de trabajo. No intervenimos sin tu visto bueno expreso."},
-    {"title": "Reparación y verificación funcional", "body": "Realizamos la intervención y comprobamos el resultado con pruebas funcionales: lectura de centralitas, prueba de frenos y, si es necesario, prueba de carretera."}
+    {
+      "title": "Reserva de cita con detalle",
+      "body": "Al contactar, te pedimos el modelo exacto, el kilometraje y una descripción del síntoma. Así preparamos herramientas y piezas antes de tu llegada."
+    },
+    {
+      "title": "Inspección integral del vehículo",
+      "body": "No nos limitamos al motivo de la visita. Aprovechamos para revisar los puntos críticos del BMW en conducción rural: suspensión, frenos, distribución y sensores."
+    },
+    {
+      "title": "Presupuesto detallado y aprobación",
+      "body": "Te presentamos un presupuesto desglosado con el coste de cada pieza y cada hora de trabajo. No intervenimos sin tu visto bueno expreso."
+    },
+    {
+      "title": "Reparación y verificación funcional",
+      "body": "Realizamos la intervención y comprobamos el resultado con pruebas funcionales: lectura de centralitas, prueba de frenos y, si es necesario, prueba de carretera."
+    }
   ],
   "commonIssuesIntro": "La conducción habitual en Santa Maria de Merlès genera un patrón de desgaste particular en los BMW. Estas son las cinco incidencias que más atendemos en vehículos de propietarios de la zona del valle del Merlès.",
   "commonIssues": [
-    {"title": "Alargamiento de la cadena de distribución", "body": "Los motores diésel BMW de cuatro cilindros son sensibles al alargamiento de la cadena, especialmente con arranques en frío frecuentes y aceite degradado. Medimos la elongación y sustituimos preventivamente."},
-    {"title": "Desgaste prematuro de discos y pastillas de freno", "body": "Las carreteras sinuosas del valle del Merlès exigen frenadas constantes. Los discos y pastillas se desgastan antes de lo indicado por el fabricante. Verificamos espesores y estado de la superficie."},
-    {"title": "Filtro de partículas saturado", "body": "Los trayectos cortos y la conducción a bajas revoluciones impiden la regeneración completa del DPF. Diagnosticamos el nivel de saturación y realizamos regeneraciones forzadas o sustitución si es necesario."},
-    {"title": "Sensores ADAS con lecturas erróneas por niebla", "body": "La humedad persistente del valle afecta al radar frontal y la cámara de frenado autónomo. Calibramos y verificamos el correcto funcionamiento de todos los sistemas de asistencia a la conducción."},
-    {"title": "Amortiguadores fatigados por carreteras irregulares", "body": "El firme deteriorado de las carreteras comarcales acelera la fatiga de los amortiguadores. Comprobamos la respuesta hidráulica y sustituimos por unidades que soporten el uso rural intensivo."}
+    {
+      "title": "Alargamiento de la cadena de distribución",
+      "body": "Los motores diésel BMW de cuatro cilindros son sensibles al alargamiento de la cadena, especialmente con arranques en frío frecuentes y aceite degradado. Medimos la elongación y sustituimos preventivamente."
+    },
+    {
+      "title": "Desgaste prematuro de discos y pastillas de freno",
+      "body": "Las carreteras sinuosas del valle del Merlès exigen frenadas constantes. Los discos y pastillas se desgastan antes de lo indicado por el fabricante. Verificamos espesores y estado de la superficie."
+    },
+    {
+      "title": "Filtro de partículas saturado",
+      "body": "Los trayectos cortos y la conducción a bajas revoluciones impiden la regeneración completa del DPF. Diagnosticamos el nivel de saturación y realizamos regeneraciones forzadas o sustitución si es necesario."
+    },
+    {
+      "title": "Sensores ADAS con lecturas erróneas por niebla",
+      "body": "La humedad persistente del valle afecta al radar frontal y la cámara de frenado autónomo. Calibramos y verificamos el correcto funcionamiento de todos los sistemas de asistencia a la conducción."
+    },
+    {
+      "title": "Amortiguadores fatigados por carreteras irregulares",
+      "body": "El firme deteriorado de las carreteras comarcales acelera la fatiga de los amortiguadores. Comprobamos la respuesta hidráulica y sustituimos por unidades que soporten el uso rural intensivo."
+    }
   ],
   "whyUs": [
-    {"title": "Mantenimiento por tipo de kilómetro", "body": "No todos los kilómetros son iguales. Un kilómetro por la BV-4406 desgasta más que uno de autopista. Ajustamos los intervalos de mantenimiento al uso real, no al manual genérico."},
-    {"title": "Control de la cadena de distribución", "body": "Es una de las averías más costosas en motores diésel BMW. La medimos en cada revisión y te avisamos con margen para planificar la sustitución sin urgencias."},
-    {"title": "Calibración de sensores ADAS", "body": "En carreteras sin iluminación y con nieblas frecuentes, los sistemas de asistencia deben funcionar perfectamente. Verificamos y calibramos cada sensor con los parámetros del fabricante."},
-    {"title": "Comunicación directa y sin jerga", "body": "Te explicamos qué tiene el coche, por qué ha ocurrido y cuánto cuesta arreglarlo. Sin tecnicismos innecesarios y con fotos del estado real de las piezas."},
-    {"title": "Experiencia con flota rural BMW", "body": "Conocemos las averías típicas de BMW en entornos rurales porque es nuestro día a día. No somos un taller urbano que extrapola; trabajamos con vehículos que circulan por estas carreteras."}
+    {
+      "title": "Mantenimiento por tipo de kilómetro",
+      "body": "No todos los kilómetros son iguales. Un kilómetro por la BV-4406 desgasta más que uno de autopista. Ajustamos los intervalos de mantenimiento al uso real, no al manual genérico."
+    },
+    {
+      "title": "Control de la cadena de distribución",
+      "body": "Es una de las averías más costosas en motores diésel BMW. La medimos en cada revisión y te avisamos con margen para planificar la sustitución sin urgencias."
+    },
+    {
+      "title": "Calibración de sensores ADAS",
+      "body": "En carreteras sin iluminación y con nieblas frecuentes, los sistemas de asistencia deben funcionar perfectamente. Verificamos y calibramos cada sensor con los parámetros del fabricante."
+    },
+    {
+      "title": "Comunicación directa y sin jerga",
+      "body": "Te explicamos qué tiene el coche, por qué ha ocurrido y cuánto cuesta arreglarlo. Sin tecnicismos innecesarios y con fotos del estado real de las piezas."
+    },
+    {
+      "title": "Experiencia con flota rural BMW",
+      "body": "Conocemos las averías típicas de BMW en entornos rurales porque es nuestro día a día. No somos un taller urbano que extrapola; trabajamos con vehículos que circulan por estas carreteras."
+    }
   ],
   "testimonialsIntro": "Propietarios de BMW del valle del Merlès y comarcas limítrofes comparten su experiencia con nuestro servicio técnico. Cada testimonio refleja un caso real resuelto en nuestro taller.",
   "testimonials": [
-    {"name": "Pau Viladomat", "neighborhood": "Santa Maria de Merlès", "car": "BMW 320d", "body": "Me detectaron el alargamiento de la cadena de distribución antes de que diera problemas. En otro taller me habrían esperado al fallo. Aquí me ahorraron un motor nuevo y me lo explicaron con datos, no con alarmas.", "rating": 5},
-    {"name": "Gemma Riera", "neighborhood": "Lluçà", "car": "BMW X1 xDrive18d", "body": "Hacía la ruta a Vic cada día y los frenos duraban la mitad de lo que decía el libro. Me pusieron pastillas y discos de mayor calidad y me explicaron cómo frenar en bajada para que duren más. Diferencia notable.", "rating": 5},
-    {"name": "Ramon Castellví", "neighborhood": "Prats de Lluçanès", "car": "BMW 520d", "body": "El filtro de partículas se me saturaba cada pocos meses por los trayectos cortos. Me hicieron una regeneración completa y me dieron pautas para que el coche regenere solo. Llevo seis meses sin problemas.", "rating": 5},
-    {"name": "Isabel Puig", "neighborhood": "Sant Agustí de Lluçanès", "car": "BMW 218i Gran Tourer", "body": "Con las nieblas del valle, el sensor del frenado de emergencia daba avisos falsos constantemente. Me lo calibraron, limpiaron la lente de la cámara y ya no ha vuelto a saltar. Un alivio para conducir de noche.", "rating": 5}
+    {
+      "name": "Pau Viladomat",
+      "neighborhood": "Santa Maria de Merlès",
+      "car": "BMW 320d",
+      "body": "Me detectaron el alargamiento de la cadena de distribución antes de que diera problemas. En otro taller me habrían esperado al fallo. Aquí me ahorraron un motor nuevo y me lo explicaron con datos, no con alarmas.",
+      "rating": 5
+    },
+    {
+      "name": "Gemma Riera",
+      "neighborhood": "Lluçà",
+      "car": "BMW X1 xDrive18d",
+      "body": "Hacía la ruta a Vic cada día y los frenos duraban la mitad de lo que decía el libro. Me pusieron pastillas y discos de mayor calidad y me explicaron cómo frenar en bajada para que duren más. Diferencia notable.",
+      "rating": 5
+    },
+    {
+      "name": "Ramon Castellví",
+      "neighborhood": "Prats de Lluçanès",
+      "car": "BMW 520d",
+      "body": "El filtro de partículas se me saturaba cada pocos meses por los trayectos cortos. Me hicieron una regeneración completa y me dieron pautas para que el coche regenere solo. Llevo seis meses sin problemas.",
+      "rating": 5
+    },
+    {
+      "name": "Isabel Puig",
+      "neighborhood": "Sant Agustí de Lluçanès",
+      "car": "BMW 218i Gran Tourer",
+      "body": "Con las nieblas del valle, el sensor del frenado de emergencia daba avisos falsos constantemente. Me lo calibraron, limpiaron la lente de la cámara y ya no ha vuelto a saltar. Un alivio para conducir de noche.",
+      "rating": 5
+    }
   ],
   "zoneText": "Damos servicio a la franja sur del Berguedà y la zona norte del Lluçanès, cubriendo un territorio de baja densidad donde los desplazamientos son largos y el acceso a talleres especializados, escaso.",
-  "zoneNeighborhoods": ["Lluçà", "Prats de Lluçanès", "Sant Agustí de Lluçanès", "Olost", "Sagàs", "L'Espunyola", "Gaià", "Puig-reig"],
-  "zoneAccessRoutes": ["BV-4406", "BV-4401", "C-16", "C-62", "B-431"],
+  "zoneNeighborhoods": [
+    "Lluçà",
+    "Prats de Lluçanès",
+    "Sant Agustí de Lluçanès",
+    "Olost",
+    "Sagàs",
+    "L'Espunyola",
+    "Gaià",
+    "Puig-reig"
+  ],
+  "zoneAccessRoutes": [
+    "BV-4406",
+    "BV-4401",
+    "C-16",
+    "C-62",
+    "B-431"
+  ],
   "faqLocal": [
-    {"q": "¿Cada cuánto hay que revisar la cadena de distribución en un BMW diésel?", "a": "Recomendamos medir la elongación a partir de los 100.000 km o cada 5 años, lo que llegue primero. En conducción rural con arranques en frío frecuentes, el plazo puede adelantarse."},
-    {"q": "¿Por qué mis frenos duran menos de lo que indica el fabricante?", "a": "Las carreteras sinuosas del valle del Merlès exigen frenadas mucho más frecuentes que la conducción en autopista. El desgaste se mide por intensidad de uso, no solo por kilómetros."},
-    {"q": "¿Qué hago si el testigo del filtro de partículas se enciende?", "a": "No lo ignores. Conduce al menos 30 minutos a más de 2.500 rpm por una carretera donde puedas mantener velocidad constante. Si no se apaga, necesita diagnóstico profesional para evitar la saturación total."},
-    {"q": "¿Las nieblas del valle pueden afectar a los sensores de mi BMW?", "a": "Sí. La humedad persistente puede interferir con el radar ACC y la cámara del sistema de frenado autónomo, provocando avisos falsos o desactivación temporal del sistema."},
-    {"q": "¿Tenéis experiencia con BMW híbridos en zona rural?", "a": "Sí. Los BMW PHEV requieren atención especial en entornos rurales porque la batería de alto voltaje se degrada más rápido si el coche circula habitualmente en modo térmico sin completar ciclos de carga."},
-    {"q": "¿Puedo llevar el BMW desde Lluçà o Prats de Lluçanès a vuestro taller?", "a": "Por supuesto. Damos servicio a todo el Lluçanès norte y sur del Berguedà. Contacta por WhatsApp para reservar cita y te indicamos cómo llegar de la forma más directa."}
+    {
+      "q": "¿Cada cuánto hay que revisar la cadena de distribución en un BMW diésel?",
+      "a": "Recomendamos medir la elongación a partir de los 100.000 km o cada 5 años, lo que llegue primero. En conducción rural con arranques en frío frecuentes, el plazo puede adelantarse."
+    },
+    {
+      "q": "¿Por qué mis frenos duran menos de lo que indica el fabricante?",
+      "a": "Las carreteras sinuosas del valle del Merlès exigen frenadas mucho más frecuentes que la conducción en autopista. El desgaste se mide por intensidad de uso, no solo por kilómetros."
+    },
+    {
+      "q": "¿Qué hago si el testigo del filtro de partículas se enciende?",
+      "a": "No lo ignores. Conduce al menos 30 minutos a más de 2.500 rpm por una carretera donde puedas mantener velocidad constante. Si no se apaga, necesita diagnóstico profesional para evitar la saturación total."
+    },
+    {
+      "q": "¿Las nieblas del valle pueden afectar a los sensores de mi BMW?",
+      "a": "Sí. La humedad persistente puede interferir con el radar ACC y la cámara del sistema de frenado autónomo, provocando avisos falsos o desactivación temporal del sistema."
+    },
+    {
+      "q": "¿Tenéis experiencia con BMW híbridos en zona rural?",
+      "a": "Sí. Los BMW PHEV requieren atención especial en entornos rurales porque la batería de alto voltaje se degrada más rápido si el coche circula habitualmente en modo térmico sin completar ciclos de carga."
+    },
+    {
+      "q": "¿Puedo llevar el BMW desde Lluçà o Prats de Lluçanès a vuestro taller?",
+      "a": "Por supuesto. Damos servicio a todo el Lluçanès norte y sur del Berguedà. Contacta por WhatsApp para reservar cita y te indicamos cómo llegar de la forma más directa."
+    }
   ],
   "closingHeadline": "El taller BMW que el valle del Merlès necesitaba",
   "closingCta": "Llámanos o escríbenos por WhatsApp para reservar tu cita. Tu BMW merece un mantenimiento que tenga en cuenta cada curva y cada kilómetro de las carreteras de Santa Maria de Merlès.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

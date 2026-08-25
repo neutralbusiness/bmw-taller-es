@@ -10,56 +10,177 @@
   "metaDescription": "Servicio técnico BMW en Jorba, Anoia. Especialistas en desgaste por autovía A-2 y temperaturas extremas. Diagnóstico avanzado. Llama al 665 245 143.",
   "heroSubtitle": "Tu BMW merece atención experta en el corazón de la Anoia. Diagnóstico profesional y reparación integral junto a la A-2.",
   "trustChips": [
-    {"icon": "🔧", "text": "Diagnóstico BMW oficial"},
-    {"icon": "🌡️", "text": "Especialistas clima extremo"},
-    {"icon": "🛣️", "text": "Desgaste autovía A-2"},
-    {"icon": "⚡", "text": "Electrónica avanzada"},
-    {"icon": "📍", "text": "Junto a Igualada"}
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW oficial"
+    },
+    {
+      "icon": "🌡️",
+      "text": "Especialistas clima extremo"
+    },
+    {
+      "icon": "🛣️",
+      "text": "Desgaste autovía A-2"
+    },
+    {
+      "icon": "⚡",
+      "text": "Electrónica avanzada"
+    },
+    {
+      "icon": "📍",
+      "text": "Junto a Igualada"
+    }
   ],
   "introLocal": "Jorba, situado estratégicamente junto a la autovía A-2 en la comarca de la Anoia, es un municipio donde los vehículos BMW afrontan condiciones de uso particularmente exigentes. La proximidad a esta arteria viaria de primer orden significa que la mayoría de conductores de la zona acumulan kilómetros de autovía a diario, sometiendo sus motores y transmisiones a un régimen de alta velocidad constante que requiere un mantenimiento preventivo riguroso.\n\nEl clima continental de la meseta anoiense castiga con especial dureza a los vehículos premium. En invierno, las temperaturas pueden descender hasta los -5 °C, exigiendo al máximo los sistemas de arranque, la batería y los circuitos de refrigeración. En verano, el termómetro roza los 40 °C, lo que somete a una presión extraordinaria al sistema de climatización, al turbo y a los manguitos de refrigeración, componentes que en los BMW de las series modernas requieren una vigilancia constante.\n\nNuestro taller ofrece a los propietarios de BMW en Jorba un servicio técnico de proximidad sin necesidad de desplazarse hasta Barcelona o Igualada. Contamos con equipos de diagnóstico compatibles con los protocolos ISTA de BMW, lo que nos permite leer y borrar códigos de avería con la misma precisión que un concesionario oficial, pero con la flexibilidad y el trato directo de un taller de confianza.\n\nLa zona industrial de Jorba y su entorno generan un ambiente con partículas de polvo que se infiltran en los filtros de aire y en los sistemas de admisión. En motores BMW diésel con sistemas de recirculación de gases (EGR) y filtro de partículas (DPF), esta exposición continuada puede provocar obstrucciones prematuras. Nuestros técnicos conocen estos patrones locales y aplican protocolos de limpieza y regeneración adaptados.\n\nEl perfil del conductor de Jorba es, en gran medida, el de quien se desplaza a diario: a la conurbación de Igualada en pocos minutos, o a Barcelona por la autovía. Ese uso mixto explica la llegada creciente de híbridos enchufables como el 330e o el X1 xDrive25e, capaces de cubrir en modo eléctrico el trayecto hasta Igualada. Estos modelos tienen necesidades propias que dominamos: la batería de 12 voltios sufre más que en un BMW convencional, la frenada regenerativa hace que los discos trabajen tan poco que llegan a oxidarse superficialmente, y el circuito de refrigeración de la batería de alto voltaje requiere comprobaciones periódicas específicas.\n\nEn los diésel veteranos de alto kilometraje, habituales entre quienes hacen autovía a diario, prestamos especial atención a la cadena de distribución, un punto sensible en varias generaciones de motores de cuatro cilindros. Un rumor metálico al ralentí o en frío es motivo de diagnóstico inmediato, porque detectar el estiramiento a tiempo marca la diferencia entre una intervención programada y una avería mayor. Y para que el mantenimiento no interrumpa la rutina de nadie, los vecinos de Jorba pueden dejar el coche a primera hora y recogerlo por la tarde, con el trabajo terminado y el informe de diagnóstico explicado sin prisas.\n\nSi conduces un BMW y vives en Jorba o en los municipios cercanos de la Anoia interior, dispones de un servicio técnico especializado que combina tecnología de diagnóstico de última generación con un profundo conocimiento de las condiciones locales que afectan a tu vehículo. Te invitamos a contactarnos para una revisión preventiva o para resolver cualquier avería.",
   "servicesIntro": "Ofrecemos una gama completa de servicios técnicos para todas las series BMW, desde mantenimientos programados hasta reparaciones complejas de motor y transmisión, adaptados a las exigencias del clima continental y el uso intensivo en autovía.",
   "processIntro": "Nuestro proceso de trabajo garantiza transparencia total desde el primer contacto hasta la entrega del vehículo reparado.",
   "processSteps": [
-    {"title": "Contacto y cita previa", "body": "Llámanos o escríbenos por WhatsApp para agendar tu visita. Te indicamos disponibilidad inmediata y puedes dejarnos tu BMW sin esperas."},
-    {"title": "Diagnóstico electrónico completo", "body": "Conectamos tu BMW a nuestro equipo de diagnóstico compatible con ISTA para obtener una lectura completa de todos los módulos electrónicos y detectar cualquier anomalía."},
-    {"title": "Presupuesto detallado sin compromiso", "body": "Te presentamos un presupuesto claro con el desglose de piezas y mano de obra. Sin sorpresas ni costes ocultos."},
-    {"title": "Reparación con recambios de calidad", "body": "Utilizamos recambios originales o equivalentes homologados. Cada intervención sigue los protocolos técnicos del fabricante."},
-    {"title": "Entrega y seguimiento", "body": "Te explicamos el trabajo realizado, te entregamos el informe de diagnóstico y programamos el próximo mantenimiento recomendado."}
+    {
+      "title": "Contacto y cita previa",
+      "body": "Llámanos o escríbenos por WhatsApp para agendar tu visita. Te indicamos disponibilidad inmediata y puedes dejarnos tu BMW sin esperas."
+    },
+    {
+      "title": "Diagnóstico electrónico completo",
+      "body": "Conectamos tu BMW a nuestro equipo de diagnóstico compatible con ISTA para obtener una lectura completa de todos los módulos electrónicos y detectar cualquier anomalía."
+    },
+    {
+      "title": "Presupuesto detallado sin compromiso",
+      "body": "Te presentamos un presupuesto claro con el desglose de piezas y mano de obra. Sin sorpresas ni costes ocultos."
+    },
+    {
+      "title": "Reparación con recambios de calidad",
+      "body": "Utilizamos recambios originales o equivalentes homologados. Cada intervención sigue los protocolos técnicos del fabricante."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te explicamos el trabajo realizado, te entregamos el informe de diagnóstico y programamos el próximo mantenimiento recomendado."
+    }
   ],
   "commonIssuesIntro": "Los BMW que circulan habitualmente por la zona de Jorba y la A-2 presentan averías recurrentes condicionadas por el entorno y el tipo de conducción.",
   "commonIssues": [
-    {"title": "Desgaste prematuro de frenos por autovía", "body": "La conducción prolongada a alta velocidad en la A-2 con frenadas bruscas en las incorporaciones genera un desgaste desigual de pastillas y discos. Revisamos y sustituimos el sistema de frenado con componentes específicos para tu modelo BMW."},
-    {"title": "Fallos en el sistema de refrigeración por calor extremo", "body": "Los veranos por encima de 38 °C provocan fallos en termostatos, bombas de agua eléctricas y manguitos. Detectamos fugas y debilidades antes de que provoquen un sobrecalentamiento grave."},
-    {"title": "Problemas de batería por frío intenso", "body": "Las heladas invernales de la meseta anoiense acortan la vida útil de las baterías AGM que montan los BMW modernos. Realizamos tests de capacidad y sustituimos con la especificación correcta."},
-    {"title": "Obstrucción del filtro de partículas (DPF)", "body": "El polvo agrícola y los trayectos mixtos cortos impiden la regeneración completa del DPF. Realizamos regeneraciones forzadas y, si es necesario, limpiezas profesionales del filtro."},
-    {"title": "Consumo de aceite elevado en motores N20/N55", "body": "Los motores turbo de 4 y 6 cilindros BMW son propensos a un consumo de aceite superior al normal, agravado por las altas temperaturas estivales. Controlamos niveles y diagnosticamos la causa raíz."}
+    {
+      "title": "Desgaste prematuro de frenos por autovía",
+      "body": "La conducción prolongada a alta velocidad en la A-2 con frenadas bruscas en las incorporaciones genera un desgaste desigual de pastillas y discos. Revisamos y sustituimos el sistema de frenado con componentes específicos para tu modelo BMW."
+    },
+    {
+      "title": "Fallos en el sistema de refrigeración por calor extremo",
+      "body": "Los veranos por encima de 38 °C provocan fallos en termostatos, bombas de agua eléctricas y manguitos. Detectamos fugas y debilidades antes de que provoquen un sobrecalentamiento grave."
+    },
+    {
+      "title": "Problemas de batería por frío intenso",
+      "body": "Las heladas invernales de la meseta anoiense acortan la vida útil de las baterías AGM que montan los BMW modernos. Realizamos tests de capacidad y sustituimos con la especificación correcta."
+    },
+    {
+      "title": "Obstrucción del filtro de partículas (DPF)",
+      "body": "El polvo agrícola y los trayectos mixtos cortos impiden la regeneración completa del DPF. Realizamos regeneraciones forzadas y, si es necesario, limpiezas profesionales del filtro."
+    },
+    {
+      "title": "Consumo de aceite elevado en motores N20/N55",
+      "body": "Los motores turbo de 4 y 6 cilindros BMW son propensos a un consumo de aceite superior al normal, agravado por las altas temperaturas estivales. Controlamos niveles y diagnosticamos la causa raíz."
+    }
   ],
   "whyUs": [
-    {"title": "Proximidad real a Jorba", "body": "Evita desplazamientos largos hasta Barcelona. Atendemos tu BMW con la misma tecnología que un concesionario, a minutos de tu casa."},
-    {"title": "Diagnóstico con protocolo ISTA", "body": "Nuestro equipo de diagnóstico lee todos los módulos electrónicos de tu BMW exactamente como lo haría el servicio oficial."},
-    {"title": "Experiencia en clima continental", "body": "Conocemos los problemas específicos que el calor extremo y las heladas provocan en los BMW de la comarca."},
-    {"title": "Presupuestos transparentes", "body": "Cada intervención viene acompañada de un presupuesto detallado previo. Tú decides si proceder."},
-    {"title": "Recambios originales y homologados", "body": "Trabajamos exclusivamente con piezas que cumplen las especificaciones del fabricante, garantizando fiabilidad a largo plazo."}
+    {
+      "title": "Proximidad real a Jorba",
+      "body": "Evita desplazamientos largos hasta Barcelona. Atendemos tu BMW con la misma tecnología que un concesionario, a minutos de tu casa."
+    },
+    {
+      "title": "Diagnóstico con protocolo ISTA",
+      "body": "Nuestro equipo de diagnóstico lee todos los módulos electrónicos de tu BMW exactamente como lo haría el servicio oficial."
+    },
+    {
+      "title": "Experiencia en clima continental",
+      "body": "Conocemos los problemas específicos que el calor extremo y las heladas provocan en los BMW de la comarca."
+    },
+    {
+      "title": "Presupuestos transparentes",
+      "body": "Cada intervención viene acompañada de un presupuesto detallado previo. Tú decides si proceder."
+    },
+    {
+      "title": "Recambios originales y homologados",
+      "body": "Trabajamos exclusivamente con piezas que cumplen las especificaciones del fabricante, garantizando fiabilidad a largo plazo."
+    }
   ],
   "testimonialsIntro": "Propietarios de BMW de Jorba y alrededores confían en nuestro servicio técnico para mantener sus vehículos en condiciones óptimas.",
   "testimonials": [
-    {"name": "Eduard M.", "neighborhood": "Jorba pueblo", "car": "BMW 320d F30", "body": "Me detectaron un fallo en la bomba de agua eléctrica antes de que el motor llegara a sobrecalentarse. Reparación rápida y precio justo.", "rating": 5},
-    {"name": "Montserrat P.", "neighborhood": "Urbanización Can Parera", "car": "BMW X1 E84", "body": "Llevo el X1 desde que lo compré nuevo. El mantenimiento aquí es impecable y me evita ir hasta Igualada o Barcelona.", "rating": 5},
-    {"name": "Francesc R.", "neighborhood": "Jorba", "car": "BMW 520d G30", "body": "El DPF se me obstruía cada invierno. Me hicieron una regeneración forzada y me explicaron cómo evitarlo conduciendo unos kilómetros de autovía de vez en cuando.", "rating": 5},
-    {"name": "Laura G.", "neighborhood": "Zona industrial Jorba", "car": "BMW 118i F40", "body": "Servicio profesional y cercano. Agradezco poder dejar el coche por la mañana y recogerlo a la tarde sin tener que desplazarme lejos.", "rating": 4}
+    {
+      "name": "Eduard M.",
+      "neighborhood": "Jorba pueblo",
+      "car": "BMW 320d F30",
+      "body": "Me detectaron un fallo en la bomba de agua eléctrica antes de que el motor llegara a sobrecalentarse. Reparación rápida y precio justo.",
+      "rating": 5
+    },
+    {
+      "name": "Montserrat P.",
+      "neighborhood": "Urbanización Can Parera",
+      "car": "BMW X1 E84",
+      "body": "Llevo el X1 desde que lo compré nuevo. El mantenimiento aquí es impecable y me evita ir hasta Igualada o Barcelona.",
+      "rating": 5
+    },
+    {
+      "name": "Francesc R.",
+      "neighborhood": "Jorba",
+      "car": "BMW 520d G30",
+      "body": "El DPF se me obstruía cada invierno. Me hicieron una regeneración forzada y me explicaron cómo evitarlo conduciendo unos kilómetros de autovía de vez en cuando.",
+      "rating": 5
+    },
+    {
+      "name": "Laura G.",
+      "neighborhood": "Zona industrial Jorba",
+      "car": "BMW 118i F40",
+      "body": "Servicio profesional y cercano. Agradezco poder dejar el coche por la mañana y recogerlo a la tarde sin tener que desplazarme lejos.",
+      "rating": 4
+    }
   ],
   "zoneText": "Damos servicio a propietarios de BMW en Jorba y en todos los municipios de la Anoia interior, con acceso directo por la A-2 y las carreteras comarcales.",
-  "zoneNeighborhoods": ["Igualada", "Òdena", "Copons", "Montmaneu", "Rubió", "Castellolí", "La Pobla de Claramunt"],
-  "zoneAccessRoutes": ["Autovía A-2 (salida 550)", "C-37 hacia Igualada", "BV-1031"],
+  "zoneNeighborhoods": [
+    "Igualada",
+    "Òdena",
+    "Copons",
+    "Montmaneu",
+    "Rubió",
+    "Castellolí",
+    "La Pobla de Claramunt"
+  ],
+  "zoneAccessRoutes": [
+    "Autovía A-2 (salida 550)",
+    "C-37 hacia Igualada",
+    "BV-1031"
+  ],
   "faqLocal": [
-    {"q": "¿Dónde puedo llevar mi BMW a reparar cerca de Jorba?", "a": "Nuestro taller especializado BMW atiende a propietarios de Jorba y alrededores. Estamos a pocos minutos por la A-2 y ofrecemos diagnóstico con equipos compatibles con el sistema oficial BMW."},
-    {"q": "¿El calor extremo de la Anoia afecta a mi BMW?", "a": "Sí. Temperaturas superiores a 38 °C aceleran el deterioro de manguitos de refrigeración, termostatos y juntas. Recomendamos una revisión preventiva del circuito de refrigeración antes del verano."},
-    {"q": "¿Cuánto cuesta un diagnóstico electrónico BMW en Jorba?", "a": "Ofrecemos diagnósticos electrónicos completos a precio competitivo. Contacta con nosotros para un presupuesto sin compromiso adaptado a tu modelo."},
-    {"q": "¿Puedo llevar mi BMW con avería del DPF?", "a": "Por supuesto. Realizamos regeneraciones forzadas y limpiezas de filtro de partículas para todos los modelos BMW diésel. El polvo agrícola de la zona agrava este problema."},
-    {"q": "¿Usáis recambios originales BMW?", "a": "Sí. Trabajamos con recambios originales BMW y equivalentes homologados que cumplen las mismas especificaciones del fabricante."},
-    {"q": "¿Hacéis mantenimiento programado BMW sin perder la garantía?", "a": "Realizamos el mantenimiento según los intervalos y especificaciones de BMW, utilizando aceites y filtros homologados, lo que preserva la garantía del fabricante."}
+    {
+      "q": "¿Dónde puedo llevar mi BMW a reparar cerca de Jorba?",
+      "a": "Nuestro taller especializado BMW atiende a propietarios de Jorba y alrededores. Estamos a pocos minutos por la A-2 y ofrecemos diagnóstico con equipos compatibles con el sistema oficial BMW."
+    },
+    {
+      "q": "¿El calor extremo de la Anoia afecta a mi BMW?",
+      "a": "Sí. Temperaturas superiores a 38 °C aceleran el deterioro de manguitos de refrigeración, termostatos y juntas. Recomendamos una revisión preventiva del circuito de refrigeración antes del verano."
+    },
+    {
+      "q": "¿Cuánto cuesta un diagnóstico electrónico BMW en Jorba?",
+      "a": "Ofrecemos diagnósticos electrónicos completos a precio competitivo. Contacta con nosotros para un presupuesto sin compromiso adaptado a tu modelo."
+    },
+    {
+      "q": "¿Puedo llevar mi BMW con avería del DPF?",
+      "a": "Por supuesto. Realizamos regeneraciones forzadas y limpiezas de filtro de partículas para todos los modelos BMW diésel. El polvo agrícola de la zona agrava este problema."
+    },
+    {
+      "q": "¿Usáis recambios originales BMW?",
+      "a": "Sí. Trabajamos con recambios originales BMW y equivalentes homologados que cumplen las mismas especificaciones del fabricante."
+    },
+    {
+      "q": "¿Hacéis mantenimiento programado BMW sin perder la garantía?",
+      "a": "Realizamos el mantenimiento según los intervalos y especificaciones de BMW, utilizando aceites y filtros homologados, lo que preserva la garantía del fabricante."
+    }
   ],
   "closingHeadline": "Tu BMW en las mejores manos en Jorba",
   "closingCta": "Contacta con nosotros hoy para una revisión o reparación de tu BMW. Diagnóstico profesional, presupuesto sin compromiso y atención cercana en la Anoia.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW en Gaià, Bages. Atención personalizada para los 167 vecinos que necesitan un servicio cercano. Recogida a domicilio, diagnóstico profesional y garantía.",
   "heroSubtitle": "En un pueblo de 167 habitantes cada vecino importa: tu BMW recibe atención individualizada con recogida en Gaià",
   "trustChips": [
-    {"icon": "🔧", "text": "Mecánica BMW completa"},
-    {"icon": "🏡", "text": "Servicio puerta a puerta"},
-    {"icon": "📋", "text": "Diagnóstico electrónico"},
-    {"icon": "🛡️", "text": "Piezas garantizadas"},
-    {"icon": "⏱️", "text": "Reparación ágil"}
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW completa"
+    },
+    {
+      "icon": "🏡",
+      "text": "Servicio puerta a puerta"
+    },
+    {
+      "icon": "📋",
+      "text": "Diagnóstico electrónico"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Piezas garantizadas"
+    },
+    {
+      "icon": "⏱️",
+      "text": "Reparación ágil"
+    }
   ],
   "introLocal": "Gaià es probablemente uno de los municipios más desconocidos de la comarca del Bages, y también uno de los más pequeños de toda Cataluña. Con apenas 167 habitantes censados, este pueblo enclavado entre los términos de Avinyó y Santa Maria d'Oló representa la esencia de la ruralidad catalana: un puñado de casas agrupadas alrededor de la iglesia parroquial, rodeadas por un paisaje ondulado de campos de secano, bosquetes de encinas y torrentes que solo llevan agua después de las lluvias. Aquí no hay gasolinera, ni supermercado, ni por supuesto un taller mecánico. Todo implica coger el coche y desplazarse.\n\nEsa dependencia absoluta del vehículo privado convierte el mantenimiento del coche en una cuestión de primer orden para los vecinos de Gaià. El BMW que aparca junto a la era de la masía no es solo un medio de transporte: es el vehículo que lleva a los niños al colegio en Avinyó, el que baja a Manresa para las compras semanales, el que recorre las pistas entre fincas cuando toca la temporada de cosecha o de poda. Si ese coche falla, la vida cotidiana se detiene de forma literal. No hay transporte público operativo, no hay vecino al que pedir un relevo rápido. El coche funciona o el día se complica.\n\nLas carreteras que vertebran la movilidad de Gaià son estrechas y poco transitadas, lo que paradójicamente las hace más exigentes para los vehículos. La BV-4316 conecta el pueblo con Santa Maria d'Oló en una dirección y con Avinyó en la otra, trazando curvas cerradas entre colinas que obligan a un uso constante del cambio de marchas y los frenos. Los arcenes son prácticamente inexistentes y el firme acumula gravilla, hojarasca y barro según la estación. En primavera y otoño, los tractores y remolques agrícolas comparten estas vías, dejando restos de tierra que se adhieren a los bajos del coche y aceleran la corrosión si no se limpian. Los jabalíes, omnipresentes en esta zona de bosque mediterráneo, cruzan las carreteras al anochecer con un riesgo real de colisión.\n\nEl clima de Gaià sigue el patrón continental del interior del Bages, pero con un matiz propio de su posición a media ladera: los veranos son calurosos y secos, con temperaturas que superan los 35 grados en julio y agosto, mientras que los inviernos traen heladas regulares y mañanas de niebla espesa que se levantan del fondo de los valles. Estas condiciones castigan los sistemas eléctricos del vehículo, los acabados exteriores expuestos al sol directo y los circuitos de refrigeración que deben trabajar al límite durante los meses más cálidos. La humedad nocturna, especialmente intensa en las zonas bajas del término, genera condensación en faros y carcasas de sensores.\n\nNuestro servicio técnico BMW para Gaià existe porque creemos que vivir en un pueblo de 167 habitantes no debería significar renunciar a un mantenimiento profesional del vehículo. Ofrecemos recogida y devolución del BMW en el propio municipio, diagnóstico con equipamiento oficial y reparaciones con piezas de calidad garantizada. Adaptamos los planes de mantenimiento a las condiciones reales de uso en Gaià: intervalos más cortos para filtros, revisiones preventivas de batería antes del invierno, inspecciones de bajos después de la temporada de lluvias. Para los vecinos de Gaià, el taller BMW ya no queda lejos: queda a una llamada de distancia.",
   "servicesIntro": "Realizamos todos los servicios de mantenimiento y reparación BMW que necesitas, desde cambios de aceite y filtros hasta intervenciones complejas de motor, transmisión y electrónica, con un enfoque adaptado a la realidad de la conducción rural en Gaià.",
@@ -164,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

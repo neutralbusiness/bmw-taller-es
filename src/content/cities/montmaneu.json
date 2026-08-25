@@ -10,56 +10,177 @@
   "metaDescription": "Taller BMW en Montmaneu, corredor A-2 frontera con Lleida. Mantenimiento para uso intensivo de autovía y extremos térmicos. 665 245 143.",
   "heroSubtitle": "En el corredor de la A-2, tu BMW necesita un taller que entienda el desgaste de autovía y el clima de frontera. Estamos aquí.",
   "trustChips": [
-    {"icon": "🔧", "text": "Desgaste de autovía"},
-    {"icon": "🛣️", "text": "Corredor A-2 Barcelona-Lleida"},
-    {"icon": "🌡️", "text": "Extremos térmicos"},
-    {"icon": "⚙️", "text": "Transmisión y motor"},
-    {"icon": "📞", "text": "Atención inmediata"}
+    {
+      "icon": "🔧",
+      "text": "Desgaste de autovía"
+    },
+    {
+      "icon": "🛣️",
+      "text": "Corredor A-2 Barcelona-Lleida"
+    },
+    {
+      "icon": "🌡️",
+      "text": "Extremos térmicos"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Transmisión y motor"
+    },
+    {
+      "icon": "📞",
+      "text": "Atención inmediata"
+    }
   ],
   "introLocal": "Montmaneu ocupa una posición estratégica en el corredor de la autovía A-2, justo en la frontera entre las provincias de Barcelona y Lleida. Con solo 187 habitantes, este pequeño municipio es ante todo un punto de paso para miles de vehículos que recorren diariamente la arteria que une la costa mediterránea con el interior peninsular. Para los propietarios de BMW que viven aquí, la A-2 no es solo una referencia geográfica: es la carretera que define cómo se desgasta su vehículo.\n\nLa conducción prolongada en autovía a velocidades de 120 km/h genera un perfil de desgaste muy específico. Los motores funcionan a régimen medio-alto durante largos periodos, lo que exige un aceite de calidad con especificación BMW Longlife que mantenga sus propiedades viscosas a alta temperatura durante todo el intervalo de cambio. Los neumáticos se desgastan de forma más uniforme pero más rápida, y la alineación de dirección cobra una importancia crítica porque cualquier desviación milimétrica se traduce en un desgaste irregular que compromete la seguridad a alta velocidad.\n\nLa frontera con Lleida marca también un cambio climático perceptible. Montmaneu recibe la influencia del clima continental leridano, con inviernos más crudos y veranos más secos que la Anoia media. Las tormentas de granizo estivales, frecuentes en esta zona de transición, pueden causar daños en la carrocería, los cristales y los sensores de parking y cámaras que equipan los BMW modernos.\n\nLos BMW diésel que hacen kilómetros de autovía a diario tienen la ventaja de que el filtro de partículas (DPF) se regenera con facilidad gracias al régimen constante. Sin embargo, el aceite de motor se degrada más rápido por la dilución con gasóleo propia de los ciclos de regeneración frecuentes. Controlar el nivel y la calidad del aceite es fundamental para prevenir daños en el turbo y los cojinetes del cigüeñal.\n\nHablar de Montmaneu es hablar de la Panadella, el alto que da nombre a una de las paradas de carretera más conocidas de Cataluña. A más de 700 metros de altitud, este puerto suave concentra los episodios meteorológicos más duros del corredor: nieblas densas que reducen la visibilidad a pocos metros, hielo en las madrugadas de invierno y nevadas ocasionales que llegan a obligar a embolsar la autovía. Para los BMW de la zona esto se traduce en exigencias concretas: neumáticos de invierno o cadenas disponibles, ópticas y antinieblas en perfecto estado, y los sensores de los asistentes de conducción limpios y bien ajustados, porque la niebla y la sal que proyectan los quitanieves los degradan con rapidez.\n\nMuchos de nuestros clientes de Montmaneu son, además, conductores profesionales: comerciales, transportistas ligeros y trabajadores que cubren el eje Barcelona-Lleida a diario y superan con facilidad los 40.000 kilómetros anuales. Para ellos, el calendario de mantenimiento estándar se queda corto, y lo sustituimos por un plan basado en el kilometraje real de cada vehículo, con revisiones intermedias de niveles, frenos y neumáticos programadas en función de su agenda —a primera hora, entre rutas o aprovechando la jornada de descanso— para que el coche nunca falte un día de trabajo.\n\nNuestro taller entiende que para un conductor de Montmaneu, el coche no puede estar parado. Por eso trabajamos con la máxima eficiencia para devolverte tu BMW en el menor tiempo posible, con la seguridad de que cada componente ha sido revisado según los estándares del fabricante.",
   "servicesIntro": "Mantenimiento y reparación BMW orientados al uso intensivo de autovía: aceites de alta especificación, neumáticos, alineación, frenos y transmisión, con tiempos de intervención optimizados.",
   "processIntro": "Sabemos que necesitas tu BMW de vuelta cuanto antes. Nuestro proceso está diseñado para ser rápido sin sacrificar la calidad.",
   "processSteps": [
-    {"title": "Cita exprés", "body": "Contacta y te damos la primera hora disponible. Priorizamos vehículos de uso diario."},
-    {"title": "Diagnóstico rápido y completo", "body": "Escaneamos la electrónica y revisamos los puntos críticos para uso de autovía: frenos, neumáticos, suspensión y fluidos."},
-    {"title": "Presupuesto inmediato", "body": "Te comunicamos el presupuesto el mismo día, con opciones para que elijas el nivel de intervención."},
-    {"title": "Reparación ágil", "body": "Trabajamos para completar la intervención en la misma jornada siempre que sea técnicamente posible."},
-    {"title": "Entrega lista para autovía", "body": "Tu BMW sale del taller probado y listo para circular por la A-2 con total seguridad."}
+    {
+      "title": "Cita exprés",
+      "body": "Contacta y te damos la primera hora disponible. Priorizamos vehículos de uso diario."
+    },
+    {
+      "title": "Diagnóstico rápido y completo",
+      "body": "Escaneamos la electrónica y revisamos los puntos críticos para uso de autovía: frenos, neumáticos, suspensión y fluidos."
+    },
+    {
+      "title": "Presupuesto inmediato",
+      "body": "Te comunicamos el presupuesto el mismo día, con opciones para que elijas el nivel de intervención."
+    },
+    {
+      "title": "Reparación ágil",
+      "body": "Trabajamos para completar la intervención en la misma jornada siempre que sea técnicamente posible."
+    },
+    {
+      "title": "Entrega lista para autovía",
+      "body": "Tu BMW sale del taller probado y listo para circular por la A-2 con total seguridad."
+    }
   ],
   "commonIssuesIntro": "El uso intensivo de autovía y el clima de transición de Montmaneu generan averías recurrentes en los vehículos BMW.",
   "commonIssues": [
-    {"title": "Aceite degradado por kilómetros de autovía", "body": "El régimen constante y las regeneraciones del DPF diluyen el aceite. Controlamos nivel y calidad, y ajustamos el intervalo de cambio al uso real del vehículo."},
-    {"title": "Desgaste irregular de neumáticos", "body": "Una alineación desviada a alta velocidad desgasta los neumáticos rápidamente y compromete la estabilidad. Realizamos geometría de dirección con equipo láser."},
-    {"title": "Pastillas de freno con desgaste acelerado", "body": "Las frenadas desde alta velocidad en las incorporaciones a la A-2 generan un desgaste intenso. Sustituimos con pastillas de la especificación adecuada para tu uso."},
-    {"title": "Daños por granizo", "body": "Las tormentas estivales de la zona pueden abollar la carrocería y dañar sensores exteriores. Coordinamos la reparación y verificamos el funcionamiento de los sistemas afectados."},
-    {"title": "Vibración a alta velocidad", "body": "Un desequilibrio en las ruedas o un neumático deformado genera vibraciones perceptibles a partir de 100 km/h. Equilibramos y comprobamos el estado de los neumáticos."}
+    {
+      "title": "Aceite degradado por kilómetros de autovía",
+      "body": "El régimen constante y las regeneraciones del DPF diluyen el aceite. Controlamos nivel y calidad, y ajustamos el intervalo de cambio al uso real del vehículo."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos",
+      "body": "Una alineación desviada a alta velocidad desgasta los neumáticos rápidamente y compromete la estabilidad. Realizamos geometría de dirección con equipo láser."
+    },
+    {
+      "title": "Pastillas de freno con desgaste acelerado",
+      "body": "Las frenadas desde alta velocidad en las incorporaciones a la A-2 generan un desgaste intenso. Sustituimos con pastillas de la especificación adecuada para tu uso."
+    },
+    {
+      "title": "Daños por granizo",
+      "body": "Las tormentas estivales de la zona pueden abollar la carrocería y dañar sensores exteriores. Coordinamos la reparación y verificamos el funcionamiento de los sistemas afectados."
+    },
+    {
+      "title": "Vibración a alta velocidad",
+      "body": "Un desequilibrio en las ruedas o un neumático deformado genera vibraciones perceptibles a partir de 100 km/h. Equilibramos y comprobamos el estado de los neumáticos."
+    }
   ],
   "whyUs": [
-    {"title": "Orientados al uso de autovía", "body": "Entendemos el perfil de desgaste de un BMW que hace kilómetros de A-2 a diario y ajustamos el mantenimiento a esa realidad."},
-    {"title": "Intervenciones en el día", "body": "Priorizamos que tu BMW pase el mínimo tiempo en el taller. Muchas operaciones se completan en una sola jornada."},
-    {"title": "Proximidad al corredor A-2", "body": "No necesitas salir del corredor Barcelona-Lleida para encontrar un taller BMW especializado."},
-    {"title": "Aceites de alta especificación", "body": "Utilizamos exclusivamente aceites BMW Longlife que soportan las exigencias del uso prolongado en autovía."},
-    {"title": "Geometría de dirección con láser", "body": "Alineación precisa que previene desgastes irregulares y mantiene la estabilidad a velocidad de autovía."}
+    {
+      "title": "Orientados al uso de autovía",
+      "body": "Entendemos el perfil de desgaste de un BMW que hace kilómetros de A-2 a diario y ajustamos el mantenimiento a esa realidad."
+    },
+    {
+      "title": "Intervenciones en el día",
+      "body": "Priorizamos que tu BMW pase el mínimo tiempo en el taller. Muchas operaciones se completan en una sola jornada."
+    },
+    {
+      "title": "Proximidad al corredor A-2",
+      "body": "No necesitas salir del corredor Barcelona-Lleida para encontrar un taller BMW especializado."
+    },
+    {
+      "title": "Aceites de alta especificación",
+      "body": "Utilizamos exclusivamente aceites BMW Longlife que soportan las exigencias del uso prolongado en autovía."
+    },
+    {
+      "title": "Geometría de dirección con láser",
+      "body": "Alineación precisa que previene desgastes irregulares y mantiene la estabilidad a velocidad de autovía."
+    }
   ],
   "testimonialsIntro": "Conductores de BMW del corredor A-2 y la zona de Montmaneu confían en nuestro servicio técnico.",
   "testimonials": [
-    {"name": "Carlos G.", "neighborhood": "Montmaneu", "car": "BMW 530d G30", "body": "Hago 60.000 km al año por la A-2. Aquí me ajustan los intervalos de mantenimiento a mi uso real y el motor está perfecto.", "rating": 5},
-    {"name": "Pilar F.", "neighborhood": "Montmaneu", "car": "BMW X2 F39", "body": "Después de una granizada me repararon dos abolladuras y verificaron que la cámara trasera seguía calibrada. Servicio completo.", "rating": 5},
-    {"name": "Sergio L.", "neighborhood": "Zona A-2 Montmaneu", "car": "BMW 320d F30", "body": "Los neumáticos se gastaban por fuera de forma desigual. Una alineación láser lo corrigió y ahora los neumáticos duran mucho más.", "rating": 4},
-    {"name": "Montse J.", "neighborhood": "Montmaneu", "car": "BMW 118i F40", "body": "Me detectaron que el aceite estaba diluido por las regeneraciones del DPF. Un cambio anticipado evitó problemas mayores.", "rating": 5}
+    {
+      "name": "Carlos G.",
+      "neighborhood": "Montmaneu",
+      "car": "BMW 530d G30",
+      "body": "Hago 60.000 km al año por la A-2. Aquí me ajustan los intervalos de mantenimiento a mi uso real y el motor está perfecto.",
+      "rating": 5
+    },
+    {
+      "name": "Pilar F.",
+      "neighborhood": "Montmaneu",
+      "car": "BMW X2 F39",
+      "body": "Después de una granizada me repararon dos abolladuras y verificaron que la cámara trasera seguía calibrada. Servicio completo.",
+      "rating": 5
+    },
+    {
+      "name": "Sergio L.",
+      "neighborhood": "Zona A-2 Montmaneu",
+      "car": "BMW 320d F30",
+      "body": "Los neumáticos se gastaban por fuera de forma desigual. Una alineación láser lo corrigió y ahora los neumáticos duran mucho más.",
+      "rating": 4
+    },
+    {
+      "name": "Montse J.",
+      "neighborhood": "Montmaneu",
+      "car": "BMW 118i F40",
+      "body": "Me detectaron que el aceite estaba diluido por las regeneraciones del DPF. Un cambio anticipado evitó problemas mayores.",
+      "rating": 5
+    }
   ],
   "zoneText": "Servimos a propietarios de BMW del corredor A-2 en el tramo Anoia-Lleida, incluyendo Montmaneu y los municipios de frontera comarcal.",
-  "zoneNeighborhoods": ["Jorba", "Argençola", "Veciana", "Santa Maria del Camí", "Cervera", "Les Oluges", "Igualada"],
-  "zoneAccessRoutes": ["Autovía A-2 (salida 533)", "N-II", "Carreteras comarcales de frontera"],
+  "zoneNeighborhoods": [
+    "Jorba",
+    "Argençola",
+    "Veciana",
+    "Santa Maria del Camí",
+    "Cervera",
+    "Les Oluges",
+    "Igualada"
+  ],
+  "zoneAccessRoutes": [
+    "Autovía A-2 (salida 533)",
+    "N-II",
+    "Carreteras comarcales de frontera"
+  ],
   "faqLocal": [
-    {"q": "¿Hay taller BMW en la zona de Montmaneu?", "a": "Sí. Nuestro taller especializado BMW da servicio a Montmaneu y el corredor A-2 entre Barcelona y Lleida."},
-    {"q": "¿El uso intensivo de autovía requiere más mantenimiento en mi BMW?", "a": "Sí. El aceite se degrada más rápido, los frenos se desgastan por frenadas desde alta velocidad y la alineación es más crítica. Ajustamos los intervalos a tu kilometraje real."},
-    {"q": "¿Podéis hacer el mantenimiento BMW en el mismo día?", "a": "En la mayoría de casos sí. Mantenimientos estándar y muchas reparaciones se completan en una sola jornada. Te confirmamos el plazo al darte el presupuesto."},
-    {"q": "¿Qué hago si mi BMW sufre daños por granizo?", "a": "Contacta con nosotros. Evaluamos los daños, verificamos que los sensores y cámaras funcionen correctamente y coordinamos la reparación de carrocería."},
-    {"q": "¿Qué aceite es el adecuado para mi BMW diésel de autovía?", "a": "Utilizamos aceites BMW Longlife-04 o LL-17 FE+ según tu motor, formulados para resistir la dilución por regeneraciones de DPF y el estrés térmico continuado."},
-    {"q": "¿Hacéis equilibrado de ruedas?", "a": "Sí. Equilibramos con equipamiento de precisión para eliminar vibraciones a alta velocidad, algo esencial para conductores habituales de autovía."}
+    {
+      "q": "¿Hay taller BMW en la zona de Montmaneu?",
+      "a": "Sí. Nuestro taller especializado BMW da servicio a Montmaneu y el corredor A-2 entre Barcelona y Lleida."
+    },
+    {
+      "q": "¿El uso intensivo de autovía requiere más mantenimiento en mi BMW?",
+      "a": "Sí. El aceite se degrada más rápido, los frenos se desgastan por frenadas desde alta velocidad y la alineación es más crítica. Ajustamos los intervalos a tu kilometraje real."
+    },
+    {
+      "q": "¿Podéis hacer el mantenimiento BMW en el mismo día?",
+      "a": "En la mayoría de casos sí. Mantenimientos estándar y muchas reparaciones se completan en una sola jornada. Te confirmamos el plazo al darte el presupuesto."
+    },
+    {
+      "q": "¿Qué hago si mi BMW sufre daños por granizo?",
+      "a": "Contacta con nosotros. Evaluamos los daños, verificamos que los sensores y cámaras funcionen correctamente y coordinamos la reparación de carrocería."
+    },
+    {
+      "q": "¿Qué aceite es el adecuado para mi BMW diésel de autovía?",
+      "a": "Utilizamos aceites BMW Longlife-04 o LL-17 FE+ según tu motor, formulados para resistir la dilución por regeneraciones de DPF y el estrés térmico continuado."
+    },
+    {
+      "q": "¿Hacéis equilibrado de ruedas?",
+      "a": "Sí. Equilibramos con equipamiento de precisión para eliminar vibraciones a alta velocidad, algo esencial para conductores habituales de autovía."
+    }
   ],
   "closingHeadline": "Tu BMW de autovía, en manos expertas en Montmaneu",
   "closingCta": "Llama al 665 245 143 para una revisión rápida y profesional. Tu BMW estará listo para la A-2 en el menor tiempo posible.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

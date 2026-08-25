@@ -4,17 +4,32 @@
   "province": "Barcelona",
   "ccaa": "Cataluña",
   "population": 328,
-  "lat": 41.9450,
+  "lat": 41.945,
   "lng": 2.4234,
   "metaTitle": "Taller BMW en Vilanova de Sau | Guilleries y Pantà de Sau",
   "metaDescription": "Taller BMW en Vilanova de Sau, corazón de les Guilleries. Servicio técnico para carreteras forestales, recogida a domicilio y diagnóstico profesional.",
   "heroSubtitle": "En el corazón de les Guilleries, donde las carreteras ponen a prueba cada pieza de tu BMW. Servicio técnico de confianza.",
   "trustChips": [
-    {"icon": "🌲", "text": "Expertos en entorno forestal"},
-    {"icon": "🔧", "text": "Toda la gama BMW"},
-    {"icon": "🚛", "text": "Recogida con plataforma"},
-    {"icon": "🔍", "text": "Diagnóstico avanzado"},
-    {"icon": "💯", "text": "Garantía por escrito"}
+    {
+      "icon": "🌲",
+      "text": "Expertos en entorno forestal"
+    },
+    {
+      "icon": "🔧",
+      "text": "Toda la gama BMW"
+    },
+    {
+      "icon": "🚛",
+      "text": "Recogida con plataforma"
+    },
+    {
+      "icon": "🔍",
+      "text": "Diagnóstico avanzado"
+    },
+    {
+      "icon": "💯",
+      "text": "Garantía por escrito"
+    }
   ],
   "introLocal": "Vilanova de Sau es un municipio singular dentro de la comarca de Osona. Situado en el macizo de les Guilleries, lejos de la Plana de Vic y de las principales vías de comunicación, este pueblo de apenas 328 habitantes guarda uno de los iconos paisajísticos más reconocidos de Cataluña: el pantano de Sau y su célebre campanario románico que emerge de las aguas cuando el nivel del embalse desciende. Miles de excursionistas y curiosos llegan cada año para contemplar esta imagen, pero para los vecinos de Vilanova de Sau la realidad cotidiana es otra: la del aislamiento, las carreteras estrechas y tortuosas, y la dependencia absoluta del vehículo particular.\n\nConducir por Vilanova de Sau es una experiencia que poco tiene que ver con la conducción urbana o de autopista. Las carreteras que conectan el municipio con Vic o con Roda de Ter son trazados de montaña con curvas continuas, pendientes pronunciadas y un firme que alterna tramos aceptables con otros deteriorados por las raíces de los árboles, las escorrentías y el paso de vehículos pesados forestales. Para un BMW, estas condiciones significan un esfuerzo constante sobre la suspensión, la dirección, los frenos y los neumáticos. Un coche que aquí funciona bien es un coche verdaderamente bien mantenido.\n\nEl entorno forestal de les Guilleries añade factores que no existen en otros puntos de Osona. La resina de los pinos se deposita sobre la carrocería y los cristales, la hojarasca se acumula en los desagües del capo y en las entradas de aire, y la fauna salvaje — jabalíes principalmente — cruza las carreteras con frecuencia, obligando a frenazos bruscos que ponen a prueba la respuesta del ABS y la resistencia de las pastillas de freno. Los BMW que circulan regularmente por esta zona necesitan un mantenimiento que tenga en cuenta estas particularidades, y eso es exactamente lo que ofrecemos.\n\nEl clima de Vilanova de Sau combina la frescura de la altitud (unos 500 metros) con una humedad elevada por la proximidad del embalse. Los inviernos son fríos y las nieblas frecuentes, pero es la humedad constante la que más afecta a los vehículos: oxidación de componentes expuestos, condensación en sistemas eléctricos y un ambiente interior del coche que tiende a acumular moho en conductos de ventilación y juntas de puertas si no se mantiene correctamente la climatización.\n\nNuestro taller ofrece a los vecinos de Vilanova de Sau un servicio BMW completo con recogida y entrega a domicilio, porque sabemos que desplazarse hasta Vic solo para una revisión supone una hora de conducción por carreteras de montaña. Cubrimos todo el mantenimiento mecánico y electrónico que tu BMW necesita, con la ventaja de conocer de primera mano las condiciones en las que circula.",
   "servicesIntro": "Realizamos todo tipo de servicios para BMW: mantenimiento periódico, diagnóstico electrónico completo, reparación de motor y transmisión, sustitución de componentes de suspensión y dirección, revisión del sistema de frenos, preparación para ITV, tratamiento anticorrosivo y mantenimiento del sistema de climatización. Todo con piezas de calidad garantizada.",
@@ -114,8 +129,21 @@
     }
   ],
   "zoneText": "Cubrimos toda la zona de les Guilleries y el entorno del pantano de Sau, con servicio de recogida y entrega a domicilio gratuita. Nuestra cobertura se extiende a las poblaciones vecinas para que ningún propietario de BMW de la zona tenga que hacer el largo viaje hasta Vic para una revisión.",
-  "zoneNeighborhoods": ["Tavèrnoles", "Roda de Ter", "les Masies de Roda", "Folgueroles", "Sant Sadurní d'Osormort", "Espinelves", "Vic"],
-  "zoneAccessRoutes": ["BV-5207", "BV-5213", "C-153", "BV-5201"],
+  "zoneNeighborhoods": [
+    "Tavèrnoles",
+    "Roda de Ter",
+    "les Masies de Roda",
+    "Folgueroles",
+    "Sant Sadurní d'Osormort",
+    "Espinelves",
+    "Vic"
+  ],
+  "zoneAccessRoutes": [
+    "BV-5207",
+    "BV-5213",
+    "C-153",
+    "BV-5201"
+  ],
   "faqLocal": [
     {
       "q": "¿Realmente vienen a buscar el coche hasta Vilanova de Sau?",
@@ -147,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

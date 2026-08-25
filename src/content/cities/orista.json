@@ -10,11 +10,26 @@
   "metaDescription": "Servicio técnico BMW en Oristà. Especialistas en vehículos expuestos a caminos forestales, humedad y fauna salvaje. Diagnóstico profesional sin desplazarte.",
   "heroSubtitle": "Tu BMW merece un taller que entienda los retos de la conducción entre bosques y masías del norte del Bages",
   "trustChips": [
-    {"icon": "🌲", "text": "Expertos entorno forestal"},
-    {"icon": "🔧", "text": "Diagnóstico BMW oficial"},
-    {"icon": "🦌", "text": "Reparación daños fauna"},
-    {"icon": "🛡️", "text": "Protección anticorrosión"},
-    {"icon": "📍", "text": "Servicio en zona rural"}
+    {
+      "icon": "🌲",
+      "text": "Expertos entorno forestal"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW oficial"
+    },
+    {
+      "icon": "🦌",
+      "text": "Reparación daños fauna"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Protección anticorrosión"
+    },
+    {
+      "icon": "📍",
+      "text": "Servicio en zona rural"
+    }
   ],
   "introLocal": "Oristà se encuentra en el extremo nororiental de la comarca del Bages, justo en la frontera natural con la Osona, rodeado por un paisaje denso de encinas, robles y pinos que caracteriza las estribaciones de las Guilleries. Con apenas 566 habitantes repartidos entre el núcleo y las masías dispersas por el término municipal, este pueblo representa la Cataluña rural más auténtica, donde la vida transcurre al ritmo de las estaciones y los caminos forestales son la vía de comunicación habitual entre vecinos.\n\nPara los propietarios de BMW en Oristà, el entorno forestal impone condiciones de conducción muy particulares. Los caminos que conectan las masías con el núcleo urbano están plagados de ramas caídas, hojarasca húmeda y barro, especialmente durante el otoño y la primavera. Esta exposición constante afecta directamente a los bajos del vehículo, las suspensiones y los sistemas de tracción. Además, la resina de los pinos y la savia de los robles se depositan sobre la carrocería y los cristales, generando daños en la pintura si no se tratan a tiempo. La humedad ambiental elevada, propia de una zona de bosque cerrado con escasa ventilación natural, acelera la oxidación de componentes metálicos y puede provocar condensación en los faros y en los circuitos electrónicos.\n\nLa fauna salvaje es otro factor determinante para los conductores de Oristà. La población de jabalíes en la zona es especialmente densa, y los cruces nocturnos de estos animales por las carreteras locales como la BV-4341 o la BV-4406 representan un riesgo real tanto para la seguridad como para la integridad del vehículo. Los impactos con fauna provocan daños en paragolpes, radiadores, faros y sensores de aparcamiento que requieren una reparación especializada con piezas originales BMW para mantener la calibración de los sistemas de asistencia a la conducción.\n\nLa distancia a los centros urbanos añade un desafío logístico importante. Desde Oristà, alcanzar Manresa supone unos 35 kilómetros por carreteras de montaña, mientras que Vic queda a una distancia similar pero por rutas igualmente sinuosas. Para los residentes que dependen de su BMW como vehículo principal de transporte diario, cualquier avería puede convertirse en un problema serio si no se cuenta con un servicio técnico accesible que evite desplazamientos largos. Las mañanas frías de invierno, cuando las temperaturas caen por debajo de cero en las zonas más elevadas del término, ponen a prueba las baterías y los sistemas de arranque, mientras que los desniveles continuos de las rutas locales exigen un estado óptimo de frenos y transmisión.\n\nNuestro servicio técnico BMW para Oristà está diseñado precisamente para resolver estas necesidades específicas del entorno forestal y rural. Conocemos las carreteras que recorréis a diario, entendemos el impacto de la humedad y la vegetación sobre los componentes de vuestro BMW, y disponemos del equipamiento de diagnóstico necesario para abordar cualquier incidencia sin que tengáis que dedicar media jornada a conducir hasta un taller urbano. Desde revisiones preventivas adaptadas al calendario forestal hasta reparaciones de urgencia por impactos con fauna, ofrecemos un servicio integral que respeta los tiempos y las distancias de la vida rural en Oristà.",
   "servicesIntro": "Ofrecemos una gama completa de servicios técnicos BMW adaptados a las exigencias que impone la conducción por entornos forestales y caminos rurales del norte del Bages, desde mantenimiento preventivo hasta reparaciones complejas de motor y electrónica.",
@@ -164,9 +179,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

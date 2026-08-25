@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW en el corredor C-17, junto a Santa Eugènia de Berga. Mantenimiento experto para BMWs de autopista y carretera comarcal en plena Osona.",
   "heroSubtitle": "En el cruce entre Vic y Barcelona por la C-17, tu BMW encuentra aquí el taller especializado que necesita.",
   "trustChips": [
-    {"icon": "🛣️", "text": "Corredor C-17"},
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "⚡", "text": "Diagnóstico electrónico"},
-    {"icon": "🕐", "text": "Servicio en el día"},
-    {"icon": "📍", "text": "Acceso inmediato"}
+    {
+      "icon": "🛣️",
+      "text": "Corredor C-17"
+    },
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "⚡",
+      "text": "Diagnóstico electrónico"
+    },
+    {
+      "icon": "🕐",
+      "text": "Servicio en el día"
+    },
+    {
+      "icon": "📍",
+      "text": "Acceso inmediato"
+    }
   ],
   "introLocal": "Santa Eugènia de Berga ocupa una posición estratégica en la geografía viaria de Osona. Enclavada en el corredor de la C-17 entre Vic y Centelles, esta población funciona como puerta sur de la Plana de Vic para quienes llegan desde Barcelona. Los coches que cruzan Santa Eugènia de Berga cada mañana y cada tarde dibujan uno de los flujos de tráfico más constantes de la comarca, y entre ellos, los BMW son una presencia habitual que conecta la vida profesional de la capital con la calidad residencial de la Osona interior. El pueblo ha crecido en los últimos años con nuevas promociones residenciales que atraen a familias que buscan la combinación de pueblo tranquilo con acceso rápido a la autopista, un perfil de habitante que a menudo conduce vehículos de gama alta y necesita que estén siempre en perfecto estado para la exigencia del día a día.\n\nLa C-17 define buena parte de la experiencia de conducción para los habitantes de Santa Eugènia de Berga. Esta autopista, que asciende desde el Vallès atravesando túneles y puertos de montaña, impone un régimen de velocidades sostenidas, frenadas en pendiente y aceleraciones en incorporación que exigen mucho de los sistemas mecánicos y electrónicos de un BMW. Los túneles de la Garriga y el cambio brusco de luminosidad ponen a prueba los faros adaptativos y los sensores de lluvia y luz. Las rampas de subida hacia la Plana cargan el turbo y la transmisión, mientras que las bajadas someten los frenos a un esfuerzo prolongado. Los conductores que realizan este recorrido dos veces al día acumulan más de 30.000 kilómetros anuales solo en el trayecto casa-trabajo, una cifra que obliga a un mantenimiento más frecuente que el previsto para un uso medio.\n\nPero Santa Eugènia de Berga no es solo autopista. El pueblo conserva un tejido de calles tranquilas y caminos rurales que conducen hacia las masías dispersas de los alrededores. Muchos propietarios de BMW alternan el kilometraje de autopista con recorridos cortos por vías estrechas y comarcales, una combinación que genera patrones de desgaste poco habituales: los neumáticos muestran un desgaste central por la velocidad de autovía y a la vez marcas laterales por las curvas cerradas de las carreteras locales.\n\nEl clima refuerza estos desafíos. Santa Eugènia de Berga se sitúa justo en la zona de transición entre el microclima del Vallès y la Plana de Vic. Las nieblas matinales son frecuentes, especialmente en la época fría, y la humedad que asciende desde las torrenteras del entorno mantiene los vehículos aparcados al aire libre en un ambiente corrosivo durante meses. Los cambios de temperatura al entrar y salir de los túneles de la C-17 provocan condensaciones repentinas en faros y ópticas traseras que, con el tiempo, deterioran los reflectores internos. En primavera y otoño, cuando la diferencia térmica entre el exterior y el interior de los túneles es máxima, este fenómeno se agrava y puede afectar también a las carcasas de los retrovisores exteriores y los pilotos LED traseros, componentes cuya sustitución tiene un coste elevado si no se previene a tiempo.\n\nNuestro taller entiende esta realidad dual: autopista y pueblo, velocidad y proximidad, humedad y calor. Cada servicio que realizamos a un BMW de Santa Eugènia de Berga tiene en cuenta este perfil mixto de uso para ofrecer un mantenimiento realmente eficaz y preventivo.",
   "servicesIntro": "Proporcionamos un servicio integral para tu BMW que abarca desde el mantenimiento periódico hasta reparaciones de motor, transmisión, electrónica y sistemas de confort, con equipamiento específico para cada modelo de la marca.",
@@ -165,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

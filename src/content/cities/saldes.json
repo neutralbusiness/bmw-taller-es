@@ -10,57 +10,182 @@
   "metaDescription": "Taller especialista BMW en Saldes, a los pies del Pedraforca. Reparamos turbos, frenos y electrónica BMW en condiciones de alta montaña. Presupuesto sin compromiso.",
   "heroSubtitle": "Al pie del Pedraforca, tu BMW afronta las condiciones más duras. Nuestro equipo especialista lo mantiene a la altura que exige esta montaña.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas alta montaña"},
-    {"icon": "🔧", "text": "Diagnóstico ISTA BMW"},
-    {"icon": "🛞", "text": "Frenos y turbo BMW"},
-    {"icon": "📍", "text": "Cobertura norte Berguedà"},
-    {"icon": "⚙️", "text": "Recambios primer equipo"},
-    {"icon": "🛡️", "text": "Garantía documentada"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas alta montaña"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico ISTA BMW"
+    },
+    {
+      "icon": "🛞",
+      "text": "Frenos y turbo BMW"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura norte Berguedà"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Recambios primer equipo"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía documentada"
+    }
   ],
   "introLocal": "Saldes es un pueblo de trescientas almas que vive a la sombra del Pedraforca, la montaña bifurcada que se eleva hasta los 2.506 metros y que funciona como imán para miles de excursionistas cada año. Pero Saldes no es solo un punto de partida de rutas de senderismo: es un lugar donde la mecánica del automóvil se pone a prueba cada día. Las carreteras que ascienden desde Guardiola de Berguedà serpentean entre curvas cerradas, desniveles pronunciados y tramos de sombra permanente donde el hielo persiste hasta bien entrada la mañana. Para un BMW, este escenario es un examen constante de frenos, turbo, refrigeración y electrónica.\n\nEl principal desafío mecánico de Saldes es la altitud. El núcleo urbano ya está por encima de los mil metros, y cualquier excursión hacia el Pedraforca o el collado de Saldes supera con creces esa cota. A esa altura, el aire es menos denso y los turbos de los motores diésel BMW trabajan más para mantener la presión de soplado. Un turbo que en Barcelona capital opera con holgura, en Saldes gira más rápido y alcanza temperaturas más altas. Esto acelera el desgaste de los sellos del eje, puede provocar fugas de aceite por el retén y, en casos graves, la rotura del turbocompresor. Nuestro taller realiza verificaciones de presión de soplado con manómetro y diagnóstico electrónico del actuador del turbo para detectar el problema antes de que se convierta en avería catastrófica.\n\nLos frenos son el segundo punto crítico. La carretera de acceso a Saldes desde Guardiola tiene más de diez kilómetros de descenso continuado. Quien baja con un BMW cargado después de una jornada en la montaña somete las pastillas y los discos a un esfuerzo térmico brutal. El cristalizado de pastillas —esa capa vitrificada que se forma cuando el material de fricción sobrecalienta— reduce la capacidad de frenado de forma alarmante. El conductor nota un pedal largo, una frenada desigual y, a veces, vibración en el volante. Sustituimos discos y pastillas por conjuntos de calidad OE, verificamos el líquido de frenos con refractómetro y purgamos el circuito para eliminar cualquier burbuja de vapor generada por el sobrecalentamiento.\n\nEl turismo de montaña marca el ritmo de Saldes. En temporada alta, los fines de semana de primavera y otoño, el pueblo multiplica su población. Coches con matrícula de Barcelona, Lleida y Girona llenan los aparcamientos del camino del Pedraforca. Muchos de esos vehículos son BMW que han subido por la C-16 y luego por la comarcal hasta Saldes sin ninguna preparación especial. Cuando un sensor de presión de neumáticos se activa a 1.200 metros porque la presión de inflado era la correcta a nivel del mar pero no a esta altitud, o cuando el motor tira de una forma extraña porque la mezcla de combustible no está optimizada para el aire enrarecido, esos conductores necesitan a alguien cerca que sepa de BMW. Ese alguien somos nosotros.\n\nEl frío de Saldes no es el de la costa. Aquí las temperaturas nocturnas bajan de cero desde noviembre hasta abril, y no son raras las madrugadas de quince bajo cero en enero. Las baterías sufren, los calentadores diésel trabajan en su límite y el AdBlue puede congelarse si el calefactor del depósito falla. Hemos visto BMW X5 con el sistema SCR bloqueado por cristalización de urea que impedía arrancar el motor. Nuestro servicio de preparación invernal verifica cada uno de estos puntos y te deja el coche listo para afrontar los meses más duros sin sorpresas.\n\nSi vives en Saldes, tienes segunda residencia o simplemente subes cada fin de semana al Pedraforca con tu BMW, necesitas un taller que entienda lo que significa conducir a más de mil metros de altitud. No aplicamos los mismos intervalos de mantenimiento que en el llano, porque aquí las condiciones no son las del llano. Adaptamos cada revisión al uso real de tu vehículo.",
   "servicesIntro": "Nuestro catálogo de servicios BMW cubre todas las necesidades que genera la conducción en alta montaña: mantenimiento preventivo adaptado a la altitud, reparación de sistemas de sobrealimentación, sustitución de frenos con componentes preparados para descensos prolongados, diagnóstico electrónico completo y preparación invernal específica para el clima de Saldes.",
   "processIntro": "Reparar un BMW en alta montaña requiere un método riguroso. Cada intervención sigue un protocolo diseñado para las condiciones extremas de la zona del Pedraforca.",
   "processSteps": [
-    {"title": "Contacto y evaluación inicial", "body": "Descríbenos el problema por teléfono o WhatsApp. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita. Si el vehículo está inmovilizado en Saldes o alrededores, coordinamos la recogida."},
-    {"title": "Diagnóstico de alta montaña", "body": "Conectamos el vehículo al sistema ISTA y realizamos pruebas específicas para condiciones de altitud: presión de turbo, estado de frenos con medición de disco, capacidad de batería bajo carga y funcionamiento del sistema de AdBlue. Te presentamos un informe claro con fotos de los componentes afectados."},
-    {"title": "Reparación con piezas de primer equipo", "body": "Trabajamos con recambios originales BMW o equivalentes de fabricantes OE como Brembo, BorgWarner o Hella. Cada pieza se monta siguiendo los pares de apriete y procedimientos del fabricante. En reparaciones electrónicas, codificamos y programamos los módulos con software actualizado."},
-    {"title": "Prueba de carretera en condiciones reales", "body": "No nos conformamos con que el motor suene bien en el taller. Probamos tu BMW en los tramos de montaña que tú mismo recorres: subida al collado, descenso prolongado, arranque en frío. Solo te devolvemos el coche cuando se comporta exactamente como debe."},
-    {"title": "Entrega y plan de mantenimiento adaptado", "body": "Te explicamos el trabajo realizado, te entregamos la factura detallada con la garantía y te proponemos un calendario de revisiones ajustado a tu uso real: no es lo mismo aparcar en un garaje de Barcelona que dejar el BMW a la intemperie en Saldes a 1.100 metros."}
+    {
+      "title": "Contacto y evaluación inicial",
+      "body": "Descríbenos el problema por teléfono o WhatsApp. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita. Si el vehículo está inmovilizado en Saldes o alrededores, coordinamos la recogida."
+    },
+    {
+      "title": "Diagnóstico de alta montaña",
+      "body": "Conectamos el vehículo al sistema ISTA y realizamos pruebas específicas para condiciones de altitud: presión de turbo, estado de frenos con medición de disco, capacidad de batería bajo carga y funcionamiento del sistema de AdBlue. Te presentamos un informe claro con fotos de los componentes afectados."
+    },
+    {
+      "title": "Reparación con piezas de primer equipo",
+      "body": "Trabajamos con recambios originales BMW o equivalentes de fabricantes OE como Brembo, BorgWarner o Hella. Cada pieza se monta siguiendo los pares de apriete y procedimientos del fabricante. En reparaciones electrónicas, codificamos y programamos los módulos con software actualizado."
+    },
+    {
+      "title": "Prueba de carretera en condiciones reales",
+      "body": "No nos conformamos con que el motor suene bien en el taller. Probamos tu BMW en los tramos de montaña que tú mismo recorres: subida al collado, descenso prolongado, arranque en frío. Solo te devolvemos el coche cuando se comporta exactamente como debe."
+    },
+    {
+      "title": "Entrega y plan de mantenimiento adaptado",
+      "body": "Te explicamos el trabajo realizado, te entregamos la factura detallada con la garantía y te proponemos un calendario de revisiones ajustado a tu uso real: no es lo mismo aparcar en un garaje de Barcelona que dejar el BMW a la intemperie en Saldes a 1.100 metros."
+    }
   ],
   "commonIssuesIntro": "La altitud, los descensos prolongados y el frío extremo de Saldes generan un patrón de averías en los BMW que no se da en otras zonas. Estos son los cinco problemas que tratamos con mayor frecuencia en vehículos de esta zona.",
   "commonIssues": [
-    {"title": "Desgaste acelerado del turbocompresor", "body": "A más de mil metros de altitud, el turbo gira más rápido para compensar la menor densidad del aire. Esto eleva la temperatura interna del compresor y acorta la vida útil de los retenes del eje. Los síntomas son consumo de aceite elevado, humo azulado en aceleración y pérdida progresiva de potencia. Diagnosticamos el turbo con medición de presión de soplado y holgura axial del eje antes de recomendar reparación o sustitución."},
-    {"title": "Cristalizado de pastillas de freno por descensos largos", "body": "La bajada desde Saldes hacia Guardiola de Berguedà obliga a frenar durante kilómetros. Las pastillas superan su rango óptimo de temperatura y la superficie de fricción se vitrifica, perdiendo mordiente. Notarás un pedal largo, frenada irregular y posible vibración. Sustituimos el conjunto disco-pastilla y verificamos el punto de ebullición del líquido de frenos."},
-    {"title": "Congelación del AdBlue y bloqueo del sistema SCR", "body": "El AdBlue se congela a menos once grados, una temperatura que Saldes alcanza con frecuencia en invierno. Si el calefactor del depósito de AdBlue falla, la solución cristaliza y el sistema de reducción catalítica se bloquea, impidiendo el arranque del motor tras un determinado número de ciclos. Verificamos el calefactor, el sensor de nivel y la calidad del AdBlue."},
-    {"title": "Presión de neumáticos incorrecta por cambio de altitud", "body": "Un BMW que sube desde el llano hasta Saldes experimenta un aumento de la presión interna de los neumáticos por la menor presión atmosférica. El sistema TPMS puede activar alertas falsas o, peor, enmascarar una presión real insuficiente. Ajustamos la presión a la altitud de uso habitual y recalibramos los sensores TPMS."},
-    {"title": "Arranque difícil por frío extremo y batería degradada", "body": "Las noches de quince bajo cero en Saldes exigen una batería en perfecto estado. Una batería AGM con más de cuatro años pierde capacidad suficiente como para no arrancar un motor diésel BMW en frío extremo. Realizamos test de capacidad CCA y, si procede, sustituimos la batería con registro IBS para que el sistema de gestión energética funcione correctamente."}
+    {
+      "title": "Desgaste acelerado del turbocompresor",
+      "body": "A más de mil metros de altitud, el turbo gira más rápido para compensar la menor densidad del aire. Esto eleva la temperatura interna del compresor y acorta la vida útil de los retenes del eje. Los síntomas son consumo de aceite elevado, humo azulado en aceleración y pérdida progresiva de potencia. Diagnosticamos el turbo con medición de presión de soplado y holgura axial del eje antes de recomendar reparación o sustitución."
+    },
+    {
+      "title": "Cristalizado de pastillas de freno por descensos largos",
+      "body": "La bajada desde Saldes hacia Guardiola de Berguedà obliga a frenar durante kilómetros. Las pastillas superan su rango óptimo de temperatura y la superficie de fricción se vitrifica, perdiendo mordiente. Notarás un pedal largo, frenada irregular y posible vibración. Sustituimos el conjunto disco-pastilla y verificamos el punto de ebullición del líquido de frenos."
+    },
+    {
+      "title": "Congelación del AdBlue y bloqueo del sistema SCR",
+      "body": "El AdBlue se congela a menos once grados, una temperatura que Saldes alcanza con frecuencia en invierno. Si el calefactor del depósito de AdBlue falla, la solución cristaliza y el sistema de reducción catalítica se bloquea, impidiendo el arranque del motor tras un determinado número de ciclos. Verificamos el calefactor, el sensor de nivel y la calidad del AdBlue."
+    },
+    {
+      "title": "Presión de neumáticos incorrecta por cambio de altitud",
+      "body": "Un BMW que sube desde el llano hasta Saldes experimenta un aumento de la presión interna de los neumáticos por la menor presión atmosférica. El sistema TPMS puede activar alertas falsas o, peor, enmascarar una presión real insuficiente. Ajustamos la presión a la altitud de uso habitual y recalibramos los sensores TPMS."
+    },
+    {
+      "title": "Arranque difícil por frío extremo y batería degradada",
+      "body": "Las noches de quince bajo cero en Saldes exigen una batería en perfecto estado. Una batería AGM con más de cuatro años pierde capacidad suficiente como para no arrancar un motor diésel BMW en frío extremo. Realizamos test de capacidad CCA y, si procede, sustituimos la batería con registro IBS para que el sistema de gestión energética funcione correctamente."
+    }
   ],
   "whyUs": [
-    {"title": "Entendemos la mecánica de alta montaña", "body": "No tratamos tu BMW como si rodara por autopista. Sabemos que a mil metros el turbo trabaja más, los frenos sufren en cada descenso y el frío extremo castiga la electrónica. Nuestras revisiones y reparaciones tienen en cuenta la altitud real a la que opera tu vehículo."},
-    {"title": "Pruebas en condiciones reales", "body": "Después de cada reparación, probamos tu BMW en los mismos tramos de montaña que tú recorres. Subida, descenso, arranque en frío: verificamos que todo funciona donde de verdad importa, no solo en el elevador del taller."},
-    {"title": "Equipo de diagnóstico BMW completo", "body": "Disponemos de ISTA para diagnóstico, codificación y programación de todos los módulos electrónicos BMW. Podemos actualizar el software del motor, calibrar sensores y registrar componentes nuevos exactamente igual que un concesionario oficial."},
-    {"title": "Servicio de recogida en zona Pedraforca", "body": "Si tu BMW se queda tirado en Saldes, Gósol, Gisclareny o cualquier punto de la zona del Pedraforca, organizamos la recogida. No tienes que preocuparte de buscar grúa ni de esperar horas en un aparcamiento de montaña."},
-    {"title": "Intervalos de mantenimiento adaptados", "body": "Los intervalos que marca el ordenador de a bordo del BMW están calculados para condiciones medias. En Saldes, las condiciones son severas. Ajustamos los plazos de cambio de aceite, filtros y líquido de frenos a lo que realmente exige tu entorno de conducción."}
+    {
+      "title": "Entendemos la mecánica de alta montaña",
+      "body": "No tratamos tu BMW como si rodara por autopista. Sabemos que a mil metros el turbo trabaja más, los frenos sufren en cada descenso y el frío extremo castiga la electrónica. Nuestras revisiones y reparaciones tienen en cuenta la altitud real a la que opera tu vehículo."
+    },
+    {
+      "title": "Pruebas en condiciones reales",
+      "body": "Después de cada reparación, probamos tu BMW en los mismos tramos de montaña que tú recorres. Subida, descenso, arranque en frío: verificamos que todo funciona donde de verdad importa, no solo en el elevador del taller."
+    },
+    {
+      "title": "Equipo de diagnóstico BMW completo",
+      "body": "Disponemos de ISTA para diagnóstico, codificación y programación de todos los módulos electrónicos BMW. Podemos actualizar el software del motor, calibrar sensores y registrar componentes nuevos exactamente igual que un concesionario oficial."
+    },
+    {
+      "title": "Servicio de recogida en zona Pedraforca",
+      "body": "Si tu BMW se queda tirado en Saldes, Gósol, Gisclareny o cualquier punto de la zona del Pedraforca, organizamos la recogida. No tienes que preocuparte de buscar grúa ni de esperar horas en un aparcamiento de montaña."
+    },
+    {
+      "title": "Intervalos de mantenimiento adaptados",
+      "body": "Los intervalos que marca el ordenador de a bordo del BMW están calculados para condiciones medias. En Saldes, las condiciones son severas. Ajustamos los plazos de cambio de aceite, filtros y líquido de frenos a lo que realmente exige tu entorno de conducción."
+    }
   ],
   "testimonialsIntro": "Vecinos de Saldes, excursionistas habituales del Pedraforca y propietarios de segundas residencias en la zona confían en nuestro servicio para sus BMW. Estas son algunas de sus opiniones.",
   "testimonials": [
-    {"name": "Oriol Camprubí", "neighborhood": "Saldes", "car": "BMW X5 xDrive30d", "body": "Vivo en Saldes todo el año y el X5 es el único coche que tengo. Un invierno se me congeló el AdBlue y el coche dejó de arrancar. Me lo solucionaron en menos de un día, verificaron todo el sistema de calefacción del depósito y desde entonces no he vuelto a tener el problema. Un alivio enorme viviendo aquí arriba.", "rating": 5},
-    {"name": "Laura Martínez", "neighborhood": "Barcelona (segunda residencia en Saldes)", "car": "BMW 330e", "body": "Subo al Pedraforca casi todos los fines de semana. Después de una bajada larga noté que los frenos vibraban y el pedal estaba raro. Me cambiaron discos y pastillas y me explicaron que el descenso continuado había cristalizado el material. Ahora freno con total confianza. Servicio excelente y trato muy humano.", "rating": 5},
-    {"name": "Ramon Güell", "neighborhood": "Guardiola de Berguedà", "car": "BMW 120d", "body": "El turbo de mi 120d empezó a echar humo azul. Me dijeron que a la altitud de aquí arriba el turbo trabaja más de la cuenta. Me lo sustituyeron por uno nuevo y el coche ha vuelto a tirar como el primer día. Buen precio comparado con lo que me pedían en el concesionario de Manresa.", "rating": 5},
-    {"name": "Gemma Vilardaga", "neighborhood": "Gósol", "car": "BMW X1 xDrive18d", "body": "En Gósol no hay ni taller genérico, así que encontrar un especialista BMW tan cerca fue una suerte. Me hacen todas las revisiones, me preparan el coche para el invierno y siempre me explican todo con claridad. Muy contentos mi marido y yo.", "rating": 5}
+    {
+      "name": "Oriol Camprubí",
+      "neighborhood": "Saldes",
+      "car": "BMW X5 xDrive30d",
+      "body": "Vivo en Saldes todo el año y el X5 es el único coche que tengo. Un invierno se me congeló el AdBlue y el coche dejó de arrancar. Me lo solucionaron en menos de un día, verificaron todo el sistema de calefacción del depósito y desde entonces no he vuelto a tener el problema. Un alivio enorme viviendo aquí arriba.",
+      "rating": 5
+    },
+    {
+      "name": "Laura Martínez",
+      "neighborhood": "Barcelona (segunda residencia en Saldes)",
+      "car": "BMW 330e",
+      "body": "Subo al Pedraforca casi todos los fines de semana. Después de una bajada larga noté que los frenos vibraban y el pedal estaba raro. Me cambiaron discos y pastillas y me explicaron que el descenso continuado había cristalizado el material. Ahora freno con total confianza. Servicio excelente y trato muy humano.",
+      "rating": 5
+    },
+    {
+      "name": "Ramon Güell",
+      "neighborhood": "Guardiola de Berguedà",
+      "car": "BMW 120d",
+      "body": "El turbo de mi 120d empezó a echar humo azul. Me dijeron que a la altitud de aquí arriba el turbo trabaja más de la cuenta. Me lo sustituyeron por uno nuevo y el coche ha vuelto a tirar como el primer día. Buen precio comparado con lo que me pedían en el concesionario de Manresa.",
+      "rating": 5
+    },
+    {
+      "name": "Gemma Vilardaga",
+      "neighborhood": "Gósol",
+      "car": "BMW X1 xDrive18d",
+      "body": "En Gósol no hay ni taller genérico, así que encontrar un especialista BMW tan cerca fue una suerte. Me hacen todas las revisiones, me preparan el coche para el invierno y siempre me explican todo con claridad. Muy contentos mi marido y yo.",
+      "rating": 5
+    }
   ],
   "zoneText": "Damos servicio a toda la zona norte del Berguedà, desde Guardiola hasta los pueblos más remotos del macizo del Pedraforca y el Cadí. Si tu BMW rueda por estas montañas, estamos cerca.",
-  "zoneNeighborhoods": ["Guardiola de Berguedà", "Gósol", "Gisclareny", "Vallcebre", "Bagà", "La Pobla de Lillet", "Castell de l'Areny"],
-  "zoneAccessRoutes": ["C-16", "B-400", "BV-4024", "L-401"],
+  "zoneNeighborhoods": [
+    "Guardiola de Berguedà",
+    "Gósol",
+    "Gisclareny",
+    "Vallcebre",
+    "Bagà",
+    "La Pobla de Lillet",
+    "Castell de l'Areny"
+  ],
+  "zoneAccessRoutes": [
+    "C-16",
+    "B-400",
+    "BV-4024",
+    "L-401"
+  ],
   "faqLocal": [
-    {"q": "¿La altitud de Saldes afecta al motor de mi BMW?", "a": "Sí. A más de mil metros, la menor densidad del aire hace que el turbocompresor trabaje más para mantener la potencia nominal. Esto no daña el motor de forma inmediata, pero acorta la vida útil del turbo y puede alterar la mezcla aire-combustible. Recomendamos revisiones más frecuentes del sistema de sobrealimentación en vehículos que circulan habitualmente por esta zona."},
-    {"q": "¿Cada cuánto debo cambiar las pastillas de freno si bajo de Saldes a menudo?", "a": "Los descensos prolongados desde Saldes hacia Guardiola someten las pastillas a un estrés térmico muy superior al de la conducción en llano. En estos casos, recomendamos inspeccionar discos y pastillas cada 15.000 kilómetros en lugar de los 30.000 habituales, y sustituir el líquido de frenos cada año."},
-    {"q": "¿Puedo subir al Pedraforca con un BMW de tracción trasera?", "a": "Sí, la carretera está asfaltada hasta el aparcamiento principal. Sin embargo, en invierno pueden formarse placas de hielo en los tramos de sombra. Si conduces un BMW de tracción trasera, es imprescindible llevar neumáticos de invierno o cadenas homologadas. Los modelos xDrive ofrecen mayor tracción en estas condiciones."},
-    {"q": "¿Recogéis coches averiados en la zona del Pedraforca?", "a": "Sí. Organizamos la recogida de vehículos BMW averiados en Saldes, Gósol, Gisclareny y toda la zona del Pedraforca. Llámanos o envíanos un WhatsApp con tu ubicación y coordinaremos el traslado."},
-    {"q": "¿El AdBlue de mi BMW puede congelarse en Saldes?", "a": "Sí. El AdBlue se congela a aproximadamente menos once grados centígrados, una temperatura habitual en las noches de invierno en Saldes. Los BMW diésel modernos tienen un calefactor en el depósito de AdBlue para evitarlo, pero si este calefactor falla, la solución cristaliza y el sistema SCR se bloquea. Verificamos este componente en nuestra revisión invernal."},
-    {"q": "¿Hay que ajustar la presión de los neumáticos al subir a Saldes?", "a": "La presión interna de los neumáticos varía con la altitud y la temperatura. Al subir desde el llano a los 1.100 metros de Saldes, la presión puede aumentar entre 0,1 y 0,2 bar. Aunque el sistema TPMS del BMW compensa parcialmente, recomendamos verificar la presión con manómetro si notas alertas frecuentes o un comportamiento extraño del coche en curva."}
+    {
+      "q": "¿La altitud de Saldes afecta al motor de mi BMW?",
+      "a": "Sí. A más de mil metros, la menor densidad del aire hace que el turbocompresor trabaje más para mantener la potencia nominal. Esto no daña el motor de forma inmediata, pero acorta la vida útil del turbo y puede alterar la mezcla aire-combustible. Recomendamos revisiones más frecuentes del sistema de sobrealimentación en vehículos que circulan habitualmente por esta zona."
+    },
+    {
+      "q": "¿Cada cuánto debo cambiar las pastillas de freno si bajo de Saldes a menudo?",
+      "a": "Los descensos prolongados desde Saldes hacia Guardiola someten las pastillas a un estrés térmico muy superior al de la conducción en llano. En estos casos, recomendamos inspeccionar discos y pastillas cada 15.000 kilómetros en lugar de los 30.000 habituales, y sustituir el líquido de frenos cada año."
+    },
+    {
+      "q": "¿Puedo subir al Pedraforca con un BMW de tracción trasera?",
+      "a": "Sí, la carretera está asfaltada hasta el aparcamiento principal. Sin embargo, en invierno pueden formarse placas de hielo en los tramos de sombra. Si conduces un BMW de tracción trasera, es imprescindible llevar neumáticos de invierno o cadenas homologadas. Los modelos xDrive ofrecen mayor tracción en estas condiciones."
+    },
+    {
+      "q": "¿Recogéis coches averiados en la zona del Pedraforca?",
+      "a": "Sí. Organizamos la recogida de vehículos BMW averiados en Saldes, Gósol, Gisclareny y toda la zona del Pedraforca. Llámanos o envíanos un WhatsApp con tu ubicación y coordinaremos el traslado."
+    },
+    {
+      "q": "¿El AdBlue de mi BMW puede congelarse en Saldes?",
+      "a": "Sí. El AdBlue se congela a aproximadamente menos once grados centígrados, una temperatura habitual en las noches de invierno en Saldes. Los BMW diésel modernos tienen un calefactor en el depósito de AdBlue para evitarlo, pero si este calefactor falla, la solución cristaliza y el sistema SCR se bloquea. Verificamos este componente en nuestra revisión invernal."
+    },
+    {
+      "q": "¿Hay que ajustar la presión de los neumáticos al subir a Saldes?",
+      "a": "La presión interna de los neumáticos varía con la altitud y la temperatura. Al subir desde el llano a los 1.100 metros de Saldes, la presión puede aumentar entre 0,1 y 0,2 bar. Aunque el sistema TPMS del BMW compensa parcialmente, recomendamos verificar la presión con manómetro si notas alertas frecuentes o un comportamiento extraño del coche en curva."
+    }
   ],
   "closingHeadline": "Tu BMW y el Pedraforca: los dos merecen lo mejor",
   "closingCta": "Contacta con nosotros por teléfono o WhatsApp. Te damos presupuesto adaptado a las condiciones reales de alta montaña en las que rueda tu BMW, sin compromiso y sin que tengas que bajar al llano.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

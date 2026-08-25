@@ -10,12 +10,30 @@
   "metaDescription": "Taller especializado en BMW en Avià, Berguedà. Diagnóstico profesional, mantenimiento y reparación para conductores que hacen kilómetros a diario por la C-16.",
   "heroSubtitle": "Tu BMW aguanta el ritmo diario Avià–Berga–Manresa. Nosotros nos encargamos de que siga haciéndolo con la fiabilidad que mereces.",
   "trustChips": [
-    { "icon": "wrench", "text": "Especialistas exclusivos en BMW" },
-    { "icon": "cpu", "text": "Diagnóstico ISTA/ICOM oficial" },
-    { "icon": "clock", "text": "Cita rápida sin esperas" },
-    { "icon": "shield", "text": "Garantía en cada reparación" },
-    { "icon": "map-pin", "text": "Servicio cercano al Berguedà" },
-    { "icon": "zap", "text": "Recogida y entrega disponible" }
+    {
+      "icon": "wrench",
+      "text": "Especialistas exclusivos en BMW"
+    },
+    {
+      "icon": "cpu",
+      "text": "Diagnóstico ISTA/ICOM oficial"
+    },
+    {
+      "icon": "clock",
+      "text": "Cita rápida sin esperas"
+    },
+    {
+      "icon": "shield",
+      "text": "Garantía en cada reparación"
+    },
+    {
+      "icon": "map-pin",
+      "text": "Servicio cercano al Berguedà"
+    },
+    {
+      "icon": "zap",
+      "text": "Recogida y entrega disponible"
+    }
   ],
   "introLocal": "Avià es un municipio de poco más de 2.200 habitantes situado en el corazón del sur del Berguedà, a apenas tres kilómetros de Berga y a una altitud de unos 600 metros sobre el nivel del mar. Enclavado entre el curso del río Llobregat y las primeras estribaciones del Prepirineo catalán, Avià combina la tranquilidad de un entorno residencial con la cercanía inmediata a todos los servicios de la capital comarcal. Para muchos de sus vecinos, el coche no es un lujo: es la herramienta imprescindible que conecta el hogar con el puesto de trabajo.\n\nLa C-16, eje vertebrador que une Berga con Manresa y Barcelona, pasa a escasos metros del núcleo urbano de Avià. Cada mañana, centenares de conductores de la zona recorren esta vía en ambos sentidos, acumulando decenas de miles de kilómetros al año entre desplazamientos laborales, gestiones en Manresa y escapadas al Pirineo los fines de semana. Este uso intensivo somete al vehículo a un estrés mecánico constante: arrancadas en frío en mañanas de invierno con temperaturas bajo cero, subidas y bajadas por desniveles pronunciados entre Cal Rosal y la entrada a Berga, y trayectos cortos que no permiten al motor alcanzar su temperatura óptima de funcionamiento.\n\nPara los propietarios de BMW en Avià, estos patrones de conducción tienen consecuencias técnicas muy concretas. Los motores diésel de la serie N47 y B47, tan populares en los 320d y 520d que se ven a diario en la C-16, son especialmente sensibles a los trayectos cortos repetidos: el filtro de partículas no alcanza la temperatura de regeneración, el turbo acumula carbonilla y el aceite se degrada más rápido de lo previsto por los intervalos estándar de mantenimiento. En los meses de invierno, cuando las heladas son frecuentes en el fondo del valle del Llobregat, el sistema de refrigeración y la bomba de agua eléctrica —punto débil conocido de muchos BMW— sufren un desgaste adicional.\n\nNuestro taller ofrece a los conductores de Avià un servicio especializado que entiende exactamente estas condiciones de uso. No aplicamos protocolos genéricos: adaptamos el mantenimiento al perfil real de cada cliente, teniendo en cuenta si su BMW hace 40 kilómetros diarios por la C-16 hasta Manresa o si se limita a trayectos urbanos entre Avià y Berga. Utilizamos equipos de diagnóstico ISTA e ICOM, los mismos que emplea la red oficial, para leer con precisión cada código de error y anticipar averías antes de que dejen el coche parado en el arcén de la autopista del Cadí.\n\nElegir un taller próximo y accesible desde Avià significa también ahorrar tiempo y evitar desplazamientos innecesarios hasta Barcelona o Vic. Ofrecemos recogida del vehículo en el propio municipio y entrega una vez finalizada la reparación, para que tu rutina diaria no se vea alterada. Tanto si vives en el casco urbano de Avià como en las urbanizaciones cercanas a la zona de Cal Rosal o en la vertiente que mira hacia el Pedraforca, estamos a pocos minutos de distancia y preparados para mantener tu BMW en las mejores condiciones kilómetro tras kilómetro.",
   "servicesIntro": "Ofrecemos una gama completa de servicios especializados en BMW para los conductores de Avià y el sur del Berguedà: desde revisiones periódicas adaptadas al alto kilometraje de los desplazamientos por la C-16, hasta reparaciones complejas de motor, turbo, caja de cambios y electrónica. Cada intervención se realiza con recambios de calidad OEM y equipos de diagnóstico de última generación.",
@@ -160,9 +178,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

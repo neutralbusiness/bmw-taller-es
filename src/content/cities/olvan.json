@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW en Olvan, Berguedà. Mantenimiento preventivo, diagnóstico electrónico y reparación especializada para tu BMW. Cerca de Berga y Gironella. Pide cita.",
   "heroSubtitle": "Tu taller BMW de confianza en el Berguedà. Mantenimiento experto para residentes y segundas residencias en Olvan.",
   "trustChips": [
-    { "icon": "wrench", "text": "Especialistas exclusivos en BMW" },
-    { "icon": "cpu", "text": "Diagnóstico electrónico avanzado" },
-    { "icon": "clock", "text": "Cita previa sin esperas" },
-    { "icon": "shield", "text": "Recambios originales y homologados" },
-    { "icon": "map-pin", "text": "Cerca de Olvan por la C-16" }
+    {
+      "icon": "wrench",
+      "text": "Especialistas exclusivos en BMW"
+    },
+    {
+      "icon": "cpu",
+      "text": "Diagnóstico electrónico avanzado"
+    },
+    {
+      "icon": "clock",
+      "text": "Cita previa sin esperas"
+    },
+    {
+      "icon": "shield",
+      "text": "Recambios originales y homologados"
+    },
+    {
+      "icon": "map-pin",
+      "text": "Cerca de Olvan por la C-16"
+    }
   ],
   "introLocal": "Olvan es un pequeño municipio del Berguedà situado en la margen derecha del río Llobregat, entre las poblaciones de Berga y Gironella, a unos 500 metros de altitud. Con apenas 900 habitantes censados, esta localidad ofrece un entorno residencial tranquilo, rodeado de campos de cultivo, masías dispersas y bosques de pino y encina que trepan hacia la sierra de Queralt. Para muchos, Olvan representa el equilibrio perfecto entre la calma rural y la proximidad a los servicios de Berga, que queda a escasos diez minutos por carretera.\n\nLa vida en Olvan transcurre a un ritmo pausado. Muchos de sus residentes trabajan en Berga o Gironella y utilizan su vehículo a diario para desplazarse por la C-16, la arteria principal del Berguedà que conecta la comarca con Manresa y Barcelona. Otros vecinos, sin embargo, son propietarios de segundas residencias que disfrutan los fines de semana y en periodos vacacionales. Este patrón de uso intermitente tiene consecuencias directas sobre el estado mecánico de los vehículos, especialmente en modelos BMW cuya sofisticada electrónica y mecánica de precisión requieren un mantenimiento regular y especializado.\n\nLos BMW estacionados durante largos periodos en garajes rurales o al aire libre son especialmente susceptibles a problemas específicos. La descarga progresiva de la batería, la formación de puntos planos en los neumáticos por la presión estática prolongada, la acumulación de depósitos en el sistema de combustible por la gasolina envejecida, la corrosión superficial en los discos de freno por la humedad del entorno fluvial del Llobregat y, con frecuencia creciente, los daños en el cableado eléctrico provocados por roedores que encuentran refugio en los vanos motor de los coches aparcados en garajes rurales. Todos estos problemas requieren un taller que conozca a fondo las particularidades de la marca bávara.\n\nNuestro taller especializado BMW ofrece a los vecinos de Olvan y a los propietarios de segundas residencias un servicio completo de mantenimiento preventivo, diagnóstico electrónico y reparación mecánica sin necesidad de desplazarse hasta Barcelona o Manresa. Situados en una ubicación estratégica y con acceso directo desde la C-16, facilitamos que el cuidado de tu BMW se integre de forma natural en tu rutina, ya seas residente permanente o visitante de fin de semana. Contamos con equipos de diagnóstico específicos para BMW que permiten leer y borrar códigos de avería, programar módulos electrónicos y realizar actualizaciones de software.\n\nEn Olvan, donde el coche es imprescindible para cualquier gestión cotidiana, mantener tu BMW en perfectas condiciones no es un lujo sino una necesidad. Desde las revisiones periódicas de aceite y filtros hasta la sustitución de componentes de suspensión desgastados por las carreteras comarcales, nuestro equipo de técnicos certificados garantiza que tu vehículo rinda al máximo en cada kilómetro. Ofrecemos presupuestos detallados, plazos de entrega realistas y la tranquilidad de saber que tu BMW está en manos de profesionales que conocen cada sistema del vehículo.",
   "servicesIntro": "En nuestro taller ofrecemos a los propietarios de BMW en Olvan una gama completa de servicios: desde revisiones de mantenimiento programado y cambios de aceite con especificaciones BMW Longlife hasta diagnóstico electrónico avanzado, reparación de sistemas de suspensión adaptativa, sustitución de componentes de distribución y preparación integral de vehículos que han permanecido parados durante semanas o meses en segundas residencias del Berguedà.",
@@ -163,9 +178,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

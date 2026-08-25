@@ -15,9 +15,9 @@ interface CityRef { slug: string; name: string; province: string; ccaa: string; 
    que atiende los subdominios contratados). */
 const CONTACT = {
   businessName: "BMW Taller",
-  phoneDisplay: "665 24 51 43",
-  phone: "+34665245143",
-  whatsapp: "34665245143",
+  phoneDisplay: "641 161 771",
+  phone: "+34641161771",
+  whatsapp: "34641161771",
   email: "info@bmw-taller.es",
 };
 

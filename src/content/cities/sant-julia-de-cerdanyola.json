@@ -10,43 +10,127 @@
   "metaDescription": "Taller especializado en BMW en Sant Julià de Cerdanyola. Mantenimiento adaptado a puertos de montaña, frenos, turbo y arranque en frío. Presupuesto sin compromiso.",
   "heroSubtitle": "Tu BMW afronta puertos y valles cada día. Nuestros técnicos conocen cada curva de la C-16 y lo que exige de tu motor.",
   "trustChips": [
-    {"icon": "🏔️", "text": "Especialistas en alta montaña"},
-    {"icon": "🔧", "text": "Diagnóstico BMW oficial"},
-    {"icon": "❄️", "text": "Expertos en arranque en frío"},
-    {"icon": "🛞", "text": "Frenos de montaña"},
-    {"icon": "📞", "text": "Presupuesto inmediato"}
+    {
+      "icon": "🏔️",
+      "text": "Especialistas en alta montaña"
+    },
+    {
+      "icon": "🔧",
+      "text": "Diagnóstico BMW oficial"
+    },
+    {
+      "icon": "❄️",
+      "text": "Expertos en arranque en frío"
+    },
+    {
+      "icon": "🛞",
+      "text": "Frenos de montaña"
+    },
+    {
+      "icon": "📞",
+      "text": "Presupuesto inmediato"
+    }
   ],
   "servicesIntro": "Ofrecemos un servicio integral para vehículos BMW que incluye revisiones programadas, diagnóstico electrónico con equipo homologado, reparación de motor y transmisión, sustitución de componentes de suspensión y dirección, mantenimiento de frenos reforzado para conducción de montaña, y gestión completa del sistema AdBlue y anticontaminación. Cada intervención se realiza con piezas originales o equivalentes de primera línea, respetando siempre las especificaciones del fabricante bávaro.",
   "processIntro": "Nuestro proceso de trabajo está diseñado para que no tengas que preocuparte de nada. Desde el primer contacto hasta la entrega del vehículo, te mantenemos informado en cada paso, con total transparencia en plazos y costes.",
   "processSteps": [
-    {"title": "Contacto y recogida", "body": "Llámanos o escríbenos por WhatsApp. Si lo necesitas, recogemos tu BMW en Sant Julià de Cerdanyola o en cualquier punto entre Guardiola y La Pobla de Lillet."},
-    {"title": "Diagnóstico completo", "body": "Realizamos una inspección visual y electrónica exhaustiva con equipo específico BMW. Te enviamos un informe detallado con fotos antes de tocar nada."},
-    {"title": "Presupuesto transparente", "body": "Recibes un presupuesto cerrado y desglosado por partidas. Sin sorpresas, sin letra pequeña. Tú decides si seguimos adelante."},
-    {"title": "Reparación con garantía", "body": "Ejecutamos los trabajos con piezas de calidad original y mano de obra especializada. Documentamos cada paso del proceso."},
-    {"title": "Entrega y seguimiento", "body": "Te devolvemos el coche listo, con un informe de lo realizado y recomendaciones de mantenimiento adaptadas a tu uso real en montaña."}
+    {
+      "title": "Contacto y recogida",
+      "body": "Llámanos o escríbenos por WhatsApp. Si lo necesitas, recogemos tu BMW en Sant Julià de Cerdanyola o en cualquier punto entre Guardiola y La Pobla de Lillet."
+    },
+    {
+      "title": "Diagnóstico completo",
+      "body": "Realizamos una inspección visual y electrónica exhaustiva con equipo específico BMW. Te enviamos un informe detallado con fotos antes de tocar nada."
+    },
+    {
+      "title": "Presupuesto transparente",
+      "body": "Recibes un presupuesto cerrado y desglosado por partidas. Sin sorpresas, sin letra pequeña. Tú decides si seguimos adelante."
+    },
+    {
+      "title": "Reparación con garantía",
+      "body": "Ejecutamos los trabajos con piezas de calidad original y mano de obra especializada. Documentamos cada paso del proceso."
+    },
+    {
+      "title": "Entrega y seguimiento",
+      "body": "Te devolvemos el coche listo, con un informe de lo realizado y recomendaciones de mantenimiento adaptadas a tu uso real en montaña."
+    }
   ],
   "introLocal": "Sant Julià de Cerdanyola ocupa una posición singular en el Berguedà: encajado entre Guardiola de Berguedà y La Pobla de Lillet, el municipio se asienta en la zona donde el valle del Llobregat se estrecha y la carretera comienza a trepar hacia los collados que conectan con la Cerdanya. Para quienes conducen un BMW en este entorno, el vehículo no es un capricho: es la herramienta que permite salvar desniveles de más de 400 metros en apenas unos kilómetros, circular por curvas cerradas sobre asfalto irregular y llegar a casa cuando la niebla baja del Cadí y la temperatura cae por debajo de cero.\n\nLos motores BMW —especialmente los diésel de la serie N47 y B47 que equipan los 320d, 520d o X1 xDrive— están diseñados para rendir a alto nivel, pero la altitud media de Sant Julià, cercana a los 800 metros, modifica las condiciones de admisión y combustión. El turbo trabaja más para compensar la menor densidad del aire, las bujías de precalentamiento se activan con mayor frecuencia durante los meses de noviembre a marzo, y el sistema de postratamiento de gases sufre ciclos de regeneración del filtro de partículas más cortos de lo habitual. Un mantenimiento genérico, pensado para conducción urbana en el llano, no contempla estas particularidades. Nosotros sí.\n\nLa carretera BV-4024, que cruza el municipio y conecta con Bagà hacia el norte y con Berga hacia el sur a través de la C-16, es una vía que pone a prueba la suspensión y la dirección con cada bache. Los vecinos de Sant Julià conocen bien los tramos donde el firme se resiente tras cada invierno, los parches de alquitrán que nunca terminan de cuajar y las cunetas sin arcén que obligan a circular con precisión milimétrica. En un BMW con suspensión deportiva o sistema adaptativo, los silentblocks, los amortiguadores y las rótulas acusan este castigo de forma acelerada. No esperes a notar el volante impreciso o un ruido sordo al pasar por un resalto: una revisión preventiva a tiempo evita reparaciones costosas en cascada.\n\nEl descenso desde el Coll de Merolla o desde la zona alta de La Pobla de Lillet hacia Guardiola impone un esfuerzo constante sobre el sistema de frenado. Los discos de un BMW Serie 3 pueden alcanzar temperaturas superiores a 400 grados en una bajada prolongada, lo que provoca cristalización de las pastillas —lo que los mecánicos llamamos glaseado— y una pérdida progresiva de eficacia que el conductor nota como un pedal blando o vibraciones al frenar. En nuestro taller, inspeccionamos el grosor, la superficie y la ventilación de discos y pastillas con criterios específicos para conducción de montaña, no con las tablas estándar de desgaste urbano.\n\nEl frío intenso del Berguedà septentrional, donde las heladas pueden prolongarse de octubre a abril, supone un desafío adicional para la batería y el sistema eléctrico de los BMW modernos. Un Serie 5 o un X3 equipados con múltiples centralitas, pantalla iDrive, sensores de aparcamiento y sistema Start/Stop consumen corriente incluso con el motor parado. Cuando el termómetro baja de los –5 °C —algo habitual en Sant Julià durante las noches de enero—, una batería con más de cuatro años puede no ser capaz de entregar los amperios de arranque necesarios. Controlamos la capacidad real de la batería con test de carga, no con simples mediciones de voltaje que solo cuentan parte de la historia.\n\nDar servicio a los conductores de BMW de Sant Julià de Cerdanyola no es solo una cuestión técnica: es entender que cada kilómetro de esta zona exige más del coche que veinte kilómetros en autopista. Por eso adaptamos intervalos de mantenimiento, seleccionamos aceites con viscosidad apropiada para arranques bajo cero y revisamos componentes que en otras latitudes durarían el doble. Conocemos el terreno porque trabajamos en él, y eso marca la diferencia entre un taller más y un taller que de verdad cuida tu BMW.",
   "commonIssuesIntro": "Los BMW que circulan habitualmente por Sant Julià de Cerdanyola y los puertos cercanos presentan patrones de averías característicos del uso en alta montaña. Estas son las incidencias que resolvemos con mayor frecuencia.",
   "commonIssues": [
-    {"title": "Cristalización de pastillas de freno por descensos prolongados", "body": "Las bajadas continuas desde los collados cercanos someten las pastillas a temperaturas extremas. El material de fricción se vitrifica y pierde eficacia. Sustituimos pastillas y rectificamos o cambiamos discos según el estado, usando compuestos de alta temperatura adecuados para montaña."},
-    {"title": "Regeneración excesiva del filtro de partículas (DPF)", "body": "La conducción a baja velocidad por carreteras de montaña impide que el DPF alcance la temperatura de regeneración pasiva. El motor entra en regeneración activa con demasiada frecuencia, aumentando el consumo y diluyendo el aceite. Realizamos regeneración forzada controlada y verificamos el estado del sensor diferencial de presión."},
-    {"title": "Desgaste prematuro de suspensión y silentblocks", "body": "El firme irregular de la BV-4024 y los caminos secundarios castigan los elementos elásticos de la suspensión. Los silentblocks del brazo oscilante y las rótulas de dirección se deterioran antes de lo previsto. Inspeccionamos el tren completo y sustituimos por componentes reforzados cuando es necesario."},
-    {"title": "Fallos de arranque en frío por batería degradada", "body": "Las heladas severas de la zona —con temperaturas nocturnas de hasta –10 °C— reducen drásticamente la capacidad de la batería. Los BMW con sistema Start/Stop son especialmente sensibles. Realizamos test de carga real y sustituimos con baterías AGM de especificación BMW cuando la capacidad cae por debajo del 70%."},
-    {"title": "Avería en bujías de precalentamiento", "body": "El uso intensivo del sistema de precalentamiento durante los meses fríos acorta la vida útil de las bujías incandescentes. Un fallo parcial puede pasar desapercibido pero provoca arranques difíciles y aumento de emisiones. Verificamos resistencia individual de cada bujía y sustituimos el juego completo si detectamos degradación."}
+    {
+      "title": "Cristalización de pastillas de freno por descensos prolongados",
+      "body": "Las bajadas continuas desde los collados cercanos someten las pastillas a temperaturas extremas. El material de fricción se vitrifica y pierde eficacia. Sustituimos pastillas y rectificamos o cambiamos discos según el estado, usando compuestos de alta temperatura adecuados para montaña."
+    },
+    {
+      "title": "Regeneración excesiva del filtro de partículas (DPF)",
+      "body": "La conducción a baja velocidad por carreteras de montaña impide que el DPF alcance la temperatura de regeneración pasiva. El motor entra en regeneración activa con demasiada frecuencia, aumentando el consumo y diluyendo el aceite. Realizamos regeneración forzada controlada y verificamos el estado del sensor diferencial de presión."
+    },
+    {
+      "title": "Desgaste prematuro de suspensión y silentblocks",
+      "body": "El firme irregular de la BV-4024 y los caminos secundarios castigan los elementos elásticos de la suspensión. Los silentblocks del brazo oscilante y las rótulas de dirección se deterioran antes de lo previsto. Inspeccionamos el tren completo y sustituimos por componentes reforzados cuando es necesario."
+    },
+    {
+      "title": "Fallos de arranque en frío por batería degradada",
+      "body": "Las heladas severas de la zona —con temperaturas nocturnas de hasta –10 °C— reducen drásticamente la capacidad de la batería. Los BMW con sistema Start/Stop son especialmente sensibles. Realizamos test de carga real y sustituimos con baterías AGM de especificación BMW cuando la capacidad cae por debajo del 70%."
+    },
+    {
+      "title": "Avería en bujías de precalentamiento",
+      "body": "El uso intensivo del sistema de precalentamiento durante los meses fríos acorta la vida útil de las bujías incandescentes. Un fallo parcial puede pasar desapercibido pero provoca arranques difíciles y aumento de emisiones. Verificamos resistencia individual de cada bujía y sustituimos el juego completo si detectamos degradación."
+    }
   ],
   "whyUs": [
-    {"title": "Conocimiento real del terreno", "body": "No trabajamos con tablas genéricas de mantenimiento. Adaptamos intervalos y componentes a las condiciones reales de altitud, temperatura y tipo de carretera que afronta tu BMW en Sant Julià de Cerdanyola y el Berguedà norte."},
-    {"title": "Diagnóstico con equipo BMW específico", "body": "Utilizamos software de diagnóstico compatible con todos los módulos electrónicos BMW, lo que nos permite leer códigos de avería, realizar adaptaciones de centralita y programar componentes nuevos sin necesidad de acudir a un concesionario."},
-    {"title": "Recogida y entrega a domicilio", "body": "Sabemos que en un municipio de montaña quedarse sin coche es un problema serio. Ofrecemos servicio de recogida y entrega en Sant Julià y localidades cercanas como Guardiola de Berguedà, La Pobla de Lillet y Bagà."},
-    {"title": "Piezas de calidad original con garantía", "body": "Trabajamos con proveedores de primer equipo y equivalentes homologados. Cada pieza instalada lleva garantía documentada y queda registrada en el historial de mantenimiento del vehículo."},
-    {"title": "Transparencia total en presupuestos", "body": "Antes de iniciar cualquier reparación, recibes un presupuesto cerrado con desglose de piezas y mano de obra. Sin costes ocultos, sin partidas ambiguas. Si durante el trabajo detectamos algo adicional, te consultamos antes de actuar."}
+    {
+      "title": "Conocimiento real del terreno",
+      "body": "No trabajamos con tablas genéricas de mantenimiento. Adaptamos intervalos y componentes a las condiciones reales de altitud, temperatura y tipo de carretera que afronta tu BMW en Sant Julià de Cerdanyola y el Berguedà norte."
+    },
+    {
+      "title": "Diagnóstico con equipo BMW específico",
+      "body": "Utilizamos software de diagnóstico compatible con todos los módulos electrónicos BMW, lo que nos permite leer códigos de avería, realizar adaptaciones de centralita y programar componentes nuevos sin necesidad de acudir a un concesionario."
+    },
+    {
+      "title": "Recogida y entrega a domicilio",
+      "body": "Sabemos que en un municipio de montaña quedarse sin coche es un problema serio. Ofrecemos servicio de recogida y entrega en Sant Julià y localidades cercanas como Guardiola de Berguedà, La Pobla de Lillet y Bagà."
+    },
+    {
+      "title": "Piezas de calidad original con garantía",
+      "body": "Trabajamos con proveedores de primer equipo y equivalentes homologados. Cada pieza instalada lleva garantía documentada y queda registrada en el historial de mantenimiento del vehículo."
+    },
+    {
+      "title": "Transparencia total en presupuestos",
+      "body": "Antes de iniciar cualquier reparación, recibes un presupuesto cerrado con desglose de piezas y mano de obra. Sin costes ocultos, sin partidas ambiguas. Si durante el trabajo detectamos algo adicional, te consultamos antes de actuar."
+    }
   ],
   "testimonialsIntro": "Los conductores de BMW de Sant Julià de Cerdanyola y alrededores confían en nuestro trabajo. Estas son algunas de sus experiencias reales tras pasar por nuestro taller.",
   "testimonials": [
-    {"name": "Jordi Pujol", "neighborhood": "Guardiola de Berguedà", "car": "BMW 320d Touring", "body": "Llevaba meses notando el freno blando en las bajadas del Coll de Merolla. En otro taller me dijeron que las pastillas estaban bien de grosor, pero aquí detectaron que estaban cristalizadas. Me las cambiaron junto con los discos y la diferencia es brutal. Ahora bajo con total confianza.", "rating": 5},
-    {"name": "Marta Casals", "neighborhood": "La Pobla de Lillet", "car": "BMW X1 xDrive18d", "body": "Mi X1 no arrancaba una mañana de enero con –8 grados. Vinieron a recogerlo, cambiaron la batería por una AGM adecuada y de paso revisaron todo el sistema eléctrico. Rapidez y profesionalidad. Este invierno ya no me preocupa.", "rating": 5},
-    {"name": "Pere Soldevila", "neighborhood": "Sant Julià de Cerdanyola", "car": "BMW 520d", "body": "El motor me pedía regeneración del filtro de partículas cada 200 kilómetros. Me explicaron que es por el tipo de conducción de montaña y me hicieron una regeneración forzada más una limpieza del sensor. Llevo tres meses sin que se encienda el testigo.", "rating": 5},
-    {"name": "Anna Ribera", "neighborhood": "Bagà", "car": "BMW X3 xDrive20d", "body": "Los ruidos de suspensión me traían loca. Habían cambiado amortiguadores en otro sitio pero el problema seguía. Aquí revisaron todo el tren y resultó que eran los silentblocks del brazo inferior, destrozados por los baches de la carretera. Problema resuelto de verdad.", "rating": 5}
+    {
+      "name": "Jordi Pujol",
+      "neighborhood": "Guardiola de Berguedà",
+      "car": "BMW 320d Touring",
+      "body": "Llevaba meses notando el freno blando en las bajadas del Coll de Merolla. En otro taller me dijeron que las pastillas estaban bien de grosor, pero aquí detectaron que estaban cristalizadas. Me las cambiaron junto con los discos y la diferencia es brutal. Ahora bajo con total confianza.",
+      "rating": 5
+    },
+    {
+      "name": "Marta Casals",
+      "neighborhood": "La Pobla de Lillet",
+      "car": "BMW X1 xDrive18d",
+      "body": "Mi X1 no arrancaba una mañana de enero con –8 grados. Vinieron a recogerlo, cambiaron la batería por una AGM adecuada y de paso revisaron todo el sistema eléctrico. Rapidez y profesionalidad. Este invierno ya no me preocupa.",
+      "rating": 5
+    },
+    {
+      "name": "Pere Soldevila",
+      "neighborhood": "Sant Julià de Cerdanyola",
+      "car": "BMW 520d",
+      "body": "El motor me pedía regeneración del filtro de partículas cada 200 kilómetros. Me explicaron que es por el tipo de conducción de montaña y me hicieron una regeneración forzada más una limpieza del sensor. Llevo tres meses sin que se encienda el testigo.",
+      "rating": 5
+    },
+    {
+      "name": "Anna Ribera",
+      "neighborhood": "Bagà",
+      "car": "BMW X3 xDrive20d",
+      "body": "Los ruidos de suspensión me traían loca. Habían cambiado amortiguadores en otro sitio pero el problema seguía. Aquí revisaron todo el tren y resultó que eran los silentblocks del brazo inferior, destrozados por los baches de la carretera. Problema resuelto de verdad.",
+      "rating": 5
+    }
   ],
   "zoneText": "Damos cobertura a todo el Berguedà septentrional desde Sant Julià de Cerdanyola. Recogemos y entregamos tu BMW en cualquier municipio de la zona, incluyendo las masías y núcleos dispersos accesibles por pista asfaltada. Nuestro radio de servicio abarca desde Bagà hasta La Pobla de Lillet y desde Guardiola de Berguedà hasta Castellar de n'Hug.",
   "zoneNeighborhoods": [
@@ -66,21 +150,39 @@
     "B-400 (hacia Bagà)"
   ],
   "faqLocal": [
-    {"q": "¿Recogéis el coche en Sant Julià de Cerdanyola?", "a": "Sí. Ofrecemos servicio de recogida y entrega a domicilio en Sant Julià de Cerdanyola y en todos los municipios del Berguedà norte, incluidos Guardiola, La Pobla de Lillet y Bagà. Solo tienes que llamarnos o escribirnos por WhatsApp para coordinar día y hora."},
-    {"q": "¿Cada cuánto debo revisar los frenos si bajo puertos habitualmente?", "a": "En conducción de montaña con descensos frecuentes, recomendamos revisar discos y pastillas cada 15.000 km o una vez al año, el doble de frecuencia que en uso urbano. La cristalización de pastillas no siempre se detecta por grosor, así que la inspección visual de la superficie es fundamental."},
-    {"q": "¿Es normal que mi BMW diésel regenere el filtro de partículas muy a menudo en montaña?", "a": "Sí, es habitual. La conducción a baja velocidad y las pendientes impiden que el escape alcance la temperatura necesaria para la regeneración pasiva. El motor compensa con regeneraciones activas más frecuentes. Si ocurre cada menos de 300 km, conviene hacer una regeneración forzada en taller para evitar la saturación del filtro."},
-    {"q": "¿Qué aceite recomendáis para un BMW que circula por montaña con temperaturas bajo cero?", "a": "Para los motores diésel BMW que operan en el Berguedà, recomendamos aceite 5W-30 con especificación BMW Longlife-04 o, en motores más antiguos, 5W-40 que cumpla ACEA C3. La viscosidad 5W garantiza una lubricación adecuada en arranques fríos a –15 °C o menos."},
-    {"q": "¿Cuánto dura la batería de un BMW en una zona de heladas frecuentes?", "a": "En zonas como Sant Julià, donde las heladas pueden prolongarse cinco meses al año, la vida útil media de una batería AGM de BMW se sitúa entre 4 y 5 años, frente a los 6-7 años habituales en climas templados. Recomendamos un test de capacidad anual a partir del tercer año."},
-    {"q": "¿Puedo llevar un BMW con tracción trasera en las carreteras de montaña del Berguedà?", "a": "Sí, pero requiere precauciones adicionales en invierno. Es imprescindible montar neumáticos de invierno homologados (M+S o 3PMSF) de octubre a abril. Los modelos xDrive ofrecen mayor tracción en nieve y hielo, pero los de propulsión trasera con buenos neumáticos y un conductor prudente circulan sin problema por la C-16 y carreteras comarcales."}
+    {
+      "q": "¿Recogéis el coche en Sant Julià de Cerdanyola?",
+      "a": "Sí. Ofrecemos servicio de recogida y entrega a domicilio en Sant Julià de Cerdanyola y en todos los municipios del Berguedà norte, incluidos Guardiola, La Pobla de Lillet y Bagà. Solo tienes que llamarnos o escribirnos por WhatsApp para coordinar día y hora."
+    },
+    {
+      "q": "¿Cada cuánto debo revisar los frenos si bajo puertos habitualmente?",
+      "a": "En conducción de montaña con descensos frecuentes, recomendamos revisar discos y pastillas cada 15.000 km o una vez al año, el doble de frecuencia que en uso urbano. La cristalización de pastillas no siempre se detecta por grosor, así que la inspección visual de la superficie es fundamental."
+    },
+    {
+      "q": "¿Es normal que mi BMW diésel regenere el filtro de partículas muy a menudo en montaña?",
+      "a": "Sí, es habitual. La conducción a baja velocidad y las pendientes impiden que el escape alcance la temperatura necesaria para la regeneración pasiva. El motor compensa con regeneraciones activas más frecuentes. Si ocurre cada menos de 300 km, conviene hacer una regeneración forzada en taller para evitar la saturación del filtro."
+    },
+    {
+      "q": "¿Qué aceite recomendáis para un BMW que circula por montaña con temperaturas bajo cero?",
+      "a": "Para los motores diésel BMW que operan en el Berguedà, recomendamos aceite 5W-30 con especificación BMW Longlife-04 o, en motores más antiguos, 5W-40 que cumpla ACEA C3. La viscosidad 5W garantiza una lubricación adecuada en arranques fríos a –15 °C o menos."
+    },
+    {
+      "q": "¿Cuánto dura la batería de un BMW en una zona de heladas frecuentes?",
+      "a": "En zonas como Sant Julià, donde las heladas pueden prolongarse cinco meses al año, la vida útil media de una batería AGM de BMW se sitúa entre 4 y 5 años, frente a los 6-7 años habituales en climas templados. Recomendamos un test de capacidad anual a partir del tercer año."
+    },
+    {
+      "q": "¿Puedo llevar un BMW con tracción trasera en las carreteras de montaña del Berguedà?",
+      "a": "Sí, pero requiere precauciones adicionales en invierno. Es imprescindible montar neumáticos de invierno homologados (M+S o 3PMSF) de octubre a abril. Los modelos xDrive ofrecen mayor tracción en nieve y hielo, pero los de propulsión trasera con buenos neumáticos y un conductor prudente circulan sin problema por la C-16 y carreteras comarcales."
+    }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda la montaña",
   "closingCta": "Llámanos o escríbenos por WhatsApp y te preparamos un presupuesto sin compromiso. Recogemos tu coche en Sant Julià de Cerdanyola y alrededores.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

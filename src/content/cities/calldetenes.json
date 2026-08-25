@@ -10,11 +10,26 @@
   "metaDescription": "Taller BMW especializado junto a Calldetenes. Mantenimiento y reparación de todas las series BMW con diagnóstico profesional. Servicio rápido a las puertas de Vic.",
   "heroSubtitle": "Vives en Calldetenes y trabajas en Vic. Tu BMW necesita un taller tan práctico y eficiente como tu estilo de vida.",
   "trustChips": [
-    {"icon": "⏱️", "text": "A 5 min de Calldetenes"},
-    {"icon": "🔧", "text": "Solo BMW"},
-    {"icon": "🛡️", "text": "Garantía escrita"},
-    {"icon": "📱", "text": "Cita por WhatsApp"},
-    {"icon": "🚘", "text": "Todas las series BMW"}
+    {
+      "icon": "⏱️",
+      "text": "A 5 min de Calldetenes"
+    },
+    {
+      "icon": "🔧",
+      "text": "Solo BMW"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía escrita"
+    },
+    {
+      "icon": "📱",
+      "text": "Cita por WhatsApp"
+    },
+    {
+      "icon": "🚘",
+      "text": "Todas las series BMW"
+    }
   ],
   "introLocal": "Calldetenes es la antesala residencial de Vic. Situado al este de la capital de Osona, este municipio ha experimentado un crecimiento sostenido durante las últimas décadas, atrayendo a familias jóvenes y profesionales que buscan vivienda más asequible sin renunciar a la proximidad al centro urbano. Las urbanizaciones de casas adosadas y los pequeños bloques de pisos conviven con los campos que se extienden hacia el Ter, creando una frontera difusa entre lo urbano y lo rural que define el carácter de este pueblo en expansión. Calldetenes ha sabido conservar su identidad de pueblo mientras absorbía nuevos vecinos procedentes de Vic y de comarcas más alejadas, gente que descubrió aquí un equilibrio perfecto entre accesibilidad y tranquilidad.\n\nLos habitantes de Calldetenes viven en un ir y venir constante. A Vic para trabajar, al colegio, al supermercado, al médico, y de vuelta. Los fines de semana, las carreteras comarcales hacia Roda de Ter o Sant Julià de Vilatorta canalizan el ocio familiar. Este uso intensivo del coche, con trayectos cortos y frecuentes, es uno de los más exigentes para un motor BMW. Los arranques en frío repetidos, las paradas constantes y la falta de recorridos largos que permitan al motor alcanzar y mantener su temperatura óptima generan un desgaste particular en componentes como el sistema de inyección, la válvula EGR y el catalizador. A esto se suma el tráfico urbano de Vic, que en horas punta obliga a circular en primera y segunda marcha durante minutos seguidos, sobrecargando el embrague en los modelos manuales y elevando la temperatura del convertidor de par en los automáticos.\n\nA este patrón de uso se suman las condiciones climáticas de la Plana de Vic. Calldetenes comparte con sus vecinos la niebla invernal que cubre el valle durante semanas, la escarcha que congela el asfalto antes del amanecer y las tormentas estivales que descargan con violencia sobre la comarca. La alternancia entre mañanas heladas y mediodías tibios en invierno somete los circuitos de refrigeración y calefacción a ciclos exigentes, mientras que la humedad constante favorece la corrosión de elementos expuestos. Los BMW aparcados al aire libre en las urbanizaciones de Calldetenes amanecen cubiertos de rocío o escarcha casi a diario entre noviembre y marzo, y esa humedad penetra progresivamente en juntas, molduras y conectores eléctricos que no fueron diseñados para una exposición tan continuada.\n\nPara los propietarios de BMW en Calldetenes, la comodidad es clave. No quieren perder una mañana entera desplazándose a un concesionario lejano. Necesitan un taller cercano que ofrezca la misma calidad técnica sin la distancia ni los tiempos de espera. Un lugar donde dejar el coche a primera hora, ir caminando al trabajo y recogerlo por la tarde con todo resuelto. La proximidad del taller se convierte en un factor determinante cuando el mantenimiento debe encajar en una agenda apretada de trabajo, logística escolar y compromisos familiares.\n\nEso es exactamente lo que ofrecemos. Un taller especializado en BMW a minutos de Calldetenes, con diagnóstico avanzado, recambios originales y un equipo que conoce el uso real que hacéis del coche en esta zona. Sin desplazamientos innecesarios, sin esperas interminables y con la tranquilidad de saber que tu BMW está en manos de especialistas que entienden lo que significa conducir cada día entre Calldetenes y Vic, en verano y en plena boira invernal.",
   "servicesIntro": "Nuestro catálogo de servicios cubre todas las necesidades de mantenimiento y reparación de tu BMW, desde las revisiones periódicas programadas hasta intervenciones electrónicas y mecánicas complejas en cualquier modelo y motorización.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

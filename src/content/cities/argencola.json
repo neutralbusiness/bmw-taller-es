@@ -10,56 +10,177 @@
   "metaDescription": "Taller BMW para Argençola, Alta Anoia. Especialistas en desgaste por sequedad extrema y carreteras de frontera comarcal. Llama al 665 245 143.",
   "heroSubtitle": "Servicio BMW especializado en la frontera entre Anoia y Conca de Barberà. Protegemos tu vehículo del clima más seco de Barcelona.",
   "trustChips": [
-    {"icon": "🔧", "text": "Taller BMW de referencia"},
-    {"icon": "☀️", "text": "Clima árido controlado"},
-    {"icon": "🛡️", "text": "Protección anticorrosión"},
-    {"icon": "💻", "text": "Electrónica BMW avanzada"},
-    {"icon": "🏷️", "text": "Precios justos y claros"}
+    {
+      "icon": "🔧",
+      "text": "Taller BMW de referencia"
+    },
+    {
+      "icon": "☀️",
+      "text": "Clima árido controlado"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Protección anticorrosión"
+    },
+    {
+      "icon": "💻",
+      "text": "Electrónica BMW avanzada"
+    },
+    {
+      "icon": "🏷️",
+      "text": "Precios justos y claros"
+    }
   ],
   "introLocal": "Argençola ocupa una posición singular en la geografía catalana: en el extremo sur de la Anoia, fronterizo con la Conca de Barberà, donde la meseta cerealista se convierte en uno de los rincones más secos de la provincia de Barcelona. Con apenas 245 habitantes, este municipio encarna la ruralidad profunda de la Catalunya interior, y sus conductores de BMW necesitan un servicio técnico que comprenda las particularidades de este entorno.\n\nLa aridez del clima de Argençola tiene consecuencias directas sobre los vehículos. La sequedad ambiental reseca las gomas, juntas tóricas y manguitos de caucho con mayor rapidez que en zonas costeras o más húmedas. En un BMW, esto se traduce en fugas de refrigerante por juntas del termostato o de la bomba de agua, pérdidas de vacío en el colector de admisión y deterioro acelerado de los silentblocks de la suspensión. Nuestros técnicos revisan estos componentes con especial atención cuando atienden vehículos de la zona de Argençola.\n\nLa exposición solar intensa durante los meses de verano —con más de 10 horas de sol directo y temperaturas que pueden rebasar los 40 °C a la sombra— degrada los plásticos interiores, las juntas de los cristales y la pintura de la carrocería. Los BMW de color oscuro son especialmente vulnerables al efecto térmico sobre el salpicadero y la tapicería. Recomendamos tratamientos de protección solar específicos y revisiones del sistema de climatización antes de cada verano.\n\nLas carreteras que conectan Argençola con la red principal son estrechas, con firme irregular y en algunos tramos deteriorado. La BP-1034 y los caminos comarcales exigen a la dirección y la suspensión un trabajo continuo de corrección y absorción. Los BMW con dirección asistida eléctrica pueden desarrollar ruidos o dureza en el volante cuando los componentes de la columna se ven afectados por las vibraciones constantes del firme.\n\nEl parque BMW de la zona tiene un perfil muy reconocible: berlinas diésel de las Series 3 y 5 con muchos kilómetros a sus espaldas y SUV compactos elegidos por las familias de los núcleos dispersos del municipio —Albarells, Clariana, Porquerisses o el Contrast—. En hogares donde el BMW es el único vehículo, llevarlo al taller supone un problema logístico real. Por eso ofrecemos recogida y entrega concertadas: pasamos a buscar el coche por el núcleo o la masía donde se encuentre y lo devolvemos revisado y probado, sin que su propietario tenga que organizar acompañantes ni perder una mañana entera de trabajo.\n\nHay además un fenómeno propio de este clima que pocos conductores asocian con la aridez: la amplitud térmica entre el día y la noche, que en Argençola supera los 20 grados durante buena parte del año. Esa oscilación hace caer la presión de los neumáticos en las madrugadas frías y provoca avisos intermitentes del sistema TPMS que desaparecen a mediodía, sembrando la duda de si existe un pinchazo real. También fragiliza los depósitos de expansión y los racores de plástico del circuito de refrigeración, que acaban fisurándose sin previo aviso. En cada revisión comprobamos las presiones en frío, verificamos los sensores de cada rueda e inspeccionamos los plásticos del circuito para sustituirlos antes de que fallen en carretera.\n\nPara los propietarios de BMW que residen en Argençola, ofrecemos un servicio técnico completo sin la necesidad de atravesar media comarca. Diagnóstico preciso, reparación eficiente y la tranquilidad de saber que tu vehículo está preparado para las exigencias de este entorno único.",
   "servicesIntro": "Atendemos todas las necesidades mecánicas y electrónicas de tu BMW, desde revisiones de mantenimiento hasta reparaciones complejas, con especial enfoque en los efectos del clima árido y la conducción rural.",
   "processIntro": "Un proceso transparente y eficiente que respeta tu tiempo y te mantiene informado en cada paso.",
   "processSteps": [
-    {"title": "Primer contacto", "body": "Llámanos, envíanos un WhatsApp o un correo. Describenos el problema o la revisión que necesitas y agendamos tu cita."},
-    {"title": "Diagnóstico exhaustivo", "body": "Inspeccionamos el vehículo de forma visual y electrónica, prestando especial atención a los componentes afectados por el clima seco y las carreteras rurales."},
-    {"title": "Presupuesto transparente", "body": "Te entregamos un presupuesto desglosado con piezas y mano de obra. No hay letra pequeña."},
-    {"title": "Intervención técnica", "body": "Ejecutamos la reparación con materiales de calidad y siguiendo las especificaciones BMW para cada componente."},
-    {"title": "Entrega con garantía", "body": "Te devolvemos tu BMW revisado, probado y con la garantía escrita de nuestro trabajo."}
+    {
+      "title": "Primer contacto",
+      "body": "Llámanos, envíanos un WhatsApp o un correo. Describenos el problema o la revisión que necesitas y agendamos tu cita."
+    },
+    {
+      "title": "Diagnóstico exhaustivo",
+      "body": "Inspeccionamos el vehículo de forma visual y electrónica, prestando especial atención a los componentes afectados por el clima seco y las carreteras rurales."
+    },
+    {
+      "title": "Presupuesto transparente",
+      "body": "Te entregamos un presupuesto desglosado con piezas y mano de obra. No hay letra pequeña."
+    },
+    {
+      "title": "Intervención técnica",
+      "body": "Ejecutamos la reparación con materiales de calidad y siguiendo las especificaciones BMW para cada componente."
+    },
+    {
+      "title": "Entrega con garantía",
+      "body": "Te devolvemos tu BMW revisado, probado y con la garantía escrita de nuestro trabajo."
+    }
   ],
   "commonIssuesIntro": "El entorno árido y las condiciones viarias de Argençola provocan problemas específicos que conocemos bien y sabemos resolver.",
   "commonIssues": [
-    {"title": "Juntas y manguitos resecos por aridez", "body": "El caucho envejece más rápido en climas secos. Revisamos todas las juntas tóricas, manguitos de refrigeración y vacío, y sustituimos los que muestran signos de agrietamiento."},
-    {"title": "Dirección asistida eléctrica con ruidos", "body": "Las vibraciones continuas del firme irregular afectan a la columna de dirección. Diagnosticamos el origen del ruido y reparamos o sustituimos los componentes necesarios."},
-    {"title": "Degradación de pintura y plásticos por sol intenso", "body": "La radiación UV acelerada deteriora la pintura, los faros y los plásticos exteriores. Ofrecemos tratamientos de protección y restauración."},
-    {"title": "Climatización con bajo rendimiento", "body": "El sistema de aire acondicionado trabaja al límite durante meses. Recargamos gas, verificamos el compresor y limpiamos el evaporador para asegurar un rendimiento óptimo."},
-    {"title": "Fugas de refrigerante por termostato o bomba de agua", "body": "Las oscilaciones térmicas extremas entre día y noche fatigan las juntas del circuito de refrigeración. Detectamos y reparamos fugas antes de que provoquen un sobrecalentamiento."}
+    {
+      "title": "Juntas y manguitos resecos por aridez",
+      "body": "El caucho envejece más rápido en climas secos. Revisamos todas las juntas tóricas, manguitos de refrigeración y vacío, y sustituimos los que muestran signos de agrietamiento."
+    },
+    {
+      "title": "Dirección asistida eléctrica con ruidos",
+      "body": "Las vibraciones continuas del firme irregular afectan a la columna de dirección. Diagnosticamos el origen del ruido y reparamos o sustituimos los componentes necesarios."
+    },
+    {
+      "title": "Degradación de pintura y plásticos por sol intenso",
+      "body": "La radiación UV acelerada deteriora la pintura, los faros y los plásticos exteriores. Ofrecemos tratamientos de protección y restauración."
+    },
+    {
+      "title": "Climatización con bajo rendimiento",
+      "body": "El sistema de aire acondicionado trabaja al límite durante meses. Recargamos gas, verificamos el compresor y limpiamos el evaporador para asegurar un rendimiento óptimo."
+    },
+    {
+      "title": "Fugas de refrigerante por termostato o bomba de agua",
+      "body": "Las oscilaciones térmicas extremas entre día y noche fatigan las juntas del circuito de refrigeración. Detectamos y reparamos fugas antes de que provoquen un sobrecalentamiento."
+    }
   ],
   "whyUs": [
-    {"title": "Cercanía a Argençola", "body": "No necesitas conducir hasta Igualada ni mucho menos hasta Barcelona. Servicio BMW profesional a tu alcance."},
-    {"title": "Expertos en clima árido", "body": "Entendemos cómo la sequedad, el sol intenso y la amplitud térmica afectan a cada componente de tu BMW."},
-    {"title": "Diagnóstico de precisión", "body": "Equipos de diagnóstico capaces de leer todos los sistemas electrónicos BMW, igual que en el concesionario oficial."},
-    {"title": "Piezas de primera calidad", "body": "Solo montamos recambios originales BMW o equivalentes certificados que igualan o superan las especificaciones del fabricante."},
-    {"title": "Atención personalizada", "body": "Un taller de proximidad donde te conocemos a ti y a tu vehículo. Seguimiento real de tu historial de mantenimiento."}
+    {
+      "title": "Cercanía a Argençola",
+      "body": "No necesitas conducir hasta Igualada ni mucho menos hasta Barcelona. Servicio BMW profesional a tu alcance."
+    },
+    {
+      "title": "Expertos en clima árido",
+      "body": "Entendemos cómo la sequedad, el sol intenso y la amplitud térmica afectan a cada componente de tu BMW."
+    },
+    {
+      "title": "Diagnóstico de precisión",
+      "body": "Equipos de diagnóstico capaces de leer todos los sistemas electrónicos BMW, igual que en el concesionario oficial."
+    },
+    {
+      "title": "Piezas de primera calidad",
+      "body": "Solo montamos recambios originales BMW o equivalentes certificados que igualan o superan las especificaciones del fabricante."
+    },
+    {
+      "title": "Atención personalizada",
+      "body": "Un taller de proximidad donde te conocemos a ti y a tu vehículo. Seguimiento real de tu historial de mantenimiento."
+    }
   ],
   "testimonialsIntro": "Conductores de BMW de Argençola y los municipios fronterizos entre Anoia y Conca de Barberà comparten sus experiencias.",
   "testimonials": [
-    {"name": "Jordi N.", "neighborhood": "Argençola", "car": "BMW 335d E90", "body": "El motor perdía refrigerante sin señal visible de fuga. Era la junta del termostato, resecada por el clima. Arreglada rápido y sin sorpresas en el precio.", "rating": 5},
-    {"name": "Teresa H.", "neighborhood": "Porquerisses", "car": "BMW X3 G01", "body": "El aire acondicionado apenas enfriaba después del verano. Recarga de gas, limpieza del evaporador y ahora enfría como nuevo.", "rating": 5},
-    {"name": "Ramon Q.", "neighborhood": "Argençola", "car": "BMW 520d F10", "body": "La dirección hacía un ruido al girar que me preocupaba. Diagnóstico rápido: era la columna de dirección por las vibraciones del camino. Reparación impecable.", "rating": 4},
-    {"name": "Elisenda K.", "neighborhood": "Zona rural Argençola", "car": "BMW 216d F46", "body": "Vivo sola y el coche es mi herramienta de trabajo. Que haya un taller BMW de confianza a distancia razonable me da mucha seguridad.", "rating": 5}
+    {
+      "name": "Jordi N.",
+      "neighborhood": "Argençola",
+      "car": "BMW 335d E90",
+      "body": "El motor perdía refrigerante sin señal visible de fuga. Era la junta del termostato, resecada por el clima. Arreglada rápido y sin sorpresas en el precio.",
+      "rating": 5
+    },
+    {
+      "name": "Teresa H.",
+      "neighborhood": "Porquerisses",
+      "car": "BMW X3 G01",
+      "body": "El aire acondicionado apenas enfriaba después del verano. Recarga de gas, limpieza del evaporador y ahora enfría como nuevo.",
+      "rating": 5
+    },
+    {
+      "name": "Ramon Q.",
+      "neighborhood": "Argençola",
+      "car": "BMW 520d F10",
+      "body": "La dirección hacía un ruido al girar que me preocupaba. Diagnóstico rápido: era la columna de dirección por las vibraciones del camino. Reparación impecable.",
+      "rating": 4
+    },
+    {
+      "name": "Elisenda K.",
+      "neighborhood": "Zona rural Argençola",
+      "car": "BMW 216d F46",
+      "body": "Vivo sola y el coche es mi herramienta de trabajo. Que haya un taller BMW de confianza a distancia razonable me da mucha seguridad.",
+      "rating": 5
+    }
   ],
   "zoneText": "Atendemos a propietarios de BMW de Argençola y de la zona fronteriza entre la Anoia y la Conca de Barberà, incluyendo los municipios más aislados.",
-  "zoneNeighborhoods": ["Jorba", "Copons", "Bellprat", "Montmaneu", "Veciana", "Santa Coloma de Queralt", "Igualada"],
-  "zoneAccessRoutes": ["BP-1034 desde Igualada", "C-241 hacia Conca de Barberà", "Carreteras comarcales"],
+  "zoneNeighborhoods": [
+    "Jorba",
+    "Copons",
+    "Bellprat",
+    "Montmaneu",
+    "Veciana",
+    "Santa Coloma de Queralt",
+    "Igualada"
+  ],
+  "zoneAccessRoutes": [
+    "BP-1034 desde Igualada",
+    "C-241 hacia Conca de Barberà",
+    "Carreteras comarcales"
+  ],
   "faqLocal": [
-    {"q": "¿Hay servicio técnico BMW cercano a Argençola?", "a": "Sí. Nuestro taller BMW atiende a Argençola y la zona fronteriza Anoia-Conca de Barberà con diagnóstico profesional y reparaciones especializadas."},
-    {"q": "¿La sequedad del clima afecta a mi BMW?", "a": "Sí. La aridez reseca juntas de caucho, manguitos y silentblocks más rápido de lo normal. Recomendamos revisiones visuales anuales de estos componentes."},
-    {"q": "¿Es normal que el aire acondicionado de mi BMW pierda eficacia en verano?", "a": "En zonas con temperaturas extremas, el sistema de A/C trabaja al límite. Una recarga de gas y una limpieza del circuito antes del verano aseguran un rendimiento óptimo."},
-    {"q": "¿Hacéis también chapa y pintura BMW?", "a": "Nos especializamos en mecánica y electrónica. Para chapa y pintura, podemos recomendarte un centro de confianza y coordinamos los trabajos."},
-    {"q": "¿Cuánto tarda una reparación del circuito de refrigeración?", "a": "Depende de la pieza afectada. Un cambio de termostato o bomba de agua se completa normalmente en una jornada. Te confirmaremos el plazo con el presupuesto."},
-    {"q": "¿Atendéis BMW híbridos y eléctricos?", "a": "Sí. Contamos con la formación y los equipos necesarios para trabajar con los modelos BMW iPerformance e i-series de forma segura."}
+    {
+      "q": "¿Hay servicio técnico BMW cercano a Argençola?",
+      "a": "Sí. Nuestro taller BMW atiende a Argençola y la zona fronteriza Anoia-Conca de Barberà con diagnóstico profesional y reparaciones especializadas."
+    },
+    {
+      "q": "¿La sequedad del clima afecta a mi BMW?",
+      "a": "Sí. La aridez reseca juntas de caucho, manguitos y silentblocks más rápido de lo normal. Recomendamos revisiones visuales anuales de estos componentes."
+    },
+    {
+      "q": "¿Es normal que el aire acondicionado de mi BMW pierda eficacia en verano?",
+      "a": "En zonas con temperaturas extremas, el sistema de A/C trabaja al límite. Una recarga de gas y una limpieza del circuito antes del verano aseguran un rendimiento óptimo."
+    },
+    {
+      "q": "¿Hacéis también chapa y pintura BMW?",
+      "a": "Nos especializamos en mecánica y electrónica. Para chapa y pintura, podemos recomendarte un centro de confianza y coordinamos los trabajos."
+    },
+    {
+      "q": "¿Cuánto tarda una reparación del circuito de refrigeración?",
+      "a": "Depende de la pieza afectada. Un cambio de termostato o bomba de agua se completa normalmente en una jornada. Te confirmaremos el plazo con el presupuesto."
+    },
+    {
+      "q": "¿Atendéis BMW híbridos y eléctricos?",
+      "a": "Sí. Contamos con la formación y los equipos necesarios para trabajar con los modelos BMW iPerformance e i-series de forma segura."
+    }
   ],
   "closingHeadline": "Protege tu BMW del clima extremo de Argençola",
   "closingCta": "Contacta hoy para una revisión preventiva o una reparación. Te atendemos con profesionalidad y cercanía en el corazón de la Anoia sur.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }

@@ -10,12 +10,30 @@
   "metaDescription": "Taller BMW en Muntanyola, sur de Osona. Mantenimiento para commuters de la C-17, diagnóstico profesional y recogida a domicilio. Pide cita hoy.",
   "heroSubtitle": "A medio camino entre Vic y el Vallès, los commuters de Muntanyola necesitan un BMW impecable. Te lo garantizamos.",
   "trustChips": [
-    {"icon": "🛣️", "text": "Expertos en coches de autopista"},
-    {"icon": "🔍", "text": "Diagnóstico electrónico BMW"},
-    {"icon": "💰", "text": "Precios sin sorpresas"},
-    {"icon": "🚘", "text": "Recogida y entrega gratis"},
-    {"icon": "🏅", "text": "Calidad de concesionario"},
-    {"icon": "📞", "text": "Atención directa por WhatsApp"}
+    {
+      "icon": "🛣️",
+      "text": "Expertos en coches de autopista"
+    },
+    {
+      "icon": "🔍",
+      "text": "Diagnóstico electrónico BMW"
+    },
+    {
+      "icon": "💰",
+      "text": "Precios sin sorpresas"
+    },
+    {
+      "icon": "🚘",
+      "text": "Recogida y entrega gratis"
+    },
+    {
+      "icon": "🏅",
+      "text": "Calidad de concesionario"
+    },
+    {
+      "icon": "📞",
+      "text": "Atención directa por WhatsApp"
+    }
   ],
   "introLocal": "Muntanyola ocupa un balcón privilegiado en el sur de la comarca de Osona, un municipio elevado desde el que se contemplan panorámicas extraordinarias de la Plana de Vic hacia el norte y del macizo de Montserrat hacia el sur en los días despejados. Sus 600 habitantes viven repartidos entre el núcleo urbano y las masías dispersas por un territorio de suaves colinas, bosques de pinos y robles, y campos de cultivo que cambian de color con las estaciones. Es un lugar donde la calidad de vida rural se combina con la cercanía a Vic, a apenas quince minutos por carretera.\n\nEsta posición geográfica convierte a Muntanyola en un municipio de commuters. Buena parte de sus vecinos trabajan en Vic, Manlleu o incluso descienden por la C-17 hacia Centelles, el Vallès y Barcelona. Esto significa miles de kilómetros mensuales de autopista y carretera comarcal, con el desgaste que ello supone para el vehículo. Un BMW que acumula este ritmo de desplazamientos necesita un cuidado meticuloso: aceite que soporte ciclos largos de motor a revoluciones constantes, frenos que respondan tras horas de velocidad sostenida y una suspensión que absorba las imperfecciones del asfalto sin perder estabilidad.\n\nLa altitud de Muntanyola, cercana a los 700 metros sobre el nivel del mar, introduce variables climáticas que no afectan a las poblaciones del fondo del valle. Los inviernos son más fríos, las heladas llegan antes y se van después, y las nevadas ocasionales pueden dejar las carreteras de acceso al municipio en condiciones complicadas durante horas. Los BMW con tracción trasera son especialmente vulnerables en estas circunstancias si no montan neumáticos adecuados. Incluso los modelos xDrive necesitan un control periódico del sistema de tracción integral para garantizar su correcto funcionamiento cuando realmente se necesita.\n\nOtro factor que distingue la experiencia de conducción en Muntanyola es la pendiente de acceso. Las carreteras que suben desde la Plana de Vic hasta el altiplano del municipio incluyen rampas sostenidas que exigen un esfuerzo extra al motor y a la transmisión, especialmente con el coche cargado. Los modelos diésel BMW con doble turbo son particularmente eficientes en estas subidas, pero necesitan que el sistema de sobrealimentación esté en perfecto estado para evitar pérdidas de potencia o averías del turbo que pueden resultar muy costosas.\n\nNuestro taller está preparado para atender todas las necesidades mecánicas y electrónicas de los BMW de Muntanyola. Entendemos el patrón de uso de nuestros clientes — mucha autopista entre semana, carretera de montaña el fin de semana — y adaptamos los planes de mantenimiento a esta realidad. Además, ofrecemos recogida del vehículo a domicilio para que puedas seguir con tu rutina sin perder un día entero por llevar el coche al taller.",
   "servicesIntro": "Ofrecemos el catálogo completo de servicios BMW: revisiones con cambio de aceite y filtros, diagnóstico electrónico integral, reparación de motor y turbo, sustitución de kit de distribución, mantenimiento de frenos y suspensión, recarga de aire acondicionado, alineado y equilibrado, y pre-ITV. Todo con equipamiento profesional y piezas de calidad certificada.",
@@ -115,8 +133,22 @@
     }
   ],
   "zoneText": "Damos cobertura a todo el sur de Osona, incluyendo Muntanyola y las poblaciones vecinas del altiplano y del acceso desde la C-17. Recogemos y entregamos vehículos en un radio de 20 kilómetros sin coste adicional para nuestros clientes.",
-  "zoneNeighborhoods": ["Vic", "Tona", "Santa Eugènia de Berga", "Malla", "Santa Cecília de Voltregà", "Tavèrnoles", "Folgueroles", "Santa Eulàlia de Riuprimer"],
-  "zoneAccessRoutes": ["C-17", "BV-4316", "BV-4317", "BP-4341"],
+  "zoneNeighborhoods": [
+    "Vic",
+    "Tona",
+    "Santa Eugènia de Berga",
+    "Malla",
+    "Santa Cecília de Voltregà",
+    "Tavèrnoles",
+    "Folgueroles",
+    "Santa Eulàlia de Riuprimer"
+  ],
+  "zoneAccessRoutes": [
+    "C-17",
+    "BV-4316",
+    "BV-4317",
+    "BP-4341"
+  ],
   "faqLocal": [
     {
       "q": "¿Ofrecen servicio de recogida de BMW en Muntanyola?",
@@ -148,9 +180,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

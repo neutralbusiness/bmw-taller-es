@@ -10,11 +10,26 @@
   "metaDescription": "Servicio técnico especializado en BMW en Borredà, Berguedà. Diagnóstico avanzado, mantenimiento y reparación de todas las series BMW. Llámanos al 665 245 143.",
   "heroSubtitle": "Servicio técnico BMW de confianza en Borredà. Especialistas en diagnóstico y reparación para los exigentes caminos del Alt Berguedà.",
   "trustChips": [
-    {"icon": "🔧", "text": "Especialistas BMW"},
-    {"icon": "🏔️", "text": "Expertos en montaña"},
-    {"icon": "💻", "text": "Diagnóstico ISTA"},
-    {"icon": "🛡️", "text": "Garantía de servicio"},
-    {"icon": "🚗", "text": "Todas las series BMW"}
+    {
+      "icon": "🔧",
+      "text": "Especialistas BMW"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Expertos en montaña"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico ISTA"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía de servicio"
+    },
+    {
+      "icon": "🚗",
+      "text": "Todas las series BMW"
+    }
   ],
   "introLocal": "Borredà es un pequeño municipio del Berguedà situado a más de 800 metros de altitud, enclavado en un valle boscoso entre las sierras prepirenaicas de la provincia de Barcelona. Con apenas 594 habitantes, esta localidad conserva un carácter rural profundamente ligado a la explotación forestal, la ganadería y el turismo de naturaleza. Su posición entre Berga y Ripoll, en la vertiente sur de los Pirineos orientales, convierte a Borredà en un punto de paso habitual para quienes transitan entre el Berguedà y el Ripollès por carreteras de montaña sinuosas y exigentes.\n\nLa red viaria que conecta Borredà con el exterior se compone principalmente de carreteras comarcales estrechas, con curvas cerradas, desniveles pronunciados y tramos donde la vegetación invade los arcenes. La BV-4341 y los accesos desde la C-26 obligan a los vehículos a trabajar constantemente con cambios de marcha, frenadas intensas en las bajadas y aceleraciones en las cuestas. Para un BMW, estas condiciones suponen un desgaste acelerado de frenos, embrague y suspensión, especialmente en los modelos con tracción trasera que requieren un ajuste preciso para mantener la estabilidad en firmes irregulares.\n\nEl clima de Borredà es típicamente prepirenaico, con inviernos fríos y prolongados en los que las heladas nocturnas son frecuentes desde noviembre hasta marzo. Las temperaturas bajo cero provocan condensación en los sistemas electrónicos, pueden afectar a las baterías y exigen que el anticongelante y los líquidos de freno estén siempre en condiciones óptimas. La sal y la gravilla que se esparcen ocasionalmente en los tramos más expuestos a las heladas también contribuyen a la corrosión de los bajos del vehículo. En verano, las temperaturas diurnas pueden ser elevadas en los fondos de valle, generando un contraste térmico que somete a los materiales a ciclos de expansión y contracción. La humedad del bosque circundante, alimentada por los numerosos torrentes que descienden de las sierras, favorece además la aparición de óxido en componentes metálicos poco protegidos y el deterioro de las juntas de goma de puertas y ventanillas.\n\nLa actividad forestal que caracteriza a Borredà implica que muchos vecinos utilizan sus vehículos para acceder a fincas, pistas forestales y caminos sin asfaltar. La tala y el transporte de madera generan un tráfico de camiones pesados que deteriora el firme de las carreteras secundarias, dejando roderas y socavones que castigan la suspensión de los turismos. Un BMW que circula habitualmente por estos entornos acumula polvo, barro y piedras en los bajos, lo que puede dañar protectores de carter, manguitos y juntas de la transmisión. Los neumáticos sufren pinchazos con mayor frecuencia y la alineación se desajusta por los baches constantes. Disponer de un servicio técnico que conozca estas particularidades es esencial para mantener la fiabilidad del vehículo y evitar reparaciones costosas derivadas de un mantenimiento genérico que no tiene en cuenta el uso real en entornos forestales de montaña.\n\nEl relativo aislamiento de Borredà respecto a los grandes núcleos urbanos hace que cualquier avería represente un problema logístico importante. La distancia hasta Berga supera los 20 kilómetros por carretera de montaña, y hasta Manresa o Barcelona el trayecto se alarga considerablemente. Para los propietarios de BMW en Borredà, contar con un servicio técnico especializado que pueda desplazarse o coordinar la recogida del vehículo supone una tranquilidad imprescindible. Nuestro compromiso es ofrecer ese respaldo técnico con la misma calidad que un concesionario oficial, adaptado a la realidad de la vida en el Prepirineo.",
   "servicesIntro": "Ofrecemos un servicio técnico integral para todas las series y modelos BMW en Borredà y el Alt Berguedà. Desde revisiones de mantenimiento programado hasta reparaciones complejas de motor, caja de cambios y electrónica, nuestro equipo trabaja con herramientas de diagnóstico homologadas y recambios de calidad OEM para garantizar el rendimiento óptimo de su vehículo en las exigentes condiciones de montaña.",
@@ -163,9 +178,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

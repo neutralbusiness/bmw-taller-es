@@ -10,11 +10,26 @@
   "metaDescription": "Servicio técnico BMW en Perafita. Diagnóstico profesional, mantenimiento preventivo y reparación integral para tu BMW en pleno altiplano del Lluçanès.",
   "heroSubtitle": "Tu BMW merece atención experta sin bajar del altiplano. Servicio profesional alemán en Perafita, a tu alcance.",
   "trustChips": [
-    {"icon": "🔧", "text": "Mecánica BMW especializada"},
-    {"icon": "🏔️", "text": "Servicio en alta montaña"},
-    {"icon": "📍", "text": "Cobertura comarca Lluçanès"},
-    {"icon": "⚙️", "text": "Diagnosis electrónica original"},
-    {"icon": "🛡️", "text": "Garantía en cada intervención"}
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW especializada"
+    },
+    {
+      "icon": "🏔️",
+      "text": "Servicio en alta montaña"
+    },
+    {
+      "icon": "📍",
+      "text": "Cobertura comarca Lluçanès"
+    },
+    {
+      "icon": "⚙️",
+      "text": "Diagnosis electrónica original"
+    },
+    {
+      "icon": "🛡️",
+      "text": "Garantía en cada intervención"
+    }
   ],
   "introLocal": "Perafita, enclavada en el corazón del altiplano del Lluçanès a más de 750 metros de altitud, es un municipio donde la vida transcurre entre masías dispersas, campos de cereal y bosques de roble que cambian de color con cada estación. Con apenas cuatrocientos habitantes, esta población cercana a Olost mantiene un carácter profundamente rural que define tanto su paisaje como las necesidades de movilidad de sus vecinos.\n\nConducir un BMW por las carreteras que conectan Perafita con el resto de la comarca implica enfrentarse a un terreno exigente. La BV-4601 hacia Olost y la BV-4406 en dirección a Prats de Lluçanès presentan curvas cerradas, pendientes pronunciadas y un firme que sufre los rigores del invierno con heladas frecuentes entre noviembre y marzo. Las temperaturas bajo cero, habituales durante semanas enteras, someten a los sistemas de refrigeración, baterías y neumáticos a un estrés continuado que acorta su vida útil si no se realiza un mantenimiento preventivo adecuado.\n\nLos propietarios de BMW en Perafita conocen bien la paradoja de poseer un vehículo de altas prestaciones en un entorno donde el taller más cercano con equipamiento especializado puede estar a cuarenta o cincuenta kilómetros. Desplazarse hasta Vic o Manresa para una revisión rutinaria supone perder media jornada, algo especialmente costoso para quienes trabajan en explotaciones agrícolas o ganaderas donde cada hora cuenta. Nuestro servicio técnico resuelve esta ecuación acercando la tecnología de diagnóstico BMW directamente a la comarca.\n\nEl entorno natural de Perafita, con sus caminos rurales que conectan masías como Can Gallifa o Cal Sastre con la carretera principal, también impone un desgaste particular en los vehículos. Los tramos sin asfaltar, los pasos por torrentes secos en verano y los charcos helados en invierno afectan a la suspensión, los bajos del vehículo y el sistema de tracción. Un BMW X3 o X5 utilizado para acceder a fincas rústicas necesita revisiones de suspensión y protección anticorrosión con mayor frecuencia que el mismo modelo circulando por autopista.\n\nDesde nuestro servicio, atendemos a conductores de Perafita con un enfoque preventivo adaptado a la realidad de la montaña. Programamos revisiones estacionales que preparan el vehículo para el frío extremo del invierno lluçanès o para las altas temperaturas del verano en el altiplano, donde el termómetro puede superar los 35 grados provocando sobrecalentamientos en motores que ya trabajan con el aire menos denso de la altitud. Cada intervención se documenta digitalmente y se realiza con recambios originales o equivalentes homologados, garantizando que tu BMW conserve su rendimiento y su valor de reventa.\n\nPara los vecinos de Perafita, contar con un taller BMW de referencia sin salir del Lluçanès significa tranquilidad. Significa saber que ante un testigo de avería encendido o un ruido sospechoso en la dirección, la solución está cerca y no requiere organizar una expedición hasta la capital de comarca. Nuestro compromiso es ofrecer exactamente la misma calidad técnica que encontrarías en un servicio oficial, pero con la cercanía y la flexibilidad que la vida en el altiplano demanda.\n\nAdemás, Perafita y su entorno inmediato experimentan un fenómeno meteorológico particular: las inversiones térmicas del Lluçanès, que atrapan la humedad en el fondo del altiplano durante días enteros. Esta niebla persistente provoca condensación en los componentes eléctricos del vehículo, un problema que los talleres urbanos rara vez contemplan en sus protocolos pero que nosotros incluimos como revisión estándar en cada mantenimiento periódico.",
   "servicesIntro": "Ofrecemos una gama completa de servicios técnicos para todas las series BMW, desde el mantenimiento programado hasta reparaciones complejas de motor, caja de cambios y electrónica, adaptados a las condiciones de uso en el entorno montañoso del Lluçanès.",
@@ -160,9 +175,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34665245143",
-    "phoneDisplay": "665 245 143",
-    "whatsapp": "+34665245143",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
     "email": "info@bmw-taller.es"
   }
 }

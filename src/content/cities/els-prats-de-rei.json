@@ -10,56 +10,177 @@
   "metaDescription": "Taller BMW especializado para els Prats de Rei y Alta Anoia. Reparaciones adaptadas al altiplano agrícola y clima continental. Llama al 665 245 143.",
   "heroSubtitle": "Servicio técnico BMW de confianza en el altiplano de la Alta Anoia. Cuidamos tu vehículo con conocimiento local.",
   "trustChips": [
-    {"icon": "🔧", "text": "Mecánica BMW especializada"},
-    {"icon": "🌾", "text": "Experiencia entorno agrícola"},
-    {"icon": "❄️", "text": "Preparación para heladas"},
-    {"icon": "💻", "text": "Diagnóstico electrónico"},
-    {"icon": "🚗", "text": "Todas las series BMW"}
+    {
+      "icon": "🔧",
+      "text": "Mecánica BMW especializada"
+    },
+    {
+      "icon": "🌾",
+      "text": "Experiencia entorno agrícola"
+    },
+    {
+      "icon": "❄️",
+      "text": "Preparación para heladas"
+    },
+    {
+      "icon": "💻",
+      "text": "Diagnóstico electrónico"
+    },
+    {
+      "icon": "🚗",
+      "text": "Todas las series BMW"
+    }
   ],
   "introLocal": "Els Prats de Rei se alza en el altiplano de la Alta Anoia, una zona de carácter marcadamente agrícola donde los vehículos BMW conviven con pistas rurales, caminos sin asfaltar y unas condiciones climáticas que ponen a prueba cada componente mecánico. Este pequeño municipio de poco más de 500 habitantes depende del vehículo privado para cualquier desplazamiento, lo que convierte el mantenimiento preventivo en una necesidad, no un lujo.\n\nEl altiplano anoiense presenta una amplitud térmica anual que supera los 40 grados: inviernos con heladas frecuentes que pueden prolongarse de noviembre a marzo, y veranos secos donde la temperatura sobrepasa los 35 °C con facilidad. Para un BMW, esto significa ciclos constantes de dilatación y contracción en juntas, manguitos y componentes plásticos del motor, acelerando su envejecimiento. Los modelos con motor diésel sufren especialmente en arranques fríos, donde el sistema de precalentamiento y los calentadores deben funcionar a la perfección.\n\nLa circulación por caminos rurales y carreteras secundarias sin arcén genera un impacto acumulativo en la suspensión. Los BMW equipados con suspensión adaptativa o neumática son especialmente sensibles a los baches y las irregularidades del firme que caracterizan las vías comarcales del entorno de Prats de Rei. Nuestros técnicos están habituados a diagnosticar y reparar estos sistemas con las herramientas y los protocolos adecuados.\n\nEl polvo de cereal y tierra que levanta la maquinaria agrícola durante los meses de siega y cosecha se infiltra en los filtros de aire y obstruye los intercoolers de los motores turbo BMW. Un filtro de aire colmatado reduce la potencia y aumenta el consumo, mientras que un intercooler sucio provoca temperaturas de admisión excesivas. Recomendamos a los propietarios de BMW en Prats de Rei una revisión específica del sistema de admisión tras la temporada de cosecha.\n\nEl invierno del altiplano merece una mención aparte. Las placas de hielo se forman en los tramos de umbría de las carreteras que rodean Prats de Rei y persisten cuando el resto del asfalto ya está seco, un peligro traicionero para quien se fía solo del termómetro del coche. Recomendamos neumáticos de invierno o all-season de calidad entre noviembre y marzo, y a los propietarios de BMW con tracción total les recordamos dos cuidados propios del sistema: el aceite de la caja de transferencia conviene sustituirlo según el uso real, y los cuatro neumáticos deben mantener un desgaste uniforme, porque diferencias notables de diámetro entre ejes sobrecargan la transmisión.\n\nLos desplazamientos cotidianos también dejan huella. Buena parte de los trayectos desde Prats de Rei son cortos —a Calaf para servicios y mercado, a los núcleos vecinos por gestiones— y en invierno el motor apenas alcanza su temperatura de servicio antes de detenerse de nuevo. En estos ciclos, el vapor de agua condensa en el interior del motor y forma la característica emulsión blanquecina bajo el tapón de llenado de aceite, algo que alarma a muchos conductores. Sabemos distinguir cuándo se trata de condensación inofensiva y cuándo apunta a un problema de junta de culata, y proponemos pautas sencillas —como un trayecto largo semanal— que mantienen el motor sano pese a ese perfil de uso.\n\nNuestro compromiso con los conductores de BMW de la Alta Anoia es ofrecer un servicio técnico profesional sin que tengan que recorrer los más de 30 kilómetros que les separan de Igualada o los 80 hasta Barcelona. Diagnóstico preciso, reparación eficaz y un trato personal que solo un taller de proximidad puede garantizar.",
   "servicesIntro": "Cubrimos todas las necesidades de tu BMW: desde el cambio de aceite y filtros hasta reparaciones de motor, caja de cambios, suspensión y electrónica, con especial atención a los efectos del entorno agrícola y el clima continental.",
   "processIntro": "Trabajamos con un método estructurado que asegura transparencia y eficacia en cada intervención sobre tu BMW.",
   "processSteps": [
-    {"title": "Recepción del vehículo", "body": "Puedes traer tu BMW o coordinamos la recogida. Anotamos tus síntomas y el historial de mantenimiento."},
-    {"title": "Inspección y diagnóstico", "body": "Realizamos una inspección visual y electrónica completa con equipos específicos BMW para identificar todas las anomalías."},
-    {"title": "Propuesta técnica y presupuesto", "body": "Te explicamos las averías detectadas y te entregamos un presupuesto detallado para tu aprobación."},
-    {"title": "Ejecución de la reparación", "body": "Intervenimos con recambios de calidad y siguiendo las especificaciones técnicas de BMW para cada operación."},
-    {"title": "Control de calidad y entrega", "body": "Verificamos el resultado, hacemos una prueba dinámica y te entregamos el vehículo con el informe completo."}
+    {
+      "title": "Recepción del vehículo",
+      "body": "Puedes traer tu BMW o coordinamos la recogida. Anotamos tus síntomas y el historial de mantenimiento."
+    },
+    {
+      "title": "Inspección y diagnóstico",
+      "body": "Realizamos una inspección visual y electrónica completa con equipos específicos BMW para identificar todas las anomalías."
+    },
+    {
+      "title": "Propuesta técnica y presupuesto",
+      "body": "Te explicamos las averías detectadas y te entregamos un presupuesto detallado para tu aprobación."
+    },
+    {
+      "title": "Ejecución de la reparación",
+      "body": "Intervenimos con recambios de calidad y siguiendo las especificaciones técnicas de BMW para cada operación."
+    },
+    {
+      "title": "Control de calidad y entrega",
+      "body": "Verificamos el resultado, hacemos una prueba dinámica y te entregamos el vehículo con el informe completo."
+    }
   ],
   "commonIssuesIntro": "Los BMW que operan en el entorno rural de la Alta Anoia desarrollan problemas específicos ligados al tipo de vías, al polvo agrícola y a las oscilaciones térmicas extremas.",
   "commonIssues": [
-    {"title": "Suspensión castigada por caminos rurales", "body": "Amortiguadores, silentblocks y rótulas sufren un desgaste acelerado por las irregularidades de las carreteras comarcales. Diagnosticamos holguras y sustituimos los componentes afectados."},
-    {"title": "Filtros de aire obstruidos por polvo de cosecha", "body": "El polvo fino de cereal y tierra se acumula en el filtro de aire mucho antes del intervalo previsto por BMW. Recomendamos revisiones adicionales tras la campaña agrícola."},
-    {"title": "Calentadores diésel defectuosos", "body": "Los arranques a temperaturas bajo cero exigen que los calentadores funcionen correctamente. Un calentador fallido provoca humo blanco, dificultad de arranque y mayor contaminación."},
-    {"title": "Corrosión en bajos por sal y humedad invernal", "body": "La humedad y las heladas provocan condensación y posible sal en las carreteras, atacando los bajos del vehículo. Inspeccionamos y tratamos las zonas vulnerables."},
-    {"title": "Desgaste irregular de neumáticos", "body": "La alternancia entre asfalto y pistas de tierra provoca un desgaste desigual que compromete la adherencia. Realizamos alineación y equilibrado con equipos de precisión."}
+    {
+      "title": "Suspensión castigada por caminos rurales",
+      "body": "Amortiguadores, silentblocks y rótulas sufren un desgaste acelerado por las irregularidades de las carreteras comarcales. Diagnosticamos holguras y sustituimos los componentes afectados."
+    },
+    {
+      "title": "Filtros de aire obstruidos por polvo de cosecha",
+      "body": "El polvo fino de cereal y tierra se acumula en el filtro de aire mucho antes del intervalo previsto por BMW. Recomendamos revisiones adicionales tras la campaña agrícola."
+    },
+    {
+      "title": "Calentadores diésel defectuosos",
+      "body": "Los arranques a temperaturas bajo cero exigen que los calentadores funcionen correctamente. Un calentador fallido provoca humo blanco, dificultad de arranque y mayor contaminación."
+    },
+    {
+      "title": "Corrosión en bajos por sal y humedad invernal",
+      "body": "La humedad y las heladas provocan condensación y posible sal en las carreteras, atacando los bajos del vehículo. Inspeccionamos y tratamos las zonas vulnerables."
+    },
+    {
+      "title": "Desgaste irregular de neumáticos",
+      "body": "La alternancia entre asfalto y pistas de tierra provoca un desgaste desigual que compromete la adherencia. Realizamos alineación y equilibrado con equipos de precisión."
+    }
   ],
   "whyUs": [
-    {"title": "Servicio sin desplazamientos largos", "body": "No necesitas conducir hasta Igualada o Barcelona. Te ofrecemos atención BMW profesional mucho más cerca de Prats de Rei."},
-    {"title": "Conocimiento del terreno local", "body": "Sabemos cómo afectan los caminos rurales, el polvo agrícola y el clima de altiplano a los vehículos BMW de la zona."},
-    {"title": "Equipamiento de diagnóstico profesional", "body": "Leemos todos los módulos electrónicos de tu BMW con tecnología equivalente a la del servicio oficial."},
-    {"title": "Flexibilidad horaria", "body": "Nos adaptamos a tus horarios para que el mantenimiento de tu BMW no interfiera con tu actividad."},
-    {"title": "Garantía en cada reparación", "body": "Todas nuestras intervenciones incluyen garantía en piezas y mano de obra para tu tranquilidad."}
+    {
+      "title": "Servicio sin desplazamientos largos",
+      "body": "No necesitas conducir hasta Igualada o Barcelona. Te ofrecemos atención BMW profesional mucho más cerca de Prats de Rei."
+    },
+    {
+      "title": "Conocimiento del terreno local",
+      "body": "Sabemos cómo afectan los caminos rurales, el polvo agrícola y el clima de altiplano a los vehículos BMW de la zona."
+    },
+    {
+      "title": "Equipamiento de diagnóstico profesional",
+      "body": "Leemos todos los módulos electrónicos de tu BMW con tecnología equivalente a la del servicio oficial."
+    },
+    {
+      "title": "Flexibilidad horaria",
+      "body": "Nos adaptamos a tus horarios para que el mantenimiento de tu BMW no interfiera con tu actividad."
+    },
+    {
+      "title": "Garantía en cada reparación",
+      "body": "Todas nuestras intervenciones incluyen garantía en piezas y mano de obra para tu tranquilidad."
+    }
   ],
   "testimonialsIntro": "Conductores de BMW de els Prats de Rei y la Alta Anoia confían en nuestro taller para el cuidado de sus vehículos.",
   "testimonials": [
-    {"name": "Joan A.", "neighborhood": "Prats de Rei centre", "car": "BMW 330d E90", "body": "El diésel no arrancaba bien en las mañanas frías de enero. Me cambiaron dos calentadores y ahora arranca al instante incluso con escarcha.", "rating": 5},
-    {"name": "Neus V.", "neighborhood": "Mas de Prats", "car": "BMW X3 F25", "body": "Con tantos caminos de tierra, la suspensión estaba destrozada. Me hicieron un presupuesto claro y la diferencia se nota desde el primer kilómetro.", "rating": 5},
-    {"name": "Àlex T.", "neighborhood": "Els Prats de Rei", "car": "BMW 116d F20", "body": "El filtro de aire estaba negro de polvo en solo 10.000 km. Ahora hago revisiones más frecuentes y el motor responde mucho mejor.", "rating": 4},
-    {"name": "Carme S.", "neighborhood": "Alta Anoia", "car": "BMW 218d Gran Tourer", "body": "Tener un taller especializado BMW sin tener que bajar a Igualada es una tranquilidad enorme para los que vivimos aquí arriba.", "rating": 5}
+    {
+      "name": "Joan A.",
+      "neighborhood": "Prats de Rei centre",
+      "car": "BMW 330d E90",
+      "body": "El diésel no arrancaba bien en las mañanas frías de enero. Me cambiaron dos calentadores y ahora arranca al instante incluso con escarcha.",
+      "rating": 5
+    },
+    {
+      "name": "Neus V.",
+      "neighborhood": "Mas de Prats",
+      "car": "BMW X3 F25",
+      "body": "Con tantos caminos de tierra, la suspensión estaba destrozada. Me hicieron un presupuesto claro y la diferencia se nota desde el primer kilómetro.",
+      "rating": 5
+    },
+    {
+      "name": "Àlex T.",
+      "neighborhood": "Els Prats de Rei",
+      "car": "BMW 116d F20",
+      "body": "El filtro de aire estaba negro de polvo en solo 10.000 km. Ahora hago revisiones más frecuentes y el motor responde mucho mejor.",
+      "rating": 4
+    },
+    {
+      "name": "Carme S.",
+      "neighborhood": "Alta Anoia",
+      "car": "BMW 218d Gran Tourer",
+      "body": "Tener un taller especializado BMW sin tener que bajar a Igualada es una tranquilidad enorme para los que vivimos aquí arriba.",
+      "rating": 5
+    }
   ],
   "zoneText": "Atendemos a propietarios de BMW en els Prats de Rei y todos los municipios del altiplano de la Alta Anoia, incluyendo las zonas más rurales y dispersas.",
-  "zoneNeighborhoods": ["Calaf", "Sant Martí Sesgueioles", "Pujalt", "Calonge de Segarra", "Copons", "Veciana", "Aguilar de Segarra"],
-  "zoneAccessRoutes": ["C-1412a desde Calaf", "BV-1031 hacia Igualada", "Carreteras comarcales del altiplano"],
+  "zoneNeighborhoods": [
+    "Calaf",
+    "Sant Martí Sesgueioles",
+    "Pujalt",
+    "Calonge de Segarra",
+    "Copons",
+    "Veciana",
+    "Aguilar de Segarra"
+  ],
+  "zoneAccessRoutes": [
+    "C-1412a desde Calaf",
+    "BV-1031 hacia Igualada",
+    "Carreteras comarcales del altiplano"
+  ],
   "faqLocal": [
-    {"q": "¿Hay taller BMW cerca de els Prats de Rei?", "a": "Sí. Nuestro taller BMW especializado da servicio a Prats de Rei y toda la Alta Anoia, evitándote desplazamientos largos hasta Igualada o Barcelona."},
-    {"q": "¿El polvo agrícola puede dañar mi BMW?", "a": "Sí. Las partículas finas de cereal y tierra obstruyen los filtros de aire e intercoolers antes de lo previsto. Recomendamos revisiones adicionales tras la temporada de cosecha."},
-    {"q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos rurales?", "a": "Con uso frecuente en pistas y caminos sin asfaltar, recomendamos una revisión de suspensión cada 20.000 km o anualmente, en lugar de los 40.000 km habituales."},
-    {"q": "¿Qué aceite necesita mi BMW en una zona con heladas frecuentes?", "a": "Utilizamos aceites BMW Longlife con viscosidad adecuada para arranques en frío extremo, como 0W-30 o 5W-30, según las especificaciones de cada motor."},
-    {"q": "¿Podéis recoger mi BMW en Prats de Rei?", "a": "Sí, podemos coordinar la recogida y entrega de tu vehículo para que no tengas que desplazarte. Consúltanos disponibilidad."},
-    {"q": "¿Trabajáis con todas las series BMW?", "a": "Sí. Atendemos desde la Serie 1 hasta X5/X7, incluyendo modelos diésel, gasolina e híbridos. Contacta con nosotros indicando tu modelo."}
+    {
+      "q": "¿Hay taller BMW cerca de els Prats de Rei?",
+      "a": "Sí. Nuestro taller BMW especializado da servicio a Prats de Rei y toda la Alta Anoia, evitándote desplazamientos largos hasta Igualada o Barcelona."
+    },
+    {
+      "q": "¿El polvo agrícola puede dañar mi BMW?",
+      "a": "Sí. Las partículas finas de cereal y tierra obstruyen los filtros de aire e intercoolers antes de lo previsto. Recomendamos revisiones adicionales tras la temporada de cosecha."
+    },
+    {
+      "q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos rurales?",
+      "a": "Con uso frecuente en pistas y caminos sin asfaltar, recomendamos una revisión de suspensión cada 20.000 km o anualmente, en lugar de los 40.000 km habituales."
+    },
+    {
+      "q": "¿Qué aceite necesita mi BMW en una zona con heladas frecuentes?",
+      "a": "Utilizamos aceites BMW Longlife con viscosidad adecuada para arranques en frío extremo, como 0W-30 o 5W-30, según las especificaciones de cada motor."
+    },
+    {
+      "q": "¿Podéis recoger mi BMW en Prats de Rei?",
+      "a": "Sí, podemos coordinar la recogida y entrega de tu vehículo para que no tengas que desplazarte. Consúltanos disponibilidad."
+    },
+    {
+      "q": "¿Trabajáis con todas las series BMW?",
+      "a": "Sí. Atendemos desde la Serie 1 hasta X5/X7, incluyendo modelos diésel, gasolina e híbridos. Contacta con nosotros indicando tu modelo."
+    }
   ],
   "closingHeadline": "Cuidamos tu BMW en el corazón de la Alta Anoia",
   "closingCta": "Contacta hoy para programar una revisión o reparación de tu BMW en els Prats de Rei. Presupuesto sin compromiso y atención personalizada.",
-  "tenant": {"active": true, "businessName": "BMW Taller", "phone": "+34665245143", "phoneDisplay": "665 245 143", "whatsapp": "+34665245143", "email": "info@bmw-taller.es"}
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34641161771",
+    "phoneDisplay": "641 161 771",
+    "whatsapp": "+34641161771",
+    "email": "info@bmw-taller.es"
+  }
 }
