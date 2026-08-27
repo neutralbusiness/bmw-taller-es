@@ -133,10 +133,11 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34641161771",
-    "phoneDisplay": "641 161 771",
-    "whatsapp": "34641161771",
-    "email": "info@bmw-taller.es"
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
   },
   "testimonialsIntro": "Opiniones de vecinos de Redueña.",
   "testimonials": [
