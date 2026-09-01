@@ -19,9 +19,25 @@ export const GET: APIRoute = () => {
 
   const urls = [
     { loc: `${base}/`, changefreq: "weekly", priority: "1.0" },
+    { loc: `${base}/servicios/`, changefreq: "monthly", priority: "0.9" },
+    { loc: `${base}/servicios/mecanica-general-bmw/`, changefreq: "monthly", priority: "0.8" },
+    { loc: `${base}/servicios/diagnosis-electronica-bmw/`, changefreq: "monthly", priority: "0.8" },
+    { loc: `${base}/servicios/mantenimiento-revisiones-bmw/`, changefreq: "monthly", priority: "0.8" },
+    { loc: `${base}/servicios/chapa-y-pintura-bmw/`, changefreq: "monthly", priority: "0.8" },
+    { loc: `${base}/talleres/`, changefreq: "monthly", priority: "0.9" },
+    { loc: `${base}/taller-bmw-madrid/`, changefreq: "monthly", priority: "0.9" },
+    { loc: `${base}/taller-bmw-barcelona/`, changefreq: "monthly", priority: "0.9" },
+    { loc: `${base}/motores-bmw/`, changefreq: "monthly", priority: "0.8" },
+    { loc: `${base}/motores-bmw/cadena-distribucion-n47-n57/`, changefreq: "monthly", priority: "0.7" },
+    { loc: `${base}/glosario-bmw/`, changefreq: "monthly", priority: "0.6" },
+    { loc: `${base}/preguntas-frecuentes/`, changefreq: "monthly", priority: "0.7" },
+    { loc: `${base}/blog/`, changefreq: "weekly", priority: "0.7" },
+    { loc: `${base}/sobre-nosotros/`, changefreq: "monthly", priority: "0.6" },
+    { loc: `${base}/mapa-del-sitio/`, changefreq: "monthly", priority: "0.4" },
     { loc: `${base}/zonas/`, changefreq: "weekly", priority: "0.9" },
     { loc: `${base}/aviso-legal/`, changefreq: "yearly", priority: "0.3" },
     { loc: `${base}/privacidad/`, changefreq: "yearly", priority: "0.3" },
+    { loc: `${base}/cookies/`, changefreq: "yearly", priority: "0.3" },
   ];
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>

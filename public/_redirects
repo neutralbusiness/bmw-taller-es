@@ -2,3 +2,67 @@
 # El indice real de esta web es /sitemap-index.xml. Se redirige /sitemap.xml
 # porque hay herramientas y enlaces que asumen la ruta clasica.
 /sitemap.xml  /sitemap-index.xml  301
+
+# Redirecciones de la web WordPress anterior · Cloudflare Pages
+
+# Feeds RSS
+/feed                     /                                        301
+/feed/*                   /                                        301
+/comments/feed/*          /                                        301
+/*/feed/*                 /                                        301
+/rss                      /                                        301
+/rss/*                    /                                        301
+/atom.xml                 /                                        301
+
+# Rutas internas de WordPress
+/wp-content/*             /                                        301
+/wp-includes/*            /                                        301
+/wp-json/*                /                                        301
+/wp-admin                 /                                        301
+/wp-admin/*               /                                        301
+/wp-login.php             /                                        301
+/xmlrpc.php               /                                        301
+/wp-cron.php              /                                        301
+/author/*                 /sobre-nosotros/                         301
+
+# Taxonomías, paginación y archivos por fecha
+/category/*               /blog/                                   301
+/tag/*                    /blog/                                   301
+/archivos/*               /blog/                                   301
+/20*/*                    /blog/                                   301
+/page/*                   /                                        301
+/blog/page/*              /blog/                                   301
+
+# Rutas antiguas de servicio
+/servicios                /servicios/                              301
+/mecanica                 /servicios/mecanica-general-bmw/         301
+/mecanica-general         /servicios/mecanica-general-bmw/         301
+/diagnosis                /servicios/diagnosis-electronica-bmw/    301
+/electronica              /servicios/diagnosis-electronica-bmw/    301
+/mantenimiento            /servicios/mantenimiento-revisiones-bmw/ 301
+/revisiones               /servicios/mantenimiento-revisiones-bmw/ 301
+/chapa-y-pintura          /servicios/chapa-y-pintura-bmw/          301
+/chapa                    /servicios/chapa-y-pintura-bmw/          301
+/contacto                 /talleres/                               301
+/contacto/*               /talleres/                               301
+/donde-estamos            /talleres/                               301
+/taller-madrid            /talleres/#madrid                        301
+/taller-barcelona         /talleres/#barcelona                     301
+/quienes-somos            /sobre-nosotros/                         301
+/nosotros                 /sobre-nosotros/                         301
+/empresa                  /sobre-nosotros/                         301
+/aviso-legal.html         /aviso-legal/                            301
+/politica-de-privacidad   /privacidad/                             301
+/politica-de-cookies      /cookies/                                301
+
+# Rutas nuevas de la arquitectura ampliada
+/taller-madrid            /taller-bmw-madrid/                      301
+/taller-barcelona         /taller-bmw-barcelona/                   301
+/madrid                   /taller-bmw-madrid/                      301
+/barcelona                /taller-bmw-barcelona/                   301
+/motores                  /motores-bmw/                            301
+/cadena-distribucion      /motores-bmw/cadena-distribucion-n47-n57/ 301
+/faq                      /preguntas-frecuentes/                   301
+/preguntas                /preguntas-frecuentes/                   301
+/glosario                 /glosario-bmw/                           301
+/sitemap                  /mapa-del-sitio/                         301
