@@ -1,0 +1,16 @@
+Sustituye estos archivos por las fotos reales del taller manteniendo EL MISMO nombre y proporción,
+para no romper el diseño ni provocar CLS:
+
+hero-taller-bmw.webp ................. 1200x900  (portada de inicio, carga prioritaria)
+servicios-bmw.webp ................... 1200x900  (portada de /servicios/)
+mecanica-general-bmw.webp ............ 1200x900
+diagnosis-electronica-bmw.webp ....... 1200x900
+mantenimiento-bmw.webp ............... 1200x900
+chapa-pintura-bmw.webp ............... 1200x900
+equipo-dasercars.webp ................ 1200x900  (foto real del equipo, clave para E-E-A-T)
+taller-madrid-alcobendas.webp ........ 1200x675
+taller-barcelona-sant-joan-despi.webp  1200x675
+logo-dasercars.webp ..................  600x600  (usado en Schema.org)
+
+Formato recomendado: WebP calidad 80-85, menos de 150 KB por imagen.
+Las imágenes del blog van en /img/blog-{slug}.webp en proporción 16:9 (800x450 o superior).
