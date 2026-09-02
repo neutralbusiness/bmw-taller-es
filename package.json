@@ -1,12 +1,14 @@
 {
-  "name": "redtalleres-es",
+  "name": "bmw-taller-es",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "generar:zonas": "node scripts/generar-directorio-ciudades.mjs",
+    "prebuild": "node scripts/generar-directorio-ciudades.mjs"
   },
   "dependencies": {
     "astro": "^5.16.0"
