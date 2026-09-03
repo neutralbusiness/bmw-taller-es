@@ -514,49 +514,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </div>
   </section>
 
-  {/* ─────────────────────── TESTIMONIOS ─────────────────────── */}
-  {city.testimonials && city.testimonials.length > 0 && (
-    <section id="opiniones" class="testi-section">
-      <div class="container">
-        <div class="section-head">
-          <span class="section-eyebrow"><span class="num">05</span> Opiniones</span>
-          <h2>Lo que dicen clientes en {city.name}</h2>
-          {city.testimonialsIntro && <p class="section-lead">{city.testimonialsIntro}</p>}
-        </div>
-        <div class="testi-grid">
-          {city.testimonials.map(t => {
-            const stars = Math.min(5, Math.max(0, Math.round(t.rating || 5)));
-            return (
-              <article class="testi-card">
-                <span class="testi-quote" aria-hidden="true">
-                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 7H5a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3a2 2 0 0 1-2 2H4v2h1a4 4 0 0 0 4-4V9a2 2 0 0 0 0-2zm12 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h2v3a2 2 0 0 1-2 2h-1v2h1a4 4 0 0 0 4-4V9a2 2 0 0 0 0-2z"/></svg>
-                </span>
-                <span class="testi-stars" role="img" aria-label={`${stars} de 5 estrellas`}>
-                  {Array.from({ length: stars }).map(() => (
-                    <svg viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                  ))}
-                </span>
-                <p class="testi-body">«{t.body}»</p>
-                <div class="testi-meta">
-                  <span class="testi-avatar" aria-hidden="true">{initial(t.name)}</span>
-                  <div class="testi-author">
-                    <strong>{t.name}</strong>
-                    <span>
-                      {t.neighborhood ? `${t.neighborhood}` : ""}
-                      {t.neighborhood && t.car ? " · " : ""}
-                      {t.car || ""}
-                    </span>
-                  </div>
-                </div>
-              </article>
-            );
-          })}
-        </div>
-      </div>
-    </section>
-  )}
-
-  {/* ─────────────────────── ZONA ─────────────────────── */}
+{/* ─────────────────────── ZONA ─────────────────────── */}
   <section id="zona">
     <div class="container">
       <div class="section-head">
