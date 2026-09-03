@@ -182,5 +182,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW de confianza en La Muela",
-  "closingCta": "Pide tu cita para una revisión o diagnóstico. Contacta con nosotros por teléfono, WhatsApp o email y asegura el futuro de tu BMW en La Muela."
+  "closingCta": "Pide tu cita para una revisión o diagnóstico. Contacta con nosotros por teléfono, WhatsApp o email y asegura el futuro de tu BMW en La Muela.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34647503521",
+    "phoneDisplay": "647 503 521",
+    "whatsapp": "34647503521",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }

@@ -177,5 +177,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, en las mejores manos en La Puebla de Alfindén",
-  "closingCta": "Pídenos un presupuesto cerrado y sin compromiso para tu BMW. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario de nuestra web y te responderemos lo antes posible."
+  "closingCta": "Pídenos un presupuesto cerrado y sin compromiso para tu BMW. Puedes llamarnos, enviarnos un WhatsApp o rellenar el formulario de nuestra web y te responderemos lo antes posible.",
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34647503521",
+    "phoneDisplay": "647 503 521",
+    "whatsapp": "34647503521",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
