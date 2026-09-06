@@ -217,15 +217,33 @@ const autoRepair = {
   url: canonical,
   telephone: phone,
   email: email,
-  address: {
-    "@type": "PostalAddress",
-    ...(addrStreet ? { streetAddress: addrStreet } : {}),
-    ...(addrPostal ? { postalCode: addrPostal } : {}),
-    addressLocality: city.name,
-    addressRegion: city.province,
-    addressCountry: "ES",
-  },
-  ...(geoLat && geoLng ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } } : {}),
+  // Dirección y coordenadas SOLO si hay un taller de verdad en esa ciudad.
+  //
+  // Antes se declaraba siempre: una PostalAddress con la localidad y las
+  // coordenadas del centro del municipio, aunque el taller no estuviera allí.
+  // Eso le decía a Google que hay un taller BMW en cada uno de los 575
+  // municipios de la red, con su punto en el mapa. No los hay: es un dato
+  // inventado en los datos estructurados, que es de las cosas que Google
+  // persigue sin contemplaciones y que además no es cierto para quien lo lee.
+  //
+  // Cuando la ciudad tiene taller asociado con calle, se declara entero, que
+  // es cuando el dato es real. Cuando no, se dice lo que sí es verdad: que se
+  // presta servicio a esa ciudad (`areaServed`), sin fingir estar en ella.
+  ...(addrStreet
+    ? {
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: addrStreet,
+          ...(addrPostal ? { postalCode: addrPostal } : {}),
+          addressLocality: city.name,
+          addressRegion: city.province,
+          addressCountry: "ES",
+        },
+        ...(geoLat && geoLng
+          ? { geo: { "@type": "GeoCoordinates", latitude: geoLat, longitude: geoLng } }
+          : {}),
+      }
+    : {}),
   areaServed: { "@type": "City", name: city.name },
   image: `https://${city.slug}.${NETWORK.domain}${heroImage}`,
   priceRange: "€€",
