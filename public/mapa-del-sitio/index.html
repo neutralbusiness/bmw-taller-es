@@ -62,6 +62,18 @@ p{margin:0}:focus-visible{outline:3px solid var(--blue);outline-offset:3px}.skip
 .zn__list li{font-size:.92rem}
 .zn__list a{opacity:.82;text-decoration:none}
 .zn__list a:hover{opacity:1;text-decoration:underline}
+
+/* nb-ancho-pantalla */
+/* Ancho de pantalla: el contenedor deja de tener tope fijo y el margen pasa a
+   ser un carril proporcional (96px a 1920, 72 a 1440, 64 a 1280). El texto no
+   se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
+   cambia nada. */
+@media(min-width:1280px){
+.stats,.wrap{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+h1{max-width:961px}
+.stats p,.wrap p{max-width:72ch}
+.nav__cta h1,.nav__cta p{margin-inline:auto}
+}
 </style></head>
 <body>
 <a class="skip" href="#main">Saltar al contenido principal</a>
