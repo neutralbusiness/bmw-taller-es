@@ -173,5 +173,14 @@
     "A-42 hacia Madrid",
     "M-50 como circunvalación",
     "M-408 hacia Leganés"
-  ]
+  ],
+  "tenant": {
+    "active": true,
+    "businessName": "BMW Taller",
+    "phone": "+34665245143",
+    "phoneDisplay": "665 245 143",
+    "whatsapp": "34665245143",
+    "email": "info@bmw-taller.es",
+    "addressStreet": ""
+  }
 }
