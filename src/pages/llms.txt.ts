@@ -11,14 +11,15 @@ import { NETWORK, SERVICES, FAQ_BASE } from "../lib/network.ts";
 
 interface CityRef { slug: string; name: string; province: string; ccaa: string; }
 
-/* Datos de contacto del operador real de la red (el mismo tenant "BMW Taller"
-   que atiende los subdominios contratados). */
+/* Contacto general de la red: viene de network.ts, que es lo que el panel
+   reescribe al cambiar el teléfono. Antes estaba copiado aquí a mano y se
+   quedaba desactualizado. */
 const CONTACT = {
   businessName: "BMW Taller",
-  phoneDisplay: "622 552 992",
-  phone: "+34622552992",
-  whatsapp: "34622552992",
-  email: "info@bmw-taller.es",
+  phoneDisplay: NETWORK.phoneDisplay,
+  phone: NETWORK.phone,
+  whatsapp: NETWORK.whatsapp,
+  email: NETWORK.email,
 };
 
 export const GET: APIRoute = () => {
