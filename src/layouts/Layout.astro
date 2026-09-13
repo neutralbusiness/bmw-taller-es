@@ -937,6 +937,7 @@ h1{max-width:961px}
       document.addEventListener("click",e=>{
         const a=e.target.closest("a[href]");
         if(!a||a.target==="_blank"||a.href.startsWith("tel:")||a.href.startsWith("mailto:")||a.href.startsWith("https://wa.me"))return;
+        if(a.hash&&a.pathname===location.pathname&&a.origin===location.origin)return;
         if(new URL(a.href,location.origin).origin!==location.origin)return;
         b.style.transition="width .3s ease";
         b.style.width="30%";
