@@ -3,11 +3,11 @@
   "name": "Tiana",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 8151,
+  "population": 9331,
   "lat": 41.48791,
   "lng": 2.27276,
   "metaTitle": "Taller BMW en Tiana — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Tiana: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "Tiana: taller especialista independiente BMW y MINI a 28,3 km, con recogida en el área metropolitana sujeta a disponibilidad. ITV en Badalona.",
   "heroSubtitle": "Tu BMW merece un especialista. En Tiana, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -178,5 +178,128 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Tiana: especialista BMW a 28,3 km con recogida en el área metropolitana",
+    "entradilla": "Tiana es del Maresme por comarca y del Área Metropolitana de Barcelona por pertenencia. Para quien tiene un BMW o un MINI, eso último importa: el taller ofrece recogida dentro de ese ámbito, sujeta a disponibilidad.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 28.3
+    },
+    "secciones": [
+      {
+        "id": "maresme-y-amb",
+        "h2": "Maresme, pero dentro del área metropolitana",
+        "parrafos": [
+          "De los municipios del Maresme, Tiana es uno de los pocos que forman parte del Área Metropolitana de Barcelona. Es la razón por la que la recogida y entrega del coche, y el vehículo de cortesía, sí aplican aquí: siempre sujetos a disponibilidad, así que lo mejor es pedirlos al fijar la cita.",
+          "Si prefieres traerlo tú, la ruta hasta Sant Joan Despí va por la B-20 y la B-23: 28,3 km por carretera, 22,4 en línea recta."
+        ]
+      },
+      {
+        "id": "ronda-litoral",
+        "h2": "El oficial, junto a la Ronda Litoral",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto oficial más cercano en Barcelona Premium, calle Juan de Austria 1, en Sant Adrià de Besòs: 12,2 km. Las campañas de revisión que convoque la marca se hacen en su red; para el resto del mantenimiento la elección de taller es tuya."
+        ]
+      },
+      {
+        "id": "costa-tiana",
+        "h2": "3,2 km hasta el mar",
+        "parrafos": [
+          "El centro de Tiana está a unos 3,2 km de la línea de costa. Con esa proximidad, el ambiente salino acaba notándose en el escape y en las fijaciones de los bajos con los años. No hace falta obsesionarse; sí revisar esas zonas cuando el coche sube al elevador por otro motivo."
+        ]
+      },
+      {
+        "id": "itv-badalona",
+        "h2": "La ITV de Badalona, a 9,2 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer Indústria 427-449, a 9,2 km. Tiana tenía 9.331 habitantes en 2025, un 10,9 % más que en 2015, en un término de 7,95 km², y 4.414 turismos en 2024 según Idescat (473 por cada 1.000)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Tiana?",
+        "a": "Sí. Tiana está en el Área Metropolitana de Barcelona y la recogida y entrega se ofrece sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 12,2 km."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Badalona (B02), a 9,2 km por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Atendéis MINI?",
+        "a": "Sí. Comparten electrónica y buena parte de los motores con BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "9.331 habitantes (+10,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082824&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "4.414 · 473 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082824&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Badalona (B02) · 9,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Adrià de Besòs) · 12,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 28,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082824&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Cervelló",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 8660,
+  "population": 9743,
   "lat": 41.40125,
   "lng": 1.95506,
   "metaTitle": "Especialistas BMW en Cervelló — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en Cervelló. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "metaDescription": "Cervelló: taller especialista independiente BMW a 15,7 km en Sant Joan Despí, con recogida en el área metropolitana sujeta a disponibilidad. ITV y datos.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Cervelló? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -179,5 +179,128 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cervelló: el taller especialista BMW queda más cerca que el concesionario",
+    "entradilla": "Desde Cervelló, nuestro taller de Sant Joan Despí está a 15,7 km y el servicio oficial BMW más próximo, en Sant Boi, a 17,8. Es poco habitual que sea así, y además el municipio entra en el área de recogida del taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 15.7
+    },
+    "secciones": [
+      {
+        "id": "b24-a2",
+        "h2": "15,7 km por la B-24 y la A-2",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc sale por la B-24 y sigue por la A-2: 15,7 km por carretera, 9,3 en línea recta. La B-24 y la N-340 pasan a menos de tres kilómetros del centro, así que el acceso es directo."
+        ]
+      },
+      {
+        "id": "recogida-amb",
+        "h2": "Dentro del Área Metropolitana de Barcelona",
+        "parrafos": [
+          "Cervelló es uno de los 36 municipios del Área Metropolitana de Barcelona. Para esos municipios, el taller ofrece recogida y entrega del coche y vehículo de cortesía, siempre sujetos a disponibilidad. Si te interesa, pídelo al concertar la cita y no el mismo día."
+        ]
+      },
+      {
+        "id": "oficial-sant-boi",
+        "h2": "Barcelona Premium, en la carretera del Prat",
+        "parrafos": [
+          "El punto oficial más cercano según el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 17,8 km. Las llamadas a revisión de la marca y las reparaciones en garantía se hacen allí.",
+          "El mantenimiento periódico no tiene por qué: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) permite hacerlo en un taller independiente sin que el coche pierda la garantía, con dos condiciones: respetar los intervalos y usar recambios y aceites de la especificación correcta."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu",
+        "h2": "La ITV, en la N-II a la altura de Sant Andreu de la Barca",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Andreu (B21), en la carretera N-II, punto kilométrico 592,5, en Sant Andreu de la Barca: 14,3 km. Cervelló tenía 9.743 habitantes en 2025 y 5.255 turismos en 2024 (Idescat a partir de la DGT), 539 por cada 1.000."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Cervelló?",
+        "a": "Sí, Cervelló está en el Área Metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad: pídela al reservar."
+      },
+      {
+        "q": "¿Pierdo la garantía si hago la revisión con vosotros?",
+        "a": "No, si se siguen los intervalos y especificaciones del plan de mantenimiento de BMW."
+      },
+      {
+        "q": "¿Qué ITV tengo más cerca?",
+        "a": "La de Sant Andreu de la Barca (B21), en la N-II, a 14,3 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "9.743 habitantes (+10,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080689&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.255 · 539 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080689&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 15,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 17,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 14,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080689&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
