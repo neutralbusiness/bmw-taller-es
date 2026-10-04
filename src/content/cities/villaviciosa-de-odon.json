@@ -3,11 +3,11 @@
   "name": "Villaviciosa de Odón",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 27596,
+  "population": 30127,
   "lat": 40.3581,
   "lng": -3.9043,
   "metaTitle": "Taller BMW en Villaviciosa de Odón | Diagnosis ISTA",
-  "metaDescription": "Taller BMW especializado en Villaviciosa de Odón, oeste de Madrid. Diagnosis ISTA, mantenimiento y reparación de averías. Presupuesto claro y cerrado.",
+  "metaDescription": "Taller especialista BMW para Villaviciosa de Odón en Alcobendas, a 40,9 km por la M-40. Concesionario e ITV cercanos y mantenimiento sin perder la garantía.",
   "heroSubtitle": "Taller BMW especializado en Villaviciosa de Odón",
   "trustChips": [
     {
@@ -180,5 +180,123 @@
     "M-501",
     "A-5",
     "M-600 hacia Boadilla"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Villaviciosa de Odón: tu BMW, del oeste de Madrid a Alcobendas por la M-40",
+    "entradilla": "Desde Villaviciosa, Alcobendas queda en el extremo contrario del área metropolitana: 40,9 km. Antes de hacerlos, conviene saber qué tienes en Alcorcón, a menos de diez kilómetros, y para qué trabajos compensa cruzar.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 40.9
+    },
+    "secciones": [
+      {
+        "id": "alcorcon-al-lado",
+        "h2": "Concesionario e ITV, en el término de Alcorcón",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la avenida de San Martín de Valdeiglesias 14-16 de Alcorcón, a 8,1 km por carretera. La estación de ITV oficial más cercana está en el p.k. 4,200 de la M-506, a 6,7 km; la explota ITV Villaviciosa, S.L. (estación 2871), aunque el listado de la Comunidad de Madrid la asigna al municipio de Alcorcón."
+        ]
+      },
+      {
+        "id": "m40-hasta-alcobendas",
+        "h2": "Al otro lado de la M-40",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande sale por la M-501 y enlaza con la M-40 para rodear Madrid por el oeste y el norte: 40,9 km por carretera, 30,5 en línea recta. Villaviciosa está dentro del área metropolitana de Madrid, donde el taller ofrece recogida y entrega y vehículo de cortesía, ambos sujetos a disponibilidad. Con esta distancia, es lo primero que conviene preguntar al pedir cita."
+        ]
+      },
+      {
+        "id": "garantia-y-plan",
+        "h2": "Revisar fuera del concesionario con el coche en garantía",
+        "parrafos": [
+          "Muchos dueños de un BMW reciente dan por hecho que salir de la red oficial anula la garantía. No es así: el Reglamento (UE) 461/2010 protege la libertad de elegir taller siempre que el mantenimiento siga los intervalos y especificaciones del fabricante, con recambios y aceites de calidad equivalente.",
+          "Lo que sí se queda en el concesionario son las reparaciones que paga la propia garantía de BMW."
+        ]
+      },
+      {
+        "id": "parque-villaviciosa",
+        "h2": "564 turismos por cada mil habitantes",
+        "parrafos": [
+          "Villaviciosa de Odón tenía 30.127 vecinos en el padrón de 2025, un 11,3 % más que diez años antes, repartidos en un término de 67,8 km². La Comunidad de Madrid contaba en 2025 16.994 turismos censados a partir de la DGT: 564 por cada 1.000 habitantes, una proporción muy superior a la de Madrid capital (388).",
+          "Con la M-506 a 0,7 km del centro y la M-501 a 1,6, casi cualquier salida empieza en carretera interurbana, con rotondas en cada enlace. Pastillas, discos y neumáticos delanteros son lo que antes acusa ese uso; revisarlos cuando el coche entra por otra cosa ahorra una segunda visita."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano a Villaviciosa?",
+        "a": "Vehinter, en la avenida de San Martín de Valdeiglesias 14-16 de Alcorcón, a 8,1 km según bmw.es."
+      },
+      {
+        "q": "¿Pierdo la garantía si reviso el coche en un taller independiente?",
+        "a": "No, si se siguen los intervalos y especificaciones del plan de mantenimiento del fabricante."
+      },
+      {
+        "q": "¿Hay recogida del coche en Villaviciosa de Odón?",
+        "a": "Está dentro del área metropolitana de Madrid: la recogida y entrega existe, sujeta a disponibilidad. Pregúntalo al reservar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "30.127 habitantes (+11,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "16.994 · 564 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "M-506 p.k. 4,200 (estación 2871) · 6,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Alcorcón) · 8,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 40,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

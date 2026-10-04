@@ -3,11 +3,11 @@
   "name": "Martorell",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 27850,
+  "population": 29175,
   "lat": 41.47402,
   "lng": 1.93062,
   "metaTitle": "Taller BMW en Martorell — Especialistas en Revisión CBS y N47",
-  "metaDescription": "Taller especialista BMW en Martorell. Ahorra hasta un 50 % en revisión CBS, cadena N47/B47 y mecánica. Diagnóstico ISTA. ¡Pide presupuesto cerrado!",
+  "metaDescription": "Martorell: taller especialista BMW a 19,8 km en Sant Joan Despí, servicio oficial a 18,4 km en Sant Cugat e ITV a 3,1 km en Sant Andreu de la Barca.",
   "heroSubtitle": "La revisión CBS de tu BMW Serie 3 o Serie 5 en Martorell no debería costar una fortuna. Usamos aceite LL-04 y te damos un precio cerrado.",
   "trustChips": [
     {
@@ -191,5 +191,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Martorell, entre la AP-7 y la A-2: el taller BMW de la red a 19,8 km",
+    "entradilla": "Desde Martorell, nuestro taller y el servicio oficial BMW más próximo quedan casi a la misma distancia, en direcciones opuestas. La ITV, en cambio, está a la vuelta de la esquina, en Sant Andreu de la Barca.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 19.8
+    },
+    "secciones": [
+      {
+        "id": "empate-de-distancias",
+        "h2": "19,8 km a un lado, 18,4 km al otro",
+        "parrafos": [
+          "El servicio oficial BMW más próximo que recoge el localizador de bmw.es es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès, a 18,4 km por carretera. Dasercars Barcelona, en Sant Joan Despí, queda a 19,8 km por la N-IIa y la A-2, y a 15,9 en línea recta.",
+          "Con la distancia prácticamente empatada, lo que decide es el tipo de trabajo. Lo que paga la garantía de BMW, en la red oficial; mantenimiento, averías de un coche con años o un segundo diagnóstico antes de aceptar una reparación cara, en un taller independiente especializado."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu",
+        "h2": "La ITV, a 3,1 km por la N-II",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera al centro de Martorell es la de Sant Andreu de la Barca (B21), de Applus, en la N-II, p.k. 592,5: 3,1 km. Está tan cerca que lo práctico es repasar luces, frenos y emisiones antes de pedir cita, y no ir a ciegas."
+        ]
+      },
+      {
+        "id": "nudo-de-autopistas",
+        "h2": "Cinco carreteras en tres kilómetros",
+        "parrafos": [
+          "A menos de tres kilómetros del centro pasan la AP-7 (a 0,2 km), la A-2, la B-224, la C-54 y la N-IIa. Un coche que sale a diario por esas vías trabaja a temperatura estable y regenera el filtro de partículas sin problemas, pero acumula kilómetros deprisa: los intervalos de aceite, frenos y neumáticos llegan antes de lo que uno espera."
+        ]
+      },
+      {
+        "id": "martorell-688",
+        "h2": "688 turismos por cada mil habitantes",
+        "parrafos": [
+          "Idescat, con datos de la DGT, contaba en Martorell 20.081 turismos en 2024 para 29.175 habitantes en 2025: 688 por cada 1.000, más del doble que en Barcelona ciudad (281). La población ha crecido un 5,3 % desde los 27.694 vecinos de 2015.",
+          "Martorell está en el Baix Llobregat pero no forma parte del Área Metropolitana de Barcelona, así que la recogida del taller no llega hasta aquí."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué está más cerca de Martorell, vuestro taller o el concesionario?",
+        "a": "Casi lo mismo: 19,8 km hasta Dasercars Barcelona (Sant Joan Despí) y 18,4 km hasta Quadis Munich (Sant Cugat del Vallès)."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Sant Andreu de la Barca (B21), en la N-II, a 3,1 km según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Cómo se presupuesta un trabajo?",
+        "a": "Por escrito y antes de tocar nada: no se empieza sin tu visto bueno. La diagnosis también lleva su propio presupuesto."
+      },
+      {
+        "q": "¿Recogéis el coche en Martorell?",
+        "a": "No. La recogida cubre el área metropolitana de Barcelona, y Martorell queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "29.175 habitantes (+5,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081141&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "20.081 · 688 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081141&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 3,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Cugat del Vallès · 18,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 19,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081141&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

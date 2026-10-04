@@ -3,11 +3,11 @@
   "name": "les Franqueses del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 20715,
+  "population": 20881,
   "lat": 41.62263,
   "lng": 2.29305,
   "metaTitle": "Taller BMW en Les Franqueses del Vallès | BMW Taller",
-  "metaDescription": "Taller BMW en Les Franqueses del Vallès. Diagnóstico oficial, mantenimiento, turbo, caja ZF y Vanos. Presupuesto claro antes de cualquier reparación.",
+  "metaDescription": "les Franqueses del Vallès: servicio oficial BMW e ITV en Granollers y taller especialista independiente a 44,6 km por la C-17. Diésel, electrónica y REDISTA.",
   "heroSubtitle": "Mecánica especializada BMW en Les Franqueses del Vallès",
   "trustChips": [
     {
@@ -172,5 +172,125 @@
     "C-17",
     "AP-7",
     "C-59"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Les Franqueses del Vallès: lo cercano, en Granollers; el especialista BMW, por la C-17",
+    "entradilla": "Desde les Franqueses, Granollers queda a 1,7 km en línea recta y concentra lo que el coche necesita a diario: servicio oficial BMW e ITV. Nuestro taller está más lejos, a 44,6 km en Sant Joan Despí, y sirve para otra cosa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 44.6
+    },
+    "secciones": [
+      {
+        "id": "granollers-al-lado",
+        "h2": "Pruna Motor y la ITV del Congost",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Pruna Motor, en la carretera C-17, km 19,060, en Granollers, a 8,1 km por carretera. La estación de ITV que el registro de la Generalitat da como más próxima por carretera es la de Granollers (B18), de Applus, en la avinguda de Sant Julià, polígono El Congost: 6,3 km."
+        ]
+      },
+      {
+        "id": "c17-c33",
+        "h2": "44,6 km por la C-17, la C-33 y las rondas",
+        "parrafos": [
+          "El recorrido hasta Dasercars Barcelona baja por la C-17 y la C-33, enlaza con la B-20 y termina por la B-23: 44,6 km por carretera, 34,5 en línea recta. Les Franqueses queda fuera del Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
+          "Para que el viaje rinda, llama antes y cuenta qué le pasa al coche, con el modelo y el año delante. Así se valora si el problema encaja con lo que hacemos —diésel N47, N57 o B47, electrónica, homologaciones de escape y gases con REDISTA— y si conviene tener alguna pieza pedida."
+        ]
+      },
+      {
+        "id": "c352-por-el-centro",
+        "h2": "La C-352 por el centro, la C-17 a 2,1 km",
+        "parrafos": [
+          "La C-352 pasa a 0,1 km del centro y la C-17 a 2,1. El término mide 29,14 km² y el núcleo está a 181 metros de altitud.",
+          "Un diésel que alterna salidas a la C-17 con trayectos cortos suele llevar bien el filtro de partículas; el que solo hace lo segundo, no tanto. Si se enciende el testigo del filtro, no lo ignores: una regeneración a tiempo es mucho más sencilla que un filtro colmatado."
+        ]
+      },
+      {
+        "id": "franqueses-en-cifras",
+        "h2": "20.881 vecinos y 10.992 turismos",
+        "parrafos": [
+          "El padrón de 2025 da 20.881 habitantes, un 7,4 % más que diez años antes (19.446). En 2024 había 10.992 turismos según Idescat a partir de la DGT: 526 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a les Franqueses?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 8,1 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Granollers (B18), en el polígono El Congost, a 6,3 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en les Franqueses del Vallès?",
+        "a": "No: la recogida cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "20.881 habitantes (+7,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080863&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "10.992 · 526 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080863&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 6,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 8,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 44,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080863&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

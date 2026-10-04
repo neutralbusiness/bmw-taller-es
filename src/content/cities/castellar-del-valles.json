@@ -3,11 +3,11 @@
   "name": "Castellar del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 24036,
+  "population": 25422,
   "lat": 41.61667,
   "lng": 2.08333,
   "metaTitle": "Taller especializado BMW en Castellar del Vallès — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Castellar del Vallès? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "Castellar del Vallès tiene taller autorizado BMW en el pueblo. Cuándo compensa llevar el coche a un especialista independiente, a 47 km en Sant Joan Despí.",
   "heroSubtitle": "Taller especialista BMW para Castellar del Vallès y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -180,5 +180,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellar del Vallès: autorizado BMW en el pueblo, especialista independiente a 47 km",
+    "entradilla": "Lo decimos de entrada: en Castellar del Vallès tienes un taller autorizado BMW a poco más de un kilómetro del centro, y nuestro taller queda a 47 km, en Sant Joan Despí. Para la mayoría de cosas gana lo cercano; aquí explicamos cuándo no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 47.0
+    },
+    "secciones": [
+      {
+        "id": "tallcar-calle-suiza",
+        "h2": "Tallcar, en la calle Suiza",
+        "parrafos": [
+          "En el localizador de bmw.es aparece Tallcar, taller autorizado BMW, en la calle Suiza 6 del propio municipio, a 1,1 km del centro. Es un punto de servicio, no una exposición de venta. Allí se hacen las campañas que convoca la marca y las reparaciones que paga la garantía del fabricante.",
+          "Nosotros no somos Tallcar. Somos Dasercars, un taller independiente especializado en BMW y MINI, y lo aclaramos porque es fácil confundirse al buscar «taller BMW» desde Castellar."
+        ]
+      },
+      {
+        "id": "cuando-47-km",
+        "h2": "Cuándo tiene sentido hacer 47 kilómetros",
+        "parrafos": [
+          "El trayecto hasta Dasercars Barcelona es largo y encadena muchas carreteras: C-1415a, BV-1248, C-58C, C-58, AP-7 y B-23, 47 km en total y 27,8 en línea recta. Castellar no está en el Área Metropolitana de Barcelona, y la recogida del taller no llega.",
+          "Compensa cuando quieres un taller independiente para un BMW fuera de garantía, o cuando una avería ya ha pasado por otras manos sin solución:"
+        ],
+        "lista": [
+          "un consumo de aceite que nadie ha sabido explicar;",
+          "un diésel N57 o B57 que pierde potencia a ratos;",
+          "una homologación de escape o de gases que necesite REDISTA."
+        ]
+      },
+      {
+        "id": "itv-desde-castellar",
+        "h2": "Para la ITV, a Sabadell",
+        "parrafos": [
+          "La estación más próxima por carretera según el registro de la Generalitat es la de Sabadell (B24), gestionada por Applus, en el polígono Can Roqueta: 12,8 km por carretera y 10 en línea recta."
+        ]
+      },
+      {
+        "id": "castellar-en-cifras",
+        "h2": "25.422 vecinos y 516 turismos por cada mil",
+        "parrafos": [
+          "El padrón de 2025 da a Castellar 25.422 habitantes, un 8,4 % más que en 2015 (23.442). Idescat, con datos de la DGT, contaba 13.111 turismos en 2024: 516 por cada 1.000 vecinos. El término mide 44,91 km², con una densidad de 566 habitantes por kilómetro cuadrado, y el núcleo está a 331 metros de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay taller autorizado BMW en Castellar del Vallès?",
+        "a": "Sí: Tallcar, en la calle Suiza 6, según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Sois Tallcar?",
+        "a": "No. Somos Dasercars, taller independiente especializado en BMW, con nave en Sant Joan Despí, a 47 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Castellar?",
+        "a": "No: la recogida solo cubre el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "25.422 habitantes (+8,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080517&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "13.111 · 516 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080517&lang=es"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar, c. Suiza 6 · 1,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 12,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 47 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080517&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

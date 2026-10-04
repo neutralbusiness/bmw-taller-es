@@ -3,11 +3,11 @@
   "name": "Barberà del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 31144,
+  "population": 33987,
   "lat": 41.5159,
   "lng": 2.12457,
   "metaTitle": "Taller Especialista BMW en Barberà del Vallès | Diagnóstico ISTA",
-  "metaDescription": "Taller especialista BMW en Barberà del Vallès. Expertos en motores con alto kilometraje (N47, B47, B58). Diagnóstico ISTA y presupuesto cerrado. Pide tu cita.",
+  "metaDescription": "Especialista independiente BMW y MINI para Barberà del Vallès: taller en Sant Joan Despí a 28,1 km y recogida en el área metropolitana, sujeta a disponibilidad.",
   "heroSubtitle": "Tu BMW tiene más de 150.000 km y merece un mantenimiento preventivo serio, no solo un cambio de aceite. Aquí vamos al grano.",
   "trustChips": [
     {
@@ -191,5 +191,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Barberà del Vallès: taller BMW de la red a 28 km y recogida dentro del AMB",
+    "entradilla": "Barberà forma parte del Área Metropolitana de Barcelona, y eso cambia las cosas: el taller especialista de la red está en Sant Joan Despí, pero el coche puede viajar sin ti. Además, en Sabadell tienes un taller autorizado BMW y una ITV a pocos kilómetros.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 28.1
+    },
+    "secciones": [
+      {
+        "id": "recogida-desde-barbera",
+        "h2": "Que el coche haga el viaje solo",
+        "parrafos": [
+          "Al estar dentro del área metropolitana, Barberà entra en la zona donde Dasercars Barcelona ofrece recogida y entrega del vehículo y coche de cortesía. Las dos cosas dependen de la disponibilidad de cada día, así que se piden al reservar y no con el coche ya parado en la puerta de casa.",
+          "Si prefieres llevarlo tú, la ruta desde el centro sale a la B-30, toma un tramo de AP-7 y baja por la B-23 hasta el carrer del Tambor del Bruc: 28,1 km por carretera, 17,5 en línea recta."
+        ]
+      },
+      {
+        "id": "sitjas-autorizado",
+        "h2": "Sitjas Motor: el autorizado BMW está a 4 km, en Sabadell",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto de servicio oficial más próximo en la calle Quintana 64 de Sabadell: Sitjas Motor, que figura como taller autorizado, sin exposición de venta, a 4 km por carretera. Si buscabas dónde comprar un coche, no es ese; si necesitas una reparación que pague la garantía de BMW, es la referencia más cercana.",
+          "Un taller independiente como el nuestro no compite con eso: atiende mantenimiento, averías fuera de garantía y diagnósticos que no han terminado de resolverse en otro sitio."
+        ]
+      },
+      {
+        "id": "itv-sabadell-desde-barbera",
+        "h2": "La ITV, al otro lado del límite municipal",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Barberà es la de Sabadell (B24), gestionada por Applus, en el polígono Can Roqueta: 5,2 km por carretera y solo 2,1 en línea recta. La diferencia entre las dos cifras la ponen los accesos, no la distancia real."
+        ]
+      },
+      {
+        "id": "ocho-kilometros-cuadrados",
+        "h2": "33.987 vecinos en 8,31 km²",
+        "parrafos": [
+          "El término municipal es pequeño y está muy poblado: 33.987 habitantes en el padrón de 2025, unos 4.090 por kilómetro cuadrado. En 2024 había 16.008 turismos censados según Idescat a partir de la DGT, 471 por cada 1.000 habitantes.",
+          "La N-150 cruza prácticamente el centro y la AP-7, la C-58 y la B-30 quedan a menos de dos kilómetros, así que muchos trayectos empiezan en autopista. Para un diésel es buena noticia: los recorridos a velocidad sostenida son los que permiten al filtro de partículas completar la regeneración. Lo que más sufre con ese uso son los neumáticos y los frenos en incorporaciones y retenciones."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Barberà del Vallès?",
+        "a": "Sí: Barberà está dentro del área metropolitana de Barcelona, donde hay recogida y entrega sujeta a disponibilidad. Pídela al reservar."
+      },
+      {
+        "q": "¿Cuál es el taller autorizado BMW más cercano?",
+        "a": "Sitjas Motor, en la calle Quintana 64 de Sabadell, a 4 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima por carretera en el registro de la Generalitat es la de Sabadell (B24), en el polígono Can Roqueta, a 5,2 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "33.987 habitantes (+4,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082520&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "16.008 · 471 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082520&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 5,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Sitjas Motor, Sabadell · 4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 28,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082520&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
