@@ -3,7 +3,7 @@
   "name": "Badalona",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 217741,
+  "population": 231542,
   "lat": 41.45004,
   "lng": 2.24741,
   "metaTitle": "Taller BMW en Badalona: Mantenimiento sin perder la garantía",
@@ -187,5 +187,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Badalona: el servicio oficial en Sant Adrià y el especialista independiente a 24,5 km",
+    "entradilla": "Con el servicio oficial BMW a 5,1 km y una ITV en el carrer de la Indústria, a quien vive en Badalona le sobran opciones cerca. Nosotros somos otra: un taller independiente dedicado a BMW y MINI, al otro lado de Barcelona, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 24.5
+    },
+    "secciones": [
+      {
+        "id": "no-somos-el-concesionario",
+        "h2": "Si buscabas el taller de la marca, está en Sant Adrià de Besòs",
+        "parrafos": [
+          "El localizador de bmw.es da como punto oficial más próximo al centro de Badalona el de Barcelona Premium junto a la Ronda Litoral, en la calle Juan de Austria 1 de Sant Adrià de Besòs: 5,1 km por carretera. Si tu coche tiene una avería que cubre la garantía de fábrica, esa es la puerta a la que llamar.",
+          "Dasercars no forma parte de la red de la marca y no lo aparenta. Lo que ofrecemos es especialización: diésel N47, N57 y B47, electrónica de a bordo, cajas automáticas, mantenimiento según el indicador de servicio. Y el teléfono de esta página es el nuestro, no el del concesionario."
+        ]
+      },
+      {
+        "id": "ronda-litoral",
+        "h2": "Por la C-31 y la Ronda Litoral hasta el Baix Llobregat",
+        "parrafos": [
+          "Entre el centro de Badalona y la nave del carrer del Tambor del Bruc hay 24,5 km por carretera y 18 en línea recta. El trazado más corto sale a la C-31, sigue la B-10 bordeando el litoral de Barcelona y entra en la B-20 hacia Sant Joan Despí.",
+          "Los dos municipios están en el Área Metropolitana de Barcelona, así que existe la opción de no hacer el viaje: el taller recoge y devuelve el coche dentro del área metropolitana, y para reparaciones largas tiene vehículo de cortesía. Ambas cosas dependen de disponibilidad, de modo que se piden al cerrar la cita."
+        ]
+      },
+      {
+        "id": "itv-industria",
+        "h2": "La ITV de Badalona, en el carrer de la Indústria",
+        "parrafos": [
+          "La estación B02 del registro de la Generalitat, operada por Applus, está en el carrer de la Indústria 427-449, dentro del término. Si al coche le toca inspección y además arrastra un aviso en el cuadro, merece la pena resolver primero el aviso: un testigo de airbag o de motor encendido puede acabar en defecto en la inspección."
+        ]
+      },
+      {
+        "id": "ciudad-junto-al-mar",
+        "h2": "Ciudad densa y a 1,7 km del mar",
+        "parrafos": [
+          "Badalona reúne 231.542 vecinos (padrón de 2025) en 21,18 km²: unos 10.932 por kilómetro cuadrado. Idescat, con datos de la DGT, contaba 77.081 turismos en 2024, 333 por cada 1.000 habitantes; más que los 281 de Barcelona, pero lejos de lo que se ve en el interior.",
+          "El centro está a 1,7 km de la línea de costa. Para un coche que duerme en la calle cerca del paseo marítimo, la humedad salina se nota en los bajos, en los anclajes del escape y en los discos de freno de un coche que pasa días sin moverse. Y con la N-II atravesando la ciudad y la C-31 a medio kilómetro, también es fácil sacar un diésel a carretera para que el filtro de partículas complete la regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Badalona?",
+        "a": "No. El servicio oficial más próximo según bmw.es es Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs. Dasercars es un taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Podéis pasar a buscar el coche a Badalona?",
+        "a": "Badalona está dentro del área metropolitana, que es donde funciona la recogida y entrega del taller, sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Dónde está la ITV de Badalona?",
+        "a": "En el carrer de la Indústria 427-449: es la estación B02 del registro de la Generalitat."
+      },
+      {
+        "q": "¿Atendéis también MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "231.542 habitantes (+7,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Barcelonès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080155&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "77.081 · 333 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080155&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Badalona (B02), c. de la Indústria 427-449",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Adrià de Besòs) · 5,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 24,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080155&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

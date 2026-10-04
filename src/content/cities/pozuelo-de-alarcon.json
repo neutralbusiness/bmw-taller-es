@@ -3,7 +3,7 @@
   "name": "Pozuelo de Alarcón",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 82428,
+  "population": 89770,
   "lat": 40.43293,
   "lng": -3.81338,
   "metaTitle": "Taller BMW en Pozuelo de Alarcón | Especialistas en diagnóstico",
@@ -199,5 +199,120 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Pozuelo de Alarcón: ITV en la calle Virgilio y especialista a 24,7 km por la M-40",
+    "entradilla": "Pozuelo tiene la ITV dentro del municipio y el servicio oficial BMW más próximo en Majadahonda. El taller especialista que atiende la zona está en Alcobendas, a 24,7 km por la M-40 y la A-1.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 24.7
+    },
+    "secciones": [
+      {
+        "id": "m40-hacia-el-norte",
+        "h2": "Por la M-40 hasta Alcobendas",
+        "parrafos": [
+          "La ruta más corta desde el centro de Pozuelo enlaza con la M-40, rodea Madrid por el oeste y el norte y sale a la A-1 hasta la calle Valgrande: 24,7 km por carretera, 18 en línea recta.",
+          "Pozuelo está en el área metropolitana de Madrid. El taller ofrece recogida y entrega y vehículo de cortesía en esa zona, siempre que haya disponibilidad; para trabajos de más de un día es lo que más se agradece."
+        ]
+      },
+      {
+        "id": "movilnorte-por-carretera",
+        "h2": "Movilnorte: 5,6 km en el mapa, 11,4 por carretera",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la carretera de El Plantío 62 de Majadahonda. En línea recta está a 5,6 km, pero por carretera la ruta más corta da 11,4. Para una reparación en garantía, la cita es allí.",
+          "Lo que no entra en garantía —desgaste, averías posteriores, mantenimiento por plan— puedes hacerlo donde quieras. Si eliges un especialista, pide que te expliquen el diagnóstico antes de reparar."
+        ]
+      },
+      {
+        "id": "itv-virgilio",
+        "h2": "La ITV de Pozuelo",
+        "parrafos": [
+          "El listado de la Comunidad de Madrid incluye una estación en el municipio: INTECTRA (estación 2823), en la calle Virgilio 8."
+        ]
+      },
+      {
+        "id": "pozuelo-en-cifras",
+        "h2": "566 turismos por cada mil habitantes",
+        "parrafos": [
+          "Pozuelo tenía 89.770 vecinos en 2025, un 6,2 % más que diez años antes, y 50.841 turismos censados ese año según la Comunidad de Madrid a partir de la DGT. Son 566 por cada 1.000 habitantes, frente a 388 en Madrid capital.",
+          "Un coche que solo hace trayectos cortos por el municipio es justo el uso que peor llevan la batería y el filtro de partículas de un diésel. Con la M-40 a menos de tres kilómetros del centro, una salida larga de vez en cuando lo compensa."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Pozuelo?",
+        "a": "Movilnorte, en la carretera de El Plantío 62 (Majadahonda), a 11,4 km por carretera según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Pozuelo?",
+        "a": "En INTECTRA, calle Virgilio 8, dentro del municipio."
+      },
+      {
+        "q": "¿Recogéis el coche en Pozuelo?",
+        "a": "Sí, dentro del área metropolitana de Madrid hay recogida y entrega, sujeta a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "89.770 habitantes (+6,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "50.841 · 566 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "INTECTRA, c. Virgilio 8",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Majadahonda) · 11,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 24,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

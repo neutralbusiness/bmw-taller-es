@@ -3,7 +3,7 @@
   "name": "Cornellà de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 87173,
+  "population": 92237,
   "lat": 41.35,
   "lng": 2.08333,
   "metaTitle": "Taller BMW M en Cornellà — Especialistas en S55, S58 y ZF 8HP",
@@ -191,5 +191,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cornellà de Llobregat: taller especialista BMW a 1,5 km, en Sant Joan Despí",
+    "entradilla": "Desde el casco urbano de Cornellà, la nave de Dasercars Barcelona está a 1,5 km. Es la distancia más corta de toda la red, y cambia la forma de usar el taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 1.5
+    },
+    "secciones": [
+      {
+        "id": "kilometro-y-medio",
+        "h2": "Kilómetro y medio hasta el Tambor del Bruc",
+        "parrafos": [
+          "El carrer del Tambor del Bruc 3 de Sant Joan Despí queda a 1,5 km por carretera del centro del núcleo urbano de Cornellà, 1,3 en línea recta. Se puede dejar el coche al abrir, a las 9:00, y pasar a recogerlo antes de las 18:00, de lunes a viernes.",
+          "Cornellà forma parte del Área Metropolitana de Barcelona, así que también hay recogida y entrega y vehículo de cortesía, sujetos a disponibilidad. A esta distancia es más útil el coche de cortesía, para trabajos de varios días, que la recogida."
+        ]
+      },
+      {
+        "id": "itv-campsa",
+        "h2": "La ITV, en el passeig de la Campsa",
+        "parrafos": [
+          "El registro de la Generalitat sitúa una estación dentro del municipio: Cornellà (B11), de Applus, en el passeig de la Campsa 64. Taller e inspección quedan tan cerca que la pre-ITV y la cita en la estación caben en la misma semana sin planificar nada."
+        ]
+      },
+      {
+        "id": "nudo-de-autopistas",
+        "h2": "Doce carreteras a menos de tres kilómetros",
+        "parrafos": [
+          "En un término de 6,99 km² se cruzan la A-2, la B-10, la B-20, la B-23, la B-25, la C-32, la C-245 o la N-340, entre otras. Para un diésel que se mueve poco por ciudad, eso es una ventaja: tiene a mano un tramo de autopista para completar la regeneración del filtro de partículas.",
+          "Cornellà tenía 92.237 habitantes en 2025 y 29.985 turismos en 2024 según Idescat: 325 por cada 1.000 vecinos."
+        ]
+      },
+      {
+        "id": "oficial-sant-boi",
+        "h2": "El servicio oficial, en Sant Boi",
+        "parrafos": [
+          "Según bmw.es, el punto oficial más cercano es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 4,9 km. Es donde se tramitan las garantías de fábrica."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está el taller de Cornellà?",
+        "a": "A 1,5 km por carretera, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está la ITV de Cornellà?",
+        "a": "En el passeig de la Campsa 64: es la estación B11 del registro de la Generalitat."
+      },
+      {
+        "q": "¿Trabajáis BMW M y cajas automáticas?",
+        "a": "Sí. Pide cita con el modelo y el síntoma y se prepara el diagnóstico antes de que llegue el coche."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "92.237 habitantes (+6,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080734&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "29.985 · 325 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080734&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Cornellà (B11), pg. de la Campsa 64",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 4,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 1,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080734&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

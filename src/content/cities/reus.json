@@ -3,7 +3,7 @@
   "name": "Reus",
   "province": "Tarragona",
   "ccaa": "Cataluña",
-  "population": 103477,
+  "population": 111601,
   "lat": 41.15612,
   "lng": 1.10687,
   "metaTitle": "Taller BMW en Reus | Especialistas en diagnóstico ISTA",
@@ -130,5 +130,131 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Reus y tu BMW: diagnosis, servicio oficial en Tarragona y un especialista a 99 km",
+    "entradilla": "Nuestro taller más próximo a Reus está a 99,2 km, en Sant Joan Despí. Es mucha distancia, y conviene decirlo antes que nada. Lo que sí podemos darte es una idea clara de qué tienes en el Baix Camp y cuándo merece la pena el viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 99.2
+    },
+    "secciones": [
+      {
+        "id": "en-el-camp",
+        "h2": "Lo que tienes en Reus y en Tarragona",
+        "parrafos": [
+          "La ITV la tienes en casa: la estación de Reus (T02) del registro de la Generalitat, gestionada por Applus, está en la carretera de València a Tarragona, dentro del término. El servicio oficial BMW más cercano según bmw.es es Oliva Motor, en el carrer Josep Maria Folch i Torres 2 de Tarragona, a 10,3 km.",
+          "Con eso cerca, para la inspección o una revisión de rutina no tiene sentido hacer cien kilómetros."
+        ]
+      },
+      {
+        "id": "diagnosis-electronica",
+        "h2": "Diagnosis electrónica: qué es y cómo se presupuesta",
+        "parrafos": [
+          "Leer los códigos de avería es la parte fácil. Diagnosticar es interpretar esos códigos con los valores reales que dan los sensores mientras el motor trabaja, descartar causas y localizar la pieza o el cable que falla. En un BMW, con decenas de centralitas conectadas entre sí, un fallo en una puede encender avisos en otras.",
+          "Por eso en Dasercars la diagnosis se presupuesta como un trabajo más, antes de empezar, y el resultado se explica: qué falla, por qué y qué cuesta repararlo. Ninguna reparación arranca sin que la hayas aceptado."
+        ]
+      },
+      {
+        "id": "cuando-viajar",
+        "h2": "Cuándo sí compensa subir por la AP-7",
+        "parrafos": [
+          "Desde el centro de Reus, la ruta sale por la N-420a, toma la AP-7 y la C-32 y entra por la B-25 hasta el carrer del Tambor del Bruc: 99,2 km por carretera, 83,3 en línea recta. No hay recogida: el servicio del taller no llega fuera del área metropolitana.",
+          "Compensa para lo que no se ha resuelto cerca: un aviso que reaparece tras varias visitas, un fallo de inyección o de turbo en un diésel N47 o N57, un problema de la caja automática. Antes, una llamada con modelo, año, kilómetros y el síntoma permite saber si el viaje tiene sentido."
+        ]
+      },
+      {
+        "id": "reus-en-cifras",
+        "h2": "111.601 habitantes y 50.998 turismos",
+        "parrafos": [
+          "Reus, capital del Baix Camp, tenía 111.601 vecinos en 2025, un 8,1 % más que en 2015. Idescat, con datos de la DGT, contaba 50.998 turismos en 2024: 457 por cada 1.000 habitantes.",
+          "El término mide 52,82 km² y está a solo 117 metros de altitud y a 9,5 km de la costa: ni frío de montaña ni salitre de primera línea. Aquí lo que más castiga a un coche es el calor del verano, que acelera el envejecimiento de la batería y de los manguitos del circuito de refrigeración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Reus?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 99,2 km por carretera."
+      },
+      {
+        "q": "¿Dónde está la ITV de Reus?",
+        "a": "En la carretera de València a Tarragona, dentro del municipio: es la estación T02 de la Generalitat."
+      },
+      {
+        "q": "¿Cobráis la diagnosis?",
+        "a": "Sí, se presupuesta antes de conectar el equipo, igual que cualquier otro trabajo."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Oliva Motor, en Tarragona, a 10,3 km según el localizador de bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "111.601 habitantes (+8,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Camp",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431233&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "50.998 · 457 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431233&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Reus (T02)",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Oliva Motor (Tarragona) · 10,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 99,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=431233&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

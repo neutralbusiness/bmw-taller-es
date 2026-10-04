@@ -3,7 +3,7 @@
   "name": "Castelldefels",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 66375,
+  "population": 70057,
   "lat": 41.27794,
   "lng": 1.97033,
   "metaTitle": "Taller Especialista BMW en Castelldefels | Diagnóstico ISTA",
@@ -195,5 +195,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castelldefels: tu BMW junto a la playa y el taller especialista a 15,9 km por la C-32",
+    "entradilla": "A 1,8 km del mar y dentro del área metropolitana, Castelldefels tiene el taller especialista de la red a 15,9 km. Lo que conviene saber sobre ruta, recogida, ITV y salitre.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 15.9
+    },
+    "secciones": [
+      {
+        "id": "playa-y-coche",
+        "h2": "Lo que el aire de playa le hace a un coche",
+        "parrafos": [
+          "El centro de Castelldefels queda a 1,8 km de la costa, y buena parte del municipio vive todavía más cerca de la arena. El salitre no rompe nada de golpe: corroe poco a poco los bajos y los soportes, cubre de óxido los discos si el coche pasa la semana aparcado y sulfata los conectores que no están bien sellados.",
+          "En un BMW, ese último punto se nota como avisos eléctricos que aparecen y desaparecen. Antes de cambiar una centralita, hay que revisar conectores y masas."
+        ]
+      },
+      {
+        "id": "c32-b25",
+        "h2": "15,9 km por la C-32 y la B-25",
+        "parrafos": [
+          "La ruta desde el centro hasta el carrer del Tambor del Bruc de Sant Joan Despí va por la C-32 y la B-25: 15,9 km por carretera, 12,5 en línea recta.",
+          "Castelldefels está en la lista de municipios del Área Metropolitana de Barcelona, que es la zona donde el taller ofrece recogida y entrega del coche y vehículo de cortesía, sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "itv-viladecans",
+        "h2": "La ITV más próxima, en Viladecans",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más cercana por carretera es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 7,6 km del centro de Castelldefels."
+        ]
+      },
+      {
+        "id": "oficial-y-cifras",
+        "h2": "El servicio oficial, en Sant Boi",
+        "parrafos": [
+          "El punto oficial BMW más cercano según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 12,2 km. Red de la marca y especialista independiente quedan, por tanto, a una distancia parecida; la elección depende del trabajo.",
+          "Castelldefels tenía 70.057 habitantes en 2025, un 9,7 % más que en 2015, y 29.433 turismos en 2024 según Idescat: 420 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Castelldefels?",
+        "a": "Sí: el municipio está en el área metropolitana de Barcelona y hay recogida y entrega sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Dónde paso la ITV si vivo en Castelldefels?",
+        "a": "La más cercana por carretera es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 7,6 km."
+      },
+      {
+        "q": "¿El salitre afecta a la electrónica del BMW?",
+        "a": "Puede sulfatar conectores expuestos y provocar avisos intermitentes. Es lo primero que se revisa en un coche que vive junto al mar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "70.057 habitantes (+9,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080569&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "29.433 · 420 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080569&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 1,8 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecans (B07) · 7,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 15,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080569&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

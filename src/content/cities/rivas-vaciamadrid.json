@@ -3,7 +3,7 @@
   "name": "Rivas-Vaciamadrid",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 68405,
+  "population": 103148,
   "lat": 40.32605,
   "lng": -3.51089,
   "metaTitle": "Taller BMW en Rivas-Vaciamadrid | Mecánica especializada",
@@ -183,5 +183,124 @@
     "A-3 hacia Madrid y Arganda del Rey",
     "M-50 hacia el resto de la corona",
     "Línea 9 de Metro hacia Madrid capital"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Rivas-Vaciamadrid: averías eléctricas de BMW y un taller independiente a 34 km",
+    "entradilla": "Rivas ha ganado más de 21.000 vecinos en diez años y ya pasa de 100.000. Si tienes un BMW o un MINI aquí, te contamos qué es un taller autorizado y qué no, dónde están tus dos ITV y cómo se llega a Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 34.0
+    },
+    "secciones": [
+      {
+        "id": "autorizado-o-independiente",
+        "h2": "Taller autorizado BMW y taller independiente no son lo mismo",
+        "parrafos": [
+          "Un taller autorizado forma parte de la red de BMW. El más próximo a Rivas por carretera, según bmw.es, es AutoPremier, en la carretera de Valencia, km 7,3, ya en Madrid: 13,5 km. Dasercars no es autorizado; es un taller independiente que solo trabaja BMW y MINI.",
+          "En la práctica, lo que cubre la garantía de fábrica pasa por la red de la marca. El mantenimiento y las reparaciones fuera de garantía, por el taller que elijas."
+        ]
+      },
+      {
+        "id": "averias-electricas",
+        "h2": "Cuando el fallo es eléctrico",
+        "parrafos": [
+          "Un BMW actual reparte sus funciones entre decenas de centralitas que hablan por el mismo bus. Una tensión de batería baja, un conector con humedad o un módulo que se reinicia pueden encender avisos que no tienen que ver con la avería real. Por eso cambiar piezas por intuición sale caro.",
+          "El trabajo empieza por la batería —en los BMW, además, una batería nueva se registra en la centralita— y sigue por medir, no por sustituir. Si la avería ya ha pasado por otro taller, trae lo que te hayan dicho y lo que se ha cambiado: ahorra horas de diagnosis."
+        ]
+      },
+      {
+        "id": "itv-rivas",
+        "h2": "Dos estaciones de ITV dentro del municipio",
+        "parrafos": [
+          "La Comunidad de Madrid lista dos estaciones en Rivas: ITV Rivas (estación 2869), en la calle Cincel 2 bis del polígono Santa Ana, y TÜV Rheinland (estación 2848), en la calle Mariano Barbacid 8."
+        ]
+      },
+      {
+        "id": "a3-m30-a1",
+        "h2": "Por la A-3, la M-30 y la A-1",
+        "parrafos": [
+          "Desde el centro de Rivas hasta la calle Valgrande de Alcobendas hay 34 km por carretera (26,3 en línea recta): A-3 hacia Madrid, M-30 y A-1. Rivas está en el área metropolitana de Madrid, donde el taller ofrece recogida y entrega y coche de cortesía, ambos sujetos a disponibilidad.",
+          "Según la Comunidad de Madrid, en 2025 había 52.643 turismos en el municipio, 510 por cada 1.000 habitantes; en Madrid capital son 388. La población ha pasado de 81.473 en 2015 a 103.148 en 2025, un 26,6 % más."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois taller autorizado BMW?",
+        "a": "No. Somos un taller independiente especializado en BMW y MINI, en Alcobendas. El punto oficial más cercano a Rivas es AutoPremier, en la carretera de Valencia, km 7,3."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Rivas?",
+        "a": "En la calle Cincel 2 bis (polígono Santa Ana) o en la calle Mariano Barbacid 8, según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Recogéis el coche en Rivas?",
+        "a": "Rivas está en el área metropolitana de Madrid; la recogida existe y depende de disponibilidad."
+      },
+      {
+        "q": "¿Por dónde se llega al taller desde Rivas?",
+        "a": "Por la A-3 hacia Madrid, la M-30 y la A-1: 34 km hasta la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "103.148 habitantes (+26,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "52.643 · 510 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "2 estaciones",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, ctra. de Valencia km 7,3 · 13,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 34 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

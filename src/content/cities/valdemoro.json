@@ -3,7 +3,7 @@
   "name": "Valdemoro",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 74745,
+  "population": 85972,
   "lat": 40.19081,
   "lng": -3.67887,
   "metaTitle": "Taller BMW en Valdemoro | Diagnosis original y mecánica",
@@ -174,5 +174,120 @@
     "A-4",
     "M-404",
     "M-506"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Valdemoro: servicio oficial BMW en Getafe y taller independiente en Alcobendas",
+    "entradilla": "Si buscas el servicio oficial BMW más cercano a Valdemoro, está en Getafe. Nosotros somos un taller independiente, a 43,5 km por la A-4. Esta página separa una cosa de la otra.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 43.5
+    },
+    "secciones": [
+      {
+        "id": "vehinter-16-km",
+        "h2": "La red de la marca, a 16 km",
+        "parrafos": [
+          "El localizador de bmw.es da como punto oficial más próximo a Valdemoro el de Vehinter, en la carretera de Madrid a Toledo, en Getafe: 16 km por carretera. Las campañas de revisión que convoca BMW se hacen en su red, y si tu coche tiene una, ese es el sitio.",
+          "Dasercars no pertenece a esa red. Somos especialistas en BMW y MINI con taller propio en Alcobendas, y trabajamos lo que no depende de la garantía de fábrica: mantenimiento, diagnosis, reparaciones de motor, caja o electrónica."
+        ]
+      },
+      {
+        "id": "a4-hacia-el-norte",
+        "h2": "De la A-4 a la A-1 cruzando Madrid",
+        "parrafos": [
+          "La ruta desde el centro de Valdemoro sube por la A-4, atraviesa por la M-30 y sale por la A-1: 43,5 km por carretera hasta la calle Valgrande, 38,6 en línea recta.",
+          "El taller tiene recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad; al pedir cita, confirma si tu dirección de Valdemoro entra."
+        ]
+      },
+      {
+        "id": "itv-las-canteras",
+        "h2": "La ITV, en el polígono Las Canteras",
+        "parrafos": [
+          "La estación de ITV Valdemoro (2863 en el listado de la Comunidad de Madrid) está en la calle Vereda de la Solana 43-45, en el polígono industrial Las Canteras, dentro del municipio."
+        ]
+      },
+      {
+        "id": "valdemoro-crece",
+        "h2": "Un 18 % más de habitantes desde 2015",
+        "parrafos": [
+          "Valdemoro tenía 72.854 vecinos en 2015 y 85.972 en 2025. En 2025 había 40.383 turismos censados, 470 por cada 1.000 habitantes según la Comunidad de Madrid a partir de la DGT. La A-4 y la R-4 pasan a menos de tres kilómetros del centro.",
+          "Para un BMW que hace muchos kilómetros de autovía, el indicador de servicio marca bien los cambios de aceite; lo que se suele olvidar es lo que va por tiempo, como el líquido de frenos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Valdemoro?",
+        "a": "Vehinter, en la carretera de Madrid a Toledo (Getafe), a 16 km según bmw.es."
+      },
+      {
+        "q": "¿Sois servicio oficial?",
+        "a": "No. Somos un taller independiente especializado en BMW y MINI, en Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Valdemoro?",
+        "a": "En la calle Vereda de la Solana 43-45, polígono Las Canteras."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "85.972 habitantes (+18 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "40.383 · 470 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "ITV Valdemoro, polígono Las Canteras",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Getafe) · 16 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 43,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

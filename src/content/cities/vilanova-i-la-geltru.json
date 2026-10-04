@@ -3,7 +3,7 @@
   "name": "Vilanova i la Geltrú",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 65890,
+  "population": 71641,
   "lat": 41.22392,
   "lng": 1.72511,
   "metaTitle": "Taller especializado BMW en Vilanova i la Geltrú — Diagnóstico ISTA y recambio OE",
@@ -181,5 +181,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Vilanova i la Geltrú: Quadis en la ciudad, especialista independiente a 39 km",
+    "entradilla": "La capital del Garraf tiene servicio oficial BMW e ITV propios, y el mar a menos de un kilómetro del centro. Nuestro taller está a 39,3 km, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 39.3
+    },
+    "secciones": [
+      {
+        "id": "quadis-eduard-toldra",
+        "h2": "Quadis Munich, en la avinguda d'Eduard Toldrà",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto oficial de la ciudad es Quadis Munich, en la avinguda d'Eduard Toldrà 69, a 2,1 km del centro. Es también el que el localizador da como más cercano a Vilafranca del Penedès y a El Vendrell.",
+          "No somos ese taller. Dasercars es independiente y está especializado en BMW y MINI; por eso esta página explica cuándo encaja cada uno, en lugar de hacerse pasar por el concesionario."
+        ]
+      },
+      {
+        "id": "garraf-c32",
+        "h2": "Por la C-31 y la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta más corta desde el centro sale por la C-31, sigue por la C-32 y entra por la B-25: 39,3 km por carretera, 32,4 en línea recta. Vilanova no está en el Área Metropolitana de Barcelona; la recogida del taller no llega.",
+          "Si el viaje es por una avería concreta, una llamada previa con el modelo, el año, los kilómetros y lo que hace el coche sirve para saber si hace falta bajar y para tener el recambio pedido."
+        ]
+      },
+      {
+        "id": "itv-ronda-europa",
+        "h2": "La ITV de Vilanova, en la Ronda Europa",
+        "parrafos": [
+          "La estación de Vilanova (B17) del registro de la Generalitat, de Applus, está en la Ronda Europa, dentro del término municipal."
+        ]
+      },
+      {
+        "id": "aire-salino",
+        "h2": "Novecientos metros de mar",
+        "parrafos": [
+          "El centro de Vilanova queda a 0,9 km de la costa. En coches que viven junto al mar, los primeros síntomas del salitre suelen ser óxido en los discos tras unos días parado, grapas del escape que se pican y conectores que dan fallos intermitentes. Nada es urgente, pero sí conviene revisarlo cada año.",
+          "La ciudad tenía 71.641 vecinos en 2025, un 9,1 % más que en 2015, y 29.954 turismos en 2024 según Idescat a partir de la DGT: 418 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois Quadis Munich Vilanova?",
+        "a": "No. Quadis Munich es el servicio oficial BMW de la avinguda d'Eduard Toldrà 69. Nosotros somos Dasercars, taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está la ITV de Vilanova i la Geltrú?",
+        "a": "En la Ronda Europa: es la estación B17 del registro de la Generalitat."
+      },
+      {
+        "q": "¿Recogéis el coche en Vilanova?",
+        "a": "No: la recogida del taller no llega fuera del área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "71.641 habitantes (+9,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Garraf",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083073&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "29.954 · 418 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083073&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Vilanova (B17), Ronda Europa",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, av. d'Eduard Toldrà 69 · 2,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 39,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=083073&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
