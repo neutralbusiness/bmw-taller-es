@@ -3,7 +3,7 @@
   "name": "Palau-solità i Plegamans",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 14484,
+  "population": 15614,
   "lat": 41.57972,
   "lng": 2.17966,
   "metaTitle": "BMW Palau-solità i Plegamans — Tu taller especialista con precios de hasta -50%",
@@ -180,5 +180,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Palau-solità i Plegamans: ITV a 6,8 km y especialista BMW a 33,8 por la C-33",
+    "entradilla": "En Palau-solità i Plegamans tienes la ITV y el servicio oficial BMW a menos de diez kilómetros. Lo que no tienes es nuestro taller, que está en Sant Joan Despí. Te contamos cuándo te compensa ir y cuándo no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 33.8
+    },
+    "secciones": [
+      {
+        "id": "itv-cim-valles",
+        "h2": "La ITV del CIM Vallès, en Santa Perpètua",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de CIM Vallès (B20), en el carrer del Pont Vell del polígono Les Minetes, dentro del Centre Integral de Mercaderies de Santa Perpètua de Mogoda: 6,8 km desde el centro de Palau-solità."
+        ]
+      },
+      {
+        "id": "pruna-granollers",
+        "h2": "El servicio oficial, en Granollers",
+        "parrafos": [
+          "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers, a 9,8 km por carretera. Es el sitio para una reparación que pague la garantía del fabricante.",
+          "No somos ese concesionario ni formamos parte de la red oficial: Dasercars es un taller independiente especializado en BMW y MINI, y el mantenimiento o una reparación fuera de garantía los puedes llevar a donde prefieras."
+        ]
+      },
+      {
+        "id": "ruta-c59",
+        "h2": "33,8 km por la C-59, la C-33 y la B-20",
+        "parrafos": [
+          "La C-59 pasa a 0,7 km del centro y es el arranque de la ruta: B-143, C-59, C-33 y B-20 hasta el carrer del Tambor del Bruc, en Sant Joan Despí. Son 33,8 km por carretera y 25,7 en línea recta. El municipio no forma parte del Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega aquí.",
+          "Lo que sí puedes hacer es aprovechar el viaje: si el coche tiene que pasar la ITV pronto, una pre-ITV en el taller —luces, frenos, emisiones, holguras de dirección— y la inspección después, ya cerca de casa."
+        ]
+      },
+      {
+        "id": "parque-palau",
+        "h2": "562 turismos por cada mil habitantes",
+        "parrafos": [
+          "Palau-solità i Plegamans tenía 15.614 habitantes en 2025, frente a 14.457 en 2015: un 8 % más. Idescat, con datos de la DGT, contaba 8.773 turismos en 2024, 562 por cada 1.000 habitantes, en un término de 14,93 km² con la C-155 y la B-142 también a menos de tres kilómetros.",
+          "Si tu coche se mueve sobre todo en trayectos cortos, trabaja mucho embrague, frenos y suspensión en arranques cortos. Si el tuyo es diésel, sácalo de vez en cuando a la C-59 o a la C-33 a ritmo sostenido para que el filtro de partículas termine sus regeneraciones."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Palau-solità?",
+        "a": "Pruna Motor, en la C-17, km 19,060 de Granollers, a 9,8 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es CIM Vallès (B20), en Santa Perpètua de Mogoda, a 6,8 km."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona, y Palau-solità i Plegamans queda fuera."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 33,8 km por carretera, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "15.614 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081568&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.773 · 562 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081568&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20), Santa Perpètua · 6,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 9,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 33,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081568&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

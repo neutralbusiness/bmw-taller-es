@@ -3,7 +3,7 @@
   "name": "Lliçà d'Amunt",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 14143,
+  "population": 16540,
   "lat": 41.61667,
   "lng": 2.23333,
   "metaTitle": "Taller especializado BMW en Lliçà d'Amunt — Diagnóstico ISTA y recambio OE",
@@ -180,5 +180,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Lliçà d'Amunt: concesionario BMW a 6,3 km en Granollers y especialista a 43,8",
+    "entradilla": "Para un BMW de Lliçà d'Amunt, lo oficial queda a un paso, en la C-17 a la altura de Granollers. Nuestro taller está bastante más lejos, en Sant Joan Despí, y conviene tener claro para qué trabajos merece la pena ir hasta allí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 43.8
+    },
+    "secciones": [
+      {
+        "id": "pruna-c17",
+        "h2": "Pruna Motor, en la C-17: el punto oficial más próximo",
+        "parrafos": [
+          "El localizador de bmw.es da como servicio oficial más cercano a Pruna Motor, en la carretera C-17, km 19,060, ya en Granollers: 6,3 km por carretera desde el centro de Lliçà d'Amunt. Si el coche tiene una avería cubierta por la garantía del fabricante, esa es la puerta.",
+          "Fuera de esos casos, el taller lo eliges tú. Nosotros somos Dasercars, un taller independiente dedicado a BMW y MINI, y no tenemos instalaciones en el Vallès Oriental."
+        ]
+      },
+      {
+        "id": "c17-c33-b20",
+        "h2": "43,8 kilómetros por la C-17, la C-33 y la B-20",
+        "parrafos": [
+          "La ruta desde el centro del municipio sale por la C-1415b, toma la C-17 hacia el sur, sigue por la C-33 y termina por la B-20 en el carrer del Tambor del Bruc de Sant Joan Despí: 43,8 km por carretera, 31,3 en línea recta. Lliçà d'Amunt no pertenece al Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
+          "Con esa distancia, el viaje encaja con lo que de verdad pide un especialista de marca: un testigo que vuelve a encenderse después de borrarlo, una fuga de aceite que nadie localiza, un fallo de la válvula EGR en un diésel B47 o la codificación de un módulo electrónico nuevo. Antes de salir, una llamada contando el síntoma y el modelo ahorra viajes en balde."
+        ]
+      },
+      {
+        "id": "itv-el-congost",
+        "h2": "La ITV, en el polígono El Congost",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Granollers (B18), en la avinguda Sant Julià del polígono industrial El Congost, a 11,8 km."
+        ]
+      },
+      {
+        "id": "llica-en-cifras",
+        "h2": "612 turismos por cada mil vecinos",
+        "parrafos": [
+          "El padrón de 2025 da a Lliçà d'Amunt 16.540 habitantes, frente a 14.742 en 2015: un 12,2 % más. En 2024, según Idescat a partir de la DGT, había 10.123 turismos, 612 por cada 1.000 habitantes, muy por encima de los 281 de Barcelona ciudad.",
+          "En un término de 22,33 km², con la C-1415 a 1,1 km y la C-17 a 2,7, muchos trayectos diarios son cortos. Es el uso que peor lleva un diésel con filtro de partículas: rara vez llega a completar la regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Lliçà d'Amunt?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 43,8 km por carretera."
+      },
+      {
+        "q": "¿Cuál es el concesionario BMW más cercano?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 6,3 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Granollers (B18), en el polígono El Congost, a 11,8 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Lliçà d'Amunt?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "16.540 habitantes (+12,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081075&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "10.123 · 612 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081075&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 11,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 6,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 43,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081075&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

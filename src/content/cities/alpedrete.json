@@ -3,7 +3,7 @@
   "name": "Alpedrete",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 12797,
+  "population": 15686,
   "lat": 40.65889,
   "lng": -4.02512,
   "metaTitle": "Taller BMW en Alpedrete | Sierra de Guadarrama",
@@ -170,5 +170,129 @@
     "A-6",
     "M-608",
     "M-618"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Alpedrete, a 914 metros: tu BMW, la ITV de Collado Villalba y el taller de Alcobendas",
+    "entradilla": "Alpedrete está en plena sierra y casi pegado a Collado Villalba, donde tienes la ITV. El taller especialista de la red queda a 51,5 km, en Alcobendas: aquí tienes los datos para decidir qué resuelves cerca y qué no.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 51.5
+    },
+    "secciones": [
+      {
+        "id": "dos-itv-p29",
+        "h2": "Dos estaciones de ITV en el polígono P-29",
+        "parrafos": [
+          "Según el listado oficial de la Comunidad de Madrid, las dos estaciones más próximas por carretera están en el polígono P-29 de Collado Villalba y casi a la misma distancia: la de TÜV SÜD ATISAE (estación 2813), en la calle Escofina 3, a 4,8 km, y la de ITV P-29 Collado Villalba (estación 2883), a 5,5 km. Elige la que tenga antes cita."
+        ]
+      },
+      {
+        "id": "frio-de-sierra",
+        "h2": "Lo que pide un coche a 914 metros",
+        "parrafos": [
+          "En las mañanas de helada, lo primero que falla en un BMW es una batería cansada: con el frío pierde capacidad justo cuando el motor de arranque más le exige, y los modelos con arranque y parada automático la someten a muchos más ciclos. Si toca cambiarla, la nueva se registra en la centralita para que el alternador la cargue como corresponde.",
+          "El anticongelante se comprueba por concentración y no solo por nivel, y el líquido de frenos se cambia por tiempo: absorbe humedad aunque el coche haga pocos kilómetros, y en las bajadas de puerto es cuando más se nota."
+        ]
+      },
+      {
+        "id": "a6-m40-a1",
+        "h2": "Hasta Alcobendas por la A-6, la M-40 y la A-1",
+        "parrafos": [
+          "Desde el centro de Alpedrete, la ruta al taller baja por la A-6, rodea Madrid por la M-40 y sube por la A-1 hasta la calle Valgrande: 51,5 km por carretera para 34,4 en línea recta. En un radio de tres kilómetros del pueblo pasan, entre otras, la M-619, la M-601, la AP-6 y la A-6, así que el acceso a la autovía es inmediato.",
+          "El servicio oficial más cercano según bmw.es es Movilnorte, en la A-6, km 23,100, en Las Rozas, a 20,2 km. Para una reparación en garantía es lo práctico; el viaje a Alcobendas tiene sentido para una avería de especialista o para el mantenimiento fuera de la red."
+        ]
+      },
+      {
+        "id": "alpedrete-en-cifras",
+        "h2": "15.686 vecinos y 8.620 turismos",
+        "parrafos": [
+          "El padrón de 2025 cuenta 15.686 habitantes, un 10,1 % más que en 2015. El parque de turismos de 2025, según la Comunidad de Madrid a partir de la DGT, era de 8.620: 550 por cada 1.000 vecinos, en un término de solo 12,6 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Alpedrete?",
+        "a": "En el polígono P-29 de Collado Villalba: TÜV SÜD ATISAE (calle Escofina 3), a 4,8 km, o ITV P-29 Collado Villalba, a 5,5 km."
+      },
+      {
+        "q": "¿Tenéis taller en la sierra?",
+        "a": "No. El taller de la red es Dasercars Madrid, en Alcobendas, a 51,5 km de Alpedrete."
+      },
+      {
+        "q": "¿Hay que registrar una batería nueva en un BMW?",
+        "a": "Sí. Si no se registra, la centralita sigue cargándola como si fuera la vieja y la batería nueva dura menos."
+      },
+      {
+        "q": "¿Podéis recoger el coche en Alpedrete?",
+        "a": "La recogida y entrega se ofrece en el área metropolitana de Madrid y está sujeta a disponibilidad: pregunta al reservar si tu dirección entra."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "15.686 habitantes (+10,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "8.620 · 550 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "914 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE, Collado Villalba · 4,8 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte, Las Rozas · 20,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 51,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

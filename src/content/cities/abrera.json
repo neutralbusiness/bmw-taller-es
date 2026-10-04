@@ -3,7 +3,7 @@
   "name": "Abrera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 11815,
+  "population": 13227,
   "lat": 41.51682,
   "lng": 1.901,
   "metaTitle": "Taller BMW en Abrera — Especialistas sin perder garantía",
@@ -181,5 +181,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Abrera: especialista BMW independiente a 25,5 km, todo por la A-2",
+    "entradilla": "Desde Abrera, la A-2 pasa a 0,2 km del centro y lleva sin desvíos hasta Sant Joan Despí, donde está el taller de la red. Antes de llamar, conviene aclarar qué somos y qué no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 25.5
+    },
+    "secciones": [
+      {
+        "id": "no-somos-red-oficial",
+        "h2": "Ni concesionario ni red oficial: un taller independiente",
+        "parrafos": [
+          "Hay quien llega aquí buscando un concesionario de la red oficial con nombre de Barcelona. Dasercars no lo es: somos un taller independiente especializado en BMW y MINI, sin relación con los concesionarios de la marca.",
+          "El punto oficial BMW más próximo a Abrera según el localizador de bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 17,5 km por carretera. Para una reparación cubierta por la garantía de BMW o una campaña de la marca, ese es el sitio."
+        ]
+      },
+      {
+        "id": "todo-por-la-a2",
+        "h2": "25,5 kilómetros, todos por la A-2",
+        "parrafos": [
+          "La ruta más corta desde el centro de Abrera al carrer del Tambor del Bruc no cambia de carretera: A-2 hasta Sant Joan Despí, 25,5 km por carretera y 21,6 en línea recta. Además de la A-2, a menos de tres kilómetros pasan la C-55, la B-40, la C-1414 y la N-IIa.",
+          "Abrera es del Baix Llobregat, pero no pertenece al Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí. Con esta distancia, lo práctico es traer el coche por la mañana y volver a por él por la tarde si el trabajo es de un día."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu",
+        "h2": "La ITV, en la N-II a su paso por Sant Andreu de la Barca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Sant Andreu de la Barca (B21), en la carretera N-II, punto kilométrico 592,5, a 10,6 km del centro de Abrera."
+        ]
+      },
+      {
+        "id": "abrera-en-cifras",
+        "h2": "13.227 vecinos y 7.410 turismos",
+        "parrafos": [
+          "Abrera tenía 13.227 habitantes en 2025, un 9,6 % más que en 2015. Idescat, con datos de la DGT, contaba 7.410 turismos en 2024: 560 por cada 1.000 habitantes, el doble que en Barcelona ciudad (281).",
+          "Con autovía a la puerta, un diésel tiene fácil completar la regeneración del filtro de partículas; el problema aparece cuando el coche solo hace recorridos cortos por el pueblo y la autovía se queda para el fin de semana."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois un concesionario BMW?",
+        "a": "No. Dasercars es un taller independiente especializado en BMW y MINI. El servicio oficial más cercano a Abrera es Quadis Munich, en Terrassa."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 25,5 km por la A-2, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Abrera?",
+        "a": "No: la recogida cubre solo el área metropolitana de Barcelona, y Abrera queda fuera."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 10,6 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.227 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080018&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.410 · 560 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080018&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 10,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Terrassa · 17,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 25,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080018&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
