@@ -3,7 +3,7 @@
   "name": "Gargantilla del Lozoya y Pinilla de Buitrago",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 369,
+  "population": 396,
   "lat": 40.96481,
   "lng": -3.69683,
   "metaTitle": "Taller BMW en Gargantilla del Lozoya | Sierra Norte Madrid",
@@ -174,5 +174,118 @@
     "M-127 hacia Buitrago del Lozoya",
     "M-604 como eje serrano",
     "M-611 hacia Lozoya"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Gargantilla del Lozoya y Pinilla de Buitrago: un BMW a 1.054 metros",
+    "entradilla": "El centro urbano está a unos 1.054 metros de altitud. Para un BMW o un MINI eso pesa más que la distancia al taller, que son 68 km hasta Alcobendas. Te contamos ambas cosas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 68.0
+    },
+    "secciones": [
+      {
+        "id": "mil-cincuenta-y-cuatro",
+        "h2": "Por encima de los mil metros: el invierno manda",
+        "parrafos": [
+          "A esta altitud hay heladas buena parte del invierno. El primer aviso suele darlo la batería: un BMW con muchos consumidores y arranque y parada automático la exige más que un coche sencillo, y al sustituirla hay que registrarla en la centralita. Le siguen el anticongelante, que se comprueba con densímetro y no a ojo, y los neumáticos, que con frío y calzada húmeda pierden agarre antes de lo que parece.",
+          "En las bajadas hacia el valle, los frenos se calientan más que en llano. Un líquido de frenos con años pierde punto de ebullición; por eso el plan de mantenimiento lo cambia por tiempo."
+        ]
+      },
+      {
+        "id": "itv-a1",
+        "h2": "La ITV, a 16,1 km en la A-1",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de TÜV SÜD ATISAE (estación 2812), en la A-1, km 66, en el término de Lozoyuela, a 16,1 km según el listado de la Comunidad de Madrid. Desde el pueblo se llega por la M-604, que pasa a menos de tres kilómetros del centro."
+        ]
+      },
+      {
+        "id": "taller-u-oficial",
+        "h2": "Concesionario a 65,9 km, taller especialista a 68",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es BYmyCAR Madrid, en la calle Tejera 2, en la carretera de Algete, a 65,9 km. Nuestro taller, Dasercars Madrid, queda prácticamente a la misma distancia: 68 km por la M-634, la M-604 y la A-1 hasta la calle Valgrande de Alcobendas, 47,7 en línea recta.",
+          "Con las dos opciones igual de lejos, la decisión no va de kilómetros. Las campañas de la marca, en el concesionario; el mantenimiento y las averías, donde prefieras. La recogida del taller está pensada para el área metropolitana de Madrid y no llega a la Sierra Norte."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Gargantilla del Lozoya?",
+        "a": "En la estación de la A-1, km 66 (Lozoyuela), a 16,1 km por carretera."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "68 km por la M-634, la M-604 y la A-1 hasta Alcobendas."
+      },
+      {
+        "q": "¿Qué conviene revisar antes del invierno?",
+        "a": "Batería, anticongelante, neumáticos y líquido de frenos: a más de mil metros, son lo que antes falla."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "396 habitantes (+12,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "239 · 604 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 1.054 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "A-1 km 66 (Lozoyuela) · 16,1 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Algete) · 65,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 68 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

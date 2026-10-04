@@ -3,11 +3,11 @@
   "name": "Fogars de Montclús",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 442,
+  "population": 494,
   "lat": 41.7534,
   "lng": 2.4392,
   "metaTitle": "Taller BMW en Fogars de Montclús | Santa Fe, alta montaña",
-  "metaDescription": "Servicio BMW para Fogars de Montclús, zona de Santa Fe del Montseny. Mantenimiento de alta montaña, frenado extremo y altitud. 622 552 992.",
+  "metaDescription": "BMW en Fogars de Montclús: ITV en Sant Celoni a 14,5 km, servicio oficial en Mataró y taller especialista independiente a 70,4 km, en Sant Joan Despí.",
   "heroSubtitle": "En la alta montaña del Montseny, tu BMW necesita un servicio que entienda cada metro de desnivel. Estamos preparados.",
   "trustChips": [
     {
@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Fogars de Montclús: la BV-5114, la ITV de Sant Celoni y el taller BMW a 70 km",
+    "entradilla": "De Fogars de Montclús a cualquier servicio hay que salir por la BV-5114, y eso se nota en los kilómetros: la ITV de Sant Celoni está a 6,3 km en línea recta pero a 14,5 por carretera. Te contamos qué tienes cerca y qué supone llegar a nuestro taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 70.4
+    },
+    "secciones": [
+      {
+        "id": "carretera-de-curvas",
+        "h2": "Más del doble por carretera que en línea recta",
+        "parrafos": [
+          "La relación entre las dos distancias lo resume: desde el núcleo urbano hasta la estación de ITV de Sant Celoni (B26), en la carretera de Gualba 41-43, hay 6,3 km en línea recta y 14,5 por carretera. La carretera da muchas vueltas, con curvas y desnivel.",
+          "En ese tipo de carretera los frenos trabajan más, sobre todo bajando. El líquido de frenos absorbe humedad con el tiempo y pierde eficacia cuando se calienta, por eso el plan de BMW lo cambia por años y no por kilómetros. Los discos y las pastillas también se gastan antes que en llano."
+        ]
+      },
+      {
+        "id": "oficial-en-mataro",
+        "h2": "El servicio oficial, en Mataró, a 43,3 km",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 43,3 km. Para una campaña del fabricante, es allí; para mantenimiento y averías, el taller lo eliges tú."
+        ]
+      },
+      {
+        "id": "hasta-sant-joan-despi",
+        "h2": "70,4 km por la AP-7 y la C-33",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona baja por la BV-5114, toma la AP-7 y después la C-33 y la B-20: 70,4 km por carretera, 52,5 en línea recta. Fogars queda fuera del área metropolitana, y la recogida del taller no llega.",
+          "Con esa distancia, tiene sentido para un diagnóstico de especialista o una avería que no se ha resuelto cerca. En el taller se presupuesta todo por escrito antes de empezar, incluida la diagnosis."
+        ]
+      },
+      {
+        "id": "fogars-en-cifras",
+        "h2": "494 vecinos en casi 40 km²",
+        "parrafos": [
+          "El padrón de 2025 da a Fogars de Montclús 494 habitantes, 17 más que en 2015, repartidos en 39,72 km². Idescat contaba 279 turismos en 2024, 565 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Fogars de Montclús?",
+        "a": "En la estación de Sant Celoni (B26), carretera de Gualba 41-43, a 14,5 km por carretera."
+      },
+      {
+        "q": "¿Cada cuánto se cambia el líquido de frenos de un BMW?",
+        "a": "Por tiempo, según el plan de mantenimiento del coche, porque absorbe humedad aunque se hagan pocos kilómetros."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 70,4 km por la BV-5114, la AP-7, la C-33 y la B-20, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "494 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080811&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "279 · 565 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080811&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 14,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 43,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 70,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080811&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

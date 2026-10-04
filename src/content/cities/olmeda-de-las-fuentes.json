@@ -3,11 +3,11 @@
   "name": "Olmeda de las Fuentes",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 338,
+  "population": 429,
   "lat": 40.37112,
   "lng": -3.20757,
   "metaTitle": "Taller BMW cerca de Olmeda de las Fuentes | Sierra Este Madrid",
-  "metaDescription": "Diagnóstico y reparación BMW para Olmeda de las Fuentes y la Sierra Este de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en Olmeda de las Fuentes: ITV y servicio oficial en Alcalá de Henares y taller especialista independiente en Alcobendas, a 54,5 km. Ruta y datos.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Olmeda de las Fuentes, uno de los pueblos más pequeños de Madrid.",
   "trustChips": [
     {
@@ -162,5 +162,113 @@
   "zoneAccessRoutes": [
     "M-222",
     "A-3 (acceso más cercano)"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Olmeda de las Fuentes: seis carreteras hasta el taller BMW de Alcobendas",
+    "entradilla": "Entre Olmeda de las Fuentes y nuestro taller hay 54,5 km y seis carreteras distintas. Lo oficial, concesionario e ITV, está en Alcalá de Henares. Te damos los datos para decidir qué hacer cerca y qué no.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 54.5
+    },
+    "secciones": [
+      {
+        "id": "seis-carreteras",
+        "h2": "M-219, M-204, M-300, M-100, R-2 y M-50",
+        "parrafos": [
+          "Desde el centro del núcleo urbano, la ruta hasta la calle Valgrande de Alcobendas encadena la M-219, la M-204, la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 54,5 km por carretera, 40,9 en línea recta. La M-204 pasa a menos de tres kilómetros del pueblo.",
+          "El servicio de recogida no llega tan lejos: queda fuera de su zona, que es el área metropolitana. Lo útil es contar por teléfono qué síntoma tiene el coche antes de hacer el viaje, para que no se quede en una visita de ida y vuelta."
+        ]
+      },
+      {
+        "id": "alcala",
+        "h2": "Inspección y campañas de la marca: las dos cosas, hacia Alcalá",
+        "parrafos": [
+          "Si te llega una carta de BMW por una llamada a revisión, la cita es con la red oficial; la más próxima según bmw.es es AutoPremier (Vía Complutense 131), a 26,5 km. Para el resto de trabajos, el taller lo eliges tú.",
+          "Para la inspección técnica, el listado de la Comunidad de Madrid da como referencia la estación 2878 de TÜV SÜD ATISAE, en el entorno de La Garena. Cuenta con algo más de 20 km: la cifra que manejamos, 22,7, llega al centro de Alcalá y no a la puerta de la estación."
+        ]
+      },
+      {
+        "id": "olmeda-837",
+        "h2": "Un pueblo a 837 metros que ha ganado un 26,9 % de vecinos",
+        "parrafos": [
+          "Olmeda de las Fuentes tenía 338 habitantes en 2015 y 429 en 2025, según el INE. En 2025 había 305 turismos censados (Comunidad de Madrid a partir de la DGT): 711 por cada 1.000 vecinos.",
+          "A 837 metros de altitud, el invierno exige más de lo que parece. Revisa antes del frío la batería, la concentración del anticongelante y el estado de los neumáticos; en un diésel, también los calentadores, que en las mañanas de helada marcan la diferencia en el arranque."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Olmeda de las Fuentes?",
+        "a": "La estación de referencia en el listado de la Comunidad de Madrid es la 2878, en Alcalá de Henares, a algo más de 20 km."
+      },
+      {
+        "q": "¿Qué revisar en el coche antes del invierno?",
+        "a": "Batería, anticongelante, neumáticos y, en los diésel, los calentadores."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "54,5 km por carretera hasta la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "429 habitantes (+26,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "305 · 711 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 837 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 26,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 54,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

@@ -3,11 +3,11 @@
   "name": "Borredà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 594,
-  "lat": 42.132,
-  "lng": 1.896,
+  "population": 433,
+  "lat": 42.12913,
+  "lng": 2.00094,
   "metaTitle": "Taller BMW en Borredà | Servicio Especializado BMW Berguedà",
-  "metaDescription": "Servicio técnico especializado en BMW en Borredà, Berguedà. Diagnóstico avanzado, mantenimiento y reparación de todas las series BMW. Llámanos al 622 552 992.",
+  "metaDescription": "BMW en Borredà (Berguedà), a 854 m: ITV en Berga a 22,9 km, servicio oficial en Vic y taller especialista independiente a 122,1 km. Cuándo no compensa el viaje.",
   "heroSubtitle": "Servicio técnico BMW de confianza en Borredà. Especialistas en diagnóstico y reparación para los exigentes caminos del Alt Berguedà.",
   "trustChips": [
     {
@@ -183,5 +183,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Borredà, a 122 km del taller: lo que conviene resolver en el Berguedà",
+    "entradilla": "Seamos claros desde el principio: de Borredà a nuestro taller de Sant Joan Despí hay 122,1 km. Para casi todo lo que necesita un BMW o un MINI hay opciones más cerca, y te decimos cuáles. El viaje solo tiene sentido en casos concretos.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 122.1
+    },
+    "secciones": [
+      {
+        "id": "lo-que-hay-cerca",
+        "h2": "La ITV en Berga y el concesionario en Vic",
+        "parrafos": [
+          "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono industrial La Valldan, a 22,9 km. El servicio oficial BMW más cercano según bmw.es está más lejos, en la otra dirección: Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 56,8 km.",
+          "Para el mantenimiento rutinario, un taller de confianza de la comarca es lo sensato. Lo importante es que use el aceite con la homologación BMW que pide tu motor."
+        ]
+      },
+      {
+        "id": "cuando-si-bajar",
+        "h2": "Cuándo sí merece la pena hacer 122 km",
+        "parrafos": [
+          "Cuando hay una avería específica de la marca que no se ha resuelto cerca: un fallo electrónico que vuelve tras borrarlo, un problema del sistema de AdBlue, un diésel N47 o N57 con ruido de cadena, o un segundo diagnóstico antes de aceptar una reparación cara. La ruta va por la C-26, que pasa a menos de tres kilómetros del pueblo, y después por la C-16 y la B-20: 122,1 km por carretera, 85 en línea recta.",
+          "Desde aquí no hay recogida, que solo cubre el área metropolitana. Antes de bajar, una llamada con modelo, año, kilometraje y bastidor permite tener la pieza pedida y no hacer el viaje dos veces."
+        ]
+      },
+      {
+        "id": "ochocientos-cincuenta-y-cuatro",
+        "h2": "854 metros de altitud y un pueblo que pierde vecinos",
+        "parrafos": [
+          "Borredà está a 854 metros, según Idescat. En invierno, la batería es la pieza que antes falla en un coche que duerme fuera, y más en un BMW con arranque y parada automático; al sustituirla, se registra en la centralita. El anticongelante debe tener la concentración correcta, no solo el nivel.",
+          "El municipio tenía 503 habitantes en 2015 y 433 en 2025, un 13,9 % menos, en un término de 43,45 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en el Berguedà?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 122,1 km de Borredà."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Borredà?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Berga (B13), a 22,9 km."
+      },
+      {
+        "q": "¿Qué hay que hacer al cambiar la batería de un BMW?",
+        "a": "Registrarla en la centralita, para que el sistema de carga se ajuste a la batería nueva."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "433 habitantes (−13,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080240&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "854 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080240&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 22,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 56,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 122,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080240&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
