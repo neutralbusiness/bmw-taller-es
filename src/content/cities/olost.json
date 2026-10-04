@@ -3,11 +3,11 @@
   "name": "Olost",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1188,
+  "population": 1209,
   "lat": 42.0001,
   "lng": 2.1005,
   "metaTitle": "Taller BMW en Olost | Especialistas al 700m en el Lluçanès",
-  "metaDescription": "Taller BMW en Olost, corazón del Lluçanès. Diagnosis, mantenimiento y reparación para masies y explotaciones ganaderas. Presupuesto sin compromiso.",
+  "metaDescription": "BMW y MINI en Olost: servicio oficial e ITV en Vic, a 19,4 y 25,7 km, y el taller especialista de la red en Sant Joan Despí, a 102,5 km.",
   "heroSubtitle": "Taller BMW en Olost: revisiones y reparaciones adaptadas al clima de montaña y a los caminos de las masies del Lluçanès.",
   "trustChips": [
     {
@@ -184,5 +184,128 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Olost: Vic a 19 km para lo oficial, Sant Joan Despí a 102 para el especialista",
+    "entradilla": "Desde el Lluçanès, Vic es la ciudad de referencia para casi todo lo que tiene que ver con el coche. El taller especialista de la red queda a 102,5 km, y conviene saber qué tiene sentido hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 102.5
+    },
+    "secciones": [
+      {
+        "id": "vic-ciudad-de-referencia",
+        "h2": "Servicio oficial e ITV, los dos en Vic",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 19,4 km por carretera. La ITV que el registro de la Generalitat da como más próxima también está en Vic: Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 25,7 km."
+        ]
+      },
+      {
+        "id": "garantia-y-taller",
+        "h2": "Revisar el coche en garantía fuera de la red",
+        "parrafos": [
+          "Tener el concesionario a 19 km no obliga a hacer allí las revisiones. La normativa europea de distribución de vehículos (Reglamento UE 461/2010) permite que un taller independiente haga el mantenimiento de un coche en garantía, siempre que respete el plan del fabricante: intervalos, aceite con la homologación BMW correcta y recambios de calidad equivalente."
+        ]
+      },
+      {
+        "id": "c62-c25-c16",
+        "h2": "De la C-62 a la B-20: 102,5 kilómetros",
+        "parrafos": [
+          "La C-62 pasa a menos de un kilómetro del núcleo. Desde ahí, la ruta más corta hasta la nave de Dasercars Barcelona enlaza con la C-25, baja por la C-16 y entra por la B-20 en Sant Joan Despí: 102,5 km por carretera, 69 en línea recta.",
+          "Olost no está en el área metropolitana de Barcelona y la recogida que ofrece el taller no llega hasta aquí. Por eso el viaje se reserva para lo que de verdad pide un especialista en la marca: una avería electrónica sin localizar, un problema del sistema de AdBlue o un segundo diagnóstico antes de aceptar una reparación cara."
+        ]
+      },
+      {
+        "id": "olost-parque",
+        "h2": "650 turismos por cada mil vecinos",
+        "parrafos": [
+          "Olost tenía 1.209 habitantes en 2025 (1.182 en 2015) y, según Idescat a partir de la DGT, 786 turismos en 2024: 650 por cada 1.000 vecinos, más del doble que en Barcelona ciudad (281). El término mide 29,37 km² y el núcleo está a 572 metros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Olost?",
+        "a": "Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 19,4 km según bmw.es."
+      },
+      {
+        "q": "¿Qué estación de ITV me queda más cerca?",
+        "a": "Osona (B04), en Vic, a 25,7 km por carretera según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Pierdo la garantía si no voy al concesionario?",
+        "a": "No, mientras el mantenimiento siga el plan de BMW con recambios y aceites de la especificación correcta."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.209 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081496&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "786 · 650 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081496&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 25,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 19,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 102,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081496&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

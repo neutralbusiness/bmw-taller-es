@@ -3,11 +3,11 @@
   "name": "Jorba",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 826,
+  "population": 850,
   "lat": 41.6033,
   "lng": 1.5285,
   "metaTitle": "Taller BMW en Jorba | Especialistas A-2 y clima extremo",
-  "metaDescription": "Servicio técnico BMW en Jorba, Anoia. Especialistas en desgaste por autovía A-2 y temperaturas extremas. Diagnóstico avanzado. Llama al 622 552 992.",
+  "metaDescription": "BMW en Jorba: ITV en Igualada a 11,5 km, servicio oficial en Tàrrega y el taller especialista de la red a 62,2 km, todo por la A-2.",
   "heroSubtitle": "Tu BMW merece atención experta en el corazón de la Anoia. Diagnóstico profesional y reparación integral junto a la A-2.",
   "trustChips": [
     {
@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Jorba, junto a la A-2: ITV en Igualada y el taller BMW a 62 km por la misma autovía",
+    "entradilla": "Del núcleo de Jorba a nuestro taller hay una sola vía en la ruta: la A-2, que pasa junto al pueblo. La ITV queda en Igualada y el servicio oficial BMW más cercano, ya en la provincia de Lleida, en Tàrrega.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 62.2
+    },
+    "secciones": [
+      {
+        "id": "una-sola-autovia",
+        "h2": "62,2 kilómetros de A-2",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona va entera por la A-2 hasta Sant Joan Despí: 62,2 km por carretera y 50,5 en línea recta. Junto al pueblo pasan también la N-II y la C-1412a, y a menos de tres kilómetros, la C-241c y la B-222.",
+          "Jorba no forma parte del área metropolitana, así que la recogida que ofrece el taller no llega aquí. A cambio, el viaje es de autovía de principio a fin, lo que facilita dejar el coche a primera hora y volver a por él cuando el trabajo cabe en el día."
+        ]
+      },
+      {
+        "id": "itv-les-comes",
+        "h2": "La ITV, en el polígono Les Comes de Igualada",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Igualada (B12), en el carrer Països Baixos 18 del polígono Les Comes: 11,5 km. Igualada es la capital de la Anoia, y para la inspección y el mantenimiento corriente no hace falta ir más lejos."
+        ]
+      },
+      {
+        "id": "tarrega",
+        "h2": "El servicio oficial más cercano mira hacia Lleida",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo es Unicars Ponent, en el carrer de la Conca de Barberà de Tàrrega, a 38,2 km por carretera. Para una reparación en garantía que dependa de la marca, es la referencia, aunque esté en otra provincia."
+        ]
+      },
+      {
+        "id": "presupuesto-jorba",
+        "h2": "Saber a qué vas antes de coger la autovía",
+        "parrafos": [
+          "Con más de sesenta kilómetros de viaje, conviene llegar con todo claro. El presupuesto se da por escrito y nada se toca sin tu conformidad; también la diagnosis se presupuesta antes de empezar.",
+          "Jorba tenía 850 habitantes en 2025, prácticamente los mismos que en 2015 (838), y 543 turismos en 2024 según Idescat a partir de la DGT: 639 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me queda más cerca desde Jorba?",
+        "a": "Igualada (B12), en el polígono Les Comes, a 11,5 km por carretera."
+      },
+      {
+        "q": "¿Cómo se llega a vuestro taller?",
+        "a": "Por la A-2 todo el trayecto: 62,2 km hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "En Tàrrega: Unicars Ponent, a 38,2 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "850 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081038&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "543 · 639 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081038&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 11,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent, Tàrrega · 38,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 62,2 km por la A-2",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081038&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

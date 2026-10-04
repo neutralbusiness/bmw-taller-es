@@ -3,11 +3,11 @@
   "name": "Santa Maria de Martorelles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 865,
+  "population": 868,
   "lat": 41.51912,
   "lng": 2.25987,
   "metaTitle": "Taller BMW en Santa Maria de Martorelles | Vallès Oriental",
-  "metaDescription": "Especialistas BMW cerca de Santa Maria de Martorelles. Diagnosis con equipo original, mecánica y mantenimiento con garantía escrita.",
+  "metaDescription": "BMW en Santa Maria de Martorelles: ITV en Santa Perpètua a 8,4 km, servicio oficial en Granollers y taller especialista de la red a 33 km.",
   "heroSubtitle": "Especialistas BMW junto a Mollet del Vallès",
   "trustChips": [
     {
@@ -171,5 +171,125 @@
   "zoneAccessRoutes": [
     "C-17 hacia Barcelona",
     "AP-7 hacia el Vallès Occidental"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Maria de Martorelles: el especialista BMW a 33 km y la ITV a 8,4",
+    "entradilla": "Con 4,51 km² de término y 868 vecinos, Santa Maria de Martorelles tiene la ITV a 8,4 km y el taller especialista de la red a 33 km, en Sant Joan Despí. Esto es lo que te sirve para un BMW o un MINI.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 33.0
+    },
+    "secciones": [
+      {
+        "id": "cim-valles",
+        "h2": "La ITV del CIM Vallès, en Santa Perpètua",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la del CIM Vallès (B20), en el carrer Pont Vell, dentro del polígono Les Minetes de Santa Perpètua de Mogoda: 8,4 km.",
+          "El municipio tenía 868 habitantes en 2025 (853 en 2015) y 444 turismos en 2024 según Idescat a partir de la DGT: 512 por cada 1.000 vecinos. La costa queda a unos 6,7 km en línea recta, demasiado lejos para que el salitre sea un problema habitual."
+        ]
+      },
+      {
+        "id": "granollers-c17",
+        "h2": "Pruna Motor, en la C-17 a la altura de Granollers",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 12 km por carretera. Es donde corresponde una reparación cubierta por la garantía de BMW."
+        ]
+      },
+      {
+        "id": "bv5006-c33",
+        "h2": "33 kilómetros por la C-33 y la B-20",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona baja por la BV-5006 y sigue por la C-33 y la B-20 hasta Sant Joan Despí: 33 km por carretera y 23,6 en línea recta. Santa Maria de Martorelles no está entre los municipios del área metropolitana de Barcelona, de modo que la recogida del taller no llega hasta aquí.",
+          "A esta distancia, el taller no es solo una opción para averías raras: también encaja para el mantenimiento programado si prefieres una alternativa independiente al concesionario."
+        ]
+      },
+      {
+        "id": "antes-de-tocar-el-coche",
+        "h2": "Qué recibes antes de que se toque el coche",
+        "parrafos": [
+          "El taller entrega un presupuesto escrito antes de cualquier intervención y no empieza sin que des el visto bueno. La diagnosis se presupuesta igual que una reparación, porque lleva horas de trabajo técnico."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En el CIM Vallès (B20), en Santa Perpètua de Mogoda, a 8,4 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No: la recogida cubre solo el área metropolitana de Barcelona y el municipio queda fuera."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 12 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "868 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082567&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "444 · 512 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082567&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 8,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 12 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 33 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082567&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

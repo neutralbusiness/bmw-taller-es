@@ -3,11 +3,11 @@
   "name": "Santa Maria d'Oló",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1048,
+  "population": 1099,
   "lat": 41.8672,
   "lng": 2.06,
   "metaTitle": "Taller BMW en Santa Maria d'Oló | Especialistas Alta Montaña",
-  "metaDescription": "Servicio técnico BMW en Santa Maria d'Oló. Especialistas en desgaste por carreteras de montaña, frío extremo y conducción rural. Presupuesto sin compromiso.",
+  "metaDescription": "BMW en Santa Maria d'Oló: servicio oficial en Vic a 21 km, ITV en Sant Fruitós de Bages y el taller especialista de la red a 83,3 km por la C-25.",
   "heroSubtitle": "Expertos en BMW para las exigentes carreteras de montaña del norte del Bages. Diagnóstico avanzado y recogida a domicilio.",
   "trustChips": [
     {
@@ -185,5 +185,123 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Maria d'Oló: 66 km² de término y el taller BMW de la red a 83 km",
+    "entradilla": "Con 66,21 km² y 17 habitantes por kilómetro cuadrado, Santa Maria d'Oló es un municipio extenso y poco denso. Te contamos qué te queda más cerca para el BMW o el MINI y qué supone bajar a Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 83.3
+    },
+    "secciones": [
+      {
+        "id": "termino-extenso",
+        "h2": "Un término grande en el que todo se hace en coche",
+        "parrafos": [
+          "El padrón de 2025 da a Santa Maria d'Oló 1.099 vecinos, casi los mismos que en 2015 (1.063). En 2024 había 643 turismos según Idescat a partir de la DGT, 585 por cada 1.000 habitantes. Con 17 habitantes por km², la distancia forma parte del día a día.",
+          "Para un coche que suma muchos kilómetros por carretera secundaria, lo que más agradece es que se respeten los avisos del indicador de servicio y que neumáticos y amortiguadores se revisen por su estado, no solo por el cuentakilómetros."
+        ]
+      },
+      {
+        "id": "vic-y-sant-fruitos",
+        "h2": "Servicio oficial en Vic, ITV en Sant Fruitós de Bages",
+        "parrafos": [
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono El Grau, a 27,2 km.",
+          "Son dos direcciones distintas, una hacia Osona y otra hacia el Bages, así que no cuentes con resolver las dos cosas en una sola salida."
+        ]
+      },
+      {
+        "id": "c25-hacia-el-sur",
+        "h2": "Por la BP-4313 y la C-25 hasta la C-16",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona sale por la BP-4313, toma la C-25, que pasa a menos de un kilómetro del pueblo, y baja por la C-16 y la B-20: 83,3 km por carretera y 56,8 en línea recta.",
+          "A esa distancia, y fuera del área metropolitana —la recogida del taller no llega aquí—, el desplazamiento se justifica por un trabajo que necesite un especialista en la marca: un diagnóstico que no se ha cerrado, un fallo de inyección o de turbo en un diésel M57 o N57, un testigo que vuelve una y otra vez."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller cerca de Santa Maria d'Oló?",
+        "a": "No. El de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 83,3 km."
+      },
+      {
+        "q": "¿Qué ITV queda más cerca?",
+        "a": "La de Sant Fruitós de Bages (B25), a 27,2 km por carretera."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW?",
+        "a": "En Vic: Quadis Munich, carrer Perot Rocaguinarda 1, a 21 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.099 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Moianès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082589&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "66,21 km² · 17 hab./km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "643 · 585 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082589&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 27,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 21 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082589&lang=es"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

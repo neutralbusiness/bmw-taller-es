@@ -3,11 +3,11 @@
   "name": "Carme",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 866,
+  "population": 847,
   "lat": 41.53975,
   "lng": 1.62104,
   "metaTitle": "Taller BMW cerca de Carme | Anoia | Diagnosis BMW",
-  "metaDescription": "Taller BMW especializado cerca de Carme, Anoia. Diagnosis, mantenimiento y reparación de motor con garantía escrita y presupuesto claro.",
+  "metaDescription": "BMW en Carme (Anoia): ITV en Igualada a 10,3 km, servicio oficial a 50 km y el taller especialista de la red a 63,8 km. Garantía y mantenimiento.",
   "heroSubtitle": "El taller BMW de confianza para los vecinos de Carme y el interior de l'Anoia.",
   "trustChips": [
     {
@@ -169,5 +169,129 @@
     "C-15 hacia Igualada/Vilafranca",
     "BV-2131 hacia Capellades",
     "A-2 como acceso general"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Carme, en la Anoia: ITV a 10,3 km y el taller BMW de la red a 63,8 km",
+    "entradilla": "Desde Carme, el servicio oficial BMW más cercano queda a 50 km y el taller especialista de la red, a 63,8. La diferencia no es tan grande, y eso cambia la manera de decidir dónde llevar el coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 63.8
+    },
+    "secciones": [
+      {
+        "id": "oficial-a-50",
+        "h2": "Servicio oficial a 50 km, especialista a 63,8",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 50 km por carretera. Dasercars Barcelona, en Sant Joan Despí, queda a 63,8 km. Con distancias parecidas, la elección depende más del trabajo que del mapa.",
+          "Si el coche está en garantía, el Reglamento (UE) 461/2010 te deja hacer las revisiones fuera de la red de la marca sin perderla, con dos condiciones: cumplir el plan de mantenimiento y montar piezas y aceites que cumplan la especificación de BMW. Las reparaciones que paga la propia garantía siguen siendo cosa del concesionario."
+        ]
+      },
+      {
+        "id": "bv2131-c244",
+        "h2": "BV-2131, C-244 y A-2",
+        "parrafos": [
+          "La ruta hasta el taller sale por la BV-2131, sigue por la C-244 y entra en la A-2 hasta Sant Joan Despí: 63,8 km por carretera, 41,6 en línea recta. La C-37 queda a 2,4 km del centro.",
+          "Carme no pertenece al área metropolitana de Barcelona: la recogida del taller no cubre el municipio."
+        ]
+      },
+      {
+        "id": "igualada-itv",
+        "h2": "Diez kilómetros hasta la ITV de Igualada",
+        "parrafos": [
+          "La estación más próxima por carretera según la Generalitat es la de Igualada (B12), en el polígono Les Comes, a 10,3 km. No compensa guardar la inspección para la vuelta del taller: Igualada queda a mano, y una pre-ITV la puede hacer cualquier taller de confianza de la comarca."
+        ]
+      },
+      {
+        "id": "carme-en-cifras",
+        "h2": "847 vecinos en 11,68 km²",
+        "parrafos": [
+          "Carme tenía 847 habitantes en 2025 y 792 en 2015, según el padrón, a 351 metros de altitud. Idescat contaba 508 turismos en 2024, a partir de la DGT: 600 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué ir a un taller independiente si el concesionario está a 50 km?",
+        "a": "Porque desde Carme las dos distancias se parecen, y para mantenimiento o averías fuera de garantía puedes elegir. Lo que cubre la garantía de BMW se repara en la red oficial."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Igualada (B12), polígono Les Comes, a 10,3 km."
+      },
+      {
+        "q": "¿Pierdo la garantía si hago las revisiones con vosotros?",
+        "a": "No, si se sigue el plan de mantenimiento con piezas y aceites de la especificación correcta."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "847 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080484&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "508 · 600 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080484&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 10,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 50 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 63,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080484&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

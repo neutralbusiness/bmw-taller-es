@@ -3,11 +3,11 @@
   "name": "Castellcir",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 784,
+  "population": 804,
   "lat": 41.75431,
   "lng": 2.1497,
   "metaTitle": "Taller BMW cerca de Castellcir | Moianès | Diagnosis BMW",
-  "metaDescription": "Taller BMW especializado cerca de Castellcir. Diagnosis, mantenimiento y reparación de motor con garantía escrita y presupuesto claro.",
+  "metaDescription": "BMW en Castellcir (Moianès): taller autorizado en Castellar del Vallès, ITV en Santa Perpètua y el taller especialista de la red a 63,1 km.",
   "heroSubtitle": "El taller BMW de confianza para los vecinos de Castellcir y el Moianès.",
   "trustChips": [
     {
@@ -169,5 +169,125 @@
     "C-59 hacia Caldes de Montbui/Manresa",
     "BV-1341 comarcal",
     "C-17 como acceso general"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellcir: un BMW a 773 metros, ITV a 36 km y el taller de la red a 63",
+    "entradilla": "Castellcir está en el Moianès, a 773 metros de altitud, y todo lo relacionado con el coche queda a más de treinta kilómetros: el taller autorizado BMW, la ITV y el taller especialista de la red. Ordenamos las tres opciones.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 63.1
+    },
+    "secciones": [
+      {
+        "id": "tres-destinos",
+        "h2": "Tallcar, el CIM Vallès y Sant Joan Despí",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es Tallcar, un taller autorizado en la calle Suiza 6 de Castellar del Vallès, a 35 km por carretera. La estación de ITV más próxima por carretera en el registro de la Generalitat es la del CIM Vallès (B20), en Santa Perpètua de Mogoda, a 36,1 km. Y Dasercars Barcelona, el taller especialista de la red, está a 63,1 km."
+        ]
+      },
+      {
+        "id": "c59-c33",
+        "h2": "Seis carreteras hasta el Baix Llobregat",
+        "parrafos": [
+          "La ruta más corta encadena la BV-1310, la C-59, la BV-1341, la C-1413b, la C-33 y la B-20: 63,1 km por carretera y 43,8 en línea recta. La C-59 pasa a 1,9 km del centro del pueblo. Castellcir está fuera del área metropolitana de Barcelona y la recogida del taller no llega.",
+          "Para no hacer el viaje en balde, conviene una llamada previa en la que digas el modelo, el año, los kilómetros y cómo se comporta la avería. Con esos datos se valora si es un caso de especialista o algo que un taller cercano puede resolver."
+        ]
+      },
+      {
+        "id": "773-metros",
+        "h2": "Casi ochocientos metros de altitud",
+        "parrafos": [
+          "A 773 metros, el frío del invierno exige más al arranque: un diésel necesita los calentadores en buen estado, y cualquier BMW, una batería con capacidad suficiente para todos sus consumos eléctricos.",
+          "El líquido de frenos merece atención aparte en carreteras con pendiente: absorbe humedad con el tiempo y pierde eficacia al calentarse, y por eso el plan de BMW lo cambia por años y no por kilómetros."
+        ]
+      },
+      {
+        "id": "castellcir-cifras",
+        "h2": "804 vecinos y 405 turismos",
+        "parrafos": [
+          "Castellcir tenía 694 habitantes en 2015 y 804 en 2025, un 15,9 % más, en un término de 34,18 km². Idescat, a partir de la DGT, contaba 405 turismos en 2024: 504 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el taller BMW autorizado más cercano a Castellcir?",
+        "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 35 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la del CIM Vallès (B20), en Santa Perpètua de Mogoda, a 36,1 km."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 63,1 km, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "804 habitantes (+15,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Moianès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080556&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "773 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080556&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "405 · 504 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080556&lang=es"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar, Castellar del Vallès · 35 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20) · 36,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080556&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

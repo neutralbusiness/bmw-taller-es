@@ -3,11 +3,11 @@
   "name": "Calders",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 955,
+  "population": 1122,
   "lat": 41.76756,
   "lng": 1.9681,
   "metaTitle": "Taller BMW en Calders (Bages) | Diagnosis y reparación",
-  "metaDescription": "Taller especializado BMW cerca de Calders, Bages. Diagnosis por marca, mantenimiento y reparación de motor, caja ZF y turbo. Recogida en Calders disponible.",
+  "metaDescription": "BMW en Calders (Moianès): servicio oficial e ITV en Sant Fruitós de Bages, a 12,4 y 15,7 km, y taller especialista de la red a 70,7 km por la C-16.",
   "heroSubtitle": "El taller BMW de referencia para los propietarios de Calders y el Moianès sur.",
   "trustChips": [
     {
@@ -170,5 +170,119 @@
     "C-16 (eje del Llobregat)",
     "Carretera de Calders a Manresa (BV-1225)",
     "C-59 hacia Barcelona"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calders, en el Moianès: lo oficial a 12 km en Sant Fruitós y el especialista BMW a 71",
+    "entradilla": "Sant Fruitós de Bages lo concentra casi todo para un coche de Calders: servicio oficial BMW e ITV, a 12,4 y 15,7 km. Nuestro taller está en Sant Joan Despí, a 70,7 km por la C-16. Lo que conviene hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 70.7
+    },
+    "secciones": [
+      {
+        "id": "sant-fruitos-cerca",
+        "h2": "Concesionario e ITV en el mismo municipio vecino",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto oficial más próximo es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 12,4 km por carretera. En el mismo término está la ITV que el registro de la Generalitat da como más próxima, Sant Fruitós (B25), en el carrer Les Malloles del polígono industrial El Grau, a 15,7 km.",
+          "Si recibes una carta de BMW para una revisión de seguridad, esa intervención solo la hace la red oficial, y lo lógico es hacerla en Sant Fruitós."
+        ]
+      },
+      {
+        "id": "n141c-c16",
+        "h2": "De la N-141c a la C-16",
+        "parrafos": [
+          "La N-141c pasa a cien metros del centro, y por ahí empieza la ruta hasta la nave de Dasercars Barcelona; después vienen la C-16 y la B-20 hasta Sant Joan Despí. En total, 70,7 km por carretera y 47,3 en línea recta.",
+          "Calders queda fuera del área metropolitana y la recogida del taller no llega. El viaje compensa cuando buscas una alternativa independiente al concesionario para un trabajo concreto: un ruido de distribución, una caja automática que ya ha dado problemas, una avería eléctrica intermitente."
+        ]
+      },
+      {
+        "id": "moianes-cifras",
+        "h2": "Un 15,9 % más de vecinos en diez años",
+        "parrafos": [
+          "Calders tenía 968 habitantes en 2015 y 1.122 en 2025, según el padrón, en un término de 33,09 km² a 552 metros de altitud. Idescat, con datos de la DGT, contaba 668 turismos en 2024: 595 por cada 1.000 habitantes.",
+          "Un coche que pasa días parado y luego hace solo trayectos cortos sufre más por la batería y por un aceite que no llega a coger temperatura que por los kilómetros. Si es tu caso, el intervalo de cambio de aceite por tiempo importa tanto como el de kilometraje."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano a Calders?",
+        "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5 (Sant Fruitós de Bages), a 12,4 km."
+      },
+      {
+        "q": "¿Y la ITV?",
+        "a": "En el polígono El Grau de Sant Fruitós de Bages (estación B25), a 15,7 km."
+      },
+      {
+        "q": "¿Calders es del Bages?",
+        "a": "No: según Idescat, Calders pertenece al Moianès. Los servicios que tienes más cerca, eso sí, están en el Bages."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.122 habitantes (+15,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Moianès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080348&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "668 · 595 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080348&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 12,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 15,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 70,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080348&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

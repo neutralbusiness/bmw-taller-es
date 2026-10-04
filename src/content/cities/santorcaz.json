@@ -3,11 +3,11 @@
   "name": "Santorcaz",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 850,
+  "population": 1011,
   "lat": 40.47163,
   "lng": -3.23436,
   "metaTitle": "Taller BMW cerca de Santorcaz | Alcarria madrileña",
-  "metaDescription": "Servicio especializado BMW cerca de Santorcaz, Madrid. Diagnosis con equipo original, mecánica y mantenimiento con garantía escrita.",
+  "metaDescription": "Santorcaz, a 880 m: qué revisar en tu BMW antes del invierno, ITV y servicio oficial en Alcalá y taller especialista en Alcobendas, a 46,3 km.",
   "heroSubtitle": "Especialistas BMW para la Alcarria madrileña",
   "trustChips": [
     {
@@ -171,5 +171,119 @@
   "zoneAccessRoutes": [
     "Carretera comarcal hacia Alcalá de Henares",
     "A-2 acceso más próximo"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santorcaz, a 880 metros: frío, batería y el taller BMW a 46 km por la R-2",
+    "entradilla": "El núcleo urbano de Santorcaz está a unos 880 metros de altitud, y eso cambia lo que hay que vigilar en un BMW antes del invierno. Lo demás —ITV, servicio oficial y taller— está en Alcalá de Henares y en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 46.3
+    },
+    "secciones": [
+      {
+        "id": "880-metros",
+        "h2": "Antes de la primera helada",
+        "parrafos": [
+          "A 880 metros, el frío pone a prueba tres cosas. La batería, que pierde capacidad con la temperatura y en un BMW alimenta muchos consumos incluso con el coche parado; el anticongelante, que debe tener la concentración correcta y no solo el nivel; y los calentadores de un diésel, que cuando fallan se notan en arranques largos y humo blanco las primeras mañanas.",
+          "Si cambias la batería, que la registren en el coche: la gestión de carga del BMW ajusta la tensión al tipo y a la capacidad que tiene anotados, y una batería sin registrar se carga mal."
+        ]
+      },
+      {
+        "id": "alcala-cerca",
+        "h2": "Vía Complutense y La Garena: lo que tienes en Alcalá",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 18 km por carretera. La estación oficial de ITV más cercana es la de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena, también en Alcalá.",
+          "El listado de la Comunidad de Madrid solo permite situar esa estación en el municipio, así que la distancia es orientativa: unos 15,5 km por carretera hasta Alcalá."
+        ]
+      },
+      {
+        "id": "m226-r2",
+        "h2": "46,3 km hasta Alcobendas por la M-226 y la R-2",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande sale por la M-226, toma la R-2 y entra por la M-50: 46,3 km por carretera y 36 en línea recta. El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; con ese horario, lo cómodo es dejar el coche al empezar el día.",
+          "Santorcaz tenía 1.011 vecinos en 2025, un 19,1 % más que diez años antes, y 652 turismos según la Comunidad de Madrid a partir de la DGT: 645 por cada 1.000 habitantes. La M-213 pasa a menos de medio kilómetro del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué revisar en el BMW antes del invierno en Santorcaz?",
+        "a": "Batería, concentración del anticongelante y, en los diésel, el estado de los calentadores."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación 2878 de Alcalá de Henares, en la avenida Juan Carlos I (La Garena), a unos 15,5 km."
+      },
+      {
+        "q": "¿A cuánto está vuestro taller?",
+        "a": "A 46,3 km por la M-226, la R-2 y la M-50, en Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.011 habitantes (+19,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "652 · 645 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 880 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE (2878), Alcalá de Henares · unos 15,5 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Vía Complutense 131 (Alcalá) · 18 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 46,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
