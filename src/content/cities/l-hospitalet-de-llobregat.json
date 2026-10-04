@@ -3,11 +3,11 @@
   "name": "L'Hospitalet de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 257038,
+  "population": 289510,
   "lat": 41.35967,
   "lng": 2.10028,
   "metaTitle": "Taller BMW en L'Hospitalet — Especialistas con diagnóstico ISTA",
-  "metaDescription": "Taller especialista en BMW en L'Hospitalet de Llobregat. Mantén tu garantía oficial con nuestras revisiones CBS y reparaciones. Pide tu presupuesto cerrado.",
+  "metaDescription": "BMW y MINI en L'Hospitalet: taller especialista independiente a 7,9 km, en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad e ITV en Cornellà.",
   "heroSubtitle": "¿Tu BMW aún está en garantía? No tienes por qué pagar de más en el concesionario. Te explicamos cómo ahorrar hasta un 50 % en L'Hospitalet.",
   "trustChips": [
     {
@@ -195,5 +195,137 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW para L'Hospitalet: Dasercars Barcelona, a 7,9 km en Sant Joan Despí",
+    "entradilla": "Con más de 23.000 vecinos por kilómetro cuadrado, en L'Hospitalet el coche se mueve poco y en recorridos cortos. El taller especialista BMW de la red está en el municipio vecino de Sant Joan Despí; aquí tienes la ruta, la ITV, el concesionario de la ciudad y lo que conviene vigilar en un BMW de uso urbano.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 7.9
+    },
+    "secciones": [
+      {
+        "id": "ciudad-densa",
+        "h2": "289.510 vecinos en 12,4 km²",
+        "parrafos": [
+          "El padrón de 2025 da a L'Hospitalet de Llobregat 289.510 habitantes, un 14,8 % más que los 252.171 de 2015, en un término de apenas 12,4 km²: 23.348 personas por kilómetro cuadrado. Idescat, con datos de la DGT, contaba 74.343 turismos en 2024, 257 por cada 1.000 habitantes, menos incluso que en Barcelona ciudad (281).",
+          "Pocos coches y trayectos cortos tienen una consecuencia mecánica concreta en los diésel: el filtro de partículas necesita temperatura de escape sostenida para regenerarse, y un coche que solo cruza el barrio no la alcanza. Si el aviso del filtro aparece a menudo, borrarlo no sirve; hay que revisar la presión diferencial, el termostato y el historial de regeneraciones que guarda la centralita.",
+          "La B-20 y la C-32 pasan a un kilómetro del centro y la C-31 a menos de dos, así que un rato de vía rápida a régimen constante está siempre a mano."
+        ]
+      },
+      {
+        "id": "ruta-sant-joan-despi",
+        "h2": "Hasta Sant Joan Despí: 3,7 km en línea recta, 7,9 por carretera",
+        "parrafos": [
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí. Desde el centro de L'Hospitalet son 3,7 km en línea recta y 7,9 km por carretera, uno de los recorridos más cortos de toda la red de ciudades.",
+          "L'Hospitalet forma parte del Área Metropolitana de Barcelona, de modo que puedes pedir que recojan y devuelvan el coche, o un vehículo de cortesía si el trabajo dura más de un día. Las dos cosas dependen de la disponibilidad de esa semana: plantéalo al reservar, no el mismo día."
+        ]
+      },
+      {
+        "id": "servicio-oficial-en-la-ciudad",
+        "h2": "Barcelona Premium, el servicio oficial dentro de la ciudad",
+        "parrafos": [
+          "Según el localizador de bmw.es, L'Hospitalet tiene su propio punto de servicio oficial: Barcelona Premium, en la calle Montserrat Roig 31, a 3,6 km del centro por carretera. Si te ha llegado una carta de BMW por una campaña de revisión, esa cita se pide allí.",
+          "Dasercars es otra cosa: un taller independiente que solo trabaja BMW y MINI. El mantenimiento según el plan de la marca, un ruido de cadena en un N47 o un fallo eléctrico que no aparece a la primera son el tipo de trabajo para el que tiene sentido comparar las dos opciones."
+        ]
+      },
+      {
+        "id": "itv-campsa",
+        "h2": "La ITV, en el passeig de la Campsa de Cornellà",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima al centro de L'Hospitalet es la de Cornellà (B11), que gestiona Applus, en el passeig de la Campsa 64: 0,8 km por carretera. Si el coche pasa antes por el taller para una pre-ITV, la estación queda a un paso tanto de casa como de Sant Joan Despí."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en L'Hospitalet?",
+        "a": "No dentro del término. El taller de la red es Dasercars Barcelona, en Sant Joan Despí, a 7,9 km por carretera del centro."
+      },
+      {
+        "q": "¿Podéis recoger el coche en L'Hospitalet?",
+        "a": "Sí: la ciudad está dentro del área metropolitana. La recogida y entrega está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Por qué se tapona el filtro de partículas en ciudad?",
+        "a": "Porque la regeneración necesita temperatura de escape durante un rato y los trayectos cortos no la dan. Si el aviso vuelve aunque el coche salga a vía rápida, hay que buscar la causa."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW de L'Hospitalet?",
+        "a": "Barcelona Premium, en la calle Montserrat Roig 31, según el localizador de bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "289.510 habitantes (+14,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Barcelonès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081017&lang=es"
+      },
+      {
+        "etiqueta": "Densidad",
+        "valor": "23.348 hab./km² (12,4 km²)",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081017&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "74.343 · 257 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081017&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Cornellà (B11), pg. de la Campsa 64 · 0,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, c. Montserrat Roig 31 · 3,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 7,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081017&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

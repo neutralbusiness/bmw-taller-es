@@ -3,11 +3,11 @@
   "name": "Coslada",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 81860,
+  "population": 80512,
   "lat": 40.42378,
   "lng": -3.56129,
   "metaTitle": "Taller BMW en Coslada — Especialistas en Mantenimiento Preventivo",
-  "metaDescription": "Taller especialista en BMW en Coslada. Mantenimiento preventivo para motores con alto kilometraje (cadena, Vanos, juntas). Diagnóstico ISTA. Ahorra hasta un 50 %.",
+  "metaDescription": "Taller especialista BMW y MINI para Coslada, en Alcobendas a 20,7 km por la M-40. Tres ITV en el municipio y recogida sujeta a disponibilidad.",
   "heroSubtitle": "Tu BMW tiene más de 150.000 km y te preocupa la cadena o el Vanos. Te ofrecemos mantenimiento preventivo real en Coslada.",
   "trustChips": [
     {
@@ -188,5 +188,120 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Coslada: tres ITV en el municipio y taller BMW en Alcobendas por la M-40",
+    "entradilla": "En Coslada vive hoy un 7,4 % menos de gente que en 2015, pero el municipio sigue teniendo tres estaciones de ITV y 42.062 turismos censados. El taller especialista que lo atiende está en Alcobendas, a 20,7 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 20.7
+    },
+    "secciones": [
+      {
+        "id": "tres-itv-coslada",
+        "h2": "Tres estaciones de ITV dentro de Coslada",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye tres estaciones en el municipio: Itevelesa (estación 2880), en la avenida de la Constitución 4; General de Servicios ITV (2851), en la avenida de San Pablo 29, y TÜV SÜD ATISAE (2815), en la calle Alcarria 2.",
+          "Para un término de 12 km² es mucha oferta, y permite pedir cita casi sin mirar el calendario."
+        ]
+      },
+      {
+        "id": "m40-m12",
+        "h2": "Hacia Alcobendas por la M-40 y la M-12",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sube por la M-40 y la M-12: 20,7 km por carretera, 15,1 en línea recta. Coslada está dentro del área metropolitana de Madrid, de modo que, si no puedes llevar el coche, el taller ofrece recogida y entrega sujeta a disponibilidad, igual que el vehículo de cortesía en trabajos de varios días."
+        ]
+      },
+      {
+        "id": "caetano-alcala",
+        "h2": "El concesionario más próximo, en la calle de Alcalá",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial más cercano es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 8,4 km por carretera. Es la dirección para una reparación cubierta por la garantía del fabricante.",
+          "Un taller independiente no compite con eso, sino con el mantenimiento y las averías fuera de garantía. En Dasercars cada trabajo arranca con un presupuesto escrito que tienes que aprobar, y la diagnosis se presupuesta aparte."
+        ]
+      },
+      {
+        "id": "coslada-en-cifras",
+        "h2": "522 turismos por cada 1.000 habitantes",
+        "parrafos": [
+          "Coslada tenía 86.919 habitantes en 2015 y 80.512 en 2025. Los 42.062 turismos censados en 2025, según la Comunidad de Madrid a partir de la DGT, salen a 522 por cada 1.000 vecinos, frente a 388 en Madrid capital.",
+          "La A-2, la R-3, la M-21, la M-22 y la M-45 pasan a menos de tres kilómetros del centro. Un municipio tan rodeado de vías rápidas es buen sitio para un diésel; lo que más castiga aquí a un coche son los atascos de entrada a Madrid, con embrague y frenos trabajando a ratos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV hay en Coslada?",
+        "a": "Tres, según la Comunidad de Madrid: Itevelesa (avenida de la Constitución 4), General de Servicios ITV (avenida de San Pablo 29) y TÜV SÜD ATISAE (calle Alcarria 2)."
+      },
+      {
+        "q": "¿Recogéis el coche en Coslada?",
+        "a": "Sí, Coslada está en el área metropolitana de Madrid. La recogida está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Cuánto hay hasta el taller?",
+        "a": "20,7 km por la M-40 y la M-12, hasta la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "80.512 habitantes (−7,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "42.062 · 522 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "3",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Caetano Cuzco, c. de Alcalá 474 (Madrid) · 8,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 20,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

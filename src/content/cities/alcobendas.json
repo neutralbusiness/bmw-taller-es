@@ -3,11 +3,11 @@
   "name": "Alcobendas",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 116037,
+  "population": 123342,
   "lat": 40.54746,
   "lng": -3.64197,
   "metaTitle": "Taller BMW en Alcobendas — Especialistas sin perder garantía",
-  "metaDescription": "Taller especialista BMW en Alcobendas. Realizamos la revisión CBS de tu BMW en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "Dasercars Madrid, taller independiente especializado en BMW y MINI, está en la calle Valgrande 17 de Alcobendas. Presupuesto por escrito y cuatro ITV en el municipio.",
   "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Alcobendas, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
@@ -188,5 +188,125 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Alcobendas: el taller especialista BMW de la red está en el propio municipio",
+    "entradilla": "Es de las pocas páginas de la red en la que el taller no queda en otro sitio: Dasercars Madrid tiene su nave en la calle Valgrande 17, dentro del término de Alcobendas. Aquí tienes cómo se trabaja, las cuatro ITV del municipio y dónde está el concesionario más próximo.",
+    "socio": {
+      "id": "dasercars-alcobendas"
+    },
+    "secciones": [
+      {
+        "id": "calle-valgrande",
+        "h2": "Calle Valgrande 17: cómo funciona el taller",
+        "parrafos": [
+          "Dasercars es un taller independiente especializado en BMW y MINI, con especial dedicación a los diésel N47, N57, M47, M57, B47 y B57 y homologación REDISTA para trabajos de escape y gases. Abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; el fin de semana está cerrado.",
+          "Antes de tocar el coche se entrega un presupuesto por escrito, y no se empieza nada sin que lo apruebes. La diagnosis tampoco se da por supuesta: se presupuesta igual que cualquier otro trabajo.",
+          "Al estar en el área metropolitana de Madrid, si no puedes acercarte hay recogida y entrega del coche, y vehículo de cortesía para reparaciones largas, ambos sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "cuatro-itv-alcobendas",
+        "h2": "Cuatro estaciones de ITV en el término",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid recoge cuatro ITV en Alcobendas: Applus Iteuve (estación 2868), en la calle La Maliciosa; TÜV SÜD ATISAE (2814), en la calle Peñalara 29, en el Parque Empresarial Valdelacasa; Itevelesa (2833), en la avenida de Fuencarral 100, y DEKRA (2806), en la avenida de Valdelaparra 1.",
+          "Con tantas estaciones en el mismo municipio que el taller, lo lógico es hacer la pre-ITV en la nave y pedir la cita de inspección para esa misma semana."
+        ]
+      },
+      {
+        "id": "concesionario-las-tablas",
+        "h2": "El concesionario más cercano está en Las Tablas",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto de servicio oficial más próximo es BYmyCAR Madrid, en la avenida de Burgos 133 de Madrid, a 7 km por carretera. Las reparaciones que cubre la garantía de BMW se gestionan en la red oficial.",
+          "El mantenimiento periódico es otra historia: el Reglamento (UE) 461/2010 permite hacerlo en un taller independiente sin perder la garantía, con dos condiciones, respetar los intervalos y usar recambios y aceites con la especificación del fabricante."
+        ]
+      },
+      {
+        "id": "turismos-alcobendas",
+        "h2": "332.201 turismos para 123.342 vecinos",
+        "parrafos": [
+          "El padrón de 2025 da a Alcobendas 123.342 habitantes, un 9,1 % más que en 2015. La cifra de turismos que publica la Comunidad de Madrid a partir de la DGT, 332.201 en 2025, casi triplica la población: no mide los coches de los vecinos, sino que incluye flotas de empresa domiciliadas en el municipio. Por eso no sacamos de ella ninguna proporción.",
+          "Lo que sí sirve es la red viaria: la A-1, la M-12, la M-603 y la M-616 pasan a menos de tres kilómetros del centro, y San Sebastián de los Reyes está a 1,5 km, de modo que desde el norte de la región el taller queda prácticamente de camino."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está exactamente el taller?",
+        "a": "En la calle Valgrande 17 de Alcobendas (CP 28108)."
+      },
+      {
+        "q": "¿Qué ITV hay en Alcobendas?",
+        "a": "Cuatro, según la Comunidad de Madrid: Applus Iteuve, TÜV SÜD ATISAE, Itevelesa y DEKRA."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      },
+      {
+        "q": "¿Por qué hay más turismos censados que habitantes?",
+        "a": "Porque el censo de la DGT asigna cada vehículo al domicilio de su titular, y en Alcobendas hay flotas de empresa domiciliadas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "123.342 habitantes (+9,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos censados (2025)",
+        "valor": "332.201 (incluye flotas domiciliadas)",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "4",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid, av. de Burgos 133 · 7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Calle Valgrande 17, en el municipio",
+        "fuente": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

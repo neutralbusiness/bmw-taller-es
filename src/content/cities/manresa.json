@@ -3,11 +3,11 @@
   "name": "Manresa",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 76250,
+  "population": 80974,
   "lat": 41.72815,
   "lng": 1.82399,
   "metaTitle": "Taller BMW en Manresa — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Manresa: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "BMW en Manresa: servicio oficial a 6,9 km en Sant Fruitós y taller especialista independiente a 60,5 km. Qué conviene resolver cerca y qué merece el viaje.",
   "heroSubtitle": "Tu BMW merece un especialista. En Manresa, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -182,5 +182,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Manresa: servicio oficial BMW a 6,9 km y taller especialista a 60 km por la C-16",
+    "entradilla": "En la capital del Bages tienes ITV propia y el concesionario BMW en Sant Fruitós, a menos de siete kilómetros. Nuestro taller está a 60,5 km, en Sant Joan Despí. Esta página va de cómo repartir los trabajos entre lo de cerca y lo de lejos.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 60.5
+    },
+    "secciones": [
+      {
+        "id": "repartir-trabajos",
+        "h2": "Qué conviene hacer en el Bages y qué en Sant Joan Despí",
+        "parrafos": [
+          "La inspección, los neumáticos, un cambio de pastillas o una revisión que solo necesita el aceite de la especificación correcta se resuelven en Manresa sin perder un día de carretera. El punto oficial BMW más próximo según el localizador de bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 6,9 km; es donde se tramitan las reparaciones en garantía.",
+          "La bajada al Baix Llobregat tiene sentido para lo que pide un especialista de la marca: una avería en un diésel de las familias N47, N57, B47 o B57, una modificación de escape que hay que homologar —el taller tiene homologación REDISTA para escape y gases— o un fallo electrónico que ya ha pasado por otros talleres sin solución."
+        ]
+      },
+      {
+        "id": "c16-hacia-el-taller",
+        "h2": "60,5 km por la C-16, la B-30 y la AP-7",
+        "parrafos": [
+          "Desde el centro de Manresa hasta el carrer del Tambor del Bruc, la ruta usa la C-16, la B-30, un tramo de la AP-7 y la B-23: 60,5 km por carretera, 44,6 en línea recta. Manresa no está en el área metropolitana, así que la recogida del taller no llega hasta aquí.",
+          "Para que el viaje no sea en balde, describe el síntoma por teléfono, ten a mano el número de bastidor y, si el coche guarda avisos, di cuáles. Con eso la pieza puede estar pedida el día que llegas."
+        ]
+      },
+      {
+        "id": "itv-manresa-b06",
+        "h2": "La ITV de Manresa, en Bufalvent",
+        "parrafos": [
+          "La estación de Manresa (B06), de TÜV Rheinland, está en el carrer d'Esteve Terrades 2-4, en el polígono industrial Bufalvent, dentro del término municipal según el registro de la Generalitat."
+        ]
+      },
+      {
+        "id": "manresa-en-cifras",
+        "h2": "80.974 vecinos a 238 metros",
+        "parrafos": [
+          "Manresa tenía 80.974 habitantes en 2025, un 8,5 % más que en 2015, y 36.690 turismos en 2024 según Idescat a partir de la DGT: 453 por cada 1.000 habitantes. El centro está a 238 metros de altitud, y la C-25, la C-55 y la C-16C pasan a menos de tres kilómetros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Manresa?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 60,5 km."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5 (Sant Fruitós de Bages), a 6,9 km según bmw.es."
+      },
+      {
+        "q": "¿Homologáis cambios de escape?",
+        "a": "El taller cuenta con homologación REDISTA para trabajos de escape y gases. Consulta tu caso por teléfono antes de bajar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "80.974 habitantes (+8,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081136&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "36.690 · 453 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081136&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Manresa (B06), polígono Bufalvent",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 6,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 60,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081136&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

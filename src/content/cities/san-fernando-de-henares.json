@@ -3,11 +3,11 @@
   "name": "San Fernando de Henares",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 39466,
+  "population": 39059,
   "lat": 40.42386,
   "lng": -3.53261,
   "metaTitle": "Taller Especialista BMW en San Fernando de Henares | Diagnóstico",
-  "metaDescription": "Tu taller BMW en San Fernando de Henares. Ahorra hasta un 50 % en reparaciones de cadena N47/B47, turbo y revisiones CBS. Presupuesto cerrado. ¡Pide cita!",
+  "metaDescription": "Taller especialista BMW y MINI para San Fernando de Henares, en Alcobendas a 22,7 km. ITV en la calle Tapiceros y recogida sujeta a disponibilidad.",
   "heroSubtitle": "Recibiste un presupuesto desorbitado del concesionario por la cadena o el turbo de tu BMW? En San Fernando tenemos la alternativa.",
   "trustChips": [
     {
@@ -200,5 +200,129 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "San Fernando de Henares: ITV en la calle Tapiceros y taller BMW a 22,7 km",
+    "entradilla": "Un término de 38,7 km² con seis vías rápidas a menos de tres kilómetros del centro y una estación de ITV propia. El taller especialista que lo atiende está en Alcobendas; aquí van la ruta y lo que tienes más cerca.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 22.7
+    },
+    "secciones": [
+      {
+        "id": "itv-tapiceros",
+        "h2": "ITV Jarama, en la calle Tapiceros",
+        "parrafos": [
+          "El listado de la Comunidad de Madrid incluye una estación de ITV en el municipio: ITV Jarama (estación 2881), en la calle Tapiceros 2. Para un coche de San Fernando, es la opción sin desplazamiento."
+        ]
+      },
+      {
+        "id": "seis-vias",
+        "h2": "A-2, M-45, M-50: carreteras para elegir",
+        "parrafos": [
+          "A menos de tres kilómetros del centro pasan la A-2, la M-21, la M-22, la M-45, la M-50 y la M-206. La ruta hacia la calle Valgrande 17 de Alcobendas usa la M-21 y la M-12: 22,7 km por carretera, 16,3 en línea recta.",
+          "San Fernando está en el área metropolitana de Madrid, así que el taller puede recoger el coche y devolverlo, o dejarte uno de cortesía si la reparación se alarga, siempre según disponibilidad."
+        ]
+      },
+      {
+        "id": "caetano-12-km",
+        "h2": "El servicio oficial, a 12,5 km en Madrid",
+        "parrafos": [
+          "El punto oficial BMW más próximo según el localizador de bmw.es es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 12,5 km. Para el mantenimiento por plan o una avería fuera de garantía, la alternativa es un especialista independiente como Dasercars, que solo trabaja BMW y MINI."
+        ]
+      },
+      {
+        "id": "poblacion-san-fernando",
+        "h2": "Algo menos de población que hace diez años",
+        "parrafos": [
+          "San Fernando de Henares tenía 40.188 habitantes en 2015 y 39.059 en 2025, un 2,8 % menos. En 2025 tenía 21.285 turismos censados según la Comunidad de Madrid a partir de la DGT: 545 por cada 1.000 habitantes, una proporción parecida a la de su vecina Coslada (522).",
+          "Si el coche se mueve poco entre semana, recuerda que hay mantenimiento que caduca aunque no se hagan kilómetros: el líquido de frenos absorbe humedad con el tiempo y el aceite envejece en el cárter. El indicador de servicio del BMW cuenta las dos cosas, fecha y distancia."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en San Fernando de Henares?",
+        "a": "Sí: ITV Jarama, en la calle Tapiceros 2, según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "22,7 km por la M-21 y la M-12, hasta Alcobendas."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "Sí, dentro del área metropolitana de Madrid y sujeto a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "39.059 habitantes (−2,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "21.285 · 545 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "ITV Jarama, c. Tapiceros 2",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "38,7 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Caetano Cuzco (Madrid) · 12,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 22,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

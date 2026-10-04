@@ -3,11 +3,11 @@
   "name": "Rubí",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 72987,
+  "population": 82823,
   "lat": 41.49226,
   "lng": 2.03305,
   "metaTitle": "Taller Especialista BMW en Rubí — Revisiones y Diagnóstico ISTA",
-  "metaDescription": "Tu taller BMW en Rubí. Expertos en revisiones CBS con aceite LL-04, distribución N47 y diagnóstico ISTA. Ahorra hasta un 50 % frente al concesionario. Pide tu presupuesto.",
+  "metaDescription": "Taller especialista BMW y MINI para Rubí, a 20,8 km por la B-30 y la AP-7. ITV y servicio oficial en Sant Cugat; Rubí queda fuera de la zona de recogida.",
   "heroSubtitle": "El mantenimiento de tu BMW Serie 3 o Serie 5 en Rubí, con la misma rigurosidad del concesionario pero sin el sobrecoste de Sant Cugat.",
   "trustChips": [
     {
@@ -195,5 +195,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Rubí: tu BMW a 20,8 km del taller especialista, fuera del área metropolitana por poco",
+    "entradilla": "Castellbisbal, Sant Cugat y el Papiol, a menos de seis kilómetros, están en el Área Metropolitana de Barcelona; Rubí no. Para el dueño de un BMW o un MINI eso cambia una cosa concreta, la recogida del coche. Lo demás queda bastante a mano.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 20.8
+    },
+    "secciones": [
+      {
+        "id": "sin-recogida",
+        "h2": "Por qué no hay recogida en Rubí",
+        "parrafos": [
+          "La recogida y entrega de Dasercars Barcelona, igual que el vehículo de cortesía, solo cubre el área metropolitana, y Rubí queda fuera aunque sus vecinos más cercanos estén dentro. No es cuestión de kilómetros: el taller está a 20,8 km por carretera, menos que desde Sant Cugat (22,8), que sí entra.",
+          "En la práctica, el coche lo traes tú. La ruta va por la B-30, un tramo de la AP-7 y la B-23 hasta el carrer del Tambor del Bruc 3, en Sant Joan Despí; en línea recta son 14,1 km."
+        ]
+      },
+      {
+        "id": "todo-en-sant-cugat",
+        "h2": "ITV y servicio oficial, los dos en Sant Cugat",
+        "parrafos": [
+          "Lo oficial que tienes más cerca está en el municipio vecino. La estación de ITV más próxima en el registro de la Generalitat es la de Sant Cugat (B22), en el polígono Sant Mamet, a 3,4 km por carretera. El punto de servicio oficial BMW más cercano según bmw.es, Quadis Munich, en el carrer Vallespir 19 de Sant Cugat, queda a 3,8 km.",
+          "Si el coche aún está en garantía, la normativa europea de competencia permite hacer el mantenimiento fuera de la red oficial mientras se respeten intervalos y especificaciones; lo que debe pasar por el concesionario es la reparación que pagaría BMW."
+        ]
+      },
+      {
+        "id": "organizar-la-visita",
+        "h2": "Cómo organizar la visita",
+        "parrafos": [
+          "Llama con modelo, año, kilometraje y el síntoma bien descrito: si hay un testigo encendido, cuál y desde cuándo. Con eso se puede saber si el trabajo cabe en una jornada y si conviene pedir la pieza antes de que llegues.",
+          "El taller trabaja de lunes a viernes, por la mañana y por la tarde. Para trabajos de un día, lo que mejor funciona desde Rubí es entrar a primera hora."
+        ]
+      },
+      {
+        "id": "rubi-en-cifras",
+        "h2": "82.823 vecinos, 36.053 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Rubí 82.823 habitantes, un 11,1 % más que diez años antes, en un término de 32,3 km². En 2024 tenía 36.053 turismos según Idescat a partir de la DGT, 435 por cada 1.000 vecinos. Tres vías rápidas, la C-16, la AP-7 y la B-30, quedan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Rubí?",
+        "a": "No. La recogida cubre solo el área metropolitana de Barcelona, y Rubí queda fuera."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Sant Cugat (B22), en el polígono Sant Mamet, a 3,4 km por carretera."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 20,8 km por la B-30, la AP-7 y la B-23, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "82.823 habitantes (+11,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081846&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "36.053 · 435 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081846&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Cugat (B22) · 3,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Cugat) · 3,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 20,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081846&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

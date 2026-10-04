@@ -3,11 +3,11 @@
   "name": "Sant Joan Despí",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 32030,
+  "population": 35926,
   "lat": 41.36718,
   "lng": 2.0574,
   "metaTitle": "Taller BMW en Sant Joan Despí | Revisión y Diagnóstico ISTA",
-  "metaDescription": "Especialistas en BMW en Sant Joan Despí. Realizamos una revisión de compra exhaustiva con ISTA para tu BMW de segunda mano. Pide presupuesto cerrado.",
+  "metaDescription": "Dasercars Barcelona, taller independiente especializado en BMW y MINI, en el carrer del Tambor del Bruc 3 de Sant Joan Despí. Homologación REDISTA.",
   "heroSubtitle": "Acabas de comprar un BMW de segunda mano en la zona del Baix Llobregat. Te damos la tranquilidad de saber exactamente lo que tienes entre manos.",
   "trustChips": [
     {
@@ -194,5 +194,120 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Joan Despí: el especialista BMW y MINI de la red, en el carrer del Tambor del Bruc",
+    "entradilla": "Aquí no hay ruta que explicar: Dasercars Barcelona tiene su nave en el carrer del Tambor del Bruc 3, dentro de Sant Joan Despí. Esta página cuenta cómo trabaja el taller y qué más conviene tener a mano si vives en el municipio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi"
+    },
+    "secciones": [
+      {
+        "id": "que-se-hace",
+        "h2": "Qué se hace en la nave del Tambor del Bruc",
+        "parrafos": [
+          "Dasercars Barcelona es un taller independiente dedicado a BMW y MINI: mantenimiento según el plan del fabricante, diagnosis electrónica, mecánica de motor —con especial dedicación a los diésel N47, N57, M47, M57, B47 y B57— y trabajos de escape y gases con homologación REDISTA.",
+          "La diagnosis se presupuesta como un trabajo más. El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00, y cierra sábados y domingos."
+        ]
+      },
+      {
+        "id": "recogida-sant-joan",
+        "h2": "Recogida y coche de cortesía dentro del área metropolitana",
+        "parrafos": [
+          "Sant Joan Despí forma parte del Área Metropolitana de Barcelona. Si no puedes acercar el coche aunque el taller esté en el mismo municipio, hay recogida y entrega, y vehículo de cortesía para reparaciones de más de un día, ambos sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "itv-y-concesionario",
+        "h2": "ITV en Sant Just, concesionario en Sant Boi",
+        "parrafos": [
+          "La estación de ITV más próxima en el registro de la Generalitat es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21, a 3,5 km. El punto de servicio oficial BMW más cercano según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 5,5 km: allí se hacen las reparaciones cubiertas por la garantía de la marca."
+        ]
+      },
+      {
+        "id": "sant-joan-en-cifras",
+        "h2": "35.926 vecinos en 6,17 km²",
+        "parrafos": [
+          "Sant Joan Despí tenía 35.926 habitantes en 2025, un 8 % más que en 2015. En 2024 había 13.458 turismos según Idescat a partir de la DGT, 375 por cada 1.000 habitantes.",
+          "A menos de tres kilómetros del centro pasan la A-2, la B-20, la B-23, la B-25, la C-32, la C-245 y la N-340. Para quien vive aquí, eso significa que una prueba en carretera después de la reparación —para confirmar que un ruido o un aviso han desaparecido de verdad— se puede hacer contigo en el coche sin alejarse."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el taller exactamente?",
+        "a": "En el carrer del Tambor del Bruc 3 (CP 08970), en Sant Joan Despí."
+      },
+      {
+        "q": "¿Qué días abre?",
+        "a": "De lunes a viernes, mañana y tarde. Sábados y domingos está cerrado."
+      },
+      {
+        "q": "¿Hacéis trabajos de escape homologados?",
+        "a": "El taller tiene homologación REDISTA para escape y gases; consulta tu caso concreto por teléfono."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "35.926 habitantes (+8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082172&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "13.458 · 375 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082172&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 3,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 5,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Carrer del Tambor del Bruc 3, en el municipio",
+        "fuente": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082172&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

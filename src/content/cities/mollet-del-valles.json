@@ -3,11 +3,11 @@
   "name": "Mollet del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 52484,
+  "population": 52990,
   "lat": 41.54026,
   "lng": 2.21306,
   "metaTitle": "Taller especializado BMW en Mollet del Vallès — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Mollet del Vallès? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "BMW y MINI en Mollet del Vallès: ITV a 3,4 km, servicio oficial en Granollers y taller especialista independiente a 31,7 km por la C-33.",
   "heroSubtitle": "Taller especialista BMW para Mollet del Vallès y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Mollet del Vallès: ITV a 3,4 km, concesionario en Granollers y taller BMW a 31,7 km",
+    "entradilla": "Tres referencias para el dueño de un BMW o un MINI en Mollet: la ITV de Santa Perpètua, a 3,4 km; el concesionario de Granollers, a 7,8; y nuestro taller de Sant Joan Despí, a 31,7 km por la C-33.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 31.7
+    },
+    "secciones": [
+      {
+        "id": "itv-cim-valles",
+        "h2": "La ITV del CIM Vallès, en Santa Perpètua de Mogoda",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima al centro de Mollet es la de CIM Vallès (B20), de TÜV Rheinland, en el carrer del Pont Vell, dentro del Centre Integral de Mercaderies del polígono Les Minetes de Santa Perpètua de Mogoda: 3,4 km por carretera."
+        ]
+      },
+      {
+        "id": "c33-sant-joan",
+        "h2": "Por la C-33 y la B-20 hasta el Baix Llobregat",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona va por la C-33, la B-20 y la B-23: 31,7 km por carretera, 23,2 en línea recta. Mollet no es uno de los municipios del Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller no llega.",
+          "Lo que más ahorra un viaje en balde es explicar bien el problema: cuándo aparece, si hay un testigo encendido y desde cuándo. Con el bastidor, además, se confirma la referencia exacta de la pieza."
+        ]
+      },
+      {
+        "id": "pruna-granollers",
+        "h2": "El servicio oficial, a 7,8 km en Granollers",
+        "parrafos": [
+          "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers, a 7,8 km. Es la referencia para reparaciones en garantía y para las campañas que convoque la marca."
+        ]
+      },
+      {
+        "id": "mollet-en-cifras",
+        "h2": "52.990 vecinos y 23.471 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Mollet 52.990 habitantes, un 2,6 % más que en 2015; el municipio ocupa 10,77 km². En 2024 tenía 23.471 turismos según Idescat a partir de la DGT, 443 por cada 1.000 habitantes.",
+          "La AP-7, la C-17, la C-33 y la C-59 pasan a menos de tres kilómetros del centro. Si el coche hace a diario autopista, el desgaste se concentra en neumáticos y en la pastilla delantera; si solo se mueve por el casco urbano, en la batería."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Mollet?",
+        "a": "La más próxima en el registro de la Generalitat es la de CIM Vallès (B20), en Santa Perpètua de Mogoda, a 3,4 km."
+      },
+      {
+        "q": "¿Hay recogida en Mollet?",
+        "a": "No, la recogida cubre solo el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "31,7 km por la C-33, la B-20 y la B-23, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "52.990 habitantes (+2,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081249&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "23.471 · 443 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081249&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20), Santa Perpètua · 3,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 7,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 31,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081249&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

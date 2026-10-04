@@ -3,11 +3,11 @@
   "name": "Montcada i Reixac",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 33453,
+  "population": 37460,
   "lat": 41.48333,
   "lng": 2.18333,
   "metaTitle": "Taller BMW en Montcada i Reixac — Especialistas con ISTA",
-  "metaDescription": "Revisión y diagnóstico BMW en Montcada i Reixac. ¿Acabas de comprar un BMW de segunda mano? Asegura tu inversión con un chequeo ISTA. Pide presupuesto.",
+  "metaDescription": "Especialista independiente BMW y MINI para Montcada i Reixac, a 23,3 km en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad.",
   "heroSubtitle": "¿Acabas de comprar un BMW de segunda mano en la zona del Vallès y quieres saber su estado real? Te lo decimos con diagnóstico ISTA, sin rodeos.",
   "trustChips": [
     {
@@ -190,5 +190,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Montcada i Reixac: BMW entre la C-17 y la C-58, a 23,3 km del taller",
+    "entradilla": "Montcada i Reixac está dentro del Área Metropolitana de Barcelona, pero en el lado contrario al de nuestro taller. Lo que eso supone para el dueño de un BMW o un MINI: la ruta, la recogida y lo que tienes más cerca.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 23.3
+    },
+    "secciones": [
+      {
+        "id": "otro-lado-del-amb",
+        "h2": "Al otro lado del área metropolitana",
+        "parrafos": [
+          "Desde el centro de Montcada hasta el carrer del Tambor del Bruc 3 de Sant Joan Despí, la ruta usa la C-17, la B-20 y la B-23: 23,3 km por carretera, 16,6 en línea recta.",
+          "Como el municipio forma parte del Área Metropolitana de Barcelona, puedes pedir que el taller recoja el coche y lo devuelva terminado, y un vehículo de cortesía para trabajos largos. Las dos cosas dependen de la disponibilidad, así que conviene pedirlas al cerrar la cita."
+        ]
+      },
+      {
+        "id": "oficial-sant-adria",
+        "h2": "El concesionario más cercano, en Sant Adrià de Besòs",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo es Barcelona Premium Ronda Litoral, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 9,3 km. Las reparaciones que paga la garantía de BMW se hacen allí."
+        ]
+      },
+      {
+        "id": "itv-caracas",
+        "h2": "La ITV más próxima está en Barcelona",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más cercana por carretera al centro de Montcada es BCN Caracas (B23), en el carrer de Caracas 10 B de Barcelona, a 7,9 km."
+        ]
+      },
+      {
+        "id": "montcada-en-cifras",
+        "h2": "37.460 vecinos en 23,47 km²",
+        "parrafos": [
+          "Montcada tenía 37.460 habitantes en 2025, un 9 % más que en 2015. El parque de 2024 era de 17.869 turismos según Idescat a partir de la DGT: 477 por cada 1.000 habitantes, bastantes más que en Santa Coloma de Gramenet (278), a 4,1 km.",
+          "Por el término pasan la C-17, la C-33, la C-58 y la B-10, todas a menos de tres kilómetros del centro. Un turbo que trabaja a menudo en autopista agradece un gesto sencillo: no apagar el motor nada más parar después de un tramo exigente, para que el aceite siga refrigerando el eje unos segundos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Montcada?",
+        "a": "Sí, Montcada está en el área metropolitana de Barcelona. Sujeto a disponibilidad."
+      },
+      {
+        "q": "¿Qué ITV tengo más cerca?",
+        "a": "BCN Caracas (B23), en Barcelona, a 7,9 km según la Generalitat."
+      },
+      {
+        "q": "¿A cuánto está el taller?",
+        "a": "A 23,3 km por la C-17, la B-20 y la B-23."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "37.460 habitantes (+9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081252&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "17.869 · 477 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081252&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "BCN Caracas (B23) · 7,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium Ronda Litoral (Sant Adrià) · 9,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 23,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081252&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

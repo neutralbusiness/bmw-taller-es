@@ -3,11 +3,11 @@
   "name": "Sant Feliu de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 42919,
+  "population": 46781,
   "lat": 41.38333,
   "lng": 2.05,
   "metaTitle": "Taller BMW en Sant Feliu de Llobregat | Especialistas CBS",
-  "metaDescription": "Taller especialista en BMW en Sant Feliu de Llobregat. Revisiones CBS con aceite LL-04, diagnóstico ISTA y ahorro del 50 % vs. concesionario. Pide tu presupuesto.",
+  "metaDescription": "Sant Feliu de Llobregat: el taller especialista BMW y MINI de la red, a 2,5 km en Sant Joan Despí. ITV a 1,3 km y recogida sujeta a disponibilidad.",
   "heroSubtitle": "La revisión de tu Serie 3 o Serie 5 en el concesionario de Barcelona es cara e incómoda. Aquí, en Sant Feliu, tienes la alternativa experta y local.",
   "trustChips": [
     {
@@ -195,5 +195,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Feliu de Llobregat: el taller BMW de la red, a 2,5 km por carretera",
+    "entradilla": "La capital del Baix Llobregat linda con Sant Joan Despí, y el taller de la red queda a 1,9 km en línea recta y 2,5 por carretera. Con esa cercanía, lo que importa es cómo organizarte y qué más tienes alrededor.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 2.5
+    },
+    "secciones": [
+      {
+        "id": "kilometros-justos",
+        "h2": "Dos kilómetros y medio hasta el carrer del Tambor del Bruc",
+        "parrafos": [
+          "Desde el centro de Sant Feliu hasta la nave de Dasercars Barcelona hay 2,5 km por carretera. Es una distancia que permite dejar el coche por la mañana, volver andando o en transporte público y recogerlo por la tarde.",
+          "Si prefieres no moverte, Sant Feliu está dentro del Área Metropolitana de Barcelona y el taller puede recoger y devolver el coche; también hay vehículo de cortesía para reparaciones largas. Ambas cosas, sujetas a disponibilidad."
+        ]
+      },
+      {
+        "id": "itv-a-1-3-km",
+        "h2": "La ITV de Sant Just, a 1,3 km",
+        "parrafos": [
+          "La estación más próxima en el registro de la Generalitat es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21, a 1,3 km del centro de Sant Feliu. Con taller e ITV tan juntos, la pre-ITV y la inspección caben en el mismo día si pides las dos citas con margen."
+        ]
+      },
+      {
+        "id": "concesionario-sant-boi",
+        "h2": "El concesionario, en la carretera del Prat de Sant Boi",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más cercano es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 7,6 km. Desde Sant Feliu el concesionario queda tres veces más lejos que el taller independiente, al revés de lo que pasa en casi toda la red."
+        ]
+      },
+      {
+        "id": "sant-feliu-en-cifras",
+        "h2": "46.781 vecinos y 17.738 turismos",
+        "parrafos": [
+          "Sant Feliu tenía 46.781 habitantes en 2025, un 6,8 % más que en 2015, en 11,82 km². En 2024 había 17.738 turismos censados según Idescat a partir de la DGT, 379 por cada 1.000 habitantes. La N-340, la A-2 y la B-23 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 2,5 km por carretera, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Feliu?",
+        "a": "Sí, sujeto a disponibilidad: Sant Feliu está en el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte con BMW motores y electrónica, y se trabaja con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "46.781 habitantes (+6,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082114&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "17.738 · 379 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082114&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 1,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 7,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 2,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082114&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

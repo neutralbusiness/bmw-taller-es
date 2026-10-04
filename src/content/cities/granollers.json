@@ -3,11 +3,11 @@
   "name": "Granollers",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 60981,
+  "population": 65341,
   "lat": 41.60797,
   "lng": 2.28773,
   "metaTitle": "Taller BMW en Granollers — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Granollers: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "Granollers: servicio oficial BMW en la C-17 y taller especialista independiente a 41,5 km en Sant Joan Despí. ITV en el polígono El Congost.",
   "heroSubtitle": "Tu BMW merece un especialista. En Granollers, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -183,5 +183,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Granollers: concesionario BMW en la C-17 y especialista independiente a 41,5 km",
+    "entradilla": "Si vives en Granollers, el concesionario BMW está en la propia ciudad y la ITV, en el polígono El Congost. Nuestro taller, en Sant Joan Despí, queda a 41,5 km. Cuándo encaja cada cosa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 41.5
+    },
+    "secciones": [
+      {
+        "id": "pruna-motor",
+        "h2": "Pruna Motor, en la carretera C-17",
+        "parrafos": [
+          "El localizador de bmw.es sitúa en Granollers un servicio oficial BMW: Pruna Motor, en la carretera C-17, km 19,060, a 4,9 km del centro por carretera. Es también el más próximo para Mollet del Vallès.",
+          "Un taller independiente encaja en lo que no depende de la marca: el mantenimiento por plan, las averías fuera de garantía, la puesta a punto antes de un viaje largo. La garantía no se pierde por hacer el mantenimiento fuera si se respetan intervalos y especificaciones (Reglamento UE 461/2010)."
+        ]
+      },
+      {
+        "id": "c17-c33-b20",
+        "h2": "41,5 km por la C-17, la C-33 y la B-20",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona baja por la C-17 y la C-33, sigue por la B-20 y termina en la B-23: 41,5 km por carretera y 32,9 en línea recta. Granollers no está en el área metropolitana, así que la recogida del taller no llega hasta aquí: el coche lo traes tú.",
+          "Con esa distancia, organiza el día: el taller abre de lunes a viernes en jornada partida, y lo razonable es entrar a primera hora con el trabajo ya hablado por teléfono."
+        ]
+      },
+      {
+        "id": "itv-congost",
+        "h2": "ITV en el polígono El Congost",
+        "parrafos": [
+          "La estación de Granollers (B18), gestionada por Applus, está en la avinguda de Sant Julià 253-255, en el polígono industrial El Congost, dentro del municipio según el registro de la Generalitat."
+        ]
+      },
+      {
+        "id": "granollers-en-cifras",
+        "h2": "65.341 vecinos en 14,87 km²",
+        "parrafos": [
+          "Granollers tenía 65.341 habitantes en 2025, un 8,7 % más que en 2015. Idescat, con datos de la DGT, contaba 29.424 turismos en 2024, 450 por cada 1.000 habitantes. Alrededor del centro se cruzan la AP-7, la C-17, la C-352 y la C-155, todas a menos de tres kilómetros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois Pruna Motor?",
+        "a": "No. Pruna Motor es el servicio oficial BMW de Granollers. Nosotros somos Dasercars, taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Granollers?",
+        "a": "No: la recogida solo cubre el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Dónde está la ITV de Granollers?",
+        "a": "En la avinguda de Sant Julià 253-255, polígono El Congost (estación B18)."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "65.341 habitantes (+8,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080961&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "29.424 · 450 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080961&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Granollers (B18), polígono El Congost",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, ctra. C-17 km 19,060 · 4,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 41,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080961&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Esplugues de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 46355,
+  "population": 48221,
   "lat": 41.37732,
   "lng": 2.08809,
   "metaTitle": "Taller BMW en Esplugues de Llobregat — Especialista DPF y CBS",
-  "metaDescription": "Taller especialista BMW en Esplugues. Solucionamos problemas de DPF en X3/X5 por trayectos cortos. Diagnóstico ISTA y hasta 50% de ahorro. Pide presupuesto.",
+  "metaDescription": "Taller especialista BMW y MINI a 5,6 km de Esplugues, en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad e ITV en Sant Just.",
   "heroSubtitle": "Tu BMW X3 diésel pide 'regeneración' en cada subida a Ciutat Diagonal y tú solo quieres que deje de darte avisos en el iDrive.",
   "trustChips": [
     {
@@ -191,5 +191,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Esplugues de Llobregat: a 5,6 km del taller especialista BMW de Sant Joan Despí",
+    "entradilla": "Entre Esplugues y la nave de Dasercars Barcelona hay 2,8 km en línea recta. Con tan poca distancia, lo que más te interesa de esta página es otra cosa: cómo dejar el coche sin perder la mañana y qué tienes alrededor.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 5.6
+    },
+    "secciones": [
+      {
+        "id": "por-la-c245",
+        "h2": "Por la C-245 hasta el Tambor del Bruc",
+        "parrafos": [
+          "La ruta por carretera hasta el carrer del Tambor del Bruc 3 de Sant Joan Despí es de 5,6 km y usa la C-245. Esplugues pertenece al Área Metropolitana de Barcelona, y el taller ofrece dentro de ella recogida y entrega del coche y vehículo de cortesía, ambos sujetos a disponibilidad.",
+          "Con el taller tan cerca, muchas veces lo práctico es dejarlo de camino al trabajo y recogerlo al volver; si la reparación se alarga, pregunta por el coche de cortesía al reservar."
+        ]
+      },
+      {
+        "id": "itv-sant-just",
+        "h2": "La ITV, en el polígono de Sant Just Desvern",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima al centro de Esplugues es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera 19-21 del polígono industrial núm. 1, a 2,7 km por carretera."
+        ]
+      },
+      {
+        "id": "termino-pequeno",
+        "h2": "48.221 vecinos en 4,6 km²",
+        "parrafos": [
+          "Esplugues tenía 48.221 vecinos en 2025, un 5,7 % más que en 2015, en un término de solo 4,6 km²: 10.483 habitantes por kilómetro cuadrado. Idescat, a partir de la DGT, contaba 16.965 turismos en 2024, 352 por cada 1.000 habitantes.",
+          "En un término tan pequeño, muchos desplazamientos del día a día no pasan de unos pocos kilómetros. Es el uso que peor llevan las baterías de los BMW con arranque y parada automático: el alternador no llega a reponer lo que gasta cada arranque. Si cambias la batería, hay que registrarla en la centralita para que la carga se ajuste a la nueva."
+        ]
+      },
+      {
+        "id": "taller-esteve-terrades",
+        "h2": "Un punto de servicio oficial: el taller de Esteve Terrades",
+        "parrafos": [
+          "El localizador de bmw.es da como punto de servicio oficial para Esplugues el taller de Barcelona Premium en el carrer d'Esteve Terrades 77-79 de Barcelona, a 7 km por carretera. Es un punto solo de taller, sin venta, que atiende lo que cubre la garantía de BMW."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Esplugues?",
+        "a": "Sí. Esplugues está en el área metropolitana de Barcelona; la recogida está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Por qué hay que registrar la batería nueva de un BMW?",
+        "a": "Porque la centralita adapta la carga a la batería que tiene registrada. Si no se registra, la nueva se carga mal y dura menos."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Sant Just Desvern (B05), en la avinguda de la Riera, a 2,7 km según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "48.221 habitantes (+5,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080771&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "16.965 · 352 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080771&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 2,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, c. Esteve Terrades 77-79 · 7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 5,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080771&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

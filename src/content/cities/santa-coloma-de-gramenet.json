@@ -3,11 +3,11 @@
   "name": "Santa Coloma de Gramenet",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 118821,
+  "population": 123981,
   "lat": 41.45152,
   "lng": 2.2081,
   "metaTitle": "Taller BMW en Santa Coloma de Gramenet — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Santa Coloma de Gramenet: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "Taller especialista BMW y MINI para Santa Coloma de Gramenet, a 21,1 km en Sant Joan Despí. Servicio oficial e ITV cercanos y recogida sujeta a disponibilidad.",
   "heroSubtitle": "Tu BMW merece un especialista. En Santa Coloma de Gramenet, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -184,5 +184,132 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Santa Coloma de Gramenet: especialista a 21 km y recogida en el área metropolitana",
+    "entradilla": "Nuestro taller de Sant Joan Despí queda en el extremo opuesto del área metropolitana: 21,1 km por la B-20 y la B-23. Por eso, desde Santa Coloma, lo útil es saber qué tienes a dos o tres kilómetros y cuándo merece la pena pedir que vayan a por el coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 21.1
+    },
+    "secciones": [
+      {
+        "id": "lo-que-queda-cerca",
+        "h2": "Servicio oficial e ITV a menos de tres kilómetros",
+        "parrafos": [
+          "El punto oficial BMW más cercano en el localizador de bmw.es es Barcelona Premium Ronda Litoral, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 2,7 km por carretera. La ITV más próxima del registro de la Generalitat ya está en Barcelona: BCN Caracas (B23), de TÜV Rheinland, en el carrer de Caracas 10 B, a 2 km.",
+          "Con esas dos referencias tan a mano, para la inspección o para una reparación que paga la garantía de BMW no hace falta cruzar media provincia."
+        ]
+      },
+      {
+        "id": "rondas-hasta-el-taller",
+        "h2": "Por la B-20 y la B-23 hasta el Baix Llobregat",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, va por la B-20 y enlaza con la B-23: 21,1 km por carretera, 15,7 en línea recta. Es un recorrido de rondas, con lo que eso supone en hora punta.",
+          "Santa Coloma es uno de los municipios del Área Metropolitana de Barcelona, así que el taller puede recoger el coche y devolverlo, y prestar uno de cortesía en trabajos largos, siempre que haya disponibilidad. Para no hacer las rondas dos veces, es la forma razonable de usar un taller que está al otro lado."
+        ]
+      },
+      {
+        "id": "densidad-santa-coloma",
+        "h2": "17.712 habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "Santa Coloma tenía 123.981 vecinos en 2025, un 6 % más que en 2015, en solo 7 km² de término. El parque, según Idescat a partir de la DGT, era de 34.470 turismos en 2024: 278 por cada 1.000 habitantes, casi la misma proporción que en Barcelona ciudad (281).",
+          "Si tu coche pasa varios días parado entre semana, la batería es lo primero que sufre: un BMW cerrado sigue alimentando alarma, módulos y receptores, y una batería cansada avisa justo la mañana que tienes prisa. Una medición de su estado antes del invierno es barata comparada con una grúa."
+        ]
+      },
+      {
+        "id": "humedad-salina",
+        "h2": "A 4,2 km de la costa",
+        "parrafos": [
+          "El centro de Santa Coloma queda a unos 4,2 km de la línea de costa. No es primera línea de mar, pero la humedad salina se nota con los años en anclajes de escape y soportes de los bajos; si el coche se lava poco por debajo, un aclarado con agua dulce al final del verano no sobra."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Podéis recoger el coche en Santa Coloma?",
+        "a": "Sí, el municipio está dentro del área metropolitana de Barcelona. Depende de la disponibilidad: pídelo al reservar."
+      },
+      {
+        "q": "¿Cuál es la ITV más cercana?",
+        "a": "BCN Caracas (B23), en Barcelona, a 2 km por carretera según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Sois el concesionario de Sant Adrià?",
+        "a": "No. Ese es Barcelona Premium Ronda Litoral. Dasercars es un taller independiente especializado en BMW y MINI, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "123.981 habitantes (+6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Barcelonès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082457&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "34.470 · 278 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082457&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 4,2 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "BCN Caracas (B23) · 2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium Ronda Litoral (Sant Adrià) · 2,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 21,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082457&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
