@@ -76,15 +76,9 @@
   "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
   "centro_ocasion_con_taller": "BYmyCAR Madrid (Algete): la instalación de ocasión y el taller autorizado se trasladaron de Alcalá a Algete; horario de taller propio (bymycar.madrid, noticia «Algete»)",
-  "km_carretera": 38.0,
+  "km_carretera": 36.2,
   "km_linea": 29.0,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "AutoPremier (Guadalajara)",
-    "municipio": "Guadalajara",
-    "km_carretera": 38.2
-   }
-  ],
+  "km_ruta_mas_rapida": 38.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

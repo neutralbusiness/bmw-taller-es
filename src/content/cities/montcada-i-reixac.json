@@ -217,10 +217,10 @@
         ]
       },
       {
-        "id": "itv-caracas",
-        "h2": "La ITV más próxima está en Barcelona",
+        "id": "itv-cim-caracas",
+        "h2": "Dos ITV casi a la par: Santa Perpètua y Barcelona",
         "parrafos": [
-          "En el registro de estaciones de la Generalitat, la más cercana por carretera al centro de Montcada es BCN Caracas (B23), en el carrer de Caracas 10 B de Barcelona, a 7,9 km."
+          "En el registro de estaciones de la Generalitat, las dos más cercanas por carretera al centro de Montcada quedan casi a la par: CIM Vallès (B20), en el polígono Les Minetes de Santa Perpètua de Mogoda, a 7,3 km, y BCN Caracas (B23), en el carrer de Caracas 10 B de Barcelona, a 7,9."
         ]
       },
       {
@@ -239,7 +239,7 @@
       },
       {
         "q": "¿Qué ITV tengo más cerca?",
-        "a": "BCN Caracas (B23), en Barcelona, a 7,9 km según la Generalitat."
+        "a": "CIM Vallès (B20), en Santa Perpètua de Mogoda, a 7,3 km, o BCN Caracas (B23), en Barcelona, a 7,9, según la Generalitat."
       },
       {
         "q": "¿A cuánto está el taller?",
@@ -267,7 +267,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "BCN Caracas (B23) · 7,9 km",
+        "valor": "CIM Vallès (B20) · 7,3 km; BCN Caracas (B23) · 7,9",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

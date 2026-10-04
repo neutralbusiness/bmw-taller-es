@@ -57,16 +57,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Andreu (B21)",
+   "nombre": "ITV Sant Just Desvern (B05)",
    "operador": "APPLUS ITV",
-   "direccion": "Carretera N-II P.K. 592,5 s/n",
-   "municipio": "Sant Andreu de la Barca",
+   "direccion": "Avinguda DE LA RIERA - POL. IND. NÚM. 1 19-21",
+   "municipio": "Sant Just Desvern",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 14.3,
-   "km_linea": 6.7
+   "km_carretera": 12.7,
+   "km_linea": 9.1,
+   "km_ruta_mas_rapida": 17.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

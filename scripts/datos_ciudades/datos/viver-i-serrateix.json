@@ -66,15 +66,9 @@
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 32.1,
+   "km_carretera": 27.6,
    "km_linea": 15.7,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Solsona (L06)",
-     "municipio": "Solsona",
-     "km_carretera": 32.6
-    }
-   ]
+   "km_ruta_mas_rapida": 32.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

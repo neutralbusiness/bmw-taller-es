@@ -65,21 +65,36 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (punto kilométrico)",
-   "km_carretera": 20.9,
-   "km_linea": 12.7
+   "km_carretera": 19.3,
+   "km_linea": 12.7,
+   "km_ruta_mas_rapida": 20.9,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L (estación 2890)",
+     "municipio": "Colmenar Viejo",
+     "km_carretera": 20.2
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "BYmyCAR Madrid (Algete)",
-  "razon_social": "BYMYCAR Madrid, S.L.U.",
-  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
-  "cp": "28111",
-  "municipio": "Algete",
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
   "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "centro_ocasion_con_taller": "BYmyCAR Madrid (Algete): la instalación de ocasión y el taller autorizado se trasladaron de Alcalá a Algete; horario de taller propio (bymycar.madrid, noticia «Algete»)",
-  "km_carretera": 42.3,
-  "km_linea": 25.2,
+  "km_carretera": 41.1,
+  "km_linea": 31.7,
+  "km_ruta_mas_rapida": 48.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Salvatierra)",
+    "municipio": "Madrid",
+    "km_carretera": 41.4
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

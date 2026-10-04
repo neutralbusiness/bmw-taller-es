@@ -33,12 +33,12 @@ META = {
 
 CIUDADES["suria"] = {
     "h1": "Súria y su BMW: Sant Fruitós para lo cercano, Sant Joan Despí para lo específico",
-    "entradilla": "Desde Súria, el concesionario y la ITV caen en el mismo municipio, Sant Fruitós de Bages, a unos 19 km. El taller especialista de la red está bastante más lejos, a 76,3 km. Así se reparte el trabajo con sentido.",
+    "entradilla": "Desde Súria, el concesionario está en Sant Fruitós de Bages, a 18,6 km, y la ITV, en Manresa o en el mismo Sant Fruitós, a unos 18. El taller especialista de la red está bastante más lejos, a 76,3 km. Así se reparte el trabajo con sentido.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 76.3},
     "secciones": [
-        {"id": "sant-fruitos-a-19-km", "h2": "Concesionario e ITV, los dos en Sant Fruitós de Bages",
+        {"id": "sant-fruitos-a-19-km", "h2": "Concesionario en Sant Fruitós, ITV en Manresa o Sant Fruitós",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial BMW más próximo a Súria es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 18,6 km por carretera. Prácticamente a la misma distancia, 18,7 km, está la estación ITV Sant Fruitós (B25), que gestiona Itevelesa en el polígono El Grau, según el registro de la Generalitat.",
+             "Según el localizador de bmw.es, el servicio oficial BMW más próximo a Súria es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 18,6 km por carretera. Para la inspección, el registro de la Generalitat da dos estaciones casi a la par: la de Manresa (B06), en el polígono Bufalvent, a 18,1 km, y la de Sant Fruitós (B25), que gestiona Itevelesa en el polígono El Grau, a 18,7.",
          ]},
         {"id": "c55-hacia-el-sur", "h2": "76,3 km hasta el taller: C-55, C-16 y B-20",
          "parrafos": [
@@ -58,7 +58,7 @@ CIUDADES["suria"] = {
         {"q": "¿Dónde está el concesionario BMW más cercano a Súria?",
          "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 18,6 km según bmw.es."},
         {"q": "¿Qué ITV me queda más cerca?",
-         "a": "La más próxima por carretera en el registro de la Generalitat es Sant Fruitós (B25), en el polígono El Grau, a 18,7 km."},
+         "a": "Hay dos casi a la par en el registro de la Generalitat: Manresa (B06), en el polígono Bufalvent, a 18,1 km, y Sant Fruitós (B25), en el polígono El Grau, a 18,7."},
         {"q": "¿Recogéis el coche en Súria?",
          "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona y Súria queda fuera."},
     ],
@@ -66,7 +66,7 @@ CIUDADES["suria"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "6.200 habitantes (+4,6 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Bages", **F.idescat("082747")},
         {"etiqueta": "Turismos (2024)", "valor": "3.303 · 533 por cada 1.000 hab.", **F.idescat("082747")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) · 18,7 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Manresa (B06) · 18,1 km; Sant Fruitós (B25) · 18,7", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Sant Fruitós de Bages · 18,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 76,3 km", **F.osrm},
     ],
@@ -456,7 +456,7 @@ CIUDADES["serranillos-del-valle"] = {
          ]},
         {"id": "humanes-y-leganes", "h2": "ITV en Humanes, servicio oficial en Leganés",
          "parrafos": [
-             "La estación oficial más cercana por carretera es la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes, a 12,5 km según la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter (Momentum Leganés), a 20,1 km.",
+             "La estación oficial más cercana por carretera es la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes, a 12,5 km según la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter (Momentum Leganés), a 17,6 km.",
          ]},
         {"id": "ap41-r5", "h2": "54,9 km por la AP-41, la R-5 y la M-30",
          "parrafos": [
@@ -468,7 +468,7 @@ CIUDADES["serranillos-del-valle"] = {
         {"q": "¿Dónde paso la ITV desde Serranillos del Valle?",
          "a": "En la estación 2829 de Alcaravan ITV, en la avenida de Fuenlabrada 15 de Humanes, a 12,5 km."},
         {"q": "¿Dónde está el concesionario BMW más cercano?",
-         "a": "Vehinter (Momentum Leganés), a 20,1 km según el localizador de bmw.es."},
+         "a": "Vehinter (Momentum Leganés), a 17,6 km según el localizador de bmw.es."},
         {"q": "¿Qué distancia hay hasta vuestro taller?",
          "a": "54,9 km por carretera hasta Alcobendas, por la AP-41, la R-5, la M-30 y la A-1."},
     ],
@@ -476,7 +476,7 @@ CIUDADES["serranillos-del-valle"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "4.670 habitantes (+16,9 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "3.414 · 731 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV oficial más cercana", "valor": "Alcaravan ITV, Humanes · 12,5 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Leganés) · 20,1 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Leganés) · 17,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 54,9 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],

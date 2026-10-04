@@ -81,6 +81,13 @@
   "km_carretera": 26.6,
   "km_linea": 21.7,
   "km_ruta_mas_rapida": 31.7,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Pruna Motor (Mataró)",
+    "municipio": "Mataró",
+    "km_carretera": 27.1
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -151,8 +158,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Especialistas BMW en Sant Celoni — Revisión y reparación con garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 16860
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 18977
  },
  "generado": "2026-10-04",
  "perfil": {

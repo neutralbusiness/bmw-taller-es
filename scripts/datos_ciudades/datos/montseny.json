@@ -81,6 +81,18 @@
   "solo_taller": false,
   "km_carretera": 38.2,
   "km_linea": 22.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Pruna Motor (Granollers)",
+    "municipio": "Granollers",
+    "km_carretera": 38.4
+   },
+   {
+    "nombre": "Pruna Motor (Mataró)",
+    "municipio": "Mataró",
+    "km_carretera": 39.1
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],

@@ -57,16 +57,24 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Viladecavalls (B03)",
-   "operador": "TuV-RHEINLAND",
-   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. «Can Trias»",
-   "municipio": "Viladecavalls",
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 12.5,
-   "km_linea": 7.2
+   "km_carretera": 12.1,
+   "km_linea": 10.7,
+   "km_ruta_mas_rapida": 14.1,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Viladecavalls (B03)",
+     "municipio": "Viladecavalls",
+     "km_carretera": 12.5
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -163,9 +171,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento oficial sin coste de concesionario",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 23301
+  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 24966
  },
  "generado": "2026-10-04",
  "perfil": {

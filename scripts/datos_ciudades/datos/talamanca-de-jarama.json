@@ -68,7 +68,14 @@
    "verificar": false,
    "precision": "CartoCiudad (punto kilométrico)",
    "km_carretera": 20.3,
-   "km_linea": 6.8
+   "km_linea": 6.8,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV ITV Barbastro S.A.U (estación 2818)",
+     "municipio": "Algete",
+     "km_carretera": 21.0
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

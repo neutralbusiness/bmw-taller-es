@@ -68,7 +68,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 21.6,
-   "km_linea": 12.3
+   "km_linea": 12.3,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Sant Andreu (B21)",
+     "municipio": "Sant Andreu de la Barca",
+     "km_carretera": 21.6
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -155,9 +162,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW Piera — Mantenimiento oficial sin coste de concesionario",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 15362
+  "metaTitle": "Taller BMW Piera — Mantenimiento",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 17880
  },
  "generado": "2026-10-04",
  "perfil": {

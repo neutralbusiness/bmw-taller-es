@@ -71,16 +71,28 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Caetano Cuzco (Salvatierra)",
-  "razon_social": "Caetano Cuzco, S.L.U.",
-  "direccion": "C/.Salvatierra, 11-13",
-  "cp": "28034",
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
   "municipio": "Madrid",
-  "web": "https://caetanocuzco.concesionariobmw.es/",
+  "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 63.1,
-  "km_linea": 46.7,
-  "km_ruta_mas_rapida": 75.0,
+  "km_carretera": 62.7,
+  "km_linea": 46.1,
+  "km_ruta_mas_rapida": 71.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Salvatierra)",
+    "municipio": "Madrid",
+    "km_carretera": 62.9
+   },
+   {
+    "nombre": "BYmyCAR Madrid (Algete)",
+    "municipio": "Algete",
+    "km_carretera": 63.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],

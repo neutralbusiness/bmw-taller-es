@@ -57,16 +57,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Igualada (B12)",
+   "nombre": "ITV Granyanella (L05)",
    "operador": "APPLUS ITV",
-   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
-   "municipio": "Igualada",
+   "direccion": "Carretera N-II P.K. 512,7 S/N",
+   "municipio": "Granyanella",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 38.2,
-   "km_linea": 25.7
+   "km_carretera": 31.6,
+   "km_linea": 23.2,
+   "km_ruta_mas_rapida": 39.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -139,9 +140,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en Castellfollit de Riubregós | Remoto y fiable",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 184
+  "metaTitle": "Taller BMW para Castellfollit de Riubregós (Anoia)",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 153
  },
  "generado": "2026-10-04",
  "perfil": {

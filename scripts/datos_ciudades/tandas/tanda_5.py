@@ -83,7 +83,7 @@ CIUDADES["santa-coloma-de-cervello"] = {
          ]},
         {"id": "itv-sant-just", "h2": "La ITV, en el polígono de Sant Just Desvern",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21, a 10,4 km. El municipio tenía 8.273 habitantes en 2025, en un término de solo 7,49 km², y 4.022 turismos en 2024 según Idescat a partir de la DGT: 486 por cada mil vecinos.",
+             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21, a 8,4 km por la ruta más corta (unos 10,4 por la más rápida). El municipio tenía 8.273 habitantes en 2025, en un término de solo 7,49 km², y 4.022 turismos en 2024 según Idescat a partir de la DGT: 486 por cada mil vecinos.",
          ]},
     ],
     "faq": [
@@ -94,14 +94,14 @@ CIUDADES["santa-coloma-de-cervello"] = {
         {"q": "¿Sois el concesionario de Sant Boi?",
          "a": "No. Ese es Barcelona Premium, servicio oficial BMW. Nosotros somos Dasercars, taller independiente especializado en BMW y MINI."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La más próxima por carretera es la de Sant Just Desvern (B05), a 10,4 km."},
+         "a": "La más próxima por carretera es la de Sant Just Desvern (B05), a 8,4 km."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "8.273 habitantes", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat (AMB)", **F.idescat("082444")},
         {"etiqueta": "Turismos (2024)", "valor": "4.022 · 486 por cada 1.000 hab.", **F.idescat("082444")},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 9,1 km (3,5 km en línea recta)", **F.osrm},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 10,4 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 8,4 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Sant Boi) · 6,8 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082444"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],

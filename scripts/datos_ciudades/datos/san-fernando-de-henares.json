@@ -71,16 +71,23 @@
   "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Caetano Cuzco (Calle Alcalá)",
-  "razon_social": "Caetano Cuzco, S.L.U.",
-  "direccion": "C/. Alcalá, 474",
-  "cp": "28027",
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
   "municipio": "Madrid",
-  "web": "https://caetanocuzco-alcala.concesionariobmw.es",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 11.1,
-  "km_linea": 8.6,
-  "km_ruta_mas_rapida": 12.5,
+  "km_carretera": 11.0,
+  "km_linea": 8.5,
+  "km_ruta_mas_rapida": 13.9,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Calle Alcalá)",
+    "municipio": "Madrid",
+    "km_carretera": 11.1
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

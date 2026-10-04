@@ -21,7 +21,7 @@ Generado por `p10_ensamblar.py` el 2026-10-04. No editar a mano.
 | Servicio oficial BMW más cercano (bmw.es) | 529/529 | 100 % |
 | Vías principales a < 3 km (OSM) | 464/529 | 88 % |
 | Costa a < 5 km | 42/529 | 8 % |
-| Con consultas de Search Console (90 días, en cache/, no versionado) | 220/529 | 42 % |
+| Con consultas de Search Console (90 días, en cache/, no versionado) | 216/529 | 41 % |
 
 | Campo | Todas las del repo (575) | % |
 |---|---|---|
@@ -42,7 +42,7 @@ Generado por `p10_ensamblar.py` el 2026-10-04. No editar a mano.
 | Servicio oficial BMW más cercano (bmw.es) | 575/575 | 100 % |
 | Vías principales a < 3 km (OSM) | 510/575 | 89 % |
 | Costa a < 5 km | 60/575 | 10 % |
-| Con consultas de Search Console (90 días, en cache/, no versionado) | 254/575 | 44 % |
+| Con consultas de Search Console (90 días, en cache/, no versionado) | 250/575 | 43 % |
 
 ## Subdominios que no son municipios
 

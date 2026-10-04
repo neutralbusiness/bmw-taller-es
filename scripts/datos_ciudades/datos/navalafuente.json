@@ -58,21 +58,22 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2812)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "A-1, km 66",
-   "municipio": "Lozoyuela",
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "Carretera A1, km 40,200",
+   "municipio": "El Molar",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (punto kilométrico)",
-   "km_carretera": 20.8,
-   "km_linea": 11.9,
+   "km_carretera": 20.5,
+   "km_linea": 14.4,
+   "km_ruta_mas_rapida": 21.5,
    "casi_igual_de_cerca": [
     {
-     "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
-     "municipio": "El Molar",
-     "km_carretera": 21.5
+     "nombre": "ITV TÜV SÜD ATISAE (estación 2812)",
+     "municipio": "Lozoyuela",
+     "km_carretera": 20.8
     }
    ]
   }

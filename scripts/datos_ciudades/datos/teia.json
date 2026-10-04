@@ -65,7 +65,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 11.8,
-   "km_linea": 8.6
+   "km_linea": 8.6,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Badalona (B02)",
+     "municipio": "Badalona",
+     "km_carretera": 12.0
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

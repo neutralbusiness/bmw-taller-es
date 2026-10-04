@@ -57,16 +57,24 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV BCN Caracas (B23)",
+   "nombre": "ITV CIM Vallès (B20)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Caracas, 10 B",
-   "municipio": "Barcelona",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. «Les Minetes»",
+   "municipio": "Santa Perpètua de Mogoda",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 7.9,
-   "km_linea": 5.0
+   "km_carretera": 7.3,
+   "km_linea": 6.0,
+   "km_ruta_mas_rapida": 9.2,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV BCN Caracas (B23)",
+     "municipio": "Barcelona",
+     "km_carretera": 7.9
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -185,7 +193,7 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en Montcada i Reixac — Especialistas con ISTA",
+  "metaTitle": "Taller BMW cerca de Montcada i Reixac | Especialista BMW y MINI",
   "tiene_contenido_v3": true,
   "poblacion_en_json": 37460
  },

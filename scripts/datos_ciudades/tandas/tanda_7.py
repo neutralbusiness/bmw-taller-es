@@ -129,7 +129,7 @@ CIUDADES["quijorna"] = {
     "secciones": [
         {"id": "majadahonda-alcorcon", "h2": "Concesionario en Majadahonda, ITV en la M-506",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 26,1 km por carretera; Vehinter, en Alcorcón, queda casi igual, a 27. La estación ITV más cercana por carretera en el listado de la Comunidad de Madrid es la de ITV Villaviciosa (estación 2871), en la M-506, punto kilométrico 4,200, término de Alcorcón: 21,8 km.",
+             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 24,3 km por carretera. En el listado de la Comunidad de Madrid, las dos estaciones ITV más cercanas por carretera quedan casi a la par: la de ITV Villaviciosa (estación 2871), en la M-506, punto kilométrico 4,200, término de Alcorcón, a 21,8 km, y la de TÜV SÜD ATISAE (2816), en Las Rozas, a 22.",
              "Están a una distancia parecida pero en direcciones distintas, así que no esperes resolver las dos cosas en el mismo viaje.",
          ]},
         {"id": "m40-hacia-el-norte", "h2": "M-521, M-503 y M-40 hasta la A-1",
@@ -148,9 +148,9 @@ CIUDADES["quijorna"] = {
     ],
     "faq": [
         {"q": "¿Cuál es el concesionario BMW más cercano a Quijorna?",
-         "a": "Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 26,1 km según bmw.es."},
+         "a": "Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 24,3 km según bmw.es."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La estación más cercana por carretera en el listado oficial es la de ITV Villaviciosa, en la M-506, km 4,200 (Alcorcón), a 21,8 km."},
+         "a": "La estación más cercana por carretera en el listado oficial es la de ITV Villaviciosa, en la M-506, km 4,200 (Alcorcón), a 21,8 km; la de TÜV SÜD ATISAE en Las Rozas queda a 22."},
         {"q": "¿A cuánto queda vuestro taller?",
          "a": "A 51,3 km, en la calle Valgrande 17 de Alcobendas, por la M-40 y la A-1."},
     ],
@@ -158,7 +158,7 @@ CIUDADES["quijorna"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "4.044 habitantes (+26,5 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "2.225 · 550 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "ITV Villaviciosa, M-506 km 4,2 (Alcorcón) · 21,8 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Movilnorte (Majadahonda) · 26,1 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Movilnorte (Majadahonda) · 24,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 51,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
@@ -436,7 +436,7 @@ CIUDADES["valdilecha"] = {
     "secciones": [
         {"id": "itv-arganda", "h2": "La ITV, en el camino de San Martín de la Vega",
          "parrafos": [
-             "La estación más próxima por carretera en el listado de la Comunidad de Madrid es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8 de Arganda del Rey: 16,2 km por carretera, 13,3 en línea recta.",
+             "La estación más próxima por carretera en el listado de la Comunidad de Madrid es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8 de Arganda del Rey: 16,2 km por carretera, 13,3 en línea recta. La 2852, de General de Servicios ITV y también en Arganda, queda casi igual, a 16,9.",
          ]},
         {"id": "a3-m30-a1", "h2": "Por la A-3 y la M-30 hasta la A-1",
          "parrafos": [
@@ -445,7 +445,7 @@ CIUDADES["valdilecha"] = {
          ]},
         {"id": "alcala-garantia", "h2": "Servicio oficial en Alcalá y la garantía",
          "parrafos": [
-             "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 33,8 km; el de AutoPremier en la carretera de Valencia (Madrid) queda casi igual, a 34,6. Allí se tramitan las reparaciones que paga la garantía de BMW.",
+             "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 28,3 km por la ruta más corta (unos 33,8 por la más rápida). Allí se tramitan las reparaciones que paga la garantía de BMW.",
              "Las revisiones periódicas, en cambio, no tienen por qué hacerse allí: la normativa europea permite hacerlas en un taller independiente sin perder la garantía, con los intervalos y los recambios que marca el fabricante.",
          ]},
         {"id": "valdilecha-en-cifras", "h2": "Un 15,9 % más de vecinos en diez años",
@@ -455,9 +455,9 @@ CIUDADES["valdilecha"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV si vivo en Valdilecha?",
-         "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km."},
+         "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km; la 2852, también en Arganda, a 16,9."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "AutoPremier, en la Vía Complutense de Alcalá de Henares, a 33,8 km según bmw.es."},
+         "a": "AutoPremier, en la Vía Complutense de Alcalá de Henares, a 28,3 km según bmw.es."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
          "a": "55,1 km por la A-3, la M-30 y la A-1, hasta la calle Valgrande 17 de Alcobendas."},
     ],
@@ -465,7 +465,7 @@ CIUDADES["valdilecha"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "3.289 habitantes (+15,9 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.733 · 527 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "Estación 2807, Arganda del Rey · 16,2 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier (Alcalá de Henares) · 33,8 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier (Alcalá de Henares) · 28,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 55,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],
@@ -517,16 +517,16 @@ CIUDADES["monistrol-de-montserrat"] = {
 # ---------------------------------------------------------------------------
 CIUDADES["sant-esteve-de-palautordera"] = {
     "h1": "Sant Esteve de Palautordera: ITV en Sant Celoni y especialista BMW por la AP-7",
-    "entradilla": "El servicio oficial BMW te queda a la misma distancia hacia dos lados: Granollers y Mataró. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
+    "entradilla": "El servicio oficial BMW más próximo está en Mataró, a 30,1 km. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 63.8},
     "secciones": [
         {"id": "itv-gualba", "h2": "La ITV de Sant Celoni, en la carretera de Gualba",
          "parrafos": [
              "La estación más próxima por carretera del registro de la Generalitat es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43, a 11,2 km. Si la inspección se acerca y el coche tiene algún testigo encendido, resuélvelo antes: un fallo de emisiones o de airbag es motivo de desfavorable.",
          ]},
-        {"id": "granollers-o-mataro", "h2": "El servicio oficial: Granollers o Mataró, a la par",
+        {"id": "pruna-mataro", "h2": "El servicio oficial, en Mataró",
          "parrafos": [
-             "Según el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales a 32,7 km por carretera de Sant Esteve: el de la C-17 en Granollers y el de la Via Sèrgia 2 de Mataró. Para lo que dependa de la garantía de BMW, elige el que te venga mejor.",
+             "Según el localizador de bmw.es, el punto oficial más próximo a Sant Esteve es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,1 km por carretera. Para lo que dependa de la garantía de BMW, ese es el sitio.",
              "Para el mantenimiento habitual y las averías fuera de garantía, la alternativa es un taller independiente especializado. Trabajamos BMW y MINI con presupuesto por escrito, y la diagnosis también se presupuesta antes de empezar.",
          ]},
         {"id": "bv5301-ap7", "h2": "63,8 km: BV-5301, AP-7, C-33 y B-20",
@@ -542,7 +542,7 @@ CIUDADES["sant-esteve-de-palautordera"] = {
         {"q": "¿Dónde paso la ITV?",
          "a": "En ITV Sant Celoni (B26), carretera de Gualba 41-43, a 11,2 km por carretera."},
         {"q": "¿Cuál es el concesionario BMW más cercano?",
-         "a": "Pruna Motor, en Granollers o en Mataró: los dos a 32,7 km por carretera según bmw.es."},
+         "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,1 km por carretera según bmw.es."},
         {"q": "¿Puedo pasar la ITV con un testigo encendido?",
          "a": "Depende del testigo, pero los de emisiones, airbag o frenos suelen acabar en desfavorable: mejor diagnosticarlos antes."},
     ],
@@ -551,7 +551,7 @@ CIUDADES["sant-esteve-de-palautordera"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("082074")},
         {"etiqueta": "Turismos (2024)", "valor": "1.428 · 461 por cada 1.000 hab.", **F.idescat("082074")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 11,2 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers o Mataró) · 32,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 30,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 63,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082074"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -560,16 +560,16 @@ CIUDADES["sant-esteve-de-palautordera"] = {
 # ---------------------------------------------------------------------------
 CIUDADES["tielmes"] = {
     "h1": "Tielmes: ITV en Villarejo de Salvanés y taller BMW a 58,9 km por la A-3",
-    "entradilla": "La M-204 atraviesa Tielmes y la A-3 queda a menos de tres kilómetros. Por esa autovía se llega tanto al servicio oficial BMW como, después de cruzar Madrid, al taller especialista de Alcobendas.",
+    "entradilla": "La M-204 atraviesa Tielmes y la A-3 queda a menos de tres kilómetros. Por esa autovía se llega, después de cruzar Madrid, al taller especialista de Alcobendas; el servicio oficial BMW más próximo está en Alcalá de Henares.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 58.9},
     "secciones": [
         {"id": "itv-villarejo", "h2": "La ITV que te queda más cerca, en Villarejo",
          "parrafos": [
              "En el listado de la Comunidad de Madrid, la estación más próxima por carretera es la de General de Servicios ITV (estación 2853), en la avenida Juan Carlos I Rey de España 13 de Villarejo de Salvanés: 12 km.",
          ]},
-        {"id": "a3-oficial", "h2": "Servicio oficial en la carretera de Valencia",
+        {"id": "oficial-alcala", "h2": "Servicio oficial en Alcalá de Henares",
          "parrafos": [
-             "Según bmw.es, el punto oficial BMW más cercano es AutoPremier, en la carretera de Valencia, km 7,3, ya en Madrid: 38,4 km. Para una avería en garantía, ese es el sitio.",
+             "Según bmw.es, el punto oficial BMW más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares: 34,2 km por la ruta más corta; por la más rápida, unos 52. Para una avería en garantía, ese es el sitio.",
              "Fuera de eso, el mantenimiento lo puedes hacer donde prefieras sin perder la garantía, siempre que se cumpla el plan de BMW: intervalos, aceite con la homologación del motor y recambios de calidad equivalente. Lo ampara el Reglamento (UE) 461/2010.",
          ]},
         {"id": "hasta-alcobendas", "h2": "58,9 km: M-204, A-3, M-30 y A-1",
@@ -586,7 +586,7 @@ CIUDADES["tielmes"] = {
         {"q": "¿Dónde paso la ITV desde Tielmes?",
          "a": "En la estación 2853, avenida Juan Carlos I Rey de España 13, Villarejo de Salvanés, a 12 km por carretera."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "AutoPremier, en la carretera de Valencia, km 7,3 (Madrid), a 38,4 km según bmw.es."},
+         "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 34,2 km según bmw.es."},
         {"q": "¿Puedo hacer las revisiones fuera del concesionario estando en garantía?",
          "a": "Sí, siempre que se respeten intervalos y especificaciones del plan de mantenimiento de BMW."},
     ],
@@ -594,7 +594,7 @@ CIUDADES["tielmes"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "2.964 habitantes (+14,7 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.668 · 563 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "Estación 2853, Villarejo de Salvanés · 12 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, ctra. de Valencia km 7,3 · 38,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 34,2 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 58,9 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],

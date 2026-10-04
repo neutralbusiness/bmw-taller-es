@@ -61,15 +61,9 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 8.4,
+   "km_carretera": 6.9,
    "km_linea": 4.4,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Guadalajara",
-     "municipio": "Guadalajara",
-     "km_carretera": 9.2
-    }
-   ]
+   "km_ruta_mas_rapida": 8.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -173,8 +167,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Alovera | Corredor del Henares Guadalajara",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 10734
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 14526
  },
  "generado": "2026-10-04",
  "perfil": {

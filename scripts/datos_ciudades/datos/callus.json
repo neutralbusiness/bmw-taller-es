@@ -58,16 +58,24 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Fruitós (B25)",
-   "operador": "ITEVELESA",
-   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
-   "municipio": "Sant Fruitós de Bages",
+   "nombre": "ITV Manresa (B06)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. «Bufalvent»",
+   "municipio": "Manresa",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 11.6,
-   "km_linea": 7.6
+   "km_carretera": 11.2,
+   "km_linea": 9.0,
+   "km_ruta_mas_rapida": 12.9,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Sant Fruitós (B25)",
+     "municipio": "Sant Fruitós de Bages",
+     "km_carretera": 11.6
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

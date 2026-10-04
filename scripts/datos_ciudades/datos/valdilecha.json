@@ -87,15 +87,9 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 33.8,
+  "km_carretera": 28.3,
   "km_linea": 22.7,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "AutoPremier (Madrid)",
-    "municipio": "Madrid",
-    "km_carretera": 34.6
-   }
-  ],
+  "km_ruta_mas_rapida": 33.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

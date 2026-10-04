@@ -59,31 +59,22 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2849)",
-   "operador": "TÜV Rheinland Ibérica, S.A",
-   "direccion": "Avda. de la Industria, 5. Pol. Ind. La Cantueña",
-   "municipio": "Fuenlabrada",
+   "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2897)",
+   "operador": "DEKRA ITV ESPAÑA, S.L.U",
+   "direccion": "C/ Roma, 9",
+   "municipio": "Parla",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 12.2,
-   "km_linea": 10.7,
+   "km_carretera": 10.9,
+   "km_linea": 8.4,
+   "km_ruta_mas_rapida": 12.6,
    "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2897)",
-     "municipio": "Parla",
-     "km_carretera": 12.6
-    },
-    {
-     "nombre": "ITV Alcaravan ITV (estación 2829)",
-     "municipio": "Humanes",
-     "km_carretera": 12.8
-    },
     {
      "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2841)",
      "municipio": "Parla",
-     "km_carretera": 12.8
+     "km_carretera": 11.0
     }
    ]
   }
@@ -91,7 +82,7 @@
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "Vehinter (Getafe)",
   "razon_social": "Vehinter, S.A.",
-  "direccion": "Ctra. Madrid-Toledo,",
+  "direccion": "Ctra. Madrid-Toledo, km 14,700",
   "cp": "28905",
   "municipio": "Getafe",
   "web": "https://vehinter.concesionariobmw.es",

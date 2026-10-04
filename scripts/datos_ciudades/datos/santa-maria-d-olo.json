@@ -59,23 +59,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Fruitós (B25)",
-   "operador": "ITEVELESA",
-   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
-   "municipio": "Sant Fruitós de Bages",
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 27.2,
-   "km_linea": 21.0,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Osona (B04)",
-     "municipio": "Vic",
-     "km_carretera": 27.2
-    }
-   ]
+   "km_carretera": 25.6,
+   "km_linea": 21.9,
+   "km_ruta_mas_rapida": 27.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -151,7 +145,7 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en Santa Maria d'Oló | Especialistas Alta Montaña",
+  "metaTitle": "Taller BMW para Santa Maria d'Oló (Moianès) | Especialista BMW",
   "tiene_contenido_v3": true,
   "poblacion_en_json": 1099
  },

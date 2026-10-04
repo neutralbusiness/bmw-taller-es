@@ -209,7 +209,7 @@ CIUDADES["tordera"] = {
 # ---------------------------------------------------------------- Sant Celoni
 CIUDADES["sant-celoni"] = {
     "h1": "Sant Celoni: ITV en la carretera de Gualba y especialista BMW a 57,8 km",
-    "entradilla": "Sant Celoni tiene ITV propia; el servicio oficial BMW está en Granollers y el taller especialista de la red, en Sant Joan Despí. Si has buscado un «taller BMW Barcelona», esto es lo que hay de verdad y a cuántos kilómetros.",
+    "entradilla": "Sant Celoni tiene ITV propia; el servicio oficial BMW está en Granollers o Mataró y el taller especialista de la red, en Sant Joan Despí. Si has buscado un «taller BMW Barcelona», esto es lo que hay de verdad y a cuántos kilómetros.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 57.8},
     "secciones": [
         {"id": "itv-gualba", "h2": "La ITV la tienes en casa",
@@ -219,7 +219,7 @@ CIUDADES["sant-celoni"] = {
         {"id": "lo-que-no-es", "h2": "Ni oficial ni en Barcelona: lo que somos",
          "parrafos": [
              "Dasercars es un taller independiente especializado en BMW y MINI, sin relación con la red oficial ni con talleres de cadena. Su nave de la provincia está en Sant Joan Despí, no en Barcelona ciudad.",
-             "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 26,6 km por la ruta más corta. Por la vía más rápida son unos 31,7. Para la garantía del fabricante, ese es el sitio."
+             "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 26,6 km por la ruta más corta. Por la vía más rápida son unos 31,7. El de Pruna Motor en la Via Sèrgia 2 de Mataró queda casi a la par, a 27,1. Para la garantía del fabricante, cualquiera de los dos."
          ]},
         {"id": "ap7-c33", "h2": "Por la AP-7 y la C-33 hasta el Baix Llobregat",
          "parrafos": [
@@ -235,7 +235,7 @@ CIUDADES["sant-celoni"] = {
         {"q": "¿Hay ITV en Sant Celoni?",
          "a": "Sí: la estación B26, en la carretera de Gualba 41-43, según el registro de la Generalitat."},
         {"q": "¿Sois servicio oficial BMW?",
-         "a": "No. Somos un taller independiente especializado. El servicio oficial más cercano es Pruna Motor, en Granollers, a 26,6 km."},
+         "a": "No. Somos un taller independiente especializado. El servicio oficial más cercano es Pruna Motor, en Granollers, a 26,6 km, o en Mataró, a 27,1."},
         {"q": "¿A qué distancia está vuestro taller?",
          "a": "A 57,8 km, en Sant Joan Despí, por la AP-7, la C-33 y la B-20."},
     ],
@@ -244,7 +244,7 @@ CIUDADES["sant-celoni"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("082021")},
         {"etiqueta": "Turismos (2024)", "valor": "8.710 · 459 por cada 1.000 hab.", **F.idescat("082021")},
         {"etiqueta": "ITV en el municipio", "valor": "Sant Celoni (B26), ctra. de Gualba 41-43", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers) · 26,6 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers) · 26,6 km (Mataró · 27,1)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 57,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082021"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -385,7 +385,7 @@ CIUDADES["villanueva-del-pardillo"] = {
 # ---------------------------------------------------------------- Piera
 CIUDADES["piera"] = {
     "h1": "Piera: el taller especialista BMW a 39 km por la AP-7 y lo oficial en Terrassa",
-    "entradilla": "Piera ha ganado casi 2.900 vecinos en diez años. Para el dueño de un BMW o un MINI, el mapa es poco intuitivo: ITV en Igualada, servicio oficial en Terrassa y el taller especialista de la red en Sant Joan Despí.",
+    "entradilla": "Piera ha ganado casi 2.900 vecinos en diez años. Para el dueño de un BMW o un MINI, el mapa es poco intuitivo: ITV en Igualada o en Sant Andreu de la Barca, servicio oficial en Terrassa y el taller especialista de la red en Sant Joan Despí.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 39.0},
     "secciones": [
         {"id": "autorizado-o-independiente", "h2": "Taller autorizado o especialista independiente",
@@ -398,9 +398,9 @@ CIUDADES["piera"] = {
              "Hasta el carrer del Tambor del Bruc de Sant Joan Despí hay 39 km por carretera (31,3 en línea recta): la B-224, la AP-7 y la B-23. Piera no pertenece al Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
              "Como el servicio oficial y nuestro taller quedan a distancias parecidas, la decisión no depende de los kilómetros sino del trabajo: garantía de la marca, en la red oficial; mantenimiento y averías fuera de garantía, donde prefieras."
          ]},
-        {"id": "itv-les-comes", "h2": "La ITV, en Igualada",
+        {"id": "itv-les-comes", "h2": "La ITV: Igualada o Sant Andreu de la Barca",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima por carretera es la de Igualada (B12), en el carrer Països Baixos del polígono Les Comes, a 21,6 km. Hacia Igualada se va en dirección contraria a Barcelona, así que conviene no juntar ITV y taller el mismo día."
+             "En el registro de la Generalitat hay dos estaciones a la misma distancia por carretera, 21,6 km: la de Igualada (B12), en el carrer Països Baixos del polígono Les Comes, y la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5. Hacia Igualada se va en dirección contraria a Barcelona; si quieres juntar ITV y taller el mismo día, la de Sant Andreu es la que te encaja."
          ]},
         {"id": "piera-crece", "h2": "Un 19,3 % más de población desde 2015",
          "parrafos": [
@@ -412,7 +412,7 @@ CIUDADES["piera"] = {
         {"q": "¿Sois taller autorizado BMW?",
          "a": "No. El autorizado más cercano es Quadis Munich, en Terrassa, a 34,1 km. Dasercars es un especialista independiente."},
         {"q": "¿Dónde paso la ITV desde Piera?",
-         "a": "La más próxima por carretera es la de Igualada (B12), en el polígono Les Comes, a 21,6 km."},
+         "a": "Hay dos a 21,6 km por carretera: Igualada (B12), en el polígono Les Comes, y Sant Andreu de la Barca (B21), en la N-II."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
          "a": "39 km por la B-224, la AP-7 y la B-23, hasta Sant Joan Despí."},
     ],
@@ -420,7 +420,7 @@ CIUDADES["piera"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "17.880 habitantes (+19,3 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Anoia", **F.idescat("081614")},
         {"etiqueta": "Turismos (2024)", "valor": "9.729 · 544 por cada 1.000 hab.", **F.idescat("081614")},
-        {"etiqueta": "ITV más cercana", "valor": "Igualada (B12) · 21,6 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercanas", "valor": "Igualada (B12) o Sant Andreu (B21) · 21,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Terrassa) · 34,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 39 km", **F.osrm},
     ],
@@ -618,9 +618,9 @@ CIUDADES["el-escorial"] = {
          "parrafos": [
              "La ruta hasta la calle Valgrande 17 baja por la M-505 a la A-6, sigue por la M-40 y entra por la A-1: 53,7 km por carretera, 40,6 en línea recta. La recogida y el vehículo de cortesía, ambos sujetos a disponibilidad, están pensados para el área metropolitana de Madrid; pregunta al reservar si alcanzan a tu dirección."
          ]},
-        {"id": "tres-itv-villalba", "h2": "Tres ITV en Collado Villalba, a unos 18 km",
+        {"id": "itv-villalba", "h2": "Dos ITV en Collado Villalba, a menos de 17 km",
          "parrafos": [
-             "En el listado de la Comunidad de Madrid, las tres estaciones más próximas por carretera están en Collado Villalba y a distancias casi idénticas: la de Itevelesa (estación 2832), en la A-6, km 37,6, a 18 km; la de ITV P-29 (2883), a 18,2, y la de TÜV SÜD ATISAE (2813), a 18,3. Escoge la que tenga mejor cita."
+             "En el listado de la Comunidad de Madrid, las dos estaciones más próximas por carretera están en Collado Villalba y casi a la misma distancia: la de ITV P-29 (estación 2883), en la calle Buril 10 del polígono P-29, a 16,7 km, y la de TÜV SÜD ATISAE (2813), a 16,8. Escoge la que tenga mejor cita."
          ]},
         {"id": "sierra-y-coche", "h2": "918 metros y 579 coches por cada mil vecinos",
          "parrafos": [
@@ -632,7 +632,7 @@ CIUDADES["el-escorial"] = {
         {"q": "¿Sois servicio oficial BMW?",
          "a": "No. El servicio oficial más cercano es Movilnorte, en Las Rozas, a 26,1 km. Dasercars es un especialista independiente en Alcobendas."},
         {"q": "¿Dónde paso la ITV desde El Escorial?",
-         "a": "En cualquiera de las tres estaciones de Collado Villalba, todas a unos 18 km."},
+         "a": "En cualquiera de las dos de Collado Villalba: ITV P-29 (2883), a 16,7 km, o TÜV SÜD ATISAE (2813), a 16,8."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
          "a": "53,7 km por la M-505, la A-6, la M-40 y la A-1."},
     ],
@@ -640,7 +640,7 @@ CIUDADES["el-escorial"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "17.171 habitantes (+11,9 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "9.948 · 579 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Altitud del centro urbano", "valor": "918 m", **F.copernicus},
-        {"etiqueta": "ITV más cercanas", "valor": "Collado Villalba (2832, 2883, 2813) · unos 18 km", **F.itv_madrid},
+        {"etiqueta": "ITV más cercanas", "valor": "Collado Villalba (2883, 2813) · 16,7 y 16,8 km", **F.itv_madrid},
         {"etiqueta": "Servicio oficial BMW", "valor": "Movilnorte (Las Rozas) · 26,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 53,7 km", **F.osrm},
     ],

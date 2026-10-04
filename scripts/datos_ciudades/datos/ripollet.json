@@ -77,14 +77,14 @@
   "municipio": "Sabadell",
   "web": "https://sitjasmotor.tallerautorizadobmw.es",
   "solo_taller": true,
-  "km_carretera": 9.5,
+  "km_carretera": 8.5,
   "km_linea": 6.6,
   "km_ruta_mas_rapida": 10.4,
   "casi_igual_de_cerca": [
    {
-    "nombre": "Quadis Munich (Sabadell)",
-    "municipio": "Sabadell",
-    "km_carretera": 9.6
+    "nombre": "Quadis Munich (Sant Cugat del Vallès)",
+    "municipio": "Sant Cugat del Vallès",
+    "km_carretera": 9.4
    }
   ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
@@ -197,8 +197,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Ripollet – Especialista sin perder garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 38347
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 39897
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -49,15 +49,9 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 10.4,
+   "km_carretera": 8.1,
    "km_linea": 4.0,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Arrigorriaga",
-     "municipio": null,
-     "km_carretera": 10.8
-    }
-   ]
+   "km_ruta_mas_rapida": 10.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

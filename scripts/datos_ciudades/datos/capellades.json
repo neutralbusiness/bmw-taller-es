@@ -70,15 +70,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Vilanova)",
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
   "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Avinguda d' Eduard Toldrà, 69",
-  "cp": "08800",
-  "municipio": "Vilanova i la Geltrú",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 39.2,
-  "km_linea": 33.7,
+  "km_carretera": 36.5,
+  "km_linea": 30.3,
+  "km_ruta_mas_rapida": 41.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

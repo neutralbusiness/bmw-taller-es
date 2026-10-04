@@ -209,14 +209,14 @@ CIUDADES["la-nou-de-bergueda"] = {
 
 # ---------------------------------------------------------------- Castellfollit de Riubregós
 CIUDADES["castellfollit-de-riubregos"] = {
-    "h1": "Castellfollit de Riubregós: ITV a 38 km, servicio oficial a 43 y especialista BMW a 89",
-    "entradilla": "Desde Castellfollit de Riubregós, cualquier cosa que tenga que ver con el coche está lejos. Por eso esta página no va de cercanía, sino de cómo agrupar viajes: la ITV en Igualada, el servicio oficial BMW en Tàrrega y el taller especialista de la red en Sant Joan Despí.",
+    "h1": "Castellfollit de Riubregós: ITV a 32 km, servicio oficial a 43 y especialista BMW a 89",
+    "entradilla": "Desde Castellfollit de Riubregós, cualquier cosa que tenga que ver con el coche está lejos. Por eso esta página no va de cercanía, sino de cómo agrupar viajes: la ITV en Granyanella, el servicio oficial BMW en Tàrrega y el taller especialista de la red en Sant Joan Despí.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 88.9},
     "secciones": [
-        {"id": "igualada-y-tarrega", "h2": "Igualada y Tàrrega, a una distancia parecida",
+        {"id": "granyanella-y-tarrega", "h2": "La ITV en Granyanella, el servicio oficial en Tàrrega",
          "parrafos": [
-             "La estación más próxima por carretera del registro de la Generalitat es ITV Igualada (B12), en el polígono Les Comes, a 38,2 km. El punto de servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 42,9 km. Igualada queda hacia Barcelona; Tàrrega, hacia Lleida.",
-             "Con esas distancias, lo práctico es hacer coincidir la ITV con otra gestión en Igualada y reservar Tàrrega para lo que solo puede hacer la red oficial, como las campañas de revisión que convoque BMW.",
+             "La estación más próxima por carretera del registro de la Generalitat es ITV Granyanella (L05), en la N-II, punto kilométrico 512,7, a 31,6 km. El punto de servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 42,9 km.",
+             "Con esas distancias, lo práctico es hacer coincidir la ITV con otra gestión por la zona y reservar Tàrrega para lo que solo puede hacer la red oficial, como las campañas de revisión que convoque BMW.",
          ]},
         {"id": "c1412a", "h2": "La C-1412a, a menos de un kilómetro del centro",
          "parrafos": [
@@ -231,7 +231,7 @@ CIUDADES["castellfollit-de-riubregos"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV desde Castellfollit de Riubregós?",
-         "a": "En Igualada (B12), a 38,2 km por carretera, según la Generalitat."},
+         "a": "En Granyanella (L05), en la N-II, a 31,6 km por carretera, según la Generalitat."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
          "a": "Unicars Ponent, en Tàrrega, a 42,9 km según el localizador de bmw.es."},
         {"q": "¿Se cobra la diagnosis?",
@@ -241,7 +241,7 @@ CIUDADES["castellfollit-de-riubregos"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "153 habitantes (−8,4 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Anoia", **F.idescat("080608")},
         {"etiqueta": "Turismos (2024)", "valor": "127", **F.idescat("080608")},
-        {"etiqueta": "ITV más cercana", "valor": "Igualada (B12) · 38,2 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Granyanella (L05) · 31,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Unicars Ponent (Tàrrega) · 42,9 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 88,9 km", **F.osrm},
     ],
@@ -466,9 +466,9 @@ CIUDADES["granera"] = {
              "La ruta más corta que calcula OpenStreetMap enlaza la BV-1245, la C-59, la BV-1341, la C-1413b, la C-33 y la B-20. Son 68,6 km por carretera para 40,2 en línea recta: un rodeo de casi treinta kilómetros que imponen el relieve y el trazado.",
              "Granera queda fuera del área metropolitana de Barcelona y la recogida del taller no llega. Si bajas, que sea por algo que merezca el viaje; una llamada previa con modelo, año y síntoma lo aclara.",
          ]},
-        {"id": "itv-viladecavalls", "h2": "La ITV, en el polígono Can Trias de Viladecavalls",
+        {"id": "itv-sant-fruitos", "h2": "La ITV, en el polígono El Grau de Sant Fruitós de Bages",
          "parrafos": [
-             "La estación más próxima por carretera en el registro de la Generalitat es ITV Viladecavalls (B03), en el polígono Can Trias, a 40,1 km; en línea recta, 19,9.",
+             "La estación más próxima por carretera en el registro de la Generalitat es ITV Sant Fruitós (B25), en el polígono El Grau de Sant Fruitós de Bages, a 31,1 km; en línea recta, 17,4. Por la ruta más rápida son unos 42,6.",
              "Granera tiene 84 vecinos según el padrón de 2025 (80 en 2015) y 78 turismos censados en 2024 según Idescat, en un término de 23,73 km². El núcleo está a 782 metros: con heladas, las juntas de las puertas y el freno de estacionamiento pueden quedarse pegados si el coche duerme mojado al raso; dejarlo con una marcha engranada, o en P en un automático, evita forzar el freno.",
          ]},
     ],
@@ -476,7 +476,7 @@ CIUDADES["granera"] = {
         {"q": "¿Cuál es el taller autorizado BMW más cercano a Granera?",
          "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 25,2 km según bmw.es."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La más próxima por carretera es la de Viladecavalls (B03), a 40,1 km."},
+         "a": "La más próxima por carretera es la de Sant Fruitós de Bages (B25), a 31,1 km."},
         {"q": "¿Por qué hay tanta diferencia entre carretera y línea recta?",
          "a": "Porque las carreteras de la zona rodean el relieve: 68,6 km hasta el taller frente a 40,2 en línea recta."},
     ],
@@ -484,7 +484,7 @@ CIUDADES["granera"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "84 habitantes", **F.ine},
         {"etiqueta": "Comarca", "valor": "Moianès", **F.idescat("080958")},
         {"etiqueta": "Altitud", "valor": "782 m", **F.idescat("080958")},
-        {"etiqueta": "ITV más cercana", "valor": "Viladecavalls (B03) · 40,1 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) · 31,1 km", **F.itv_cat},
         {"etiqueta": "Taller autorizado BMW", "valor": "Tallcar (Castellar del Vallès) · 25,2 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 68,6 km", **F.osrm},
     ],

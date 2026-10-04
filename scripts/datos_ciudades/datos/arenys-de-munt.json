@@ -67,7 +67,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 17.1,
-   "km_linea": 9.4
+   "km_linea": 9.4,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Argentona (B08)",
+     "municipio": "Argentona",
+     "km_carretera": 17.5
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

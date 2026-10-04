@@ -236,7 +236,7 @@ CIUDADES["puigdalber"] = {
 META["rajadell"] = "BMW en Rajadell (Bages): ITV y servicio oficial en Sant Fruitós de Bages y taller especialista independiente en Sant Joan Despí, a 75,7 km por la C-55 y la C-16."
 CIUDADES["rajadell"] = {
     "h1": "Rajadell, junto a la C-25: tu BMW entre Manresa y Sant Joan Despí",
-    "entradilla": "Con la C-25 a menos de tres kilómetros, Rajadell tiene buena salida hacia todas partes. La ITV y el servicio oficial BMW están en Sant Fruitós de Bages; el taller especialista de la red, a 75,7 km. Lo que te sirve para decidir dónde llevar el coche.",
+    "entradilla": "Con la C-25 a menos de tres kilómetros, Rajadell tiene buena salida hacia todas partes. El servicio oficial BMW está en Sant Fruitós de Bages; la ITV, en Manresa o en Sant Fruitós, y el taller especialista de la red, a 75,7 km. Lo que te sirve para decidir dónde llevar el coche.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 75.7},
     "secciones": [
         {"id": "el-eje-al-lado", "h2": "El Eix Transversal a la puerta",
@@ -244,9 +244,9 @@ CIUDADES["rajadell"] = {
              "La C-25, el Eix Transversal, pasa a menos de tres kilómetros del centro. Para un BMW diésel es una ventaja real: el filtro de partículas necesita de vez en cuando un tramo a régimen estable para quemar el hollín acumulado, y aquí no hace falta buscarlo.",
              "Si aun así el aviso del filtro aparece con frecuencia, el problema suele estar en otra parte —un sensor de presión diferencial, una válvula EGR sucia, un termostato que no deja calentar el motor— y merece diagnóstico antes de pensar en cambiar el filtro."
          ]},
-        {"id": "sant-fruitos", "h2": "ITV a 18,1 km y servicio oficial a 22,4",
+        {"id": "sant-fruitos", "h2": "ITV a unos 18 km y servicio oficial a 22,4",
          "parrafos": [
-             "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono El Grau, a 18,1 km. En la misma localidad, en la carretera de Manresa a Berga km 34,5, está Quadis Munich, el punto oficial BMW más cercano según bmw.es, a 22,4 km.",
+             "En el registro de la Generalitat, dos estaciones de ITV quedan casi a la par por carretera: la de Manresa (B06), en el polígono Bufalvent, a 17,8 km, y la de Sant Fruitós (B25), en el polígono El Grau, a 18,1. En Sant Fruitós, en la carretera de Manresa a Berga km 34,5, está también Quadis Munich, el punto oficial BMW más cercano según bmw.es, a 22,4 km.",
              "Las llamadas a revisión que convoque la marca se atienden allí. Para mantenimiento y averías, la elección del taller es tuya."
          ]},
         {"id": "bajar-a-barcelona", "h2": "75,7 km por la C-55 y la C-16",
@@ -258,7 +258,7 @@ CIUDADES["rajadell"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV desde Rajadell?",
-         "a": "En la estación de Sant Fruitós (B25), polígono El Grau, a 18,1 km por carretera."},
+         "a": "En Manresa (B06), polígono Bufalvent, a 17,8 km por carretera, o en Sant Fruitós (B25), polígono El Grau, a 18,1."},
         {"q": "¿Por qué se enciende tan a menudo el testigo del filtro de partículas?",
          "a": "Puede ser por trayectos demasiado cortos, pero también por un sensor, la EGR o el termostato. Conviene diagnosticarlo."},
         {"q": "¿Qué distancia hay hasta vuestro taller?",
@@ -268,7 +268,7 @@ CIUDADES["rajadell"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "597 habitantes (+13,9 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Bages", **F.idescat("081786")},
         {"etiqueta": "Superficie del término", "valor": "45,53 km²", **F.idescat("081786")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) · 18,1 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Manresa (B06) · 17,8 km; Sant Fruitós (B25) · 18,1", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Sant Fruitós de Bages · 22,4 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 75,7 km", **F.osrm},
     ],
@@ -278,8 +278,8 @@ CIUDADES["rajadell"] = {
 # ─────────────────────────────────────────────────────────────────────────────
 META["campins"] = "BMW en Campins (Vallès Oriental): ITV en Sant Celoni a 8,8 km, servicio oficial en Mataró y taller especialista independiente a 64,6 km por la AP-7."
 CIUDADES["campins"] = {
-    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Granollers y taller a 64,6 km",
-    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Granollers para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
+    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Granollers o Mataró y taller a 64,6 km",
+    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Granollers o Mataró para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 64.6},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "Sant Celoni: 4,1 km en recta, 8,8 por carretera",
@@ -289,7 +289,7 @@ CIUDADES["campins"] = {
          ]},
         {"id": "mataro-y-sant-joan", "h2": "Dos direcciones distintas: Mataró o el Baix Llobregat",
          "parrafos": [
-             "El punto oficial BMW más cercano en el localizador de bmw.es es Pruna Motor, en el km 19 de la C-17 en Granollers, a 33,5 km. Es la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
+             "En el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales casi a la misma distancia: el del km 19 de la C-17 en Granollers, a 33,5 km, y el de la Via Sèrgia 2 de Mataró, a 34. Son la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
              "Nuestro taller, Dasercars Barcelona, está a 64,6 km: BV-5114, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc, 52,5 km en línea recta. Campins no forma parte del área metropolitana y la recogida del taller no llega. Para una revisión rutinaria es mucho camino; para una avería de BMW que nadie ha resuelto cerca, es otra cuenta."
          ]},
         {"id": "campins-crece", "h2": "Un pueblo pequeño que gana vecinos",
@@ -302,7 +302,7 @@ CIUDADES["campins"] = {
         {"q": "¿Dónde paso la ITV desde Campins?",
          "a": "En la estación de Sant Celoni (B26), carretera de Gualba 41-43, a 8,8 km por carretera."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
-         "a": "Pruna Motor, en la C-17 a su paso por Granollers, a 33,5 km según bmw.es."},
+         "a": "Pruna Motor, en Granollers (C-17), a 33,5 km, o en Mataró (Via Sèrgia 2), a 34, según bmw.es."},
         {"q": "¿Recogéis el coche en Campins?",
          "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."},
     ],
@@ -311,7 +311,7 @@ CIUDADES["campins"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("080399")},
         {"etiqueta": "Turismos (2024)", "valor": "344 · 587 por cada 1.000 hab.", **F.idescat("080399")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 8,8 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 33,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 33,5 km (Mataró · 34)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 64,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080399"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -412,9 +412,9 @@ CIUDADES["fogars-de-montclus"] = {
              "La relación entre las dos distancias lo resume: desde el núcleo urbano hasta la estación de ITV de Sant Celoni (B26), en la carretera de Gualba 41-43, hay 6,3 km en línea recta y 14,5 por carretera. La carretera da muchas vueltas, con curvas y desnivel.",
              "En ese tipo de carretera los frenos trabajan más, sobre todo bajando. El líquido de frenos absorbe humedad con el tiempo y pierde eficacia cuando se calienta, por eso el plan de BMW lo cambia por años y no por kilómetros. Los discos y las pastillas también se gastan antes que en llano."
          ]},
-        {"id": "oficial-en-mataro", "h2": "El servicio oficial, en Mataró, a 43,3 km",
+        {"id": "oficial-granollers-mataro", "h2": "El servicio oficial, en Granollers o Mataró",
          "parrafos": [
-             "El punto oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 43,3 km. Para una campaña del fabricante, es allí; para mantenimiento y averías, el taller lo eliges tú."
+             "Según bmw.es, Pruna Motor tiene dos puntos oficiales casi a la misma distancia: el de la C-17 en Granollers, a 40,3 km, y el de la Via Sèrgia 2 de Mataró, a 41,1. Para una campaña del fabricante, es en uno de ellos; para mantenimiento y averías, el taller lo eliges tú."
          ]},
         {"id": "hasta-sant-joan-despi", "h2": "70,4 km por la AP-7 y la C-33",
          "parrafos": [
@@ -439,7 +439,7 @@ CIUDADES["fogars-de-montclus"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("080811")},
         {"etiqueta": "Turismos (2024)", "valor": "279 · 565 por cada 1.000 hab.", **F.idescat("080811")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 14,5 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 43,3 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 40,3 km (Mataró · 41,1)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 70,4 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080811"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],

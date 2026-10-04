@@ -67,15 +67,28 @@
   "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Barcelona Premium (Sant Boi)",
-  "razon_social": "Caetano Barcelona Premium S.L. Sant Boi",
-  "direccion": "Ctra. del Prat, 15",
-  "cp": "08830",
-  "municipio": "Sant Boi de Llobregat",
-  "web": "https://barcelonapremium-santboi.concesionariobmw.es",
+  "nombre": "Barcelona Premium (Hospitalet)",
+  "razon_social": "Caetano Barcelona Premium S.L.",
+  "direccion": "Montserrat Roig, 31",
+  "cp": "08908",
+  "municipio": "L'Hospitalet de Llobregat",
+  "web": "https://barcelonapremium-hospitalet.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 8.7,
-  "km_linea": 5.6,
+  "km_carretera": 8.2,
+  "km_linea": 6.1,
+  "km_ruta_mas_rapida": 11.2,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Barcelona Premium (Sant Boi)",
+    "municipio": "Sant Boi de Llobregat",
+    "km_carretera": 8.3
+   },
+   {
+    "nombre": "Barcelona Premium (Esteve Terradas)",
+    "municipio": "Barcelona",
+    "km_carretera": 8.8
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -166,8 +179,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Sant Just Desvern — Especialistas en Revisión CBS",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 15811
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 21037
  },
  "generado": "2026-10-04",
  "perfil": {

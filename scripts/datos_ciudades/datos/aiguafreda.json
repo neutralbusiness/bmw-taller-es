@@ -58,16 +58,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Granollers (B18)",
-   "operador": "APPLUS ITV",
-   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
-   "municipio": "Granollers",
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 26.7,
-   "km_linea": 21.1
+   "km_carretera": 24.1,
+   "km_linea": 20.4,
+   "km_ruta_mas_rapida": 28.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

@@ -59,16 +59,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Celoni (B26)",
-   "operador": "TuV-SUD",
-   "direccion": "Carretera Gualba, 41-43",
-   "municipio": "Sant Celoni",
+   "nombre": "ITV Blanes (G07)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Avinguda de l'estació 47",
+   "municipio": "Blanes",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 16.8,
-   "km_linea": 14.6
+   "km_carretera": 14.4,
+   "km_linea": 10.8,
+   "km_ruta_mas_rapida": 18.7
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

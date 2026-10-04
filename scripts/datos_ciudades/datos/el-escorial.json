@@ -59,27 +59,22 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2832)",
-   "operador": "Grupo ITEVELESA, S.L",
-   "direccion": "A-6, km 37,6",
+   "nombre": "ITV ITV P-29 Collado Villalba, S.L (estación 2883)",
+   "operador": "ITV P-29 Collado Villalba, S.L",
+   "direccion": "c/ Buril, 10. Pol. Ind. P-29",
    "municipio": "Collado Villalba",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (punto kilométrico)",
-   "km_carretera": 18.0,
-   "km_linea": 12.7,
-   "km_ruta_mas_rapida": 22.2,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 16.7,
+   "km_linea": 10.2,
+   "km_ruta_mas_rapida": 18.2,
    "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV ITV P-29 Collado Villalba, S.L (estación 2883)",
-     "municipio": "Collado Villalba",
-     "km_carretera": 18.2
-    },
     {
      "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
      "municipio": "Collado Villalba",
-     "km_carretera": 18.3
+     "km_carretera": 16.8
     }
    ]
   }
@@ -158,9 +153,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en El Escorial | Diagnosis oficial y garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 15842
+  "metaTitle": "Taller BMW en El Escorial | Diagnosis y garantía",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 17171
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -187,8 +187,8 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Granollers y taller a 64,6 km",
-    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Granollers para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
+    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Granollers o Mataró y taller a 64,6 km",
+    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Granollers o Mataró para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 64.6
@@ -206,7 +206,7 @@
         "id": "mataro-y-sant-joan",
         "h2": "Dos direcciones distintas: Mataró o el Baix Llobregat",
         "parrafos": [
-          "El punto oficial BMW más cercano en el localizador de bmw.es es Pruna Motor, en el km 19 de la C-17 en Granollers, a 33,5 km. Es la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
+          "En el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales casi a la misma distancia: el del km 19 de la C-17 en Granollers, a 33,5 km, y el de la Via Sèrgia 2 de Mataró, a 34. Son la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
           "Nuestro taller, Dasercars Barcelona, está a 64,6 km: BV-5114, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc, 52,5 km en línea recta. Campins no forma parte del área metropolitana y la recogida del taller no llega. Para una revisión rutinaria es mucho camino; para una avería de BMW que nadie ha resuelto cerca, es otra cuenta."
         ]
       },
@@ -226,7 +226,7 @@
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
-        "a": "Pruna Motor, en la C-17 a su paso por Granollers, a 33,5 km según bmw.es."
+        "a": "Pruna Motor, en Granollers (C-17), a 33,5 km, o en Mataró (Via Sèrgia 2), a 34, según bmw.es."
       },
       {
         "q": "¿Recogéis el coche en Campins?",
@@ -260,7 +260,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Pruna Motor, Granollers · 33,5 km",
+        "valor": "Pruna Motor, Granollers · 33,5 km (Mataró · 34)",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

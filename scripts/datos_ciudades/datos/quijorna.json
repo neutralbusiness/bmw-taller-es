@@ -87,15 +87,9 @@
   "municipio": "Majadahonda",
   "web": "https://movilnorte.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 26.1,
+  "km_carretera": 24.3,
   "km_linea": 18.2,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Vehinter (Alcorcón)",
-    "municipio": "Alcorcón",
-    "km_carretera": 27.0
-   }
-  ],
+  "km_ruta_mas_rapida": 26.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

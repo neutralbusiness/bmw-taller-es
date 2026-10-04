@@ -214,7 +214,7 @@
         "id": "itv-sant-just",
         "h2": "La ITV, en el polígono de Sant Just Desvern",
         "parrafos": [
-          "En el registro de la Generalitat, la estación más próxima al centro de Esplugues es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera 19-21 del polígono industrial núm. 1, a 2,7 km por carretera."
+          "En el registro de la Generalitat, la estación más próxima al centro de Esplugues es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera 19-21 del polígono industrial núm. 1, a 2,7 km por carretera. La de Cornellà (B11) queda casi igual, a 3,5."
         ]
       },
       {
@@ -226,10 +226,10 @@
         ]
       },
       {
-        "id": "taller-esteve-terrades",
-        "h2": "Un punto de servicio oficial: el taller de Esteve Terrades",
+        "id": "oficial-hospitalet",
+        "h2": "El servicio oficial más cercano, en L'Hospitalet",
         "parrafos": [
-          "En el localizador de bmw.es, dos puntos de Barcelona Premium quedan a 7 km por carretera de Esplugues: el taller del carrer d'Esteve Terrades 77-79 de Barcelona, que es solo de taller, sin venta, y el concesionario de la carretera del Prat 15 de Sant Boi de Llobregat. Cualquiera de los dos atiende lo que cubre la garantía de BMW."
+          "En el localizador de bmw.es, el punto oficial más próximo a Esplugues es Barcelona Premium, en el carrer Montserrat Roig 31 de L'Hospitalet de Llobregat, a 5,9 km por la ruta más corta (unos 9 por la más rápida). Es la referencia para lo que cubre la garantía de BMW."
         ]
       }
     ],
@@ -244,7 +244,7 @@
       },
       {
         "q": "¿Dónde está la ITV más cercana?",
-        "a": "En Sant Just Desvern (B05), en la avinguda de la Riera, a 2,7 km según la Generalitat."
+        "a": "En Sant Just Desvern (B05), en la avinguda de la Riera, a 2,7 km según la Generalitat; la de Cornellà (B11), a 3,5."
       }
     ],
     "datos": [
@@ -274,7 +274,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Barcelona Premium (Esteve Terrades o Sant Boi) · 7 km",
+        "valor": "Barcelona Premium (L'Hospitalet) · 5,9 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

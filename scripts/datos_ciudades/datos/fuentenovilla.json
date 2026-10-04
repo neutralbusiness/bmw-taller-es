@@ -58,16 +58,29 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV General de Servicios ITV, S.A (estación 2853)",
-   "operador": "General de Servicios ITV, S.A",
-   "direccion": "Avda. Juan Carlos I Rey de España, 13",
-   "municipio": "Villarejo De Salvanés",
+   "nombre": "ITV TÜV SÜD ATISAE, S.A.U (estación 2878)",
+   "operador": "TÜV SÜD ATISAE, S.A.U",
+   "direccion": "Avda. Juan Carlos I, s/n Centro Comercial La Garena",
+   "municipio": "Alcalá De Henares",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (dirección)",
-   "km_carretera": 35.1,
-   "km_linea": 27.2
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 35.0,
+   "km_linea": 25.7,
+   "km_ruta_mas_rapida": 39.2,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2857)",
+     "municipio": "Alcalá De Henares",
+     "km_carretera": 35.0
+    },
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2853)",
+     "municipio": "Villarejo De Salvanés",
+     "km_carretera": 35.1
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

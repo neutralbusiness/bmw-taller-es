@@ -66,7 +66,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 11.3,
-   "km_linea": 7.6
+   "km_linea": 7.6,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Sant Fruitós (B25)",
+     "municipio": "Sant Fruitós de Bages",
+     "km_carretera": 11.9
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

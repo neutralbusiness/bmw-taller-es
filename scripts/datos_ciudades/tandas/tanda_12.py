@@ -584,7 +584,7 @@ CIUDADES["calonge-de-segarra"] = {
 # ---------------------------------------------------------------- Viver i Serrateix
 CIUDADES["viver-i-serrateix"] = {
     "h1": "Viver i Serrateix: 66,8 km² para 178 vecinos y un BMW a 91,9 km del taller",
-    "entradilla": "Tres habitantes por kilómetro cuadrado: en Viver i Serrateix todo queda lejos. La ITV de Berga y el servicio oficial de Sant Fruitós de Bages están a 32,1 y 30,7 km; el taller especialista de la red, a 91,9 km.",
+    "entradilla": "Tres habitantes por kilómetro cuadrado: en Viver i Serrateix todo queda lejos. La ITV de Berga y el servicio oficial de Sant Fruitós de Bages están a 27,6 y 30,7 km; el taller especialista de la red, a 91,9 km.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 91.9},
     "secciones": [
         {"id": "tres-por-km2", "h2": "Tres habitantes por km²",
@@ -594,7 +594,7 @@ CIUDADES["viver-i-serrateix"] = {
          ]},
         {"id": "norte-o-sur", "h2": "Berga o Sant Fruitós: a una distancia parecida",
          "parrafos": [
-             "La estación más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono La Valldan, a 32,1 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 30,7 km. Uno hacia el norte y otro hacia el sur por la misma C-16.",
+             "La estación más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono La Valldan, a 27,6 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 30,7 km. Uno hacia el norte y otro hacia el sur por la misma C-16.",
          ]},
         {"id": "bv4235-c16", "h2": "91,9 km por la BV-4235 y la C-16",
          "parrafos": [
@@ -604,7 +604,7 @@ CIUDADES["viver-i-serrateix"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV desde Viver i Serrateix?",
-         "a": "En Berga (B13), a 32,1 km por carretera, según el registro de la Generalitat."},
+         "a": "En Berga (B13), a 27,6 km por carretera, según el registro de la Generalitat."},
         {"q": "¿Pierdo la garantía si no voy al concesionario?",
          "a": "No, si se respetan los intervalos y especificaciones del plan de mantenimiento de BMW."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
@@ -615,7 +615,7 @@ CIUDADES["viver-i-serrateix"] = {
         {"etiqueta": "Comarca", "valor": "Berguedà", **F.idescat("083089")},
         {"etiqueta": "Superficie del término", "valor": "66,8 km²", **F.idescat("083089")},
         {"etiqueta": "Turismos (2024)", "valor": "127 · 713 por cada 1.000 hab.", **F.idescat("083089")},
-        {"etiqueta": "ITV más cercana", "valor": "Berga (B13) · 32,1 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Berga (B13) · 27,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Sant Fruitós de Bages) · 30,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 91,9 km", **F.osrm},
     ],

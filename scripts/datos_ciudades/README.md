@@ -40,8 +40,8 @@ no repite peticiones. Para refrescar un dato, borra su fichero de `cache/`.
 | Parque de turismos | Idescat a partir de DGT (Cataluña, 2024); Instituto de Estadística de la Comunidad de Madrid a partir de DGT (2025) | resto: sin fuente municipal abierta cargada |
 | Taller que atiende la zona | JSON-LD de `/taller-bmw-madrid/` y `/taller-bmw-barcelona/` + teléfono por zona del panel | Zaragoza: sin dirección publicada |
 | Distancia por carretera y vías de la ruta | OSRM (router.project-osrm.org) sobre OpenStreetMap | no se publica el tiempo (estimación sin tráfico). Origen: el punto de la página, o el centro del núcleo urbano (CartoCiudad, `p03b`) si el punto cae fuera del casco a más de 1 km (`distancias_desde` en el fichero) |
-| Servicio oficial BMW más cercano | localizador de concesionarios de bmw.es (puntos con taller, rama «T») | solo como referencia, nunca para desprestigiar. Fuera: Andorra (Pyrénées Motors sale con país «ES») y centros de ocasión sin taller comprobado (AutoPremier La Garena, Movilnorte El Carralero…; lista en `p04`). Más cercano: ruta más corta (alternativas de OSRM) entre los 6 más próximos en línea recta; `casi_igual_de_cerca` si otro queda a < 1 km |
-| ITV | Generalitat (dades obertes 7dyp-y4dd), Comunidad de Madrid (listado oficial), aragon.es (municipios); resto OSM con `verificar: true` | Cataluña: coordenadas del campo `localitzador_a_google_maps` (los campos lat/long pierden el punto decimal). Madrid: geocodificadas por dirección o punto kilométrico (CartoCiudad); 10 estaciones solo con precisión de municipio (`precision`). «En el municipio» = municipio de la lista oficial (código INE), no el polígono. Más cercana: ruta más corta (alternativas de OSRM, no solo la más rápida) entre las 8 más próximas en línea recta; `casi_igual_de_cerca` si otra queda a < 1 km. Direcciones de la Generalitat limpiadas (comillas escapadas, «l¿estació») y municipios con el artículo delante («les Borges Blanques») |
+| Servicio oficial BMW más cercano | localizador de concesionarios de bmw.es (puntos con taller, rama «T») | solo como referencia, nunca para desprestigiar. Fuera: Andorra (Pyrénées Motors sale con país «ES») y centros de ocasión sin taller comprobado (AutoPremier La Garena, Movilnorte El Carralero…; lista en `p04`). Más cercano: ruta más corta (alternativas de OSRM + OSRM forzado por el corredor de la ruta más corta de Valhalla) entre los 6 más próximos en línea recta y todos los que estén en línea recta más cerca que la mejor distancia por carretera; `casi_igual_de_cerca` si otro queda a < 1 km |
+| ITV | Generalitat (dades obertes 7dyp-y4dd), Comunidad de Madrid (listado oficial), aragon.es (municipios); resto OSM con `verificar: true` | Cataluña: coordenadas del campo `localitzador_a_google_maps` (los campos lat/long pierden el punto decimal). Madrid: geocodificadas por dirección o punto kilométrico (CartoCiudad); 10 estaciones solo con precisión de municipio (`precision`). «En el municipio» = municipio de la lista oficial (código INE), no el polígono. Más cercana: ruta más corta (alternativas de OSRM, no solo la más rápida, + OSRM forzado por el corredor de la ruta más corta de Valhalla) entre las 8 más próximas en línea recta y todas las que estén en línea recta más cerca que la mejor distancia por carretera; `casi_igual_de_cerca` si otra queda a < 1 km. Direcciones de la Generalitat limpiadas (comillas escapadas, «l¿estació») y municipios con el artículo delante («les Borges Blanques») |
 | Carreteras a < 3 km, costa a < 5 km | OpenStreetMap (Overpass); costa: Natural Earth 10m | autopista, autovía, primaria y secundaria con referencia, medidas sobre el trazado (no el centro del tramo) |
 | Búsquedas reales | Google Search Console vía panel | solo en `cache/paso_gsc.json` (no se versiona: el repo es público); orientan el texto, no se listan |
 
@@ -56,6 +56,16 @@ no repite peticiones. Para refrescar un dato, borra su fichero de `cache/`.
   `tipo`/`pertenece_a` y no aparecen como «cercanos» de su propio municipio (Vilaseca en Orís).
 - **Borredà y Perafita** tienen la misma población (433, padrón 2025) y los mismos turismos (259,
   Idescat 2024): comprobado en las dos fuentes, es una coincidencia real (la evolución a 10 años es distinta).
+- **Berga y Canovelles** tienen la misma población (17.473, padrón 2025): comprobado en la tabla
+  nacional del INE (29005) y en la provincial de Barcelona (2861); es coincidencia real (2024:
+  17.160 y 17.312).
+- **Erratas de las fuentes corregidas al cargar** (04-oct-2026): operador «TÜV SÜV» → «TÜV SÜD»
+  (Comunidad de Madrid, `p05`); dirección de Vehinter Getafe truncada en bmw.es («Ctra.
+  Madrid-Toledo,») completada con km 14,700 (`p04`); ITV Reus (T02) «KM. 1155,14» → «km 1155» (`p05`).
+- **Search Console** (`p09`): solo cuenta la página de ciudad «/»; el `/blog/` del subdominio va
+  aparte. Que la consulta principal de un municipio sea la de otro («taller bmw getafe» en
+  Torrelodones, «taller especializado bmw tudela» en Tordera) no es un fallo de asignación: Google
+  mostró esa página en la posición 50-95 (ruido).
 - **`arganda` y `arganda-del-rey` son el mismo municipio** con dos subdominios.
   Propuesta: 301 de `arganda` a `arganda-del-rey` (mecanismo `RETIRED_CITIES`).
 - **Ciudades sin taller de la red en su zona** (capitales con teléfono general,

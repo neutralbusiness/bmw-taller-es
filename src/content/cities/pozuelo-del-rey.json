@@ -186,7 +186,7 @@
         "h2": "Alcalá de Henares, la referencia para ITV y servicio oficial",
         "parrafos": [
           "El punto de servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares: 25,4 km por carretera desde el núcleo urbano. También en Alcalá está la estación de ITV de TÜV SÜD ATISAE (estación 2878 del listado de la Comunidad de Madrid), en la avenida Juan Carlos I, junto al centro comercial La Garena.",
-          "La distancia a esa ITV es aproximada, unos 16 km hasta Alcalá, porque el listado oficial solo la sitúa a nivel de municipio."
+          "La distancia a esa ITV es aproximada, unos 16 km hasta Alcalá, porque el listado oficial solo la sitúa a nivel de municipio. A esa misma distancia quedan otras tres estaciones del listado: la 2857, también en Alcalá, y la 2807 y la 2852, en Arganda del Rey."
         ]
       },
       {
@@ -219,7 +219,7 @@
       },
       {
         "q": "¿Dónde paso la ITV?",
-        "a": "En la estación 2878 de Alcalá de Henares (TÜV SÜD ATISAE), en la avenida Juan Carlos I, a unos 16 km."
+        "a": "En la estación 2878 de Alcalá de Henares (TÜV SÜD ATISAE), en la avenida Juan Carlos I, a unos 16 km. A una distancia parecida tienes la 2857, también en Alcalá, y la 2807 y la 2852, en Arganda del Rey."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -247,7 +247,7 @@
       },
       {
         "etiqueta": "ITV oficial más cercana",
-        "valor": "TÜV SÜD ATISAE (2878), Alcalá de Henares · unos 16 km",
+        "valor": "Alcalá de Henares (2878, 2857) o Arganda (2807, 2852) · unos 16 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },

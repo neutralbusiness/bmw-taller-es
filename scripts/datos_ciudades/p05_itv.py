@@ -83,6 +83,22 @@ def nombre_oficial_cat(m):
     return m
 
 
+# Erratas de las listas oficiales (se corrigen al cargar; revisado 04-oct-2026)
+ERRATAS_OPERADOR = {"TÜV SÜV": "TÜV SÜD"}  # Comunidad de Madrid, estación 2811 (Tres Cantos)
+DIRECCIONES_CORREGIDAS = {
+    # Generalitat: «Carretera VALENCIA-TARRAGONA KM. 1155,14 S/N». Applus la da
+    # como «Km 1155, 14»: no está claro si 14 es decimal o número de parcela, así
+    # que se publica solo el punto kilométrico.
+    "T02": "Carretera València-Tarragona, km 1155",
+}
+
+
+def _errata(s):
+    for mal, bien in ERRATAS_OPERADOR.items():
+        s = s.replace(mal, bien) if s else s
+    return s
+
+
 def cataluna():
     out = []
     for e in json.loads(http_get(CAT_URL, "itv_cat.json")):
@@ -95,7 +111,7 @@ def cataluna():
         out.append({
             "nombre": limpia_texto(f"ITV {e.get('denominaci', '').strip()} ({e.get('estaci', '')})"),
             "operador": e.get("operador"),
-            "direccion": limpia_texto(e.get("adre_a")), "cp": e.get("cp"), "municipio": nombre_oficial_cat(e.get("municipi")),
+            "direccion": DIRECCIONES_CORREGIDAS.get(e.get("estaci"), limpia_texto(e.get("adre_a"))), "cp": e.get("cp"), "municipio": nombre_oficial_cat(e.get("municipi")),
             "ine5": (e.get("codi_municipi") or "")[:5] or None,
             "lat": lat, "lng": lng, "horario": e.get("horari_de_servei"), "precision": "Generalitat (coordenadas de la estación)",
             "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd", "oficial": True, "verificar": False,
@@ -210,8 +226,8 @@ def madrid():
             calle = re.split(r"\s*Tel[.:]", dire)[0].strip(" .")
             lat, lng, prec = geocodifica(calle, muni.title())
             out.append({
-                "nombre": f"ITV {m.group(2).strip().rstrip('.')} (estación {m.group(1)})",
-                "operador": m.group(2).strip().rstrip("."),
+                "nombre": _errata(f"ITV {m.group(2).strip().rstrip('.')} (estación {m.group(1)})"),
+                "operador": _errata(m.group(2).strip().rstrip(".")),
                 "direccion": calle, "municipio": muni.title(), "ine5": ine_madrid(muni.title()),
                 "telefono": tel.group(1).strip() if tel else None,
                 "lat": lat, "lng": lng, "precision": prec,

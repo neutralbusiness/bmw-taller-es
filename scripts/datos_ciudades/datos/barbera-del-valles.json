@@ -71,15 +71,23 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Sitjas",
-  "razon_social": "Sitjas Motor, S.L.",
-  "direccion": "C/. Quintana, 64",
-  "cp": "08205",
+  "nombre": "Quadis Munich (Sabadell)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Costa i Deu, 133",
+  "cp": "08038",
   "municipio": "Sabadell",
-  "web": "https://sitjasmotor.tallerautorizadobmw.es",
-  "solo_taller": true,
+  "web": "https://www.quadismunich.es/",
+  "solo_taller": false,
   "km_carretera": 4.0,
-  "km_linea": 3.2,
+  "km_linea": 2.4,
+  "km_ruta_mas_rapida": 6.7,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Sitjas",
+    "municipio": "Sabadell",
+    "km_carretera": 4.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -169,7 +177,7 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller Especialista BMW en Barberà del Vallès | Diagnóstico ISTA",
+  "metaTitle": "Taller especialista BMW y MINI cerca de Barberà del Vallès",
   "tiene_contenido_v3": true,
   "poblacion_en_json": 33987
  },

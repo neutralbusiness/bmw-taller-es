@@ -72,23 +72,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Pruna Motor (Granollers)",
-  "razon_social": "Pruna Motor, S.L. Granollers",
-  "direccion": "Ctra. C-17, Km. 19,060",
-  "cp": "08403",
-  "municipio": "Granollers",
-  "web": "https://prunamotor.concesionariobmw.es",
+  "nombre": "Pruna Motor (Mataró)",
+  "razon_social": "Pruna Motor, S.L. Mataró",
+  "direccion": "Via Sergia, 2",
+  "cp": "08302",
+  "municipio": "Mataró",
+  "web": "https://prunamotor-mataro.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 30.6,
-  "km_linea": 18.9,
-  "km_ruta_mas_rapida": 35.6,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Pruna Motor (Mataró)",
-    "municipio": "Mataró",
-    "km_carretera": 30.7
-   }
-  ],
+  "km_carretera": 28.0,
+  "km_linea": 19.0,
+  "km_ruta_mas_rapida": 30.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

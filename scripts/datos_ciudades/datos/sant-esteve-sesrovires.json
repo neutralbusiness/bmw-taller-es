@@ -70,15 +70,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Sant Cugat del Vallès)",
+  "nombre": "Quadis Munich (Terrassa)",
   "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Carrer Vallespir , 19",
-  "cp": "08173",
-  "municipio": "Sant Cugat del Vallès",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrassa",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 25.7,
-  "km_linea": 15.7,
+  "km_carretera": 24.2,
+  "km_linea": 14.1,
+  "km_ruta_mas_rapida": 27.9,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

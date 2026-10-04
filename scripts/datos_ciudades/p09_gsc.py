@@ -6,6 +6,18 @@ Guarda, por ciudad: impresiones y clics de los últimos 90 días y del último
 mes natural, posición media y las consultas (página+consulta) con impresiones.
 Las consultas orientan el contenido; NO se meten como lista de palabras clave.
 Salida: cache/paso_gsc.json
+
+Solo cuenta la página de ciudad (la raíz «/» del subdominio). Hasta el
+04-oct-2026 se sumaban también las filas de <slug>.bmw-taller.es/blog/ (Cádiz
+49 impresiones, Guadalajara 126, Valdeaveruelo 18…), que inflaban las
+impresiones de la ciudad y le colgaban consultas de otra página. Ahora el blog
+del subdominio va aparte (`imp_blog_90d`, `consultas_blog`) y no decide si una
+ciudad «tiene impresiones».
+
+Ojo: que una ciudad tenga de consulta principal la de otro municipio («taller
+bmw getafe» en Torrelodones) NO es un fallo de asignación: la URL viene en la
+fila de GSC y Google sí mostró esa página (en la posición 90-97, ruido de
+ranking). Comprobado el 04-oct-2026 con filtro por consulta.
 """
 import datetime as dt
 import json
@@ -27,8 +39,11 @@ def pedir(desde, hasta, dims):
 
 
 def slug_de(url):
-    m = re.match(r"https://([a-z0-9-]+)\.bmw-taller\.es", url)
-    return m.group(1) if m and m.group(1) != "www" else None
+    """(slug, es_pagina_de_ciudad) de una URL de GSC; slug None si no es de un subdominio."""
+    m = re.match(r"https?://([a-z0-9-]+)\.bmw-taller\.es(/[^?#]*)?", url)
+    if not m or m.group(1) == "www":
+        return None, False
+    return m.group(1), (m.group(2) or "/") == "/"
 
 
 def main():
@@ -41,28 +56,32 @@ def main():
     pq = pedir(desde90, hasta, ["page", "query"])
     p90 = pedir(desde90, hasta, ["page"])
     pm = pedir(ini_mes.isoformat(), fin_mes.isoformat(), ["page"])
-    out = {s: {"imp_90d": 0, "clics_90d": 0, "imp_mes": 0, "clics_mes": 0, "consultas": [], "_pos": []} for s in base}
+    out = {s: {"imp_90d": 0, "clics_90d": 0, "imp_mes": 0, "clics_mes": 0, "consultas": [], "_pos": [],
+               "imp_blog_90d": 0, "consultas_blog": []} for s in base}
     for r in p90:
-        s = slug_de(r["keys"][0])
-        if s in out:
+        s, ciudad = slug_de(r["keys"][0])
+        if s in out and not ciudad:
+            out[s]["imp_blog_90d"] += r["impressions"]
+        elif s in out:
             out[s]["imp_90d"] += r["impressions"]
             out[s]["clics_90d"] += r["clicks"]
             out[s]["_pos"].append((r["position"], r["impressions"]))
     for r in pm:
-        s = slug_de(r["keys"][0])
-        if s in out:
+        s, ciudad = slug_de(r["keys"][0])
+        if s in out and ciudad:
             out[s]["imp_mes"] += r["impressions"]
             out[s]["clics_mes"] += r["clicks"]
     for r in pq:
-        s = slug_de(r["keys"][0])
+        s, ciudad = slug_de(r["keys"][0])
         if s in out:
-            out[s]["consultas"].append({"q": r["keys"][1], "imp": r["impressions"], "clics": r["clicks"],
+            out[s]["consultas" if ciudad else "consultas_blog"].append({"q": r["keys"][1], "imp": r["impressions"], "clics": r["clicks"],
                                         "pos": round(r["position"], 1), "url": r["keys"][0]})
     for s, v in out.items():
         pos = v.pop("_pos")
         tot = sum(i for _, i in pos)
         v["pos_media_90d"] = round(sum(p * i for p, i in pos) / tot, 1) if tot else None
         v["consultas"].sort(key=lambda x: -x["imp"])
+        v["consultas_blog"].sort(key=lambda x: -x["imp"])
         v["periodo_90d"] = f"{desde90}/{hasta}"
         v["periodo_mes"] = f"{ini_mes}/{fin_mes}"
     guardar("paso_gsc.json", out)

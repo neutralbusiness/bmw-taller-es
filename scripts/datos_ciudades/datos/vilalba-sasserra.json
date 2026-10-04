@@ -79,9 +79,16 @@
   "municipio": "Granollers",
   "web": "https://prunamotor.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 21.0,
+  "km_carretera": 20.3,
   "km_linea": 16.2,
   "km_ruta_mas_rapida": 26.0,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Pruna Motor (Mataró)",
+    "municipio": "Mataró",
+    "km_carretera": 20.6
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

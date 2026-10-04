@@ -79,6 +79,13 @@
   "solo_taller": false,
   "km_carretera": 11.7,
   "km_linea": 9.5,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Quadis Munich (Sant Cugat del Vallès)",
+    "municipio": "Sant Cugat del Vallès",
+    "km_carretera": 12.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

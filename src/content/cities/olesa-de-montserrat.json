@@ -6,8 +6,8 @@
   "population": 24966,
   "lat": 41.54372,
   "lng": 1.89407,
-  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Olesa de Montserrat. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento",
+  "metaDescription": "Taller especialista BMW en Olesa de Montserrat. Revisión CBS en garantía según normativa europea. Diagnóstico y recambio OE.",
   "heroSubtitle": "Mantén tu BMW en Olesa de Montserrat con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -207,10 +207,10 @@
         ]
       },
       {
-        "id": "itv-viladecavalls",
-        "h2": "La ITV, en Can Trias",
+        "id": "itv-sant-andreu-viladecavalls",
+        "h2": "La ITV: Sant Andreu de la Barca o Viladecavalls",
         "parrafos": [
-          "La estación más próxima por carretera en el registro de la Generalitat es la de Viladecavalls (B03), en el polígono Can Trias, a 12,5 km. Para Esparreguera, a 2,1 km, la más próxima es otra: la de Sant Andreu de la Barca."
+          "En el registro de la Generalitat, dos estaciones quedan casi a la misma distancia por carretera: la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5, a 12,1 km, y la de Viladecavalls (B03), en el polígono Can Trias, a 12,5."
         ]
       },
       {
@@ -232,7 +232,7 @@
       },
       {
         "q": "¿Dónde paso la ITV desde Olesa?",
-        "a": "La más próxima en el registro de la Generalitat es la de Viladecavalls (B03), a 12,5 km."
+        "a": "Hay dos casi a la par en el registro de la Generalitat: Sant Andreu de la Barca (B21), a 12,1 km, y Viladecavalls (B03), a 12,5."
       }
     ],
     "datos": [
@@ -262,7 +262,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Viladecavalls (B03) · 12,5 km",
+        "valor": "Sant Andreu (B21) · 12,1 km; Viladecavalls (B03) · 12,5",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

@@ -85,7 +85,11 @@ CIUDADES["slug"] = {
 **No toques**: `slug`, `name`, `metaTitle`, `tenant`, el resto de campos
 antiguos (se quedan como respaldo pero no se pintan). `metaDescription` solo se
 reescribe en ciudades **sin impresiones** en GSC y si contiene una promesa
-(«hasta un 50 %», «oficial»…); en las que tienen impresiones, no se toca.
+(«hasta un 50 %», «oficial»…). En las que tienen impresiones (página «/» del
+subdominio, `cache/paso_gsc.json`), title y description solo se tocan con el
+criterio aprobado por Martin el 04-oct-2026: **quitar solo lo prohibido y
+conservar el resto de palabras tal cual** (registro y reaplicación en
+`tandas/titles_2026-10-05.py`).
 
 ## 3. Estructura: la deciden los datos, no un molde
 

@@ -7,7 +7,7 @@
   "lat": 40.22538,
   "lng": -3.928,
   "metaTitle": "Taller BMW en Batres | Sur de Madrid",
-  "metaDescription": "BMW en Batres: ITV en Navalcarnero a 15,5 km, servicio oficial en Leganés y taller especialista de la red en Alcobendas, a 56,5 km.",
+  "metaDescription": "BMW en Batres: ITV en Humanes o Navalcarnero, a unos 15 km, servicio oficial en Getafe o Leganés y taller especialista de la red en Alcobendas, a 56,5 km.",
   "heroSubtitle": "El taller BMW de confianza para quienes viven en el entorno tranquilo de Batres, al sur de Madrid.",
   "trustChips": [
     {
@@ -175,7 +175,7 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Batres: ITV en Navalcarnero, oficial en Leganés y especialista BMW a 56,5 km",
+    "h1": "Batres: ITV en Humanes o Navalcarnero, oficial en Getafe o Leganés y especialista BMW",
     "entradilla": "Batres ha crecido un 26 % en diez años. Para un BMW o un MINI de aquí, esto es lo que hay cerca y lo que supone subir hasta Alcobendas.",
     "socio": {
       "id": "dasercars-alcobendas",
@@ -183,17 +183,17 @@
     },
     "secciones": [
       {
-        "id": "itv-navalcarnero",
-        "h2": "La ITV más próxima, en El Alparrache",
+        "id": "itv-humanes-navalcarnero",
+        "h2": "Dos ITV casi a la par: Humanes y Navalcarnero",
         "parrafos": [
-          "La estación oficial más cercana por carretera es la de TÜV Rheinland Ibérica (estación 2845), en el paseo de Alparrache 26 del polígono El Alparrache de Navalcarnero, a 15,5 km según el listado de la Comunidad de Madrid."
+          "En el listado de la Comunidad de Madrid, las dos estaciones más cercanas por carretera quedan casi a la par: la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes, a 15,1 km, y la de TÜV Rheinland Ibérica (estación 2845), en el paseo de Alparrache 26 del polígono El Alparrache de Navalcarnero, a 15,5."
         ]
       },
       {
         "id": "garantia",
         "h2": "Garantía de BMW y taller independiente",
         "parrafos": [
-          "El servicio oficial BMW más próximo según bmw.es es Vehinter, Momentum Leganés, en el polígono de Leganés, a 24,2 km. Si el coche está en garantía, revisarlo fuera de la red no la anula: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) lo protege mientras se cumplan los intervalos y las especificaciones del fabricante."
+          "Según bmw.es, los dos puntos oficiales BMW más próximos son de Vehinter y quedan casi a la misma distancia: el de la carretera Madrid-Toledo, km 14,700, en Getafe, a 22,7 km, y Momentum Leganés, a 23. Si el coche está en garantía, revisarlo fuera de la red no la anula: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) lo protege mientras se cumplan los intervalos y las especificaciones del fabricante."
         ]
       },
       {
@@ -216,7 +216,7 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Batres?",
-        "a": "La más próxima por carretera es la estación 2845, en el polígono El Alparrache de Navalcarnero, a 15,5 km."
+        "a": "Hay dos casi a la par: la estación 2829, en la avenida de Fuenlabrada 15 de Humanes, a 15,1 km, y la 2845, en el polígono El Alparrache de Navalcarnero, a 15,5."
       },
       {
         "q": "¿Pierdo la garantía si reviso el BMW con vosotros?",
@@ -242,13 +242,13 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Estación 2845, Navalcarnero · 15,5 km",
+        "valor": "Estación 2829, Humanes · 15,1 km (2845, Navalcarnero · 15,5)",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Vehinter (Leganés) · 24,2 km",
+        "valor": "Vehinter (Getafe · 22,7 km; Leganés · 23 km)",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

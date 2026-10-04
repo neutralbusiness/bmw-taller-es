@@ -182,7 +182,7 @@
         "id": "itv-arganda",
         "h2": "La ITV, en el camino de San Martín de la Vega",
         "parrafos": [
-          "La estación más próxima por carretera en el listado de la Comunidad de Madrid es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8 de Arganda del Rey: 16,2 km por carretera, 13,3 en línea recta."
+          "La estación más próxima por carretera en el listado de la Comunidad de Madrid es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8 de Arganda del Rey: 16,2 km por carretera, 13,3 en línea recta. La 2852, de General de Servicios ITV y también en Arganda, queda casi igual, a 16,9."
         ]
       },
       {
@@ -197,7 +197,7 @@
         "id": "alcala-garantia",
         "h2": "Servicio oficial en Alcalá y la garantía",
         "parrafos": [
-          "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 33,8 km; el de AutoPremier en la carretera de Valencia (Madrid) queda casi igual, a 34,6. Allí se tramitan las reparaciones que paga la garantía de BMW.",
+          "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 28,3 km por la ruta más corta (unos 33,8 por la más rápida). Allí se tramitan las reparaciones que paga la garantía de BMW.",
           "Las revisiones periódicas, en cambio, no tienen por qué hacerse allí: la normativa europea permite hacerlas en un taller independiente sin perder la garantía, con los intervalos y los recambios que marca el fabricante."
         ]
       },
@@ -212,11 +212,11 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV si vivo en Valdilecha?",
-        "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km."
+        "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km; la 2852, también en Arganda, a 16,9."
       },
       {
         "q": "¿Cuál es el servicio oficial BMW más cercano?",
-        "a": "AutoPremier, en la Vía Complutense de Alcalá de Henares, a 33,8 km según bmw.es."
+        "a": "AutoPremier, en la Vía Complutense de Alcalá de Henares, a 28,3 km según bmw.es."
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
@@ -244,7 +244,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "AutoPremier (Alcalá de Henares) · 33,8 km",
+        "valor": "AutoPremier (Alcalá de Henares) · 28,3 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

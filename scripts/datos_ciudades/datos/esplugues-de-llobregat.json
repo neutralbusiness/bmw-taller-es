@@ -76,23 +76,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Barcelona Premium (Sant Boi)",
-  "razon_social": "Caetano Barcelona Premium S.L. Sant Boi",
-  "direccion": "Ctra. del Prat, 15",
-  "cp": "08830",
-  "municipio": "Sant Boi de Llobregat",
-  "web": "https://barcelonapremium-santboi.concesionariobmw.es",
+  "nombre": "Barcelona Premium (Hospitalet)",
+  "razon_social": "Caetano Barcelona Premium S.L.",
+  "direccion": "Montserrat Roig, 31",
+  "cp": "08908",
+  "municipio": "L'Hospitalet de Llobregat",
+  "web": "https://barcelonapremium-hospitalet.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 7.0,
-  "km_linea": 5.6,
+  "km_carretera": 5.9,
+  "km_linea": 4.3,
   "km_ruta_mas_rapida": 8.9,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Barcelona Premium (Esteve Terradas)",
-    "municipio": "Barcelona",
-    "km_carretera": 7.0
-   }
-  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

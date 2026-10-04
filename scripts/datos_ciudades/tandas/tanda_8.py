@@ -298,9 +298,9 @@ CIUDADES["fresno-de-torote"] = {
              "Nada se toca sin que hayas visto antes el presupuesto por escrito y lo hayas aceptado. La diagnosis también tiene su presupuesto, porque es trabajo técnico.",
              "Si el coche es un MINI, el procedimiento es el mismo: comparte electrónica y buena parte de los motores con BMW.",
          ]},
-        {"id": "itv-y-oficial", "h2": "ITV en Torrejón, servicio oficial en Algete",
+        {"id": "itv-y-oficial", "h2": "ITV en Paracuellos, servicio oficial en Algete",
          "parrafos": [
-             "Para la inspección hay tres estaciones oficiales casi a la misma distancia: en Torrejón de Ardoz, la de ITV Maco (estación 2865), en la avenida de la Constitución 3, a 18,9 km, y la de Itversia (2861), en el polígono Casablanca Este, a 19,3; en Alcalá, la 2891 de la Vía Complutense, a 19,5. El servicio oficial BMW más cercano según bmw.es es BYmyCAR Madrid, en la calle Tejera 2 de Algete, a 20,7 km.",
+             "Para la inspección, la estación oficial más cercana por carretera es la de DEKRA (estación 2808), en el camino Viejo de Cobeña 36 de Paracuellos de Jarama, a 17,9 km según el listado de la Comunidad de Madrid. El servicio oficial BMW más cercano según bmw.es es BYmyCAR Madrid, en la calle Tejera 2 de Algete, a 20,7 km.",
          ]},
         {"id": "fresno-cifras", "h2": "703 turismos por cada mil vecinos",
          "parrafos": [
@@ -313,18 +313,18 @@ CIUDADES["fresno-de-torote"] = {
         {"q": "¿Hay recogida del coche en Fresno de Torote?",
          "a": "La recogida y entrega se ofrece dentro del área metropolitana de Madrid, sujeta a disponibilidad. Pregunta al reservar si tu dirección entra."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "En Torrejón de Ardoz: ITV Maco (2865), a 18,9 km, o Itversia (2861), a 19,3. La 2891 de Alcalá queda a 19,5."},
+         "a": "En la estación 2808 de DEKRA, en el camino Viejo de Cobeña 36 de Paracuellos de Jarama, a 17,9 km."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "2.561 habitantes (+25,5 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.800 · 703 por cada 1.000 hab.", **F.cam_parque},
-        {"etiqueta": "ITV más cercana", "valor": "ITV Maco (2865), Torrejón de Ardoz · 18,9 km", **F.itv_madrid},
+        {"etiqueta": "ITV más cercana", "valor": "DEKRA (2808), Paracuellos de Jarama · 17,9 km", **F.itv_madrid},
         {"etiqueta": "Servicio oficial BMW", "valor": "BYmyCAR Madrid, Algete · 20,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 27,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
-META["fresno-de-torote"] = "BMW en Fresno de Torote: taller especialista de la red en Alcobendas a 27,8 km por la R-2, ITV en Torrejón de Ardoz y servicio oficial en Algete."
+META["fresno-de-torote"] = "BMW en Fresno de Torote: taller especialista de la red en Alcobendas a 27,8 km por la R-2, ITV en Paracuellos de Jarama y servicio oficial en Algete."
 
 # ---------------------------------------------------------------------------
 CIUDADES["bellvei"] = {
@@ -596,17 +596,17 @@ META["baga"] = "BMW en Bagà (Berguedà): ITV en Berga a 24,4 km y taller especi
 
 # ---------------------------------------------------------------------------
 CIUDADES["batres"] = {
-    "h1": "Batres: ITV en Navalcarnero, oficial en Leganés y especialista BMW a 56,5 km",
+    "h1": "Batres: ITV en Humanes o Navalcarnero, oficial en Getafe o Leganés y especialista BMW",
     "entradilla": "Batres ha crecido un 26 % en diez años. Para un BMW o un MINI de aquí, esto es lo que hay cerca y lo que supone subir hasta Alcobendas.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 56.5},
     "secciones": [
-        {"id": "itv-navalcarnero", "h2": "La ITV más próxima, en El Alparrache",
+        {"id": "itv-humanes-navalcarnero", "h2": "Dos ITV casi a la par: Humanes y Navalcarnero",
          "parrafos": [
-             "La estación oficial más cercana por carretera es la de TÜV Rheinland Ibérica (estación 2845), en el paseo de Alparrache 26 del polígono El Alparrache de Navalcarnero, a 15,5 km según el listado de la Comunidad de Madrid.",
+             "En el listado de la Comunidad de Madrid, las dos estaciones más cercanas por carretera quedan casi a la par: la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes, a 15,1 km, y la de TÜV Rheinland Ibérica (estación 2845), en el paseo de Alparrache 26 del polígono El Alparrache de Navalcarnero, a 15,5.",
          ]},
         {"id": "garantia", "h2": "Garantía de BMW y taller independiente",
          "parrafos": [
-             "El servicio oficial BMW más próximo según bmw.es es Vehinter, Momentum Leganés, en el polígono de Leganés, a 24,2 km. Si el coche está en garantía, revisarlo fuera de la red no la anula: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) lo protege mientras se cumplan los intervalos y las especificaciones del fabricante.",
+             "Según bmw.es, los dos puntos oficiales BMW más próximos son de Vehinter y quedan casi a la misma distancia: el de la carretera Madrid-Toledo, km 14,700, en Getafe, a 22,7 km, y Momentum Leganés, a 23. Si el coche está en garantía, revisarlo fuera de la red no la anula: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) lo protege mientras se cumplan los intervalos y las especificaciones del fabricante.",
          ]},
         {"id": "ap41-r5", "h2": "Por la AP-41, la R-5 y la M-30",
          "parrafos": [
@@ -621,7 +621,7 @@ CIUDADES["batres"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV desde Batres?",
-         "a": "La más próxima por carretera es la estación 2845, en el polígono El Alparrache de Navalcarnero, a 15,5 km."},
+         "a": "Hay dos casi a la par: la estación 2829, en la avenida de Fuenlabrada 15 de Humanes, a 15,1 km, y la 2845, en el polígono El Alparrache de Navalcarnero, a 15,5."},
         {"q": "¿Pierdo la garantía si reviso el BMW con vosotros?",
          "a": "No, si se siguen los intervalos y especificaciones del plan de mantenimiento."},
         {"q": "¿Recogéis el coche en Batres?",
@@ -630,13 +630,13 @@ CIUDADES["batres"] = {
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "1.976 habitantes (+26 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.358 · 687 por cada 1.000 hab.", **F.cam_parque},
-        {"etiqueta": "ITV más cercana", "valor": "Estación 2845, Navalcarnero · 15,5 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Leganés) · 24,2 km", **F.bmw},
+        {"etiqueta": "ITV más cercana", "valor": "Estación 2829, Humanes · 15,1 km (2845, Navalcarnero · 15,5)", **F.itv_madrid},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Getafe · 22,7 km; Leganés · 23 km)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 56,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],
 }
-META["batres"] = "BMW en Batres: ITV en Navalcarnero a 15,5 km, servicio oficial en Leganés y taller especialista de la red en Alcobendas, a 56,5 km."
+META["batres"] = "BMW en Batres: ITV en Humanes o Navalcarnero, a unos 15 km, servicio oficial en Getafe o Leganés y taller especialista de la red en Alcobendas, a 56,5 km."
 
 # ---------------------------------------------------------------------------
 CIUDADES["valdeavero"] = {

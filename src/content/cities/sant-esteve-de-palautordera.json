@@ -171,7 +171,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Sant Esteve de Palautordera: ITV en Sant Celoni y especialista BMW por la AP-7",
-    "entradilla": "El servicio oficial BMW te queda a la misma distancia hacia dos lados: Granollers y Mataró. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
+    "entradilla": "El servicio oficial BMW más próximo está en Mataró, a 30,1 km. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 63.8
@@ -185,10 +185,10 @@
         ]
       },
       {
-        "id": "granollers-o-mataro",
-        "h2": "El servicio oficial: Granollers o Mataró, a la par",
+        "id": "pruna-mataro",
+        "h2": "El servicio oficial, en Mataró",
         "parrafos": [
-          "Según el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales a 32,7 km por carretera de Sant Esteve: el de la C-17 en Granollers y el de la Via Sèrgia 2 de Mataró. Para lo que dependa de la garantía de BMW, elige el que te venga mejor.",
+          "Según el localizador de bmw.es, el punto oficial más próximo a Sant Esteve es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,1 km por carretera. Para lo que dependa de la garantía de BMW, ese es el sitio.",
           "Para el mantenimiento habitual y las averías fuera de garantía, la alternativa es un taller independiente especializado. Trabajamos BMW y MINI con presupuesto por escrito, y la diagnosis también se presupuesta antes de empezar."
         ]
       },
@@ -214,7 +214,7 @@
       },
       {
         "q": "¿Cuál es el concesionario BMW más cercano?",
-        "a": "Pruna Motor, en Granollers o en Mataró: los dos a 32,7 km por carretera según bmw.es."
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,1 km por carretera según bmw.es."
       },
       {
         "q": "¿Puedo pasar la ITV con un testigo encendido?",
@@ -248,7 +248,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Pruna Motor (Granollers o Mataró) · 32,7 km",
+        "valor": "Pruna Motor (Mataró) · 30,1 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

@@ -71,6 +71,16 @@ def es_espana(p) -> bool:
     return not (42.42 < p["lat"] < 42.66 and 1.40 < p["lng"] < 1.79)
 
 
+# Direcciones que el localizador de bmw.es publica truncadas: se completan con
+# la ficha del propio concesionario (clave: distributionPartnerId, outletId).
+DIRECCIONES_COMPLETADAS = {
+    # bmw.es: «Ctra. Madrid-Toledo,» (sin km). Ficha del concesionario en
+    # AutoScout24 (autoscout24.at/haendler/bmw-vehinter): «CTRA. MADRID - TOLEDO,
+    # KM. 14,700, 28905 GETAFE»; las coordenadas de bmw.es caen en ese punto de la A-42.
+    ("07450", "1"): "Ctra. Madrid-Toledo, km 14,700",
+}
+
+
 def main():
     import datetime
     d = json.loads(http_get(URL, "bmw_locator.json", timeout=90))
@@ -93,7 +103,7 @@ def main():
         out.append({
             "nombre": topo((a.get("nicknameLocal") or p["name"]).strip()),
             "razon_social": re.sub(r"\s+AutoPremier$", "", re.sub(r"\s*\(?Veh[ií]culo de Ocasi[oó]n Ce.*$", "", p["name"].strip())).strip(" ,"),
-            "direccion": p["street"].strip(),
+            "direccion": DIRECCIONES_COMPLETADAS.get(clave, p["street"].strip()),
             "cp": p["postalCode"],
             "municipio": topo(p["city"]),
             "lat": p["lat"], "lng": p["lng"],

@@ -60,33 +60,42 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2845)",
-   "operador": "TÜV Rheinland Ibérica, S.A",
-   "direccion": "Pº de Alparrache, 26. Pol. Ind. El Alparrache",
-   "municipio": "Navalcarnero",
+   "nombre": "ITV Alcaravan ITV (estación 2829)",
+   "operador": "Alcaravan ITV",
+   "direccion": "Avda. de Fuenlabrada, 15",
+   "municipio": "Humanes",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 15.5,
-   "km_linea": 11.2
+   "km_carretera": 15.1,
+   "km_linea": 10.8,
+   "km_ruta_mas_rapida": 16.5,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2845)",
+     "municipio": "Navalcarnero",
+     "km_carretera": 15.5
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Vehinter (Momentum Leganés)",
+  "nombre": "Vehinter (Getafe)",
   "razon_social": "Vehinter, S.A.",
-  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
-  "cp": "28914",
-  "municipio": "Leganés",
-  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
+  "direccion": "Ctra. Madrid-Toledo, km 14,700",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 24.2,
-  "km_linea": 17.8,
+  "km_carretera": 22.7,
+  "km_linea": 17.9,
+  "km_ruta_mas_rapida": 24.2,
   "casi_igual_de_cerca": [
    {
-    "nombre": "Vehinter (Getafe)",
-    "municipio": "Getafe",
-    "km_carretera": 24.2
+    "nombre": "Vehinter (Momentum Leganés)",
+    "municipio": "Leganés",
+    "km_carretera": 23.0
    }
   ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"

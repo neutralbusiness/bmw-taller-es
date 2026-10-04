@@ -61,16 +61,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Viladecavalls (B03)",
-   "operador": "TuV-RHEINLAND",
-   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. «Can Trias»",
-   "municipio": "Viladecavalls",
+   "nombre": "ITV Sant Fruitós (B25)",
+   "operador": "ITEVELESA",
+   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
+   "municipio": "Sant Fruitós de Bages",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 40.1,
-   "km_linea": 19.9
+   "km_carretera": 31.1,
+   "km_linea": 17.4,
+   "km_ruta_mas_rapida": 42.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -137,7 +138,7 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Granera | Especialistas en la marca",
-  "tiene_contenido_v3": false,
+  "tiene_contenido_v3": true,
   "poblacion_en_json": 84
  },
  "generado": "2026-10-04",

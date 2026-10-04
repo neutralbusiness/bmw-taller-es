@@ -73,22 +73,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Vehinter (Getafe)",
+  "nombre": "Vehinter (Momentum Leganés)",
   "razon_social": "Vehinter, S.A.",
-  "direccion": "Ctra. Madrid-Toledo,",
-  "cp": "28905",
-  "municipio": "Getafe",
-  "web": "https://vehinter.concesionariobmw.es",
+  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
+  "cp": "28914",
+  "municipio": "Leganés",
+  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 18.7,
-  "km_linea": 12.7,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Vehinter (Momentum Leganés)",
-    "municipio": "Leganés",
-    "km_carretera": 18.8
-   }
-  ],
+  "km_carretera": 14.6,
+  "km_linea": 13.4,
+  "km_ruta_mas_rapida": 18.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

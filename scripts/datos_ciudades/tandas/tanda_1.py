@@ -308,9 +308,9 @@ CIUDADES["coslada"] = {
          "parrafos": [
              "La ruta hasta la calle Valgrande 17 de Alcobendas sube por la M-40 y la A-1: 19,5 km por carretera, 14,7 en línea recta. Coslada está dentro del área metropolitana de Madrid, de modo que, si no puedes llevar el coche, el taller ofrece recogida y entrega sujeta a disponibilidad, igual que el vehículo de cortesía en trabajos de varios días."
          ]},
-        {"id": "caetano-alcala", "h2": "El concesionario más próximo, en la calle de Alcalá",
+        {"id": "caetano-alcala", "h2": "Dos concesionarios a 8,4 km, en Madrid",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial más cercano es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 8,4 km por carretera. Es la dirección para una reparación cubierta por la garantía del fabricante.",
+             "Según el localizador de bmw.es, los dos puntos de servicio oficial más cercanos están en Madrid y a la misma distancia, 8,4 km por carretera: Caetano Cuzco, en la calle de Alcalá 474, y AutoPremier, en la carretera de Valencia, km 7,3. Son la dirección para una reparación cubierta por la garantía del fabricante.",
              "Un taller independiente no compite con eso, sino con el mantenimiento y las averías fuera de garantía. En Dasercars cada trabajo arranca con un presupuesto escrito que tienes que aprobar, y la diagnosis se presupuesta aparte."
          ]},
         {"id": "coslada-en-cifras", "h2": "522 turismos por cada 1.000 habitantes",
@@ -331,7 +331,7 @@ CIUDADES["coslada"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "80.512 habitantes (−7,4 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "42.062 · 522 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Estaciones ITV en el municipio", "valor": "3", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Caetano Cuzco, c. de Alcalá 474 (Madrid) · 8,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Caetano Cuzco o AutoPremier (Madrid) · 8,4 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 19,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
@@ -438,16 +438,16 @@ CIUDADES["esplugues-de-llobregat"] = {
          ]},
         {"id": "itv-sant-just", "h2": "La ITV, en el polígono de Sant Just Desvern",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima al centro de Esplugues es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera 19-21 del polígono industrial núm. 1, a 2,7 km por carretera."
+             "En el registro de la Generalitat, la estación más próxima al centro de Esplugues es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera 19-21 del polígono industrial núm. 1, a 2,7 km por carretera. La de Cornellà (B11) queda casi igual, a 3,5."
          ]},
         {"id": "termino-pequeno", "h2": "48.221 vecinos en 4,6 km²",
          "parrafos": [
              "Esplugues tenía 48.221 vecinos en 2025, un 5,7 % más que en 2015, en un término de solo 4,6 km²: 10.483 habitantes por kilómetro cuadrado. Idescat, a partir de la DGT, contaba 16.965 turismos en 2024, 352 por cada 1.000 habitantes.",
              "En un término tan pequeño, muchos desplazamientos del día a día no pasan de unos pocos kilómetros. Es el uso que peor llevan las baterías de los BMW con arranque y parada automático: el alternador no llega a reponer lo que gasta cada arranque. Si cambias la batería, hay que registrarla en la centralita para que la carga se ajuste a la nueva."
          ]},
-        {"id": "taller-esteve-terrades", "h2": "Un punto de servicio oficial: el taller de Esteve Terrades",
+        {"id": "oficial-hospitalet", "h2": "El servicio oficial más cercano, en L'Hospitalet",
          "parrafos": [
-             "En el localizador de bmw.es, dos puntos de Barcelona Premium quedan a 7 km por carretera de Esplugues: el taller del carrer d'Esteve Terrades 77-79 de Barcelona, que es solo de taller, sin venta, y el concesionario de la carretera del Prat 15 de Sant Boi de Llobregat. Cualquiera de los dos atiende lo que cubre la garantía de BMW."
+             "En el localizador de bmw.es, el punto oficial más próximo a Esplugues es Barcelona Premium, en el carrer Montserrat Roig 31 de L'Hospitalet de Llobregat, a 5,9 km por la ruta más corta (unos 9 por la más rápida). Es la referencia para lo que cubre la garantía de BMW."
          ]},
     ],
     "faq": [
@@ -456,14 +456,14 @@ CIUDADES["esplugues-de-llobregat"] = {
         {"q": "¿Por qué hay que registrar la batería nueva de un BMW?",
          "a": "Porque la centralita adapta la carga a la batería que tiene registrada. Si no se registra, la nueva se carga mal y dura menos."},
         {"q": "¿Dónde está la ITV más cercana?",
-         "a": "En Sant Just Desvern (B05), en la avinguda de la Riera, a 2,7 km según la Generalitat."},
+         "a": "En Sant Just Desvern (B05), en la avinguda de la Riera, a 2,7 km según la Generalitat; la de Cornellà (B11), a 3,5."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "48.221 habitantes (+5,7 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("080771")},
         {"etiqueta": "Turismos (2024)", "valor": "16.965 · 352 por cada 1.000 hab.", **F.idescat("080771")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 2,7 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Esteve Terrades o Sant Boi) · 7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (L'Hospitalet) · 5,9 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 3,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080771"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -571,9 +571,9 @@ CIUDADES["san-fernando-de-henares"] = {
              "A menos de tres kilómetros del centro pasan la A-2, la M-21, la M-22, la M-45, la M-50 y la M-206. La ruta hacia la calle Valgrande 17 de Alcobendas usa la M-21, la M-40 y la A-1: 21,5 km por carretera, 16,1 en línea recta.",
              "San Fernando está en el área metropolitana de Madrid, así que el taller puede recoger el coche y devolverlo, o dejarte uno de cortesía si la reparación se alarga, siempre según disponibilidad."
          ]},
-        {"id": "caetano-11-km", "h2": "El servicio oficial, a 11,1 km en Madrid",
+        {"id": "oficial-11-km", "h2": "El servicio oficial, a unos 11 km en Madrid",
          "parrafos": [
-             "El punto oficial BMW más próximo según el localizador de bmw.es es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 11,1 km. Para el mantenimiento por plan o una avería fuera de garantía, la alternativa es un especialista independiente como Dasercars, que solo trabaja BMW y MINI."
+             "Según el localizador de bmw.es, los dos puntos oficiales BMW más próximos están en Madrid y casi a la par: AutoPremier, en la carretera de Valencia, km 7,3, a 11 km, y Caetano Cuzco, en la calle de Alcalá 474, a 11,1. Para el mantenimiento por plan o una avería fuera de garantía, la alternativa es un especialista independiente como Dasercars, que solo trabaja BMW y MINI."
          ]},
         {"id": "poblacion-san-fernando", "h2": "Algo menos de población que hace diez años",
          "parrafos": [
@@ -594,7 +594,7 @@ CIUDADES["san-fernando-de-henares"] = {
         {"etiqueta": "Turismos (2025)", "valor": "21.285 · 545 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV en el municipio", "valor": "ITV Jarama, c. Tapiceros 2", **F.itv_madrid},
         {"etiqueta": "Superficie del término", "valor": "38,7 km²", **F.cartociudad},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Caetano Cuzco (Madrid) · 11,1 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier o Caetano Cuzco (Madrid) · 11 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 21,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.cartociudad_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
@@ -615,9 +615,9 @@ CIUDADES["montcada-i-reixac"] = {
          "parrafos": [
              "Según el localizador de bmw.es, el punto oficial BMW más próximo es Barcelona Premium Ronda Litoral, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 9,3 km. Las reparaciones que paga la garantía de BMW se hacen allí."
          ]},
-        {"id": "itv-caracas", "h2": "La ITV más próxima está en Barcelona",
+        {"id": "itv-cim-caracas", "h2": "Dos ITV casi a la par: Santa Perpètua y Barcelona",
          "parrafos": [
-             "En el registro de estaciones de la Generalitat, la más cercana por carretera al centro de Montcada es BCN Caracas (B23), en el carrer de Caracas 10 B de Barcelona, a 7,9 km."
+             "En el registro de estaciones de la Generalitat, las dos más cercanas por carretera al centro de Montcada quedan casi a la par: CIM Vallès (B20), en el polígono Les Minetes de Santa Perpètua de Mogoda, a 7,3 km, y BCN Caracas (B23), en el carrer de Caracas 10 B de Barcelona, a 7,9."
          ]},
         {"id": "montcada-en-cifras", "h2": "37.460 vecinos en 23,47 km²",
          "parrafos": [
@@ -629,7 +629,7 @@ CIUDADES["montcada-i-reixac"] = {
         {"q": "¿Recogéis el coche en Montcada?",
          "a": "Sí, Montcada está en el área metropolitana de Barcelona. Sujeto a disponibilidad."},
         {"q": "¿Qué ITV tengo más cerca?",
-         "a": "BCN Caracas (B23), en Barcelona, a 7,9 km según la Generalitat."},
+         "a": "CIM Vallès (B20), en Santa Perpètua de Mogoda, a 7,3 km, o BCN Caracas (B23), en Barcelona, a 7,9, según la Generalitat."},
         {"q": "¿A cuánto está el taller?",
          "a": "A 20,7 km por la C-17 y la B-20."},
     ],
@@ -637,7 +637,7 @@ CIUDADES["montcada-i-reixac"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "37.460 habitantes (+9 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("081252")},
         {"etiqueta": "Turismos (2024)", "valor": "17.869 · 477 por cada 1.000 hab.", **F.idescat("081252")},
-        {"etiqueta": "ITV más cercana", "valor": "BCN Caracas (B23) · 7,9 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "CIM Vallès (B20) · 7,3 km; BCN Caracas (B23) · 7,9", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium Ronda Litoral (Sant Adrià) · 9,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 20,7 km", **F.osrm},
     ],

@@ -6,8 +6,8 @@
   "population": 17880,
   "lat": 41.52232,
   "lng": 1.75076,
-  "metaTitle": "Taller BMW Piera — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Piera. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaTitle": "Taller BMW Piera — Mantenimiento",
+  "metaDescription": "Taller especialista BMW en Piera. Revisión CBS en garantía según normativa europea. Diagnóstico y recambio OE.",
   "heroSubtitle": "Mantén tu BMW en Piera con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -184,7 +184,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Piera: el taller especialista BMW a 39 km por la AP-7 y lo oficial en Terrassa",
-    "entradilla": "Piera ha ganado casi 2.900 vecinos en diez años. Para el dueño de un BMW o un MINI, el mapa es poco intuitivo: ITV en Igualada, servicio oficial en Terrassa y el taller especialista de la red en Sant Joan Despí.",
+    "entradilla": "Piera ha ganado casi 2.900 vecinos en diez años. Para el dueño de un BMW o un MINI, el mapa es poco intuitivo: ITV en Igualada o en Sant Andreu de la Barca, servicio oficial en Terrassa y el taller especialista de la red en Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 39.0
@@ -208,9 +208,9 @@
       },
       {
         "id": "itv-les-comes",
-        "h2": "La ITV, en Igualada",
+        "h2": "La ITV: Igualada o Sant Andreu de la Barca",
         "parrafos": [
-          "En el registro de la Generalitat, la estación más próxima por carretera es la de Igualada (B12), en el carrer Països Baixos del polígono Les Comes, a 21,6 km. Hacia Igualada se va en dirección contraria a Barcelona, así que conviene no juntar ITV y taller el mismo día."
+          "En el registro de la Generalitat hay dos estaciones a la misma distancia por carretera, 21,6 km: la de Igualada (B12), en el carrer Països Baixos del polígono Les Comes, y la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5. Hacia Igualada se va en dirección contraria a Barcelona; si quieres juntar ITV y taller el mismo día, la de Sant Andreu es la que te encaja."
         ]
       },
       {
@@ -229,7 +229,7 @@
       },
       {
         "q": "¿Dónde paso la ITV desde Piera?",
-        "a": "La más próxima por carretera es la de Igualada (B12), en el polígono Les Comes, a 21,6 km."
+        "a": "Hay dos a 21,6 km por carretera: Igualada (B12), en el polígono Les Comes, y Sant Andreu de la Barca (B21), en la N-II."
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
@@ -256,8 +256,8 @@
         "url": "https://www.idescat.cat/emex/?id=081614&lang=es"
       },
       {
-        "etiqueta": "ITV más cercana",
-        "valor": "Igualada (B12) · 21,6 km",
+        "etiqueta": "ITV más cercanas",
+        "valor": "Igualada (B12) o Sant Andreu (B21) · 21,6 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

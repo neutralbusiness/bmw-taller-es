@@ -53,21 +53,22 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Guadalajara",
-   "operador": null,
-   "direccion": "Calle de Trafalgar 18",
+   "nombre": "ITV Itevelesa",
+   "operador": "Grupo Itevelesa",
+   "direccion": "Calle de Trafalgar",
    "municipio": "Guadalajara",
-   "fuente": "OpenStreetMap (way/381990031) — NO oficial, verificar",
+   "fuente": "OpenStreetMap (way/383258840) — NO oficial, verificar",
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 15.1,
-   "km_linea": 11.1,
+   "km_carretera": 13.7,
+   "km_linea": 11.3,
+   "km_ruta_mas_rapida": 15.3,
    "casi_igual_de_cerca": [
     {
-     "nombre": "ITV Itevelesa",
+     "nombre": "ITV Guadalajara",
      "municipio": "Guadalajara",
-     "km_carretera": 15.3
+     "km_carretera": 13.8
     }
    ]
   }

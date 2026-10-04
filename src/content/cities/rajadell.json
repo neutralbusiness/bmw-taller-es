@@ -175,7 +175,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Rajadell, junto a la C-25: tu BMW entre Manresa y Sant Joan Despí",
-    "entradilla": "Con la C-25 a menos de tres kilómetros, Rajadell tiene buena salida hacia todas partes. La ITV y el servicio oficial BMW están en Sant Fruitós de Bages; el taller especialista de la red, a 75,7 km. Lo que te sirve para decidir dónde llevar el coche.",
+    "entradilla": "Con la C-25 a menos de tres kilómetros, Rajadell tiene buena salida hacia todas partes. El servicio oficial BMW está en Sant Fruitós de Bages; la ITV, en Manresa o en Sant Fruitós, y el taller especialista de la red, a 75,7 km. Lo que te sirve para decidir dónde llevar el coche.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 75.7
@@ -191,9 +191,9 @@
       },
       {
         "id": "sant-fruitos",
-        "h2": "ITV a 18,1 km y servicio oficial a 22,4",
+        "h2": "ITV a unos 18 km y servicio oficial a 22,4",
         "parrafos": [
-          "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono El Grau, a 18,1 km. En la misma localidad, en la carretera de Manresa a Berga km 34,5, está Quadis Munich, el punto oficial BMW más cercano según bmw.es, a 22,4 km.",
+          "En el registro de la Generalitat, dos estaciones de ITV quedan casi a la par por carretera: la de Manresa (B06), en el polígono Bufalvent, a 17,8 km, y la de Sant Fruitós (B25), en el polígono El Grau, a 18,1. En Sant Fruitós, en la carretera de Manresa a Berga km 34,5, está también Quadis Munich, el punto oficial BMW más cercano según bmw.es, a 22,4 km.",
           "Las llamadas a revisión que convoque la marca se atienden allí. Para mantenimiento y averías, la elección del taller es tuya."
         ]
       },
@@ -210,7 +210,7 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Rajadell?",
-        "a": "En la estación de Sant Fruitós (B25), polígono El Grau, a 18,1 km por carretera."
+        "a": "En Manresa (B06), polígono Bufalvent, a 17,8 km por carretera, o en Sant Fruitós (B25), polígono El Grau, a 18,1."
       },
       {
         "q": "¿Por qué se enciende tan a menudo el testigo del filtro de partículas?",
@@ -242,7 +242,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Fruitós (B25) · 18,1 km",
+        "valor": "Manresa (B06) · 17,8 km; Sant Fruitós (B25) · 18,1",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

@@ -7,7 +7,7 @@
   "lat": 41.38389,
   "lng": 2.06758,
   "metaTitle": "Taller BMW en Sant Just Desvern — Especialistas en Revisión CBS",
-  "metaDescription": "Tu taller especialista BMW en Sant Just Desvern. Ahorra hasta un 50% en revisión CBS, distribución N47 y averías complejas. Pide tu presupuesto cerrado.",
+  "metaDescription": "Tu taller especialista BMW en Sant Just Desvern. Revisión CBS, distribución N47 y averías complejas. Pide tu presupuesto cerrado.",
   "heroSubtitle": "¿El aviso de revisión CBS de tu Serie 3 te da escalofríos pensando en la factura del concesionario oficial? Respira, tenemos la solución en Sant Just.",
   "trustChips": [
     {
@@ -197,7 +197,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Sant Just Desvern: el taller especialista BMW está a 3,9 km, en el municipio vecino",
-    "entradilla": "Entre el centro de Sant Just y nuestra nave de Sant Joan Despí hay 2 km en línea recta. Pocas páginas de la red pueden decir algo así. Además, la ITV está dentro del término y el servicio oficial, en Sant Boi.",
+    "entradilla": "Entre el centro de Sant Just y nuestra nave de Sant Joan Despí hay 2 km en línea recta. Pocas páginas de la red pueden decir algo así. Además, la ITV está dentro del término y el servicio oficial, a unos 8 km.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 3.9
@@ -219,10 +219,10 @@
         ]
       },
       {
-        "id": "oficial-sant-boi",
-        "h2": "Servicio oficial en Sant Boi, a 8,7 km",
+        "id": "oficial-barcelona-premium",
+        "h2": "Tres puntos oficiales a unos 8 km",
         "parrafos": [
-          "El punto oficial BMW más próximo según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 8,7 km. Para un coche en garantía, el mantenimiento puede hacerse en un taller independiente sin perderla, siempre que se respete el plan de BMW: lo establece el Reglamento (UE) 461/2010."
+          "Según bmw.es, Barcelona Premium tiene tres puntos oficiales casi a la misma distancia: el del carrer Montserrat Roig 31 de L'Hospitalet de Llobregat, a 8,2 km; el de la carretera del Prat 15 de Sant Boi de Llobregat, a 8,3, y el taller del carrer d'Esteve Terrades de Barcelona, a 8,8. Para un coche en garantía, el mantenimiento puede hacerse en un taller independiente sin perderla, siempre que se respete el plan de BMW: lo establece el Reglamento (UE) 461/2010."
         ]
       },
       {
@@ -275,7 +275,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Barcelona Premium, Sant Boi · 8,7 km",
+        "valor": "Barcelona Premium (L'Hospitalet, Sant Boi o Barcelona) · de 8,2 a 8,8 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

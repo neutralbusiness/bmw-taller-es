@@ -69,15 +69,23 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Terrassa)",
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
   "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Anoia, 9",
-  "cp": "08223",
-  "municipio": "Terrassa",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 28.4,
-  "km_linea": 21.1,
+  "km_carretera": 27.7,
+  "km_linea": 22.2,
+  "km_ruta_mas_rapida": 35.3,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Quadis Munich (Terrassa)",
+    "municipio": "Terrassa",
+    "km_carretera": 28.4
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

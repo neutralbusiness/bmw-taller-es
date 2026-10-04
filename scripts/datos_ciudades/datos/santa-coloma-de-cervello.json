@@ -64,15 +64,9 @@
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 10.4,
+   "km_carretera": 8.4,
    "km_linea": 3.9,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Cornellà (B11)",
-     "municipio": "Cornellà de Llobregat",
-     "km_carretera": 10.5
-    }
-   ]
+   "km_ruta_mas_rapida": 10.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -169,7 +163,7 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller especializado BMW en Santa Coloma de Cervelló — Diagnóstico ISTA y recambio OE",
+  "metaTitle": "Taller BMW cerca de Santa Coloma de Cervelló | Especialista BMW",
   "tiene_contenido_v3": true,
   "poblacion_en_json": 8273
  },

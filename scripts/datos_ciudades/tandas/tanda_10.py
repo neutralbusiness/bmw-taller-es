@@ -30,7 +30,7 @@ CIUDADES["pozuelo-del-rey"] = {
         {"id": "lo-que-queda-en-alcala", "h2": "Alcalá de Henares, la referencia para ITV y servicio oficial",
          "parrafos": [
              "El punto de servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares: 25,4 km por carretera desde el núcleo urbano. También en Alcalá está la estación de ITV de TÜV SÜD ATISAE (estación 2878 del listado de la Comunidad de Madrid), en la avenida Juan Carlos I, junto al centro comercial La Garena.",
-             "La distancia a esa ITV es aproximada, unos 16 km hasta Alcalá, porque el listado oficial solo la sitúa a nivel de municipio.",
+             "La distancia a esa ITV es aproximada, unos 16 km hasta Alcalá, porque el listado oficial solo la sitúa a nivel de municipio. A esa misma distancia quedan otras tres estaciones del listado: la 2857, también en Alcalá, y la 2807 y la 2852, en Arganda del Rey.",
          ]},
         {"id": "r3-m30-a1", "h2": "55 kilómetros hasta la calle Valgrande, entrando por la R-3",
          "parrafos": [
@@ -50,7 +50,7 @@ CIUDADES["pozuelo-del-rey"] = {
         {"q": "¿Hay un taller vuestro en Pozuelo del Rey?",
          "a": "No. El taller que atiende el municipio es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 55 km por carretera."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "En la estación 2878 de Alcalá de Henares (TÜV SÜD ATISAE), en la avenida Juan Carlos I, a unos 16 km."},
+         "a": "En la estación 2878 de Alcalá de Henares (TÜV SÜD ATISAE), en la avenida Juan Carlos I, a unos 16 km. A una distancia parecida tienes la 2857, también en Alcalá, y la 2807 y la 2852, en Arganda del Rey."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
          "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 25,4 km según bmw.es."},
     ],
@@ -58,7 +58,7 @@ CIUDADES["pozuelo-del-rey"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "1.302 habitantes (+21,6 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "781 · 600 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Altitud del centro urbano", "valor": "unos 820 m", **F.copernicus},
-        {"etiqueta": "ITV oficial más cercana", "valor": "TÜV SÜD ATISAE (2878), Alcalá de Henares · unos 16 km", **F.itv_madrid},
+        {"etiqueta": "ITV oficial más cercana", "valor": "Alcalá de Henares (2878, 2857) o Arganda (2807, 2852) · unos 16 km", **F.itv_madrid},
         {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 25,4 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 55 km", **F.osrm},
     ],
@@ -249,10 +249,10 @@ CIUDADES["santa-maria-d-olo"] = {
              "El padrón de 2025 da a Santa Maria d'Oló 1.099 vecinos, casi los mismos que en 2015 (1.063). En 2024 había 643 turismos según Idescat a partir de la DGT, 585 por cada 1.000 habitantes. Con 17 habitantes por km², la distancia forma parte del día a día.",
              "Para un coche que suma muchos kilómetros por carretera secundaria, lo que más agradece es que se respeten los avisos del indicador de servicio y que neumáticos y amortiguadores se revisen por su estado, no solo por el cuentakilómetros.",
          ]},
-        {"id": "vic-y-sant-fruitos", "h2": "Servicio oficial en Vic, ITV en Sant Fruitós de Bages",
+        {"id": "vic", "h2": "Servicio oficial e ITV, en Vic",
          "parrafos": [
-             "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat está empatada: Sant Fruitós (B25), en el polígono El Grau, y Osona (B04), en Vic, quedan las dos a 27,2 km.",
-             "Son dos direcciones distintas, una hacia Osona y otra hacia el Bages, así que no cuentes con resolver las dos cosas en una sola salida.",
+             "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat también está en Vic: la de Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 25,6 km.",
+             "Al estar las dos en Vic, una revisión de campaña y la inspección pueden caer en la misma salida si cuadran las citas.",
          ]},
         {"id": "c25-hacia-el-sur", "h2": "Por la BP-4313 y la C-25 hasta la C-16",
          "parrafos": [
@@ -264,7 +264,7 @@ CIUDADES["santa-maria-d-olo"] = {
         {"q": "¿Tenéis taller cerca de Santa Maria d'Oló?",
          "a": "No. El de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 83,3 km."},
         {"q": "¿Qué ITV queda más cerca?",
-         "a": "La de Sant Fruitós de Bages (B25), a 27,2 km por carretera."},
+         "a": "La de Osona (B04), en Vic, a 25,6 km por carretera."},
         {"q": "¿Dónde está el servicio oficial BMW?",
          "a": "En Vic: Quadis Munich, carrer Perot Rocaguinarda 1, a 21 km."},
     ],
@@ -273,12 +273,12 @@ CIUDADES["santa-maria-d-olo"] = {
         {"etiqueta": "Comarca", "valor": "Moianès", **F.idescat("082589")},
         {"etiqueta": "Superficie del término", "valor": "66,21 km² · 17 hab./km²", **F.cartociudad},
         {"etiqueta": "Turismos (2024)", "valor": "643 · 585 por cada 1.000 hab.", **F.idescat("082589")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) o Osona (B04, Vic) · 27,2 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Osona (B04, Vic) · 25,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Vic · 21 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082589"), F.cartociudad_f, F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["santa-maria-d-olo"] = "BMW en Santa Maria d'Oló: servicio oficial en Vic a 21 km, ITV en Sant Fruitós de Bages o Vic y el taller especialista de la red a 83,3 km por la C-25."
+META["santa-maria-d-olo"] = "BMW en Santa Maria d'Oló: servicio oficial e ITV en Vic, a 21 y 25,6 km, y el taller especialista de la red a 83,3 km por la C-25."
 
 # ---------------------------------------------------------------- Quer
 CIUDADES["quer"] = {

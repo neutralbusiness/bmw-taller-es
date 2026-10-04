@@ -61,7 +61,7 @@
    {
     "nombre": "ITV Reus (T02)",
     "operador": "APPLUS ITV",
-    "direccion": "Carretera VALENCIA-TARRAGONA KM. 1155,14 S/N",
+    "direccion": "Carretera València-Tarragona, km 1155",
     "municipio": "Reus",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
@@ -185,9 +185,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en Reus | Especialistas en diagnóstico ISTA",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 103477
+  "metaTitle": "Taller BMW en Reus | Especialistas en diagnóstico",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 111601
  },
  "generado": "2026-10-04",
  "perfil": {

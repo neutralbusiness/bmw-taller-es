@@ -74,16 +74,16 @@ CIUDADES["cabrera-d-anoia"] = {
 # ---------------------------------------------------------------- Gualba
 CIUDADES["gualba"] = {
     "h1": "BMW en Gualba: la ITV en la carretera de Gualba y el taller especialista a 65,5 km",
-    "entradilla": "La estación de ITV que le toca a Gualba está en Sant Celoni, en una calle que lleva el nombre del pueblo. El servicio oficial BMW queda en Granollers y el taller de la red, en Sant Joan Despí. Esto es lo que te conviene resolver cerca y lo que no.",
+    "entradilla": "La estación de ITV que le toca a Gualba está en Sant Celoni, en una calle que lleva el nombre del pueblo. El servicio oficial BMW queda en Granollers o Mataró y el taller de la red, en Sant Joan Despí. Esto es lo que te conviene resolver cerca y lo que no.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 65.5},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "Sant Celoni (B26), a 6,9 km",
          "parrafos": [
              "En el registro de estaciones de la Generalitat, la más próxima por carretera es ITV Sant Celoni (B26), en la carretera de Gualba 41-43, a 6,9 km del centro del pueblo. Es tan accesible que no tiene sentido mezclarla con el viaje al taller: la pre-ITV la puede hacer cualquier taller de la zona, y la inspección, en la misma mañana.",
          ]},
-        {"id": "granollers-o-sant-joan", "h2": "Granollers para lo de la marca, Sant Joan Despí para lo difícil",
+        {"id": "granollers-o-sant-joan", "h2": "Granollers o Mataró para lo de la marca, Sant Joan Despí para lo difícil",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto oficial BMW más cercano es Pruna Motor, en la C-17 (km 19) a su paso por Granollers, a 34,3 km por carretera. Allí se tramitan las reparaciones cubiertas por la garantía de BMW.",
+             "Según el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales casi a la misma distancia: el de la C-17 (km 19) en Granollers, a 34,3 km por carretera, y el de la Via Sèrgia 2 de Mataró, a 34,8. Allí se tramitan las reparaciones cubiertas por la garantía de BMW.",
              "Dasercars Barcelona, el taller independiente de la red, está a 65,5 km: BV-5115, C-35, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc. Es mucha carretera para un cambio de pastillas y poca para una avería que lleva meses sin diagnóstico, un diésel N47 o B47 con ruido de distribución o un escape que no pasa las emisiones (el taller tiene homologación REDISTA).",
          ]},
         {"id": "gualba-en-cifras", "h2": "1.766 vecinos repartidos en 23 km²",
@@ -107,7 +107,7 @@ CIUDADES["gualba"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("080977")},
         {"etiqueta": "Turismos (2024)", "valor": "933 · 528 por cada 1.000 hab.", **F.idescat("080977")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 6,9 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 34,3 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 34,3 km (Mataró · 34,8)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 65,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080977"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -196,7 +196,7 @@ CIUDADES["villanueva-de-perales"] = {
 # ---------------------------------------------------------------- Fogars de la Selva
 CIUDADES["fogars-de-la-selva"] = {
     "h1": "Fogars de la Selva: BMW entre la AP-7 y la C-35, servicio oficial en Salt",
-    "entradilla": "Provincia de Barcelona, comarca de la Selva: Fogars mira a la vez hacia Girona y hacia el Vallès. El servicio oficial BMW más cercano está en Salt, la ITV en Sant Celoni y el taller especialista de la red, a 74,9 km.",
+    "entradilla": "Provincia de Barcelona, comarca de la Selva: Fogars mira a la vez hacia Girona y hacia el Vallès. El servicio oficial BMW más cercano está en Salt, la ITV en Blanes y el taller especialista de la red, a 74,9 km.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 74.9},
     "secciones": [
         {"id": "seis-carreteras", "h2": "Seis carreteras a menos de 3 km",
@@ -204,9 +204,9 @@ CIUDADES["fogars-de-la-selva"] = {
              "Por el entorno del núcleo urbano pasan la AP-7, la C-35, la GI-512, la GI-555, la BV-5122 y la BV-5123. Es un término de 32,12 km² con 53 habitantes por kilómetro cuadrado, de modo que el coche se usa a diario, y no siempre en trayectos largos.",
              "Idescat, con datos de la DGT, contaba 1.060 turismos en 2024 para 1.704 vecinos en 2025: 622 por cada 1.000. Con la AP-7 tan cerca, un diésel tiene fácil hacer el tramo a velocidad constante que le permite regenerar el filtro de partículas; el problema aparece en los coches que solo van del pueblo al tren y vuelta.",
          ]},
-        {"id": "salt-y-sant-celoni", "h2": "Salt para la marca, Sant Celoni para la ITV",
+        {"id": "salt-y-blanes", "h2": "Salt para la marca, Blanes para la ITV",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto oficial BMW más próximo es Oliva Motor Girona, en el carrer de Lingen 9-11 de Salt, a 37 km por carretera. La estación más cercana por carretera en el registro de la Generalitat es ITV Sant Celoni (B26), en la carretera de Gualba 41-43, a 16,8 km.",
+             "Según el localizador de bmw.es, el punto oficial BMW más próximo es Oliva Motor Girona, en el carrer de Lingen 9-11 de Salt, a 37 km por carretera. La estación más cercana por carretera en el registro de la Generalitat es ITV Blanes (G07), en l'avinguda de l'Estació 47, a 14,4 km.",
          ]},
         {"id": "hasta-sant-joan", "h2": "75 km hasta Sant Joan Despí: para qué",
          "parrafos": [
@@ -218,7 +218,7 @@ CIUDADES["fogars-de-la-selva"] = {
         {"q": "¿Cuál es el servicio oficial BMW más cercano a Fogars de la Selva?",
          "a": "Oliva Motor Girona, en Salt, a 37 km según bmw.es."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La estación más cercana por carretera es Sant Celoni (B26), a 16,8 km, según la Generalitat."},
+         "a": "La estación más cercana por carretera es Blanes (G07), a 14,4 km, según la Generalitat."},
         {"q": "¿A qué distancia está vuestro taller?",
          "a": "A 74,9 km por la AP-7, la C-33 y la B-20, en Sant Joan Despí."},
     ],
@@ -226,7 +226,7 @@ CIUDADES["fogars-de-la-selva"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "1.704 habitantes (+15,9 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Selva", **F.idescat("080826")},
         {"etiqueta": "Turismos (2024)", "valor": "1.060 · 622 por cada 1.000 hab.", **F.idescat("080826")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 16,8 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Blanes (G07) · 14,4 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Oliva Motor Girona (Salt) · 37 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 74,9 km", **F.osrm},
     ],

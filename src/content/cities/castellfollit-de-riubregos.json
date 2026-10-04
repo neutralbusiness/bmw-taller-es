@@ -187,19 +187,19 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Castellfollit de Riubregós: ITV a 38 km, servicio oficial a 43 y especialista BMW a 89",
-    "entradilla": "Desde Castellfollit de Riubregós, cualquier cosa que tenga que ver con el coche está lejos. Por eso esta página no va de cercanía, sino de cómo agrupar viajes: la ITV en Igualada, el servicio oficial BMW en Tàrrega y el taller especialista de la red en Sant Joan Despí.",
+    "h1": "Castellfollit de Riubregós: ITV a 32 km, servicio oficial a 43 y especialista BMW a 89",
+    "entradilla": "Desde Castellfollit de Riubregós, cualquier cosa que tenga que ver con el coche está lejos. Por eso esta página no va de cercanía, sino de cómo agrupar viajes: la ITV en Granyanella, el servicio oficial BMW en Tàrrega y el taller especialista de la red en Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 88.9
     },
     "secciones": [
       {
-        "id": "igualada-y-tarrega",
-        "h2": "Igualada y Tàrrega, a una distancia parecida",
+        "id": "granyanella-y-tarrega",
+        "h2": "La ITV en Granyanella, el servicio oficial en Tàrrega",
         "parrafos": [
-          "La estación más próxima por carretera del registro de la Generalitat es ITV Igualada (B12), en el polígono Les Comes, a 38,2 km. El punto de servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 42,9 km. Igualada queda hacia Barcelona; Tàrrega, hacia Lleida.",
-          "Con esas distancias, lo práctico es hacer coincidir la ITV con otra gestión en Igualada y reservar Tàrrega para lo que solo puede hacer la red oficial, como las campañas de revisión que convoque BMW."
+          "La estación más próxima por carretera del registro de la Generalitat es ITV Granyanella (L05), en la N-II, punto kilométrico 512,7, a 31,6 km. El punto de servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 42,9 km.",
+          "Con esas distancias, lo práctico es hacer coincidir la ITV con otra gestión por la zona y reservar Tàrrega para lo que solo puede hacer la red oficial, como las campañas de revisión que convoque BMW."
         ]
       },
       {
@@ -222,7 +222,7 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Castellfollit de Riubregós?",
-        "a": "En Igualada (B12), a 38,2 km por carretera, según la Generalitat."
+        "a": "En Granyanella (L05), en la N-II, a 31,6 km por carretera, según la Generalitat."
       },
       {
         "q": "¿Cuál es el servicio oficial BMW más cercano?",
@@ -254,7 +254,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Igualada (B12) · 38,2 km",
+        "valor": "Granyanella (L05) · 31,6 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

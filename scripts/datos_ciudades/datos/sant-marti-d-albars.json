@@ -60,16 +60,24 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Berga (B13)",
-   "operador": "TuV-RHEINLAND",
-   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. «La Valldan»",
-   "municipio": "Berga",
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 31.7,
-   "km_linea": 21.3
+   "km_carretera": 31.0,
+   "km_linea": 19.2,
+   "km_ruta_mas_rapida": 33.1,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Berga (B13)",
+     "municipio": "Berga",
+     "km_carretera": 31.7
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

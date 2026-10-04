@@ -68,7 +68,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 19.3,
-   "km_linea": 12.2
+   "km_linea": 12.2,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Manresa (B06)",
+     "municipio": "Manresa",
+     "km_carretera": 19.3
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

@@ -72,15 +72,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "AutoPremier (Madrid)",
+  "nombre": "AutoPremier (Alcalá Henares)",
   "razon_social": "Auto Premier Baviera, S.A.",
-  "direccion": "Carretera de Valencia, Km 7,3",
-  "cp": "28031",
-  "municipio": "Madrid",
-  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 38.4,
-  "km_linea": 30.8,
+  "km_carretera": 34.2,
+  "km_linea": 27.8,
+  "km_ruta_mas_rapida": 52.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

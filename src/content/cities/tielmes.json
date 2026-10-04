@@ -179,7 +179,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Tielmes: ITV en Villarejo de Salvanés y taller BMW a 58,9 km por la A-3",
-    "entradilla": "La M-204 atraviesa Tielmes y la A-3 queda a menos de tres kilómetros. Por esa autovía se llega tanto al servicio oficial BMW como, después de cruzar Madrid, al taller especialista de Alcobendas.",
+    "entradilla": "La M-204 atraviesa Tielmes y la A-3 queda a menos de tres kilómetros. Por esa autovía se llega, después de cruzar Madrid, al taller especialista de Alcobendas; el servicio oficial BMW más próximo está en Alcalá de Henares.",
     "socio": {
       "id": "dasercars-alcobendas",
       "kmCarretera": 58.9
@@ -193,10 +193,10 @@
         ]
       },
       {
-        "id": "a3-oficial",
-        "h2": "Servicio oficial en la carretera de Valencia",
+        "id": "oficial-alcala",
+        "h2": "Servicio oficial en Alcalá de Henares",
         "parrafos": [
-          "Según bmw.es, el punto oficial BMW más cercano es AutoPremier, en la carretera de Valencia, km 7,3, ya en Madrid: 38,4 km. Para una avería en garantía, ese es el sitio.",
+          "Según bmw.es, el punto oficial BMW más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares: 34,2 km por la ruta más corta; por la más rápida, unos 52. Para una avería en garantía, ese es el sitio.",
           "Fuera de eso, el mantenimiento lo puedes hacer donde prefieras sin perder la garantía, siempre que se cumpla el plan de BMW: intervalos, aceite con la homologación del motor y recambios de calidad equivalente. Lo ampara el Reglamento (UE) 461/2010."
         ]
       },
@@ -223,7 +223,7 @@
       },
       {
         "q": "¿Cuál es el servicio oficial BMW más cercano?",
-        "a": "AutoPremier, en la carretera de Valencia, km 7,3 (Madrid), a 38,4 km según bmw.es."
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 34,2 km según bmw.es."
       },
       {
         "q": "¿Puedo hacer las revisiones fuera del concesionario estando en garantía?",
@@ -251,7 +251,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "AutoPremier, ctra. de Valencia km 7,3 · 38,4 km",
+        "valor": "AutoPremier, Alcalá de Henares · 34,2 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

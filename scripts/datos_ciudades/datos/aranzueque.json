@@ -65,26 +65,33 @@
    "precision": null,
    "km_carretera": 27.7,
    "km_linea": 17.2,
-   "km_ruta_mas_rapida": 41.1
+   "km_ruta_mas_rapida": 41.1,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Guadalajara",
+     "municipio": "Guadalajara",
+     "km_carretera": 27.8
+    },
+    {
+     "nombre": "ITV Itevelesa",
+     "municipio": "Guadalajara",
+     "km_carretera": 28.0
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "AutoPremier (Alcalá Henares)",
+  "nombre": "AutoPremier (Guadalajara)",
   "razon_social": "Auto Premier Baviera, S.A.",
-  "direccion": "Via Complutense, 131",
-  "cp": "28805",
-  "municipio": "Alcalá de Henares",
-  "web": "https://autopremier.concesionariobmw.es",
+  "direccion": "Paseo de la Estación, 23",
+  "cp": "19004",
+  "municipio": "Guadalajara",
+  "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 30.2,
-  "km_linea": 22.5,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "AutoPremier (Guadalajara)",
-    "municipio": "Guadalajara",
-    "km_carretera": 30.4
-   }
-  ],
+  "centro_ocasion_con_taller": "AutoPremier Guadalajara (Paseo de la Estación 23): concesionario con taller y horario de taller propio",
+  "km_carretera": 27.9,
+  "km_linea": 18.7,
+  "km_ruta_mas_rapida": 30.4,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

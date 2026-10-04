@@ -20,8 +20,9 @@
 #   No se usa la proporción; solo la cifra absoluta, advirtiendo que supera a la población.
 # - Pinto (estación 2864) y Arganda del Rey (estación 2852): ITV con precisión de
 #   municipio; no se da distancia, solo dirección del listado.
-# - Tres Cantos: el listado escribe «TÜV SÜV ATISAE»; se publica el nombre del operador
-#   como «TÜV SÜD ATISAE» (el mismo operador de Collado-Villalba y Lozoyuela).
+# - Tres Cantos: el listado de la Comunidad de Madrid escribe «TÜV SÜV ATISAE»; se publica
+#   «TÜV SÜD ATISAE» (el mismo operador de Collado-Villalba y Lozoyuela). Desde el 04-oct-2026
+#   p05_itv.py corrige la errata al cargar y datos/tres-cantos.json ya dice «SÜD».
 import sys
 from pathlib import Path
 
@@ -291,7 +292,7 @@ CIUDADES["cerdanyola-del-valles"] = {
          ]},
         {"id": "sant-cugat", "h2": "Servicio oficial e ITV, en Sant Cugat",
          "parrafos": [
-             "Según bmw.es, el servicio oficial más próximo es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès: 7,4 km por la ruta más corta, unos 10 por la más rápida.",
+             "Según bmw.es, el servicio oficial más próximo es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès: 7,4 km por la ruta más corta, unos 10 por la más rápida. Casi a la par, a 7,7 km, está Sitjas, un taller autorizado en la calle Quintana 64 de Sabadell.",
              "Para la ITV, el registro de la Generalitat da la de Sant Cugat (B22), en el carrer Amposta 2 del polígono Sant Mamet, a 7,9 km por carretera, y casi a la par la de Sabadell (B24), a 8,3 km.",
          ]},
         {"id": "c58-b20", "h2": "Por la C-58 y la B-20 hasta Sant Joan Despí",
@@ -315,7 +316,7 @@ CIUDADES["cerdanyola-del-valles"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("082665")},
         {"etiqueta": "Turismos (2024)", "valor": "26.213 · 448 por cada 1.000 hab.", **F.idescat("082665")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Cugat (B22) · 7,9 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Sant Cugat) · 7,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Sant Cugat) · 7,4 km (Sitjas, Sabadell · 7,7)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 24,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082665"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -519,9 +520,9 @@ CIUDADES["ripollet"] = {
              "La normativa europea de distribución de vehículos, el Reglamento (UE) 461/2010, permite hacer las revisiones en un taller independiente sin que el fabricante pueda negar la garantía por ello. La condición es seguir el plan: intervalos, piezas de calidad equivalente y aceites con la especificación correcta, con la factura como prueba.",
              "Lo que sí queda en la red oficial son las reparaciones que paga la marca y las campañas de revisión que convoca.",
          ]},
-        {"id": "sabadell-oficial", "h2": "Los puntos oficiales, en Sabadell",
+        {"id": "sabadell-oficial", "h2": "Los puntos oficiales, en Sabadell y Sant Cugat",
          "parrafos": [
-             "Según bmw.es, los dos más próximos a Ripollet están en Sabadell y casi a la misma distancia: el taller autorizado Sitjas Motor, en la calle Quintana 64, a 9,5 km por carretera, y Quadis Munich, a 9,6 km.",
+             "Según bmw.es, el más próximo a Ripollet es el taller autorizado Sitjas Motor, en la calle Quintana 64 de Sabadell, a 8,5 km por carretera; Quadis Munich, en Sant Cugat del Vallès, queda casi igual, a 9,4.",
              "La ITV también te queda hacia allí: la estación de Sabadell (B24), en el polígono Can Roqueta, es la más próxima por carretera en el registro de la Generalitat, a 6,8 km.",
          ]},
         {"id": "c58-b20-ripollet", "h2": "24 kilómetros hasta Sant Joan Despí",
@@ -538,7 +539,7 @@ CIUDADES["ripollet"] = {
         {"q": "¿Pierdo la garantía si no voy al concesionario?",
          "a": "No, si se respeta el plan de mantenimiento del fabricante. Lo ampara el Reglamento (UE) 461/2010."},
         {"q": "¿Cuál es el taller autorizado BMW más cercano a Ripollet?",
-         "a": "Sitjas Motor, calle Quintana 64 de Sabadell, a 9,5 km; Quadis Munich, también en Sabadell, queda a 9,6."},
+         "a": "Sitjas Motor, calle Quintana 64 de Sabadell, a 8,5 km; Quadis Munich, en Sant Cugat del Vallès, queda a 9,4."},
         {"q": "¿Recogéis el coche en Ripollet?",
          "a": "Sí, dentro del área metropolitana de Barcelona y según disponibilidad."},
     ],
@@ -547,7 +548,7 @@ CIUDADES["ripollet"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("081803")},
         {"etiqueta": "Turismos (2024)", "valor": "17.224 · 432 por cada 1.000 hab.", **F.idescat("081803")},
         {"etiqueta": "ITV más cercana", "valor": "Sabadell (B24) · 6,8 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Sitjas Motor (Sabadell) · 9,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Sitjas Motor (Sabadell) · 8,5 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 24,4 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081803"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],

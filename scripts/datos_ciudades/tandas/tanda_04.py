@@ -19,8 +19,8 @@ META = {}
 
 # ---------------------------------------------------------------- Griñón
 CIUDADES["grinon"] = {
-    "h1": "BMW en Griñón: ITV en Humanes, servicio oficial en Getafe y especialista en Alcobendas",
-    "entradilla": "Para un BMW o un MINI de Griñón, lo más cercano está en los pueblos de al lado: la ITV en Humanes y el concesionario en Getafe. El taller especialista de la red queda al norte, a 51,2 km. Así se reparte cada cosa.",
+    "h1": "BMW en Griñón: ITV en Humanes, servicio oficial en Leganés y especialista en Alcobendas",
+    "entradilla": "Para un BMW o un MINI de Griñón, lo más cercano está en los pueblos de al lado: la ITV en Humanes y el concesionario en Leganés. El taller especialista de la red queda al norte, a 51,2 km. Así se reparte cada cosa.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 51.2},
     "secciones": [
         {"id": "itv-humanes", "h2": "La inspección, a 8,1 km en la avenida de Fuenlabrada",
@@ -28,9 +28,9 @@ CIUDADES["grinon"] = {
              "Griñón no aparece con estación propia en el listado de la Comunidad de Madrid. La más próxima es la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes: 8,1 km por carretera, poco más de seis en línea recta.",
              "Si el coche tiene que pasar por el taller antes, aprovecha esa visita para revisar luces, holguras y emisiones, y pide la cita en Humanes con el margen justo para corregir lo que salga.",
          ]},
-        {"id": "vehinter-getafe", "h2": "Vehinter, en la carretera de Toledo, es el oficial más cercano",
+        {"id": "vehinter-leganes", "h2": "Vehinter, en Leganés, es el oficial más cercano",
          "parrafos": [
-             "El localizador de bmw.es sitúa el punto oficial más próximo en Vehinter, en la carretera Madrid-Toledo, término de Getafe, a 18,7 km. Lo que cubra la garantía de BMW se tramita allí.",
+             "El localizador de bmw.es sitúa el punto oficial más próximo en Vehinter Momentum Leganés, en la calle Palier esquina con Bastidor, en el polígono de Leganés, a 14,6 km. Lo que cubra la garantía de BMW se tramita allí.",
              "Lo demás —mantenimiento, una avería fuera de garantía, un segundo diagnóstico— lo puedes llevar a quien prefieras. Nosotros somos un taller independiente especializado en la marca, no parte de esa red.",
          ]},
         {"id": "r5-hasta-alcobendas", "h2": "51 kilómetros, con la R-5 como atajo",
@@ -48,7 +48,7 @@ CIUDADES["grinon"] = {
         {"q": "¿Hay ITV en Griñón?",
          "a": "En el listado oficial no figura ninguna dentro del municipio. La más cercana es Alcaravan ITV, en Humanes, a 8,1 km."},
         {"q": "¿Cuál es el concesionario BMW más cercano?",
-         "a": "Vehinter, en la carretera Madrid-Toledo (Getafe), a 18,7 km según bmw.es."},
+         "a": "Vehinter Momentum Leganés, en el polígono de Leganés, a 14,6 km según bmw.es."},
         {"q": "¿Dónde está vuestro taller?",
          "a": "En la calle Valgrande 17 de Alcobendas, a 51,2 km de Griñón por la R-5 y la A-1."},
     ],
@@ -56,12 +56,12 @@ CIUDADES["grinon"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "10.799 habitantes (+8,9 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "6.597 · 611 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "Alcaravan ITV, Humanes · 8,1 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Getafe) · 18,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Leganés) · 14,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 51,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
-META["grinon"] = "Griñón: ITV más cercana en Humanes, servicio oficial BMW en Getafe y taller especialista independiente en Alcobendas, a 51,2 km. Ruta y datos."
+META["grinon"] = "Griñón: ITV más cercana en Humanes, servicio oficial BMW en Leganés y taller especialista independiente en Alcobendas, a 51,2 km. Ruta y datos."
 
 # ---------------------------------------------------------------- Torrejón de la Calzada
 CIUDADES["torrejon-de-la-calzada"] = {
@@ -196,16 +196,16 @@ META["bigues-i-riells"] = "Bigues i Riells: concesionario BMW e ITV en Granoller
 # ---------------------------------------------------------------- Santa Maria de Palautordera
 CIUDADES["santa-maria-de-palautordera"] = {
     "h1": "Santa Maria de Palautordera: ITV a 9,1 km y especialista BMW a 61,7 km",
-    "entradilla": "Desde Santa Maria de Palautordera, lo que tienes cerca es la ITV de Sant Celoni. El servicio oficial BMW más próximo está en Granollers, con el de Mataró casi a la par, y nuestro taller, en Sant Joan Despí. Mejor saber de antemano qué se resuelve dónde.",
+    "entradilla": "Desde Santa Maria de Palautordera, lo que tienes cerca es la ITV de Sant Celoni. El servicio oficial BMW más próximo está en Mataró, y nuestro taller, en Sant Joan Despí. Mejor saber de antemano qué se resuelve dónde.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 61.7},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "La inspección, en la carretera de Gualba",
          "parrafos": [
              "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 9,1 km. Es lo único de esta lista que tienes realmente a mano, y conviene aprovecharlo: la inspección, aquí; los viajes largos, solo cuando haga falta.",
          ]},
-        {"id": "mataro-31-km", "h2": "El concesionario más cercano, a 30,6 km en Granollers",
+        {"id": "mataro-28-km", "h2": "El concesionario más cercano, a 28 km en Mataró",
          "parrafos": [
-             "Según bmw.es, el punto oficial más próximo es Pruna Motor, en la C-17 a su paso por Granollers, a 30,6 km por carretera; el de la misma marca en la Via Sèrgia de Mataró queda a 30,7. Para una reparación cubierta por la garantía de BMW, ese es el sitio.",
+             "Según bmw.es, el punto oficial más próximo es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 28 km por carretera. Para una reparación cubierta por la garantía de BMW, ese es el sitio.",
              "Entre el servicio oficial y Sant Joan Despí, la decisión depende del trabajo: lo que es de garantía, al oficial; un mantenimiento por plan o un problema que necesita un especialista independiente, a nosotros.",
          ]},
         {"id": "ap7-hasta-el-taller", "h2": "61,7 km por la AP-7: para qué sí",
@@ -222,7 +222,7 @@ CIUDADES["santa-maria-de-palautordera"] = {
         {"q": "¿Dónde paso la ITV desde Santa Maria de Palautordera?",
          "a": "La estación más próxima en el registro de la Generalitat es Sant Celoni (B26), en la carretera de Gualba, a 9,1 km."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "Pruna Motor, en Granollers, a 30,6 km (o en Mataró, a 30,7)."},
+         "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 28 km según bmw.es."},
         {"q": "¿Recogéis el coche aquí?",
          "a": "No: la recogida del taller cubre solo el Área Metropolitana de Barcelona."},
     ],
@@ -231,12 +231,12 @@ CIUDADES["santa-maria-de-palautordera"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("082592")},
         {"etiqueta": "Turismos (2024)", "valor": "5.439 · 540 por cada 1.000 hab.", **F.idescat("082592")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 9,1 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers) · 30,6 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 28 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 61,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082592"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["santa-maria-de-palautordera"] = "Santa Maria de Palautordera: ITV en Sant Celoni, servicio oficial BMW en Granollers o Mataró y taller especialista independiente en Sant Joan Despí, a 61,7 km."
+META["santa-maria-de-palautordera"] = "Santa Maria de Palautordera: ITV en Sant Celoni, servicio oficial BMW en Mataró y taller especialista independiente en Sant Joan Despí, a 61,7 km."
 
 # ---------------------------------------------------------------- Matadepera
 CIUDADES["matadepera"] = {
@@ -300,9 +300,9 @@ CIUDADES["cervello"] = {
              "El punto oficial más cercano según el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 16,7 km. Las llamadas a revisión de la marca y las reparaciones en garantía se hacen allí.",
              "El mantenimiento periódico no tiene por qué: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) permite hacerlo en un taller independiente sin que el coche pierda la garantía, con dos condiciones: respetar los intervalos y usar recambios y aceites de la especificación correcta.",
          ]},
-        {"id": "itv-sant-andreu", "h2": "La ITV, en la N-II a la altura de Sant Andreu de la Barca",
+        {"id": "itv-sant-just", "h2": "La ITV, en el polígono de Sant Just Desvern",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Andreu (B21), en la carretera N-II, punto kilométrico 592,5, en Sant Andreu de la Barca: 14,3 km. Cervelló tenía 9.743 habitantes en 2025 y 5.255 turismos en 2024 (Idescat a partir de la DGT), 539 por cada 1.000.",
+             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21: 12,7 km por la ruta más corta, unos 17 por la más rápida. Cervelló tenía 9.743 habitantes en 2025 y 5.255 turismos en 2024 (Idescat a partir de la DGT), 539 por cada 1.000.",
          ]},
     ],
     "faq": [
@@ -311,7 +311,7 @@ CIUDADES["cervello"] = {
         {"q": "¿Pierdo la garantía si hago la revisión con vosotros?",
          "a": "No, si se siguen los intervalos y especificaciones del plan de mantenimiento de BMW."},
         {"q": "¿Qué ITV tengo más cerca?",
-         "a": "La de Sant Andreu de la Barca (B21), en la N-II, a 14,3 km por carretera."},
+         "a": "La de Sant Just Desvern (B05), en la avinguda de la Riera, a 12,7 km por carretera."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "9.743 habitantes (+10,1 % desde 2015)", **F.ine},
@@ -319,7 +319,7 @@ CIUDADES["cervello"] = {
         {"etiqueta": "Turismos (2024)", "valor": "5.255 · 539 por cada 1.000 hab.", **F.idescat("080689")},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 15,8 km", **F.osrm},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Sant Boi) · 16,7 km", **F.bmw},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 14,3 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 12,7 km", **F.itv_cat},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080689"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
 }
@@ -340,9 +340,9 @@ CIUDADES["arenys-de-munt"] = {
          "parrafos": [
              "El localizador de bmw.es sitúa el punto oficial más cercano en Pruna Motor, Via Sèrgia 2, Mataró, a 19,4 km. Para lo que cubre la garantía, esa es la dirección. Para un especialista independiente en BMW y MINI, la nuestra queda casi tres veces más lejos, y conviene que el trabajo lo justifique: un fallo que no se ha encontrado, una distribución ruidosa, un sistema de AdBlue que da guerra.",
          ]},
-        {"id": "itv-sant-celoni", "h2": "La ITV del registro, en Sant Celoni",
+        {"id": "itv-sant-celoni", "h2": "La ITV del registro: Sant Celoni o Argentona",
          "parrafos": [
-             "En el registro de estaciones de la Generalitat, la más próxima por carretera a Arenys de Munt es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 17,1 km.",
+             "En el registro de estaciones de la Generalitat, las dos más próximas por carretera a Arenys de Munt quedan casi a la par: la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 17,1 km, y la de Argentona (B08), a 17,5.",
          ]},
         {"id": "arenys-en-cifras", "h2": "9.558 vecinos en 21,3 km²",
          "parrafos": [
@@ -362,12 +362,12 @@ CIUDADES["arenys-de-munt"] = {
         {"etiqueta": "Comarca", "valor": "Maresme", **F.idescat("080076")},
         {"etiqueta": "Turismos (2024)", "valor": "4.675 · 489 por cada 1.000 hab.", **F.idescat("080076")},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 19,4 km", **F.bmw},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 17,1 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 17,1 km (Argentona · 17,5)", **F.itv_cat},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 56,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080076"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["arenys-de-munt"] = "Arenys de Munt: servicio oficial BMW en Mataró, ITV en Sant Celoni y taller especialista independiente BMW y MINI en Sant Joan Despí, a 56,6 km."
+META["arenys-de-munt"] = "Arenys de Munt: servicio oficial BMW en Mataró, ITV en Sant Celoni o Argentona y taller especialista independiente BMW y MINI en Sant Joan Despí, a 56,6 km."
 
 # ---------------------------------------------------------------- l'Ametlla del Vallès
 CIUDADES["l-ametlla-del-valles"] = {

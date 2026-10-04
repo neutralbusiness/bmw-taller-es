@@ -7,7 +7,7 @@
   "lat": 41.8672,
   "lng": 2.06,
   "metaTitle": "Taller BMW para Santa Maria d'Oló (Moianès) | Especialista BMW",
-  "metaDescription": "BMW en Santa Maria d'Oló: servicio oficial en Vic a 21 km, ITV en Sant Fruitós de Bages o Vic y el taller especialista de la red a 83,3 km por la C-25.",
+  "metaDescription": "BMW en Santa Maria d'Oló: servicio oficial e ITV en Vic, a 21 y 25,6 km, y el taller especialista de la red a 83,3 km por la C-25.",
   "heroSubtitle": "Expertos en BMW para las exigentes carreteras de montaña del norte del Bages. Diagnóstico avanzado y recogida a domicilio.",
   "trustChips": [
     {
@@ -205,11 +205,11 @@
         ]
       },
       {
-        "id": "vic-y-sant-fruitos",
-        "h2": "Servicio oficial en Vic, ITV en Sant Fruitós de Bages",
+        "id": "vic",
+        "h2": "Servicio oficial e ITV, en Vic",
         "parrafos": [
-          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat está empatada: Sant Fruitós (B25), en el polígono El Grau, y Osona (B04), en Vic, quedan las dos a 27,2 km.",
-          "Son dos direcciones distintas, una hacia Osona y otra hacia el Bages, así que no cuentes con resolver las dos cosas en una sola salida."
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat también está en Vic: la de Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 25,6 km.",
+          "Al estar las dos en Vic, una revisión de campaña y la inspección pueden caer en la misma salida si cuadran las citas."
         ]
       },
       {
@@ -228,7 +228,7 @@
       },
       {
         "q": "¿Qué ITV queda más cerca?",
-        "a": "La de Sant Fruitós de Bages (B25), a 27,2 km por carretera."
+        "a": "La de Osona (B04), en Vic, a 25,6 km por carretera."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW?",
@@ -262,7 +262,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Fruitós (B25) o Osona (B04, Vic) · 27,2 km",
+        "valor": "Osona (B04, Vic) · 25,6 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

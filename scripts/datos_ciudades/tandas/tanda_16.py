@@ -400,9 +400,9 @@ CIUDADES["olesa-de-montserrat"] = {
              "Desde el centro de Olesa hasta el carrer del Tambor del Bruc hay 29 km por carretera y 24,3 en línea recta: la C-55 baja por el valle del Llobregat y la A-2 lleva hasta Sant Joan Despí. Olesa no está en el Área Metropolitana de Barcelona, y la recogida del coche que ofrece el taller no llega aquí.",
              "Funcionamos con presupuesto escrito: sabes qué se va a hacer antes de que nadie toque el coche, y nada empieza hasta que lo aceptas. También la diagnosis se presupuesta, porque es trabajo técnico con equipo y horas, no una lectura rápida de códigos."
          ]},
-        {"id": "itv-viladecavalls", "h2": "La ITV, en Can Trias",
+        {"id": "itv-sant-andreu-viladecavalls", "h2": "La ITV: Sant Andreu de la Barca o Viladecavalls",
          "parrafos": [
-             "La estación más próxima por carretera en el registro de la Generalitat es la de Viladecavalls (B03), en el polígono Can Trias, a 12,5 km. Para Esparreguera, a 2,1 km, la más próxima es otra: la de Sant Andreu de la Barca."
+             "En el registro de la Generalitat, dos estaciones quedan casi a la misma distancia por carretera: la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5, a 12,1 km, y la de Viladecavalls (B03), en el polígono Can Trias, a 12,5."
          ]},
         {"id": "olesa-cifras", "h2": "24.966 vecinos en el Baix Llobregat",
          "parrafos": [
@@ -415,14 +415,14 @@ CIUDADES["olesa-de-montserrat"] = {
         {"q": "¿A qué distancia está vuestro taller?",
          "a": "A 29 km por la C-55 y la A-2, en Sant Joan Despí."},
         {"q": "¿Dónde paso la ITV desde Olesa?",
-         "a": "La más próxima en el registro de la Generalitat es la de Viladecavalls (B03), a 12,5 km."},
+         "a": "Hay dos casi a la par en el registro de la Generalitat: Sant Andreu de la Barca (B21), a 12,1 km, y Viladecavalls (B03), a 12,5."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "24.966 habitantes", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("081477")},
         {"etiqueta": "Turismos (2024)", "valor": "11.215 · 449 por cada 1.000 hab.", **F.idescat("081477")},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Terrassa · 16,8 km", **F.bmw},
-        {"etiqueta": "ITV más cercana", "valor": "Viladecavalls (B03) · 12,5 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu (B21) · 12,1 km; Viladecavalls (B03) · 12,5", **F.itv_cat},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 29 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081477"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -606,7 +606,7 @@ CIUDADES["algete"] = {
 # ---------------------------------------------------------------- Sant Just Desvern
 CIUDADES["sant-just-desvern"] = {
     "h1": "Sant Just Desvern: el taller especialista BMW está a 3,9 km, en el municipio vecino",
-    "entradilla": "Entre el centro de Sant Just y nuestra nave de Sant Joan Despí hay 2 km en línea recta. Pocas páginas de la red pueden decir algo así. Además, la ITV está dentro del término y el servicio oficial, en Sant Boi.",
+    "entradilla": "Entre el centro de Sant Just y nuestra nave de Sant Joan Despí hay 2 km en línea recta. Pocas páginas de la red pueden decir algo así. Además, la ITV está dentro del término y el servicio oficial, a unos 8 km.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 3.9},
     "secciones": [
         {"id": "al-lado", "h2": "3,9 km por carretera",
@@ -618,9 +618,9 @@ CIUDADES["sant-just-desvern"] = {
          "parrafos": [
              "El registro de la Generalitat sitúa la estación B05 dentro del municipio, en la avinguda de la Riera 19-21, polígono industrial número 1. Con el taller a 3,9 km y la inspección en el pueblo, una pre-ITV en el taller y la cita en la estación caben en la misma semana."
          ]},
-        {"id": "oficial-sant-boi", "h2": "Servicio oficial en Sant Boi, a 8,7 km",
+        {"id": "oficial-barcelona-premium", "h2": "Tres puntos oficiales a unos 8 km",
          "parrafos": [
-             "El punto oficial BMW más próximo según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 8,7 km. Para un coche en garantía, el mantenimiento puede hacerse en un taller independiente sin perderla, siempre que se respete el plan de BMW: lo establece el Reglamento (UE) 461/2010."
+             "Según bmw.es, Barcelona Premium tiene tres puntos oficiales casi a la misma distancia: el del carrer Montserrat Roig 31 de L'Hospitalet de Llobregat, a 8,2 km; el de la carretera del Prat 15 de Sant Boi de Llobregat, a 8,3, y el taller del carrer d'Esteve Terrades de Barcelona, a 8,8. Para un coche en garantía, el mantenimiento puede hacerse en un taller independiente sin perderla, siempre que se respete el plan de BMW: lo establece el Reglamento (UE) 461/2010."
          ]},
         {"id": "sant-just-crece", "h2": "Un 26,5 % más de vecinos y pocos coches por cabeza",
          "parrafos": [
@@ -641,7 +641,7 @@ CIUDADES["sant-just-desvern"] = {
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("082212")},
         {"etiqueta": "Turismos (2024)", "valor": "8.324 · 396 por cada 1.000 hab.", **F.idescat("082212")},
         {"etiqueta": "ITV en el municipio", "valor": "Sant Just Desvern (B05), av. de la Riera", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 8,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (L'Hospitalet, Sant Boi o Barcelona) · de 8,2 a 8,8 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 3,9 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082212"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],

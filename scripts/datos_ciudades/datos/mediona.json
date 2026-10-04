@@ -61,23 +61,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Olèrdola (B09)",
+   "nombre": "ITV Igualada (B12)",
    "operador": "APPLUS ITV",
-   "direccion": "Avinguda HOSTAL NOU S/N",
-   "municipio": "Olèrdola",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 25.9,
-   "km_linea": 16.2,
-   "casi_igual_de_cerca": [
-    {
-     "nombre": "ITV Igualada (B12)",
-     "municipio": "Igualada",
-     "km_carretera": 26.7
-    }
-   ]
+   "km_carretera": 22.2,
+   "km_linea": 12.6,
+   "km_ruta_mas_rapida": 26.7
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

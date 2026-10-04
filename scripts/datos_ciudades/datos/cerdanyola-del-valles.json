@@ -88,6 +88,13 @@
   "km_carretera": 7.4,
   "km_linea": 6.2,
   "km_ruta_mas_rapida": 10.2,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Sitjas",
+    "municipio": "Sabadell",
+    "km_carretera": 7.7
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -182,9 +189,9 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller especializado BMW en Cerdanyola del Vallès — Diagnóstico ISTA y recambio OE",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 58747
+  "metaTitle": "Taller especializado BMW en Cerdanyola del Vallès — Diagnóstico y recambio OE",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 58528
  },
  "generado": "2026-10-04",
  "perfil": {

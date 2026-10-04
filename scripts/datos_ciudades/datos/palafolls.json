@@ -71,22 +71,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Oliva Motor Girona (Salt)",
-  "razon_social": "Oliva Motor Girona, S.L.U.",
-  "direccion": "C/ De Lingen, 9-11",
-  "cp": "17190",
-  "municipio": "Salt",
-  "web": "https://olivamotorgirona.concesionariobmw.es",
+  "nombre": "Pruna Motor (Mataró)",
+  "razon_social": "Pruna Motor, S.L. Mataró",
+  "direccion": "Via Sergia, 2",
+  "cp": "08302",
+  "municipio": "Mataró",
+  "web": "https://prunamotor-mataro.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 40.1,
-  "km_linea": 33.6,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Pruna Motor (Mataró)",
-    "municipio": "Mataró",
-    "km_carretera": 40.2
-   }
-  ],
+  "km_carretera": 33.8,
+  "km_linea": 31.1,
+  "km_ruta_mas_rapida": 40.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

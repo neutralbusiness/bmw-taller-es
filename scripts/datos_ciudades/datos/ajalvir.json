@@ -58,16 +58,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV ITV Maco, S.L (estación 2865)",
-   "operador": "ITV Maco, S.L",
-   "direccion": "Avda. de la Constitución, 3",
-   "municipio": "Torrejón De Ardoz",
+   "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2808)",
+   "operador": "DEKRA ITV ESPAÑA, S.L.U",
+   "direccion": "Cº Viejo de Cobeña, 36",
+   "municipio": "Paracuellos",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 10.1,
-   "km_linea": 8.3
+   "km_carretera": 9.0,
+   "km_linea": 5.9,
+   "km_ruta_mas_rapida": 11.7
   }
  },
  "bmw_servicio_oficial_mas_cercano": {

@@ -75,15 +75,9 @@
   "municipio": "Leganés",
   "web": "https://vehinter-momentumleganes.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 24.2,
+  "km_carretera": 23.0,
   "km_linea": 19.8,
-  "casi_igual_de_cerca": [
-   {
-    "nombre": "Vehinter (Getafe)",
-    "municipio": "Getafe",
-    "km_carretera": 24.3
-   }
-  ],
+  "km_ruta_mas_rapida": 24.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [

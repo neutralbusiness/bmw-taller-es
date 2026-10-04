@@ -82,6 +82,13 @@
   "km_carretera": 33.5,
   "km_linea": 22.9,
   "km_ruta_mas_rapida": 38.5,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Pruna Motor (Mataró)",
+    "municipio": "Mataró",
+    "km_carretera": 34.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
@@ -135,7 +142,7 @@
   }
  ],
  "pagina_actual": {
-  "metaTitle": "Taller BMW en Campins | Corazón del Montseny, BV-5301",
+  "metaTitle": "Taller BMW para Campins | Montseny y BV-5301, especialista BMW",
   "tiene_contenido_v3": true,
   "poblacion_en_json": 586
  },

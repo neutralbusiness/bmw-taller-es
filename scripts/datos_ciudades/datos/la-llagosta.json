@@ -80,6 +80,13 @@
   "km_carretera": 10.1,
   "km_linea": 8.2,
   "km_ruta_mas_rapida": 15.2,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Quadis Munich (Sabadell)",
+    "municipio": "Sabadell",
+    "km_carretera": 10.5
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
