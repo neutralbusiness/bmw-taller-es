@@ -3,7 +3,7 @@
   "name": "Canovelles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 16023,
+  "population": 17473,
   "lat": 41.61667,
   "lng": 2.28333,
   "metaTitle": "BMW Canovelles — Tu taller especialista con precios de hasta -50%",
@@ -180,5 +180,123 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Canovelles, pegada a Granollers: ITV y servicio oficial a 6 km, especialista BMW a 40",
+    "entradilla": "Canovelles comparte casi calle con Granollers, que está a un kilómetro de su centro. Ahí tienes la ITV y el servicio oficial BMW. El taller especialista de la red está en Sant Joan Despí, a 40,2 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 40.2
+    },
+    "secciones": [
+      {
+        "id": "granollers-al-lado",
+        "h2": "Granollers, a la vuelta de la esquina",
+        "parrafos": [
+          "La ITV más próxima por carretera en el registro de la Generalitat es la de Granollers (B18), en la avinguda de Sant Julià, polígono El Congost, a 5,4 km. El servicio oficial BMW más cercano según bmw.es es Pruna Motor, en la C-17, km 19,060, también en Granollers, a 5,9 km.",
+          "Las llamadas a revisión que envía BMW se atienden en la red oficial. Si te llega una, es con ellos."
+        ]
+      },
+      {
+        "id": "independiente",
+        "h2": "Lo que hace un especialista independiente",
+        "parrafos": [
+          "Mantenimiento por plan de marca, diagnosis y reparación de BMW y MINI, con especial oficio en los diésel de la casa. Dasercars Barcelona está en el carrer del Tambor del Bruc 3 de Sant Joan Despí: 40,2 km por la C-17, la C-33 y la B-20, 33,4 en línea recta.",
+          "Canovelles no es municipio del Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega aquí."
+        ]
+      },
+      {
+        "id": "denso-y-con-carreteras",
+        "h2": "6,66 km² rodeados de carreteras",
+        "parrafos": [
+          "Canovelles es pequeño de término, 6,66 km², y muy denso: 2.624 habitantes por km². A menos de tres kilómetros del centro pasan la C-17, la C-352, la C-251, la C-155 y la C-1415, entre otras. Es un entorno de rotondas y arranques constantes, el que más desgasta embrague, frenos y silentblocks.",
+          "Tenía 15.906 habitantes en 2015 y 17.473 en 2025, un 9,9 % más. Idescat, a partir de la DGT, contaba 7.772 turismos en 2024: 445 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Canovelles?",
+        "a": "En Granollers (B18), en el polígono El Congost, a 5,4 km."
+      },
+      {
+        "q": "¿Sois el servicio oficial BMW de Granollers?",
+        "a": "No. Ese es Pruna Motor, en la C-17. Dasercars es un taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte electrónica y motores con BMW y se diagnostica con el mismo equipo."
+      },
+      {
+        "q": "¿A cuánto está vuestro taller desde Canovelles?",
+        "a": "A 40,2 km por carretera, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.473 habitantes (+9,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080410&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "6,66 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080410&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.772 · 445 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080410&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 5,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 5,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080410&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "Piera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 15362,
+  "population": 17880,
   "lat": 41.52232,
   "lng": 1.75076,
   "metaTitle": "Taller BMW Piera — Mantenimiento oficial sin coste de concesionario",
@@ -179,5 +179,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Piera: el taller especialista BMW a 39 km por la AP-7 y lo oficial en Terrassa",
+    "entradilla": "Piera ha ganado casi 2.900 vecinos en diez años. Para el dueño de un BMW o un MINI, el mapa es poco intuitivo: ITV en Igualada, servicio oficial en Terrassa y el taller especialista de la red en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 39.0
+    },
+    "secciones": [
+      {
+        "id": "autorizado-o-independiente",
+        "h2": "Taller autorizado o especialista independiente",
+        "parrafos": [
+          "El punto oficial BMW más próximo por carretera según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 34,1 km. Es allí donde se tramita una reparación en garantía.",
+          "Dasercars no es un taller autorizado: es independiente y especializado en BMW y MINI. Te da presupuesto por escrito y no empieza ningún trabajo sin tu visto bueno, con la diagnosis presupuestada aparte."
+        ]
+      },
+      {
+        "id": "b224-ap7",
+        "h2": "Por la B-224 y la AP-7",
+        "parrafos": [
+          "Hasta el carrer del Tambor del Bruc de Sant Joan Despí hay 39 km por carretera (31,3 en línea recta): la B-224, la AP-7 y la B-23. Piera no pertenece al Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
+          "Como el servicio oficial y nuestro taller quedan a distancias parecidas, la decisión no depende de los kilómetros sino del trabajo: garantía de la marca, en la red oficial; mantenimiento y averías fuera de garantía, donde prefieras."
+        ]
+      },
+      {
+        "id": "itv-les-comes",
+        "h2": "La ITV, en Igualada",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Igualada (B12), en el carrer Països Baixos del polígono Les Comes, a 21,6 km. Hacia Igualada se va en dirección contraria a Barcelona, así que conviene no juntar ITV y taller el mismo día."
+        ]
+      },
+      {
+        "id": "piera-crece",
+        "h2": "Un 19,3 % más de población desde 2015",
+        "parrafos": [
+          "Piera pasó de 14.991 habitantes en 2015 a 17.880 en 2025. Su término mide 57,2 km² y en 2024 había 9.729 turismos según Idescat a partir de la DGT: 544 por cada 1.000 vecinos.",
+          "En un municipio extenso, con varios núcleos y la B-224 y la C-54 cerca, el coche es casi imprescindible. Los recorridos cortos entre urbanizaciones son los que menos le gustan a un diésel moderno: si el testigo del filtro de partículas se enciende a menudo, ese es el motivo más probable."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois taller autorizado BMW?",
+        "a": "No. El autorizado más cercano es Quadis Munich, en Terrassa, a 34,1 km. Dasercars es un especialista independiente."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Piera?",
+        "a": "La más próxima por carretera es la de Igualada (B12), en el polígono Les Comes, a 21,6 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "39 km por la B-224, la AP-7 y la B-23, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.880 habitantes (+19,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081614&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "9.729 · 544 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081614&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 21,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Terrassa) · 34,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 39 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081614&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

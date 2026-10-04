@@ -3,7 +3,7 @@
   "name": "Sant Celoni",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 16860,
+  "population": 18977,
   "lat": 41.68921,
   "lng": 2.48965,
   "metaTitle": "Especialistas BMW en Sant Celoni — Revisión y reparación con garantía",
@@ -178,5 +178,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Celoni: ITV en la carretera de Gualba y especialista BMW a 57,8 km",
+    "entradilla": "Sant Celoni tiene ITV propia; el servicio oficial BMW está en Granollers y el taller especialista de la red, en Sant Joan Despí. Si has buscado un «taller BMW Barcelona», esto es lo que hay de verdad y a cuántos kilómetros.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 57.8
+    },
+    "secciones": [
+      {
+        "id": "itv-gualba",
+        "h2": "La ITV la tienes en casa",
+        "parrafos": [
+          "El registro de estaciones de la Generalitat incluye una ITV dentro del municipio: la de Sant Celoni (B26), en la carretera de Gualba 41-43, que gestiona TÜV SÜD. Para inspeccionar el coche no hace falta salir del término."
+        ]
+      },
+      {
+        "id": "lo-que-no-es",
+        "h2": "Ni oficial ni en Barcelona: lo que somos",
+        "parrafos": [
+          "Dasercars es un taller independiente especializado en BMW y MINI, sin relación con la red oficial ni con talleres de cadena. Su nave de la provincia está en Sant Joan Despí, no en Barcelona ciudad.",
+          "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 26,6 km por la ruta más corta. Por la vía más rápida son unos 31,7. Para la garantía del fabricante, ese es el sitio."
+        ]
+      },
+      {
+        "id": "ap7-c33",
+        "h2": "Por la AP-7 y la C-33 hasta el Baix Llobregat",
+        "parrafos": [
+          "Desde el centro de Sant Celoni hasta el carrer del Tambor del Bruc hay 57,8 km por carretera: AP-7, C-33 y B-20. Sant Celoni no forma parte del Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
+          "Para que el viaje compense, que sea por algo que justifique un especialista: un ruido de cadena en un diésel, un fallo del sistema SCR con la cuenta atrás de AdBlue, un consumo de aceite que no cuadra."
+        ]
+      },
+      {
+        "id": "sant-celoni-cifras",
+        "h2": "65 km² de término y 8.710 turismos",
+        "parrafos": [
+          "Sant Celoni tenía 17.317 habitantes en 2015 y 18.977 en 2025, un 9,6 % más. Su término mide 65,23 km² y en 2024 había 8.710 turismos censados según Idescat a partir de la DGT, 459 por cada 1.000 vecinos. La C-35 y la AP-7 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en Sant Celoni?",
+        "a": "Sí: la estación B26, en la carretera de Gualba 41-43, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Sois servicio oficial BMW?",
+        "a": "No. Somos un taller independiente especializado. El servicio oficial más cercano es Pruna Motor, en Granollers, a 26,6 km."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 57,8 km, en Sant Joan Despí, por la AP-7, la C-33 y la B-20."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "18.977 habitantes (+9,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082021&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.710 · 459 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082021&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sant Celoni (B26), ctra. de Gualba 41-43",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 26,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 57,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082021&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

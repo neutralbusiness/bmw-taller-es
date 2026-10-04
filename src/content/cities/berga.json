@@ -3,7 +3,7 @@
   "name": "Berga",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 17160,
+  "population": 17473,
   "lat": 42.10429,
   "lng": 1.84628,
   "metaTitle": "BMW Berga — Tu taller especialista con precios de hasta -50%",
@@ -179,5 +179,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Berga: ITV en La Valldan y el taller especialista a 104,5 km",
+    "entradilla": "Berga, capital del Berguedà, tiene su propia ITV, pero el servicio oficial BMW más cercano está en el Bages y nuestro taller, a más de cien kilómetros. Sin rodeos: para qué te sirve y para qué no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 104.5
+    },
+    "secciones": [
+      {
+        "id": "itv-la-valldan",
+        "h2": "La ITV, en el polígono La Valldan",
+        "parrafos": [
+          "El registro de la Generalitat incluye una estación dentro del municipio: la de Berga (B13), en el camí de Sant Bartomeu, polígono industrial La Valldan, gestionada por TÜV Rheinland. Para la inspección no hace falta salir de la ciudad."
+        ]
+      },
+      {
+        "id": "bages",
+        "h2": "Lo oficial, a 43,3 km por la C-16",
+        "parrafos": [
+          "Según bmw.es, el servicio oficial BMW más próximo es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 43,3 km. Lo que cubre la garantía de BMW, allí."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "Cuándo merece la pena hacer 104,5 km",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc de Sant Joan Despí es casi toda la C-16 y, al final, la B-20: 104,5 km por carretera. Para un cambio de aceite no tiene sentido. Lo tiene para una avería concreta de BMW que no se ha resuelto en la comarca, un fallo intermitente que nadie encuentra o un segundo diagnóstico antes de aceptar una reparación cara.",
+          "Antes de coger el coche, llama con modelo, año, kilometraje y el síntoma. El presupuesto llega por escrito y no se toca nada sin tu aprobación, así que sabes a qué vas antes de salir."
+        ]
+      },
+      {
+        "id": "704-metros",
+        "h2": "704 metros y la batería",
+        "parrafos": [
+          "Berga está a 704 m de altitud. No es alta montaña, pero las mañanas frías de invierno descubren las baterías al límite. En un BMW, la batería nueva debe registrarse en la centralita; sin ese paso, el sistema la carga como si fuera la vieja.",
+          "Berga tenía 17.473 vecinos en 2025, un 7,6 % más que en 2015, y 8.965 turismos en 2024 según Idescat a partir de la DGT: 513 por cada 1.000 habitantes. La C-16, la C-26 y la C-17 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Berga?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 104,5 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Berga?",
+        "a": "En la estación B13, en el polígono La Valldan, dentro del municipio."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 43,3 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.473 habitantes (+7,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080229&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "704 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080229&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.965 · 513 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080229&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Berga (B13), polígono La Valldan",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 43,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080229&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

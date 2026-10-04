@@ -3,7 +3,7 @@
   "name": "Tordera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 15345,
+  "population": 19039,
   "lat": 41.69914,
   "lng": 2.71888,
   "metaTitle": "Taller especializado BMW en Tordera — Diagnóstico ISTA y recambio OE",
@@ -178,5 +178,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Talleres en Tordera: el especialista BMW queda a 75,8 km y lo oficial, hacia Girona",
+    "entradilla": "No tenemos taller en Tordera, y desde aquí casi todo lo relacionado con BMW mira hacia Girona, no hacia Barcelona. Te damos los kilómetros reales para que decidas qué te compensa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 75.8
+    },
+    "secciones": [
+      {
+        "id": "sin-taller-en-tordera",
+        "h2": "Lo que no encontrarás en Tordera",
+        "parrafos": [
+          "Si buscabas un taller dentro del municipio, esta página no lo es. El taller especialista de la red es Dasercars Barcelona, en Sant Joan Despí, a 75,8 km por la N-II, la C-32 y la B-20. Para un cambio de pastillas o unos neumáticos, un taller de la zona es la opción sensata.",
+          "El viaje tiene sentido para lo específico de BMW: un testigo que vuelve después de borrarlo, una avería electrónica sin diagnóstico claro o el mantenimiento de un diésel B47 o N47 por plan de marca. En ese caso, una llamada previa con modelo, año, kilometraje y síntoma ahorra kilómetros: a veces basta para saber si hay que bajar."
+        ]
+      },
+      {
+        "id": "salt-no-mataro",
+        "h2": "El servicio oficial más cercano está en Salt",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo a Tordera por carretera es Oliva Motor Girona, en el carrer de Lingen 9-11 de Salt: 34,8 km. Las reparaciones en garantía se resuelven allí, sin pasar por Barcelona."
+        ]
+      },
+      {
+        "id": "itv-blanes",
+        "h2": "La ITV, en Blanes",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 7,6 km del centro. Aquí la pre-ITV la hará quien te haga el mantenimiento habitual; no es motivo para un viaje largo."
+        ]
+      },
+      {
+        "id": "termino-grande",
+        "h2": "Casi 84 km² y un 15,9 % más de vecinos",
+        "parrafos": [
+          "Tordera tiene un término de 83,97 km², grande para el Maresme, y ha pasado de 16.433 habitantes en 2015 a 19.039 en 2025. Idescat, con datos de la DGT, contaba 9.684 turismos en 2024: 509 por cada 1.000 habitantes. La N-II, la C-32, la GI-512 y la GI-600 pasan a menos de tres kilómetros del centro.",
+          "En un término así, muchos coches hacen a diario trayectos cortos entre núcleos. Si el tuyo es diésel, vigila los avisos del filtro de partículas: es el tipo de uso que peor lleva."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Tordera?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 75,8 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Oliva Motor Girona, en Salt, a 34,8 km por carretera según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Blanes (G07), a 7,6 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "19.039 habitantes (+15,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082845&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "83,97 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082845&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "9.684 · 509 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082845&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Oliva Motor Girona (Salt) · 34,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Blanes (G07) · 7,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082845&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

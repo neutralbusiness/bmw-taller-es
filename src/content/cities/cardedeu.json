@@ -3,7 +3,7 @@
   "name": "Cardedeu",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 16596,
+  "population": 19046,
   "lat": 41.63976,
   "lng": 2.35739,
   "metaTitle": "Especialistas BMW en Cardedeu — Revisión y reparación con garantía",
@@ -178,5 +178,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Desde Cardedeu: taller especialista BMW para Barcelona, a 46,9 km por la AP-7",
+    "entradilla": "Quien busca un taller BMW «en Barcelona» desde Cardedeu suele acabar en el Baix Llobregat: el taller de la red está en Sant Joan Despí. Antes de hacer los 46,9 km, mira lo que tienes en Granollers.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 46.9
+    },
+    "secciones": [
+      {
+        "id": "barcelona-no-es-barcelona",
+        "h2": "«Taller BMW Barcelona» no es Barcelona ciudad",
+        "parrafos": [
+          "Dasercars Barcelona está en el carrer del Tambor del Bruc 3 de Sant Joan Despí, al otro lado de Barcelona viniendo desde el Vallès Oriental. Desde Cardedeu la ruta es BV-5103, AP-7, C-33 y B-20: 46,9 km por carretera y 39,1 en línea recta.",
+          "Abre de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00, sin sábados. Con ese viaje, lo razonable es dejar el coche por la mañana y volver por la tarde,; no compensa para un trabajo menor. La recogida solo cubre el Área Metropolitana de Barcelona y Cardedeu queda fuera."
+        ]
+      },
+      {
+        "id": "autorizado-en-granollers",
+        "h2": "Si buscas un taller autorizado",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 14 km por carretera. Para una reparación en garantía o un aviso del fabricante es el sitio. Dasercars es independiente: hace mantenimiento, diagnosis y reparación de BMW y MINI, pero no tramita la garantía de la marca."
+        ]
+      },
+      {
+        "id": "itv-el-congost",
+        "h2": "La ITV, en el polígono El Congost",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Granollers (B18), en la avinguda de Sant Julià, polígono El Congost: 13,5 km por la ruta más corta. Por la vía más rápida son algo más de 15.",
+          "Como la ITV y el servicio oficial quedan en la misma ciudad, un mismo viaje a Granollers puede resolver las dos cosas."
+        ]
+      },
+      {
+        "id": "cardedeu-cifras",
+        "h2": "Un municipio de 19.046 habitantes entre la AP-7 y la C-35",
+        "parrafos": [
+          "Cardedeu tenía 19.046 vecinos en 2025, un 6,2 % más que en 2015, y 9.182 turismos en 2024 (Idescat, a partir de la DGT): 482 por cada 1.000 habitantes. La AP-7, la C-35 y la C-251 pasan a menos de tres kilómetros del centro, así que el coche puede alternar ciudad y vía rápida sin desvíos, algo que agradecen los diésel con filtro de partículas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Barcelona ciudad?",
+        "a": "No. El taller de la red para la provincia está en Sant Joan Despí, a 46,9 km de Cardedeu."
+      },
+      {
+        "q": "¿Cuál es el taller autorizado BMW más cercano a Cardedeu?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 14 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Granollers (B18), en el polígono El Congost, a 13,5 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "19.046 habitantes (+6,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080462&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "9.182 · 482 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080462&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 14 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 13,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 46,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080462&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "Sant Quirze del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 18462,
+  "population": 20209,
   "lat": 41.53333,
   "lng": 2.08333,
   "metaTitle": "Taller especializado BMW en Sant Quirze del Vallès — Diagnóstico ISTA y recambio OE",
@@ -180,5 +180,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Quirze del Vallès: dos puntos BMW en Sabadell y el especialista a 27,5 km",
+    "entradilla": "A menos de cuatro kilómetros de Sant Quirze tienes dos puntos de servicio oficial BMW, los dos en Sabadell. El taller especialista independiente de la red está más lejos, en Sant Joan Despí. Qué hace cada uno y cuándo te conviene uno u otro.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 27.5
+    },
+    "secciones": [
+      {
+        "id": "que-es-un-especialista",
+        "h2": "Qué quiere decir «taller especializado» aquí",
+        "parrafos": [
+          "Dasercars no es un taller multimarca que de vez en cuando ve un BMW: trabaja BMW y MINI, con especialidad en los diésel N47, N57, M47, M57, B47 y B57, y está homologado en REDISTA para escape y gases. No es servicio oficial ni lo pretende.",
+          "La diferencia con el concesionario es de papel, no de oficio: el servicio oficial tramita la garantía del fabricante y las llamadas a revisión; el especialista independiente hace mantenimiento, diagnosis y reparaciones con el mismo plan de marca, y la diagnosis se presupuesta antes de conectar el equipo."
+        ]
+      },
+      {
+        "id": "sabadell-a-tres-km",
+        "h2": "Sitjas y Quadis Munich, los dos en Sabadell",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo al centro de Sant Quirze es Sitjas Motor, taller autorizado en la calle Quintana 64 de Sabadell, a 2,4 km por carretera. Quadis Munich, también en Sabadell, queda a 3,2 km: prácticamente lo mismo.",
+          "Si BMW te ha escrito por una campaña de revisión, esa cita es con uno de ellos: las campañas del fabricante no salen de la red oficial."
+        ]
+      },
+      {
+        "id": "c16-b20",
+        "h2": "Hasta Sant Joan Despí por la C-16",
+        "parrafos": [
+          "La ruta más corta sale por la C-1413a, enlaza con la C-16 y termina por la B-20 hasta el carrer del Tambor del Bruc: 27,5 km por carretera, 18,7 en línea recta. Sant Quirze no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no llega; el coche lo traes tú.",
+          "A cambio, la C-58 pasa a medio kilómetro del centro. Un diésel que aquí solo hace recados por el pueblo tiene a mano la autopista para completar de vez en cuando la regeneración del filtro de partículas."
+        ]
+      },
+      {
+        "id": "itv-can-roqueta",
+        "h2": "La ITV, en Can Roqueta",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sabadell (B24), en el polígono Can Roqueta, a 6,4 km. Sant Quirze tenía 20.209 vecinos en 2025 y 10.708 turismos en 2024 según Idescat a partir de la DGT: 530 por cada 1.000 habitantes, muy por encima de los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el taller autorizado BMW de Sabadell?",
+        "a": "No. Los puntos oficiales cercanos son Sitjas Motor y Quadis Munich, en Sabadell. Dasercars es un taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "27,5 km por la C-16 y la B-20."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Quirze?",
+        "a": "No: la recogida solo cubre el Área Metropolitana de Barcelona, y Sant Quirze queda fuera."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Sabadell (B24), en Can Roqueta, a 6,4 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "20.209 habitantes (+3,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082384&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "10.708 · 530 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082384&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Sitjas Motor (Sabadell) · 2,4 km; Quadis Munich · 3,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 6,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 27,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082384&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "San Lorenzo de El Escorial",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 17889,
+  "population": 18872,
   "lat": 40.59144,
   "lng": -4.14738,
   "metaTitle": "Taller BMW en San Lorenzo de El Escorial | Sierra de Guadarrama",
@@ -170,5 +170,130 @@
     "A-6 hacia Madrid",
     "M-600 hacia Guadarrama",
     "M-505 hacia Valdemorillo"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "San Lorenzo de El Escorial: concesionario BMW en Las Rozas, especialista en Alcobendas",
+    "entradilla": "A más de mil metros de altitud y sin concesionario BMW en el municipio, lo oficial más cercano está en Las Rozas. Nosotros no somos ese concesionario: somos el taller especialista independiente de Alcobendas, a 56,1 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 56.1
+    },
+    "secciones": [
+      {
+        "id": "concesionario-mas-cercano",
+        "h2": "El concesionario que buscas está en la A-6",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la A-6, km 23,100, en Las Rozas: 28,5 km por la ruta más corta. Por la vía más rápida son unos 33,9.",
+          "Ese es el sitio para lo que cubre la garantía. Para el mantenimiento, el Reglamento (UE) 461/2010 deja elegir taller: puedes revisar el coche en un independiente sin perder la garantía mientras se siga el plan del fabricante."
+        ]
+      },
+      {
+        "id": "a-1047-metros",
+        "h2": "Un BMW a 1.047 metros",
+        "parrafos": [
+          "El centro urbano está a 1.047 m de altitud. Con las heladas, lo primero que falla es una batería cansada, y en un BMW con arranque y parada automático trabaja más que en un coche sencillo; cuando se cambia, hay que registrarla en la centralita para que el sistema de carga la trate como nueva.",
+          "Las bajadas largas hacia la A-6 castigan los frenos. El líquido absorbe humedad con el tiempo y pierde punto de ebullición, así que se cambia por fecha, no por kilómetros."
+        ]
+      },
+      {
+        "id": "ruta-y-recogida",
+        "h2": "56 kilómetros hasta la calle Valgrande",
+        "parrafos": [
+          "La ruta baja por la M-505 hasta la A-6, toma la M-40 y sale por la A-1 hasta Alcobendas: 56,1 km por carretera, 42,4 en línea recta. La recogida y el vehículo de cortesía, sujetos a disponibilidad, se ofrecen dentro del área metropolitana de Madrid: pregunta antes si tu dirección entra, no lo des por hecho."
+        ]
+      },
+      {
+        "id": "itv-collado-villalba",
+        "h2": "Dos ITV en Collado Villalba, casi a la misma distancia",
+        "parrafos": [
+          "En el listado de la Comunidad de Madrid, las estaciones más cercanas por carretera están en Collado Villalba: la de ITV P-29 (estación 2883), en la calle Buril 10, a 18,1 km, y la de TÜV SÜD ATISAE (estación 2813), a 18,3. Elige por horario.",
+          "San Lorenzo tenía 18.872 vecinos en 2025 y 9.121 turismos censados ese año: 483 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de la zona?",
+        "a": "No. El servicio oficial más cercano es Movilnorte, en la A-6, km 23,100, en Las Rozas. Dasercars es un taller independiente en Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Collado Villalba: la estación 2883, en la calle Buril 10, a 18,1 km, o la 2813, a 18,3."
+      },
+      {
+        "q": "¿Hace falta registrar la batería nueva?",
+        "a": "Sí. Sin registrarla, la centralita la carga como si fuera la vieja y dura menos."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "18.872 habitantes (+3,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "9.121 · 483 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "1.047 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercanas",
+        "valor": "Collado Villalba (2883 y 2813) · 18,1 y 18,3 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Las Rozas) · 28,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 56,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

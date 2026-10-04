@@ -3,7 +3,7 @@
   "name": "Malgrat de Mar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 18472,
+  "population": 19714,
   "lat": 41.64662,
   "lng": 2.74135,
   "metaTitle": "Especialistas BMW en Malgrat de Mar — Revisión y reparación con garantía",
@@ -178,5 +178,134 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Malgrat de Mar: un BMW a 1,3 km del mar y a 73 km del taller especialista",
+    "entradilla": "En el extremo norte del Maresme, la ITV te queda en Blanes y el servicio oficial BMW más próximo está en Mataró. El taller de la red, en Sant Joan Despí, está a 73,1 km. Lo que conviene saber antes de decidir.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 73.1
+    },
+    "secciones": [
+      {
+        "id": "mar-al-lado",
+        "h2": "Con la costa a 1,3 km del centro",
+        "parrafos": [
+          "El centro de Malgrat queda a 1,3 km de la línea de costa. La humedad salina trabaja despacio, pero trabaja: primero en lo que va por debajo del coche (soportes del escape, anclajes, tornillería de la suspensión), después en los discos de freno de un coche que pasa semanas aparcado y, con los años, en los conectores eléctricos expuestos.",
+          "Un manguerazo con agua dulce a los bajos al acabar el verano y mirar frenos tras un periodo largo sin mover el coche evitan buena parte de esas averías. Si el BMW tiene un fallo eléctrico que aparece y desaparece, en un coche de costa los conectores son sospechosos antes que las centralitas."
+        ]
+      },
+      {
+        "id": "blanes-y-mataro",
+        "h2": "ITV en Blanes, servicio oficial en Mataró",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 5,5 km. Para la inspección no hace falta ir hacia Barcelona.",
+          "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la Via Sergia 2 de Mataró, a 35,9 km. Allí van las reparaciones en garantía; las revisiones puedes hacerlas en un taller independiente sin perderla siempre que se respete el plan de mantenimiento, como establece el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "n-ii-c-32",
+        "h2": "73 kilómetros por la N-II y la C-32",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc de Sant Joan Despí sale por la N-II, sigue por la C-32 a lo largo de la costa y entra por la B-20: 73,1 km por carretera. Malgrat no está en el Área Metropolitana de Barcelona y la recogida del taller no llega aquí.",
+          "Con esa distancia, el viaje se justifica para lo que es propio de BMW y no ha tenido arreglo cerca: un diésel N47 o N57 con ruido de distribución, un fallo de AdBlue o una diagnosis que no termina de cerrar."
+        ]
+      },
+      {
+        "id": "malgrat-cifras",
+        "h2": "19.714 vecinos en 8,8 km²",
+        "parrafos": [
+          "Malgrat tenía 18.371 habitantes en 2015 y 19.714 en 2025, un 7,3 % más, en un término de solo 8,82 km². Idescat, a partir de la DGT, contaba 8.458 turismos en 2024: 429 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Malgrat?",
+        "a": "La estación más próxima por carretera es la de Blanes (G07), en la avinguda de l'Estació 47, a 5,5 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 35,9 km según bmw.es."
+      },
+      {
+        "q": "¿Afecta el mar a mi BMW?",
+        "a": "Acelera la corrosión de bajos y anclajes, el óxido en discos de un coche parado y la sulfatación de conectores."
+      },
+      {
+        "q": "¿Pasáis a recoger el coche?",
+        "a": "No: la recogida del taller solo cubre el Área Metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "19.714 habitantes (+7,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081108&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.458 · 429 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081108&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 1,3 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Blanes (G07) · 5,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 73,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081108&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

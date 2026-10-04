@@ -3,7 +3,7 @@
   "name": "El Escorial",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 15842,
+  "population": 17171,
   "lat": 40.58254,
   "lng": -4.12846,
   "metaTitle": "Taller BMW en El Escorial | Diagnosis oficial y garantía",
@@ -180,5 +180,129 @@
     "M-600 hacia Guadarrama",
     "M-505 hacia Valdemorillo",
     "A-6 hacia Madrid"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW para El Escorial: especialista independiente en Alcobendas, a 53,7 km",
+    "entradilla": "Desde El Escorial se busca mucho «taller BMW Madrid» y lo oficial de la marca. Nosotros somos lo primero, pero no lo segundo: somos el taller especialista independiente de Alcobendas. Aquí tienes también lo oficial y la ITV.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 53.7
+    },
+    "secciones": [
+      {
+        "id": "oficial-o-no",
+        "h2": "No somos servicio oficial, y lo decimos",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Movilnorte, en la A-6, km 23,100, en Las Rozas: 26,1 km por carretera. Las campañas que convoca el fabricante se hacen allí, igual que las reparaciones que paga la garantía de BMW.",
+          "Dasercars es un taller independiente especializado en BMW y MINI. Mantenimiento, diagnosis y reparaciones sí; garantía de fábrica, no."
+        ]
+      },
+      {
+        "id": "m505-a6",
+        "h2": "Por la M-505 y la A-6 hasta Alcobendas",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 baja por la M-505 a la A-6, sigue por la M-40 y entra por la A-1: 53,7 km por carretera, 40,6 en línea recta. La recogida y el vehículo de cortesía, ambos sujetos a disponibilidad, están pensados para el área metropolitana de Madrid; pregunta al reservar si alcanzan a tu dirección."
+        ]
+      },
+      {
+        "id": "tres-itv-villalba",
+        "h2": "Tres ITV en Collado Villalba, a unos 18 km",
+        "parrafos": [
+          "En el listado de la Comunidad de Madrid, las tres estaciones más próximas por carretera están en Collado Villalba y a distancias casi idénticas: la de Itevelesa (estación 2832), en la A-6, km 37,6, a 18 km; la de ITV P-29 (2883), a 18,2, y la de TÜV SÜD ATISAE (2813), a 18,3. Escoge la que tenga mejor cita."
+        ]
+      },
+      {
+        "id": "sierra-y-coche",
+        "h2": "918 metros y 579 coches por cada mil vecinos",
+        "parrafos": [
+          "El centro de El Escorial está a 918 m de altitud y el término mide 68,5 km². En 2025 tenía 17.171 vecinos, un 11,9 % más que en 2015, y 9.948 turismos censados: 579 por cada 1.000 habitantes, frente a 388 en Madrid capital.",
+          "Entre el frío del invierno y las cuestas, frenos y batería son lo que más trabaja. El líquido de frenos se cambia por tiempo porque absorbe humedad aunque el coche ruede poco."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois servicio oficial BMW?",
+        "a": "No. El servicio oficial más cercano es Movilnorte, en Las Rozas, a 26,1 km. Dasercars es un especialista independiente en Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde El Escorial?",
+        "a": "En cualquiera de las tres estaciones de Collado Villalba, todas a unos 18 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "53,7 km por la M-505, la A-6, la M-40 y la A-1."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.171 habitantes (+11,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "9.948 · 579 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "918 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercanas",
+        "valor": "Collado Villalba (2832, 2883, 2813) · unos 18 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Las Rozas) · 26,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 53,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

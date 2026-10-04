@@ -3,7 +3,7 @@
   "name": "Parets del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 17632,
+  "population": 18885,
   "lat": 41.57481,
   "lng": 2.23306,
   "metaTitle": "BMW Parets del Vallès — Tu taller especialista con precios de hasta -50%",
@@ -180,5 +180,127 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Parets del Vallès: Granollers a 5 km para lo oficial, Sant Joan Despí para el especialista",
+    "entradilla": "Desde Parets, la ITV y el servicio oficial BMW están a menos de cinco kilómetros, los dos en Granollers. El taller especialista de la red queda a 33,2 km. Cómo repartir el trabajo entre unos y otro.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 33.2
+    },
+    "secciones": [
+      {
+        "id": "granollers-al-lado",
+        "h2": "Todo lo oficial, a un paso",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Pruna Motor, en la carretera C-17, km 19,060, en Granollers: 4,2 km por carretera. La ITV más cercana en el registro de la Generalitat, también en Granollers: la estación B18, en el polígono El Congost, a 4,9 km.",
+          "Con las dos cosas tan cerca, no tiene sentido cruzar Barcelona para una inspección o para una reparación en garantía."
+        ]
+      },
+      {
+        "id": "donde-encaja-el-especialista",
+        "h2": "Dónde encaja un taller independiente",
+        "parrafos": [
+          "En el mantenimiento y en las averías fuera de garantía. El Reglamento (UE) 461/2010 permite revisar el coche fuera de la red oficial sin perder la garantía, con una condición: respetar los intervalos y especificaciones del plan de mantenimiento, con aceite y recambios de la homologación correcta.",
+          "Dasercars Barcelona está en Sant Joan Despí, a 33,2 km por la BV-1604, la C-17, la C-33 y la B-20 (27,2 en línea recta). Parets no pertenece al Área Metropolitana de Barcelona, así que la recogida del taller no cubre el municipio."
+        ]
+      },
+      {
+        "id": "parets-cifras",
+        "h2": "La misma población que hace diez años, más de un coche por cada dos vecinos",
+        "parrafos": [
+          "Parets tenía 18.901 habitantes en 2015 y 18.885 en 2025: prácticamente igual. Lo que sí destaca es el parque: 10.255 turismos en 2024 según Idescat a partir de la DGT, 543 por cada 1.000 habitantes, frente a los 281 de Barcelona ciudad.",
+          "Con la C-17, la C-33, la C-35 y la AP-7 a menos de tres kilómetros, muchos de esos coches hacen vía rápida a diario. Es buen uso para un diésel, pero exige vigilar neumáticos y frenos con más frecuencia que el indicador de servicio."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Parets?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 4,2 km."
+      },
+      {
+        "q": "¿Pierdo la garantía si hago las revisiones fuera del concesionario?",
+        "a": "No, si se respeta el plan de mantenimiento del fabricante."
+      },
+      {
+        "q": "¿Recogéis el coche en Parets?",
+        "a": "No: la recogida del taller cubre solo el Área Metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Granollers (B18), en el polígono El Congost, a 4,9 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "18.885 habitantes (−0,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081593&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "10.255 · 543 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081593&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 4,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 4,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 33,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081593&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
