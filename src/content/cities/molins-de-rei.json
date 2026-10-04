@@ -3,11 +3,11 @@
   "name": "Molins de Rei",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 24067,
+  "population": 27300,
   "lat": 41.41667,
   "lng": 2.01667,
   "metaTitle": "Taller BMW en Molins de Rei | Especialistas en N47, Vanos y más",
-  "metaDescription": "Tu taller especialista BMW en Molins de Rei. Presupuestos cerrados para revisiones CBS, cadena N47/B47 y averías complejas. Ahorra hasta un 50 %.",
+  "metaDescription": "Molins de Rei: 9,6 km por la B-23 hasta el taller especialista BMW y MINI de Sant Joan Despí. Servicio oficial, ITV y recogida en el área metropolitana.",
   "heroSubtitle": "Tu BMW ha pasado los 150.000 km y no quieres sorpresas en la A-2. Cuidamos de él como si fuera nuestro, sin la factura del concesionario.",
   "trustChips": [
     {
@@ -187,5 +187,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Molins de Rei: 9,6 km por la B-23 hasta el taller especialista BMW",
+    "entradilla": "La B-23 pasa a medio kilómetro del centro de Molins de Rei y deja casi en la puerta de nuestro taller de Sant Joan Despí. Aquí va lo práctico: distancias, servicio oficial, ITV y lo que suele pedir un coche que hace pocos kilómetros.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 9.6
+    },
+    "secciones": [
+      {
+        "id": "b23-directa",
+        "h2": "Una sola carretera hasta el Tambor del Bruc",
+        "parrafos": [
+          "Entre Molins de Rei y Dasercars Barcelona hay 9,6 km por carretera, 6,5 en línea recta, y prácticamente todo por la B-23. El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00.",
+          "Molins forma parte del Área Metropolitana de Barcelona, así que, si no puedes acercar el coche, pide la recogida y entrega al reservar: existe, pero está sujeta a disponibilidad."
+        ]
+      },
+      {
+        "id": "pocos-kilometros",
+        "h2": "Si el coche apenas sale del pueblo",
+        "parrafos": [
+          "Si tu BMW hace sobre todo trayectos cortos, el desgaste es más traicionero que el de la autopista: el aceite no alcanza su temperatura el tiempo suficiente y acumula condensación, la batería no llega a recuperarse de cada arranque y, en los diésel, el filtro de partículas se llena sin completar la regeneración.",
+          "Tres hábitos ayudan: cambiar el aceite por tiempo aunque no se agote el intervalo de kilómetros, sacar el coche a la B-23 o a la A-2 de vez en cuando a velocidad sostenida y vigilar la batería antes del invierno."
+        ]
+      },
+      {
+        "id": "sant-boi-y-sant-just",
+        "h2": "Servicio oficial e ITV, a poco más de 10 km",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto de servicio oficial BMW más próximo es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 11,7 km por carretera: más lejos que nuestro taller. La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Just Desvern (B05), en la avinguda de la Riera, a 10,9 km."
+        ]
+      },
+      {
+        "id": "molins-crece",
+        "h2": "27.300 vecinos, un 8,5 % más que en 2015",
+        "parrafos": [
+          "Molins de Rei tenía 25.155 habitantes en 2015 y 27.300 en 2025 según el padrón, en un término de 15,94 km². En 2024 había 11.771 turismos censados (Idescat, a partir de la DGT): 431 por cada 1.000 habitantes. A menos de tres kilómetros del centro pasan, además de la B-23, la C-1413a, la N-340, la A-2 y la B-24."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto hay desde Molins de Rei hasta vuestro taller?",
+        "a": "9,6 km por carretera, casi todo por la B-23, hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Molins?",
+        "a": "Sí, dentro del área metropolitana de Barcelona hay recogida y entrega, sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Por qué cambiar el aceite por tiempo si hago pocos kilómetros?",
+        "a": "Porque en trayectos cortos acumula humedad y restos de combustible y se degrada aunque el cuentakilómetros apenas avance."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "27.300 habitantes (+8,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081234&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "11.771 · 431 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081234&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 9,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Boi · 11,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 10,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081234&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

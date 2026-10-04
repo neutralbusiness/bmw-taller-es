@@ -3,11 +3,11 @@
   "name": "Villalbilla",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 13421,
+  "population": 18687,
   "lat": 40.44976,
   "lng": -3.34517,
   "metaTitle": "Taller BMW en Villalbilla | Diagnosis ISTA, cerca de Alcalá",
-  "metaDescription": "Taller BMW especializado en Villalbilla, junto a Alcalá de Henares. Diagnosis ISTA, mantenimiento y reparación de averías comunes. Presupuesto claro.",
+  "metaDescription": "Villalbilla: ITV a 3,9 km en La Garena, servicio oficial BMW en Alcalá de Henares y taller especialista independiente en Alcobendas, a 35,7 km.",
   "heroSubtitle": "Taller BMW en Villalbilla, corredor del Henares",
   "trustChips": [
     {
@@ -169,5 +169,125 @@
     "A-2",
     "M-300",
     "R-2"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Villalbilla, un 51,3 % más grande que en 2015: tu BMW entre Alcalá y Alcobendas",
+    "entradilla": "Villalbilla ha pasado de 12.351 a 18.687 habitantes entre 2015 y 2025. Para quien tiene un BMW o un MINI aquí, lo útil a diario está en Alcalá de Henares, a menos de ocho kilómetros, y el taller especialista de la red, en Alcobendas, a 35,7 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 35.7
+    },
+    "secciones": [
+      {
+        "id": "itv-la-garena",
+        "h2": "La ITV, a 3,9 km en La Garena",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena de Alcalá de Henares: 3,9 km según el listado de la Comunidad de Madrid.",
+          "A esa distancia, lo cómodo es hacer una pre-ITV en el taller cuando el coche vaya por otra cosa y pasar la inspección esa misma semana."
+        ]
+      },
+      {
+        "id": "autopremier-complutense",
+        "h2": "Servicio oficial en la Vía Complutense",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 7,7 km por carretera. Si tu coche está en garantía y la avería la cubre BMW, ese es tu sitio."
+        ]
+      },
+      {
+        "id": "m300-r2",
+        "h2": "35,7 km por la M-300, la M-100 y la R-2",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-300, sigue por la M-100, toma la R-2 y entra por la M-50: 35,7 km por carretera, 27,2 en línea recta. Si el trabajo va a durar más de un día, pregunta al reservar por el vehículo de cortesía, que está sujeto a disponibilidad.",
+          "La M-300, a 2,6 km, es la única carretera con número a menos de tres kilómetros del centro, así que los primeros kilómetros de cada salida suelen ser urbanos. Un motor frío al que se le exige pronto sufre más que uno que ya ha cogido temperatura: deja que el aceite se caliente antes de pisar a fondo, sobre todo en invierno, a 687 metros de altitud."
+        ]
+      },
+      {
+        "id": "villalbilla-crece",
+        "h2": "596 turismos por cada mil vecinos",
+        "parrafos": [
+          "El padrón da 18.687 habitantes en 2025, un 51,3 % más que en 2015, en un término de 34,3 km². La Comunidad de Madrid, con datos de la DGT, contaba 11.136 turismos en 2025: 596 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Villalbilla?",
+        "a": "La estación oficial más próxima por carretera es la de TÜV SÜD ATISAE (2878), en La Garena de Alcalá de Henares, a 3,9 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 7,7 km."
+      },
+      {
+        "q": "¿Dónde está vuestro taller?",
+        "a": "En Alcobendas, en la calle Valgrande 17, a 35,7 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "18.687 habitantes (+51,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "11.136 · 596 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "687 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE (2878), Alcalá de Henares · 3,9 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 7,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 35,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

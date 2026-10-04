@@ -3,11 +3,11 @@
   "name": "Sant Pere de Ribes",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 28353,
+  "population": 32705,
   "lat": 41.26045,
   "lng": 1.77391,
   "metaTitle": "Taller BMW Sant Pere de Ribes — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Sant Pere de Ribes. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "BMW en Sant Pere de Ribes: servicio oficial e ITV en Vilanova i la Geltrú y taller especialista independiente a 34 km por la C-32. Cuándo compensa el viaje.",
   "heroSubtitle": "Mantén tu BMW en Sant Pere de Ribes con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -178,5 +178,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Pere de Ribes: BMW cerca del mar y especialista a 34 km por la C-32",
+    "entradilla": "Con el servicio oficial y la ITV a un paso, en Vilanova i la Geltrú, la pregunta en Sant Pere de Ribes no es dónde hay un taller, sino cuándo merece la pena uno especializado en BMW. El nuestro está en Sant Joan Despí, a 34 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 34.0
+    },
+    "secciones": [
+      {
+        "id": "vilanova-a-mano",
+        "h2": "Lo oficial y la inspección, en Vilanova i la Geltrú",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 6 km por carretera. En la misma ciudad está la ITV que el registro de la Generalitat da como más cercana por carretera: Vilanova (B17), de Applus, en la Ronda Europa, a 7 km.",
+          "Tenerlo todo en el municipio vecino simplifica la rutina: la inspección y lo que dependa de la marca se resuelven sin salir del Garraf."
+        ]
+      },
+      {
+        "id": "c32-garraf",
+        "h2": "34 kilómetros por la C-32 y la B-25",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona sigue la C-32 hacia Barcelona y entra por la B-25 en el Baix Llobregat: 34 km por carretera y 26,5 en línea recta. Sant Pere de Ribes no pertenece al Área Metropolitana de Barcelona y la recogida del taller no llega hasta aquí; el coche lo traes tú.",
+          "Ese trayecto compensa para lo que exige conocer la marca a fondo: una distribución que suena en un N47, el sistema de AdBlue que entra en cuenta atrás, un fallo eléctrico intermitente. Un cambio de pastillas, en cambio, no justifica el viaje."
+        ]
+      },
+      {
+        "id": "a-tres-km-del-mar",
+        "h2": "A 3,6 km de la costa: frenos y bajos",
+        "parrafos": [
+          "El centro del municipio queda a unos 3,6 km del mar. No es primera línea, pero el aire húmedo y salino llega. El efecto más visible está en los discos de freno de un coche que pasa varios días parado: aparece una capa de óxido que se va en las primeras frenadas o, si se repite mucho, deja marcas y vibración. Menos visible es lo de abajo: soportes de escape, anclajes y tornillería envejecen antes.",
+          "Si el coche duerme en la calle, merece la pena mirar los bajos una vez al año y, ante un testigo eléctrico que aparece y desaparece, empezar por conectores y masas."
+        ]
+      },
+      {
+        "id": "ribes-en-cifras",
+        "h2": "Un 10,2 % más de vecinos que en 2015",
+        "parrafos": [
+          "El padrón pasó de 29.666 habitantes en 2015 a 32.705 en 2025, en un término de 40,8 km². Idescat, con datos de la DGT, contaba 13.853 turismos en 2024, 424 por cada 1.000 habitantes. La C-32 pasa a 1,4 km del centro y la C-31, a 2,5."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Sant Pere de Ribes?",
+        "a": "Quadis Munich, en Vilanova i la Geltrú, a 6 km por carretera según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Pere de Ribes?",
+        "a": "No. La recogida del taller solo cubre el área metropolitana de Barcelona, y el Garraf queda fuera."
+      },
+      {
+        "q": "¿Qué conviene revisar en un coche que vive cerca del mar?",
+        "a": "Los discos de freno si pasa días parado, los bajos y los anclajes del escape, y los conectores ante cualquier fallo eléctrico intermitente."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "32.705 habitantes (+10,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Garraf",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082310&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "13.853 · 424 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082310&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 3,6 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Vilanova (B17) · 7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082310&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

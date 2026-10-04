@@ -3,11 +3,11 @@
   "name": "Vilassar de Mar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 20764,
+  "population": 21227,
   "lat": 41.50507,
   "lng": 2.39227,
   "metaTitle": "BMW Vilassar de Mar — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "Tu taller BMW de confianza en Vilassar de Mar. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "metaDescription": "Vilassar de Mar: servicio oficial BMW e ITV a unos 5 km y taller especialista a 42,1 km. Qué averías justifican el viaje y cuáles se resuelven cerca.",
   "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Vilassar de Mar, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
@@ -179,5 +179,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vilassar de Mar: oficial e ITV a 5 km, especialista BMW a 42,1 km",
+    "entradilla": "Si vives en Vilassar de Mar, el servicio oficial BMW y la ITV te quedan a unos cinco kilómetros, en Mataró y Argentona. Nuestro taller está a 42,1 km, en Sant Joan Despí. Preferimos ayudarte a decidir antes que venderte un viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 42.1
+    },
+    "secciones": [
+      {
+        "id": "mataro-y-argentona",
+        "h2": "Mataró y Argentona, a un paso",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial más próximo es Pruna Motor, en la Via Sergia 2 de Mataró, a 4,8 km por carretera. La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), de Applus, en el polígono El Cros, a 5,4 km."
+        ]
+      },
+      {
+        "id": "que-justifica-el-viaje",
+        "h2": "Qué justifica 42 kilómetros y qué no",
+        "parrafos": [
+          "La ruta, por la C-32, la B-20 y la B-23, suma 42,1 km. Antes de hacerla, llama con el modelo, el año, los kilómetros y el síntoma: muchas veces se puede orientar el problema por teléfono y decidir si conviene bajar. Vilassar de Mar no está en el Área Metropolitana de Barcelona, que es lo que cubre la recogida del taller, así que el coche lo traes tú."
+        ],
+        "lista": [
+          "Sí: una avería eléctrica que ha vuelto después de repararla.",
+          "Sí: el aviso de AdBlue con cuenta atrás o un fallo del SCR sin diagnóstico claro.",
+          "Sí: ruido de distribución en un diésel N47, N57 o B47.",
+          "No: neumáticos, escobillas, una lámpara o una revisión sencilla.",
+          "No: lo que cubra la garantía de BMW, que va a la red oficial."
+        ]
+      },
+      {
+        "id": "medio-kilometro-de-playa",
+        "h2": "A medio kilómetro de la playa",
+        "parrafos": [
+          "El centro de Vilassar de Mar está a 0,5 km de la costa, y la N-II lo recorre a 0,3 km. En un coche que vive aquí, lo que más acusa el ambiente salino es lo que no se ve: la tornillería de los bajos, los tubos de freno, los soportes del escape. Al cambiar neumáticos o pastillas es buen momento para que alguien eche un vistazo con el coche elevado."
+        ]
+      },
+      {
+        "id": "vilassar-en-cifras",
+        "h2": "21.227 vecinos en 4 km²",
+        "parrafos": [
+          "Vilassar de Mar tenía 21.227 habitantes en el padrón de 2025, frente a 20.447 en 2015 (un 3,8 % más). En 2024 había 9.638 turismos según Idescat a partir de la DGT, 454 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Vilassar de Mar?",
+        "a": "La estación más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), a 5,4 km."
+      },
+      {
+        "q": "¿Merece la pena llevar el coche hasta Sant Joan Despí?",
+        "a": "Para una avería específica de BMW que no se ha resuelto cerca, sí; para mantenimiento sencillo, no."
+      },
+      {
+        "q": "¿Recogéis el coche en Vilassar?",
+        "a": "No: la recogida cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "21.227 habitantes (+3,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082191&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "9.638 · 454 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082191&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Argentona (B08) · 5,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 4,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 42,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082191&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
