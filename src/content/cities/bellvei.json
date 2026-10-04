@@ -7,7 +7,7 @@
   "lat": 41.23638,
   "lng": 1.57155,
   "metaTitle": "Taller BMW en Bellvei | Baix Penedès",
-  "metaDescription": "Taller especializado BMW cerca de Bellvei, entre el Vendrell y Calafell. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio.",
+  "metaDescription": "BMW en Bellvei: ITV del Baix Penedès en el propio municipio, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 58,6 km.",
   "heroSubtitle": "El taller BMW de confianza para quienes viven entre el Vendrell y la costa del Baix Penedès.",
   "trustChips": [
     {
@@ -171,5 +171,126 @@
     "AP-7",
     "C-51",
     "N-340"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Bellvei: la ITV del Baix Penedès en casa y el taller BMW a 58,6 km",
+    "entradilla": "En el polígono Els Massets de Bellvei está la estación de ITV que usan buena parte de los pueblos de alrededor. El taller especialista de la red queda en Sant Joan Despí; aquí tienes la ruta y lo que conviene saber.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 58.6
+    },
+    "secciones": [
+      {
+        "id": "itv-propia",
+        "h2": "La estación T07, dentro del término",
+        "parrafos": [
+          "El registro de estaciones de la Generalitat sitúa la ITV del Baix Penedès (T07) en el polígono industrial Els Massets, en el propio municipio. Es la más próxima por carretera también para Albinyana y para El Vendrell.",
+          "Tenerla tan cerca simplifica las cosas: si la inspección sale desfavorable por algo menor, volver no cuesta nada. Lo que conviene es no llevar el coche con testigos encendidos en el cuadro."
+        ]
+      },
+      {
+        "id": "n340",
+        "h2": "La N-340 cruza el pueblo",
+        "parrafos": [
+          "La N-340 pasa a 0,1 km del centro y la TV-2126 a 0,5 km; en un radio de tres kilómetros están también la TP-2125, la C-51 y la C-31. La costa queda a unos 5,2 km.",
+          "Con tanta carretera alrededor, es fácil dar a un diésel recorridos largos que ayudan a mantener limpio el filtro de partículas. Lo que sí castiga el uso diario por travesías y rotondas es el embrague y los frenos."
+        ]
+      },
+      {
+        "id": "ruta-c32",
+        "h2": "58,6 km por la C-32",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona se va por la TV-2126, la C-32 y la B-25: 58,6 km por carretera, 43,6 en línea recta. Bellvei no está en el área metropolitana y la recogida del taller no llega aquí.",
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en l'avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 23,1 km."
+        ]
+      },
+      {
+        "id": "bellvei-cifras",
+        "h2": "604 turismos por cada mil habitantes",
+        "parrafos": [
+          "Bellvei tenía 2.460 vecinos en 2025, un 12,6 % más que en 2015, en un término de 8,27 km². Idescat, con datos de la DGT, registraba 1.486 turismos en 2024."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en Bellvei?",
+        "a": "Sí: la estación del Baix Penedès (T07), en el polígono Els Massets, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "58,6 km por la C-32 y la B-25, hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Vilanova i la Geltrú, a 23,1 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.460 habitantes (+12,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430249&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.486 · 604 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430249&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Baix Penedès (T07), polígono Els Massets",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 23,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 58,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=430249&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

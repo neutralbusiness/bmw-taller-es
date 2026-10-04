@@ -3,11 +3,11 @@
   "name": "Sant Llorenç Savall",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2417,
+  "population": 2587,
   "lat": 41.68574,
   "lng": 2.05485,
   "metaTitle": "Taller BMW cerca de Sant Llorenç Savall | Vallès Occidental",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Llorenç Savall, junto al Parc de Sant Llorenç del Munt. Diagnosis oficial y mantenimiento.",
+  "metaDescription": "BMW en Sant Llorenç Savall: taller autorizado en Castellar del Vallès a 13,3 km, ITV en Sabadell y taller especialista de la red a 53,1 km.",
   "heroSubtitle": "Mecánica BMW especializada junto al Parc de Sant Llorenç del Munt",
   "trustChips": [
     {
@@ -166,5 +166,125 @@
   "zoneAccessRoutes": [
     "BV-1221 hacia Sabadell",
     "C-59 (enlace cercano) hacia Terrassa/Manresa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Llorenç Savall: taller autorizado BMW en Castellar y especialista por la C-16",
+    "entradilla": "Sant Llorenç Savall está bien comunicado solo por la B-124. Por eso importa saber qué queda más a mano: un taller autorizado BMW en Castellar del Vallès, la ITV en Sabadell y nuestro taller, a 53,1 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 53.1
+    },
+    "secciones": [
+      {
+        "id": "sin-autovia",
+        "h2": "Ninguna autovía a menos de tres kilómetros",
+        "parrafos": [
+          "En el entorno inmediato del pueblo no pasa ninguna carretera principal: para salir a la red rápida hay que bajar por la B-124. Un coche que hace casi siempre trayectos cortos de montaña trabaja de otra manera que uno de autopista: más frenada, más calor en los discos y, en los diésel, menos ocasiones de regenerar el filtro de partículas.",
+          "El líquido de frenos, que absorbe humedad con el tiempo, y las pastillas son lo primero que conviene vigilar con ese uso."
+        ]
+      },
+      {
+        "id": "tallcar",
+        "h2": "Lo autorizado: Tallcar, a 13,3 km",
+        "parrafos": [
+          "El punto de servicio BMW más próximo en el localizador de bmw.es es Tallcar, un taller autorizado sin venta en la calle Suiza 6 de Castellar del Vallès, a 13,3 km por carretera. Para lo que depende de la marca, es la referencia más cercana."
+        ]
+      },
+      {
+        "id": "itv-sabadell",
+        "h2": "La ITV, a 24,9 km en Can Roqueta",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Sabadell (B24), en el polígono Can Roqueta, a 24,9 km. Con casi 25 km hasta la estación, conviene llegar con el coche revisado y no tener que repetir el viaje."
+        ]
+      },
+      {
+        "id": "b124-c16",
+        "h2": "Por la B-124 y la C-16 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona baja por la B-124 y la C-1415a, toma la C-16 y acaba por la B-20: 53,1 km por carretera, 35,6 en línea recta. El municipio no pertenece al área metropolitana, de modo que la recogida del taller no llega hasta aquí.",
+          "Sant Llorenç tenía 2.587 vecinos en 2025 (un 8,7 % más que en 2015) y 1.351 turismos en 2024 según Idescat, 522 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el taller BMW autorizado más cercano?",
+        "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 13,3 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Sabadell (B24), en el polígono Can Roqueta, a 24,9 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "53,1 km por la B-124, la C-16 y la B-20, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.587 habitantes (+8,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082233&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.351 · 522 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082233&lang=es"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar, Castellar del Vallès · 13,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 24,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 53,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082233&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

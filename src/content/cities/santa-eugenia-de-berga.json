@@ -3,11 +3,11 @@
   "name": "Santa Eugènia de Berga",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2269,
+  "population": 2348,
   "lat": 41.9099,
   "lng": 2.2813,
   "metaTitle": "Taller BMW en Santa Eugènia de Berga | Corredor C-17",
-  "metaDescription": "Taller BMW en el corredor C-17, junto a Santa Eugènia de Berga. Mantenimiento experto para BMWs de autopista y carretera comarcal en plena Osona.",
+  "metaDescription": "BMW en Santa Eugènia de Berga: servicio oficial e ITV en Vic y taller especialista de la red en Sant Joan Despí, a 80,3 km. Qué revisar si el coche rueda poco.",
   "heroSubtitle": "En el cruce entre Vic y Barcelona por la C-17, tu BMW encuentra aquí el taller especializado que necesita.",
   "trustChips": [
     {
@@ -185,5 +185,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Eugènia de Berga: qué revisar en un BMW que hace pocos kilómetros",
+    "entradilla": "Con Vic a 3,1 km y Calldetenes casi pegado, muchos coches de Santa Eugènia de Berga se mueven poco y en recorridos cortos. Eso cambia lo que hay que vigilar. Y si hace falta un especialista, el de la red está a 80,3 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 80.3
+    },
+    "secciones": [
+      {
+        "id": "por-tiempo",
+        "h2": "Lo que caduca aunque el coche no ruede",
+        "parrafos": [
+          "En un coche que hace pocos kilómetros, el plan de mantenimiento salta antes por fecha que por distancia. El aceite envejece y acumula condensación en trayectos fríos; el líquido de frenos absorbe humedad; la batería sufre si el motor apenas llega a cargarla.",
+          "En un BMW, además, cuando se cambia la batería hay que registrarla en la centralita para que la carga se ajuste a la nueva. Es un paso que se olvida a menudo y acorta su vida."
+        ]
+      },
+      {
+        "id": "vic-al-lado",
+        "h2": "Servicio oficial e ITV, en Vic",
+        "parrafos": [
+          "El localizador de bmw.es da como punto oficial más cercano Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 5,2 km. Es donde se gestionan las campañas que convoca el fabricante. La ITV más próxima por carretera según la Generalitat es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 6,2 km."
+        ]
+      },
+      {
+        "id": "b520-c17",
+        "h2": "De la B-520 a la C-17",
+        "parrafos": [
+          "La ruta a Dasercars Barcelona sale por la B-520, enlaza con la C-17 y sigue por la C-33 y la B-20: 80,3 km por carretera, 63,1 en línea recta. Cerca del centro pasan la C-25, a 2,1 km, y la C-17, a 2,6 km: una salida por autovía de vez en cuando le sienta bien a un diésel que hace poca distancia.",
+          "La recogida del taller no llega fuera del área metropolitana, así que el viaje solo compensa para una avería de BMW que no se resuelve en la comarca."
+        ]
+      },
+      {
+        "id": "santa-eugenia-cifras",
+        "h2": "629 turismos por cada mil habitantes",
+        "parrafos": [
+          "Santa Eugènia de Berga tenía 2.348 vecinos en 2025, un 6,5 % más que en 2015, en 7,01 km² a 538 metros de altitud. Idescat registraba 1.476 turismos en 2024, a partir de la DGT."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay que registrar la batería nueva en un BMW?",
+        "a": "Sí. Sin registrarla, la centralita sigue cargando como si fuera la vieja y la nueva dura menos."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Vic, a 5,2 km según bmw.es."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 80,3 km por carretera, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.348 habitantes (+6,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082460&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.476 · 629 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082460&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 5,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 6,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 80,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082460&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

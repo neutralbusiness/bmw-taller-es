@@ -3,11 +3,11 @@
   "name": "Torrelles de Foix",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2406,
+  "population": 2746,
   "lat": 41.4136,
   "lng": 1.56665,
   "metaTitle": "Taller BMW en Torrelles de Foix | Especialistas en el Penedès",
-  "metaDescription": "Taller BMW para Torrelles de Foix y el Alt Penedès. Diagnosis con equipo original, motor, turbo y caja ZF 8HP. Presupuesto cerrado y garantía escrita.",
+  "metaDescription": "BMW en Torrelles de Foix: ITV en Olèrdola a 17,2 km, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 59,2 km por la AP-7.",
   "heroSubtitle": "Mecánica BMW especializada para Torrelles de Foix",
   "trustChips": [
     {
@@ -174,5 +174,125 @@
     "C-15 hacia Vilafranca del Penedès",
     "BV-2127 de conexión comarcal",
     "Acceso desde El Vendrell"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrelles de Foix: un 22 % más de vecinos y el taller BMW a 59 km por la AP-7",
+    "entradilla": "Entre viñas del Alt Penedès y sin autovía a la puerta, Torrelles de Foix depende de carreteras comarcales para casi todo. Aquí tienes dónde queda la ITV, el servicio oficial BMW y el taller especialista de la red, con distancias reales.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 59.2
+    },
+    "secciones": [
+      {
+        "id": "comarcales",
+        "h2": "Solo comarcales a menos de tres kilómetros",
+        "parrafos": [
+          "Las únicas carreteras con matrícula que pasan cerca del centro son la BV-2122, a 1,7 km, y la BP-2121, a 2,2 km. Para un diésel moderno eso tiene una consecuencia práctica: si casi todos los trayectos son cortos y por carretera revirada, el filtro de partículas no llega a la temperatura que necesita para limpiarse solo.",
+          "Si el testigo del filtro aparece a menudo, no basta con borrarlo. Lo sensato es revisar el sensor de presión diferencial y el historial de regeneraciones antes de pensar en cambiar nada caro."
+        ]
+      },
+      {
+        "id": "ruta-ap7",
+        "h2": "59,2 km hasta el carrer del Tambor del Bruc",
+        "parrafos": [
+          "La ruta a Dasercars Barcelona baja por la BV-2122 y la BP-2121 hasta la AP-7 y entra al Baix Llobregat por la B-23: 59,2 km por carretera, 40,9 en línea recta. Torrelles no forma parte del área metropolitana, así que el servicio de recogida del taller no llega hasta aquí.",
+          "El taller trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Con esa distancia, lo cómodo es entrar a primera hora y volver por la tarde, o dejar el coche si el trabajo es de varios días."
+        ]
+      },
+      {
+        "id": "itv-olerdola",
+        "h2": "La ITV del Penedès, en Olèrdola",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es ITV Olèrdola (B09), en la avinguda de l'Hostal Nou, a 17,2 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en l'avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 29,6 km."
+        ]
+      },
+      {
+        "id": "torrelles-crece",
+        "h2": "De 2.246 a 2.746 habitantes",
+        "parrafos": [
+          "El padrón del INE suma 500 vecinos en diez años: un 22,3 % más que en 2015, en un término de 36,72 km² a 367 metros de altitud. Idescat, a partir de la DGT, contaba 1.493 turismos en 2024, es decir, 544 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A cuánto queda vuestro taller desde Torrelles de Foix?",
+        "a": "A 59,2 km por carretera, por la AP-7 y la B-23, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No. La recogida solo cubre el área metropolitana de Barcelona y Torrelles queda fuera."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima por carretera es la de Olèrdola (B09), a 17,2 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.746 habitantes (+22,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082883&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.493 · 544 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082883&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 17,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 29,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 59,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082883&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
