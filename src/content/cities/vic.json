@@ -3,7 +3,7 @@
   "name": "Vic",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 39844,
+  "population": 50796,
   "lat": 41.93012,
   "lng": 2.25486,
   "metaTitle": "Taller especializado BMW en Vic — Diagnóstico ISTA y recambio OE",
@@ -182,5 +182,134 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Vic: el concesionario está en la ciudad, el especialista a 77 km",
+    "entradilla": "En Vic tienes el servicio oficial BMW y la ITV de Osona dentro del municipio. Nuestro taller está en Sant Joan Despí, a 77,1 km. Para que no haya confusión: esta página no es la del taller de la marca en Vic.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 77.1
+    },
+    "secciones": [
+      {
+        "id": "quadis-vic",
+        "h2": "El taller de la marca está en la calle Perot Rocaguinarda",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial de la ciudad es Quadis Munich, en el carrer Perot Rocaguinarda 1, a 1,1 km del centro. Si buscabas su teléfono o su revisión oficial, el contacto es el suyo, no el de esta página.",
+          "Nosotros somos Dasercars, un taller independiente especializado en BMW y MINI. El mantenimiento fuera del concesionario no anula la garantía si se respetan los intervalos y la especificación de piezas y aceites, como reconoce el Reglamento (UE) 461/2010; las llamadas a revisión de la marca, en cambio, se atienden en su red."
+        ]
+      },
+      {
+        "id": "itv-osona",
+        "h2": "La ITV de Osona, dentro del municipio",
+        "parrafos": [
+          "La estación de Osona (B04) del registro de la Generalitat está en el carrer Sant Llorenç Desmunts 22, en el propio término de Vic. Con la inspección y el servicio oficial a mano, para lo rutinario no hay motivo para salir de la comarca."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "Cuándo merece la pena bajar 77 kilómetros",
+        "parrafos": [
+          "Para un cambio de aceite o unas pastillas, no. Para una avería que ha vuelto después de dos visitas, un testigo de motor intermitente, un problema del sistema de AdBlue o un ruido de cadena en un diésel N47, sí puede compensar un segundo diagnóstico de especialista.",
+          "La ruta hasta el carrer del Tambor del Bruc va por la C-17, la C-33 y la B-20: 77,1 km por carretera, 64,7 en línea recta. Vic queda fuera del área metropolitana, de modo que la recogida del taller no llega hasta aquí.",
+          "Desde esta distancia, la llamada previa es casi obligada: modelo, año, kilómetros y cómo aparece el fallo. Con eso se decide si el viaje tiene sentido y, si lo tiene, se baja con la pieza encargada."
+        ]
+      },
+      {
+        "id": "vic-en-cifras",
+        "h2": "Capital de Osona, con 50.796 vecinos",
+        "parrafos": [
+          "Vic ha pasado de 42.498 habitantes en 2015 a 50.796 en 2025, un 19,5 % más. Idescat, a partir de la DGT, contaba 22.045 turismos en 2024: 434 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el taller BMW de Vic?",
+        "a": "No. El servicio oficial de la marca en Vic es Quadis Munich, carrer Perot Rocaguinarda 1. Dasercars está en Sant Joan Despí, a 77,1 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Vic?",
+        "a": "En la estación de Osona (B04), carrer Sant Llorenç Desmunts 22, dentro del municipio."
+      },
+      {
+        "q": "¿Merece la pena llevar el coche desde Vic hasta Sant Joan Despí?",
+        "a": "Para el mantenimiento rutinario, normalmente no. Para una avería de BMW que no se ha resuelto en la comarca, puede que sí: llámanos antes y lo valoramos."
+      },
+      {
+        "q": "¿Recogéis el coche en Vic?",
+        "a": "No: la recogida cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "50.796 habitantes (+19,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082981&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "22.045 · 434 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082981&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Osona (B04), c. Sant Llorenç Desmunts 22",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, c. Perot Rocaguinarda 1 · 1,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 77,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082981&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

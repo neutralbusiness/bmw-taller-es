@@ -3,7 +3,7 @@
   "name": "Boadilla del Monte",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 52626,
+  "population": 66349,
   "lat": 40.405,
   "lng": -3.87835,
   "metaTitle": "Taller BMW en Boadilla del Monte | Oeste de Madrid",
@@ -178,5 +178,127 @@
     "M-501",
     "M-513",
     "M-40"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Boadilla del Monte y tu BMW: dos concesionarios casi a la par y el taller a 31 km",
+    "entradilla": "Boadilla ha crecido un 36 % en diez años, frente al 11,6 % de Madrid capital. Si tienes un BMW o un MINI en Boadilla, te resumimos qué servicio oficial te queda más a mano, dónde está la ITV más próxima y cómo se llega a nuestro taller de Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 31.4
+    },
+    "secciones": [
+      {
+        "id": "alcorcon-o-majadahonda",
+        "h2": "Alcorcón o Majadahonda: 200 metros de diferencia",
+        "parrafos": [
+          "En el localizador de bmw.es, los dos servicios oficiales más próximos quedan prácticamente igual de lejos: Vehinter, en la avenida de San Martín de Valdeiglesias 14-16 de Alcorcón, a 11,6 km por carretera, y Movilnorte, en Majadahonda, a 11,8 km. Elige el que te pille de camino.",
+          "Tener dos opciones a la par permite elegir por horario o por la ruta de cada día. Y si prefieres un especialista independiente para el aceite, los frenos, la distribución o una avería que no termina de aparecer en el diagnóstico, la decisión es tuya."
+        ]
+      },
+      {
+        "id": "itv-carralero",
+        "h2": "La ITV, en El Carralero o en Pozuelo",
+        "parrafos": [
+          "En el listado oficial de la Comunidad de Madrid, la estación más próxima por carretera al centro de Boadilla es la de Entidad IDV Madrid (2862), en la calle De la Fresa 12 del polígono El Carralero, en Majadahonda: 8,2 km. Muy cerca le sigue la de Intectra (2823), en Pozuelo de Alarcón, a 8,9 km."
+        ]
+      },
+      {
+        "id": "m513-m40",
+        "h2": "De la M-513 a la M-40 y la A-1",
+        "parrafos": [
+          "Hasta la calle Valgrande de Alcobendas hay 31,4 km por carretera y 24,2 en línea recta: se sale por la M-513, se toma la M-40 por el oeste y el norte y se termina en la A-1. Con la M-50 y la M-501 también a menos de tres kilómetros del centro, hay alternativas si la M-40 está cargada.",
+          "Boadilla forma parte del área metropolitana, donde el taller ofrece recogida y entrega del coche y vehículo de cortesía para reparaciones largas. Los dos dependen de disponibilidad, así que pídelos al reservar y no el mismo día."
+        ]
+      },
+      {
+        "id": "boadilla-crece",
+        "h2": "De 48.775 a 66.349 vecinos",
+        "parrafos": [
+          "Ese es el salto del padrón entre 2015 y 2025. La Comunidad de Madrid, a partir de la DGT, cuenta además 84.524 turismos censados en el municipio en 2025: más turismos que habitantes, lo que indica que la cifra incluye vehículos de empresas con domicilio en Boadilla y no sirve para medir cuántos coches tiene cada familia."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Boadilla?",
+        "a": "Dos casi empatados: Vehinter, en Alcorcón (11,6 km), y Movilnorte, en Majadahonda (11,8 km), según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV si vivo en Boadilla del Monte?",
+        "a": "La más próxima por carretera es la de la calle De la Fresa 12, en el polígono El Carralero de Majadahonda, a 8,2 km; la de Pozuelo queda a 8,9."
+      },
+      {
+        "q": "¿Recogéis el coche en Boadilla?",
+        "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad. Confírmalo al pedir cita."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "31,4 km por la M-513, la M-40 y la A-1 hasta Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí: MINI comparte motores y electrónica con BMW, y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "66.349 habitantes (+36 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos censados (2025)",
+        "valor": "84.524 (incluye flotas de empresa)",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "El Carralero (Majadahonda) · 8,2 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Alcorcón) · 11,6 km / Movilnorte (Majadahonda) · 11,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 31,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

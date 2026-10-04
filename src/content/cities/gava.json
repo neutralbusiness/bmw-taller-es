@@ -3,7 +3,7 @@
   "name": "Gavà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 45994,
+  "population": 48243,
   "lat": 41.30605,
   "lng": 2.00123,
   "metaTitle": "Taller BMW en Gavà — Especialistas en Mantenimiento Preventivo",
@@ -186,5 +186,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Gavà: ITV a 2,9 km y taller especialista BMW a 14 km por la C-32",
+    "entradilla": "Con la ITV de Viladecans a menos de tres kilómetros y el mar a menos de cinco, Gavà tiene sus propias prioridades de mantenimiento. Nuestro taller está en Sant Joan Despí, a 14,1 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 14.1
+    },
+    "secciones": [
+      {
+        "id": "itv-viladecans",
+        "h2": "La ITV, en la calle Jocelyn Bell de Viladecans",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Viladecans (B07), en el carrer Jocelyn Bell 16: 2,9 km desde el centro de Gavà. Es tan cercana que lo cómodo es pasar allí la inspección y dejar el taller para lo que de verdad requiere un especialista."
+        ]
+      },
+      {
+        "id": "playa-y-bajos",
+        "h2": "Salitre: lo que conviene mirar en un coche de Gavà",
+        "parrafos": [
+          "El centro queda a 4,6 km de la línea de costa, y el término llega hasta la playa. Lo que más sufre con el aire marino son los bajos y el escape, los discos de freno de un coche que pasa días parado y los conectores eléctricos que quedan al aire.",
+          "Un manguerazo de agua dulce a los bajos al acabar el verano ayuda más de lo que parece. Y si aparece un aviso eléctrico que va y viene, antes de cambiar una centralita hay que revisar conectores y masas."
+        ]
+      },
+      {
+        "id": "c32-b25",
+        "h2": "Por la C-32 y la B-25 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona usa la C-32 y la B-25: 14,1 km por carretera, 8,5 en línea recta. Gavà es uno de los municipios del Área Metropolitana de Barcelona, así que hay recogida y entrega del coche, sujeta a disponibilidad; pídela al reservar.",
+          "El servicio oficial BMW más próximo según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 10,4 km."
+        ]
+      },
+      {
+        "id": "gava-en-cifras",
+        "h2": "48.243 habitantes y 20.389 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Gavà 48.243 vecinos, un 4 % más que en 2015. Idescat, con datos de la DGT, contaba 20.389 turismos en 2024: 423 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Gavà?",
+        "a": "La más próxima por carretera es la de Viladecans (B07), carrer Jocelyn Bell 16, a 2,9 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Gavà?",
+        "a": "Sí, Gavà está en el área metropolitana. La recogida está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "14,1 km por la C-32 y la B-25 hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "48.243 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080898&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "20.389 · 423 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080898&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecans (B07) · 2,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 10,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 14,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080898&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

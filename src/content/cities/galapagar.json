@@ -3,7 +3,7 @@
   "name": "Galapagar",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 31820,
+  "population": 36758,
   "lat": 40.5783,
   "lng": -4.00426,
   "metaTitle": "Taller BMW en Galapagar | Diagnosis oficial y garantía",
@@ -180,5 +180,125 @@
     "M-505 hacia Villanueva del Pardillo",
     "M-600 hacia Collado Villalba",
     "M-618 hacia Torrelodones"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Galapagar: ITV en Villalba, concesionario en Las Rozas y especialista BMW a 43 km",
+    "entradilla": "La ITV y el servicio oficial BMW más próximos a Galapagar quedan a menos de quince kilómetros. Nuestro taller está más lejos, en Alcobendas: esto es lo que conviene hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 43.2
+    },
+    "secciones": [
+      {
+        "id": "itv-a6",
+        "h2": "Tres ITV en Collado-Villalba, casi a la misma distancia",
+        "parrafos": [
+          "La más próxima por carretera en el listado de la Comunidad de Madrid es la de Itevelesa (2832), en la A-6, km 37,6, a 6,5 km. Las otras dos del polígono P-29 de Collado-Villalba quedan a 7 y 7,1 km: elige la que mejor te venga de horario."
+        ]
+      },
+      {
+        "id": "movilnorte",
+        "h2": "Movilnorte, a 14 km en Las Rozas",
+        "parrafos": [
+          "El localizador de bmw.es da como servicio oficial más próximo a Movilnorte, en el kilómetro 23,100 de la A-6, en Las Rozas: 14 km por carretera. Es la referencia por cercanía para lo que solo hace el concesionario."
+        ]
+      },
+      {
+        "id": "m505-hasta-alcobendas",
+        "h2": "43 kilómetros por la M-505 y la A-6",
+        "parrafos": [
+          "Hasta la calle Valgrande de Alcobendas la ruta sale por la M-505, toma la A-6 y rodea Madrid por la M-40 hasta la A-1: 43,2 km por carretera, 30,2 en línea recta.",
+          "Con esa distancia, el viaje compensa cuando el problema es de especialista: la cadena de un N47 que empieza a sonar en frío, un turbo que pierde presión, un aviso de AdBlue o una avería eléctrica sin diagnosticar. La recogida y el vehículo de cortesía funcionan dentro del área metropolitana de Madrid y sujetos a disponibilidad; consulta si llegan a tu dirección."
+        ]
+      },
+      {
+        "id": "sierra-885",
+        "h2": "A 885 metros: frenos y refrigerante",
+        "parrafos": [
+          "El casco urbano está a 885 m. En las carreteras de la zona, con cuestas y curvas, los frenos trabajan más que en llano, y el líquido, que absorbe humedad con los años, pierde punto de ebullición: por eso el plan de BMW lo cambia por tiempo.",
+          "Galapagar tenía 36.758 habitantes en 2025, un 13,8 % más que en 2015, y 19.935 turismos censados ese año según la Comunidad de Madrid: 542 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Galapagar?",
+        "a": "En Collado-Villalba. La más próxima por carretera es la de la A-6, km 37,6, a 6,5 km; las del polígono P-29 quedan a 7 y 7,1 km."
+      },
+      {
+        "q": "¿Cuál es el concesionario BMW más cercano?",
+        "a": "Movilnorte, en la A-6, km 23,100 (Las Rozas), a 14 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "43,2 km por la M-505, la A-6, la M-40 y la A-1."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "36.758 habitantes (+13,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "19.935 · 542 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "885 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "A-6 km 37,6 (Collado-Villalba) · 6,5 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Las Rozas) · 14 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 43,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

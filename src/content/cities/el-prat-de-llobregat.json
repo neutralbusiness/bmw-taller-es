@@ -3,7 +3,7 @@
   "name": "El Prat de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 63418,
+  "population": 66338,
   "lat": 41.32784,
   "lng": 2.09472,
   "metaTitle": "Taller BMW en El Prat de Llobregat — Especialista en motor +150.000km",
@@ -187,5 +187,134 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Especialista BMW para El Prat de Llobregat, a 9 km por la B-10",
+    "entradilla": "Entre el aeropuerto, el delta y el mar, El Prat tiene a mano casi todo lo que necesita un BMW: dos servicios oficiales a unos cinco kilómetros, la ITV en Cornellà y nuestro taller especialista en Sant Joan Despí, a 9,2 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 9.2
+    },
+    "secciones": [
+      {
+        "id": "b10-sant-joan-despi",
+        "h2": "Nueve kilómetros hasta el carrer del Tambor del Bruc",
+        "parrafos": [
+          "Desde el centro de El Prat, la ruta hasta la nave de Dasercars Barcelona sigue la B-10: 9,2 km por carretera, 5 en línea recta.",
+          "Al estar las dos dentro del Área Metropolitana de Barcelona, puedes pedir que recojan y devuelvan el coche, o un vehículo de cortesía si la reparación dura varios días. Ambas cosas dependen de disponibilidad, así que conviene pedirlas con la cita."
+        ]
+      },
+      {
+        "id": "aire-del-delta",
+        "h2": "Coches que duermen a menos de cuatro kilómetros del mar",
+        "parrafos": [
+          "El centro de El Prat está a unos 3,8 km de la costa y a 8 m de altitud. La humedad salina no se ve, pero trabaja: oxida los anclajes del escape y los soportes de los bajos, deja una capa de óxido en los discos de un coche que pasa una semana sin moverse y ataca los conectores que quedan expuestos.",
+          "Si tu BMW pasa temporadas aparcado, los primeros frenazos después de la pausa pueden sonar o vibrar. Si el ruido no se va en pocos kilómetros, que lo mire alguien antes de que el óxido marque el disco."
+        ]
+      },
+      {
+        "id": "hospitalet-o-sant-boi",
+        "h2": "Servicio oficial: L'Hospitalet y Sant Boi, casi a la misma distancia",
+        "parrafos": [
+          "El localizador de bmw.es sitúa dos puntos de Barcelona Premium casi igual de cerca: el de la calle Montserrat Roig 31, en L'Hospitalet de Llobregat, a 4,7 km por carretera, y el de la carretera del Prat 15, en Sant Boi, a 5,2 km. Si buscabas el concesionario, es uno de esos dos; nosotros somos un taller independiente que solo trabaja BMW y MINI."
+        ]
+      },
+      {
+        "id": "itv-campsa",
+        "h2": "La ITV, en el passeig de la Campsa de Cornellà",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Cornellà (B11), en el passeig de la Campsa 64, a 5,3 km. Queda prácticamente de camino al taller, así que una pre-ITV y la inspección se pueden encadenar en la misma semana. Y con la C-31, la C-32 y la A-2 a menos de tres kilómetros del centro, un diésel tiene a mano la vía rápida que necesita de vez en cuando para regenerar el filtro de partículas.",
+          "El Prat tenía 66.338 habitantes en 2025 y 27.428 turismos en 2024 (Idescat, con datos de la DGT): 413 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto hay desde El Prat hasta vuestro taller?",
+        "a": "9,2 km por la B-10 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en El Prat?",
+        "a": "Sí, El Prat está en el área metropolitana de Barcelona. La recogida está sujeta a disponibilidad: pídela al reservar."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Cornellà de Llobregat (B11), passeig de la Campsa 64, a 5,3 km según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a El Prat?",
+        "a": "Barcelona Premium en L'Hospitalet (4,7 km) y su punto de Sant Boi (5,2 km), según bmw.es."
+      },
+      {
+        "q": "¿Qué le hace el aire del mar a un BMW?",
+        "a": "Acelera el óxido en bajos, escape y discos de freno de un coche parado, y la sulfatación de conectores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "66.338 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081691&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "27.428 · 413 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081691&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Cornellà (B11) · 5,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (L'Hospitalet) · 4,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 9,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081691&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

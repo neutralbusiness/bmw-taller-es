@@ -3,7 +3,7 @@
   "name": "Azuqueca de Henares",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 34685,
+  "population": 35924,
   "lat": 40.56566,
   "lng": -3.26753,
   "metaTitle": "Taller BMW en Azuqueca de Henares | Corredor Henares",
@@ -178,5 +178,109 @@
     "A-2",
     "CM-1004",
     "N-320"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Azuqueca de Henares: servicio oficial BMW en Alcalá y especialista a 40 km",
+    "entradilla": "Azuqueca es provincia de Guadalajara, pero lo que tiene que ver con BMW está hacia Madrid: el servicio oficial, en Alcalá de Henares; nuestro taller, en Alcobendas. Te contamos qué te queda cerca y cuándo compensa el viaje.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 40.5
+    },
+    "secciones": [
+      {
+        "id": "autopremier-alcala",
+        "h2": "AutoPremier, en la Vía Complutense",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial más próximo es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 11,9 km por carretera. Si lo que necesitas es el concesionario, ese es el más próximo."
+        ]
+      },
+      {
+        "id": "a2-r2-m50",
+        "h2": "Por la A-2, la R-2 y la M-50 hasta Alcobendas",
+        "parrafos": [
+          "La ruta desde el centro de Azuqueca hasta la calle Valgrande va por la A-2, sigue por la R-2 y entra por la M-50: 40,5 km por carretera, 32,6 en línea recta. Con la A-2 y la R-2 a menos de tres kilómetros del casco, la salida es inmediata.",
+          "Azuqueca queda fuera del área metropolitana de Madrid, así que la recogida del taller no llega hasta aquí: cuenta con traer el coche tú."
+        ]
+      },
+      {
+        "id": "cuando-compensa",
+        "h2": "Cuándo tiene sentido el viaje",
+        "parrafos": [
+          "Para lo que cualquier buen taller resuelve —neumáticos, escobillas, una revisión sencilla—, no. Para un diagnóstico que no ha dado con la causa, una distribución ruidosa, un fallo de inyección o de AdBlue en un diésel, o para hacer el mantenimiento siguiendo el plan de BMW con el reinicio del indicador de servicio, sí.",
+          "Antes de mover el coche, una llamada con modelo, año, kilometraje y el síntoma permite saber si el viaje merece la pena y planificar el trabajo para que salga el mismo día cuando es posible."
+        ]
+      },
+      {
+        "id": "azuqueca-en-cifras",
+        "h2": "35.924 vecinos en 19,6 km²",
+        "parrafos": [
+          "El padrón de 2025 da a Azuqueca de Henares 35.924 habitantes, un 2,9 % más que en 2015. El término mide 19,6 km² y el centro está a 634 m de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Azuqueca?",
+        "a": "No. El taller de la red que atiende la zona es Dasercars Madrid, en Alcobendas, a 40,5 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "AutoPremier, Vía Complutense 131, Alcalá de Henares, a 11,9 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Azuqueca?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "35.924 habitantes (+2,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "19,6 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier (Alcalá de Henares) · 11,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 40,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

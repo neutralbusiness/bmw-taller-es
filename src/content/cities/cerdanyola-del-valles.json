@@ -3,7 +3,7 @@
   "name": "Cerdanyola del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 58747,
+  "population": 58528,
   "lat": 41.49109,
   "lng": 2.14079,
   "metaTitle": "Taller especializado BMW en Cerdanyola del Vallès — Diagnóstico ISTA y recambio OE",
@@ -184,5 +184,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cambio de aceite y mantenimiento BMW para Cerdanyola del Vallès",
+    "entradilla": "Para un BMW, el cambio de aceite es la operación más frecuente y la que más se presta a ahorrar donde no se debe. Te explicamos qué exige, dónde tienes el servicio oficial y la ITV desde Cerdanyola y cómo llegar a nuestro taller de Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 24.1
+    },
+    "secciones": [
+      {
+        "id": "aceite-longlife",
+        "h2": "Qué lleva un cambio de aceite bien hecho",
+        "parrafos": [
+          "Un BMW no admite cualquier aceite: el plan de mantenimiento exige uno con la homologación Longlife que corresponda a su motor, y en los diésel con filtro de partículas, uno bajo en cenizas. El filtro de aceite, la junta del tapón y el reinicio del indicador de servicio forman parte del trabajo; si falta alguna de las tres cosas, el cambio no está completo.",
+          "Lo que de verdad ahorra es poner el aceite correcto en su intervalo. El indicador de servicio calcula el cambio según el uso, pero si el coche hace sobre todo trayectos cortos por Cerdanyola, no conviene apurarlo hasta el último kilómetro. Un lubricante sin la especificación o un cambio que se retrasa miles de kilómetros se paga más adelante en la cadena de distribución o en el turbo."
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "h2": "El importe, por escrito y antes de empezar",
+        "parrafos": [
+          "No publicamos tarifas: la cantidad de aceite, el filtro y la especificación cambian de un motor a otro. Con el modelo y el año te damos el número exacto, y te llega por escrito antes de que nadie abra el capó; si no te convence, no se hace."
+        ]
+      },
+      {
+        "id": "sant-cugat",
+        "h2": "Servicio oficial e ITV, en Sant Cugat",
+        "parrafos": [
+          "Según bmw.es, el servicio oficial más próximo es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès: 7,4 km por la ruta más corta, unos 10 por la más rápida.",
+          "Para la ITV, el registro de la Generalitat da la de Sant Cugat (B22), en el carrer Amposta 2 del polígono Sant Mamet, a 7,9 km por carretera, y casi a la par la de Sabadell (B24), a 8,3 km."
+        ]
+      },
+      {
+        "id": "c58-b20",
+        "h2": "Por la C-58 y la B-20 hasta Sant Joan Despí",
+        "parrafos": [
+          "Desde el centro de Cerdanyola hasta la nave de Dasercars Barcelona hay 24,1 km por la C-58 y la B-20, 15,3 en línea recta. El municipio pertenece al Área Metropolitana de Barcelona, así que puedes pedir recogida y entrega del coche, sujeta a disponibilidad.",
+          "Cerdanyola tenía 58.528 habitantes en 2025, apenas un 1,9 % más que en 2015, y 26.213 turismos en 2024 según Idescat: 448 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué aceite lleva mi BMW?",
+        "a": "El que indica su plan de mantenimiento, con la homologación Longlife de su motor. Con el modelo y el año te decimos cuál."
+      },
+      {
+        "q": "¿Me dais el precio del cambio de aceite?",
+        "a": "Sí, por escrito y antes de empezar, en cuanto sepamos modelo, año y motor."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Cerdanyola?",
+        "a": "La más próxima por carretera es Sant Cugat (B22), a 7,9 km; la de Sabadell (B24) queda a 8,3."
+      },
+      {
+        "q": "¿Recogéis el coche en Cerdanyola?",
+        "a": "Sí, dentro del área metropolitana de Barcelona y sujeto a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "58.528 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082665&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "26.213 · 448 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082665&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Cugat (B22) · 7,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Cugat) · 7,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 24,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082665&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
