@@ -3,11 +3,11 @@
   "name": "Veciana",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 169,
+  "population": 168,
   "lat": 41.6602,
   "lng": 1.4899,
-  "metaTitle": "Taller BMW en Veciana | Meseta ventosa Alta Anoia",
-  "metaDescription": "Taller BMW para Veciana, meseta de la Alta Anoia. Protección contra viento, polvo y amplitud térmica extrema. Diagnóstico profesional. 622 552 992.",
+  "metaTitle": "Taller BMW para Veciana (Anoia) | Especialista independiente",
+  "metaDescription": "BMW en Veciana (Anoia): ITV en Igualada a 19,9 km, servicio oficial en Tàrrega y el taller especialista de la red en Sant Joan Despí, a 70,7 km por la A-2.",
   "heroSubtitle": "En la meseta batida por el viento de Veciana, tu BMW necesita un mantenimiento que contemple cada factor ambiental.",
   "trustChips": [
     {
@@ -183,5 +183,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Veciana (Anoia): ITV en Igualada, servicio oficial BMW en Tàrrega y taller a 70,7 km",
+    "entradilla": "Con 168 vecinos repartidos en casi 39 km², en Veciana el coche hace falta para todo. Hacia el este queda la ITV de Igualada; hacia el oeste, el servicio oficial BMW de Tàrrega; y el taller especialista de la red, en Sant Joan Despí, a 70,7 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 70.7
+    },
+    "secciones": [
+      {
+        "id": "dos-direcciones",
+        "h2": "Igualada para la inspección, Tàrrega para la marca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Igualada (B12), de Applus, en el carrer Països Baixos del polígono Les Comes, a 19,9 km. Igualada, capital de l'Anoia, es la dirección natural desde Veciana.",
+          "El servicio oficial BMW que da el localizador de bmw.es está en sentido contrario: Unicars Ponent, en el carrer de la Conca de Barberà de Tàrrega, a 37,9 km. Es la referencia si BMW convoca una campaña de revisión para tu modelo o si la avería entra en la garantía del fabricante."
+        ]
+      },
+      {
+        "id": "a2-hasta-el-taller",
+        "h2": "Por la BV-1005 y la C-1412a hasta la A-2",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, la ruta enlaza la BV-1005 y la C-1412a con la A-2: 70,7 km por carretera, 57,9 en línea recta.",
+          "Compensa para una avería de BMW que no se ha cerrado en la comarca, para un segundo diagnóstico antes de aceptar una reparación grande o para llevar el mantenimiento con el plan de la marca. No compensa para un neumático o unas escobillas: eso lo resuelve cualquier taller de Igualada."
+        ]
+      },
+      {
+        "id": "cuatro-por-km2",
+        "h2": "Cuatro habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "El padrón de 2025 da a Veciana 168 habitantes, frente a 175 en 2015. Idescat, con datos de la DGT, contaba 110 turismos en 2024: 655 por cada 1.000 vecinos. Con una densidad de 4 habitantes por km², no hay trayectos cortos; la BV-1001 y la C-1412a pasan a menos de tres kilómetros del núcleo.",
+          "Ese uso, carretera secundaria con tramos rápidos, le va bien a un diésel: el filtro de partículas se regenera sin problemas. Lo que más acusa los años es la suspensión delantera, con brazos y silentblocks que se resienten de baches y cunetas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me queda más cerca desde Veciana?",
+        "a": "ITV Igualada (B12), en el polígono Les Comes, a 19,9 km por carretera según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más próximo?",
+        "a": "En Tàrrega: Unicars Ponent, a 37,9 km, según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Llega hasta Veciana la recogida del coche?",
+        "a": "No: solo cubre el área metropolitana de Barcelona, y sujeta a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "168 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082975&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "110 · 655 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082975&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 19,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 37,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 70,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082975&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

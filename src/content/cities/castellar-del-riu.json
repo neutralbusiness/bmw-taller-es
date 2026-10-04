@@ -3,11 +3,11 @@
   "name": "Castellar del Riu",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 174,
+  "population": 151,
   "lat": 42.1229,
   "lng": 1.7725,
-  "metaTitle": "Taller BMW en Castellar del Riu | Servicio para Zonas Remotas",
-  "metaDescription": "Taller BMW para Castellar del Riu: suspensión, embrague y electrónica adaptados a pistas forestales y aislamiento de montaña. Diagnóstico profesional BMW.",
+  "metaTitle": "Taller BMW para Castellar del Riu (Berguedà) | Especialista BMW",
+  "metaDescription": "BMW en Castellar del Riu (Berguedà): ITV en Berga a 13,1 km, servicio oficial en Sant Fruitós de Bages y taller especialista independiente a 114,4 km.",
   "heroSubtitle": "Conducir un BMW por las pistas de Castellar del Riu exige un mantenimiento que pocos talleres saben dar. Nosotros sí.",
   "trustChips": [
     {
@@ -189,5 +189,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellar del Riu: Berga a 5,9 km en línea recta y a 13,1 por carretera; el taller BMW, a 114,4",
+    "entradilla": "Berga queda muy cerca en el mapa, pero por carretera la ITV está a 13,1 km. Esa diferencia dice mucho de cómo se conduce aquí y de lo que pide a un BMW o un MINI. El taller especialista de la red está en Sant Joan Despí, a 114,4 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 114.4
+    },
+    "secciones": [
+      {
+        "id": "curvas-y-desgaste",
+        "h2": "Más del doble de kilómetros que en línea recta",
+        "parrafos": [
+          "ITV Berga (B13), en el polígono La Valldan, está a 5,9 km en línea recta y a 13,1 por carretera: es la estación más próxima en el registro de la Generalitat. Cuando el recorrido dobla la línea recta, lo que hay en medio son curvas, pendiente y frenadas.",
+          "En ese tipo de carretera, pastillas y discos delanteros se gastan antes que en llano, y los neumáticos se comen por los hombros en las curvas cerradas. Mirar el desgaste en cada cambio de aceite ahorra sorpresas."
+        ]
+      },
+      {
+        "id": "hacia-el-sur",
+        "h2": "El servicio oficial y el taller especialista, por la C-16",
+        "parrafos": [
+          "Siguiendo hacia el sur, el punto oficial BMW más próximo según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5 (Sant Fruitós de Bages), a 53,2 km. Dasercars Barcelona queda bastante más lejos: 114,4 km por la BV-4243, la C-16 y la B-20, y 87,6 en línea recta.",
+          "Con esa diferencia, el viaje a Sant Joan Despí se reserva para lo que pide un especialista independiente en BMW: averías que no se han resuelto en la comarca o un diésel con problemas en el sistema de gases, para el que el taller cuenta con homologación REDISTA. El mantenimiento rutinario se hace mejor cerca."
+        ]
+      },
+      {
+        "id": "riu-en-cifras",
+        "h2": "151 vecinos a 920 metros",
+        "parrafos": [
+          "El núcleo está a 920 metros de altitud, en un término de 32,74 km². El padrón de 2025 da 151 habitantes, frente a 175 en 2015, e Idescat, con datos de la DGT, 114 turismos en 2024: 755 por cada 1.000 vecinos.",
+          "A esa altura, una batería débil da la cara con el primer frío serio. En los BMW, la batería de recambio se registra en el coche para que el sistema de carga sepa qué capacidad y qué tecnología tiene."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué se gastan antes las pastillas de freno aquí?",
+        "a": "Por las bajadas y las curvas: los frenos trabajan mucho más que en llano. Conviene revisarlas en cada mantenimiento."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Berga (B13), a 13,1 km por carretera desde Castellar del Riu."
+      },
+      {
+        "q": "¿Tenéis taller en el Berguedà?",
+        "a": "No. El de la red está en Sant Joan Despí, a 114,4 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "151 habitantes (−13,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080500&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "920 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080500&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 13,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 53,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 114,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080500&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

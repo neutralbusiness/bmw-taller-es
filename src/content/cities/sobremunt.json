@@ -3,11 +3,11 @@
   "name": "Sobremunt",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 92,
+  "population": 90,
   "lat": 42.019,
   "lng": 2.1732,
-  "metaTitle": "Taller BMW en Sobremunt | El más pequeño de Osona merece el mejor taller",
-  "metaDescription": "Servicio técnico BMW para Sobremunt, el municipio más pequeño de Osona. Recogida a domicilio en zona de montaña cerca del Lluçanès. Diagnosis y reparación.",
+  "metaTitle": "Taller BMW para Sobremunt (Lluçanès) | Especialista independiente",
+  "metaDescription": "BMW en Sobremunt (Lluçanès): ITV y servicio oficial en Vic, a unos 24 km, y taller especialista independiente en Sant Joan Despí, a 100,4 km.",
   "heroSubtitle": "92 vecinos, un BMW y ningún taller cerca. Nosotros llegamos hasta Sobremunt con servicio completo puerta a puerta.",
   "trustChips": [
     {
@@ -184,5 +184,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sobremunt (Lluçanès): ITV y servicio oficial BMW en Vic, el especialista a 100,4 km",
+    "entradilla": "Desde Sobremunt, Vic lo resuelve casi todo: allí están la estación de ITV más próxima y el servicio oficial BMW, a 24,2 y 24,8 km. El taller especialista de la red queda a 100,4 km, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 100.4
+    },
+    "secciones": [
+      {
+        "id": "todo-en-vic",
+        "h2": "Inspección y concesionario en la misma ciudad",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic. El localizador de bmw.es da como punto oficial más cercano Quadis Munich, en la calle Perot Rocaguinarda 1, también en Vic. Con poco más de medio kilómetro de diferencia entre una ruta y otra, se pueden juntar en la misma salida.",
+          "Si el coche ya pasa la ITV cada año, una revisión previa de luces, frenos y neumáticos evita volver a Vic una segunda vez."
+        ]
+      },
+      {
+        "id": "bv4608",
+        "h2": "Por la BV-4608 y la C-17: 100,4 km",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc sale por la BV-4608, baja por la C-17 y la C-33 y entra por la B-20: 100,4 km por carretera y 74,9 en línea recta. Sobremunt no está en el área metropolitana, así que la recogida del taller queda fuera de alcance.",
+          "Compensa cuando el problema es de BMW y no de cualquier coche: una caja automática que da tirones, un aviso de AdBlue que no se va, una electrónica que falla sin patrón. Para eso, el taller trabaja con presupuesto previo, también de la diagnosis."
+        ]
+      },
+      {
+        "id": "sobremunt-cifras",
+        "h2": "90 vecinos a 881 metros",
+        "parrafos": [
+          "El padrón da a Sobremunt 90 habitantes en 2025, frente a 82 en 2015. Idescat contaba 57 turismos en 2024, 633 por cada 1.000 vecinos, en un término de 13,8 km².",
+          "A 881 metros hay heladas. El líquido refrigerante protege del frío solo si la mezcla es correcta, y eso se mide con un densímetro o un refractómetro, no mirando el nivel del vaso de expansión."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está la ITV más próxima a Sobremunt?",
+        "a": "En Vic: ITV Osona (B04), a 24,2 km por carretera."
+      },
+      {
+        "q": "¿Y el servicio oficial BMW?",
+        "a": "También en Vic: Quadis Munich, a 24,8 km según bmw.es."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte motores y electrónica con BMW y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "90 habitantes (+9,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082711&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "57 · 633 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082711&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 24,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 24,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 100,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082711&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

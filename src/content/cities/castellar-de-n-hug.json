@@ -3,11 +3,11 @@
   "name": "Castellar de n'Hug",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 175,
+  "population": 166,
   "lat": 42.2789,
   "lng": 2.0061,
-  "metaTitle": "Taller BMW en Castellar de n'Hug | Expertos en Alta Montaña",
-  "metaDescription": "Servicio técnico BMW en Castellar de n'Hug: arranques en frío, turbo de altura y mantenimiento invernal. Especialistas en condiciones extremas del Pirineo.",
+  "metaTitle": "Taller BMW para Castellar de n'Hug (Berguedà) | Especialista",
+  "metaDescription": "Castellar de n'Hug, a 1.395 m: qué revisar en tu BMW antes del invierno, ITV en Ripoll a 25,8 km y taller especialista de la red a 140,5 km.",
   "heroSubtitle": "Tu BMW merece un taller que entienda el frío extremo y las exigencias de la alta montaña del Berguedà. Llámanos.",
   "trustChips": [
     {
@@ -184,5 +184,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellar de n'Hug, a 1.395 metros: tu BMW, la ITV de Ripoll y el taller a 140,5 km",
+    "entradilla": "El núcleo de Castellar de n'Hug está a 1.395 metros, y eso condiciona el coche más que cualquier otra cosa. Para la inspección y para la marca, lo más cercano mira al Ripollès y a la Garrotxa; el taller especialista de la red queda a 140,5 km, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 140.5
+    },
+    "secciones": [
+      {
+        "id": "invierno-de-montana",
+        "h2": "Lo que exige el invierno a esta altura",
+        "parrafos": [
+          "Aquí las heladas no son la excepción. Con mucho frío, el gasóleo puede enturbiarse y tapar el filtro de combustible, sobre todo si el depósito lleva semanas con gasóleo repostado en verano. Los BMW diésel con sistema SCR llevan además un depósito de AdBlue, que se congela a temperaturas bajo cero; el coche lo calienta, pero un aviso de ese sistema no se debe dejar pasar.",
+          "La otra pieza crítica es la batería. Si el coche duerme en la calle, una batería envejecida suele fallar la primera mañana de helada fuerte. Cuando se cambia, un BMW necesita registrar la nueva en la centralita para que la cargue como corresponde."
+        ]
+      },
+      {
+        "id": "ripoll-y-olot",
+        "h2": "ITV en Ripoll y taller autorizado BMW en Olot",
+        "parrafos": [
+          "La estación más próxima por carretera según la Generalitat es ITV Ripoll (G08), en el passeig d'Ordina, a 25,8 km del núcleo urbano. Para la marca, el punto más cercano del localizador de bmw.es es Oliva Motor Girona en Olot, taller autorizado BMW en la Ronda Les Mates 32, a 59,2 km."
+        ]
+      },
+      {
+        "id": "b402-c16",
+        "h2": "140,5 km hasta Sant Joan Despí por la B-402 y la C-16",
+        "parrafos": [
+          "La ruta más corta sale por la BV-4031, baja por la B-402 hasta la C-16 y termina en la B-20: 140,5 km por carretera para 101,9 en línea recta. Es demasiado viaje para una revisión corriente.",
+          "Puede compensar para una avería concreta de BMW que nadie ha resuelto cerca: un fallo eléctrico intermitente, un problema del sistema de AdBlue o una cadena de distribución ruidosa en un diésel N47. El municipio, con 166 vecinos en 2025, queda lejos del área metropolitana y la recogida del taller no llega."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué conviene revisar antes del invierno?",
+        "a": "Batería, concentración del anticongelante, neumáticos y, en los diésel con AdBlue, que el sistema no tenga ningún aviso pendiente."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Castellar de n'Hug?",
+        "a": "En Ripoll (G08), a 25,8 km por carretera, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el punto oficial BMW más cercano?",
+        "a": "Oliva Motor Girona, taller autorizado en Olot, a 59,2 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "166 habitantes (+4,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080522&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "1.395 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080522&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 25,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Oliva Motor Girona (Olot) · 59,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 140,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080522&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

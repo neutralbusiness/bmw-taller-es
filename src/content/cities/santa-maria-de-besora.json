@@ -3,11 +3,11 @@
   "name": "Santa Maria de Besora",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 157,
+  "population": 164,
   "lat": 42.1272,
   "lng": 2.2612,
-  "metaTitle": "Taller BMW en Santa Maria de Besora | Frontera con Ripollès",
-  "metaDescription": "Servicio técnico BMW en Santa Maria de Besora. Especialistas en vehículos de montaña, recogida a domicilio en la frontera de Osona con el Ripollès.",
+  "metaTitle": "Taller BMW para Santa Maria de Besora (Osona) | Especialista",
+  "metaDescription": "BMW en Santa Maria de Besora (Osona): ITV en Ripoll a 20,9 km, servicio oficial en Vic a 30,5 km y taller especialista independiente a 106 km.",
   "heroSubtitle": "Tu BMW en las montañas de Besora merece un servicio a su altura. Recogida a domicilio sin bajar al valle ni cruzar al Ripollès.",
   "trustChips": [
     {
@@ -179,5 +179,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Maria de Besora: un BMW entre Ripoll y Vic, a 106 km del taller especialista",
+    "entradilla": "Desde Santa Maria de Besora, la ITV más próxima está en Ripoll, a 20,9 km, y el servicio oficial BMW en Vic, a 30,5. El taller especialista de la red queda bastante más lejos, a 106 km por la C-17. Así se reparte cada cosa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 106.0
+    },
+    "secciones": [
+      {
+        "id": "norte-y-sur",
+        "h2": "La inspección hacia el norte, la marca hacia el sur",
+        "parrafos": [
+          "En línea recta, ITV Ripoll (G08), en el passeig d'Ordina, está a 10,2 km; por carretera son 20,9, y es la estación más próxima en el registro de la Generalitat. Vic, la capital de Osona, queda al otro lado: allí está Quadis Munich, en la calle Perot Rocaguinarda 1, el punto de servicio oficial que da el localizador de bmw.es, a 30,5 km.",
+          "Conviene organizar las salidas: la inspección hacia el Ripollès; el concesionario, en un viaje a Vic."
+        ]
+      },
+      {
+        "id": "eje-c17",
+        "h2": "106 kilómetros por la C-17 y la C-33",
+        "parrafos": [
+          "Hasta el carrer del Tambor del Bruc, en Sant Joan Despí, la ruta sale por la BV-5227, baja por la C-17, sigue por la C-33 y entra por la B-20: 106 km por carretera, 86,2 en línea recta.",
+          "Con esa distancia, bajar el coche tiene sentido para un problema que pida conocimiento específico de BMW: un testigo que vuelve tras borrarlo, una avería eléctrica que nadie localiza, un diésel B47 o N47 con ruido en la distribución. Santa Maria de Besora no está en el área metropolitana de Barcelona, así que la recogida del taller no llega."
+        ]
+      },
+      {
+        "id": "866-metros",
+        "h2": "A 866 metros: neumáticos antes que nada",
+        "parrafos": [
+          "El núcleo está a 866 metros de altitud. En invierno, lo que más se olvida son los neumáticos: con el dibujo al límite y la goma endurecida por los años, en una mañana de escarcha agarran mucho menos. Si no quieres cambiar a neumáticos de invierno, los de todo tiempo con el símbolo de la montaña y el copo son una opción razonable.",
+          "El padrón de 2025 da 164 habitantes (158 en 2015) e Idescat, a partir de la DGT, 121 turismos en 2024: 738 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV queda más cerca de Santa Maria de Besora?",
+        "a": "La de Ripoll (G08), en el passeig d'Ordina, a 20,9 km por carretera."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más próximo?",
+        "a": "En Vic: Quadis Munich, calle Perot Rocaguinarda 1, a 30,5 km según bmw.es."
+      },
+      {
+        "q": "¿Valen los neumáticos de todo tiempo para el invierno aquí?",
+        "a": "Los que llevan el símbolo de la montaña con el copo de nieve están homologados para condiciones invernales; con heladas puntuales son una opción sensata."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "164 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082536&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "121 · 738 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082536&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 20,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 30,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 106 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082536&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "la Quar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 62,
+  "population": 41,
   "lat": 42.099,
   "lng": 1.9638,
-  "metaTitle": "Taller BMW en la Quar | El taller que llega a las masías",
-  "metaDescription": "Servicio técnico BMW para la Quar, el municipio más disperso del Berguedà. Vamos masía por masía a recoger tu BMW. Diagnóstico oficial, recambios garantizados.",
+  "metaTitle": "Taller BMW para la Quar (Berguedà) | Especialista independiente",
+  "metaDescription": "BMW en la Quar (Berguedà): ITV en Berga a 21,9 km, servicio oficial en Vic a 40,1 km y taller especialista independiente a 109,1 km por la C-16.",
   "heroSubtitle": "62 habitantes repartidos en masías sin un solo taller en kilómetros. Llevamos el servicio BMW hasta cada rincón de la Quar.",
   "trustChips": [
     {
@@ -184,5 +184,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "La Quar: 41 vecinos en 38 km² y el taller especialista BMW a 109,1 km",
+    "entradilla": "En la Quar viven 41 personas repartidas en 38,25 km², a un habitante por kilómetro cuadrado. Para el coche eso significa distancias, carreteras de montaña y pocas alternativas cerca. Esto es lo que tienes a mano y lo que queda lejos.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 109.1
+    },
+    "secciones": [
+      {
+        "id": "un-habitante-por-km2",
+        "h2": "Un habitante por kilómetro cuadrado",
+        "parrafos": [
+          "El padrón de 2025 da a la Quar 41 habitantes, frente a 52 en 2015. Idescat registraba 47 turismos en 2024; en un municipio tan pequeño, la proporción por vecino dice poco.",
+          "Si el coche circula a menudo por caminos sin asfaltar, lo que más se resiente en un BMW es lo que va por debajo: protectores de cárter, silentblocks y rótulas de suspensión, y los neumáticos de perfil bajo, que se dañan con piedras y baches. Con el núcleo a 885 metros, el invierno añade el frío a la lista."
+        ]
+      },
+      {
+        "id": "berga-o-vic",
+        "h2": "ITV en Berga, servicio oficial en Vic",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el polígono La Valldan, a 21,9 km del núcleo urbano. El punto oficial BMW más cercano según bmw.es, en cambio, está en Vic: Quadis Munich, en la calle Perot Rocaguinarda 1, a 40,1 km."
+        ]
+      },
+      {
+        "id": "c62-c16",
+        "h2": "Hasta Sant Joan Despí por la C-62 y la C-16",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona sale por la BV-4346, enlaza con la C-62 y baja por la C-16 hasta la B-20: 109,1 km por carretera, 79,8 en línea recta. La Quar queda muy lejos del área metropolitana y la recogida del taller no llega.",
+          "Si te planteas el viaje, que sea por algo que lo pida: un aviso del sistema de emisiones que vuelve, una avería eléctrica que no se ha localizado o un mantenimiento por plan de marca que quede registrado en el historial del coche. Para todo lo demás, Berga está más cerca."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué reviso si circulo por caminos de tierra?",
+        "a": "Protectores de los bajos, suspensión (rótulas y silentblocks) y neumáticos. Un golpe en el cárter que no se ve a simple vista puede acabar en una fuga de aceite."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde la Quar?",
+        "a": "En Berga (B13), a 21,9 km por carretera."
+      },
+      {
+        "q": "¿Cuántos kilómetros hay hasta vuestro taller?",
+        "a": "109,1 km por carretera, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "41 habitantes (52 en 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081770&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "38,25 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081770&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 21,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 40,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 109,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081770&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

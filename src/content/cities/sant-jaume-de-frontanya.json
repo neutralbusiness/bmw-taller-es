@@ -3,11 +3,11 @@
   "name": "Sant Jaume de Frontanyà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 28,
-  "lat": 42.2383,
-  "lng": 2.0408,
-  "metaTitle": "Taller BMW en Sant Jaume de Frontanyà | El más pequeño merece lo mejor",
-  "metaDescription": "Servicio BMW especializado para Sant Jaume de Frontanyà, el municipio más pequeño de Cataluña. Recogida a domicilio en la montaña, diagnóstico profesional y entrega sin desplazamientos.",
+  "population": 25,
+  "lat": 42.19188,
+  "lng": 2.02654,
+  "metaTitle": "Taller BMW para Sant Jaume de Frontanyà (Berguedà)",
+  "metaDescription": "BMW en Sant Jaume de Frontanyà (Berguedà): ITV en Berga a 32 km, servicio oficial en Vic y taller especialista de la red a 131,2 km. Cuándo compensa.",
   "heroSubtitle": "28 habitantes, el municipio más pequeño de Cataluña, y ahora con servicio BMW profesional. Subimos hasta Sant Jaume para que tú no tengas que bajar.",
   "trustChips": [
     {
@@ -184,5 +184,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Jaume de Frontanyà: 25 vecinos, ITV en Berga a 32 km y el especialista BMW a 131,2",
+    "entradilla": "Sant Jaume de Frontanyà tenía 25 habitantes en 2025 y 15 turismos en 2024. Para quien tiene aquí un BMW o un MINI, la cuestión no es qué taller está cerca, porque ninguno lo está, sino qué se resuelve en Berga y qué justifica un viaje largo.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 131.2
+    },
+    "secciones": [
+      {
+        "id": "bv4656-c26",
+        "h2": "Por la BV-4656 hasta la C-26",
+        "parrafos": [
+          "La ruta hacia el sur toma la BV-4656 hasta la C-26, y de ahí la C-16 y la B-20: 131,2 km por carretera hasta Sant Joan Despí, 91,9 en línea recta.",
+          "La primera parte es carretera de montaña. A 1.072 metros, con heladas en invierno, la batería es lo primero que falla en un coche que pasa días parado. Un mantenedor de carga, si el coche duerme en un garaje con enchufe, alarga mucho su vida."
+        ]
+      },
+      {
+        "id": "berga-y-vic",
+        "h2": "Berga para la ITV, Vic para la marca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el polígono La Valldan, a 32 km. El servicio oficial BMW más cercano según el localizador de bmw.es está hacia el otro lado, en Vic: Quadis Munich, en la calle Perot Rocaguinarda 1, a 66 km por carretera."
+        ]
+      },
+      {
+        "id": "cuando-merece",
+        "h2": "Cuándo merecen la pena 131 kilómetros",
+        "parrafos": [
+          "Para un cambio de aceite o de pastillas, no. Para un diagnóstico que nadie ha cerrado, una avería de un diésel N57 o B57, o un trabajo de escape y gases que pida la homologación REDISTA, sí puede merecerla. Una llamada previa con modelo, año y kilometraje te dice si conviene el viaje.",
+          "Sant Jaume de Frontanyà pasó de 26 vecinos en 2015 a 25 en 2025, en un término de 21,26 km². No forma parte del área metropolitana de Barcelona, así que la recogida del taller no llega."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es la ITV más próxima a Sant Jaume de Frontanyà?",
+        "a": "Berga (B13), a 32 km por carretera, según la Generalitat."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "En Vic: Quadis Munich, a 66 km según bmw.es."
+      },
+      {
+        "q": "¿Cómo cuido la batería si el coche pasa días parado?",
+        "a": "Con un mantenedor de carga si tienes enchufe, o con un trayecto de carretera de vez en cuando. Si hay que cambiarla, en un BMW la nueva se registra en la centralita."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "25 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082166&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "1.072 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082166&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 32 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 66 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 131,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082166&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

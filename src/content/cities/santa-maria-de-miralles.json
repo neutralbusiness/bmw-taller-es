@@ -3,11 +3,11 @@
   "name": "Santa Maria de Miralles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 132,
+  "population": 144,
   "lat": 41.50448,
   "lng": 1.5102,
   "metaTitle": "Taller BMW cerca de Santa Maria de Miralles | Anoia",
-  "metaDescription": "Servicio especializado BMW cerca de Santa Maria de Miralles, Anoia. Diagnosis con equipo original, mecánica y mantenimiento con garantía.",
+  "metaDescription": "BMW en Santa Maria de Miralles (Anoia): ITV en Igualada a 15,7 km, servicio oficial a 52,5 km y taller especialista independiente a 66,3 km por la A-2.",
   "heroSubtitle": "Especialistas BMW para el sur de l'Anoia rural",
   "trustChips": [
     {
@@ -171,5 +171,122 @@
   "zoneAccessRoutes": [
     "Carretera comarcal hacia Igualada",
     "BV-2131 acceso local"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Maria de Miralles: servicio oficial BMW a 52,5 km y especialista independiente a 66,3",
+    "entradilla": "Para un BMW de Santa Maria de Miralles, el servicio oficial más próximo y el taller especialista de la red quedan a una distancia parecida: 52,5 y 66,3 km. La elección, por tanto, no va de kilómetros, sino de qué necesita el coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 66.3
+    },
+    "secciones": [
+      {
+        "id": "elegir-por-el-trabajo",
+        "h2": "Dos opciones a distancia parecida: elige por el trabajo",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más cercano es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages. Allí van las campañas que convoque BMW y las reparaciones cubiertas por la garantía del fabricante.",
+          "Para el mantenimiento y las reparaciones fuera de garantía, el Reglamento (UE) 461/2010 permite usar un taller independiente sin perder la garantía, con la condición de respetar intervalos y especificaciones. Dasercars Barcelona trabaja BMW y MINI, tiene especialidad en los diésel N47, N57, B47 y B57 y homologación REDISTA para escape y gases."
+        ]
+      },
+      {
+        "id": "c37-a2",
+        "h2": "Por la C-37 hasta la A-2",
+        "parrafos": [
+          "La C-37 pasa a medio kilómetro del núcleo urbano, y por ella empieza la ruta: C-37 y A-2 hasta el carrer del Tambor del Bruc, 66,3 km por carretera y 47,4 en línea recta. El municipio no forma parte del área metropolitana de Barcelona, de modo que la recogida del taller no llega y el coche lo traes tú."
+        ]
+      },
+      {
+        "id": "itv-igualada-miralles",
+        "h2": "La ITV, en Igualada",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Igualada (B12), de Applus, en el polígono Les Comes, a 15,7 km. En línea recta son 12, así que el rodeo es corto.",
+          "Santa Maria de Miralles tenía 144 habitantes en 2025, catorce más que en 2015, y 118 turismos en 2024 según Idescat. El núcleo está a 543 metros, en un término de 25,04 km². Un coche que hace a diario la C-37, con curvas y repechos, agradece que se revisen a tiempo los amortiguadores: cuando pierden eficacia, el coche cabecea en las frenadas y la frenada se alarga."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Pierdo la garantía si no voy al servicio oficial?",
+        "a": "No, siempre que el mantenimiento siga los intervalos y las especificaciones del plan de BMW."
+      },
+      {
+        "q": "¿Qué ITV me toca desde Santa Maria de Miralles?",
+        "a": "La más próxima por carretera es la de Igualada (B12), a 15,7 km."
+      },
+      {
+        "q": "¿Por dónde se va al taller?",
+        "a": "Por la C-37 y la A-2: 66,3 km hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "144 habitantes (+10,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082573&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "118",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082573&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 15,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 52,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 66,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082573&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

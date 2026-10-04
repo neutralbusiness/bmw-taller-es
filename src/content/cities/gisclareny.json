@@ -3,11 +3,11 @@
   "name": "Gisclareny",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 31,
+  "population": 28,
   "lat": 42.2609,
   "lng": 1.7982,
-  "metaTitle": "Taller BMW en Gisclareny | Servicio al pie del Cadí",
-  "metaDescription": "Taller BMW especializado para Gisclareny, uno de los municipios más pequeños de España. Subimos al Cadí a recoger tu BMW. Diagnóstico oficial y recambios de calidad.",
+  "metaTitle": "Taller BMW para Gisclareny (Berguedà) | Especialista BMW y MINI",
+  "metaDescription": "BMW en Gisclareny (Berguedà), a 1.340 m: ITV en Berga a 35,4 km, servicio oficial a 73,5 km y taller especialista independiente a 134,6 km.",
   "heroSubtitle": "31 habitantes al pie del Cadí. Tu BMW necesita un taller que no le tenga miedo a la montaña. Nosotros subimos.",
   "trustChips": [
     {
@@ -184,5 +184,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Gisclareny: 28 vecinos a 1.340 metros y el taller especialista BMW a 134,6 km",
+    "entradilla": "Gisclareny tenía 28 habitantes en 2025 y 19 turismos censados en 2024. Desde aquí, la ITV queda a 35,4 km y el taller especialista de la red, a 134,6. Te contamos qué hacer con esas distancias.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 134.6
+    },
+    "secciones": [
+      {
+        "id": "b400",
+        "h2": "A 1.340 metros, con la B-400 como carretera más próxima",
+        "parrafos": [
+          "La carretera con referencia más cercana es la B-400, a 2 km del núcleo urbano según OpenStreetMap. El núcleo está a 1.340 metros, en un término de 36,47 km², así que el coche hace casi siempre kilómetros de montaña.",
+          "Neumáticos con buen dibujo y unas cadenas o fundas textiles en el maletero durante el invierno son lo primero que conviene tener a punto. Y si el coche pasa días parado con heladas, al arrancar deja que el motor gire suave antes de exigirle: el aceite frío tarda en llegar a todas partes, y el turbo lo nota."
+        ]
+      },
+      {
+        "id": "berga-35",
+        "h2": "ITV a 35,4 km, servicio oficial a 73,5",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el polígono La Valldan: 35,4 km por carretera, aunque en línea recta son 18,2. El punto oficial BMW más cercano según bmw.es es Quadis Munich, en Sant Fruitós de Bages, a 73,5 km.",
+          "Con esas distancias, conviene que el viaje a la ITV no se convierta en dos. Una revisión previa de luces, frenos, neumáticos y holguras de la dirección, hecha con tiempo, evita tener que volver."
+        ]
+      },
+      {
+        "id": "solo-con-motivo",
+        "h2": "134,6 km hasta el taller: solo con motivo",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona, en Sant Joan Despí, suma 134,6 km por carretera, buena parte por la C-16, y 100,9 en línea recta.",
+          "Es mucho para una revisión. Tiene sentido si el BMW arrastra una avería que no se ha resuelto en la comarca. En Dasercars nada se empieza sin un presupuesto por escrito que hayas aprobado, de modo que sabes qué se va a hacer antes de dejar el coche."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Necesito cadenas en invierno?",
+        "a": "Si el coche no lleva neumáticos de invierno o de todo tiempo con el símbolo de la montaña y el copo, conviene llevarlas cuando hay previsión de nieve."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Gisclareny?",
+        "a": "En Berga (B13), a 35,4 km por carretera."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 73,5 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "28 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080930&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "1.340 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080930&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "19",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080930&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 35,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 134,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080930&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

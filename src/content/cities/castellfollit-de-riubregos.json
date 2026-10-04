@@ -3,11 +3,11 @@
   "name": "Castellfollit de Riubregós",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 184,
+  "population": 153,
   "lat": 41.7707,
   "lng": 1.4406,
-  "metaTitle": "Taller BMW en Castellfollit de Riubregós | Remoto y fiable",
-  "metaDescription": "Servicio BMW para Castellfollit de Riubregós. Taller especializado con recogida a domicilio para los municipios más remotos de la Anoia. 622 552 992.",
+  "metaTitle": "Taller BMW para Castellfollit de Riubregós (Anoia)",
+  "metaDescription": "BMW en Castellfollit de Riubregós (Anoia): ITV en Igualada, servicio oficial en Tàrrega y taller especialista de la red a 88,9 km por la A-2.",
   "heroSubtitle": "Que la distancia no comprometa el cuidado de tu BMW. Servicio técnico especializado con recogida en Castellfollit de Riubregós.",
   "trustChips": [
     {
@@ -183,5 +183,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellfollit de Riubregós: ITV a 38 km, servicio oficial a 43 y especialista BMW a 89",
+    "entradilla": "Desde Castellfollit de Riubregós, cualquier cosa que tenga que ver con el coche está lejos. Por eso esta página no va de cercanía, sino de cómo agrupar viajes: la ITV en Igualada, el servicio oficial BMW en Tàrrega y el taller especialista de la red en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 88.9
+    },
+    "secciones": [
+      {
+        "id": "igualada-y-tarrega",
+        "h2": "Igualada y Tàrrega, a una distancia parecida",
+        "parrafos": [
+          "La estación más próxima por carretera del registro de la Generalitat es ITV Igualada (B12), en el polígono Les Comes, a 38,2 km. El punto de servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 42,9 km. Igualada queda hacia Barcelona; Tàrrega, hacia Lleida.",
+          "Con esas distancias, lo práctico es hacer coincidir la ITV con otra gestión en Igualada y reservar Tàrrega para lo que solo puede hacer la red oficial, como las campañas de revisión que convoque BMW."
+        ]
+      },
+      {
+        "id": "c1412a",
+        "h2": "La C-1412a, a menos de un kilómetro del centro",
+        "parrafos": [
+          "El trazado de la C-1412a pasa a 0,8 km del centro, según OpenStreetMap, y es también la primera parte de la ruta hasta el taller: C-1412a y A-2, 88,9 km por carretera y 68,6 en línea recta hasta el carrer del Tambor del Bruc.",
+          "Si vas a hacer ese viaje, que sea por algo que lo justifique: un diagnóstico que no se ha resuelto en la zona, una avería de la caja automática o del sistema eléctrico, o el mantenimiento de un BMW que quieres llevar con su plan de marca. La diagnosis se presupuesta antes de conectar el equipo, así que sabes de antemano a qué te comprometes."
+        ]
+      },
+      {
+        "id": "catorce-menos",
+        "h2": "153 vecinos, catorce menos que en 2015",
+        "parrafos": [
+          "El padrón de 2025 da a Castellfollit de Riubregós 153 habitantes, frente a 167 en 2015: un 8,4 % menos. Idescat registraba 127 turismos en 2024, en un término de 26,21 km² con el núcleo a 467 metros.",
+          "Si tu coche pasa días parado, lo que más sufre es la batería, que se descarga sin llegar a recuperarse, y los discos de freno, que con la humedad se cubren de óxido. Un trayecto largo de vez en cuando les sienta bien a los dos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Castellfollit de Riubregós?",
+        "a": "En Igualada (B12), a 38,2 km por carretera, según la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Unicars Ponent, en Tàrrega, a 42,9 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Se cobra la diagnosis?",
+        "a": "Sí: es un trabajo técnico y se presupuesta antes de empezar, como el resto de la reparación."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "153 habitantes (−8,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080608&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "127",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080608&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 38,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 42,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 88,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080608&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Sant Agustí de Lluçanès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 97,
+  "population": 106,
   "lat": 42.084,
   "lng": 2.1307,
-  "metaTitle": "Taller BMW en Sant Agustí de Lluçanès | El más cercano",
-  "metaDescription": "Servicio técnico BMW en Sant Agustí de Lluçanès. El taller especializado más próximo para los 97 vecinos del municipio más pequeño del Lluçanès.",
+  "metaTitle": "Taller BMW para Sant Agustí de Lluçanès (Osona) | Especialista",
+  "metaDescription": "BMW en Sant Agustí de Lluçanès (Osona): ITV en Ripoll a 21,5 km, servicio oficial en Vic y taller especialista de la red a 107,7 km en Sant Joan Despí.",
   "heroSubtitle": "97 vecinos, cero excusas para no cuidar tu BMW. Servicio profesional alemán en el rincón más aislado del Lluçanès.",
   "trustChips": [
     {
@@ -183,5 +183,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Agustí de Lluçanès: 106 vecinos, ITV en Ripoll y taller BMW especialista a 107,7 km",
+    "entradilla": "En diez años, Sant Agustí de Lluçanès ha pasado de 90 a 106 habitantes. Si tienes aquí un BMW o un MINI, lo útil es saber dónde queda la inspección, dónde la red oficial y qué supone bajar al taller especialista de Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 107.7
+    },
+    "secciones": [
+      {
+        "id": "crecer-desde-poco",
+        "h2": "Un 17,8 % más de vecinos desde 2015",
+        "parrafos": [
+          "Según el padrón, el municipio tenía 90 habitantes en 2015 y 106 en 2025. Idescat, a partir de la DGT, contaba 68 turismos en 2024: 642 por cada 1.000 vecinos, en un término de 13,26 km² con el núcleo a 816 metros.",
+          "A esa altitud, antes del invierno merecen atención dos detalles que se suelen olvidar: las escobillas y el líquido lavaparabrisas con anticongelante, que en una mañana de escarcha marcan la diferencia, y la carga de la batería si el coche hace pocos kilómetros."
+        ]
+      },
+      {
+        "id": "ripoll-21",
+        "h2": "La ITV de Ripoll, a 21,5 km",
+        "parrafos": [
+          "La estación más cercana por carretera en el registro de la Generalitat es ITV Ripoll (G08), en el passeig d'Ordina: 21,5 km, aunque en línea recta son 13,7. El servicio oficial BMW más próximo según bmw.es está en Vic: Quadis Munich, en la calle Perot Rocaguinarda 1, a 32,2 km."
+        ]
+      },
+      {
+        "id": "bp4654-c17",
+        "h2": "Hasta Sant Joan Despí por la BP-4654 y la C-17",
+        "parrafos": [
+          "La ruta al taller de la red sale por la BP-4654, toma la C-17, sigue por la C-33 y termina por la B-20: 107,7 km por carretera, 80 en línea recta.",
+          "Para ese trayecto, mejor ir con el trabajo claro. Llama con el modelo, el año, los kilómetros y lo que notas, y pide que te digan si conviene bajar o resolverlo cerca. En Dasercars el presupuesto se da por escrito y nada se toca sin tu visto bueno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "En Vic: Quadis Munich, a 32,2 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV queda más cerca de Sant Agustí de Lluçanès?",
+        "a": "La de Ripoll (G08), a 21,5 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No. La recogida del taller solo cubre el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "106 habitantes (+17,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081957&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "68 · 642 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081957&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 21,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 32,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 107,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081957&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

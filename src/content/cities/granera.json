@@ -7,7 +7,7 @@
   "lat": 41.72704,
   "lng": 2.06766,
   "metaTitle": "Taller BMW cerca de Granera | Especialistas en la marca",
-  "metaDescription": "Servicio especializado BMW para vecinos de Granera y el Moianès. Diagnosis original, mantenimiento y reparación de motor. Presupuesto claro antes de reparar.",
+  "metaDescription": "BMW en Granera (Moianès): taller autorizado en Castellar del Vallès a 25,2 km, ITV en Viladecavalls y taller especialista de la red a 68,6 km.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Granera",
   "trustChips": [
     {
@@ -172,5 +172,119 @@
     "C-59 dirección Manresa",
     "BV-1221 hacia Sant Feliu de Codines",
     "C-16 desde Terrassa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Granera (Moianès): taller autorizado BMW en Castellar del Vallès y especialista a 68,6 km",
+    "entradilla": "Granera está a 40,2 km en línea recta de nuestro taller de Sant Joan Despí, pero por carretera son 68,6. Esa diferencia resume el sitio: relieve, curvas y pocos atajos. Lo que tienes más cerca de la marca es un taller autorizado en Castellar del Vallès.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 68.6
+    },
+    "secciones": [
+      {
+        "id": "tallcar-castellar",
+        "h2": "Tallcar, el punto oficial más próximo",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto de servicio oficial más cercano a Granera es Tallcar, en Castellar del Vallès (calle Suiza 6): un taller autorizado de la marca a 25,2 km por carretera. Para una reparación cubierta por la garantía del fabricante, es la referencia.",
+          "Un taller independiente puede encargarse del mantenimiento sin que pierdas la garantía de BMW mientras se cumpla el plan del fabricante, con sus intervalos y especificaciones."
+        ]
+      },
+      {
+        "id": "seis-carreteras",
+        "h2": "Seis carreteras hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta más corta que calcula OpenStreetMap enlaza la BV-1245, la C-59, la BV-1341, la C-1413b, la C-33 y la B-20. Son 68,6 km por carretera para 40,2 en línea recta: un rodeo de casi treinta kilómetros que imponen el relieve y el trazado.",
+          "Granera queda fuera del área metropolitana de Barcelona y la recogida del taller no llega. Si bajas, que sea por algo que merezca el viaje; una llamada previa con modelo, año y síntoma lo aclara."
+        ]
+      },
+      {
+        "id": "itv-viladecavalls",
+        "h2": "La ITV, en el polígono Can Trias de Viladecavalls",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Viladecavalls (B03), en el polígono Can Trias, a 40,1 km; en línea recta, 19,9.",
+          "Granera tiene 84 vecinos según el padrón de 2025 (80 en 2015) y 78 turismos censados en 2024 según Idescat, en un término de 23,73 km². El núcleo está a 782 metros: con heladas, las juntas de las puertas y el freno de estacionamiento pueden quedarse pegados si el coche duerme mojado al raso; dejarlo con una marcha engranada, o en P en un automático, evita forzar el freno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el taller autorizado BMW más cercano a Granera?",
+        "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 25,2 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Viladecavalls (B03), a 40,1 km."
+      },
+      {
+        "q": "¿Por qué hay tanta diferencia entre carretera y línea recta?",
+        "a": "Porque las carreteras de la zona rodean el relieve: 68,6 km hasta el taller frente a 40,2 en línea recta."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "84 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Moianès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080958&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "782 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080958&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecavalls (B03) · 40,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar (Castellar del Vallès) · 25,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 68,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080958&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

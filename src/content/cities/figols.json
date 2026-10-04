@@ -3,11 +3,11 @@
   "name": "Fígols",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 46,
+  "population": 40,
   "lat": 42.1744,
   "lng": 1.7823,
-  "metaTitle": "Taller BMW en Fígols | Donde la minería dejó paso al silencio",
-  "metaDescription": "Mantenimiento BMW profesional para Fígols, antiguo pueblo minero del Berguedà. Recogida a domicilio, diagnóstico con equipo BMW y devolución sin desplazamientos.",
+  "metaTitle": "Taller BMW para Fígols (Berguedà) | Especialista BMW y MINI",
+  "metaDescription": "Fígols, a 1.154 m: frenos y diésel de tu BMW en invierno, ITV en Berga a 19,7 km y taller especialista de la red a 119 km por la C-16.",
   "heroSubtitle": "Fígols fue pueblo de mineros que sabían de mecánica. Hoy traemos servicio BMW especializado hasta este rincón del Berguedà que se resiste a desaparecer.",
   "trustChips": [
     {
@@ -184,5 +184,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Fígols, a 1.154 metros: ITV en Berga y taller especialista BMW a 119 km por la C-16",
+    "entradilla": "Fígols tiene 40 vecinos y su núcleo está a 1.154 metros, a dos kilómetros de la C-16. Si tienes aquí un BMW o un MINI, lo que importa es cómo le afecta la altitud, dónde está lo más cercano y cuándo merece la pena bajar al taller especialista de Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 119.0
+    },
+    "secciones": [
+      {
+        "id": "bv4025",
+        "h2": "De 1.154 metros a la C-16 por la BV-4025",
+        "parrafos": [
+          "La ruta hacia el sur empieza por la BV-4025, que baja desde el núcleo hasta la C-16; el trazado de esta pasa a 2 km del pueblo, según OpenStreetMap.",
+          "En un descenso así, el que trabaja es el líquido de frenos. Con los años se carga de agua, su punto de ebullición baja y, si se sobrecalienta, el pedal se hunde más de lo normal. BMW marca su cambio por fecha y no por kilómetros: en un coche que anda poco, es fácil que se pase sin que nadie lo note."
+        ]
+      },
+      {
+        "id": "diesel-en-altura",
+        "h2": "Diésel y frío por encima de mil metros",
+        "parrafos": [
+          "A esta altitud el invierno es largo. En un diésel, conviene que los calentadores estén bien: si uno falla, el motor arranca peor en frío y humea más los primeros metros.",
+          "Si el coche lleva AdBlue, el sistema tiene su propio calentador. Un aviso relacionado con él no es para dejarlo pasar, porque la cuenta atrás termina impidiendo arrancar el motor."
+        ]
+      },
+      {
+        "id": "berga-y-sant-fruitos-figols",
+        "h2": "Lo más cercano: Berga y Sant Fruitós de Bages",
+        "parrafos": [
+          "Según el registro de la Generalitat, la estación de ITV más próxima por carretera es ITV Berga (B13), en el polígono La Valldan, a 19,7 km. El servicio oficial BMW más próximo en el localizador de bmw.es es Quadis Munich, en Sant Fruitós de Bages, a 57,8 km.",
+          "El taller de la red, Dasercars Barcelona, queda a 119 km por la BV-4025, la C-16 y la B-20 (92,7 en línea recta). El municipio tiene 40 habitantes según el padrón de 2025, tres menos que en 2015, en un término de 29,31 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cada cuánto se cambia el líquido de frenos?",
+        "a": "Cuando lo marque el plan de mantenimiento; en BMW va por tiempo y el indicador de servicio lo avisa."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana a Fígols?",
+        "a": "En Berga (B13), a 19,7 km por carretera."
+      },
+      {
+        "q": "¿Sirve el taller para un MINI?",
+        "a": "Sí. MINI comparte motores y electrónica con BMW, y se trabaja con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "40 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080804&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "1.154 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080804&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 19,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 57,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 119 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080804&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
