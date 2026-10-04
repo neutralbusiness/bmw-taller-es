@@ -3,11 +3,11 @@
   "name": "Vallirana",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 14066,
+  "population": 16245,
   "lat": 41.38676,
   "lng": 1.93205,
   "metaTitle": "Taller BMW en Vallirana — Especialista en DPF, AdBlue y N47",
-  "metaDescription": "Taller especialista BMW en Vallirana. Solucionamos problemas de DPF y AdBlue en tu X3/X5 por trayectos cortos. Diagnóstico ISTA y ahorro del 50%. Pide presupuesto.",
+  "metaDescription": "Vallirana: el taller especialista BMW de la red está a 17,6 km por la B-24 y la A-2, más cerca que el concesionario. ITV y presupuesto por escrito.",
   "heroSubtitle": "Cansado de que el aviso del DPF de tu BMW salte cada vez que bajas al centro o vas por la B-24? Tenemos la solución definitiva en Vallirana.",
   "trustChips": [
     {
@@ -187,5 +187,127 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vallirana: el taller BMW de la red a 17,6 km, más cerca que el concesionario",
+    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,6 km por la B-24 y la A-2 frente a 19,8 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 17.6
+    },
+    "secciones": [
+      {
+        "id": "b24-a2",
+        "h2": "La B-24 hasta la A-2",
+        "parrafos": [
+          "La B-24 pasa a medio kilómetro del centro de Vallirana y es el camino al taller: se sigue hasta la A-2 y de ahí a Sant Joan Despí, donde está Dasercars Barcelona, en el carrer del Tambor del Bruc 3. Son 17,6 km por carretera y 10,7 en línea recta. La N-340 queda a 1,2 km del centro.",
+          "Con esa distancia, dejar el coche por la mañana y volver a por él por la tarde es perfectamente viable."
+        ]
+      },
+      {
+        "id": "fuera-del-amb",
+        "h2": "Fuera del área metropolitana por muy poco",
+        "parrafos": [
+          "Vallirana es Baix Llobregat, pero no figura entre los 36 municipios del Área Metropolitana de Barcelona. La recogida y entrega del coche y el vehículo de cortesía que ofrece el taller se limitan a esa área, así que aquí no llegan. Cervelló y Corbera de Llobregat, a 2,5 y 3,5 km en línea recta, sí están dentro.",
+          "En la práctica, para un trabajo de un día no supone gran diferencia; para uno de varios días, cuenta con organizar tú la ida y la vuelta."
+        ]
+      },
+      {
+        "id": "presupuesto-vallirana",
+        "h2": "Cómo se presupuesta un trabajo",
+        "parrafos": [
+          "Cada reparación sale con presupuesto escrito, y el taller no toca nada que no hayas aprobado antes. La diagnosis, cuando hay que conectar el equipo, también lleva su presupuesto: es trabajo técnico, no un trámite.",
+          "Si el coche es un diésel con avisos repetidos de filtro de partículas o de AdBlue, apunta cuándo salen y en qué tipo de trayecto. Ayuda mucho a acotar la causa."
+        ]
+      },
+      {
+        "id": "oficial-e-itv",
+        "h2": "Sant Boi para el servicio oficial, Sant Andreu de la Barca para la ITV",
+        "parrafos": [
+          "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 19,8 km. La ITV que la Generalitat sitúa más cerca por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 16,2 km; en línea recta son 8,6.",
+          "Vallirana tenía 16.245 habitantes en 2025, un 11 % más que en 2015, y 8.636 turismos en 2024 según Idescat: 532 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Vallirana?",
+        "a": "No: Vallirana no está en el Área Metropolitana de Barcelona, y la recogida solo cubre esa área."
+      },
+      {
+        "q": "¿Qué está más cerca, vuestro taller o el concesionario?",
+        "a": "El taller: 17,6 km hasta Sant Joan Despí, frente a 19,8 km hasta Barcelona Premium, en Sant Boi."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Sant Andreu de la Barca (B21), a 16,2 km por carretera, según el registro de la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "16.245 habitantes (+11 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082956&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.636 · 532 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082956&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 16,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Boi · 19,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 17,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082956&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Argentona",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 11633,
+  "population": 12891,
   "lat": 41.55336,
   "lng": 2.40114,
   "metaTitle": "Taller BMW en Argentona — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Argentona: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "Argentona: ITV en el propio municipio, concesionario BMW en Mataró a 5 km y taller especialista independiente a 45,2 km en Sant Joan Despí.",
   "heroSubtitle": "Tu BMW merece un especialista. En Argentona, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -178,5 +178,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Argentona: ITV en el propio municipio y servicio oficial BMW a 5 km, en Mataró",
+    "entradilla": "En Argentona tienes la ITV dentro del término municipal y el concesionario BMW de Mataró a 5 km. El taller especialista de la red queda más lejos, a 45,2 km en Sant Joan Despí; te explicamos para qué compensa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 45.2
+    },
+    "secciones": [
+      {
+        "id": "itv-el-cros",
+        "h2": "La ITV del polígono El Cros",
+        "parrafos": [
+          "El registro de estaciones de la Generalitat incluye una ITV en el municipio: la de Argentona (B08), gestionada por Applus, en la zona industrial sector sud del polígono El Cros. Para un coche de Argentona no hay que buscar más.",
+          "Si el coche tiene algo pendiente —una luz fundida, un testigo encendido, holguras en la dirección—, resuélvelo antes de la cita: un defecto grave obliga a volver."
+        ]
+      },
+      {
+        "id": "pruna-mataro",
+        "h2": "Pruna Motor, en la Via Sergia de Mataró",
+        "parrafos": [
+          "El servicio oficial BMW más próximo en el localizador de bmw.es es Pruna Motor, en la Via Sergia 2 de Mataró, a 5 km por carretera. Las campañas de revisión que convoca BMW y las reparaciones en garantía que dependen de la marca pasan por allí.",
+          "Para el mantenimiento y las averías fuera de garantía, la elección es tuya. Nosotros somos un taller independiente especializado en BMW y MINI, no un concesionario."
+        ]
+      },
+      {
+        "id": "ruta-maresme",
+        "h2": "Por la C-32 hacia el Baix Llobregat",
+        "parrafos": [
+          "Desde el centro de Argentona, la ruta hasta Dasercars Barcelona coge la C-32, cruza por la B-20 y termina en la B-23: 45,2 km por carretera y 35,3 en línea recta. A menos de tres kilómetros pasan, además, la C-60, la B-40 y la N-II.",
+          "Argentona no forma parte del Área Metropolitana de Barcelona y la recogida del taller no llega. Para que el viaje no sea en balde, llama antes y explica el síntoma con el modelo y el año del coche."
+        ]
+      },
+      {
+        "id": "argentona-en-cifras",
+        "h2": "12.891 vecinos a 4,3 km del mar",
+        "parrafos": [
+          "El padrón de 2025 da a Argentona 12.891 habitantes, un 7,6 % más que en 2015. Idescat contaba 6.722 turismos en 2024, 521 por cada 1.000 vecinos. El centro está a 88 metros de altitud y a 4,3 km de la costa: lo bastante cerca como para no olvidarse de mirar de vez en cuando bajos y conectores."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en Argentona?",
+        "a": "Sí: la estación B08, en el polígono El Cros, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 5 km."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 45,2 km por la C-32, la B-20 y la B-23, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "12.891 habitantes (+7,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080095&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "6.722 · 521 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080095&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Argentona (B08), polígono El Cros",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 45,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080095&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

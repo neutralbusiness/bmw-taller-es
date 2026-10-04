@@ -3,11 +3,11 @@
   "name": "La Roca del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 10214,
+  "population": 11014,
   "lat": 41.58333,
   "lng": 2.33333,
   "metaTitle": "Taller BMW La Roca del Vallès — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en La Roca del Vallès. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "La Roca del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 48,1 km en Sant Joan Despí.",
   "heroSubtitle": "Mantén tu BMW en La Roca del Vallès con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -178,5 +178,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "La Roca del Vallès: 563 turismos por cada mil vecinos y el taller BMW a 48,1 km",
+    "entradilla": "En La Roca del Vallès hay 563 turismos por cada 1.000 habitantes: más de un coche por cada dos vecinos, en un término amplio y poco denso. Lo que tienes cerca está en Granollers; el taller especialista BMW de la red, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 48.1
+    },
+    "secciones": [
+      {
+        "id": "termino-disperso",
+        "h2": "36,9 km² y 298 habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "El término de La Roca del Vallès mide 36,9 km² y la densidad es de 298 habitantes por kilómetro cuadrado, con 11.014 vecinos en el padrón de 2025, un 4,9 % más que en 2015. Idescat contaba 6.206 turismos en 2024.",
+          "En un municipio así el coche se usa para casi todo, y en trayectos muy variados: carretera comarcal, rotondas, algún tramo de autopista. Es un uso que reparte el desgaste y que hace aún más importante no saltarse lo que pide el indicador de servicio."
+        ]
+      },
+      {
+        "id": "lo-oficial-en-granollers",
+        "h2": "Lo oficial queda en Granollers",
+        "parrafos": [
+          "Para la inspección, la referencia es la estación B18 de Applus en Granollers, a 8,9 km por carretera según los datos abiertos de la Generalitat. Para el concesionario BMW, Pruna Motor, también en Granollers, a 9,4 km por la C-17.",
+          "Ni para la ITV ni para lo que tenga que pasar por la red de la marca hace falta ir más lejos."
+        ]
+      },
+      {
+        "id": "ruta-la-roca",
+        "h2": "De la AP-7 a Sant Joan Despí: 48,1 km",
+        "parrafos": [
+          "La AP-7 pasa a 1,8 km del centro, y por ella empieza la ruta al taller; después, C-33, B-20 y B-23 hasta Dasercars Barcelona. Son 48,1 km por carretera, 33,3 en línea recta.",
+          "La recogida del taller no llega hasta aquí, porque La Roca queda fuera del área metropolitana. Con ese trayecto, compensa para trabajos que piden un especialista en la marca: averías electrónicas sin diagnosticar, ruidos de distribución en los diésel N47 y N57, o el sistema de escape y gases, para el que el taller tiene homologación REDISTA."
+        ]
+      },
+      {
+        "id": "si-es-un-mini",
+        "h2": "Si tu coche es un MINI",
+        "parrafos": [
+          "Un MINI moderno es, por dentro, un BMW: comparte arquitectura eléctrica, centralitas y familias de motor. La diagnosis, los procedimientos y los recambios son los mismos, y el taller lo trata exactamente igual."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde La Roca del Vallès?",
+        "a": "La estación más próxima por carretera en el registro de la Generalitat es Granollers (B18), a 8,9 km."
+      },
+      {
+        "q": "¿Venís a por el coche a La Roca?",
+        "a": "No. La recogida cubre solo el área metropolitana de Barcelona, y La Roca del Vallès queda fuera."
+      },
+      {
+        "q": "¿Qué distancia hay hasta el taller?",
+        "a": "48,1 km por la AP-7, la C-33, la B-20 y la B-23."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "11.014 habitantes (+4,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081810&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "6.206 · 563 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081810&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 8,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 9,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 48,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081810&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

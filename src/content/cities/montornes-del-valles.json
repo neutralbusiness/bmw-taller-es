@@ -3,11 +3,11 @@
   "name": "Montornès del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 15509,
+  "population": 17102,
   "lat": 41.54206,
   "lng": 2.26748,
   "metaTitle": "Taller BMW en Montornès del Vallès — Especialistas sin perder garantía",
-  "metaDescription": "Taller BMW en Montornès del Vallès: mantenimiento, revisiones CBS y reparación con diagnóstico ISTA oficial. Recambios OE. Sin perder la garantía del fabricante.",
+  "metaDescription": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 37,3 km, en Sant Joan Despí.",
   "heroSubtitle": "Tu BMW merece un especialista. En Montornès del Vallès, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -181,5 +181,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers, especialista a 37 km",
+    "entradilla": "Para un coche de Montornès, casi todo lo oficial está en Granollers, a menos de ocho kilómetros. El taller especialista BMW de la red queda más lejos, en Sant Joan Despí: te contamos por dónde se va y cuándo merece la pena.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 37.3
+    },
+    "secciones": [
+      {
+        "id": "granollers",
+        "h2": "Granollers: la ITV a 7 km y Pruna Motor a 7,8",
+        "parrafos": [
+          "La estación de ITV que el registro de la Generalitat sitúa más próxima por carretera es la de Granollers (B18), de Applus, en la avinguda de Sant Julià del polígono El Congost: 7 km. En la misma ciudad está el servicio oficial BMW, Pruna Motor, en la carretera C-17, km 19,060, a 7,8 km según el buscador de bmw.es.",
+          "Las llamadas a revisión que convoque BMW se resuelven en un concesionario de la marca como ese. El resto —mantenimiento, desgaste, averías fuera de garantía— puedes llevarlo donde prefieras."
+        ]
+      },
+      {
+        "id": "ruta-montornes",
+        "h2": "Hacia Sant Joan Despí por la C-33 y la B-20",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona sale por la BV-5001, toma la C-33 y cruza por la B-20 hasta enlazar con la B-23: 37,3 km por carretera, 26,2 en línea recta.",
+          "Montornès no está en el Área Metropolitana de Barcelona, y la recogida que ofrece el taller no llega. Para un trabajo de un día, lo cómodo es dejar el coche a primera hora y volver a por él al cierre."
+        ]
+      },
+      {
+        "id": "diesel-autopista",
+        "h2": "Un diésel con la autopista a dos kilómetros",
+        "parrafos": [
+          "Los diésel de BMW de las familias N47, N57, B47 y B57 necesitan, de vez en cuando, un tramo a régimen sostenido para quemar el hollín del filtro de partículas. Desde Montornès es fácil: la AP-7 pasa a unos dos kilómetros del centro y la C-33 a 2,6. Lo que no le sienta bien es el uso contrario: arrancar, recorrer cuatro calles y apagar, semana tras semana.",
+          "Si el aviso del filtro aparece a menudo, conviene mirar también el sensor de presión diferencial y la válvula EGR antes de dar el filtro por perdido."
+        ]
+      },
+      {
+        "id": "montornes-en-cifras",
+        "h2": "17.102 habitantes en 10,23 km²",
+        "parrafos": [
+          "El padrón de 2025 da a Montornès del Vallès 17.102 vecinos, un 5,8 % más que diez años antes (16.172). Idescat, con datos de la DGT, contaba 8.562 turismos en 2024: 501 por cada 1.000 habitantes, prácticamente uno por cada dos personas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Montornès?",
+        "a": "La estación más próxima en el registro de la Generalitat es Granollers (B18), en el polígono El Congost, a 7 km."
+      },
+      {
+        "q": "¿Qué servicio oficial BMW tengo más cerca?",
+        "a": "Pruna Motor, en la C-17 a su paso por Granollers, a 7,8 km."
+      },
+      {
+        "q": "¿Cuántos kilómetros hay hasta vuestro taller?",
+        "a": "37,3 por carretera, por la C-33, la B-20 y la B-23 hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.102 habitantes (+5,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081363&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.562 · 501 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081363&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 7,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 37,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081363&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

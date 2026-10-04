@@ -3,7 +3,7 @@
   "name": "Cunit",
   "province": "Tarragona",
   "ccaa": "Cataluña",
-  "population": 12279,
+  "population": 16385,
   "lat": 41.19829,
   "lng": 1.63645,
   "metaTitle": "Taller BMW en Cunit | Especialistas en la costa del Penedès",
@@ -171,5 +171,126 @@
     "C-31",
     "C-32",
     "N-340"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cunit: un BMW en el Baix Penedès, con lo oficial en Vilanova y el taller a 49,7 km",
+    "entradilla": "Cunit es provincia de Tarragona, pero lo que un dueño de BMW necesita a mano está en el Garraf: el servicio oficial y la ITV más próximos, en Vilanova i la Geltrú. El taller especialista de la red queda en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 49.7
+    },
+    "secciones": [
+      {
+        "id": "cunit-crece",
+        "h2": "De 11.883 a 16.385 vecinos en diez años",
+        "parrafos": [
+          "Entre 2015 y 2025 el padrón de Cunit ha sumado un 37,9 % de habitantes. Idescat contaba 7.152 turismos en 2024: 436 por cada 1.000 vecinos, en un término de 9,74 km².",
+          "Si has llegado a Cunit en estos años y el historial de mantenimiento se quedó en tu anterior taller, no lo des por perdido: el propio coche guarda los servicios pendientes en el indicador de mantenimiento, y con un equipo de diagnosis BMW se leen y se ponen al día."
+        ]
+      },
+      {
+        "id": "lo-de-vilanova",
+        "h2": "Lo que tienes en Vilanova i la Geltrú",
+        "parrafos": [
+          "A 11,2 km por carretera está Quadis Munich, el concesionario BMW de la avinguda d'Eduard Toldrà 69, que es el punto oficial más próximo en el buscador de bmw.es. Para la inspección, el listado de la Generalitat da como estación más a mano por carretera la B17 de Applus, en la Ronda Europa de la misma ciudad, a 12,1 km."
+        ]
+      },
+      {
+        "id": "costa-cunit",
+        "h2": "A cuatrocientos metros de la costa",
+        "parrafos": [
+          "El centro de Cunit está a 0,4 km de la línea de costa. Con el mar tan cerca, la humedad salina no castiga solo la carrocería: el condensador del aire acondicionado, que es lo primero que recibe el aire en el frontal, es de las piezas que antes acusan la corrosión en los coches de costa.",
+          "Las juntas de goma y las escobillas, resecas por la sal y el sol, son la otra víctima habitual. Revisarlas antes del otoño evita filtraciones y cristales mal barridos."
+        ]
+      },
+      {
+        "id": "c32-hasta-sant-joan-despi",
+        "h2": "Por la C-32 y la B-25 hasta el taller",
+        "parrafos": [
+          "Con la C-31 pasando por el municipio y la C-32 a 1,4 km, la salida es directa. La ruta hasta Dasercars Barcelona, en Sant Joan Despí, suma 49,7 km por carretera (39,9 en línea recta) por la C-32 y la B-25. La recogida del taller no llega a Cunit, que queda fuera del área metropolitana.",
+          "Antes de hacer el viaje, una llamada con el modelo, el año y los kilómetros del coche permite saber si el problema es para un especialista o se arregla cerca."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué el servicio oficial que me toca está en otra provincia?",
+        "a": "Porque el punto oficial BMW más próximo a Cunit en el localizador de bmw.es es Quadis Munich, en Vilanova i la Geltrú, a 11,2 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La que el registro de la Generalitat sitúa más cerca por carretera es Vilanova (B17), en la Ronda Europa, a 12,1 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Cunit?",
+        "a": "No. La recogida cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "16.385 habitantes (+37,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430516&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.152 · 436 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430516&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 0,4 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Vilanova (B17) · 12,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 11,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=430516&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

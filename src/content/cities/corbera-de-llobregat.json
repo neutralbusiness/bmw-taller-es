@@ -3,11 +3,11 @@
   "name": "Corbera de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 13843,
+  "population": 16010,
   "lat": 41.41702,
   "lng": 1.9197,
   "metaTitle": "Taller BMW en Corbera de Llobregat — Especialista con ISTA",
-  "metaDescription": "Tu taller especialista BMW en Corbera de Llobregat. Mantenimiento y revisiones CBS sin perder la garantía oficial. Diagnóstico ISTA. Pide tu presupuesto cerrado.",
+  "metaDescription": "Corbera de Llobregat: taller especialista BMW a 19,8 km y recogida en el área metropolitana, sujeta a disponibilidad. ITV en Sant Andreu de la Barca.",
   "heroSubtitle": "Mantén la garantía de tu BMW nuevo en Corbera de Llobregat sin pagar los precios del concesionario oficial. Transparencia y diagnóstico profesional.",
   "trustChips": [
     {
@@ -195,5 +195,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Corbera de Llobregat: taller BMW a 19,8 km y recogida dentro del área metropolitana",
+    "entradilla": "Corbera está en alto, a 342 metros, y forma parte del Área Metropolitana de Barcelona. Eso abre una opción que no tienen todos los pueblos de la zona: que el taller recoja el coche, si hay disponibilidad.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 19.8
+    },
+    "secciones": [
+      {
+        "id": "recogida-corbera",
+        "h2": "Recogida, entrega y coche de cortesía, si hay hueco",
+        "parrafos": [
+          "Dasercars Barcelona ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana, y Corbera de Llobregat está dentro. Las dos cosas dependen de la disponibilidad del día, así que lo sensato es pedirlas al cerrar la cita y no la víspera.",
+          "Si prefieres llevarlo tú, la ruta baja por la BV-2421 hasta la B-24 y sigue por la A-2 hasta Sant Joan Despí: 19,8 km por carretera, 12,8 en línea recta."
+        ]
+      },
+      {
+        "id": "frenos-en-bajada",
+        "h2": "Frenos y una carretera de bajada",
+        "parrafos": [
+          "El centro urbano está a 342 metros, y llegar a la red principal supone perder altura. En bajadas repetidas el líquido de frenos se calienta más, y como absorbe humedad con los años, uno viejo pierde margen antes de lo que parece. Por eso BMW lo programa por tiempo, y el indicador de servicio lo pide aunque el coche apenas haga kilómetros.",
+          "Pastillas y discos también trabajan más con ese perfil. Un chirrido o una vibración al frenar cuesta abajo son motivo suficiente para revisarlos."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu",
+        "h2": "ITV en Sant Andreu de la Barca, servicio oficial en Sant Boi",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es Sant Andreu de la Barca (B21), de Applus, en la N-II, punto kilométrico 592,5: 10,4 km desde Corbera.",
+          "El servicio oficial BMW que da bmw.es como más próximo queda más lejos que nuestro taller: Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 22 km."
+        ]
+      },
+      {
+        "id": "corbera-en-cifras",
+        "h2": "16.010 vecinos, un 12,4 % más que en 2015",
+        "parrafos": [
+          "Corbera de Llobregat ha pasado de 14.240 habitantes en 2015 a 16.010 en 2025, en un término de 18,41 km². En 2024 tenía 8.002 turismos según Idescat a partir de la DGT: 500 por cada 1.000 vecinos, un coche por cada dos personas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Corbera de Llobregat?",
+        "a": "Sí. Corbera está dentro del área metropolitana de Barcelona; la recogida y entrega está sujeta a disponibilidad, así que pídela al reservar."
+      },
+      {
+        "q": "¿Cada cuánto hay que cambiar el líquido de frenos de un BMW?",
+        "a": "Por tiempo, según el plan de mantenimiento: el indicador de servicio lo avisa aunque el coche haga pocos kilómetros."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "Sant Andreu de la Barca (B21), a 10,4 km por carretera, según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "16.010 habitantes (+12,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080728&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "342 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080728&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.002 · 500 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080728&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 10,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 19,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080728&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

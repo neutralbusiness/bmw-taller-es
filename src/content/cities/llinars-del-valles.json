@@ -3,11 +3,11 @@
   "name": "Llinars del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 9477,
+  "population": 10956,
   "lat": 41.63649,
   "lng": 2.39502,
   "metaTitle": "Taller BMW en Llinars del Vallès | BMW Taller",
-  "metaDescription": "Taller BMW en Llinars del Vallès. Diagnóstico oficial, mantenimiento, turbo, caja ZF y Vanos. Presupuesto cerrado antes de reparar.",
+  "metaDescription": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 52,2 km por la C-35 y la AP-7.",
   "heroSubtitle": "Especialistas BMW para Llinars del Vallès y su entorno",
   "trustChips": [
     {
@@ -170,5 +170,126 @@
     "AP-7",
     "C-35",
     "N-152"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 52,2 km",
+    "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Mataró; y el taller especialista de la red, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 52.2
+    },
+    "secciones": [
+      {
+        "id": "itv-sant-celoni",
+        "h2": "La ITV de la carretera de Gualba",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Celoni (B26), que gestiona TÜV SÜD en la carretera de Gualba 41-43: 13,3 km desde el centro de Llinars.",
+          "Si vas a pasar la inspección, revisa antes lo que más suspende: luces, neumáticos, escobillas y cualquier testigo encendido en el cuadro."
+        ]
+      },
+      {
+        "id": "concesionario-mataro",
+        "h2": "El concesionario BMW más próximo está en Mataró",
+        "parrafos": [
+          "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en la Via Sergia 2 de Mataró, a 20,8 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
+          "Lo demás —mantenimiento, desgaste, averías fuera de garantía— puede hacerse en un taller independiente."
+        ]
+      },
+      {
+        "id": "c35-ap7",
+        "h2": "52,2 kilómetros por la C-35 y la AP-7",
+        "parrafos": [
+          "La C-35 pasa a 0,6 km del centro y la AP-7 a 2,3. La ruta hasta Dasercars Barcelona encadena las dos, sigue por la C-33 y la B-20 y termina en la B-23: 52,2 km por carretera, 41,1 en línea recta. La recogida del taller no llega a Llinars, que queda fuera del área metropolitana.",
+          "Por distancia, el viaje es para lo específico de la marca. Te damos el presupuesto por escrito antes de empezar y nada se toca sin que lo apruebes; la diagnosis también se presupuesta aparte."
+        ]
+      },
+      {
+        "id": "llinars-crece",
+        "h2": "De 9.570 a 10.956 vecinos",
+        "parrafos": [
+          "El padrón de 2025 da a Llinars del Vallès 10.956 habitantes, frente a los 9.570 de 2015. Idescat contaba 5.667 turismos en 2024: 517 por cada 1.000 vecinos, en un término de 27,63 km² a 198 metros de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Llinars?",
+        "a": "La estación más próxima por carretera en el registro de la Generalitat es Sant Celoni (B26), a 13,3 km."
+      },
+      {
+        "q": "¿Por qué el concesionario BMW más cercano está en Mataró?",
+        "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, a 20,8 km por carretera."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "52,2 km por carretera, por la C-35, la AP-7, la C-33, la B-20 y la B-23."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "10.956 habitantes (+14,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081069&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.667 · 517 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081069&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 13,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 20,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 52,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081069&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
