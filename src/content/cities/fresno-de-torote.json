@@ -3,11 +3,11 @@
   "name": "Fresno de Torote",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 2089,
+  "population": 2561,
   "lat": 40.60458,
   "lng": -3.40403,
   "metaTitle": "Taller BMW en Fresno de Torote | Mecánica especializada",
-  "metaDescription": "Taller BMW en Fresno de Torote, corredor del Henares, Madrid. Diagnosis oficial, turbo y caja automática. Servicio con recogida. Presupuesto sin compromiso.",
+  "metaDescription": "BMW en Fresno de Torote: taller especialista de la red en Alcobendas a 27,8 km por la R-2, ITV en Torrejón de Ardoz y servicio oficial en Alcalá.",
   "heroSubtitle": "Taller BMW en Fresno de Torote, en el corredor del Henares",
   "trustChips": [
     {
@@ -174,5 +174,119 @@
     "M-111 hacia Cobeña",
     "M-113 hacia Daganzo",
     "A-1 como enlace principal hacia Madrid"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Fresno de Torote: el taller BMW de Alcobendas, a 27,8 km por la R-2",
+    "entradilla": "Fresno de Torote tiene el taller de la red a 27,8 km, una distancia razonable incluso para trabajos de un solo día. Ruta, ITV, servicio oficial y lo que hay que preguntar sobre la recogida.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 27.8
+    },
+    "secciones": [
+      {
+        "id": "m113-r2",
+        "h2": "Por la M-113, la R-2 y la M-50",
+        "parrafos": [
+          "Desde el núcleo urbano hasta la calle Valgrande 17 de Alcobendas hay 27,8 km por carretera y 21,1 en línea recta. La ruta sale por la M-113, toma la R-2 y entra por la M-50.",
+          "Si el trabajo dura varios días, pregunta al reservar por el vehículo de cortesía y por la recogida y entrega: existen dentro del área metropolitana de Madrid y están sujetos a disponibilidad, así que confirma si tu dirección entra."
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "h2": "Cómo se decide qué se hace",
+        "parrafos": [
+          "Nada se toca sin que hayas visto antes el presupuesto por escrito y lo hayas aceptado. La diagnosis también tiene su presupuesto, porque es trabajo técnico.",
+          "Si el coche es un MINI, el procedimiento es el mismo: comparte electrónica y buena parte de los motores con BMW."
+        ]
+      },
+      {
+        "id": "itv-y-oficial",
+        "h2": "ITV en Torrejón, servicio oficial en Alcalá",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de Itversia Gestión (estación 2861), en la calle Jacinto Benavente 6, en el polígono Casablanca Este de Torrejón de Ardoz, a 19,3 km. El servicio oficial BMW más cercano según bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 15,5 km."
+        ]
+      },
+      {
+        "id": "fresno-cifras",
+        "h2": "703 turismos por cada mil vecinos",
+        "parrafos": [
+          "Fresno tenía 2.561 habitantes en 2025, un 25,5 % más que en 2015. La Comunidad de Madrid, a partir de la DGT, contaba 1.800 turismos en 2025: 703 por cada 1.000 habitantes, casi el doble que en Madrid capital (388). Sin ninguna carretera principal a menos de tres kilómetros del centro, el coche se usa sobre todo en carreteras locales."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 27,8 km por la M-113, la R-2 y la M-50, en la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Hay recogida del coche en Fresno de Torote?",
+        "a": "La recogida y entrega se ofrece dentro del área metropolitana de Madrid, sujeta a disponibilidad. Pregunta al reservar si tu dirección entra."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Itversia, en el polígono Casablanca Este de Torrejón de Ardoz, a 19,3 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.561 habitantes (+25,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "1.800 · 703 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Itversia, Torrejón de Ardoz · 19,3 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 15,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 27,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

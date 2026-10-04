@@ -3,11 +3,11 @@
   "name": "Folgueroles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2230,
+  "population": 2262,
   "lat": 41.9377,
   "lng": 2.315,
   "metaTitle": "Taller BMW en Folgueroles | Cuidado con Carácter",
-  "metaDescription": "Taller BMW especializado cerca de Folgueroles. Mantenimiento y reparación con la atención al detalle que merece tu BMW en la tierra de Verdaguer, Osona.",
+  "metaDescription": "BMW en Folgueroles: ITV y servicio oficial en Vic, a unos 7 km, y el taller especialista de la red en Sant Joan Despí, a 89,4 km. Cuándo compensa.",
   "heroSubtitle": "En el pueblo que vio nacer a Verdaguer, tu BMW encuentra un taller con la misma pasión por hacer las cosas bien.",
   "trustChips": [
     {
@@ -184,5 +184,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Folgueroles: ITV a 6,7 km en Vic y el especialista BMW a 89,4",
+    "entradilla": "Folgueroles tiene hoy algo menos de población que hace diez años. Para el coche, lo esencial está en Vic; nuestro taller queda a 89,4 km, y te contamos cuándo merece la pena.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 89.4
+    },
+    "secciones": [
+      {
+        "id": "en-vic",
+        "h2": "Lo que se resuelve en Vic",
+        "parrafos": [
+          "La ITV más próxima por carretera en el registro de la Generalitat es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, a 6,7 km. El punto oficial BMW más cercano en el localizador de bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1, a 7,2 km.",
+          "Inspección, revisiones sencillas y pequeñas reparaciones: nada de eso justifica salir de la comarca."
+        ]
+      },
+      {
+        "id": "cuando-89-km",
+        "h2": "Cuándo sí merecen la pena 89,4 km",
+        "parrafos": [
+          "Cuando hay una avería propia de BMW que no se ha solucionado cerca: un fallo eléctrico intermitente, una válvula EGR o un filtro de partículas que vuelven a dar guerra, una caja automática que da tirones. O cuando quieres un segundo diagnóstico antes de una reparación cara.",
+          "En ese caso, recibirás el presupuesto por escrito antes de cualquier intervención, y sin tu aprobación no se empieza. Mejor saberlo antes de hacer el viaje."
+        ]
+      },
+      {
+        "id": "ruta-c25",
+        "h2": "C-25, C-17, C-33 y B-20",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona arranca por la C-25, que pasa a 1,5 km del centro, sigue por la C-17 y la C-33 y termina por la B-20 en Sant Joan Despí: 89,4 km por carretera, 66,9 en línea recta. La recogida del taller solo cubre el área metropolitana de Barcelona."
+        ]
+      },
+      {
+        "id": "folgueroles-cifras",
+        "h2": "2.262 vecinos, 23 menos que en 2015",
+        "parrafos": [
+          "El padrón del INE da a Folgueroles 2.285 habitantes en 2015 y 2.262 en 2025, un 1 % menos. En 2024 había 1.312 turismos según Idescat a partir de la DGT, 580 por cada 1.000 vecinos, en un término de 10,47 km² a 552 metros de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Osona?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 89,4 km de Folgueroles."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Osona (B04), en Vic, a 6,7 km por carretera."
+      },
+      {
+        "q": "¿Trabajáis también MINI?",
+        "a": "Sí. MINI y BMW comparten electrónica y buena parte de los motores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.262 habitantes (-1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080832&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.312 · 580 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080832&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 6,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 7,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 89,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080832&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

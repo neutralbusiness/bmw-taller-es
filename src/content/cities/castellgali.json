@@ -3,11 +3,11 @@
   "name": "Castellgalí",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2001,
+  "population": 2413,
   "lat": 41.67492,
   "lng": 1.82103,
   "metaTitle": "Taller BMW en Castellgalí | Especialistas cerca de Manresa",
-  "metaDescription": "Taller especializado en BMW en Castellgalí, Bages. Diagnóstico oficial, mecánica y electrónica alemana a un paso de Manresa y Sant Vicenç de Castellet.",
+  "metaDescription": "BMW en Castellgalí: ITV en Manresa a 7,2 km, servicio oficial en Sant Fruitós de Bages y taller especialista de la red a 51,7 km por la C-16.",
   "heroSubtitle": "El taller BMW de referencia para Castellgalí y el Bages, a orillas del Llobregat.",
   "trustChips": [
     {
@@ -172,5 +172,123 @@
     "C-16 (Eix del Llobregat)",
     "C-55",
     "BV-1225"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellgalí: entre la C-55 y la C-16, a 51,7 km del taller BMW",
+    "entradilla": "Castellgalí ha ganado un 20,9 % de población en diez años y tiene dos vías rápidas casi en la puerta. Para la inspección y el concesionario se mira hacia Manresa y Sant Fruitós; para un especialista independiente, hacia el Baix Llobregat.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 51.7
+    },
+    "secciones": [
+      {
+        "id": "c55-c16",
+        "h2": "La C-55 a 0,6 km, la C-16 a 2,4 km",
+        "parrafos": [
+          "Las dos vías principales del eje quedan cerca: la C-55 pasa a 0,6 km del centro y la C-16 a 2,4 km. Para el coche eso significa trayectos de carretera abierta con frecuencia, que es justo lo que necesita un diésel para quemar el hollín del filtro de partículas.",
+          "Lo que no perdona ese uso es el aceite pasado de intervalo: con muchos kilómetros a régimen sostenido, respeta el indicador de servicio y la especificación que pide tu motor."
+        ]
+      },
+      {
+        "id": "manresa-y-sant-fruitos",
+        "h2": "Inspección en Bufalvent, concesionario a 13,1 km",
+        "parrafos": [
+          "Para pasar la ITV, la opción lógica desde el núcleo urbano es la B06 de Manresa, en el polígono Bufalvent: 7,2 km por carretera y 4,5 en línea recta, según las coordenadas del registro de la Generalitat.",
+          "El concesionario con taller que el buscador de bmw.es pone más cerca es Quadis Munich, junto a la carretera de Manresa a Berga en Sant Fruitós de Bages, a 13,1 km. Las llamadas a revisión que convoca BMW se atienden en su red; para el resto del mantenimiento, el taller lo eliges tú."
+        ]
+      },
+      {
+        "id": "ruta-taller",
+        "h2": "51,7 km hasta el Tambor del Bruc",
+        "parrafos": [
+          "La nave de Dasercars Barcelona, en Sant Joan Despí, queda a 51,7 km por carretera y 38,9 en línea recta: se baja por la C-55 hasta la C-16 y se entra por la B-20. Castellgalí no está en el área metropolitana, así que la recogida del taller no cubre el municipio.",
+          "El padrón pasó de 1.996 vecinos en 2015 a 2.413 en 2025, en 17,21 km². Idescat, a partir de la DGT, contaba 1.354 turismos en 2024: 561 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me queda más cerca en Castellgalí?",
+        "a": "La de Manresa (B06), en el polígono Bufalvent, a 7,2 km por carretera."
+      },
+      {
+        "q": "¿Y el concesionario BMW?",
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 13,1 km según bmw.es."
+      },
+      {
+        "q": "¿Llega la recogida del taller a Castellgalí?",
+        "a": "No: solo cubre el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.413 habitantes (+20,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "17,21 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.354 · 561 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080615&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 51,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "ITV (Manresa, B06)",
+        "valor": "polígono Bufalvent · 7,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Concesionario BMW",
+        "valor": "Sant Fruitós de Bages · 13,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080615&lang=es"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

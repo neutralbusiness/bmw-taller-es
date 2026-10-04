@@ -3,11 +3,11 @@
   "name": "Sant Quintí de Mediona",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2146,
+  "population": 2580,
   "lat": 41.45708,
   "lng": 1.67172,
   "metaTitle": "Taller BMW cerca de Sant Quintí de Mediona | Alt Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Quintí de Mediona, Alt Penedès. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "BMW en Sant Quintí de Mediona: servicio oficial en Vilanova i la Geltrú a 31,2 km, ITV en Olèrdola y taller especialista de la red a 48,6 km.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Quintí de Mediona",
   "trustChips": [
     {
@@ -167,5 +167,125 @@
   "zoneAccessRoutes": [
     "BV-2131 hacia Vilafranca del Penedès",
     "C-15 (enlace cercano) hacia Igualada"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Quintí de Mediona: oficial a 31 km, especialista BMW a 48,6",
+    "entradilla": "Desde Sant Quintí de Mediona, el servicio oficial BMW y el taller especialista de la red quedan a distancias parecidas. Lo que decide cuál te conviene no son los kilómetros, sino qué le pasa al coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 48.6
+    },
+    "secciones": [
+      {
+        "id": "dos-distancias",
+        "h2": "31,2 km a Vilanova, 48,6 a Sant Joan Despí",
+        "parrafos": [
+          "El punto oficial BMW más próximo según el localizador de bmw.es es Quadis Munich, en l'avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 31,2 km por carretera. La nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3, está a 48,6 km.",
+          "Una campaña de la marca o una reparación cubierta por la garantía de BMW van a Vilanova. Un taller independiente especializado tiene sentido cuando buscas otra forma de trabajar el mantenimiento o cuando una avería no se ha resuelto donde la llevaste."
+        ]
+      },
+      {
+        "id": "c15-ap7",
+        "h2": "La C-15 al lado y la AP-7 de camino",
+        "parrafos": [
+          "La C-15 pasa a 1,3 km del centro y la BP-2151 a 1,2 km. La ruta al taller sigue la BP-2151 y la BV-2244 hasta la AP-7 y entra por la B-23: 34,2 km en línea recta, 48,6 por carretera. El municipio está fuera del área metropolitana y la recogida del taller no llega.",
+          "Antes de bajar, llama con modelo, año y kilometraje y cuenta el síntoma con detalle. A veces basta para saber qué pieza hará falta y tenerla pedida."
+        ]
+      },
+      {
+        "id": "itv-olerdola",
+        "h2": "La ITV, en Olèrdola",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Olèrdola (B09), en la avinguda de l'Hostal Nou, a 16,6 km."
+        ]
+      },
+      {
+        "id": "sant-quinti-crece",
+        "h2": "Un 21,9 % más de población",
+        "parrafos": [
+          "Sant Quintí pasó de 2.116 habitantes en 2015 a 2.580 en 2025, en 13,84 km² a 326 metros de altitud. Idescat, con datos de la DGT, contaba 1.351 turismos en 2024: 524 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué queda más cerca, el oficial o vuestro taller?",
+        "a": "El servicio oficial de Vilanova i la Geltrú, a 31,2 km. Nuestro taller de Sant Joan Despí está a 48,6 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Quintí?",
+        "a": "No: el servicio de recogida del taller solo cubre el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Olèrdola (B09), a 16,6 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.580 habitantes (+21,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082362&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.351 · 524 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082362&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 31,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 16,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 48,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082362&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

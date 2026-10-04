@@ -3,11 +3,11 @@
   "name": "Calldetenes",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2441,
+  "population": 2733,
   "lat": 41.9239,
   "lng": 2.2817,
   "metaTitle": "Taller BMW en Calldetenes | Tu Mecánico a 5 Minutos",
-  "metaDescription": "Taller BMW especializado junto a Calldetenes. Mantenimiento y reparación de todas las series BMW con diagnóstico profesional. Servicio rápido a las puertas de Vic.",
+  "metaDescription": "Calldetenes: concesionario BMW e ITV en Vic, a menos de 5 km, y taller especialista independiente BMW y MINI en Sant Joan Despí, a 79,1 km.",
   "heroSubtitle": "Vives en Calldetenes y trabajas en Vic. Tu BMW necesita un taller tan práctico y eficiente como tu estilo de vida.",
   "trustChips": [
     {
@@ -180,5 +180,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calldetenes: el concesionario BMW a 4,1 km y un especialista independiente a 79",
+    "entradilla": "Si buscas el concesionario BMW desde Calldetenes, lo tienes en Vic. Nosotros somos otra cosa: un taller independiente especializado en BMW y MINI, con la nave en Sant Joan Despí. Así se reparten los papeles.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 79.1
+    },
+    "secciones": [
+      {
+        "id": "concesionario-vic",
+        "h2": "Quadis Munich, a 4,1 km",
+        "parrafos": [
+          "El punto oficial BMW que el localizador de bmw.es sitúa más cerca es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic: 4,1 km por carretera, 2,9 en línea recta. Para una reparación cubierta por la garantía de BMW, esa cita es con ellos.",
+          "Para el mantenimiento puedes elegir. El Reglamento (UE) 461/2010 impide que el fabricante condicione la garantía a revisar el coche en su red, siempre que se sigan los intervalos y se usen aceites y recambios con la especificación correcta."
+        ]
+      },
+      {
+        "id": "segunda-opinion",
+        "h2": "Dónde encaja un taller a 79 kilómetros",
+        "parrafos": [
+          "Con todo lo oficial a menos de cinco kilómetros, la razón para bajar a Sant Joan Despí tiene que ser concreta: un segundo diagnóstico antes de aceptar una reparación cara, un testigo que vuelve una y otra vez, o un problema de los diésel N47, N57 o B47 que ya conocemos bien.",
+          "La ruta va por la C-17, la C-33 y la B-20: 79,1 km. Como Calldetenes queda fuera del área metropolitana, el viaje lo haces tú."
+        ]
+      },
+      {
+        "id": "itv-osona",
+        "h2": "La ITV de Osona, a 4,8 km",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, a 4,8 km."
+        ]
+      },
+      {
+        "id": "calldetenes-en-cifras",
+        "h2": "Un término de 5,8 km² y 471 vecinos por kilómetro cuadrado",
+        "parrafos": [
+          "Calldetenes es pequeño en superficie: 2.733 habitantes en 2025, un 12,6 % más que diez años antes, a 489 metros de altitud. En 2024 tenía 1.509 turismos (Idescat, con datos de la DGT), 552 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Vic?",
+        "a": "No. El servicio oficial es Quadis Munich, en el carrer Perot Rocaguinarda 1. Nosotros somos Dasercars, taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Pierdo la garantía si reviso el coche con vosotros?",
+        "a": "No, mientras se respeten los intervalos y especificaciones del plan de mantenimiento."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "79,1 km por la C-17, la C-33 y la B-20."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.733 habitantes (+12,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080370&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.509 · 552 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080370&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 4,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 4,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 79,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080370&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

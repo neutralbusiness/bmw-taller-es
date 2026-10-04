@@ -3,11 +3,11 @@
   "name": "Bagà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2396,
+  "population": 2161,
   "lat": 42.2788,
   "lng": 1.835,
   "metaTitle": "Taller BMW en Bagà | Especialistas BMW — Diagnóstico Profesional",
-  "metaDescription": "Taller BMW en Bagà, Berguedà. Especialistas en averías por frío, preparación invernal y diagnóstico avanzado junto al túnel del Cadí.",
+  "metaDescription": "BMW en Bagà (Berguedà): ITV en Berga a 24,4 km y taller especialista de la red en Sant Joan Despí, a 123,6 km por la C-16. Cuándo compensa el viaje.",
   "heroSubtitle": "Tu BMW preparado para el frío del Berguedà y el paso del Cadí. Diagnóstico avanzado, soluciones rápidas y atención cercana.",
   "trustChips": [
     {
@@ -185,5 +185,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Bagà: 123,6 km de C-16 hasta el taller BMW, y lo que tienes antes",
+    "entradilla": "Desde Bagà, el taller especialista de la red queda a más de cien kilómetros en línea recta. No vamos a disimularlo: para casi todo hay opciones más cerca. Esta página te dice cuáles y para qué sí compensa bajar.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 123.6
+    },
+    "secciones": [
+      {
+        "id": "toda-la-c16",
+        "h2": "Una sola carretera: la C-16",
+        "parrafos": [
+          "La C-16 pasa a 0,3 km del núcleo urbano y es prácticamente toda la ruta: desde Bagà hasta la B-20 y la nave de Dasercars Barcelona en Sant Joan Despí hay 123,6 km por carretera, 100,1 en línea recta. La recogida del taller no llega aquí: solo cubre el área metropolitana de Barcelona.",
+          "Con esa distancia, haz primero una llamada: con modelo, año, kilometraje y el síntoma bien descrito se puede orientar si el problema justifica el viaje o se resuelve en el Berguedà."
+        ]
+      },
+      {
+        "id": "itv-berga",
+        "h2": "La ITV, en el polígono La Valldan de Berga",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el camí de Sant Bartomeu del polígono industrial La Valldan, a 24,4 km."
+        ]
+      },
+      {
+        "id": "oficial-andorra",
+        "h2": "El punto oficial más cercano está en Andorra",
+        "parrafos": [
+          "El localizador de bmw.es devuelve como punto de servicio oficial más próximo por carretera a Pyrénées Motors, en Prat de la Tresa, en Sant Julià de Lòria (Andorra), a 67,5 km. Antes de ir por un asunto de garantía, confirma con ellos que pueden atender un coche matriculado en España."
+        ]
+      },
+      {
+        "id": "frio-y-montana",
+        "h2": "Invierno a 785 metros",
+        "parrafos": [
+          "Bagà está a 785 metros de altitud. Las mañanas de invierno ponen a prueba la batería, sobre todo en BMW con arranque y parada automático; si notas que el motor de arranque gira con pereza, revísala antes de que falle. Y en los puertos de montaña, el líquido de frenos en buen estado no es opcional.",
+          "El municipio tenía 2.161 vecinos en 2025, un 1,2 % menos que en 2015, y 1.116 turismos en 2024 según Idescat."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller cerca de Bagà?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 123,6 km por la C-16."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Berga (B13), en el polígono La Valldan, a 24,4 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Según bmw.es, Pyrénées Motors, en Sant Julià de Lòria (Andorra), a 67,5 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.161 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080168&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "785 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080168&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.116 · 516 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080168&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 24,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 123,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080168&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

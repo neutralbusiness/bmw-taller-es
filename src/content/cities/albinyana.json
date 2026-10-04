@@ -7,7 +7,7 @@
   "lat": 41.24188,
   "lng": 1.49536,
   "metaTitle": "Taller BMW en Albinyanà | Baix Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Albinyanà, junto a El Vendrell. Diagnóstico ISTA, presupuesto cerrado y recogida disponible en el Baix Penedès.",
+  "metaDescription": "BMW en Albinyana: ITV del Baix Penedès a 7,8 km, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 65,1 km por la C-32.",
   "heroSubtitle": "Atención especializada BMW para Albinyanà y el Baix Penedès, cerca de la C-51.",
   "trustChips": [
     {
@@ -170,5 +170,125 @@
     "C-51",
     "AP-7",
     "N-340"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Albinyana, en el Baix Penedès: ITV a 7,8 km y especialista BMW a 65 km",
+    "entradilla": "Con la AP-7 a menos de tres kilómetros y la ITV de la comarca en Bellvei, desde Albinyana casi todo está a mano salvo el taller especialista de la red, que queda en Sant Joan Despí. Esto es lo que te conviene saber.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 65.1
+    },
+    "secciones": [
+      {
+        "id": "itv-els-massets",
+        "h2": "La ITV del Baix Penedès, en el polígono Els Massets",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la del Baix Penedès (T07), en el polígono industrial Els Massets de Bellvei, a 7,8 km del centro de Albinyana.",
+          "Si el coche tiene un aviso pendiente —una luz fundida, una rótula con holgura— es mejor resolverlo antes de la cita. Un rechazo por algo pequeño obliga a volver."
+        ]
+      },
+      {
+        "id": "c51-c32",
+        "h2": "Por la C-51 y la C-32 hasta el Baix Llobregat",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona hay 65,1 km por carretera y 49,4 en línea recta. El recorrido sale por la C-51, enlaza con la C-31 y la C-32 y termina por la B-25 en Sant Joan Despí. La recogida del taller se limita al área metropolitana de Barcelona, así que aquí no llega.",
+          "Para que el viaje compense, que sea por algo que de verdad pide un especialista en la marca: electrónica, diagnosis de un fallo intermitente, cadena de distribución o el sistema de AdBlue."
+        ]
+      },
+      {
+        "id": "oficial-vilanova",
+        "h2": "El servicio oficial más cercano, en Vilanova i la Geltrú",
+        "parrafos": [
+          "Según bmw.es, el punto oficial BMW más próximo es Quadis Munich, en l'avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 29,6 km. Es el concesionario de referencia para la comarca, aunque queda más lejos que la ITV."
+        ]
+      },
+      {
+        "id": "albinyana-cifras",
+        "h2": "593 turismos por cada mil habitantes",
+        "parrafos": [
+          "Albinyana tenía 2.718 vecinos en 2025, un 17,2 % más que en 2015. Idescat contaba 1.612 turismos en 2024, a partir de la DGT. La costa queda a unos 7 km del centro: lo bastante lejos para que el salitre no sea el problema principal, aunque un lavado de bajos después del verano nunca sobra."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Albinyana?",
+        "a": "En la estación del Baix Penedès (T07), en el polígono Els Massets de Bellvei, a 7,8 km."
+      },
+      {
+        "q": "¿Hay recogida del coche en Albinyana?",
+        "a": "No: el servicio de recogida del taller no llega fuera del área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 65,1 km por carretera, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.718 habitantes (+17,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430022&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.612 · 593 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430022&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Baix Penedès (T07), Bellvei · 7,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 29,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 65,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=430022&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

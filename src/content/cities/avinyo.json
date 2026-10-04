@@ -3,11 +3,11 @@
   "name": "Avinyó",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2328,
+  "population": 2322,
   "lat": 41.8575,
   "lng": 1.9772,
   "metaTitle": "Taller BMW en Avinyó | Especialistas en entorno rural Bages",
-  "metaDescription": "Taller especializado en BMW en Avinyó, Bages. Mantenimiento adaptado a caminos rurales, polvo agrícola y frío invernal. Diagnóstico profesional. Pide cita.",
+  "metaDescription": "BMW en Avinyó (Bages): servicio oficial e ITV en Sant Fruitós de Bages y taller especialista de la red en Sant Joan Despí, a 79,2 km por la C-16.",
   "heroSubtitle": "Tu BMW merece un taller que entienda los caminos rurales del Bages. Diagnóstico, mantenimiento y reparación especializada en Avinyó.",
   "trustChips": [
     {
@@ -185,5 +185,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Avinyó: 63 km² de término, la C-25 al lado y el taller BMW a 79 km",
+    "entradilla": "Avinyó reparte a sus vecinos en un término de 63,23 km²: 37 habitantes por kilómetro cuadrado. Para un BMW o un MINI de aquí, lo más cercano está en Sant Fruitós de Bages; el taller especialista de la red, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 79.2
+    },
+    "secciones": [
+      {
+        "id": "sant-fruitos",
+        "h2": "Concesionario e ITV, los dos en Sant Fruitós",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 18,1 km. La ITV más cercana por carretera en el registro de la Generalitat también está en Sant Fruitós de Bages: la B25, en el polígono industrial El Grau, a 23,1 km.",
+          "Con las dos cosas en el mismo municipio, se pueden encajar el mismo día si el coche tiene que pasar por ambas."
+        ]
+      },
+      {
+        "id": "c25",
+        "h2": "La C-25, a 0,7 km del centro",
+        "parrafos": [
+          "La C-25 pasa a 0,7 km y la B-431 a 0,5 km. En un término de 63,23 km², con masías y núcleos separados, muchos recorridos empiezan por caminos y pistas antes de llegar al asfalto. Ese uso se nota en neumáticos, silentblocks y protecciones de bajos, más que en el motor."
+        ]
+      },
+      {
+        "id": "ruta-taller",
+        "h2": "79,2 km por la C-25 y la C-16",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona hay 79,2 km por la BP-4313, la C-25, la C-16 y la B-20; 55,1 en línea recta. La recogida del taller no llega aquí: solo cubre el área metropolitana de Barcelona.",
+          "Si decides bajar, el presupuesto se entrega por escrito y no se empieza nada sin tu visto bueno. Así sabes a qué atenerte antes de dejar el coche tan lejos de casa."
+        ]
+      },
+      {
+        "id": "avinyo-cifras",
+        "h2": "2.322 vecinos y 1.351 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Avinyó 2.322 habitantes, un 3,3 % más que en 2015. Idescat, con datos de la DGT, contaba 1.351 turismos en 2024: 582 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Avinyó?",
+        "a": "La más próxima por carretera es la de Sant Fruitós (B25), en el polígono El Grau, a 23,1 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW?",
+        "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5 (Sant Fruitós de Bages), a 18,1 km."
+      },
+      {
+        "q": "¿Me dais presupuesto antes de reparar?",
+        "a": "Sí, por escrito, y no se empieza ningún trabajo sin tu aprobación."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.322 habitantes (+3,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080121&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "63,23 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.351 · 582 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080121&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 23,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 79,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080121&lang=es"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

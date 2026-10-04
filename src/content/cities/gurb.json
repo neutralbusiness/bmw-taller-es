@@ -3,11 +3,11 @@
   "name": "Gurb",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2580,
+  "population": 2741,
   "lat": 41.9614,
   "lng": 2.2227,
   "metaTitle": "Taller BMW en Gurb | Especialistas en Coches Rurales",
-  "metaDescription": "Taller BMW en Gurb, Osona. Mantenimiento adaptado a caminos rurales, masías y conducción agrícola. Diagnóstico avanzado cerca de Vic para tu BMW.",
+  "metaDescription": "BMW en Gurb (Osona): servicio oficial e ITV en Vic, a menos de 8 km, y el taller especialista de la red en Sant Joan Despí, a 81,5 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Tu BMW recorre caminos de masía y carreteras de la Plana cada día. Nosotros lo mantenemos preparado para ambos mundos.",
   "trustChips": [
     {
@@ -180,5 +180,123 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Gurb: 693 turismos por cada mil vecinos y Vic a un paso",
+    "entradilla": "En un término de más de 51 km² con masías repartidas, en Gurb casi todo se hace en coche. Lo oficial de BMW y la ITV están en Vic; el taller especialista de la red, a 81,5 km. Te explicamos qué conviene resolver en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 81.5
+    },
+    "secciones": [
+      {
+        "id": "parque-gurb",
+        "h2": "Un municipio disperso con mucho coche por vecino",
+        "parrafos": [
+          "Gurb tenía 2.741 habitantes en 2025, un 7,7 % más que en 2015, repartidos en 51,57 km²: 53 por kilómetro cuadrado. Idescat, con datos de la DGT, registraba 1.900 turismos en 2024, 693 por cada 1.000 vecinos. En Calldetenes, a pocos kilómetros, la proporción es de 552.",
+          "Cuando el coche es la única forma de moverse, una avería pesa más. Merece la pena no dejar para luego un aviso de servicio ni una fuga pequeña de refrigerante o de aceite."
+        ]
+      },
+      {
+        "id": "vic-cerca",
+        "h2": "Concesionario e ITV, en Vic",
+        "parrafos": [
+          "El servicio oficial BMW más cercano según el localizador de bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 5,9 km por carretera. La ITV que te toca por cercanía es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22, también en Vic, a 7,8 km según el registro de la Generalitat.",
+          "Con la C-17 a 1,5 km y la C-25 a 1,8 km del centro, salir a autovía es fácil, algo que agradece cualquier diésel que necesite regenerar el filtro de partículas."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "81,5 km por la C-17: para qué sí",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona, en Sant Joan Despí, hay 81,5 km por la C-17, la C-33 y la B-20. No tiene sentido hacerlos por un cambio de pastillas. Sí lo tiene por una avería electrónica que no se ha localizado, un fallo de AdBlue con la cuenta atrás en marcha o un ruido de distribución en un N47.",
+          "Antes de mover el coche, una llamada con el modelo, el año y los kilómetros permite saber si el viaje compensa. La recogida del taller no llega a Osona."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Gurb o en Vic?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 81,5 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW?",
+        "a": "Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 5,9 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "ITV Osona (B04), en Vic, a 7,8 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.741 habitantes (+7,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081000&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.900 · 693 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081000&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "51,57 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 7,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 81,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081000&lang=es"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

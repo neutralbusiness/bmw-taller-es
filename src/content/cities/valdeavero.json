@@ -3,11 +3,11 @@
   "name": "Valdeavero",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 1510,
+  "population": 1896,
   "lat": 40.62812,
   "lng": -3.34999,
   "metaTitle": "Taller BMW en Valdeavero | Mecánica y diagnosis oficial",
-  "metaDescription": "Taller BMW cerca de Valdeavero (Madrid) con diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto claro antes de reparar. Pide cita.",
+  "metaDescription": "BMW en Valdeavero: ITV y servicio oficial en Alcalá de Henares y taller especialista de la red en Alcobendas, a 54,8 km por la R-2.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdeavero y la comarca de la Campiña del Henares.",
   "trustChips": [
     {
@@ -167,5 +167,117 @@
     "A-2",
     "M-113",
     "Carretera de Alcalá"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Valdeavero: un 30,7 % más de vecinos y el taller BMW a 54,8 km",
+    "entradilla": "En línea recta, Alcobendas está a 28,7 km de Valdeavero; por carretera, casi el doble. Conviene saberlo antes de planificar una visita al taller. También te contamos dónde quedan la ITV y el servicio oficial.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 54.8
+    },
+    "secciones": [
+      {
+        "id": "rodeo",
+        "h2": "28,7 km en línea recta, 54,8 por carretera",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la N-320, que pasa a 1,3 km del centro, baja a la R-2 y entra por la M-50. El trayecto no va directo: rodea y suma 54,8 km.",
+          "El vehículo de cortesía y la recogida se ofrecen dentro del área metropolitana de Madrid, sujetos a disponibilidad: pregunta al reservar si Valdeavero entra."
+        ]
+      },
+      {
+        "id": "alcala",
+        "h2": "ITV y servicio oficial, en Alcalá de Henares",
+        "parrafos": [
+          "La estación oficial más cercana por carretera es ITVERSIA (estación 2891), en la Vía Complutense 105 de Alcalá de Henares, a 19,7 km. El servicio oficial BMW más próximo según bmw.es, AutoPremier, también está en Alcalá, en la calle Argentina 7 del polígono La Garena, a 18,5 km.",
+          "Están a una distancia parecida, así que puedes hacer la inspección y una gestión en el concesionario en la misma mañana."
+        ]
+      },
+      {
+        "id": "valdeavero-crece",
+        "h2": "De 1.451 a 1.896 habitantes",
+        "parrafos": [
+          "Valdeavero tenía 1.451 vecinos en 2015 y 1.896 en 2025, según el padrón: un 30,7 % más. La Comunidad de Madrid, a partir de la DGT, registraba 1.233 turismos en 2025, 650 por cada 1.000 habitantes, en un término de 18,6 km² a 722 metros de altitud.",
+          "En un pueblo así, el coche hace muchos trayectos cortos hasta los municipios de alrededor. Si es diésel, conviene que de vez en cuando haga un tramo largo de autovía para que el filtro de partículas complete la regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué hay tanta diferencia entre línea recta y carretera?",
+        "a": "Porque la ruta baja por la N-320 hasta la R-2 y la M-50 en lugar de ir directa: 54,8 km frente a 28,7 en línea recta."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es ITVERSIA, en la Vía Complutense 105 de Alcalá de Henares, a 19,7 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW?",
+        "a": "AutoPremier, en la calle Argentina 7 de Alcalá de Henares, a 18,5 km."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. Comparte electrónica y motores con BMW y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.896 habitantes (+30,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "1.233 · 650 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "ITVERSIA, Alcalá de Henares · 19,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 18,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 54,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
