@@ -3,11 +3,11 @@
   "name": "Vacarisses",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 6231,
+  "population": 7729,
   "lat": 41.60798,
   "lng": 1.92277,
   "metaTitle": "Taller BMW Vacarisses — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Vacarisses. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "Vacarisses: servicio oficial BMW en Terrassa, ITV en Viladecavalls y taller especialista independiente en Sant Joan Despí, a 41,2 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Mantén tu BMW en Vacarisses con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -180,5 +180,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vacarisses ha crecido un 25,8 % en diez años: dónde llevar tu BMW",
+    "entradilla": "Más vecinos, más coches y ningún concesionario en el pueblo. Te contamos qué tienes en Terrassa y Viladecavalls y qué supone bajar hasta nuestro taller de Sant Joan Despí, a 41 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 41.2
+    },
+    "secciones": [
+      {
+        "id": "mas-vecinos",
+        "h2": "De 6.143 a 7.729 habitantes",
+        "parrafos": [
+          "El padrón daba a Vacarisses 6.143 vecinos en 2015 y 7.729 en 2025. En 2024 había 4.269 turismos censados según Idescat, con datos de la DGT: 552 por cada mil habitantes, casi el doble que los 281 de Barcelona ciudad.",
+          "En un término de 40,7 km² y a 382 metros de altitud, el coche se usa para casi todo. La C-16 y la C-58 pasan a 2,3 km del centro, así que muchos trayectos acaban en vía rápida, algo que agradecen los diésel con filtro de partículas."
+        ]
+      },
+      {
+        "id": "terrassa-oficial",
+        "h2": "Lo oficial, en Terrassa",
+        "parrafos": [
+          "El punto de servicio oficial BMW más próximo según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 17,5 km. Si recibes una carta de BMW por una campaña de revisión, la cita es con la red oficial; esas campañas no las hace un taller independiente."
+        ]
+      },
+      {
+        "id": "itv-can-trias",
+        "h2": "ITV en Can Trias, Viladecavalls",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Viladecavalls (B03), en el polígono industrial Can Trias, a 11,4 km. Queda de camino si sales hacia Terrassa por la C-58."
+        ]
+      },
+      {
+        "id": "cuarenta-y-un-km",
+        "h2": "41,2 km hasta Sant Joan Despí: cuándo compensa",
+        "parrafos": [
+          "La ruta encadena la C-58, la C-16, la B-30, un tramo de AP-7 y la B-23 hasta el carrer del Tambor del Bruc. Vacarisses no está en el Área Metropolitana de Barcelona, de modo que la recogida del taller no llega: el coche lo traes tú.",
+          "Con esa distancia, el viaje tiene sentido para lo que pide un especialista: una caja automática que da tirones, un ruido de distribución en un diésel B47 o un fallo eléctrico que otro taller no ha localizado. Para la revisión de rutina, decide tú si te compensa."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Vacarisses?",
+        "a": "No. La recogida del taller solo cubre el Área Metropolitana de Barcelona y Vacarisses queda fuera."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en el carrer Anoia 9 de Terrassa, a 17,5 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Viladecavalls (B03), en el polígono Can Trias, a 11,4 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "7.729 habitantes (+25,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082917&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "4.269 · 552 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082917&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecavalls (B03) · 11,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Terrassa) · 17,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 41,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082917&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Sallent",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 6875,
+  "population": 7030,
   "lat": 41.84553,
   "lng": 1.91903,
   "metaTitle": "Especialistas BMW en Sallent — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en Sallent. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "metaDescription": "Sallent: servicio oficial BMW e ITV en Sant Fruitós de Bages; taller especialista independiente en Sant Joan Despí, a 77,2 km por la C-16. Cuándo compensa bajar.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Sallent? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -180,5 +180,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sallent: tu BMW a 77 km del taller, casi todo por la C-16",
+    "entradilla": "Desde Sallent hasta Sant Joan Despí hay 77,2 km, y la mayor parte se hace por la misma carretera que pasa junto al pueblo. Antes de decidir si bajas, mira lo que tienes en el Bages.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 77.2
+    },
+    "secciones": [
+      {
+        "id": "la-c16",
+        "h2": "La C-16 a 2,9 km del centro",
+        "parrafos": [
+          "La C-16 pasa a 2,9 km del centro de Sallent y es la columna de la ruta hasta el taller: C-16, B-30, un tramo de AP-7 y la B-23 hasta el carrer del Tambor del Bruc. En línea recta son 54,4 km; por carretera, 77,2.",
+          "Un trayecto así, a velocidad constante, es justo lo que necesita un diésel para quemar el hollín del filtro de partículas. Si tu coche solo hace recorridos cortos por el pueblo, el viaje al taller le sirve de regeneración de paso."
+        ]
+      },
+      {
+        "id": "en-el-bages",
+        "h2": "Lo que tienes a unos 20 km",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 15,2 km. La ITV más cercana por carretera en el registro de la Generalitat también está en ese municipio: Sant Fruitós (B25), en el polígono El Grau, a 20,2 km.",
+          "Para un cambio de neumáticos, unas pastillas o la revisión anual, lo sensato es resolverlo en la comarca."
+        ]
+      },
+      {
+        "id": "por-que-bajar",
+        "h2": "Por qué alguien de Sallent haría 77 km",
+        "parrafos": [
+          "Por un problema que pide conocer BMW a fondo: una avería del turbo o del sistema de escape en un diésel N57, una centralita que pierde la codificación, un fallo intermitente de la caja automática. También para un segundo diagnóstico antes de aceptar una reparación grande.",
+          "Antes de coger la C-16, llama con modelo, año, kilometraje y lo que notas. Muchas veces se puede orientar el problema por teléfono y tener la pieza pedida el día que llegas."
+        ]
+      },
+      {
+        "id": "sallent-en-cifras",
+        "h2": "7.030 vecinos en 65 km²",
+        "parrafos": [
+          "Sallent tenía 7.030 habitantes en 2025 y 6.669 en 2015, según el padrón. Idescat, con datos de la DGT, contaba 3.780 turismos en 2024: 538 por cada mil vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en el Bages?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 77,2 km de Sallent."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Sallent?",
+        "a": "La estación más próxima por carretera es Sant Fruitós (B25), en el polígono El Grau, a 20,2 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Sallent?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "7.030 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081918&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "3.780 · 538 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081918&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 15,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 20,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 77,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081918&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

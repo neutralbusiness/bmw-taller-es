@@ -3,11 +3,11 @@
   "name": "Morata de Tajuña",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 7515,
+  "population": 8397,
   "lat": 40.23372,
   "lng": -3.45405,
   "metaTitle": "Taller BMW en Morata de Tajuña | Madrid",
-  "metaDescription": "Taller BMW en Morata de Tajuña, sureste de Madrid. Diagnosis oficial, mecánica y electrónica con presupuesto claro y garantía en cada reparación.",
+  "metaDescription": "Morata de Tajuña: el taller especialista BMW de la red está en Alcobendas, a 51,5 km por la A-3. ITV en Arganda, servicio oficial a 29 km y qué compensa.",
   "heroSubtitle": "Servicio BMW especializado en Morata de Tajuña y el valle del Tajuña.",
   "trustChips": [
     {
@@ -167,5 +167,119 @@
   "zoneAccessRoutes": [
     "A-3",
     "M-311"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Morata de Tajuña: del sureste de Madrid al taller BMW de Alcobendas por la A-3",
+    "entradilla": "Para un BMW o un MINI de Morata, lo útil cabe en tres datos: la ITV queda en Arganda del Rey, el servicio oficial en la carretera de Valencia y el taller especialista de la red, al otro lado de Madrid, a 51,5 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 51.5
+    },
+    "secciones": [
+      {
+        "id": "por-la-a3",
+        "h2": "51,5 km: M-313, A-3 y la M-40 hacia el norte",
+        "parrafos": [
+          "La ruta sale de Morata por la M-313, sube por la A-3 y rodea Madrid por la M-40 hasta la M-12, que deja el coche a la entrada del polígono de Alcobendas donde está Dasercars Madrid, en la calle Valgrande 17. En línea recta son 38,1 km; por carretera, 51,5.",
+          "Es un viaje que se hace para algo concreto. Un cambio de pastillas lo resuelve cualquier taller de la comarca; una avería electrónica que vuelve, un consumo de aceite raro en un diésel N47 o un aviso del sistema de AdBlue piden a alguien que trabaje solo con BMW."
+        ]
+      },
+      {
+        "id": "itv-arganda",
+        "h2": "La inspección, en el Camino Puente Viejo de Arganda",
+        "parrafos": [
+          "Según el listado oficial de la Comunidad de Madrid, la estación más próxima por carretera es la de General de Servicios ITV (estación 2852), en el Camino Puente Viejo, en Arganda del Rey: 11,9 km desde el centro de Morata. Si el coche va antes a Alcobendas, pide la pre-ITV allí y deja la inspección para la vuelta, ya cerca de casa."
+        ]
+      },
+      {
+        "id": "oficial-carretera-valencia",
+        "h2": "El servicio oficial más cercano, a 29 km",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto oficial más próximo en AutoPremier, carretera de Valencia, km 7,3, ya dentro del término de Madrid: 29,1 km por carretera. Es la referencia si tienes una reparación en garantía de BMW pendiente; para el resto puedes elegir taller."
+        ]
+      },
+      {
+        "id": "morata-en-cifras",
+        "h2": "8.397 vecinos y 4.083 turismos",
+        "parrafos": [
+          "Morata tenía 7.453 habitantes en 2015 y 8.397 en 2025, un 12,7 % más según el padrón. La Comunidad de Madrid, con datos de la DGT, contaba 4.083 turismos en 2025: 486 por cada mil vecinos, más que los 388 de Madrid capital.",
+          "Con la M-302, la M-313 y la M-311 a menos de dos kilómetros del centro, buena parte de los trayectos son por carretera autonómica, con curvas y cambios de ritmo. A un diésel moderno le conviene, de vez en cuando, un tramo largo de autovía para que el filtro de partículas complete su regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Morata de Tajuña?",
+        "a": "No. El taller de la red que atiende la zona es Dasercars Madrid, en Alcobendas, a 51,5 km por la A-3 y la M-40."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de General de Servicios ITV en el Camino Puente Viejo de Arganda del Rey, a 11,9 km, según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Podéis recoger el coche en Morata?",
+        "a": "La recogida y entrega del taller se limita al área metropolitana de Madrid y está sujeta a disponibilidad. Pregunta al reservar si tu dirección entra."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "8.397 habitantes (+12,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "4.083 · 486 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Arganda del Rey, Camino Puente Viejo · 11,9 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, ctra. de Valencia km 7,3 · 29,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 51,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
