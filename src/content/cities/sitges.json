@@ -3,7 +3,7 @@
   "name": "Sitges",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 27668,
+  "population": 32609,
   "lat": 41.23506,
   "lng": 1.81193,
   "metaTitle": "Especialistas BMW en Sitges — Revisión y reparación con garantía",
@@ -179,5 +179,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sitges y tu BMW: Vilanova para la ITV y la marca, Sant Joan Despí para el especialista",
+    "entradilla": "Ni la ITV ni el servicio oficial BMW están dentro del término de Sitges: los dos quedan en Vilanova i la Geltrú, a unos 10 km. Nuestro taller está a 32,2 km por la C-32. Te explicamos qué conviene hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 32.2
+    },
+    "secciones": [
+      {
+        "id": "todo-en-vilanova",
+        "h2": "Dos citas en Vilanova i la Geltrú",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova, a 9,6 km por carretera. Si BMW te escribe por una llamada a revisión, esa cita es allí: las campañas del fabricante solo las hace la red de la marca.",
+          "La inspección técnica también cae en Vilanova: la estación B17, en la Ronda Europa, a 10,6 km según el registro de la Generalitat."
+        ]
+      },
+      {
+        "id": "pegado-al-mar",
+        "h2": "A 0,2 km del agua",
+        "parrafos": [
+          "El centro de Sitges está a unos 0,2 km de la línea de costa, y eso el coche lo nota. La humedad salina se queda en los pasos de rueda y en los bajos, y los primeros en sufrirla son las grapas, los tornillos del protector inferior y los soportes del escape.",
+          "Si el BMW duerme en la calle, merece la pena revisar con más frecuencia los conectores de los sensores de aparcamiento y de los faros: un aviso intermitente en el cuadro suele empezar por ahí."
+        ]
+      },
+      {
+        "id": "c32-hasta-el-taller",
+        "h2": "32 kilómetros de C-32",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona son 32,2 km por carretera, 25,6 en línea recta: la C-32 y después la B-25. Sitges pertenece al Garraf y no al Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí.",
+          "Donde sí aporta un especialista independiente es en el mantenimiento de un coche fuera de garantía y en las averías que el concesionario resuelve cambiando piezas una tras otra."
+        ]
+      },
+      {
+        "id": "pocos-coches",
+        "h2": "Menos coches por vecino que en Madrid capital",
+        "parrafos": [
+          "Sitges tenía 32.609 habitantes en 2025, un 15,4 % más que en 2015, y 12.341 turismos en 2024 según Idescat a partir de la DGT: 378 por cada 1.000 vecinos. Es una proporción menor que la de Madrid capital (388) y muy lejos de los municipios de interior."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Sitges?",
+        "a": "Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 9,6 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me toca?",
+        "a": "La más próxima en el registro de la Generalitat es la de Vilanova (B17), en la Ronda Europa, a 10,6 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "32,2 km por la C-32 y la B-25, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "32.609 habitantes (+15,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Garraf",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082704&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "12.341 · 378 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082704&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 9,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Vilanova (B17), Ronda Europa · 10,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 32,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082704&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

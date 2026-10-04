@@ -3,7 +3,7 @@
   "name": "Esparreguera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 21855,
+  "population": 22665,
   "lat": 41.53809,
   "lng": 1.87025,
   "metaTitle": "Especialistas BMW en Esparreguera — Revisión y reparación con garantía",
@@ -179,5 +179,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Esparreguera: un especialista BMW a 26,9 km, no el taller de la esquina",
+    "entradilla": "Esta no es la página de ningún taller de Esparreguera. Es la de Dasercars, taller independiente especializado en BMW y MINI, con nave en Sant Joan Despí. Si tienes uno de estos coches, aquí tienes distancias reales y alternativas.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 26.9
+    },
+    "secciones": [
+      {
+        "id": "taller-de-fuera",
+        "h2": "Por qué un taller de fuera del pueblo",
+        "parrafos": [
+          "Un taller generalista resuelve bien lo común. Un especialista de marca tiene sentido cuando el problema es de BMW: una cadena de distribución ruidosa en un N47, una caja automática que da tirones, un aviso de AdBlue con cuenta atrás o un testigo que vuelve después de borrarlo.",
+          "Para lo que depende del fabricante —campañas de revisión y reparaciones en garantía—, la cita es con la red oficial. El punto más cercano según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 18,6 km."
+        ]
+      },
+      {
+        "id": "c55-a2-esparreguera",
+        "h2": "Del núcleo urbano a Sant Joan Despí",
+        "parrafos": [
+          "Medido desde el centro del núcleo urbano, hasta nuestro taller hay 26,9 km por carretera y 22,7 en línea recta, por la C-55 y la A-2. Esparreguera no pertenece al Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller no llega aquí."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu",
+        "h2": "La ITV, en Sant Andreu de la Barca",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 12,1 km. Sant Andreu queda entre Esparreguera y Sant Joan Despí, así que la pre-ITV en el taller y la inspección pueden encajarse en el mismo viaje."
+        ]
+      },
+      {
+        "id": "esparreguera-cifras",
+        "h2": "513 turismos por cada mil vecinos",
+        "parrafos": [
+          "El padrón de 2025 da a Esparreguera 22.665 habitantes, un 4,4 % más que en 2015, en un término de 27,4 km². Idescat contaba 11.629 turismos en 2024 a partir de la DGT: 513 por cada 1.000 vecinos, más que en la vecina Olesa (449).",
+          "Con la A-2, la B-40 y la C-55 a menos de tres kilómetros, los tramos largos están a mano; un diésel que solo hace recorridos por el pueblo, en cambio, no termina de regenerar el filtro de partículas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois un taller de Esparreguera?",
+        "a": "No. Somos Dasercars Barcelona, taller especializado en BMW en Sant Joan Despí, a 26,9 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Sant Andreu de la Barca (B21), a 12,1 km."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte electrónica y motores con BMW y se trabaja con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "22.665 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080765&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "11.629 · 513 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080765&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 12,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Terrassa · 18,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 26,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080765&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

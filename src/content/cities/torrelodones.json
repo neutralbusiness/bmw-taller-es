@@ -3,7 +3,7 @@
   "name": "Torrelodones",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 21781,
+  "population": 25433,
   "lat": 40.57654,
   "lng": -3.92658,
   "metaTitle": "Taller BMW en Torrelodones | Especialistas en motor, turbo y ZF 8HP",
@@ -182,5 +182,125 @@
     "M-618 de conexión local",
     "M-511 hacia Galapagar",
     "Acceso desde Las Rozas"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrelodones, a 852 metros: tu BMW, la A-6 y el especialista de Alcobendas",
+    "entradilla": "El centro de Torrelodones está a 852 metros, y eso se nota en invierno. El servicio oficial lo tienes a 6,7 km por la A-6; nuestro taller, a 37,9 km rodeando Madrid por la M-40.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 37.9
+    },
+    "secciones": [
+      {
+        "id": "invierno-852",
+        "h2": "Lo que pide un coche a 852 metros",
+        "parrafos": [
+          "Con heladas frecuentes, la batería es el punto débil: en un BMW con arranque y parada automático trabaja mucho, y cuando se cambia hay que registrarla en la centralita para que el sistema de carga la trate como nueva. Si no se registra, dura bastante menos.",
+          "El anticongelante conviene medirlo por concentración, no solo por nivel, y en los diésel el precalentamiento tiene que estar en buen estado: una bujía de precalentamiento cansada da la cara la primera mañana fría."
+        ]
+      },
+      {
+        "id": "movilnorte-a6",
+        "h2": "El concesionario, en la A-6 a 6,7 km",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es Movilnorte, en la A-6, km 23,1, en Las Rozas: 6,7 km por carretera. Las llamadas a revisión del fabricante se atienden en la red de la marca; si te llega una carta de BMW, la cita es con ellos."
+        ]
+      },
+      {
+        "id": "a6-m40-a1",
+        "h2": "A Alcobendas por la A-6, la M-40 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande rodea Madrid por el norte: A-6, M-40 y A-1, 37,9 km por carretera y 23,7 en línea recta. Pregunta por el vehículo de cortesía o por la recogida dentro del área metropolitana de Madrid al pedir cita; los dos están sujetos a disponibilidad.",
+          "La ITV oficial más próxima es la de Itevelesa (estación 2832) en la A-6, km 37,6, en Collado Villalba, a 8,6 km según el listado de la Comunidad de Madrid."
+        ]
+      },
+      {
+        "id": "torrelodones-cifras",
+        "h2": "557 turismos por cada mil vecinos",
+        "parrafos": [
+          "Torrelodones tenía 25.433 habitantes en 2025, un 10 % más que en 2015, y 14.161 turismos censados ese año (Comunidad de Madrid, a partir de la DGT): 557 por cada 1.000 habitantes, muy por encima de los 388 de Madrid capital."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Torrelodones?",
+        "a": "Movilnorte, en la A-6, km 23,1 (Las Rozas), a 6,7 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación oficial más próxima es la de la A-6, km 37,6, en Collado Villalba, a 8,6 km."
+      },
+      {
+        "q": "¿Hay que registrar la batería nueva en un BMW?",
+        "a": "Sí. Sin registrarla, la centralita la carga como si fuera la vieja y su vida se acorta."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "25.433 habitantes (+10 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "14.161 · 557 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "852 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte, A-6 km 23,1 (Las Rozas) · 6,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "A-6 km 37,6 (Collado Villalba) · 8,6 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 37,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

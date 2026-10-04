@@ -3,7 +3,7 @@
   "name": "Santa Perpètua de Mogoda",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 25048,
+  "population": 26130,
   "lat": 41.53333,
   "lng": 2.18333,
   "metaTitle": "Taller especializado BMW en Santa Perpètua de Mogoda — Diagnóstico ISTA y recambio OE",
@@ -181,5 +181,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Perpètua de Mogoda: la ITV del CIM Vallès y un especialista BMW a 29 km",
+    "entradilla": "Entre el centro de mercancías, la AP-7 y la C-33, Santa Perpètua está rodeada de carreteras. Lo útil para un BMW: ITV en el término, dos puntos oficiales en Sabadell y nuestro taller a 29,4 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 29.4
+    },
+    "secciones": [
+      {
+        "id": "itv-les-minetes",
+        "h2": "ITV en el polígono Les Minetes",
+        "parrafos": [
+          "La estación ITV CIM Vallès (B20) está dentro del municipio, en el carrer Pont Vell, en el Centre Integral de Mercaderies del polígono Les Minetes, según el registro de la Generalitat. Inspección sin salir de casa."
+        ]
+      },
+      {
+        "id": "dos-en-sabadell",
+        "h2": "Dos puntos oficiales en Sabadell, casi a la par",
+        "parrafos": [
+          "El localizador de bmw.es da dos opciones a menos de un kilómetro de diferencia: Sitjas Motor, taller autorizado BMW en la calle Quintana 64, a 8,6 km, y Quadis Munich Sabadell, a 9 km. Cualquiera de los dos sirve para una campaña o una reparación en garantía.",
+          "Para el resto, el Reglamento (UE) 461/2010 deja claro que revisar el coche en un taller independiente no anula la garantía mientras se siga el plan del fabricante con recambios de calidad equivalente."
+        ]
+      },
+      {
+        "id": "c33-b20",
+        "h2": "Por la C-33 y la B-20",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona va por la C-33 y la B-20: 29,4 km por carretera, 21,1 en línea recta. Santa Perpètua no está en el Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller no la cubre.",
+          "A menos de tres kilómetros del centro pasan la AP-7, la C-33, la C-17, la C-59 y varias carreteras del Vallès con matrícula B. Con autopista tan a mano, un diésel tiene fácil hacer de vez en cuando el tramo a ritmo constante que necesita el filtro de partículas para regenerarse."
+        ]
+      },
+      {
+        "id": "parque-mogoda",
+        "h2": "Más de un turismo por cada dos vecinos",
+        "parrafos": [
+          "El padrón de 2025 da 26.130 habitantes, un 2,6 % más que en 2015. Idescat contaba 13.675 turismos en 2024 a partir de la DGT: 523 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en Santa Perpètua de Mogoda?",
+        "a": "Sí: la estación CIM Vallès (B20), en el polígono Les Minetes, según la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Hay dos en Sabadell casi a la misma distancia: Sitjas Motor (8,6 km) y Quadis Munich (9 km)."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona, y Santa Perpètua queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "26.130 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082606&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "13.675 · 523 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082606&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "CIM Vallès (B20), pol. Les Minetes",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Sitjas Motor (8,6 km) y Quadis Munich (9 km), Sabadell",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 29,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082606&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

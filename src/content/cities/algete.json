@@ -3,7 +3,7 @@
   "name": "Algete",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 20204,
+  "population": 21144,
   "lat": 40.59711,
   "lng": -3.49743,
   "metaTitle": "Taller BMW en Algete — Especialistas con diagnóstico ISTA Oficial",
@@ -195,5 +195,124 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW y Algete: el oficial está en el pueblo, el especialista a 18 km",
+    "entradilla": "En Algete hay servicio oficial BMW, a 4,2 km del centro, y estación de ITV en el polígono. Nosotros somos otra cosa: un taller independiente especializado en BMW, en Alcobendas. Lo que ofrece cada uno.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 18.0
+    },
+    "secciones": [
+      {
+        "id": "bymycar-algete",
+        "h2": "El servicio oficial de Algete no somos nosotros",
+        "parrafos": [
+          "El punto oficial BMW del municipio, según el localizador de bmw.es, es BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete km 3: 4,2 km por carretera desde el centro. Si buscabas su teléfono, no es el de esta página.",
+          "Nosotros somos Dasercars, taller independiente. El Reglamento (UE) 461/2010 permite hacer el mantenimiento fuera de la red oficial sin perder la garantía, siempre que se cumplan los intervalos del plan con aceites y recambios de la especificación correcta."
+        ]
+      },
+      {
+        "id": "itv-sector-8",
+        "h2": "ITV en el polígono Sector 8",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye una estación dentro del término: la de ITV Barbastro (estación 2818), en la avenida Nicasio Martín 4, polígono Sector 8. No necesitas salir de Algete para la inspección."
+        ]
+      },
+      {
+        "id": "m106-m100",
+        "h2": "18 km por la M-106, la M-100 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande va por la M-106 y la M-100 hasta la A-1: 18 km por carretera, 14,6 en línea recta.",
+          "Si el trabajo dura más de un día, pregunta por el vehículo de cortesía, o por la recogida y entrega dentro del área metropolitana de Madrid; las dos cosas dependen de disponibilidad."
+        ]
+      },
+      {
+        "id": "algete-cifras",
+        "h2": "604 turismos por cada mil vecinos",
+        "parrafos": [
+          "Algete tenía 21.144 habitantes en 2025, un 4,9 % más que en 2015. La Comunidad de Madrid, a partir de la DGT, contaba 12.767 turismos ese año: 604 por cada 1.000 vecinos, frente a 388 en Madrid capital.",
+          "El centro está a 718 metros de altitud y la M-103 y la M-106 pasan a menos de tres kilómetros. Con tanto trayecto corto entre urbanizaciones y polígono, en un diésel conviene vigilar el filtro de partículas: si el aviso de regeneración aparece a menudo, no es normal y hay que mirar por qué no completa el ciclo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Algete?",
+        "a": "No. El servicio oficial es BYmyCAR Madrid, en la calle Tejera 2. Nosotros somos un taller independiente en Alcobendas."
+      },
+      {
+        "q": "¿Hay ITV en Algete?",
+        "a": "Sí: la estación 2818, en la avenida Nicasio Martín 4, polígono Sector 8."
+      },
+      {
+        "q": "¿Pierdo la garantía si reviso el coche con vosotros?",
+        "a": "No, si se respeta el plan de mantenimiento del fabricante."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "21.144 habitantes (+4,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "12.767 · 604 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "ITV Barbastro (2818), av. Nicasio Martín 4",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid, c/ Tejera 2 · 4,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 18 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

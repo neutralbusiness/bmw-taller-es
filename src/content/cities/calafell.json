@@ -3,7 +3,7 @@
   "name": "Calafell",
   "province": "Tarragona",
   "ccaa": "Cataluña",
-  "population": 24265,
+  "population": 32624,
   "lat": 41.19997,
   "lng": 1.5683,
   "metaTitle": "Taller BMW en Calafell | Costa Dorada, Baix Penedès",
@@ -181,5 +181,126 @@
     "AP-7",
     "N-340",
     "C-31"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calafell: un BMW a 1,2 km del mar y a 55 km del taller especialista",
+    "entradilla": "A poco más de un kilómetro de la playa, el coche convive con el salitre todo el año. La ITV queda en Bellvei, el servicio oficial en Vilanova i la Geltrú y nuestro taller, en Sant Joan Despí: así se reparte lo que necesita un BMW de Calafell.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 55.2
+    },
+    "secciones": [
+      {
+        "id": "aire-salino",
+        "h2": "Lo que el aire del mar pide revisar",
+        "parrafos": [
+          "El centro del municipio está a unos 1,2 km de la costa. La sal en suspensión trabaja despacio, pero trabaja: los bajos, los soportes del escape y los anclajes de la suspensión son lo primero que se oxida, y los conectores eléctricos que quedan al aire acaban con verdín si nadie los mira.",
+          "Un BMW que pasa semanas aparcado cerca del paseo marítimo suele estrenar la vuelta a la carretera con un roce metálico al frenar: es óxido superficial en los discos y casi siempre se va en pocos kilómetros. Si no se va, o si vibra el volante, toca revisar discos y pastillas antes de que el desgaste sea irregular."
+        ]
+      },
+      {
+        "id": "bellvei-y-vilanova",
+        "h2": "ITV a 5,3 km y servicio oficial a 19,7",
+        "parrafos": [
+          "La estación de ITV del Baix Penedès (T07) está en el polígono Els Massets de Bellvei: 5,3 km por carretera según el registro de la Generalitat. Es la referencia también para El Vendrell, el municipio de al lado.",
+          "Para lo que depende de la marca —una carta de BMW por una campaña o una reparación en garantía— el localizador de bmw.es da como punto oficial más próximo Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 19,7 km."
+        ]
+      },
+      {
+        "id": "c32-b25",
+        "h2": "La C-32 a menos de un kilómetro",
+        "parrafos": [
+          "La autopista C-32 pasa a 0,8 km del centro y es la misma que lleva a nuestro taller: C-32 y B-25 hasta el carrer del Tambor del Bruc, 55,2 km por carretera. Calafell no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del coche que ofrece el taller no llega aquí.",
+          "Con esa distancia, el viaje se justifica para una avería que pide especialista: un diésel N47 con ruido de cadena, un fallo de AdBlue o una electrónica que nadie ha sabido leer. Una revisión de rutina la resuelve cualquier taller del Penedès."
+        ]
+      },
+      {
+        "id": "calafell-crece",
+        "h2": "Un tercio más de vecinos que en 2015",
+        "parrafos": [
+          "El padrón pasó de 24.256 habitantes en 2015 a 32.624 en 2025, un 34,5 % más. Idescat, con datos de la DGT, contaba 14.326 turismos en 2024: 439 por cada 1.000 vecinos, bastante por encima de los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Calafell?",
+        "a": "La estación más próxima en el registro de la Generalitat es la del Baix Penedès (T07), en Bellvei, a 5,3 km por carretera."
+      },
+      {
+        "q": "¿Afecta la cercanía del mar a mi BMW?",
+        "a": "Sí: acelera el óxido de bajos y anclajes, el de los discos de un coche parado y la sulfatación de conectores. Un lavado de bajos con agua dulce ayuda."
+      },
+      {
+        "q": "¿Recogéis el coche en Calafell?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "32.624 habitantes (+34,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430379&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "14.326 · 439 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=430379&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 1,2 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Baix Penedès (T07), Bellvei · 5,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 55,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=430379&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

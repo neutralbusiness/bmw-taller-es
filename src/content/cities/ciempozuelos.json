@@ -3,7 +3,7 @@
   "name": "Ciempozuelos",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 22132,
+  "population": 26350,
   "lat": 40.15913,
   "lng": -3.62103,
   "metaTitle": "Taller BMW en Ciempozuelos | Especialistas en el sur de Madrid",
@@ -171,5 +171,120 @@
     "A-4",
     "M-404",
     "M-404a"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Pre-ITV y mantenimiento BMW para Ciempozuelos: lo cercano y lo especialista",
+    "entradilla": "La pre-ITV es lo que más se busca desde Ciempozuelos, y la estación oficial más cercana está en Valdemoro, a 5,7 km. Nuestro taller queda a 49,7 km, en Alcobendas: te contamos qué tiene sentido hacer allí y qué no.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 49.7
+    },
+    "secciones": [
+      {
+        "id": "pre-itv",
+        "h2": "Pre-ITV: dónde tiene sentido hacerla",
+        "parrafos": [
+          "La ITV que te queda cerca es la de ITV Valdemoro (estación 2863), en la calle Vereda de la Solana 43-45 del polígono Las Canteras, a 5,7 km según el listado de la Comunidad de Madrid. Bajar a Alcobendas solo para una pre-ITV no compensa.",
+          "Sí la aprovechas si el coche ya va al taller por otra cosa: luces, holguras, frenos y emisiones se miran en la misma visita, y a la vuelta pides hora en Valdemoro."
+        ]
+      },
+      {
+        "id": "caja-automatica",
+        "h2": "El aceite de la caja automática",
+        "parrafos": [
+          "Muchos BMW montan cambios automáticos de ZF, y BMW los entrega con un aceite «de por vida». El propio fabricante del cambio recomienda sustituirlo con los años; si la caja empieza a dar tirones al bajar marchas o tarda en engranar en frío, el aceite y el filtro son lo primero que hay que revisar.",
+          "Es un trabajo con procedimiento propio: nivel a temperatura controlada y adaptaciones borradas al terminar. Antes de tocar nada recibes el presupuesto por escrito, y el trabajo no arranca sin tu visto bueno."
+        ]
+      },
+      {
+        "id": "a4-m30-a1",
+        "h2": "Cruzar Madrid: M-404, A-4, M-30 y A-1",
+        "parrafos": [
+          "Hasta la calle Valgrande de Alcobendas hay 49,7 km por carretera, 42,1 en línea recta, cruzando de sur a norte por la A-4, la M-30 y la A-1. Si no puedes traer el coche, pregunta al reservar si tu dirección entra en la recogida del taller, que se limita al área metropolitana de Madrid y está sujeta a disponibilidad.",
+          "Para las campañas de la marca, el punto oficial más próximo según bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 22,3 km."
+        ]
+      },
+      {
+        "id": "ciempozuelos-cifras",
+        "h2": "26.350 vecinos y 12.104 turismos",
+        "parrafos": [
+          "Ciempozuelos tenía 26.350 habitantes en 2025, un 11,2 % más que en 2015, y 12.104 turismos censados ese año según la Comunidad de Madrid a partir de la DGT: 459 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Ciempozuelos?",
+        "a": "La estación oficial más cercana es ITV Valdemoro, en el polígono Las Canteras, a 5,7 km."
+      },
+      {
+        "q": "¿Cambiáis el aceite de la caja automática?",
+        "a": "Sí, con su filtro, control de nivel a temperatura y borrado de adaptaciones. Se presupuesta antes."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 49,7 km, en la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "26.350 habitantes (+11,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "12.104 · 459 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "ITV Valdemoro, pol. Las Canteras · 5,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Getafe) · 22,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 49,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
