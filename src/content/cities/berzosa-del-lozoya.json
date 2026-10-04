@@ -3,11 +3,11 @@
   "name": "Berzosa del Lozoya",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 227,
+  "population": 242,
   "lat": 40.9736,
   "lng": -3.53246,
   "metaTitle": "Taller BMW en Berzosa del Lozoya | Sierra Norte",
-  "metaDescription": "Servicio especializado BMW para Berzosa del Lozoya y el entorno de Buitrago. Recogida a domicilio, diagnosis oficial y reparación mecánica.",
+  "metaDescription": "Berzosa del Lozoya: servicio oficial BMW en Algete a 70,3 km y taller especialista en Alcobendas a 72,3 km. ITV en la A-1, km 66.",
   "heroSubtitle": "El taller BMW que llega hasta Berzosa del Lozoya, junto al río, sin que tengas que bajar a Madrid.",
   "trustChips": [
     {
@@ -170,5 +170,133 @@
   "zoneAccessRoutes": [
     "M-127",
     "A-1"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Berzosa del Lozoya: servicio oficial BMW y taller especialista, casi a la misma distancia",
+    "entradilla": "Desde Berzosa del Lozoya, el servicio oficial BMW más cercano está a 70,3 km y nuestro taller, a 72,3. Con dos kilómetros de diferencia, la distancia no decide: decide lo que necesita el coche.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 72.3
+    },
+    "secciones": [
+      {
+        "id": "algete-o-alcobendas",
+        "h2": "Algete o Alcobendas",
+        "parrafos": [
+          "El localizador de bmw.es da como punto oficial más próximo BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete, km 3: 70,3 km por carretera. Dasercars Madrid está en la calle Valgrande 17 de Alcobendas, a 72,3 km por la M-127, la M-135 y la A-1 (49,5 km en línea recta).",
+          "La garantía del fabricante no obliga a revisar en el concesionario: el Reglamento (UE) 461/2010 permite hacerlo en un taller independiente si se respetan los intervalos y las especificaciones del plan de mantenimiento. En Dasercars, además, la diagnosis se presupuesta antes de empezar."
+        ]
+      },
+      {
+        "id": "itv-a1-km-66",
+        "h2": "La ITV, en la A-1 a la altura de Lozoyuela",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de TÜV SÜD ATISAE (estación 2812), en la A-1, km 66, en el término de Lozoyuela-Navas-Sieteiglesias: 20,5 km según el listado de la Comunidad de Madrid. Si el coche baja al taller por otro motivo, la pre-ITV puede hacerse allí y la inspección, después."
+        ]
+      },
+      {
+        "id": "a-1077-metros",
+        "h2": "A unos 1.077 metros",
+        "parrafos": [
+          "El casco urbano está a unos 1.077 metros según el modelo de elevación Copernicus. En la sierra, el invierno castiga sobre todo la batería, el refrigerante y los neumáticos. En un BMW con muchos consumidores eléctricos, una batería que flojea suele avisar la primera mañana de helada, y la nueva hay que registrarla para que el coche la cargue bien."
+        ]
+      },
+      {
+        "id": "berzosa-en-cifras",
+        "h2": "242 vecinos, un 19,8 % más que en 2015",
+        "parrafos": [
+          "El padrón pasó de 202 habitantes en 2015 a 242 en 2025, en un término de 14,5 km². La Comunidad de Madrid, a partir de la DGT, contaba 116 turismos en 2025: 479 por cada 1.000 vecinos, bastantes menos que en El Atazar, a 7 km, donde son 764.",
+          "Berzosa queda fuera del área metropolitana de Madrid, y la recogida y entrega que ofrece el taller no llega hasta aquí: el coche lo bajas tú."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué me queda más cerca, el concesionario o vuestro taller?",
+        "a": "Prácticamente igual: BYmyCAR, en Algete, a 70,3 km, y Dasercars, en Alcobendas, a 72,3 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Berzosa?",
+        "a": "En la estación de TÜV SÜD ATISAE de la A-1, km 66, a 20,5 km."
+      },
+      {
+        "q": "¿Reparáis MINI?",
+        "a": "Sí. MINI comparte electrónica y buena parte de los motores con BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "242 habitantes (+19,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "116 · 479 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 1.077 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "A-1 km 66 (Lozoyuela) · 20,5 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Algete) · 70,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 72,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

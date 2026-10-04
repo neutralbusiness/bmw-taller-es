@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Argençola: un BMW entre Tàrrega e Igualada, con el taller especialista a 74,3 km",
+    "entradilla": "Desde Argençola, la A-2 queda a menos de tres kilómetros. Hacia el oeste está el servicio oficial BMW más próximo; hacia el este, la ITV y, al final de la autovía, el taller de la red en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 74.3
+    },
+    "secciones": [
+      {
+        "id": "bv2231-a2",
+        "h2": "Por la BV-2231 y la A-2",
+        "parrafos": [
+          "La ruta que calcula OpenStreetMap sale del pueblo por la BV-2231 y sigue por la A-2 hasta el final: 74,3 km por carretera, 57,7 en línea recta hasta Dasercars Barcelona. Al no estar en el área metropolitana, la recogida que ofrece el taller no llega a Argençola.",
+          "Es media distancia: para un mantenimiento de rutina hay talleres más cerca; para un diagnóstico que no ha salido en otro sitio o un trabajo de motor en un diésel N47 o N57, sí compensa el viaje."
+        ]
+      },
+      {
+        "id": "tarrega-oficial",
+        "h2": "El servicio oficial, a 32,4 km en Tàrrega",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo es Unicars Ponent, en el carrer de la Conca de Barberà de Tàrrega, a 32,4 km. Si te llega una carta de llamada a revisión, esa cita es con ellos.",
+          "Todo lo demás —aceite, filtros, frenos, averías fuera de garantía— puedes hacerlo donde prefieras. Con nosotros, el trabajo se presupuesta por escrito y no se empieza nada que no hayas aprobado."
+        ]
+      },
+      {
+        "id": "itv-hacia-igualada",
+        "h2": "ITV: Igualada, a 23,5 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Igualada (B12), en el polígono Les Comes, a 23,5 km y en el mismo sentido que el taller. Si el coche baja a Sant Joan Despí por otra cosa, la pre-ITV puede hacerse allí y la inspección, a la vuelta."
+        ]
+      },
+      {
+        "id": "argencola-en-cifras",
+        "h2": "245 vecinos en 47 km²",
+        "parrafos": [
+          "Argençola ha pasado de 223 habitantes en 2015 a 245 en 2025, un 9,9 % más, en un término de 47,09 km² con 5 habitantes por km². El núcleo está a 716 metros. Idescat contaba 129 turismos en 2024 a partir de la DGT: 527 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Argençola?",
+        "a": "En Tàrrega: Unicars Ponent, a 32,4 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Igualada (B12), a 23,5 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "74,3 km por la BV-2231 y la A-2, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "245 habitantes (+9,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080082&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "129 · 527 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080082&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 23,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 32,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 74,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080082&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

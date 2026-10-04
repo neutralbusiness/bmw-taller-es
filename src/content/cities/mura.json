@@ -3,11 +3,11 @@
   "name": "Mura",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 227,
+  "population": 235,
   "lat": 41.68879,
   "lng": 1.97473,
   "metaTitle": "Taller BMW en Mura | Diagnóstico y reparación especializada",
-  "metaDescription": "Reparación especializada de BMW cerca de Mura (Bages, Barcelona). Diagnóstico ISTA, mecánica y electrónica BMW. Recogida disponible. Presupuesto sin compromiso.",
+  "metaDescription": "BMW en Mura: ITV en Manresa a 16,8 km, servicio oficial en Sant Fruitós de Bages y taller especialista a 59 km por la B-40 y la C-16.",
   "heroSubtitle": "El taller BMW de confianza para los vecinos de Mura y el entorno del Parc de Sant Llorenç del Munt.",
   "trustChips": [
     {
@@ -170,5 +170,125 @@
     "BV-1221 (Mura - Talamanca)",
     "BV-1224 hacia Sant Llorenç Savall",
     "C-58 hacia Terrassa/Manresa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Mura: un BMW a 59 km del taller especialista, por la B-40 y la C-16",
+    "entradilla": "Ninguna carretera principal pasa a menos de tres kilómetros de Mura, y aun así el taller de la red queda a 59 km: la B-40 acerca bastante Sant Joan Despí. La ITV y el servicio oficial BMW, hacia Manresa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 59.0
+    },
+    "secciones": [
+      {
+        "id": "b40",
+        "h2": "La B-40 acorta el camino",
+        "parrafos": [
+          "La ruta sale por la BV-1223 y la BV-1221, toma la B-40 y enlaza con la C-16 y la B-20 hasta el carrer del Tambor del Bruc de Sant Joan Despí: 59 km por carretera, 37,9 en línea recta.",
+          "A esa distancia, llevar el coche a un especialista ya es razonable también para el mantenimiento por plan de marca, no solo para averías raras. Mura no forma parte del área metropolitana, de modo que la recogida del taller no llega; el coche lo traes tú."
+        ]
+      },
+      {
+        "id": "manresa-bufalvent",
+        "h2": "ITV en el polígono Bufalvent de Manresa",
+        "parrafos": [
+          "La estación más próxima por carretera según la Generalitat es la de Manresa (B06), en el carrer Esteve Terrades 2-4 del polígono Bufalvent, a 16,8 km. El punto oficial BMW que da el localizador de bmw.es está a 21,6 km: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages."
+        ]
+      },
+      {
+        "id": "carreteras-locales",
+        "h2": "Carreteras locales hasta la autovía",
+        "parrafos": [
+          "Hasta llegar a la B-40, todo es carretera local, con curvas y desnivel. Es un uso que pide atención a frenos, neumáticos y amortiguadores, y en el que un diésel pocas veces mantiene la temperatura y el régimen que necesita el filtro de partículas para limpiarse.",
+          "Si el aviso del filtro se enciende a menudo, aprovecha el tramo de B-40 y C-16 para que termine la regeneración; si no se apaga, que lo revise un taller antes de que el coche entre en modo de emergencia."
+        ]
+      },
+      {
+        "id": "mura-en-cifras",
+        "h2": "235 vecinos, un 15,8 % más que en 2015",
+        "parrafos": [
+          "Mura tenía 203 habitantes en 2015 y 235 en 2025, en un término de 47,79 km² con el núcleo a 454 metros. Idescat, a partir de la DGT, contaba 120 turismos en 2024: 511 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Mura?",
+        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona, y Mura queda fuera."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Manresa (B06), en el polígono Bufalvent, a 16,8 km por carretera."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "59 km, por la B-40, la C-16 y la B-20 hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "235 habitantes (+15,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081398&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "120 · 511 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081398&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Manresa (B06) · 16,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 21,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 59 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081398&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

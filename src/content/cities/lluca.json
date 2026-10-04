@@ -3,11 +3,11 @@
   "name": "Lluçà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 259,
+  "population": 281,
   "lat": 42.0743,
   "lng": 2.0581,
   "metaTitle": "Taller BMW en Lluçà | Servicio técnico en el corazón rural",
-  "metaDescription": "Servicio BMW en Lluçà, el municipio que da nombre al Lluçanès. Reparación, mantenimiento y diagnóstico para tu BMW en el entorno rural más auténtico de Barcelona.",
+  "metaDescription": "BMW en Lluçà: ITV más próxima en Berga, servicio oficial en Vic y taller especialista de la red a 116,6 km. Qué merece el viaje y qué no.",
   "heroSubtitle": "Donde nació el Lluçanès, nace también tu servicio BMW de confianza. Atención técnica experta sin abandonar la comarca.",
   "trustChips": [
     {
@@ -184,5 +184,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Lluçà, en el Lluçanès: tu BMW a 116,6 km del taller y la ITV en Berga",
+    "entradilla": "En Lluçà viven cinco personas por kilómetro cuadrado y no hay ninguna carretera principal a menos de tres kilómetros del núcleo. Para un BMW, eso quiere decir carreteras locales a diario y un taller especialista muy lejos. Vamos a lo práctico.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 116.6
+    },
+    "secciones": [
+      {
+        "id": "berga-y-vic",
+        "h2": "ITV hacia Berga, servicio oficial hacia Vic",
+        "parrafos": [
+          "Dos gestiones, dos direcciones. La estación de ITV más próxima por carretera a Lluçà, según el registro de la Generalitat, es la de Berga (B13), en el polígono La Valldan, a 29,4 km. El servicio oficial BMW está en Vic: Quadis Munich, calle Perot Rocaguinarda 1, a 32,8 km según bmw.es."
+        ]
+      },
+      {
+        "id": "cuando-no-merece",
+        "h2": "116,6 kilómetros: cuándo no merece la pena",
+        "parrafos": [
+          "La ruta hasta Sant Joan Despí va por la BV-4341 hasta la C-62, baja por la C-16 y entra por la B-20: 116,6 km por carretera, 76,3 en línea recta. Para un cambio de aceite, unos neumáticos o unos frenos, ese viaje no se justifica: un taller del Lluçanès o de Osona lo hace igual de bien.",
+          "Sí se justifica cuando el problema es de los que exigen conocer la marca a fondo: una centralita que pierde la codificación, una caja automática con cambios bruscos, un ruido de distribución en un diésel. Antes de mover el coche, cuéntalo por teléfono con todo el detalle que puedas; a veces el viaje se descarta en la misma llamada."
+        ]
+      },
+      {
+        "id": "lluca-en-cifras",
+        "h2": "281 vecinos en casi 53 km²",
+        "parrafos": [
+          "El padrón contaba 280 habitantes en 2015 y 281 en 2025: la población no se ha movido. El término mide 52,98 km² y el núcleo está a 745 metros. Idescat, con datos de la DGT, registraba 167 turismos en 2024, 594 por cada 1.000 vecinos.",
+          "Sin vías principales cerca, casi todos los kilómetros del día a día se hacen por carreteras locales, con curvas y cambios de rasante. Ahí trabajan más la suspensión y los frenos que en autovía: un golpe seco al pasar un bache o una vibración al frenar en bajada son avisos que no conviene dejar para más adelante."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Lluçà?",
+        "a": "En la estación de Berga (B13), a 29,4 km: es la más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Tenéis taller en el Lluçanès?",
+        "a": "No. El de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 116,6 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Lluçà?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "281 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081094&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "52,98 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081094&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "167 · 594 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081094&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 29,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 32,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081094&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

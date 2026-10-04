@@ -3,11 +3,11 @@
   "name": "Sora",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 180,
+  "population": 225,
   "lat": 42.1108,
   "lng": 2.1592,
   "metaTitle": "Taller BMW en Sora | Servicio técnico en el norte de Osona",
-  "metaDescription": "Servicio BMW especializado para Sora y norte de Osona. Recogida a domicilio en zona de montaña. Diagnosis, mantenimiento y reparación sin desplazarte a Vic.",
+  "metaDescription": "BMW en Sora: ITV en Ripoll a 15,6 km, servicio oficial en Vic y taller especialista de la red a 107 km en Sant Joan Despí.",
   "heroSubtitle": "Servicio BMW profesional a las puertas del Prepirineo. Recogemos tu vehículo en Sora y lo devolvemos listo para la carretera.",
   "trustChips": [
     {
@@ -180,5 +180,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sora, en el norte de Osona: ITV en Ripoll y taller BMW especialista a 107 km",
+    "entradilla": "Un 22,3 % más de vecinos que en 2015 y ninguna carretera principal a menos de tres kilómetros: así es Sora. Para el dueño de un BMW o un MINI, la ITV más práctica está en Ripoll, el servicio oficial en Vic y el taller especialista de la red, a 107 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 107.0
+    },
+    "secciones": [
+      {
+        "id": "ripoll-y-vic",
+        "h2": "Ripoll para la ITV, Vic para la marca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 15,6 km. El punto de servicio oficial BMW según bmw.es está en Vic: Quadis Munich, calle Perot Rocaguinarda 1, a 31,5 km.",
+          "Son dos direcciones distintas desde el pueblo, y conviene saberlo antes de pedir cita: la inspección no tiene por qué hacerse en la capital de la comarca."
+        ]
+      },
+      {
+        "id": "bv4655-c17",
+        "h2": "107 km por la BV-4655 y la C-17",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona baja por la BV-4655 hasta la C-17, sigue por la C-33 y entra por la B-20: 107 km por carretera, 83,2 en línea recta. Sora no está en el área metropolitana de Barcelona y la recogida del taller no llega.",
+          "Compensa para trabajos en los que pesa la especialización en BMW —electrónica, cajas automáticas, distribución de los diésel N47 y N57— y no para el mantenimiento corriente. Si dudas, pregunta antes de hacer el viaje: con el síntoma bien descrito se puede orientar bastante."
+        ]
+      },
+      {
+        "id": "sora-crece",
+        "h2": "De 184 a 225 vecinos",
+        "parrafos": [
+          "Según el padrón, Sora tenía 184 habitantes en 2015 y 225 en 2025. El término mide 31,71 km² y el núcleo está a 716 metros. Idescat, a partir de la DGT, contaba 150 turismos en 2024: 667 por cada 1.000 vecinos, unos dos coches por cada tres personas.",
+          "Sin autovía cerca, la mayoría de los trayectos son cortos y por carretera local. Ese uso castiga más el aceite y la batería que muchos kilómetros de autopista: respeta el indicador de servicio aunque el cuentakilómetros avance despacio."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Sora?",
+        "a": "En Ripoll (G08), en el passeig d'Ordina, a 15,6 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "En Vic: Quadis Munich, calle Perot Rocaguinarda 1, a 31,5 km según bmw.es."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "107 km por la BV-4655, la C-17, la C-33 y la B-20, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "225 habitantes (+22,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082726&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "150 · 667 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082726&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 15,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 31,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 107 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082726&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
