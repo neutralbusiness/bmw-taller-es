@@ -3,11 +3,11 @@
   "name": "Rellinars",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 735,
+  "population": 926,
   "lat": 41.64712,
   "lng": 1.91521,
   "metaTitle": "Taller BMW cerca de Rellinars | Vallès Occidental, Terrassa",
-  "metaDescription": "Servicio BMW para Rellinars: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Vallès Occidental, cerca de Terrassa.",
+  "metaDescription": "BMW y MINI en Rellinars: ITV en Viladecavalls a 16,8 km y taller especialista de la red en Sant Joan Despí, a 48,6 km. Presupuesto por escrito.",
   "heroSubtitle": "Sant Llorenç del Munt, mecánica BMW cerca de Terrassa",
   "trustChips": [
     {
@@ -170,5 +170,116 @@
     "BV-1221 hacia Terrassa",
     "C-58 hacia Sabadell y Barcelona",
     "BP-1221 hacia Vacarisses"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Rellinars: ITV en Viladecavalls a 16,8 km y taller especialista BMW a 48,6 km",
+    "entradilla": "Rellinars ha ganado casi un 24 % de población en diez años, y casi todo lo que necesita un coche está fuera del término. Para un BMW o un MINI, estas son las distancias que cuentan y así se trabaja en el taller de Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 48.6
+    },
+    "secciones": [
+      {
+        "id": "itv-can-trias",
+        "h2": "La inspección, en el polígono Can Trias",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al núcleo de Rellinars es la de Viladecavalls (B03), en el carrer Joan Lluís Vives del polígono industrial Can Trias: 16,8 km, aunque en línea recta son 9,9.",
+          "Una pre-ITV antes de pedir cita repasa luces, holguras de dirección, frenos y emisiones, y te ahorra una segunda visita a la estación."
+        ]
+      },
+      {
+        "id": "bv1212-a2",
+        "h2": "De la BV-1212 a la A-2",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona sale por la BV-1212, sigue por la C-58 y termina por la A-2 hasta Sant Joan Despí: 48,6 km por carretera y 32,4 en línea recta.",
+          "Rellinars pertenece al Vallès Occidental, pero no al área metropolitana de Barcelona, que es donde el taller ofrece recogida y entrega: aquí no llega."
+        ]
+      },
+      {
+        "id": "como-se-presupuesta",
+        "h2": "Cómo se presupuesta un trabajo",
+        "parrafos": [
+          "Antes de tocar el coche recibes un presupuesto por escrito, y el trabajo no empieza hasta que lo apruebas. La diagnosis también tiene su presupuesto, porque es trabajo técnico de un mecánico con el equipo conectado, no una lectura rápida de códigos de avería.",
+          "Viniendo desde casi cincuenta kilómetros, es la manera de saber a qué te comprometes antes de mover el coche."
+        ]
+      },
+      {
+        "id": "rellinars-cifras",
+        "h2": "926 vecinos y 487 turismos",
+        "parrafos": [
+          "El padrón pasó de 748 habitantes en 2015 a 926 en 2025, un 23,8 % más, en un término de 17,79 km² a 322 metros de altitud. Idescat, a partir de la DGT, contaba 487 turismos en 2024: 526 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Rellinars?",
+        "a": "En la estación de Viladecavalls (B03), en el polígono Can Trias, a 16,8 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Rellinars?",
+        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Me dais el presupuesto antes de empezar?",
+        "a": "Sí, por escrito y antes de cualquier intervención, incluida la diagnosis."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "926 habitantes (+23,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081799&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "487 · 526 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081799&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecavalls (B03) · 16,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 48,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081799&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

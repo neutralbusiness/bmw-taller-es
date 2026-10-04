@@ -3,11 +3,11 @@
   "name": "Montesquiu",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 921,
+  "population": 1131,
   "lat": 42.1146,
   "lng": 2.2112,
   "metaTitle": "Taller BMW en Montesquiu | Expertos en Rutas de Montaña",
-  "metaDescription": "Taller especializado en BMW en Montesquiu. Mantenimiento adaptado a carreteras de montaña, frenos y suspensión para la ruta del Ter. Presupuesto sin compromiso.",
+  "metaDescription": "BMW en Montesquiu: ITV en Ripoll a 14,9 km, servicio oficial en Vic y el taller especialista de la red a 103,1 km por la C-17 y la C-33.",
   "heroSubtitle": "Tu BMW merece un taller que entienda las exigencias de las carreteras de montaña entre Osona y el Ripollès. Llámanos hoy.",
   "trustChips": [
     {
@@ -183,5 +183,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Montesquiu: ITV en Ripoll, servicio oficial en Vic y taller BMW a 103 km por la C-17",
+    "entradilla": "Montesquiu es pequeño en superficie —menos de cinco kilómetros cuadrados— y ha ganado casi un 20 % de vecinos en diez años. Para tu BMW o tu MINI, la ITV queda hacia el norte, en Ripoll, y el servicio oficial hacia el sur, en Vic.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 103.1
+    },
+    "secciones": [
+      {
+        "id": "ripoll-o-vic",
+        "h2": "Al norte para la ITV, al sur para el concesionario",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina: 14,9 km. El servicio oficial BMW más cercano según bmw.es está en dirección contraria, en Vic: Quadis Munich, carrer Perot Rocaguinarda 1, a 27,5 km.",
+          "Las llamadas a revisión que hace BMW por un defecto de fabricación solo las atiende la red oficial, así que si te llega una carta de la marca, esa cita es en Vic."
+        ]
+      },
+      {
+        "id": "c17-c33",
+        "h2": "La C-17 casi en la puerta y 103 km hasta Sant Joan Despí",
+        "parrafos": [
+          "La C-17 pasa a menos de un kilómetro del centro, y es la que lleva hacia Barcelona: la ruta hasta la nave de Dasercars Barcelona sigue por la C-17 y la C-33 y termina en la B-20, con 103,1 km por carretera y 84,1 en línea recta.",
+          "Es una distancia que no compensa para una revisión rutinaria. Sí para un problema que un taller de Osona no ha conseguido cerrar o para un recambio que exige programar la centralita. Montesquiu no forma parte del área metropolitana, de modo que la recogida del taller no cubre el municipio."
+        ]
+      },
+      {
+        "id": "montesquiu-crece",
+        "h2": "De 943 a 1.131 vecinos",
+        "parrafos": [
+          "Según el padrón del INE, Montesquiu ha pasado de 943 habitantes en 2015 a 1.131 en 2025, un 19,9 % más, en un término de 4,94 km² a 577 metros de altitud. Idescat contaba 598 turismos en 2024 a partir de la DGT: 529 por cada 1.000 vecinos.",
+          "Tener una autovía tan cerca ayuda a un diésel moderno: el filtro de partículas se limpia solo cuando el motor trabaja un rato caliente y a carga estable, algo que los trayectos cortos por el pueblo no le dan."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Montesquiu?",
+        "a": "En la estación de Ripoll (G08), en el passeig d'Ordina, a 14,9 km: la más próxima por carretera en el registro de la Generalitat."
+      },
+      {
+        "q": "¿Hay servicio oficial BMW en Osona?",
+        "a": "Sí: Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 27,5 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "103,1 km por la C-17, la C-33 y la B-20, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.131 habitantes (+19,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081311&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "598 · 529 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081311&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 14,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 27,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 103,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081311&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Ribatejada",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 706,
+  "population": 905,
   "lat": 40.66692,
   "lng": -3.42256,
   "metaTitle": "Mecánico BMW en Ribatejada | Recogida a domicilio, taller",
-  "metaDescription": "Servicio BMW para Ribatejada: recogida en el pueblo, diagnosis original y reparación en el taller de referencia de la comarca del Nordeste de Madrid.",
+  "metaDescription": "BMW en Ribatejada: ITV en Algete, servicio oficial en Alcalá de Henares y el taller especialista de la red en Alcobendas, a 36,6 km por la R-2.",
   "heroSubtitle": "Ribatejada, un pueblo pequeño con un servicio serio",
   "trustChips": [
     {
@@ -170,5 +170,120 @@
     "A-2 hacia Madrid y Guadalajara",
     "M-113 hacia Valdeavero",
     "M-224 hacia Cobeña"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Ribatejada: Alcobendas a 36,6 km, ITV en Algete y servicio oficial en Alcalá",
+    "entradilla": "Ribatejada mira a dos lados: la ITV oficial más cercana está en Algete y el servicio oficial BMW, en Alcalá de Henares. El taller especialista de la red, Dasercars Madrid, queda a 36,6 km, en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 36.6
+    },
+    "secciones": [
+      {
+        "id": "itv-algete",
+        "h2": "ITV en el polígono Sector 8 de Algete",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid da como estación más cercana por carretera la 2818, de ITV Barbastro, en la avenida Nicasio Martín 4, dentro del polígono industrial Sector 8 de Algete: 25,3 km desde el núcleo de Ribatejada.",
+          "Si el coche tiene que pasar antes por el taller para poner a punto luces, frenos o emisiones, deja la cita de la estación para unos días después."
+        ]
+      },
+      {
+        "id": "alcala-oficial",
+        "h2": "El concesionario más próximo, en La Garena",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 24,2 km. Para reparaciones en garantía que dependen directamente de BMW, es tu sitio; el mantenimiento puedes llevarlo donde prefieras."
+        ]
+      },
+      {
+        "id": "m113-r2",
+        "h2": "Por la M-113 y la R-2: 36,6 km",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-113, enlaza con la M-50 y usa la R-2: 36,6 km por carretera, 26,4 en línea recta. La N-320 pasa a menos de dos kilómetros del centro.",
+          "El taller ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad. Si te interesa, pregunta al pedir la cita si Ribatejada entra en la zona; no lo des por hecho."
+        ]
+      },
+      {
+        "id": "ribatejada-cifras",
+        "h2": "Un 28 % más de vecinos desde 2015",
+        "parrafos": [
+          "Ribatejada pasó de 707 habitantes en 2015 a 905 en 2025, según el padrón del INE. En 2025 tenía 567 turismos censados según la Comunidad de Madrid a partir de la DGT, 627 por cada 1.000 vecinos, en un término de 32 km² a unos 820 metros de altitud.",
+          "A esa altura, el otoño es buen momento para medir la batería: es la pieza que antes avisa cuando llega el frío."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Ribatejada?",
+        "a": "La recogida del taller está limitada al área metropolitana de Madrid y sujeta a disponibilidad; confirma al reservar si tu dirección entra."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Algete: estación 2818 (ITV Barbastro), avenida Nicasio Martín 4, a 25,3 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "36,6 km por carretera hasta la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "905 habitantes (+28 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "567 · 627 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "ITV Barbastro (2818), Algete · 25,3 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 24,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 36,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

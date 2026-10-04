@@ -3,11 +3,11 @@
   "name": "Cercs",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1306,
+  "population": 1236,
   "lat": 42.1275,
   "lng": 1.8678,
   "metaTitle": "Taller BMW en Cercs | Especialistas BMW — Diagnóstico Profesional",
-  "metaDescription": "Taller especializado en BMW en Cercs, Berguedà. Diagnóstico profesional, frenos, turbo y electrónica para conducción de montaña junto al Pantà de la Baells.",
+  "metaDescription": "BMW en Cercs: ITV en Berga a 10,4 km, servicio oficial en Sant Fruitós de Bages y el taller especialista de la red a 109,6 km. Cuándo compensa bajar.",
   "heroSubtitle": "Especialistas BMW en el corazón del Berguedà. Diagnóstico avanzado y mantenimiento adaptado a la conducción de montaña y embalse.",
   "trustChips": [
     {
@@ -183,5 +183,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cercs, en el Berguedà: ITV en Berga y el especialista BMW a 110 km por la C-16",
+    "entradilla": "Lo primero que hay que saber desde Cercs: el taller de la red está en Sant Joan Despí, a 109,6 km. Por eso empezamos por lo que te queda cerca en el Berguedà y después vemos cuándo merece la pena bajar.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 109.6
+    },
+    "secciones": [
+      {
+        "id": "berga-al-lado",
+        "h2": "La ITV, en el polígono La Valldan de Berga",
+        "parrafos": [
+          "Según el registro de estaciones de la Generalitat, la más próxima por carretera es la de Berga (B13), en el camí de Sant Bartomeu, dentro del polígono industrial La Valldan: 10,4 km. Berga es la capital del Berguedà, y la inspección y el mantenimiento corriente de un coche de Cercs se resuelven allí sin salir de la comarca."
+        ]
+      },
+      {
+        "id": "lo-oficial-en-el-bages",
+        "h2": "El servicio oficial más cercano está ya en el Bages",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto oficial más próximo es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, término de Sant Fruitós de Bages: 48,4 km por carretera. Es la referencia si el coche está en garantía y lo que necesita depende directamente de BMW."
+        ]
+      },
+      {
+        "id": "c16-entera",
+        "h2": "Casi toda la C-16 hasta Sant Joan Despí",
+        "parrafos": [
+          "La C-16 pasa a doscientos metros del núcleo urbano, y la ruta hasta el taller la sigue prácticamente entera antes de enlazar con la B-20: 109,6 km por carretera, 88,4 en línea recta. Cercs no forma parte del área metropolitana de Barcelona, así que la recogida del coche que ofrece el taller no llega aquí.",
+          "Con más de cien kilómetros por delante, el orden lógico es el inverso al de un pueblo cercano: primero una llamada contando modelo, año, kilómetros y qué hace exactamente el coche; después, si el problema lo justifica, una cita con la pieza ya localizada. Una avería repetida de un diésel N47 o N57 es buen motivo; un cambio de aceite, no."
+        ]
+      },
+      {
+        "id": "cercs-en-cifras",
+        "h2": "1.236 vecinos y 788 turismos en 47 km²",
+        "parrafos": [
+          "Cercs tenía 1.236 habitantes en 2025, casi los mismos que en 2015 (1.209), repartidos en un término de 47,35 km² a unos 650 metros de altitud. Idescat, con datos de la DGT, contaba 788 turismos en 2024: 638 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me toca desde Cercs?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono La Valldan, a 10,4 km."
+      },
+      {
+        "q": "¿Recogéis el coche en el Berguedà?",
+        "a": "No. La recogida del taller se limita al área metropolitana de Barcelona, y Cercs queda fuera."
+      },
+      {
+        "q": "¿Merece la pena ir a Sant Joan Despí desde aquí?",
+        "a": "Para una avería concreta de BMW sin resolver, sí; para el mantenimiento corriente, no."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.236 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082687&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "788 · 638 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082687&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 10,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 48,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 109,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082687&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

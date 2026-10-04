@@ -3,11 +3,11 @@
   "name": "Quer",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 676,
+  "population": 1080,
   "lat": 40.6148,
   "lng": -3.28117,
   "metaTitle": "Taller BMW cerca de Quer | Corredor del Henares, Guadalajara",
-  "metaDescription": "Servicio BMW para Quer: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Corredor del Henares, cerca de Guadalajara.",
+  "metaDescription": "BMW en Quer (Guadalajara): servicio oficial en Guadalajara a 14,6 km y el taller especialista de la red en Alcobendas, a 50,2 km por la R-2.",
   "heroSubtitle": "Corredor del Henares, mecánica BMW cerca de Guadalajara",
   "trustChips": [
     {
@@ -170,5 +170,115 @@
     "A-2 hacia Madrid y Guadalajara",
     "CM-1005 hacia Fontanar",
     "N-320 hacia el corredor del Henares"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Quer: un 44,6 % más de vecinos, la R-2 al lado y el taller BMW a 50 km",
+    "entradilla": "Quer ha pasado de 747 a 1.080 habitantes en diez años. Está en la provincia de Guadalajara, pero el taller que lo atiende es el de Alcobendas, a 50,2 km por la R-2. Esto es lo que tienes cerca y lo que no te vamos a prometer.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 50.2
+    },
+    "secciones": [
+      {
+        "id": "pueblo-que-crece",
+        "h2": "De 747 a 1.080 habitantes",
+        "parrafos": [
+          "Según el padrón del INE, Quer tenía 747 habitantes en 2015 y 1.080 en 2025: un 44,6 % más, en un término de 14,2 km² a unos 727 metros de altitud. No tenemos una cifra municipal de turismos para Castilla-La Mancha, así que no la damos."
+        ]
+      },
+      {
+        "id": "carreteras-de-quer",
+        "h2": "N-320, R-2 y dos autonómicas a menos de 3 km",
+        "parrafos": [
+          "La N-320a pasa casi por el centro, y a menos de tres kilómetros están también la N-320, la autopista R-2 y las autonómicas CM-1007 y CM-1008. Con la R-2 tan a mano, se llega a Alcobendas sin cruzar Madrid."
+        ]
+      },
+      {
+        "id": "autopremier-guadalajara",
+        "h2": "El servicio oficial, en el Paseo de la Estación de Guadalajara",
+        "parrafos": [
+          "El punto oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 14,6 km por carretera. Es la referencia para las reparaciones que cubre la garantía de BMW.",
+          "Sobre la ITV preferimos no darte una dirección: la estación más cercana que aparece en nuestros datos procede de OpenStreetMap y no la hemos podido contrastar con la web del operador. Consulta la red de estaciones de Castilla-La Mancha antes de pedir cita."
+        ]
+      },
+      {
+        "id": "cuando-ir-a-alcobendas",
+        "h2": "50 kilómetros: para qué compensa",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas usa la N-320a, la N-320, la R-2 y la M-50: 50,2 km por carretera, 32,4 en línea recta. La recogida y entrega del taller se limita al área metropolitana de Madrid, y Quer queda fuera: el coche lo llevas tú.",
+          "Antes de hacer el viaje, cuéntanos por teléfono qué coche es, de qué año, cuántos kilómetros lleva y qué síntoma tiene. Así se sabe si el problema justifica el desplazamiento."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Quer o en el Corredor del Henares?",
+        "a": "No. El taller que atiende Quer es Dasercars Madrid, en Alcobendas, a 50,2 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Quer?",
+        "a": "No: la recogida y entrega del taller solo cubre el área metropolitana de Madrid."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 14,6 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.080 habitantes (+44,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "14,2 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 727 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Guadalajara · 14,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 50,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

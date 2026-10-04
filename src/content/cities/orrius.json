@@ -3,11 +3,11 @@
   "name": "Òrrius",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 651,
+  "population": 812,
   "lat": 41.55393,
   "lng": 2.34958,
   "metaTitle": "Taller BMW cerca de Orrius | Especialistas en el Maresme",
-  "metaDescription": "Diagnóstico y reparación BMW para Orrius y el Maresme interior. Recogida disponible, presupuesto cerrado y garantía por escrito. Pide cita.",
+  "metaDescription": "BMW en Òrrius: servicio oficial en Mataró a 11,4 km, ITV en Argentona y el taller especialista de la red en Sant Joan Despí, a 48,9 km.",
   "heroSubtitle": "Mecánica BMW especializada para Orrius, en el Maresme interior cerca de Mataró.",
   "trustChips": [
     {
@@ -163,5 +163,119 @@
     "C-60",
     "N-II hacia Mataró",
     "AP-7"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Òrrius: concesionario BMW en Mataró, ITV en Argentona y especialista a 48,9 km",
+    "entradilla": "Para salir de Òrrius hacia cualquier sitio, primero hay que tomar la BV-5106. Desde ahí, Mataró y Argentona quedan a unos 11 km y el taller especialista de la red, en Sant Joan Despí, a 48,9 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 48.9
+    },
+    "secciones": [
+      {
+        "id": "mataro-argentona",
+        "h2": "Mataró para el concesionario, Argentona para la ITV",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 11,4 km por carretera. La estación de ITV más cercana por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 11 km.",
+          "Las revisiones que la marca convoca por un posible defecto se hacen en su red; si recibes ese aviso, la cita será en Mataró."
+        ]
+      },
+      {
+        "id": "bv5106-c32",
+        "h2": "Por la BV-5106 y la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "En los tres kilómetros alrededor del centro no pasa ninguna autovía ni carretera principal. La ruta hasta la nave de Dasercars Barcelona baja por la BV-5106 y la C-1415c hasta la C-32, y sigue por la B-20: 48,9 km por carretera, 31,7 en línea recta.",
+          "Òrrius está en el Maresme y no en el área metropolitana de Barcelona, así que la recogida del taller no cubre el municipio. Lo práctico es reservar el viaje para lo que pide un especialista: una caja automática que da tirones, un turbo que pierde empuje o un fallo de climatización que nadie ha localizado."
+        ]
+      },
+      {
+        "id": "orrius-cifras",
+        "h2": "812 vecinos, un 18 % más que en 2015",
+        "parrafos": [
+          "El padrón de 2025 da a Òrrius 812 habitantes, frente a 688 diez años antes, en un término de 5,66 km² a 259 metros de altitud. Idescat contaba 449 turismos en 2024, a partir de la DGT: 553 por cada 1.000 vecinos.",
+          "El mar queda a unos 7 km en línea recta: lo bastante lejos para que el salitre no sea la preocupación principal, aunque no está de más un lavado de bajos después del verano si el coche baja a menudo a la costa."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano a Òrrius?",
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 11,4 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Argentona (B08), en el polígono El Cros, a 11 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Òrrius?",
+        "a": "No: la recogida del taller solo cubre el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "812 habitantes (+18 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081537&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "449 · 553 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081537&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Argentona (B08) · 11 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 11,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 48,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081537&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
