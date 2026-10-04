@@ -3,7 +3,7 @@
   "name": "Villanueva de la Cañada",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 16804,
+  "population": 24028,
   "lat": 40.44689,
   "lng": -4.00428,
   "metaTitle": "Taller BMW en Villanueva de la Cañada | Diagnosis ISTA",
@@ -181,5 +181,119 @@
     "M-501",
     "M-503",
     "M-600 hacia Boadilla"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Villanueva de la Cañada: especialista BMW en Alcobendas, a 45 km por la M-40",
+    "entradilla": "No somos un taller del pueblo ni tenemos relación con ningún taller de Villanueva. Somos Dasercars, especialista en BMW y MINI con taller en Alcobendas. Esto es lo que tiene sentido traernos desde aquí y lo que te queda más cerca.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 45.3
+    },
+    "secciones": [
+      {
+        "id": "no-somos-local",
+        "h2": "Un taller de fuera, para lo que pide especialista",
+        "parrafos": [
+          "Para una rueda o unas escobillas, un taller de Villanueva o de Brunete te sirve igual. Donde tiene sentido un especialista BMW es en una avería que se repite, en un fallo electrónico sin diagnosticar o en el mantenimiento por plan de marca de un coche que quieres conservar.",
+          "Antes de mover el coche, llámanos y cuéntanos qué modelo es, de qué año, cuántos kilómetros lleva y qué hace raro. Muchas veces se puede orientar por teléfono si el viaje compensa."
+        ]
+      },
+      {
+        "id": "m503-m40",
+        "h2": "45,3 km por la M-503, la M-40 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-503, rodea Madrid por la M-40 y sube por la A-1: 45,3 km por carretera, 31,5 en línea recta. La recogida del coche se limita al área metropolitana de Madrid y está sujeta a disponibilidad; confirma al reservar si tu dirección entra."
+        ]
+      },
+      {
+        "id": "lo-cercano",
+        "h2": "Lo que tienes más cerca: Majadahonda y Las Rozas",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 20,2 km. Para la inspección, la estación oficial más cercana por carretera es la de TÜV SÜD ATISAE (estación 2816), en el polígono Európolis de Las Rozas, a 16 km según la Comunidad de Madrid."
+        ]
+      },
+      {
+        "id": "villanueva-crece",
+        "h2": "Casi un 25 % más de vecinos que en 2015",
+        "parrafos": [
+          "Villanueva de la Cañada pasó de 19.250 habitantes en 2015 a 24.028 en 2025, un 24,8 % más. En 2025 tenía 12.602 turismos según la Comunidad de Madrid a partir de la DGT: 524 por cada 1.000 vecinos.",
+          "Con la M-600, la M-521 y la M-503 a menos de tres kilómetros, casi todo se hace en coche por carretera autonómica, con rotondas y cambios de ritmo que cargan embrague y frenos más que un tramo de autovía."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Villanueva de la Cañada?",
+        "a": "No. El taller de la red es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 45,3 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación oficial más cercana por carretera es la de TÜV SÜD ATISAE en el polígono Európolis de Las Rozas, a 16 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más próximo?",
+        "a": "Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 20,2 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "24.028 habitantes (+24,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "12.602 · 524 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE, Las Rozas · 16 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte, Majadahonda · 20,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 45,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

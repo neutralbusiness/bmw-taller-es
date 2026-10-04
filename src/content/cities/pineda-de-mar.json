@@ -3,7 +3,7 @@
   "name": "Pineda de Mar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 26659,
+  "population": 30108,
   "lat": 41.62763,
   "lng": 2.6889,
   "metaTitle": "Taller BMW en Pineda de Mar — Especialistas sin perder garantía",
@@ -178,5 +178,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Pineda de Mar: ITV en Blanes, servicio oficial en Mataró y taller BMW a 67,5 km",
+    "entradilla": "Para pasar la ITV desde Pineda de Mar se sale de la provincia: la estación más próxima está en Blanes. El servicio oficial BMW queda en Mataró y el taller de la red, en el Baix Llobregat. Distancias y criterio para decidir.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 67.5
+    },
+    "secciones": [
+      {
+        "id": "itv-blanes",
+        "h2": "La ITV, al otro lado de la Tordera",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Blanes (G07), en la avinguda de l'Estació 47, a 10,7 km. Es ya provincia de Girona, pero según ese registro queda más a mano que cualquier estación del Maresme.",
+          "Si el coche tiene una avería pendiente, arréglala antes de pedir hora: volver a la estación por un defecto grave es un segundo viaje."
+        ]
+      },
+      {
+        "id": "pruna-mataro",
+        "h2": "El concesionario, en Mataró",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el servicio oficial más próximo en Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,3 km por carretera. Allí se tramitan las reparaciones que cubre la garantía de BMW."
+        ]
+      },
+      {
+        "id": "maresme-abajo",
+        "h2": "67,5 km por la C-32: cuándo merece la pena",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona baja por la C-32 y cruza por la B-20 hasta Sant Joan Despí: 67,5 km por carretera, 59,7 en línea recta. Pineda está fuera del área metropolitana, así que la recogida que ofrece el taller no cubre el municipio.",
+          "Antes de hacer el viaje, una llamada con el modelo, el año, los kilómetros y lo que notas en el coche ahorra muchas vueltas: a veces basta con eso para saber si el problema es de especialista o lo arregla un taller del pueblo."
+        ]
+      },
+      {
+        "id": "salitre-pineda",
+        "h2": "La costa a 1,1 km",
+        "parrafos": [
+          "Con el centro a 1,1 km del mar y la N-II a menos de tres kilómetros, los coches de Pineda acumulan salitre en los bajos y en los discos de freno. Si el BMW está parado entre temporada y temporada, revisa frenos y batería antes de volver a usarlo a diario.",
+          "El municipio tenía 30.108 vecinos en 2025 (25.968 en 2015) y 13.967 turismos en 2024 según Idescat a partir de la DGT, 464 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Pineda de Mar?",
+        "a": "La estación más próxima en el registro de la Generalitat es la de Blanes (G07), a 10,7 km por carretera."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,3 km según bmw.es."
+      },
+      {
+        "q": "¿Tenéis taller en el Maresme?",
+        "a": "No. El taller de la red es Dasercars Barcelona, en Sant Joan Despí, a 67,5 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "30.108 habitantes (+15,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081635&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "13.967 · 464 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081635&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Blanes (G07) · 10,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 30,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 67,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081635&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

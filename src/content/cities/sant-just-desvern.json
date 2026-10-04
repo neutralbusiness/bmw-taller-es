@@ -3,7 +3,7 @@
   "name": "Sant Just Desvern",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 15811,
+  "population": 21037,
   "lat": 41.38389,
   "lng": 2.06758,
   "metaTitle": "Taller BMW en Sant Just Desvern — Especialistas en Revisión CBS",
@@ -192,5 +192,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Just Desvern: el taller especialista BMW está a 3,9 km, en el municipio vecino",
+    "entradilla": "Entre el centro de Sant Just y nuestra nave de Sant Joan Despí hay 2 km en línea recta. Pocas páginas de la red pueden decir algo así. Además, la ITV está dentro del término y el servicio oficial, en Sant Boi.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 3.9
+    },
+    "secciones": [
+      {
+        "id": "al-lado",
+        "h2": "3,9 km por carretera",
+        "parrafos": [
+          "Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 3,9 km por carretera desde el centro de Sant Just. Es una distancia que permite dejar el coche por la mañana sin organizar el día alrededor del taller.",
+          "Sant Just y Sant Joan Despí forman parte del Área Metropolitana de Barcelona, así que también tienes la recogida y entrega del coche y el vehículo de cortesía para trabajos largos, sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "itv-la-riera",
+        "h2": "La ITV, en la avinguda de la Riera",
+        "parrafos": [
+          "El registro de la Generalitat sitúa la estación B05 dentro del municipio, en la avinguda de la Riera 19-21, polígono industrial número 1. Con el taller a 3,9 km y la inspección en el pueblo, una pre-ITV en el taller y la cita en la estación caben en la misma semana."
+        ]
+      },
+      {
+        "id": "oficial-sant-boi",
+        "h2": "Servicio oficial en Sant Boi, a 8,7 km",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 8,7 km. Para un coche en garantía, el mantenimiento puede hacerse en un taller independiente sin perderla, siempre que se respete el plan de BMW: lo establece el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "sant-just-crece",
+        "h2": "Un 26,5 % más de vecinos y pocos coches por cabeza",
+        "parrafos": [
+          "Sant Just pasó de 16.631 habitantes en 2015 a 21.037 en 2025. Idescat contaba 8.324 turismos en 2024 a partir de la DGT: 396 por cada 1.000 vecinos, una proporción baja para el Baix Llobregat.",
+          "Muchos de esos coches hacen trayectos cortos hacia Barcelona por la B-23 o la N-340, a menos de tres kilómetros. En un BMW diésel ese uso dificulta la regeneración del filtro de partículas; si se enciende el testigo, un trayecto largo a régimen constante suele ser el primer remedio."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está vuestro taller respecto a Sant Just?",
+        "a": "En el carrer del Tambor del Bruc 3 de Sant Joan Despí, a 3,9 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Just Desvern?",
+        "a": "Sí, el municipio está en el área metropolitana de Barcelona. Sujeto a disponibilidad."
+      },
+      {
+        "q": "¿Hay ITV en Sant Just?",
+        "a": "Sí: la estación B05, en la avinguda de la Riera 19-21, según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "21.037 habitantes (+26,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082212&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.324 · 396 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082212&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sant Just Desvern (B05), av. de la Riera",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Boi · 8,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 3,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082212&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

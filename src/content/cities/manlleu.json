@@ -3,7 +3,7 @@
   "name": "Manlleu",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 20647,
+  "population": 21425,
   "lat": 42.00228,
   "lng": 2.28476,
   "metaTitle": "Taller especializado BMW en Manlleu — Diagnóstico ISTA y recambio OE",
@@ -180,5 +180,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Manlleu: Vic lo tiene casi todo; el especialista BMW está a 88 km",
+    "entradilla": "Desde Manlleu, la ITV y el servicio oficial BMW están en Vic, a 8,9 y 12,5 km. Nuestro taller queda a 88,1 km, en Sant Joan Despí. Es mucha distancia y conviene saber cuándo compensa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 88.1
+    },
+    "secciones": [
+      {
+        "id": "vic-al-lado",
+        "h2": "Todo lo rutinario, en Vic",
+        "parrafos": [
+          "La estación ITV de Osona (B04) está en el carrer Sant Llorenç Desmunts 22 de Vic, a 8,9 km por carretera según el registro de la Generalitat. El servicio oficial BMW más próximo según bmw.es, Quadis Munich, en el carrer Perot Rocaguinarda 1, también en Vic, a 12,5 km.",
+          "Para una inspección, una revisión sencilla o una reparación en garantía no tiene sentido hacer 88 km. Ahí no te vamos a decir otra cosa."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "Cuándo sí vale la pena bajar",
+        "parrafos": [
+          "Cuando el coche está fuera de garantía y lleva una avería que no se ha resuelto: un fallo eléctrico intermitente, una caja automática que no cambia bien, un turbo que pierde presión o un ruido de distribución en un diésel B47 o N47. También para un segundo diagnóstico antes de aceptar una reparación cara.",
+          "Desde aquí, la primera conversación debería ser por teléfono: el modelo, el año, los kilómetros y el síntoma bastan para saber si el viaje tiene sentido y, si lo tiene, para que el día que llegues la pieza esté pedida."
+        ]
+      },
+      {
+        "id": "ruta-c17",
+        "h2": "88 km por la C-17",
+        "parrafos": [
+          "La ruta sale por la B-522, baja por la C-17, enlaza con la C-33 y termina por la B-20: 88,1 km por carretera, 73,1 en línea recta. La recogida que ofrece el taller se limita al área metropolitana de Barcelona; desde Osona, el coche lo traes tú."
+        ]
+      },
+      {
+        "id": "manlleu-cifras",
+        "h2": "21.425 vecinos a orillas del Ter",
+        "parrafos": [
+          "Manlleu tenía 21.425 habitantes en 2025, un 5,9 % más que en 2015, y 10.536 turismos en 2024 según Idescat a partir de la DGT: 492 por cada 1.000 vecinos. El centro está a 461 metros de altitud, y la C-17 y la C-37 pasan a menos de tres kilómetros: buenas carreteras para que un diésel complete la regeneración del filtro de partículas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Manlleu?",
+        "a": "En la estación de Osona (B04), en Vic, a 8,9 km por carretera."
+      },
+      {
+        "q": "¿Hay servicio oficial BMW cerca?",
+        "a": "Sí: Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 12,5 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Manlleu?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "21.425 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081120&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "10.536 · 492 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081120&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 8,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 12,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 88,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081120&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

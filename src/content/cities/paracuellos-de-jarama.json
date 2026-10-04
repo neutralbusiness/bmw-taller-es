@@ -3,7 +3,7 @@
   "name": "Paracuellos de Jarama",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 14329,
+  "population": 27650,
   "lat": 40.50353,
   "lng": -3.52775,
   "metaTitle": "Taller BMW en Paracuellos de Jarama — Especialistas M con ISTA",
@@ -191,5 +191,119 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Paracuellos de Jarama: revisión de tu BMW fuera del concesionario, a 18 km",
+    "entradilla": "Quien busca «revisión oficial» en Paracuellos suele querer dos cosas distintas: el concesionario o una revisión hecha según el plan de BMW. Aquí tienes dónde está cada una, la ITV del propio municipio y la ruta a Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 18.4
+    },
+    "secciones": [
+      {
+        "id": "revision-oficial",
+        "h2": "«Revisión oficial» no siempre significa concesionario",
+        "parrafos": [
+          "Si lo que quieres es el concesionario, el punto oficial BMW más próximo según bmw.es es Caetano Cuzco, en la calle Alcalá 474 de Madrid, a 14,1 km. Nosotros no somos servicio oficial; somos Dasercars, taller independiente especializado en BMW.",
+          "Si lo que quieres es que la revisión se haga según el plan del fabricante —aceite con la homologación de tu motor, filtros, reinicio del indicador de servicio y registro de lo hecho—, eso no exige pasar por la red de la marca, y es justo lo que hacemos."
+        ]
+      },
+      {
+        "id": "itv-camino-de-cobena",
+        "h2": "La ITV, en el Camino Viejo de Cobeña",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye una estación dentro del municipio: la de DEKRA (estación 2808), en el Camino Viejo de Cobeña 36. No hace falta salir de Paracuellos para la inspección."
+        ]
+      },
+      {
+        "id": "m113-m12",
+        "h2": "A Alcobendas por la M-113 y la M-12",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande sale por la M-113 y la M-111 y enlaza con la M-12: 18,4 km por carretera, 11,1 en línea recta. El taller abre de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00; dejar el coche por la mañana y recogerlo al cerrar es lo habitual en trabajos de un día.",
+          "Para reparaciones más largas hay vehículo de cortesía, y recogida y entrega del coche dentro del área metropolitana de Madrid, ambas cosas sujetas a disponibilidad: pregúntalo al reservar."
+        ]
+      },
+      {
+        "id": "paracuellos-crece",
+        "h2": "Un 24 % más de vecinos en diez años",
+        "parrafos": [
+          "Paracuellos pasó de 22.293 habitantes en 2015 a 27.650 en 2025. Tenía 14.158 turismos censados en 2025, según la Comunidad de Madrid a partir de la DGT: 512 por cada 1.000 vecinos, frente a 388 en Madrid capital. Con la M-50 y la R-2 a menos de tres kilómetros, un diésel tiene a mano tramos largos para regenerar el filtro de partículas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el servicio oficial BMW de la zona?",
+        "a": "No. El punto oficial más próximo según bmw.es es Caetano Cuzco, en la calle Alcalá 474 de Madrid. Nosotros somos un taller independiente en Alcobendas."
+      },
+      {
+        "q": "¿Hay ITV en Paracuellos de Jarama?",
+        "a": "Sí: la estación 2808 de DEKRA, en el Camino Viejo de Cobeña 36, según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Podéis recoger el coche en Paracuellos?",
+        "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad. Confírmalo al pedir cita."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "27.650 habitantes (+24 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "14.158 · 512 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "DEKRA (2808), Camino Viejo de Cobeña 36",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Caetano Cuzco, c/ Alcalá 474 (Madrid) · 14,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 18,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

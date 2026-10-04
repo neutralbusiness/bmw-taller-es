@@ -3,7 +3,7 @@
   "name": "Sant Andreu de la Barca",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 26401,
+  "population": 27094,
   "lat": 41.44659,
   "lng": 1.97187,
   "metaTitle": "Taller BMW M en Sant Andreu de la Barca – Especialistas S55/S58",
@@ -191,5 +191,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Andreu de la Barca: taller BMW a 14,4 km, dentro del área metropolitana",
+    "entradilla": "Desde Sant Andreu de la Barca, el taller especialista y el servicio oficial BMW más próximo quedan prácticamente a la misma distancia, uno a cada lado. Y la ITV la tienes en tu propio término, junto a la N-II.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 14.4
+    },
+    "secciones": [
+      {
+        "id": "empate-a-catorce",
+        "h2": "14,4 km a un lado, 14,5 al otro",
+        "parrafos": [
+          "Nuestro taller, Dasercars Barcelona, está a 14,4 km por la N-IIa y la A-2, en el carrer del Tambor del Bruc de Sant Joan Despí. El punto oficial BMW más próximo según bmw.es, Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès, queda a 14,5 km. Por distancia es un empate.",
+          "Lo que cambia es para qué vas. Una reparación cubierta por la garantía de BMW se hace en la red de la marca. El mantenimiento, una avería fuera de garantía o un segundo diagnóstico, donde tú decidas."
+        ]
+      },
+      {
+        "id": "recogida-amb",
+        "h2": "Un municipio del área metropolitana",
+        "parrafos": [
+          "Sant Andreu de la Barca forma parte del Área Metropolitana de Barcelona, igual que Sant Joan Despí. Eso te da acceso a la recogida y entrega del coche y al vehículo de cortesía que ofrece el taller, siempre sujetos a disponibilidad: pídelo al reservar.",
+          "El horario es de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; sábado y domingo cerrado."
+        ]
+      },
+      {
+        "id": "itv-n2",
+        "h2": "La ITV, en la N-II, punto kilométrico 592,5",
+        "parrafos": [
+          "La estación B21 del registro de la Generalitat está dentro del municipio, en la carretera N-II, pk 592,5. Según ese mismo registro, es también la más próxima por carretera a Esparreguera."
+        ]
+      },
+      {
+        "id": "cinco-km2",
+        "h2": "Mucha ciudad en 5,5 km²",
+        "parrafos": [
+          "Sant Andreu tenía 27.094 habitantes en 2025, casi los mismos que en 2015 (27.340), en un término de solo 5,5 km²: 4.926 vecinos por kilómetro cuadrado. Idescat, con datos de la DGT, contaba 12.403 turismos en 2024, 458 por cada 1.000 habitantes.",
+          "Con la A-2, la AP-7 y la B-23 a menos de tres kilómetros, los trayectos largos están a mano; lo que castiga al coche aquí es el uso urbano corto, con muchos arranques en frío."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Sant Andreu de la Barca?",
+        "a": "No. El taller de la red es Dasercars Barcelona, en Sant Joan Despí, a 14,4 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Andreu?",
+        "a": "Sí, el municipio está en el área metropolitana. La recogida está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Hay ITV en el municipio?",
+        "a": "Sí: la estación B21, en la N-II, pk 592,5, según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "27.094 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081960&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "12.403 · 458 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081960&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sant Andreu (B21), N-II pk 592,5",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Cugat del Vallès · 14,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 14,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081960&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

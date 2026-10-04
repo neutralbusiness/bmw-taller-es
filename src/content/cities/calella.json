@@ -3,7 +3,7 @@
   "name": "Calella",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 18728,
+  "population": 20864,
   "lat": 41.61381,
   "lng": 2.65423,
   "metaTitle": "Taller especializado BMW en Calella — Diagnóstico ISTA y recambio OE",
@@ -178,5 +178,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calella: especialista BMW a 66,8 km, ITV en Blanes y concesionario en Mataró",
+    "entradilla": "Esta página no es la de un taller de Calella. Es la de Dasercars, especialista independiente en BMW y MINI, en Sant Joan Despí. Te damos lo que tienes cerca y por qué, a veces, compensa bajar.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 66.8
+    },
+    "secciones": [
+      {
+        "id": "no-es-local",
+        "h2": "No somos el taller de Calella",
+        "parrafos": [
+          "Si buscabas un taller dentro del municipio, no somos nosotros: nuestro único taller en Cataluña está en el Baix Llobregat, a 66,8 km por la C-32 y la B-20. Para un cambio de neumáticos o una revisión sencilla, un taller del Maresme es lo razonable.",
+          "Para una avería propia de BMW sí puede compensar el viaje. Y si vienes, sabes a qué atenerte: el presupuesto te llega por escrito y no se toca nada sin que lo apruebes."
+        ]
+      },
+      {
+        "id": "cerca-de-calella",
+        "h2": "Lo cercano: Blanes para la ITV, Mataró para la marca",
+        "parrafos": [
+          "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 13,3 km. El servicio oficial BMW más cercano según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 29,6 km."
+        ]
+      },
+      {
+        "id": "primera-linea",
+        "h2": "Un municipio en primera línea de mar",
+        "parrafos": [
+          "El centro de Calella está a 0,9 km de la costa, a 5 metros sobre el nivel del mar. La humedad salina se acumula en los bajos, los pasos de rueda y las grapas de las protecciones. Un manguerazo con agua dulce bajo el coche al final del verano evita buena parte de la corrosión.",
+          "Si el BMW pasa temporadas parado, la batería se descarga más rápido de lo que parece: los sistemas electrónicos siguen consumiendo. Un mantenedor de carga o arrancarlo y moverlo cada pocos días ayuda."
+        ]
+      },
+      {
+        "id": "calella-cifras",
+        "h2": "356 turismos por cada mil habitantes",
+        "parrafos": [
+          "Calella tenía 20.864 vecinos en 2025, un 14,5 % más que en 2015, en apenas 8 km². Idescat contaba 7.438 turismos en 2024 a partir de la DGT: 356 por cada 1.000 habitantes, menos que en Sitges (378) o en Pineda de Mar (464)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Calella?",
+        "a": "No. El taller de la red es Dasercars Barcelona, en Sant Joan Despí, a 66,8 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Calella?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), a 13,3 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Calella?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "20.864 habitantes (+14,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080351&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.438 · 356 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080351&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 0,9 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Blanes (G07) · 13,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 29,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080351&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
