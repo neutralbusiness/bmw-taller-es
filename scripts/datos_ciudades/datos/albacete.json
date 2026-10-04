@@ -1,0 +1,198 @@
+{
+ "slug": "albacete",
+ "nombre": "Albacete",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Albacete",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "02003",
+ "coordenadas": {
+  "lat": 38.99424,
+  "lng": -1.85643,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 02003"
+ },
+ "poblacion": {
+  "valor": 175400,
+  "anio": 2025,
+  "valor_hace_10": 172121,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 1.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 1120.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 02003"
+ },
+ "densidad_hab_km2": 157,
+ "altitud_m": {
+  "valor": 687,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Nutecab",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/141079195) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Atisae",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/141083100) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV La Piña Verde",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/141083310) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Maco",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/143028967) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Albamocion (Albacete)",
+  "razon_social": "Albamocion, S.L.",
+  "direccion": "Avenida Gregorio Arcos, 41",
+  "cp": "02007",
+  "municipio": "Albacete",
+  "web": "https://albamocion.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.3,
+  "km_linea": 3.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-31",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "N-430",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "AB-20",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "CM-332",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "N-301a",
+   "tipo": "primary",
+   "km": 2.1
+  },
+  {
+   "ref": "N-322",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "N-322a",
+   "tipo": "trunk",
+   "km": 2.2
+  },
+  {
+   "ref": "N-430a",
+   "tipo": "trunk",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "orihuela",
+   "nombre": "Orihuela",
+   "km_linea_recta": 128.5
+  },
+  {
+   "slug": "murcia",
+   "nombre": "Murcia",
+   "km_linea_recta": 128.6
+  },
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 129.2
+  },
+  {
+   "slug": "valencia",
+   "nombre": "Valencia",
+   "km_linea_recta": 137.9
+  },
+  {
+   "slug": "alicante",
+   "nombre": "Alicante",
+   "km_linea_recta": 139.5
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 172.5
+  },
+  {
+   "slug": "carabana",
+   "nombre": "Carabaña",
+   "km_linea_recta": 184.0
+  },
+  {
+   "slug": "mondejar",
+   "nombre": "Mondéjar",
+   "km_linea_recta": 184.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Albacete | Diagnóstico ISTA y expertos",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 173050
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

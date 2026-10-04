@@ -1,0 +1,151 @@
+{
+ "slug": "castellar-del-valles",
+ "nombre": "Castellar del Vallès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Occidental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08051",
+ "coordenadas": {
+  "lat": 41.61667,
+  "lng": 2.08333,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08051"
+ },
+ "poblacion": {
+  "valor": 25422,
+  "anio": 2025,
+  "valor_hace_10": 23442,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 44.91,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080517)"
+ },
+ "densidad_hab_km2": 566,
+ "altitud_m": {
+  "valor": 331,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080517)"
+ },
+ "turismos": {
+  "valor": 13111,
+  "anio": "2024",
+  "por_1000_hab": 516,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 47.0,
+  "km_linea_recta": 27.8,
+  "vias_de_la_ruta": [
+   "C-1415a",
+   "BV-1248",
+   "C-58C",
+   "C-58",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sabadell (B24)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer CAN CAMPS - POLÍGON CAN ROQUETA 1",
+   "municipio": "Sabadell",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 12.8,
+   "km_linea": 10.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Tallcar",
+  "razon_social": "Tallcar, S.L.",
+  "direccion": "C/. Suiza, 6",
+  "cp": "08211",
+  "municipio": "Castellar del Vallés",
+  "web": "https://tallcar.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 1.1,
+  "km_linea": 1.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sentmenat",
+   "nombre": "Sentmenat",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "matadepera",
+   "nombre": "Matadepera",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "caldes-de-montbui",
+   "nombre": "Caldes de Montbui",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "terrassa",
+   "nombre": "Terrassa",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "sant-llorenc-savall",
+   "nombre": "Sant Llorenç Savall",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "sabadell",
+   "nombre": "Sabadell",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "polinya",
+   "nombre": "Polinyà",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "gallifa",
+   "nombre": "Gallifa",
+   "km_linea_recta": 8.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Castellar del Vallès — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 24036
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

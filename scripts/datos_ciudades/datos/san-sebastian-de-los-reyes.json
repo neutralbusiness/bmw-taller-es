@@ -1,0 +1,178 @@
+{
+ "slug": "san-sebastian-de-los-reyes",
+ "nombre": "San Sebastián de los Reyes",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28134",
+ "coordenadas": {
+  "lat": 40.55555,
+  "lng": -3.62733,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28134"
+ },
+ "poblacion": {
+  "valor": 96992,
+  "anio": 2025,
+  "valor_hace_10": 84944,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 14.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 58.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28134"
+ },
+ "densidad_hab_km2": 1647,
+ "altitud_m": {
+  "valor": 684,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 46458,
+  "anio": "2025",
+  "por_1000_hab": 479,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 2.4,
+  "km_linea_recta": 1.6,
+  "vias_de_la_ruta": [],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV INTECTRA, S.A (estación 2821)",
+    "operador": "INTECTRA, S.A",
+    "direccion": "Ctra. A-1, km 23 - Desvío Algete",
+    "municipio": "San Sebastián De Los Reyes",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2850)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "Avda. Fuente Nueva, 7. C. C. Plaza Norte",
+    "municipio": "San Sebastián De Los Reyes",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.9,
+  "km_linea": 7.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 1.7
+  },
+  {
+   "ref": "N-I",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "M-616",
+   "tipo": "trunk",
+   "km": 2.5
+  },
+  {
+   "ref": "M-603",
+   "tipo": "trunk",
+   "km": 2.6
+  },
+  {
+   "ref": "M-12",
+   "tipo": "motorway",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 1.5
+  },
+  {
+   "slug": "el-goloso",
+   "nombre": "El Goloso",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 10.2
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 11.2
+  },
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 11.9
+  },
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 12.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en San Sebastián de los Reyes — Especialistas ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 75912
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": true
+ }
+}

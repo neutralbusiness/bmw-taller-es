@@ -3,7 +3,7 @@
   "name": "Terrassa",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 218535,
+  "population": 233270,
   "lat": 41.56667,
   "lng": 2.01667,
   "metaTitle": "Especialistas BMW en Terrassa — Revisión y reparación con garantía",
@@ -185,5 +185,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW y MINI en Terrassa: especialista independiente a 32 km por la C-16",
+    "entradilla": "Terrassa supera los 230.000 habitantes y tiene concesionario oficial propio. Nuestro taller está en Sant Joan Despí; esta página explica cuándo encaja cada opción y dónde pasa la ITV un coche de Terrassa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 32.3
+    },
+    "secciones": [
+      {
+        "id": "bmw-y-mini",
+        "h2": "También MINI, con el mismo equipo de diagnosis",
+        "parrafos": [
+          "Si tienes un MINI, también es tu página. MINI comparte electrónica y buena parte de los motores con BMW —los gasolina de tres y cuatro cilindros y los diésel B37 y B47 de las últimas generaciones—, así que en el taller se diagnostica y se mantiene con el mismo equipo y el mismo plan de marca que un BMW.",
+          "Si lo que buscas es el concesionario, el punto oficial BMW de la ciudad que figura en el localizador de bmw.es es Quadis Munich, en el carrer Anoia 9, a unos 5,2 km del centro. Allí se tramitan campañas del fabricante y reparaciones en garantía; el mantenimiento puede hacerse fuera sin perder la garantía si se respeta el plan (Reglamento UE 461/2010)."
+        ]
+      },
+      {
+        "id": "c16-b30",
+        "h2": "Por la C-16 y la B-30 hasta Sant Joan Despí",
+        "parrafos": [
+          "Desde el centro de Terrassa hasta la nave de Dasercars Barcelona hay 32,3 km por carretera: C-16, B-30, un tramo de AP-7 y la B-23 hasta Sant Joan Despí. Terrassa no forma parte del Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller dentro del área metropolitana no llega hasta aquí: cuenta con traerlo tú.",
+          "El taller trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Para trabajos de un día, lo cómodo es entrar a primera hora y volver por la tarde."
+        ]
+      },
+      {
+        "id": "itv-viladecavalls",
+        "h2": "La ITV de referencia está en Viladecavalls",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Terrassa es la de Viladecavalls (B03), en el polígono industrial Can Trias, a 6,3 km. Es también la más próxima por carretera para Ullastrell y Matadepera."
+        ]
+      },
+      {
+        "id": "parque-terrassa",
+        "h2": "Un parque de más de 100.000 turismos",
+        "parrafos": [
+          "Idescat, con datos de la DGT, contaba 102.461 turismos en Terrassa en 2024: 439 por cada 1.000 habitantes, frente a los 281 de Barcelona ciudad. La población ha pasado de 215.214 vecinos en 2015 a 233.270 en 2025, un 8,4 % más."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Reparáis MINI además de BMW?",
+        "a": "Sí. MINI comparte electrónica y motores con BMW y se trabaja con el mismo equipo de diagnosis."
+      },
+      {
+        "q": "¿Recogéis el coche en Terrassa?",
+        "a": "No: la recogida que ofrece el taller cubre solo el área metropolitana de Barcelona, y Terrassa queda fuera."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 32,3 km por carretera desde el centro, por la C-16, la B-30, la AP-7 y la B-23."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "233.270 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082798&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "102.461 · 439 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082798&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecavalls (B03) · 6,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, c. Anoia 9 · 5,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 32,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082798&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -1,0 +1,187 @@
+{
+ "slug": "bilbao",
+ "nombre": "Bilbao",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Bizkaia",
+ "ccaa": "País Vasco",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "48020",
+ "coordenadas": {
+  "lat": 43.26271,
+  "lng": -2.92528,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 48020"
+ },
+ "poblacion": {
+  "valor": 351124,
+  "anio": 2025,
+  "valor_hace_10": 345141,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 1.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 41.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 48020"
+ },
+ "densidad_hab_km2": 8543,
+ "altitud_m": {
+  "valor": 21,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "IAT-ITV",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/325207142) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 10.4,
+   "km_linea": 4.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Enekuri Motor",
+  "razon_social": "Enekuri Motor, S.L.",
+  "direccion": "Ctra.Bilbao-Asúa, 0-1 Pol.Ind.",
+  "cp": "48950",
+  "municipio": "Erandio",
+  "web": "https://enekurimotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 7.1,
+  "km_linea": 4.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "BI-629",
+   "tipo": "trunk",
+   "km": 0.9
+  },
+  {
+   "ref": "BI-626",
+   "tipo": "trunk",
+   "km": 1.0
+  },
+  {
+   "ref": "BI-20",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "BI-627",
+   "tipo": "primary",
+   "km": 1.6
+  },
+  {
+   "ref": "BI-10",
+   "tipo": "motorway",
+   "km": 2.0
+  },
+  {
+   "ref": "N-634",
+   "tipo": "primary",
+   "km": 2.0
+  },
+  {
+   "ref": "BI-712",
+   "tipo": "primary",
+   "km": 2.2
+  },
+  {
+   "ref": "A-8",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "BI-30",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "N-637",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "BI-11",
+   "tipo": "primary",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 9.3,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 50.3
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 74.6
+  },
+  {
+   "slug": "san-sebastian",
+   "nombre": "Donostia / San Sebastián",
+   "km_linea_recta": 77.1
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 96.6
+  },
+  {
+   "slug": "pamplona",
+   "nombre": "Pamplona",
+   "km_linea_recta": 115.4
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 120.5
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 180.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Bilbao | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 347342
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "slug": "grinon",
+ "nombre": "Griñón",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28066",
+ "coordenadas": {
+  "lat": 40.2216,
+  "lng": -3.84203,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28066"
+ },
+ "poblacion": {
+  "valor": 10799,
+  "anio": 2025,
+  "valor_hace_10": 9918,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28066"
+ },
+ "densidad_hab_km2": 635,
+ "altitud_m": {
+  "valor": 669,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 6597,
+  "anio": "2025",
+  "por_1000_hab": 611,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 51.3,
+  "km_linea_recta": 39.8,
+  "vias_de_la_ruta": [
+   "M-405",
+   "M-407",
+   "R-5",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Alcaravan ITV (estación 2829)",
+   "operador": "Alcaravan ITV",
+   "direccion": "Avda. de Fuenlabrada, 15",
+   "municipio": "Humanes",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 7.9,
+   "km_linea": 5.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Getafe)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Ctra. Madrid-Toledo,",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 18.5,
+  "km_linea": 11.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-405",
+   "tipo": "primary",
+   "km": 0.4
+  },
+  {
+   "ref": "M-404",
+   "tipo": "primary",
+   "km": 1.2
+  },
+  {
+   "ref": "M-407",
+   "tipo": "motorway",
+   "km": 1.9
+  },
+  {
+   "ref": "M-410",
+   "tipo": "trunk",
+   "km": 2.0
+  },
+  {
+   "ref": "M-419",
+   "tipo": "primary",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 3.3
+  },
+  {
+   "slug": "cubas-de-la-sagra",
+   "nombre": "Cubas de la Sagra",
+   "km_linea_recta": 3.4
+  },
+  {
+   "slug": "torrejon-de-la-calzada",
+   "nombre": "Torrejón de la Calzada",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "serranillos-del-valle",
+   "nombre": "Serranillos del Valle",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "casarrubuelos",
+   "nombre": "Casarrubuelos",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "moraleja-de-enmedio",
+   "nombre": "Moraleja de Enmedio",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "parla",
+   "nombre": "Parla",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "ugena",
+   "nombre": "Ugena",
+   "km_linea_recta": 7.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Griñón | Diagnosis y reparación especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 10173
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

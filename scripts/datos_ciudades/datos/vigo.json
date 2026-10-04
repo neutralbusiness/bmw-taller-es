@@ -1,0 +1,157 @@
+{
+ "slug": "vigo",
+ "nombre": "Vigo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Pontevedra",
+ "ccaa": "Galicia",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "36057",
+ "coordenadas": {
+  "lat": 42.23282,
+  "lng": -8.72264,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 36057"
+ },
+ "poblacion": {
+  "valor": 294489,
+  "anio": 2025,
+  "valor_hace_10": 294098,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 108.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 36057"
+ },
+ "densidad_hab_km2": 2704,
+ "altitud_m": {
+  "valor": 81,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "Estación SYC Applus+ itv de Nigrán",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/839857179) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 16.7,
+   "km_linea": 12.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Celtamotor (Vigo)",
+  "razon_social": "Celtamotor, S.L.",
+  "direccion": "Ctra.de Camposancos, 115",
+  "cp": "36213",
+  "municipio": "Vigo",
+  "web": "http://red.bmw.es/celtamotor-vigo/es_ES/home.html",
+  "solo_taller": false,
+  "km_carretera": 6.2,
+  "km_linea": 5.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-55",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "N-552",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "AP-9V",
+   "tipo": "motorway",
+   "km": 0.7
+  },
+  {
+   "ref": "N-556",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "VG-20",
+   "tipo": "trunk",
+   "km": 3.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 1.6,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ourense",
+   "nombre": "Ourense",
+   "km_linea_recta": 71.6
+  },
+  {
+   "slug": "a-coruna",
+   "nombre": "A Coruña",
+   "km_linea_recta": 129.4
+  },
+  {
+   "slug": "leon",
+   "nombre": "León",
+   "km_linea_recta": 262.0
+  },
+  {
+   "slug": "oviedo",
+   "nombre": "Oviedo",
+   "km_linea_recta": 266.2
+  },
+  {
+   "slug": "gijon",
+   "nombre": "Gijón",
+   "km_linea_recta": 288.4
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 290.6
+  },
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 336.9
+  },
+  {
+   "slug": "badajoz",
+   "nombre": "Badajoz",
+   "km_linea_recta": 401.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Vigo | Especialistas en mecánica y diagnosis",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 293642
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

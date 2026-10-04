@@ -1,0 +1,174 @@
+{
+ "slug": "la-llagosta",
+ "nombre": "La Llagosta",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08105",
+ "coordenadas": {
+  "lat": 41.51435,
+  "lng": 2.19297,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08105"
+ },
+ "poblacion": {
+  "valor": 13280,
+  "anio": 2025,
+  "valor_hace_10": 13252,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 3.03,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081056)"
+ },
+ "densidad_hab_km2": 4383,
+ "altitud_m": {
+  "valor": 45,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081056)"
+ },
+ "turismos": {
+  "valor": 5629,
+  "anio": "2024",
+  "por_1000_hab": 424,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 31.8,
+  "km_linea_recta": 19.9,
+  "vias_de_la_ruta": [
+   "C-58",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV CIM Vallès (B20)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. \\\\\\\"Les Minetes\\\\\\\"",
+   "municipio": "Santa Perpètua de Mogoda",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 4.6,
+   "km_linea": 2.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sabadell)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Costa i Deu, 133",
+  "cp": "08038",
+  "municipio": "Sabadell",
+  "web": "https://www.quadismunich.es/",
+  "solo_taller": false,
+  "km_carretera": 14.3,
+  "km_linea": 7.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-17",
+   "tipo": "motorway",
+   "km": 0.9
+  },
+  {
+   "ref": "C-33",
+   "tipo": "motorway",
+   "km": 1.0
+  },
+  {
+   "ref": "C-59",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.5
+  },
+  {
+   "ref": "B-140",
+   "tipo": "trunk",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 9.6,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "santa-perpetua-de-mogoda",
+   "nombre": "Santa Perpètua de Mogoda",
+   "km_linea_recta": 2.3
+  },
+  {
+   "slug": "mollet-del-valles",
+   "nombre": "Mollet del Vallès",
+   "km_linea_recta": 3.3
+  },
+  {
+   "slug": "montcada-i-reixac",
+   "nombre": "Montcada i Reixac",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "ripollet",
+   "nombre": "Ripollet",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "sant-fost-de-campsentelles",
+   "nombre": "Sant Fost de Campsentelles",
+   "km_linea_recta": 4.0
+  },
+  {
+   "slug": "martorelles",
+   "nombre": "Martorelles",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "cerdanyola-del-valles",
+   "nombre": "Cerdanyola del Vallès",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "santa-maria-de-martorelles",
+   "nombre": "Santa Maria de Martorelles",
+   "km_linea_recta": 5.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en La Llagosta — Especialista sin perder garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 13820
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

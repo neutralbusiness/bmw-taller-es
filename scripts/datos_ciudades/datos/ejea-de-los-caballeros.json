@@ -1,0 +1,155 @@
+{
+ "slug": "ejea-de-los-caballeros",
+ "nombre": "Ejea de los Caballeros",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Zaragoza",
+ "ccaa": "Aragón",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34647503521",
+ "codigo_ine": "50095",
+ "coordenadas": {
+  "lat": 42.12632,
+  "lng": -1.13716,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50095"
+ },
+ "poblacion": {
+  "valor": 17129,
+  "anio": 2025,
+  "valor_hace_10": 16754,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 609.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50095"
+ },
+ "densidad_hab_km2": 28,
+ "altitud_m": {
+  "valor": 329,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "socio-zaragoza",
+  "nombre": "Taller asociado en Zaragoza",
+  "direccion": null,
+  "cp": null,
+  "municipio": null,
+  "horario": null,
+  "km_carretera": null,
+  "km_linea_recta": null,
+  "vias_de_la_ruta": null,
+  "fuente": "panel: network_sites.custom_phone"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sangüesa",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/891021082) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 67.1,
+   "km_linea": 53.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Augusta Aragón",
+  "razon_social": "Augusta Aragón, S.A.",
+  "direccion": "Avda. Alcalde Caballero, 112",
+  "cp": "50015",
+  "municipio": "Zaragoza",
+  "web": "https://augustaaragon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 76.7,
+  "km_linea": 54.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-125",
+   "tipo": "primary",
+   "km": 1.0
+  },
+  {
+   "ref": "A-127",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "ARA-A2",
+   "tipo": "trunk",
+   "km": 1.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "tauste",
+   "nombre": "Tauste",
+   "km_linea_recta": 23.0
+  },
+  {
+   "slug": "alagon",
+   "nombre": "Alagón",
+   "km_linea_recta": 39.8
+  },
+  {
+   "slug": "zuera",
+   "nombre": "Zuera",
+   "km_linea_recta": 41.3
+  },
+  {
+   "slug": "borja",
+   "nombre": "Borja",
+   "km_linea_recta": 47.2
+  },
+  {
+   "slug": "utebo",
+   "nombre": "Utebo",
+   "km_linea_recta": 47.9
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 54.6
+  },
+  {
+   "slug": "zaragoza",
+   "nombre": "Zaragoza",
+   "km_linea_recta": 56.5
+  },
+  {
+   "slug": "cuarte-de-huerva",
+   "nombre": "Cuarte de Huerva",
+   "km_linea_recta": 61.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Ejea de los Caballeros | Especialista Diagnosis ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 17331
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

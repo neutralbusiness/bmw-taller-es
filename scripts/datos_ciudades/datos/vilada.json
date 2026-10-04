@@ -1,0 +1,156 @@
+{
+ "slug": "vilada",
+ "nombre": "Vilada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08299",
+ "coordenadas": {
+  "lat": 42.13598,
+  "lng": 1.94105,
+  "comprobadas": false,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08299"
+ },
+ "poblacion": {
+  "valor": 432,
+  "anio": 2025,
+  "valor_hace_10": 427,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 1.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 22.34,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082994)"
+ },
+ "densidad_hab_km2": 19,
+ "altitud_m": {
+  "valor": 757,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082994)"
+ },
+ "turismos": {
+  "valor": 250,
+  "anio": "2024",
+  "por_1000_hab": 579,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 115.4,
+  "km_linea_recta": 86.0,
+  "vias_de_la_ruta": [
+   "C-26",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Berga (B13)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "municipio": "Berga",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 15.3,
+   "km_linea": 10.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 53.4,
+  "km_linea": 41.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-26",
+   "tipo": "primary",
+   "km": 0.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "castell-de-l-areny",
+   "nombre": "Castell de l'Areny",
+   "km_linea_recta": 4.0
+  },
+  {
+   "slug": "la-quar",
+   "nombre": "la Quar",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "borreda",
+   "nombre": "Borredà",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "cercs",
+   "nombre": "Cercs",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "la-nou-de-bergueda",
+   "nombre": "la Nou de Berguedà",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "berga",
+   "nombre": "Berga",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "olvan",
+   "nombre": "Olvan",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "sant-jaume-de-frontanya",
+   "nombre": "Sant Jaume de Frontanyà",
+   "km_linea_recta": 9.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Vilada | Especialistas BMW cerca del Pantà de la Baells",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 486
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "slug": "barcelona",
+ "nombre": "Barcelona",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Barcelonès",
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08019",
+ "coordenadas": {
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08019"
+ },
+ "poblacion": {
+  "valor": 1731649,
+  "anio": 2025,
+  "valor_hace_10": 1604555,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 101.35,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080193)"
+ },
+ "densidad_hab_km2": 17086,
+ "altitud_m": {
+  "valor": 13,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080193)"
+ },
+ "turismos": {
+  "valor": 487185,
+  "anio": "2024",
+  "por_1000_hab": 281,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 12.7,
+  "km_linea_recta": 8.8,
+  "vias_de_la_ruta": [
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Còrsega (B16)",
+    "operador": "TuV-RHEINLAND",
+    "direccion": "c. Còrsega, 384-392",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV BCN Caracas (B23)",
+    "operador": "TuV-RHEINLAND",
+    "direccion": "c. Caracas, 10 B",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Motors (B15)",
+    "operador": "APPLUS ITV",
+    "direccion": "Carrer MOTORS 136",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Àvila (B19)",
+    "operador": "TuV-RHEINLAND",
+    "direccion": "Calle Ávila 130-134",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Diputació (B14)",
+    "operador": "APPLUS ITV",
+    "direccion": "Carrer DIPUTACIÓ 158-160",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Puigmadrona (B10)",
+    "operador": "APPLUS ITV",
+    "direccion": "Passatge PUIGMADRONA 9-15",
+    "municipio": "Barcelona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Barcelona Premium (Esteve Terradas)",
+  "razon_social": "Caetano Barcelona Premium S.L. Ronda de Dalt",
+  "direccion": "C/. Esteve Terrades, 77-79",
+  "cp": "08023",
+  "municipio": "Barcelona",
+  "web": "https://barcelonapremium-esteveterrades.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 4.2,
+  "km_linea": 3.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-31",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "B-10",
+   "tipo": "trunk",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 4.2,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "l-hospitalet-de-llobregat",
+   "nombre": "L'Hospitalet de Llobregat",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "esplugues-de-llobregat",
+   "nombre": "Esplugues de Llobregat",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "sant-adria-de-besos",
+   "nombre": "Sant Adrià de Besòs",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "llefia",
+   "nombre": "Llefià",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "sant-just-desvern",
+   "nombre": "Sant Just Desvern",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "cornella-de-llobregat",
+   "nombre": "Cornellà de Llobregat",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "santa-coloma-de-gramenet",
+   "nombre": "Santa Coloma de Gramenet",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "el-prat-de-llobregat",
+   "nombre": "El Prat de Llobregat",
+   "km_linea_recta": 8.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW Barcelona — Mantenimiento oficial sin coste de concesionario",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1731649
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": true
+ }
+}

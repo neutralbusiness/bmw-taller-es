@@ -1,0 +1,160 @@
+{
+ "slug": "valladolid",
+ "nombre": "Valladolid",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Valladolid",
+ "ccaa": "Castilla y León",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "47186",
+ "coordenadas": {
+  "lat": 41.65541,
+  "lng": -4.72353,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 47186"
+ },
+ "poblacion": {
+  "valor": 302614,
+  "anio": 2025,
+  "valor_hace_10": 303905,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -0.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 196.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 47186"
+ },
+ "densidad_hab_km2": 1542,
+ "altitud_m": {
+  "valor": 701,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Argales",
+    "operador": "Itevelesa",
+    "direccion": "Calle de Vázquez de Menchaca 2",
+    "municipio": "Valladolid",
+    "fuente": "OpenStreetMap (way/804657069) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV San Cristóbal",
+    "operador": "Itevelesa",
+    "direccion": "Calle del Acero 9",
+    "municipio": "Valladolid",
+    "fuente": "OpenStreetMap (way/868350845) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "La Flecha Motor",
+  "razon_social": "La Flecha Motor. S.L.U.",
+  "direccion": "Avenida de  Salamanca, 108",
+  "cp": "47197",
+  "municipio": "Valladolid",
+  "web": "https://laflechamotor.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 5.5,
+  "km_linea": 4.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "VA-20",
+   "tipo": "trunk",
+   "km": 2.0
+  },
+  {
+   "ref": "N-620",
+   "tipo": "trunk",
+   "km": 2.5
+  },
+  {
+   "ref": "A-62",
+   "tipo": "motorway",
+   "km": 2.7
+  },
+  {
+   "ref": "VA-11",
+   "tipo": "trunk",
+   "km": 3.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "real-sitio-de-san-ildefonso",
+   "nombre": "Real Sitio de San Ildefonso",
+   "km_linea_recta": 105.9
+  },
+  {
+   "slug": "pinilla-del-valle",
+   "nombre": "Pinilla del Valle",
+   "km_linea_recta": 108.8
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 109.5
+  },
+  {
+   "slug": "alameda-del-valle",
+   "nombre": "Alameda del Valle",
+   "km_linea_recta": 109.7
+  },
+  {
+   "slug": "lozoya",
+   "nombre": "Lozoya",
+   "km_linea_recta": 110.3
+  },
+  {
+   "slug": "rascafria",
+   "nombre": "Rascafría",
+   "km_linea_recta": 111.8
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 113.8
+  },
+  {
+   "slug": "cercedilla",
+   "nombre": "Cercedilla",
+   "km_linea_recta": 114.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Valladolid | Diagnosis oficial y mecánica",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 300618
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

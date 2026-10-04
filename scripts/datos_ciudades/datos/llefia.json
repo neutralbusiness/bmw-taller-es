@@ -1,0 +1,175 @@
+{
+ "slug": "llefia",
+ "nombre": "Llefià",
+ "tipo": "barrio",
+ "pertenece_a": "Badalona",
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Barcelonès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08015",
+ "coordenadas": {
+  "lat": 41.43806,
+  "lng": 2.2195,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08015"
+ },
+ "poblacion": {
+  "valor": null,
+  "nota": "No es municipio: la cifra del INE sería la de Badalona. No publicar población.",
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": null,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080155)"
+ },
+ "densidad_hab_km2": null,
+ "altitud_m": {
+  "valor": 6,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080155)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 22.4,
+  "km_linea_recta": 15.6,
+  "vias_de_la_ruta": [
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Badalona (B02)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer INDÚSTRIA 427-449",
+   "municipio": "Badalona",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 2.4,
+   "km_linea": 1.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Barcelona Premium (Ronda Litoral)",
+  "razon_social": "Caetano Barcelona Premium S.L. Ronda Litoral",
+  "direccion": "Juan de Austria, 1",
+  "cp": "08930",
+  "municipio": "Sant Adrià de Besòs",
+  "web": "https://barcelonapremium.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 1.9,
+  "km_linea": 1.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 0.3
+  },
+  {
+   "ref": "C-31",
+   "tipo": "motorway",
+   "km": 0.5
+  },
+  {
+   "ref": "B-10",
+   "tipo": "trunk",
+   "km": 0.9
+  },
+  {
+   "ref": "B-20",
+   "tipo": "trunk",
+   "km": 2.1
+  },
+  {
+   "ref": "C-58",
+   "tipo": "trunk",
+   "km": 2.6
+  },
+  {
+   "ref": "C-33",
+   "tipo": "primary",
+   "km": 2.8
+  },
+  {
+   "ref": "C-58cc",
+   "tipo": "trunk",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 2.6,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-adria-de-besos",
+   "nombre": "Sant Adrià de Besòs",
+   "km_linea_recta": 0.8
+  },
+  {
+   "slug": "santa-coloma-de-gramenet",
+   "nombre": "Santa Coloma de Gramenet",
+   "km_linea_recta": 1.8
+  },
+  {
+   "slug": "badalona",
+   "nombre": "Badalona",
+   "km_linea_recta": 2.7
+  },
+  {
+   "slug": "montcada-i-reixac",
+   "nombre": "Montcada i Reixac",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "montgat",
+   "nombre": "Montgat",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "tiana",
+   "nombre": "Tiana",
+   "km_linea_recta": 7.1
+  },
+  {
+   "slug": "barcelona",
+   "nombre": "Barcelona",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "sant-fost-de-campsentelles",
+   "nombre": "Sant Fost de Campsentelles",
+   "km_linea_recta": 7.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Llefià, Badalona — Especialistas en Eléctricos",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 43827
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "barrio",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

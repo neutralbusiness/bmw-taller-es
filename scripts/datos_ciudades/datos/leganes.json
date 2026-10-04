@@ -1,0 +1,257 @@
+{
+ "slug": "leganes",
+ "nombre": "Leganés",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28074",
+ "coordenadas": {
+  "lat": 40.32718,
+  "lng": -3.7635,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28074"
+ },
+ "poblacion": {
+  "valor": 195734,
+  "anio": 2025,
+  "valor_hace_10": 186907,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 4.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 43.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28074"
+ },
+ "densidad_hab_km2": 4552,
+ "altitud_m": {
+  "valor": 672,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 87116,
+  "anio": "2025",
+  "por_1000_hab": 445,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 33.9,
+  "km_linea_recta": 26.3,
+  "vias_de_la_ruta": [
+   "M-40",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜD ATISAE, S.A.U (estación 2879)",
+    "operador": "TÜV SÜD ATISAE, S.A.U",
+    "direccion": "C/ Primavera, 1. Centro Comercial Arroyosur",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Barcel Euro Inversiones, S.L (estación 2804)",
+    "operador": "Barcel Euro Inversiones, S.L",
+    "direccion": "C/ Benjamín Outram, 5. Parque Tecnológico de Leganés",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV LIDERCON, S.L (estación 2888)",
+    "operador": "LIDERCON, S.L",
+    "direccion": "C/ Rey Pastor, 28  Pol. Ind. Ntra. Sra. de Butarque",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Dekra ITV España, S.L.U (estación 2877)",
+    "operador": "Dekra ITV España, S.L.U",
+    "direccion": "Avda. de Carlos Sainz, 33. Pol. Ind. Ciudad del Automóvil",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2896)",
+    "operador": "DEKRA ITV ESPAÑA, S.L.U",
+    "direccion": "C/ Rey Pastor, 28  Pol. Ind. Ntra. Sra. de Butarque",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2898)",
+    "operador": "DEKRA ITV ESPAÑA, S.L.U",
+    "direccion": "C/ Herramientas, 8",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2842)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "Esteban Terradas, s/n. Pol. Ind. Nuestra Sra. de Butarque",
+    "municipio": "Leganés",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Momentum Leganés)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
+  "cp": "28914",
+  "municipio": "Leganés",
+  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 2.5,
+  "km_linea": 1.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-402",
+   "tipo": "trunk",
+   "km": 0.1
+  },
+  {
+   "ref": "M-406",
+   "tipo": "trunk",
+   "km": 0.7
+  },
+  {
+   "ref": "M-421",
+   "tipo": "primary",
+   "km": 0.9
+  },
+  {
+   "ref": "M-409",
+   "tipo": "trunk",
+   "km": 1.3
+  },
+  {
+   "ref": "M411",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "M-407",
+   "tipo": "trunk",
+   "km": 1.8
+  },
+  {
+   "ref": "M-425",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "A-42",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "M-411",
+   "tipo": "primary",
+   "km": 2.7
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 2.8
+  },
+  {
+   "ref": "R-5",
+   "tipo": "motorway",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "getafe",
+   "nombre": "Getafe",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "fuenlabrada",
+   "nombre": "Fuenlabrada",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "mostoles",
+   "nombre": "Móstoles",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "parla",
+   "nombre": "Parla",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "pinto",
+   "nombre": "Pinto",
+   "km_linea_recta": 10.9
+  },
+  {
+   "slug": "madrid",
+   "nombre": "Madrid",
+   "km_linea_recta": 11.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Leganés | Mecánica y Diagnosis Especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 188425
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

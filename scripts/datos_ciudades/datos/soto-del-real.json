@@ -1,0 +1,159 @@
+{
+ "slug": "soto-del-real",
+ "nombre": "Soto del Real",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28144",
+ "coordenadas": {
+  "lat": 40.75132,
+  "lng": -3.78649,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28144"
+ },
+ "poblacion": {
+  "valor": 9400,
+  "anio": 2025,
+  "valor_hace_10": 8456,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 42.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28144"
+ },
+ "densidad_hab_km2": 221,
+ "altitud_m": {
+  "valor": 915,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 5493,
+  "anio": "2025",
+  "por_1000_hab": 584,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 33.7,
+  "km_linea_recta": 26.0,
+  "vias_de_la_ruta": [
+   "M-609",
+   "M-607",
+   "M-616"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L (estación 2890)",
+   "operador": "APPLUS ITEUVE TECHNOLOGY, S.L",
+   "direccion": "c/ Perfumería, 1. Pol. Ind. La Mina",
+   "municipio": "Colmenar Viejo",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 18.9,
+   "km_linea": 12.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 35.5,
+  "km_linea": 30.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-862",
+   "tipo": "primary",
+   "km": 2.2
+  },
+  {
+   "ref": "M-609",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "miraflores-de-la-sierra",
+   "nombre": "Miraflores de la Sierra",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "guadalix-de-la-sierra",
+   "nombre": "Guadalix de la Sierra",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "manzanares-el-real",
+   "nombre": "Manzanares el Real",
+   "km_linea_recta": 9.7
+  },
+  {
+   "slug": "colmenar-viejo",
+   "nombre": "Colmenar Viejo",
+   "km_linea_recta": 10.4
+  },
+  {
+   "slug": "bustarviejo",
+   "nombre": "Bustarviejo",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "el-boalo",
+   "nombre": "El Boalo",
+   "km_linea_recta": 12.2
+  },
+  {
+   "slug": "navalafuente",
+   "nombre": "Navalafuente",
+   "km_linea_recta": 12.5
+  },
+  {
+   "slug": "pedrezuela",
+   "nombre": "Pedrezuela",
+   "km_linea_recta": 13.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Soto del Real | Sierra Norte de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 8480
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

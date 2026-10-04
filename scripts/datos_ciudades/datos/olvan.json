@@ -1,0 +1,156 @@
+{
+ "slug": "olvan",
+ "nombre": "Olvan",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08144",
+ "coordenadas": {
+  "lat": 42.058,
+  "lng": 1.913,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08144"
+ },
+ "poblacion": {
+  "valor": 924,
+  "anio": 2025,
+  "valor_hace_10": 856,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 35.58,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081445)"
+ },
+ "densidad_hab_km2": 26,
+ "altitud_m": {
+  "valor": 553,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081445)"
+ },
+ "turismos": {
+  "valor": 650,
+  "anio": "2024",
+  "por_1000_hab": 703,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 100.8,
+  "km_linea_recta": 77.7,
+  "vias_de_la_ruta": [
+   "C-62",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Berga (B13)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "municipio": "Berga",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 12.7,
+   "km_linea": 7.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 38.8,
+  "km_linea": 32.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-62",
+   "tipo": "primary",
+   "km": 0.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sagas",
+   "nombre": "Sagàs",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "gironella",
+   "nombre": "Gironella",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "la-quar",
+   "nombre": "la Quar",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "avia",
+   "nombre": "Avià",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "berga",
+   "nombre": "Berga",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "casserres",
+   "nombre": "Casserres",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "cercs",
+   "nombre": "Cercs",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "santa-maria-de-merles",
+   "nombre": "Santa Maria de Merlès",
+   "km_linea_recta": 8.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Olvan | Especialistas BMW — Diagnóstico Profesional",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 892
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

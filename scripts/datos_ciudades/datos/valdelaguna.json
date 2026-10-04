@@ -1,0 +1,161 @@
+{
+ "slug": "valdelaguna",
+ "nombre": "Valdelaguna",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28157",
+ "coordenadas": {
+  "lat": 40.17737,
+  "lng": -3.37225,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28157"
+ },
+ "poblacion": {
+  "valor": 1122,
+  "anio": 2025,
+  "valor_hace_10": 837,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 34.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 41.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28157"
+ },
+ "densidad_hab_km2": 27,
+ "altitud_m": {
+  "valor": 733,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 627,
+  "anio": "2025",
+  "por_1000_hab": 559,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 60.7,
+  "km_linea_recta": 46.8,
+  "vias_de_la_ruta": [
+   "M-315",
+   "M-313",
+   "A-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV General de Servicios ITV, S.A (estación 2853)",
+   "operador": "General de Servicios ITV, S.A",
+   "direccion": "Avda. Juan Carlos I Rey de España, 13",
+   "municipio": "Villarejo De Salvanés",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 10.7,
+   "km_linea": 6.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
+  "municipio": "Madrid",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 38.3,
+  "km_linea": 31.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-317",
+   "tipo": "primary",
+   "km": 1.2
+  },
+  {
+   "ref": "M-315",
+   "tipo": "primary",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "perales-de-tajuna",
+   "nombre": "Perales de Tajuña",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "tielmes",
+   "nombre": "Tielmes",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "morata-de-tajuna",
+   "nombre": "Morata de Tajuña",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "chinchon",
+   "nombre": "Chinchón",
+   "km_linea_recta": 10.2
+  },
+  {
+   "slug": "villaconejos",
+   "nombre": "Villaconejos",
+   "km_linea_recta": 12.0
+  },
+  {
+   "slug": "carabana",
+   "nombre": "Carabaña",
+   "km_linea_recta": 13.7
+  },
+  {
+   "slug": "valdilecha",
+   "nombre": "Valdilecha",
+   "km_linea_recta": 14.5
+  },
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 14.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Valdelaguna | Mecánica especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 903
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

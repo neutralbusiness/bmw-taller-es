@@ -1,0 +1,160 @@
+{
+ "slug": "velilla-de-san-antonio",
+ "nombre": "Velilla de San Antonio",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28167",
+ "coordenadas": {
+  "lat": 40.36516,
+  "lng": -3.48484,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28167"
+ },
+ "poblacion": {
+  "valor": 14468,
+  "anio": 2025,
+  "valor_hace_10": 12382,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 16.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 14.3,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28167"
+ },
+ "densidad_hab_km2": 1012,
+ "altitud_m": {
+  "valor": 551,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 8298,
+  "anio": "2025",
+  "por_1000_hab": 574,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 34.7,
+  "km_linea_recta": 24.0,
+  "vias_de_la_ruta": [
+   "M-208",
+   "R-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITV Barbastro, S.A.U (estación 2819)",
+   "operador": "ITV Barbastro, S.A.U",
+   "direccion": "C/ Levante, 10. Pol. Ind. Mejorada del Campo",
+   "municipio": "Mejorada Del Campo",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 6.2,
+   "km_linea": 4.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
+  "municipio": "Madrid",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 18.7,
+  "km_linea": 12.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-208",
+   "tipo": "primary",
+   "km": 0.2
+  },
+  {
+   "ref": "R-3",
+   "tipo": "motorway",
+   "km": 1.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 3.1
+  },
+  {
+   "slug": "rivas-vaciamadrid",
+   "nombre": "Rivas-Vaciamadrid",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "loeches",
+   "nombre": "Loeches",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "arganda",
+   "nombre": "Arganda",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 10.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Velilla de San Antonio | Sureste Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 11553
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

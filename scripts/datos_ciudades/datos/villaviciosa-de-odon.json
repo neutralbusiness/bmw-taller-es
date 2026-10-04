@@ -1,0 +1,158 @@
+{
+ "slug": "villaviciosa-de-odon",
+ "nombre": "Villaviciosa de Odón",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28181",
+ "coordenadas": {
+  "lat": 40.3581,
+  "lng": -3.9043,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28181"
+ },
+ "poblacion": {
+  "valor": 30127,
+  "anio": 2025,
+  "valor_hace_10": 27075,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 67.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28181"
+ },
+ "densidad_hab_km2": 444,
+ "altitud_m": {
+  "valor": 641,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 16994,
+  "anio": "2025",
+  "por_1000_hab": 564,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 40.9,
+  "km_linea_recta": 30.5,
+  "vias_de_la_ruta": [
+   "M-501",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITV Villaviciosa, S.L (estación 2871)",
+   "operador": "ITV Villaviciosa, S.L",
+   "direccion": "Ctra. M-506 p.k. 4,200",
+   "municipio": "Alcorcón",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 6.7,
+   "km_linea": 5.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Alcorcón)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Av. S.Martín de Valdeiglesias 14-16",
+  "cp": "28922",
+  "municipio": "Alcorcón",
+  "web": "https://vehinter-alcorcon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.1,
+  "km_linea": 6.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-506",
+   "tipo": "primary",
+   "km": 0.7
+  },
+  {
+   "ref": "M-501",
+   "tipo": "motorway",
+   "km": 1.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "mostoles",
+   "nombre": "Móstoles",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "brunete",
+   "nombre": "Brunete",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "moraleja-de-enmedio",
+   "nombre": "Moraleja de Enmedio",
+   "km_linea_recta": 10.9
+  },
+  {
+   "slug": "pozuelo-de-alarcon",
+   "nombre": "Pozuelo de Alarcón",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "sevilla-la-nueva",
+   "nombre": "Sevilla la Nueva",
+   "km_linea_recta": 11.7
+  },
+  {
+   "slug": "navalcarnero",
+   "nombre": "Navalcarnero",
+   "km_linea_recta": 11.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Villaviciosa de Odón | Diagnosis ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 27596
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

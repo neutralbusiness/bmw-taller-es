@@ -1,0 +1,141 @@
+{
+ "slug": "sevilla",
+ "nombre": "Sevilla",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Sevilla",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "41091",
+ "coordenadas": {
+  "lat": 37.38283,
+  "lng": -5.97317,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 41091"
+ },
+ "poblacion": {
+  "valor": 689423,
+  "anio": 2025,
+  "valor_hace_10": 693878,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -0.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 141.3,
+  "fuente": "CartoCiudad (IGN), término municipal INE 41091"
+ },
+ "densidad_hab_km2": 4879,
+ "altitud_m": {
+  "valor": 15,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Sevilla",
+    "operador": "Veiasa",
+    "direccion": "Calle Pino Central 16-18",
+    "municipio": "Sevilla",
+    "fuente": "OpenStreetMap (way/207178158) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "San Pablo Motor (PICA)",
+  "razon_social": "San Pablo Motor, S.L.",
+  "direccion": "Carlos Serra y Pickman 460",
+  "cp": "41007",
+  "municipio": "Sevilla",
+  "web": "",
+  "solo_taller": true,
+  "km_carretera": 4.3,
+  "km_linea": 2.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "SE-30",
+   "tipo": "motorway",
+   "km": 2.7
+  },
+  {
+   "ref": "A-376",
+   "tipo": "trunk",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 12.0
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 78.8
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 86.5
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 99.2
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 119.9
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 136.5
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 146.5
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 156.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sevilla | Especialistas en la marca",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 686741
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

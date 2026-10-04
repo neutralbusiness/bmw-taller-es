@@ -1,0 +1,145 @@
+{
+ "slug": "yebes",
+ "nombre": "Yebes",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Guadalajara",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "19326",
+ "coordenadas": {
+  "lat": 40.54894,
+  "lng": -3.1048,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19326"
+ },
+ "poblacion": {
+  "valor": 5637,
+  "anio": 2025,
+  "valor_hace_10": 2741,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 105.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.4,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19326"
+ },
+ "densidad_hab_km2": 324,
+ "altitud_m": {
+  "valor": 906,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 67.7,
+  "km_linea_recta": 45.3,
+  "vias_de_la_ruta": [
+   "GU-205",
+   "N-320",
+   "A-2",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Guadalajara",
+   "operador": null,
+   "direccion": "Calle de Trafalgar 18",
+   "municipio": "Guadalajara",
+   "fuente": "OpenStreetMap (way/381990031) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 19.0,
+   "km_linea": 11.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Guadalajara)",
+  "razon_social": "Auto Premier Baviera, S.A. AutoPremier (Vehículo de Ocasión Ce",
+  "direccion": "Paseo de la Estación, 23",
+  "cp": "19004",
+  "municipio": "Guadalajara",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 19.1,
+  "km_linea": 11.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "valdarachas",
+   "nombre": "Valdarachas",
+   "km_linea_recta": 4.0
+  },
+  {
+   "slug": "aranzueque",
+   "nombre": "Aranzueque",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "chiloeches",
+   "nombre": "Chiloeches",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "pozo-de-guadalajara",
+   "nombre": "Pozo de Guadalajara",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "guadalajara",
+   "nombre": "Guadalajara",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "pioz",
+   "nombre": "Pioz",
+   "km_linea_recta": 11.1
+  },
+  {
+   "slug": "loranca-de-tajuna",
+   "nombre": "Loranca de Tajuña",
+   "km_linea_recta": 11.5
+  },
+  {
+   "slug": "alovera",
+   "nombre": "Alovera",
+   "km_linea_recta": 12.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Yebes | Diagnosis ISTA, Valdeluz Guadalajara",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2177
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

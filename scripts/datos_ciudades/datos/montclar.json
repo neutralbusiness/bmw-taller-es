@@ -1,0 +1,157 @@
+{
+ "slug": "montclar",
+ "nombre": "Montclar",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08130",
+ "coordenadas": {
+  "lat": 42.0175,
+  "lng": 1.7636,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08130"
+ },
+ "poblacion": {
+  "valor": 132,
+  "anio": 2025,
+  "valor_hace_10": 120,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 10.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 21.89,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081304)"
+ },
+ "densidad_hab_km2": 6,
+ "altitud_m": {
+  "valor": 728,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081304)"
+ },
+ "turismos": {
+  "valor": 93,
+  "anio": "2024",
+  "por_1000_hab": 705,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 107.2,
+  "km_linea_recta": 76.3,
+  "vias_de_la_ruta": [
+   "BV-4131",
+   "BV-4132",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Berga (B13)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "municipio": "Berga",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 14.4,
+   "km_linea": 9.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 45.2,
+  "km_linea": 29.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-26",
+   "tipo": "primary",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "l-espunyola",
+   "nombre": "l'Espunyola",
+   "km_linea_recta": 2.8
+  },
+  {
+   "slug": "montmajor",
+   "nombre": "Montmajor",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "capolat",
+   "nombre": "Capolat",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "casserres",
+   "nombre": "Casserres",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "avia",
+   "nombre": "Avià",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "viver-i-serrateix",
+   "nombre": "Viver i Serrateix",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "gironella",
+   "nombre": "Gironella",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "puig-reig",
+   "nombre": "Puig-reig",
+   "km_linea_recta": 10.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Montclar | Especialistas en tu comarca",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 115
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

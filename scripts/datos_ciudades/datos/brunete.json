@@ -1,0 +1,163 @@
+{
+ "slug": "brunete",
+ "nombre": "Brunete",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28026",
+ "coordenadas": {
+  "lat": 40.39957,
+  "lng": -3.99753,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28026"
+ },
+ "poblacion": {
+  "valor": 11287,
+  "anio": 2025,
+  "valor_hace_10": 10398,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 48.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28026"
+ },
+ "densidad_hab_km2": 231,
+ "altitud_m": {
+  "valor": 651,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 49373,
+  "anio": "2025",
+  "por_1000_hab": 4374,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 42.3,
+  "km_linea_recta": 34.2,
+  "vias_de_la_ruta": [
+   "M-513",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2845)",
+   "operador": "TÜV Rheinland Ibérica, S.A",
+   "direccion": "Pº de Alparrache, 26. Pol. Ind. El Alparrache",
+   "municipio": "Navalcarnero",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 18.4,
+   "km_linea": 13.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (El Carralero)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "C/. Fresa, 13",
+  "cp": "28220",
+  "municipio": "Majadahonda",
+  "web": "https://movilnorte.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 17.1,
+  "km_linea": 12.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-600",
+   "tipo": "trunk",
+   "km": 0.3
+  },
+  {
+   "ref": "M-501",
+   "tipo": "motorway",
+   "km": 0.4
+  },
+  {
+   "ref": "M-513",
+   "tipo": "primary",
+   "km": 0.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "villanueva-de-la-canada",
+   "nombre": "Villanueva de la Cañada",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "quijorna",
+   "nombre": "Quijorna",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "sevilla-la-nueva",
+   "nombre": "Sevilla la Nueva",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "villanueva-de-perales",
+   "nombre": "Villanueva de Perales",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "villaviciosa-de-odon",
+   "nombre": "Villaviciosa de Odón",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "villanueva-del-pardillo",
+   "nombre": "Villanueva del Pardillo",
+   "km_linea_recta": 10.5
+  },
+  {
+   "slug": "navalagamella",
+   "nombre": "Navalagamella",
+   "km_linea_recta": 12.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Brunete | Oeste de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 10596
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

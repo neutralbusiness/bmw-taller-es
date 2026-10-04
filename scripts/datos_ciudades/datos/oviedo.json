@@ -1,0 +1,167 @@
+{
+ "slug": "oviedo",
+ "nombre": "Oviedo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Asturias",
+ "ccaa": "Asturias",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "33044",
+ "coordenadas": {
+  "lat": 43.36029,
+  "lng": -5.84476,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 33044"
+ },
+ "poblacion": {
+  "valor": 223968,
+  "anio": 2025,
+  "valor_hace_10": 221870,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 185.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 33044"
+ },
+ "densidad_hab_km2": 1211,
+ "altitud_m": {
+  "valor": 245,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITVASA ITV Mieres",
+   "operador": "ITVASA",
+   "direccion": "Polígono La Fábrica",
+   "municipio": "Mieres del Camín",
+   "fuente": "OpenStreetMap (way/97543202) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 16.4,
+   "km_linea": 10.7
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Autosa",
+  "razon_social": "Automóviles Oviedo, S.A.",
+  "direccion": "Cerdeño, 31",
+  "cp": "33010",
+  "municipio": "Oviedo",
+  "web": "https://autosa.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.9,
+  "km_linea": 2.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-630",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "N-634",
+   "tipo": "trunk",
+   "km": 0.6
+  },
+  {
+   "ref": "O-11",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "O-14",
+   "tipo": "trunk",
+   "km": 0.8
+  },
+  {
+   "ref": "O-12",
+   "tipo": "motorway",
+   "km": 1.0
+  },
+  {
+   "ref": "A-66",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "AS-II",
+   "tipo": "motorway",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "gijon",
+   "nombre": "Gijón",
+   "km_linea_recta": 24.5
+  },
+  {
+   "slug": "leon",
+   "nombre": "León",
+   "km_linea_recta": 87.4
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 165.2
+  },
+  {
+   "slug": "ourense",
+   "nombre": "Ourense",
+   "km_linea_recta": 200.1
+  },
+  {
+   "slug": "a-coruna",
+   "nombre": "A Coruña",
+   "km_linea_recta": 206.2
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 208.2
+  },
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 210.7
+  },
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 231.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Oviedo | Especialistas en mecánica BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 220027
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

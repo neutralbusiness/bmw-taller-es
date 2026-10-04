@@ -1,0 +1,159 @@
+{
+ "slug": "caldes-d-estrac",
+ "nombre": "Caldes d'Estrac",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Maresme",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08032",
+ "coordenadas": {
+  "lat": 41.57088,
+  "lng": 2.52703,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08032"
+ },
+ "poblacion": {
+  "valor": 3356,
+  "anio": 2025,
+  "valor_hace_10": 2717,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 23.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 0.88,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080327)"
+ },
+ "densidad_hab_km2": 3814,
+ "altitud_m": {
+  "valor": 33,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080327)"
+ },
+ "turismos": {
+  "valor": 1679,
+  "anio": "2024",
+  "por_1000_hab": 500,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 54.4,
+  "km_linea_recta": 45.2,
+  "vias_de_la_ruta": [
+   "C-32",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Argentona (B08)",
+   "operador": "APPLUS ITV",
+   "direccion": "Polígon EL CROS - ZONA INDUSTRIAL SECTOR SUD S/N",
+   "municipio": "Argentona",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 14.2,
+   "km_linea": 10.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Mataró)",
+  "razon_social": "Pruna Motor, S.L. Mataró",
+  "direccion": "Via Sergia, 2",
+  "cp": "08302",
+  "municipio": "Mataró",
+  "web": "https://prunamotor-mataro.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 10.7,
+  "km_linea": 9.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 0.2
+  },
+  {
+   "ref": "C-32",
+   "tipo": "motorway",
+   "km": 0.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.9,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-vicenc-de-montalt",
+   "nombre": "Sant Vicenç de Montalt",
+   "km_linea_recta": 1.4
+  },
+  {
+   "slug": "arenys-de-mar",
+   "nombre": "Arenys de Mar",
+   "km_linea_recta": 2.2
+  },
+  {
+   "slug": "sant-andreu-de-llavaneres",
+   "nombre": "Sant Andreu de Llavaneres",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "arenys-de-munt",
+   "nombre": "Arenys de Munt",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "canet-de-mar",
+   "nombre": "Canet de Mar",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "mataro",
+   "nombre": "Mataró",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "sant-iscle-de-vallalta",
+   "nombre": "Sant Iscle de Vallalta",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "dosrius",
+   "nombre": "Dosrius",
+   "km_linea_recta": 8.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Caldes d'Estrac | Maresme | Cita previa",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2773
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

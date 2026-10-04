@@ -3,7 +3,7 @@
   "name": "Vilafranca del Penedès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 38425,
+  "population": 42607,
   "lat": 41.34618,
   "lng": 1.69713,
   "metaTitle": "Taller BMW Vilafranca del Penedès — Mantenimiento oficial sin coste de concesionario",
@@ -180,5 +180,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vilafranca del Penedès: tu BMW a 46 km del taller y a 17 del servicio oficial",
+    "entradilla": "Desde la capital del Alt Penedès, el taller de la red queda a 46 km por la AP-7, el servicio oficial BMW más cercano está en Vilanova i la Geltrú y la ITV, en el municipio vecino de Olèrdola.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 46.4
+    },
+    "secciones": [
+      {
+        "id": "itv-bellvei",
+        "h2": "La ITV, a 4,4 km en Olèrdola",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Vilafranca es la de Olèrdola (B09), en la avinguda de l'Hostal Nou, a 4,4 km. Si el coche pasa antes por el taller para una pre-ITV, la inspección se hace a la vuelta, ya cerca de casa."
+        ]
+      },
+      {
+        "id": "ap7-hasta-el-taller",
+        "h2": "Por la AP-7 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 46,4 km por carretera, 30,2 en línea recta. Vilafranca no está en el Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí.",
+          "Con la N-340, la AP-7 y la C-15 a menos de tres kilómetros del centro, el viaje es sencillo; lo que conviene es llamar antes con modelo, año y kilometraje para que el día que bajes el trabajo esté planificado."
+        ]
+      },
+      {
+        "id": "oficial-vilanova",
+        "h2": "El servicio oficial, en Vilanova i la Geltrú",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 16,8 km por carretera. Las campañas del fabricante se hacen allí; el mantenimiento puede hacerse en un taller independiente sin perder la garantía si se respeta el plan (Reglamento UE 461/2010).",
+          "Vilafranca tenía 42.607 habitantes en 2025 y 19.219 turismos en 2024 según Idescat a partir de la DGT: 451 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Vilafranca?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Olèrdola (B09), en la avinguda de l'Hostal Nou, a 4,4 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Vilafranca?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Vilanova i la Geltrú, a 16,8 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "42.607 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083054&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "19.219 · 451 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083054&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 4,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 16,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 46,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=083054&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -1,0 +1,150 @@
+{
+ "slug": "la-pobla-de-lillet",
+ "nombre": "la Pobla de Lillet",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08166",
+ "coordenadas": {
+  "lat": 42.2317,
+  "lng": 1.9829,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08166"
+ },
+ "poblacion": {
+  "valor": 1105,
+  "anio": 2025,
+  "valor_hace_10": 1139,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -3.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 51.45,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081666)"
+ },
+ "densidad_hab_km2": 21,
+ "altitud_m": {
+  "valor": 843,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081666)"
+ },
+ "turismos": {
+  "valor": 553,
+  "anio": "2024",
+  "por_1000_hab": 500,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 139.3,
+  "km_linea_recta": 96.3,
+  "vias_de_la_ruta": [
+   "B-402",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Ripoll (G08)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Passeig d'Ordina s/n",
+   "municipio": "Ripoll",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 32.2,
+   "km_linea": 17.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Oliva Motor Girona (Olot)",
+  "razon_social": "Oliva Motor Girona, S.L.U.",
+  "direccion": "Ronda Les Mates, 32",
+  "cp": "17800",
+  "municipio": "Olot",
+  "web": "",
+  "solo_taller": true,
+  "km_carretera": 65.6,
+  "km_linea": 43.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "castellar-de-n-hug",
+   "nombre": "Castellar de n'Hug",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "sant-jaume-de-frontanya",
+   "nombre": "Sant Jaume de Frontanyà",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "sant-julia-de-cerdanyola",
+   "nombre": "Sant Julià de Cerdanyola",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "castell-de-l-areny",
+   "nombre": "Castell de l'Areny",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "guardiola-de-bergueda",
+   "nombre": "Guardiola de Berguedà",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "la-nou-de-bergueda",
+   "nombre": "la Nou de Berguedà",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "vilada",
+   "nombre": "Vilada",
+   "km_linea_recta": 11.2
+  },
+  {
+   "slug": "borreda",
+   "nombre": "Borredà",
+   "km_linea_recta": 11.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en la Pobla de Lillet | Especialistas BMW — Diagnóstico Profesional",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1249
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

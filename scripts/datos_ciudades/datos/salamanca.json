@@ -1,0 +1,197 @@
+{
+ "slug": "salamanca",
+ "nombre": "Salamanca",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Salamanca",
+ "ccaa": "Castilla y León",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "37274",
+ "coordenadas": {
+  "lat": 40.96882,
+  "lng": -5.66388,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 37274"
+ },
+ "poblacion": {
+  "valor": 146110,
+  "anio": 2025,
+  "valor_hace_10": 146438,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -0.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 39.3,
+  "fuente": "CartoCiudad (IGN), término municipal INE 37274"
+ },
+ "densidad_hab_km2": 3718,
+ "altitud_m": {
+  "valor": 815,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV",
+   "operador": "Grupo ITEVELESA",
+   "direccion": "Calle Newton 1",
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/356000254) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 5.2,
+   "km_linea": 2.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Tormes Motor",
+  "razon_social": "Tormes Motor, S.A.",
+  "direccion": "C/. Salamanca, 51",
+  "cp": "37188",
+  "municipio": "Carbajosa de la Sagrada",
+  "web": "https://tormesmotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.3,
+  "km_linea": 3.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-630",
+   "tipo": "trunk",
+   "km": 0.7
+  },
+  {
+   "ref": "SA-300",
+   "tipo": "trunk",
+   "km": 0.7
+  },
+  {
+   "ref": "N-620",
+   "tipo": "trunk",
+   "km": 0.8
+  },
+  {
+   "ref": "SA-11",
+   "tipo": "trunk",
+   "km": 0.8
+  },
+  {
+   "ref": "N-501",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "DSA-600",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "CL-512",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "A-50",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "A-62",
+   "tipo": "motorway",
+   "km": 2.5
+  },
+  {
+   "ref": "N-620a",
+   "tipo": "trunk",
+   "km": 2.6
+  },
+  {
+   "ref": "A-66",
+   "tipo": "motorway",
+   "km": 2.7
+  },
+  {
+   "ref": "CM-545",
+   "tipo": "trunk",
+   "km": 2.9
+  },
+  {
+   "ref": "SA-20",
+   "tipo": "trunk",
+   "km": 3.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 109.5
+  },
+  {
+   "slug": "zarzalejo",
+   "nombre": "Zarzalejo",
+   "km_linea_recta": 134.3
+  },
+  {
+   "slug": "san-lorenzo-de-el-escorial",
+   "nombre": "San Lorenzo de El Escorial",
+   "km_linea_recta": 134.4
+  },
+  {
+   "slug": "molinos-los",
+   "nombre": "Los Molinos",
+   "km_linea_recta": 135.6
+  },
+  {
+   "slug": "el-escorial",
+   "nombre": "El Escorial",
+   "km_linea_recta": 136.2
+  },
+  {
+   "slug": "guadarrama",
+   "nombre": "Guadarrama",
+   "km_linea_recta": 136.5
+  },
+  {
+   "slug": "fresnedillas-de-la-oliva",
+   "nombre": "Fresnedillas de la Oliva",
+   "km_linea_recta": 136.7
+  },
+  {
+   "slug": "cercedilla",
+   "nombre": "Cercedilla",
+   "km_linea_recta": 137.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Salamanca | Diagnosis, mantenimiento y reparación",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 144825
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

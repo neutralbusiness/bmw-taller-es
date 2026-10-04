@@ -1,0 +1,156 @@
+{
+ "slug": "santa-maria-de-palautordera",
+ "nombre": "Santa Maria de Palautordera",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08259",
+ "coordenadas": {
+  "lat": 41.68447,
+  "lng": 2.44644,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08259"
+ },
+ "poblacion": {
+  "valor": 10080,
+  "anio": 2025,
+  "valor_hace_10": 9103,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 10.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 16.94,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082592)"
+ },
+ "densidad_hab_km2": 595,
+ "altitud_m": {
+  "valor": 208,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082592)"
+ },
+ "turismos": {
+  "valor": 5439,
+  "anio": "2024",
+  "por_1000_hab": 540,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 62.8,
+  "km_linea_recta": 47.9,
+  "vias_de_la_ruta": [
+   "BV-5301",
+   "AP-7",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Celoni (B26)",
+   "operador": "TuV-SUD",
+   "direccion": "Carretera Gualba, 41-43",
+   "municipio": "Sant Celoni",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 7.5,
+   "km_linea": 5.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Mataró)",
+  "razon_social": "Pruna Motor, S.L. Mataró",
+  "direccion": "Via Sergia, 2",
+  "cp": "08302",
+  "municipio": "Mataró",
+  "web": "https://prunamotor-mataro.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 29.1,
+  "km_linea": 17.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-35",
+   "tipo": "primary",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-esteve-de-palautordera",
+   "nombre": "Sant Esteve de Palautordera",
+   "km_linea_recta": 3.4
+  },
+  {
+   "slug": "sant-celoni",
+   "nombre": "Sant Celoni",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "vilalba-sasserra",
+   "nombre": "Vilalba Sasserra",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "sant-pere-de-vilamajor",
+   "nombre": "Sant Pere de Vilamajor",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "campins",
+   "nombre": "Campins",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "sant-antoni-de-vilamajor",
+   "nombre": "Sant Antoni de Vilamajor",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "vallgorguina",
+   "nombre": "Vallgorguina",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "llinars-del-valles",
+   "nombre": "Llinars del Vallès",
+   "km_linea_recta": 6.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Santa Maria de Palautordera — Especialistas sin perder garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 9196
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

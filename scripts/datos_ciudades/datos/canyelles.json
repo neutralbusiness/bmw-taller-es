@@ -1,0 +1,154 @@
+{
+ "slug": "canyelles",
+ "nombre": "Canyelles",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Garraf",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08043",
+ "coordenadas": {
+  "lat": 41.28457,
+  "lng": 1.72672,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08043"
+ },
+ "poblacion": {
+  "valor": 5505,
+  "anio": 2025,
+  "valor_hace_10": 4375,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 25.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 14.23,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080431)"
+ },
+ "densidad_hab_km2": 387,
+ "altitud_m": {
+  "valor": 142,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080431)"
+ },
+ "turismos": {
+  "valor": 3013,
+  "anio": "2024",
+  "por_1000_hab": 547,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 43.4,
+  "km_linea_recta": 29.1,
+  "vias_de_la_ruta": [
+   "C-15z",
+   "C-32",
+   "B-25"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Vilanova (B17)",
+   "operador": "APPLUS ITV",
+   "direccion": "Ronda EUROPA S/N",
+   "municipio": "Vilanova i la Geltrú",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 8.7,
+   "km_linea": 7.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vilanova)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Avinguda d' Eduard Toldrà, 69",
+  "cp": "08800",
+  "municipio": "Vilanova i la Geltrú",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 7.8,
+  "km_linea": 6.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-15",
+   "tipo": "motorway",
+   "km": 0.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 7.3,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "olerdola",
+   "nombre": "Olèrdola",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "sant-pere-de-ribes",
+   "nombre": "Sant Pere de Ribes",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "olivella",
+   "nombre": "Olivella",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "vilanova-i-la-geltru",
+   "nombre": "Vilanova i la Geltrú",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "santa-margarida-i-els-monjos",
+   "nombre": "Santa Margarida i els Monjos",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "vilafranca-del-penedes",
+   "nombre": "Vilafranca del Penedès",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "castellet-i-la-gornal",
+   "nombre": "Castellet i la Gornal",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "sant-cugat-sesgarrigues",
+   "nombre": "Sant Cugat Sesgarrigues",
+   "km_linea_recta": 8.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Canyelles | Garraf | Diagnosis y reparación",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 4275
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

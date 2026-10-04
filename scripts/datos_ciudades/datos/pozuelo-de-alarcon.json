@@ -1,0 +1,166 @@
+{
+ "slug": "pozuelo-de-alarcon",
+ "nombre": "Pozuelo de Alarcón",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28115",
+ "coordenadas": {
+  "lat": 40.43293,
+  "lng": -3.81338,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28115"
+ },
+ "poblacion": {
+  "valor": 89770,
+  "anio": 2025,
+  "valor_hace_10": 84558,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 42.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28115"
+ },
+ "densidad_hab_km2": 2093,
+ "altitud_m": {
+  "valor": 701,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 50841,
+  "anio": "2025",
+  "por_1000_hab": 566,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 25.0,
+  "km_linea_recta": 19.2,
+  "vias_de_la_ruta": [
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV INTECTRA, S.A (estación 2823)",
+    "operador": "INTECTRA, S.A",
+    "direccion": "C/ Virgilio, 8",
+    "municipio": "Pozuelo De Alarcón",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (El Carralero)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "C/. Fresa, 13",
+  "cp": "28220",
+  "municipio": "Majadahonda",
+  "web": "https://movilnorte.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.6,
+  "km_linea": 5.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-502",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "M-503",
+   "tipo": "motorway",
+   "km": 0.5
+  },
+  {
+   "ref": "M-513",
+   "tipo": "primary",
+   "km": 0.9
+  },
+  {
+   "ref": "M-40",
+   "tipo": "motorway",
+   "km": 1.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "majadahonda",
+   "nombre": "Majadahonda",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "las-rozas-de-madrid",
+   "nombre": "Las Rozas de Madrid",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "madrid",
+   "nombre": "Madrid",
+   "km_linea_recta": 9.6
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 9.7
+  },
+  {
+   "slug": "villaviciosa-de-odon",
+   "nombre": "Villaviciosa de Odón",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 12.0
+  },
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 12.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Pozuelo de Alarcón | Especialistas en diagnóstico",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 82428
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "slug": "rivas-vaciamadrid",
+ "nombre": "Rivas-Vaciamadrid",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28123",
+ "coordenadas": {
+  "lat": 40.32605,
+  "lng": -3.51089,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28123"
+ },
+ "poblacion": {
+  "valor": 103148,
+  "anio": 2025,
+  "valor_hace_10": 81473,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 26.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 67.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28123"
+ },
+ "densidad_hab_km2": 1528,
+ "altitud_m": {
+  "valor": 565,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 52643,
+  "anio": "2025",
+  "por_1000_hab": 510,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 35.9,
+  "km_linea_recta": 26.7,
+  "vias_de_la_ruta": [
+   "A-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV ITV Rivas, S.L (estación 2869)",
+    "operador": "ITV Rivas, S.L",
+    "direccion": "C/ Cincel, 2 bis. Pol. Ind. Sta. Ana",
+    "municipio": "Rivas-Vaciamadrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2848)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "Mariano Barbacid, 8",
+    "municipio": "Rivas-Vaciamadrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
+  "municipio": "Madrid",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 13.5,
+  "km_linea": 11.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-3",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "M-506",
+   "tipo": "primary",
+   "km": 2.2
+  },
+  {
+   "ref": "M-300",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "N-IIIa",
+   "tipo": "trunk",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "velilla-de-san-antonio",
+   "nombre": "Velilla de San Antonio",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "arganda",
+   "nombre": "Arganda",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "loeches",
+   "nombre": "Loeches",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 11.0
+  },
+  {
+   "slug": "campo-real",
+   "nombre": "Campo Real",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "morata-de-tajuna",
+   "nombre": "Morata de Tajuña",
+   "km_linea_recta": 11.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Rivas-Vaciamadrid | Mecánica especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 68405
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

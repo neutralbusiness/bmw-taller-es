@@ -1,0 +1,154 @@
+{
+ "slug": "palau-solita-i-plegamans",
+ "nombre": "Palau-solità i Plegamans",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Occidental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08156",
+ "coordenadas": {
+  "lat": 41.57972,
+  "lng": 2.17966,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08156"
+ },
+ "poblacion": {
+  "valor": 15614,
+  "anio": 2025,
+  "valor_hace_10": 14457,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 14.93,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081568)"
+ },
+ "densidad_hab_km2": 1046,
+ "altitud_m": {
+  "valor": 130,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081568)"
+ },
+ "turismos": {
+  "valor": 8773,
+  "anio": "2024",
+  "por_1000_hab": 562,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 37.6,
+  "km_linea_recta": 25.7,
+  "vias_de_la_ruta": [
+   "B-143",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV CIM Vallès (B20)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. \\\\\\\"Les Minetes\\\\\\\"",
+   "municipio": "Santa Perpètua de Mogoda",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 6.8,
+   "km_linea": 4.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 9.8,
+  "km_linea": 7.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-59",
+   "tipo": "trunk",
+   "km": 0.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "polinya",
+   "nombre": "Polinyà",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "parets-del-valles",
+   "nombre": "Parets del Vallès",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "sentmenat",
+   "nombre": "Sentmenat",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "santa-perpetua-de-mogoda",
+   "nombre": "Santa Perpètua de Mogoda",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "mollet-del-valles",
+   "nombre": "Mollet del Vallès",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "llica-de-vall",
+   "nombre": "Lliçà de Vall",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "caldes-de-montbui",
+   "nombre": "Caldes de Montbui",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "llica-d-amunt",
+   "nombre": "Lliçà d'Amunt",
+   "km_linea_recta": 6.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "BMW Palau-solità i Plegamans — Tu taller especialista con precios de hasta -50%",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 14484
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

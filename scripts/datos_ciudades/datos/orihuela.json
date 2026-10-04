@@ -1,0 +1,146 @@
+{
+ "slug": "orihuela",
+ "nombre": "Orihuela",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Alicante",
+ "ccaa": "Comunidad Valenciana",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": null,
+ "codigo_ine": "03099",
+ "coordenadas": {
+  "lat": 38.08483,
+  "lng": -0.94401,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 03099"
+ },
+ "poblacion": {
+  "valor": 84560,
+  "anio": 2025,
+  "valor_hace_10": 82675,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 363.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 03099"
+ },
+ "densidad_hab_km2": 232,
+ "altitud_m": {
+  "valor": 32,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/105917949) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Benigar (Orihuela)",
+  "razon_social": "Hispamovil, S.A.",
+  "direccion": "Ctra. N. 340, km. 29,200",
+  "cp": "03317",
+  "municipio": "San Carlos-Redován",
+  "web": "https://benigar-redovan.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.9,
+  "km_linea": 5.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "CV-95",
+   "tipo": "primary",
+   "km": 0.6
+  },
+  {
+   "ref": "CV-91",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "N-340",
+   "tipo": "trunk",
+   "km": 1.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "murcia",
+   "nombre": "Murcia",
+   "km_linea_recta": 19.6
+  },
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 29.0
+  },
+  {
+   "slug": "alicante",
+   "nombre": "Alicante",
+   "km_linea_recta": 49.7
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 53.8
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 128.5
+  },
+  {
+   "slug": "valencia",
+   "nombre": "Valencia",
+   "km_linea_recta": 162.0
+  },
+  {
+   "slug": "almeria",
+   "nombre": "Almería",
+   "km_linea_recta": 192.6
+  },
+  {
+   "slug": "castello-de-la-plana",
+   "nombre": "Castelló de la Plana",
+   "km_linea_recta": 225.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Orihuela | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 101321
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

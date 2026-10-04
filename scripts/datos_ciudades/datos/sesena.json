@@ -1,0 +1,151 @@
+{
+ "slug": "sesena",
+ "nombre": "Seseña",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Toledo",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "45161",
+ "coordenadas": {
+  "lat": 40.10473,
+  "lng": -3.69793,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 45161"
+ },
+ "poblacion": {
+  "valor": 30907,
+  "anio": 2025,
+  "valor_hace_10": 21558,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 43.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 71.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 45161"
+ },
+ "densidad_hab_km2": 435,
+ "altitud_m": {
+  "valor": 608,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 58.1,
+  "km_linea_recta": 49.2,
+  "vias_de_la_ruta": [
+   "R-4",
+   "M-423",
+   "A-4",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV General de Servicios ITV, S.A (estación 2854)",
+   "operador": "General de Servicios ITV, S.A",
+   "direccion": "Pol. Ind. Gonzalo Chacón, nº 11",
+   "municipio": "Aranjuez",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 14.7,
+   "km_linea": 8.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Getafe)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Ctra. Madrid-Toledo,",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 29.4,
+  "km_linea": 21.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "R-4",
+   "tipo": "motorway",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "esquivias",
+   "nombre": "Esquivias",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "yeles",
+   "nombre": "Yeles",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "ciempozuelos",
+   "nombre": "Ciempozuelos",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "torrejon-de-velasco",
+   "nombre": "Torrejón de Velasco",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "valdemoro",
+   "nombre": "Valdemoro",
+   "km_linea_recta": 9.7
+  },
+  {
+   "slug": "titulcia",
+   "nombre": "Titulcia",
+   "km_linea_recta": 12.6
+  },
+  {
+   "slug": "casarrubuelos",
+   "nombre": "Casarrubuelos",
+   "km_linea_recta": 13.5
+  },
+  {
+   "slug": "torrejon-de-la-calzada",
+   "nombre": "Torrejón de la Calzada",
+   "km_linea_recta": 13.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Seseña | Diagnosis original y mecánica especializada",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 30907
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

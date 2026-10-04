@@ -1,0 +1,154 @@
+{
+ "slug": "sant-llorenc-d-hortons",
+ "nombre": "Sant Llorenç d'Hortons",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Alt Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08222",
+ "coordenadas": {
+  "lat": 41.47084,
+  "lng": 1.83517,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08222"
+ },
+ "poblacion": {
+  "valor": 2627,
+  "anio": 2025,
+  "valor_hace_10": 2557,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 19.72,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082227)"
+ },
+ "densidad_hab_km2": 133,
+ "altitud_m": {
+  "valor": 196,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082227)"
+ },
+ "turismos": {
+  "valor": 1479,
+  "anio": "2024",
+  "por_1000_hab": 563,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 30.9,
+  "km_linea_recta": 21.8,
+  "vias_de_la_ruta": [
+   "B-224",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 18.8,
+   "km_linea": 10.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Cugat del Vallés)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Vallespir , 19",
+  "cp": "08173",
+  "municipio": "Sant Cugat del Vallès",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 27.9,
+  "km_linea": 19.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-224",
+   "tipo": "primary",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "gelida",
+   "nombre": "Gelida",
+   "km_linea_recta": 4.1
+  },
+  {
+   "slug": "sant-esteve-sesrovires",
+   "nombre": "Sant Esteve Sesrovires",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "masquefa",
+   "nombre": "Masquefa",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "sant-sadurni-d-anoia",
+   "nombre": "Sant Sadurní d'Anoia",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "castellvi-de-rosanes",
+   "nombre": "Castellví de Rosanes",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "abrera",
+   "nombre": "Abrera",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "martorell",
+   "nombre": "Martorell",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "esparreguera",
+   "nombre": "Esparreguera",
+   "km_linea_recta": 8.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Sant Llorenç d'Hortons | Alt Penedès",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2528
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

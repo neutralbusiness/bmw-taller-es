@@ -1,0 +1,164 @@
+{
+ "slug": "girona",
+ "nombre": "Girona",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Girona",
+ "ccaa": "Cataluña",
+ "comarca": "Gironès",
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "17079",
+ "coordenadas": {
+  "lat": 41.98311,
+  "lng": 2.82493,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 17079"
+ },
+ "poblacion": {
+  "valor": 108666,
+  "anio": 2025,
+  "valor_hace_10": 97586,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 39.12,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=170792)"
+ },
+ "densidad_hab_km2": 2778,
+ "altitud_m": {
+  "valor": 70,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=170792)"
+ },
+ "turismos": {
+  "valor": 46124,
+  "anio": "2024",
+  "por_1000_hab": 424,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 111.0,
+  "km_linea_recta": 93.6,
+  "vias_de_la_ruta": [
+   "AP-7",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Girona (G09)",
+    "operador": "Revisions de Vehicles, S.A.",
+    "direccion": "Carrer Sarrià de Ter s/n",
+    "municipio": "Girona",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Oliva Motor Girona (Salt)",
+  "razon_social": "Oliva Motor Girona, S.L.U.",
+  "direccion": "C/ De Lingen, 9-11",
+  "cp": "17190",
+  "municipio": "Salt",
+  "web": "https://olivamotorgirona.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.8,
+  "km_linea": 4.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-II",
+   "tipo": "trunk",
+   "km": 1.7
+  },
+  {
+   "ref": "N-IIa",
+   "tipo": "primary",
+   "km": 2.0
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "rupit-i-pruit",
+   "nombre": "Rupit i Pruit",
+   "km_linea_recta": 30.4
+  },
+  {
+   "slug": "fogars-de-la-selva",
+   "nombre": "Fogars de la Selva",
+   "km_linea_recta": 32.7
+  },
+  {
+   "slug": "tordera",
+   "nombre": "Tordera",
+   "km_linea_recta": 32.8
+  },
+  {
+   "slug": "vilanova-de-sau",
+   "nombre": "Vilanova de Sau",
+   "km_linea_recta": 33.5
+  },
+  {
+   "slug": "tavertet",
+   "nombre": "Tavertet",
+   "km_linea_recta": 34.2
+  },
+  {
+   "slug": "palafolls",
+   "nombre": "Palafolls",
+   "km_linea_recta": 35.5
+  },
+  {
+   "slug": "sant-sadurni-d-osormort",
+   "nombre": "Sant Sadurní d'Osormort",
+   "km_linea_recta": 37.5
+  },
+  {
+   "slug": "gualba",
+   "nombre": "Gualba",
+   "km_linea_recta": 37.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Girona | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 108666
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": true
+ }
+}

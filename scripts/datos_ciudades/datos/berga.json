@@ -1,0 +1,164 @@
+{
+ "slug": "berga",
+ "nombre": "Berga",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08022",
+ "coordenadas": {
+  "lat": 42.10429,
+  "lng": 1.84628,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08022"
+ },
+ "poblacion": {
+  "valor": 17473,
+  "anio": 2025,
+  "valor_hace_10": 16238,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 22.57,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080229)"
+ },
+ "densidad_hab_km2": 774,
+ "altitud_m": {
+  "valor": 704,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080229)"
+ },
+ "turismos": {
+  "valor": 8965,
+  "anio": "2024",
+  "por_1000_hab": 513,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 105.3,
+  "km_linea_recta": 83.8,
+  "vias_de_la_ruta": [
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Berga (B13)",
+    "operador": "TuV-RHEINLAND",
+    "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+    "municipio": "Berga",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 43.3,
+  "km_linea": 37.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-16",
+   "tipo": "trunk",
+   "km": 0.9
+  },
+  {
+   "ref": "C-26",
+   "tipo": "primary",
+   "km": 1.2
+  },
+  {
+   "ref": "C-17",
+   "tipo": "motorway",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "cercs",
+   "nombre": "Cercs",
+   "km_linea_recta": 3.1
+  },
+  {
+   "slug": "avia",
+   "nombre": "Avià",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "castellar-del-riu",
+   "nombre": "Castellar del Riu",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "olvan",
+   "nombre": "Olvan",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "capolat",
+   "nombre": "Capolat",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "vilada",
+   "nombre": "Vilada",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "figols",
+   "nombre": "Fígols",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "gironella",
+   "nombre": "Gironella",
+   "km_linea_recta": 9.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "BMW Berga — Tu taller especialista con precios de hasta -50%",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 17160
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "slug": "calaf",
+ "nombre": "Calaf",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08031",
+ "coordenadas": {
+  "lat": 41.73161,
+  "lng": 1.51131,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08031"
+ },
+ "poblacion": {
+  "valor": 3644,
+  "anio": 2025,
+  "valor_hace_10": 3426,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 9.22,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080312)"
+ },
+ "densidad_hab_km2": 395,
+ "altitud_m": {
+  "valor": 680,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080312)"
+ },
+ "turismos": {
+  "valor": 1880,
+  "anio": "2024",
+  "por_1000_hab": 516,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 78.1,
+  "km_linea_recta": 60.9,
+  "vias_de_la_ruta": [
+   "C-1412a",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Igualada (B12)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 27.4,
+   "km_linea": 18.7
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Unicars Ponent (Tárrega)",
+  "razon_social": "Unicars Ponent, S.L.",
+  "direccion": "Carrer de la Conca de Barberà,Nave6",
+  "cp": "25300",
+  "municipio": "Tárrega",
+  "web": "http://red.bmw.es/unicars/es_ES/home.html",
+  "solo_taller": false,
+  "km_carretera": 34.4,
+  "km_linea": 30.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 0.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-marti-sesgueioles",
+   "nombre": "Sant Martí Sesgueioles",
+   "km_linea_recta": 3.4
+  },
+  {
+   "slug": "calonge-de-segarra",
+   "nombre": "Calonge de Segarra",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "els-prats-de-rei",
+   "nombre": "els Prats de Rei",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "pujalt",
+   "nombre": "Pujalt",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "sant-pere-sallavinera",
+   "nombre": "Sant Pere Sallavinera",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "castellfollit-de-riubregos",
+   "nombre": "Castellfollit de Riubregós",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "veciana",
+   "nombre": "Veciana",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "aguilar-de-segarra",
+   "nombre": "Aguilar de Segarra",
+   "km_linea_recta": 8.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "BMW Calaf — Tu taller especialista con precios de hasta -50%",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 3538
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

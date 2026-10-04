@@ -1,0 +1,186 @@
+{
+ "slug": "mostoles",
+ "nombre": "Móstoles",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28092",
+ "coordenadas": {
+  "lat": 40.32234,
+  "lng": -3.86496,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28092"
+ },
+ "poblacion": {
+  "valor": 214817,
+  "anio": 2025,
+  "valor_hace_10": 206263,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 4.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 44.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28092"
+ },
+ "densidad_hab_km2": 4817,
+ "altitud_m": {
+  "valor": 662,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 98219,
+  "anio": "2025",
+  "por_1000_hab": 457,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 42.4,
+  "km_linea_recta": 31.2,
+  "vias_de_la_ruta": [
+   "R-5",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2856)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "C/ Julio Cervera, 21. Pol. Ind. Móstoles Parque Tecnológico",
+    "municipio": "Móstoles",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV Móstoles, S.A (estación 2870)",
+    "operador": "ITV Móstoles, S.A",
+    "direccion": "C/ Federico Cantero Villamil, 18. Parque Empresarial \"Móstoles Tecnológico\"",
+    "municipio": "Móstoles",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2847)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "Avda. de la Reguera, 14. Pol. Ind. La Fuensanta",
+    "municipio": "Móstoles",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Alcorcón)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Av. S.Martín de Valdeiglesias 14-16",
+  "cp": "28922",
+  "municipio": "Alcorcón",
+  "web": "https://vehinter-alcorcon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 7.0,
+  "km_linea": 5.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-506",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "A-5",
+   "tipo": "motorway",
+   "km": 1.9
+  },
+  {
+   "ref": "R-5",
+   "tipo": "motorway",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "villaviciosa-de-odon",
+   "nombre": "Villaviciosa de Odón",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "moraleja-de-enmedio",
+   "nombre": "Moraleja de Enmedio",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "fuenlabrada",
+   "nombre": "Fuenlabrada",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "getafe",
+   "nombre": "Getafe",
+   "km_linea_recta": 11.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Móstoles | Diagnosis oficial, Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 207095
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

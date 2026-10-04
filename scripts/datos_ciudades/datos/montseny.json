@@ -1,0 +1,150 @@
+{
+ "slug": "montseny",
+ "nombre": "Montseny",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08137",
+ "coordenadas": {
+  "lat": 41.7783,
+  "lng": 2.3899,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08137"
+ },
+ "poblacion": {
+  "valor": 388,
+  "anio": 2025,
+  "valor_hace_10": 319,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 21.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 26.77,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081379)"
+ },
+ "densidad_hab_km2": 14,
+ "altitud_m": {
+  "valor": 528,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081379)"
+ },
+ "turismos": {
+  "valor": 226,
+  "anio": "2024",
+  "por_1000_hab": 582,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 79.4,
+  "km_linea_recta": 53.4,
+  "vias_de_la_ruta": [
+   "BV-5301",
+   "AP-7",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Celoni (B26)",
+   "operador": "TuV-SUD",
+   "direccion": "Carretera Gualba, 41-43",
+   "municipio": "Sant Celoni",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 24.1,
+   "km_linea": 13.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 32.1,
+  "km_linea": 20.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "fogars-de-montclus",
+   "nombre": "Fogars de Montclús",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "sant-esteve-de-palautordera",
+   "nombre": "Sant Esteve de Palautordera",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "el-brull",
+   "nombre": "el Brull",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "campins",
+   "nombre": "Campins",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "canoves-i-samalus",
+   "nombre": "Cànoves i Samalús",
+   "km_linea_recta": 10.0
+  },
+  {
+   "slug": "gualba",
+   "nombre": "Gualba",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "sant-pere-de-vilamajor",
+   "nombre": "Sant Pere de Vilamajor",
+   "km_linea_recta": 10.5
+  },
+  {
+   "slug": "tagamanent",
+   "nombre": "Tagamanent",
+   "km_linea_recta": 11.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Montseny | Base del Turó de l'Home, 1706 m",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 303
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

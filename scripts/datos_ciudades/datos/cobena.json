@@ -1,0 +1,153 @@
+{
+ "slug": "cobena",
+ "nombre": "Cobeña",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28041",
+ "coordenadas": {
+  "lat": 40.57299,
+  "lng": -3.50784,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28041"
+ },
+ "poblacion": {
+  "valor": 7670,
+  "anio": 2025,
+  "valor_hace_10": 6983,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 20.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28041"
+ },
+ "densidad_hab_km2": 371,
+ "altitud_m": {
+  "valor": 722,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 4672,
+  "anio": "2025",
+  "por_1000_hab": 609,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 17.4,
+  "km_linea_recta": 11.7,
+  "vias_de_la_ruta": [
+   "M-100",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2808)",
+   "operador": "DEKRA ITV ESPAÑA, S.L.U",
+   "direccion": "Cº Viejo de Cobeña, 36",
+   "municipio": "Paracuellos",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 8.9,
+   "km_linea": 6.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.7,
+  "km_linea": 3.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-100",
+   "tipo": "trunk",
+   "km": 1.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 2.8
+  },
+  {
+   "slug": "ajalvir",
+   "nombre": "Ajalvir",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "daganzo-de-arriba",
+   "nombre": "Daganzo de Arriba",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "fuente-el-saz-de-jarama",
+   "nombre": "Fuente el Saz de Jarama",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "valdeolmos-alalpardo",
+   "nombre": "Valdeolmos-Alalpardo",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 10.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Cobeña — Especialistas en Modelos M y Rendimiento",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 6823
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

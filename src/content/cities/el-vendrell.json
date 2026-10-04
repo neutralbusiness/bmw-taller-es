@@ -3,7 +3,7 @@
   "name": "El Vendrell",
   "province": "Tarragona",
   "ccaa": "Cataluña",
-  "population": 35821,
+  "population": 41133,
   "lat": 41.21667,
   "lng": 1.53333,
   "metaTitle": "Taller BMW en El Vendrell | Diagnosis oficial y garantía",
@@ -181,5 +181,125 @@
     "AP-7 hacia Tarragona y Barcelona",
     "N-340 como eje costero",
     "C-51 hacia Vilafranca"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "El Vendrell: BMW junto al mar, ITV a 3 km y taller especialista a 61 km",
+    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller queda a 61,5 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 61.5
+    },
+    "secciones": [
+      {
+        "id": "salitre",
+        "h2": "Tres kilómetros de mar: qué hace el salitre a un coche",
+        "parrafos": [
+          "El centro de El Vendrell queda a unos 3,3 km de la línea de costa, y en los núcleos de playa del municipio la distancia es mínima. El aire salino no estropea un coche de un día para otro, pero acelera tres cosas: la corrosión de bajos, anclajes de escape y soportes; el óxido superficial en los discos de freno si el coche pasa días parado, que luego se nota como vibración o ruido al frenar; y la sulfatación de conectores expuestos.",
+          "Un lavado de bajos con agua dulce después del verano y una revisión de frenos si el coche ha estado semanas sin moverse evitan la mayoría de sustos. Si el BMW lleva tiempo con un testigo eléctrico intermitente, los conectores son lo primero que hay que mirar."
+        ]
+      },
+      {
+        "id": "itv-bellvei",
+        "h2": "La ITV del Baix Penedès, a 3 km en Bellvei",
+        "parrafos": [
+          "La estación de ITV del Baix Penedès (T07) está en el polígono industrial Els Massets de Bellvei, a 3 km del centro de El Vendrell por carretera, según el registro de la Generalitat. Está tan cerca que lo razonable es hacer la pre-ITV en un taller del Penedès y no bajar a Sant Joan Despí solo para eso."
+        ]
+      },
+      {
+        "id": "c32-hasta-el-taller",
+        "h2": "Por la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,5 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
+          "Desde aquí no hay recogida: el servicio del taller solo cubre el área metropolitana. Lo práctico es una llamada previa con el modelo y el síntoma, para bajar con hora y, si hace falta, con la pieza ya pedida."
+        ]
+      },
+      {
+        "id": "vendrell-crece",
+        "h2": "Un municipio que ha crecido un 12,5 % en diez años",
+        "parrafos": [
+          "El padrón pasó de 36.558 vecinos en 2015 a 41.133 en 2025. En 2024 había 19.239 turismos censados según Idescat a partir de la DGT, 468 por cada 1.000 habitantes, con la N-340, la AP-7 y la C-32 a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en El Vendrell?",
+        "a": "En la estación del Baix Penedès (T07), en el polígono Els Massets de Bellvei, a 3 km."
+      },
+      {
+        "q": "¿Afecta la proximidad del mar a mi BMW?",
+        "a": "Acelera la corrosión de bajos y anclajes, el óxido en discos de un coche parado y la sulfatación de conectores. Un lavado de bajos con agua dulce ayuda."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 61,5 km por la C-32 y la B-25, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "41.133 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431634&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "19.239 · 468 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431634&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 3,3 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Baix Penedès (T07), Bellvei · 3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 61,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=431634&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

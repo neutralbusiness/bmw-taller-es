@@ -1,0 +1,156 @@
+{
+ "slug": "folgueroles",
+ "nombre": "Folgueroles",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Osona",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08083",
+ "coordenadas": {
+  "lat": 41.9377,
+  "lng": 2.315,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08083"
+ },
+ "poblacion": {
+  "valor": 2262,
+  "anio": 2025,
+  "valor_hace_10": 2285,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -1.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 10.47,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080832)"
+ },
+ "densidad_hab_km2": 216,
+ "altitud_m": {
+  "valor": 552,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080832)"
+ },
+ "turismos": {
+  "valor": 1312,
+  "anio": "2024",
+  "por_1000_hab": 580,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 92.0,
+  "km_linea_recta": 66.9,
+  "vias_de_la_ruta": [
+   "C-25",
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 6.7,
+   "km_linea": 3.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 7.2,
+  "km_linea": 5.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-julia-de-vilatorta",
+   "nombre": "Sant Julià de Vilatorta",
+   "km_linea_recta": 2.0
+  },
+  {
+   "slug": "calldetenes",
+   "nombre": "Calldetenes",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "tavernoles",
+   "nombre": "Tavèrnoles",
+   "km_linea_recta": 3.9
+  },
+  {
+   "slug": "santa-eugenia-de-berga",
+   "nombre": "Santa Eugènia de Berga",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "vic",
+   "nombre": "Vic",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "roda-de-ter",
+   "nombre": "Roda de Ter",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "les-masies-de-roda",
+   "nombre": "les Masies de Roda",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "sant-sadurni-d-osormort",
+   "nombre": "Sant Sadurní d'Osormort",
+   "km_linea_recta": 6.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Folgueroles | Cuidado con Carácter",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2230
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

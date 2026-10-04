@@ -1,0 +1,148 @@
+{
+ "slug": "daganzo-de-arriba",
+ "nombre": "Daganzo de Arriba",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28053",
+ "coordenadas": {
+  "lat": 40.56253,
+  "lng": -3.43988,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28053"
+ },
+ "poblacion": {
+  "valor": 10764,
+  "anio": 2025,
+  "valor_hace_10": 9919,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 43.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28053"
+ },
+ "densidad_hab_km2": 249,
+ "altitud_m": {
+  "valor": 708,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 6687,
+  "anio": "2025",
+  "por_1000_hab": 621,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 24.0,
+  "km_linea_recta": 17.1,
+  "vias_de_la_ruta": [
+   "M-113",
+   "M-50",
+   "R-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
+   "operador": "ITVERSIA Gestión, S.L",
+   "direccion": "Vía Complutense, 105",
+   "municipio": "Alcalá De Henares",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 15.7,
+   "km_linea": 10.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (P.I.La Garena)",
+  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Argentina, 7",
+  "cp": "28806",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 11.6,
+  "km_linea": 8.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ajalvir",
+   "nombre": "Ajalvir",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "camarma-de-esteruelas",
+   "nombre": "Camarma de Esteruelas",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "valdeolmos-alalpardo",
+   "nombre": "Valdeolmos-Alalpardo",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "meco",
+   "nombre": "Meco",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 9.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Daganzo de Arriba — Especialistas en Eléctricos e Híbridos",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 9560
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

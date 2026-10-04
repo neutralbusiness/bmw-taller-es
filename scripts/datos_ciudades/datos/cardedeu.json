@@ -1,0 +1,161 @@
+{
+ "slug": "cardedeu",
+ "nombre": "Cardedeu",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08046",
+ "coordenadas": {
+  "lat": 41.63976,
+  "lng": 2.35739,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08046"
+ },
+ "poblacion": {
+  "valor": 19046,
+  "anio": 2025,
+  "valor_hace_10": 17938,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 12.1,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080462)"
+ },
+ "densidad_hab_km2": 1574,
+ "altitud_m": {
+  "valor": 193,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080462)"
+ },
+ "turismos": {
+  "valor": 9182,
+  "anio": "2024",
+  "por_1000_hab": 482,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 49.5,
+  "km_linea_recta": 39.3,
+  "vias_de_la_ruta": [
+   "BV-5103",
+   "AP-7",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Granollers (B18)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
+   "municipio": "Granollers",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 15.4,
+   "km_linea": 9.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 14.0,
+  "km_linea": 9.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-35",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 14.3,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "llinars-del-valles",
+   "nombre": "Llinars del Vallès",
+   "km_linea_recta": 3.1
+  },
+  {
+   "slug": "sant-antoni-de-vilamajor",
+   "nombre": "Sant Antoni de Vilamajor",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "sant-pere-de-vilamajor",
+   "nombre": "Sant Pere de Vilamajor",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "les-franqueses-del-valles",
+   "nombre": "les Franqueses del Vallès",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "canoves-i-samalus",
+   "nombre": "Cànoves i Samalús",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "la-roca-del-valles",
+   "nombre": "La Roca del Vallès",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "canovelles",
+   "nombre": "Canovelles",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "granollers",
+   "nombre": "Granollers",
+   "km_linea_recta": 6.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en Cardedeu — Revisión y reparación con garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 16596
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

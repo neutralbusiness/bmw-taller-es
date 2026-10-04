@@ -1,0 +1,157 @@
+{
+ "slug": "sant-mateu-de-bages",
+ "nombre": "Sant Mateu de Bages",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08229",
+ "coordenadas": {
+  "lat": 41.8341,
+  "lng": 1.693,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08229"
+ },
+ "poblacion": {
+  "valor": 641,
+  "anio": 2025,
+  "valor_hace_10": 620,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 3.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 102.92,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082299)"
+ },
+ "densidad_hab_km2": 6,
+ "altitud_m": {
+  "valor": 569,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082299)"
+ },
+ "turismos": {
+  "valor": 385,
+  "anio": "2024",
+  "por_1000_hab": 601,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 86.0,
+  "km_linea_recta": 60.1,
+  "vias_de_la_ruta": [
+   "BV-3002",
+   "C-55",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Fruitós (B25)",
+   "operador": "ITEVELESA",
+   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
+   "municipio": "Sant Fruitós de Bages",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 27.5,
+   "km_linea": 17.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 27.4,
+  "km_linea": 17.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-55",
+   "tipo": "primary",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "suria",
+   "nombre": "Súria",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "fonollosa",
+   "nombre": "Fonollosa",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "callus",
+   "nombre": "Callús",
+   "km_linea_recta": 8.7
+  },
+  {
+   "slug": "cardona",
+   "nombre": "Cardona",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "castellnou-de-bages",
+   "nombre": "Castellnou de Bages",
+   "km_linea_recta": 9.7
+  },
+  {
+   "slug": "rajadell",
+   "nombre": "Rajadell",
+   "km_linea_recta": 11.8
+  },
+  {
+   "slug": "santpedor",
+   "nombre": "Santpedor",
+   "km_linea_recta": 12.3
+  },
+  {
+   "slug": "aguilar-de-segarra",
+   "nombre": "Aguilar de Segarra",
+   "km_linea_recta": 13.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sant Mateu de Bages | Especialistas BMW Bages",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 643
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

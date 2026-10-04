@@ -1,0 +1,153 @@
+{
+ "slug": "torrelodones",
+ "nombre": "Torrelodones",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28152",
+ "coordenadas": {
+  "lat": 40.57654,
+  "lng": -3.92658,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28152"
+ },
+ "poblacion": {
+  "valor": 25433,
+  "anio": 2025,
+  "valor_hace_10": 23117,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 10.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 21.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28152"
+ },
+ "densidad_hab_km2": 1177,
+ "altitud_m": {
+  "valor": 852,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 14161,
+  "anio": "2025",
+  "por_1000_hab": 557,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 38.2,
+  "km_linea_recta": 24.4,
+  "vias_de_la_ruta": [
+   "A-6",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2831)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "A-6, km 20,4",
+   "municipio": "Las Rozas",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 10.2,
+   "km_linea": 6.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (Las Rozas)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "A6-Km. 23,100",
+  "cp": "28230",
+  "municipio": "Las Rozas",
+  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 6.7,
+  "km_linea": 6.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-6",
+   "tipo": "motorway",
+   "km": 0.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "las-matas",
+   "nombre": "Las Matas",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "hoyo-de-manzanares",
+   "nombre": "Hoyo de Manzanares",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "galapagar",
+   "nombre": "Galapagar",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "colmenarejo",
+   "nombre": "Colmenarejo",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "collado-villalba",
+   "nombre": "Collado-Villalba",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "villanueva-del-pardillo",
+   "nombre": "Villanueva del Pardillo",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "las-rozas-de-madrid",
+   "nombre": "Las Rozas de Madrid",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "moralzarzal",
+   "nombre": "Moralzarzal",
+   "km_linea_recta": 11.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Torrelodones | Especialistas en motor, turbo y ZF 8HP",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 21781
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "slug": "venturada",
+ "nombre": "Venturada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28169",
+ "coordenadas": {
+  "lat": 40.79941,
+  "lng": -3.62026,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28169"
+ },
+ "poblacion": {
+  "valor": 2622,
+  "anio": 2025,
+  "valor_hace_10": 1991,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 31.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 10.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28169"
+ },
+ "densidad_hab_km2": 257,
+ "altitud_m": {
+  "valor": 866,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 92073,
+  "anio": "2025",
+  "por_1000_hab": 35116,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 37.9,
+  "km_linea_recta": 28.3,
+  "vias_de_la_ruta": [
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "Carretera A1, km 40,200",
+   "municipio": "El Molar",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 14.1,
+   "km_linea": 11.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 35.8,
+  "km_linea": 24.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-Ia",
+   "tipo": "primary",
+   "km": 0.2
+  },
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 0.4
+  },
+  {
+   "ref": "N-320",
+   "tipo": "trunk",
+   "km": 0.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "reduena",
+   "nombre": "Redueña",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "cabanillas-de-la-sierra",
+   "nombre": "Cabanillas de la Sierra",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "navalafuente",
+   "nombre": "Navalafuente",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "guadalix-de-la-sierra",
+   "nombre": "Guadalix de la Sierra",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "vellon-el",
+   "nombre": "El Vellón",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "pedrezuela",
+   "nombre": "Pedrezuela",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "torrelaguna",
+   "nombre": "Torrelaguna",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "cabrera-la",
+   "nombre": "La Cabrera",
+   "km_linea_recta": 7.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Venturada | Sierra Norte de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1897
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

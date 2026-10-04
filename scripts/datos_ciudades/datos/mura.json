@@ -1,0 +1,150 @@
+{
+ "slug": "mura",
+ "nombre": "Mura",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08139",
+ "coordenadas": {
+  "lat": 41.68879,
+  "lng": 1.97473,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08139"
+ },
+ "poblacion": {
+  "valor": 235,
+  "anio": 2025,
+  "valor_hace_10": 203,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 15.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 47.79,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081398)"
+ },
+ "densidad_hab_km2": 5,
+ "altitud_m": {
+  "valor": 454,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081398)"
+ },
+ "turismos": {
+  "valor": 120,
+  "anio": "2024",
+  "por_1000_hab": 511,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 70.6,
+  "km_linea_recta": 36.4,
+  "vias_de_la_ruta": [
+   "BV-1224",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Manresa (B06)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. \\\\\\\"Bufalvent\\\\\\\"",
+   "municipio": "Manresa",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 16.3,
+   "km_linea": 11.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 22.4,
+  "km_linea": 11.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "talamanca",
+   "nombre": "Talamanca",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "el-pont-de-vilomara-i-rocafort",
+   "nombre": "el Pont de Vilomara i Rocafort",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "sant-llorenc-savall",
+   "nombre": "Sant Llorenç Savall",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "rellinars",
+   "nombre": "Rellinars",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "matadepera",
+   "nombre": "Matadepera",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "sant-vicenc-de-castellet",
+   "nombre": "Sant Vicenç de Castellet",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "monistrol-de-calders",
+   "nombre": "Monistrol de Calders",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "calders",
+   "nombre": "Calders",
+   "km_linea_recta": 8.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Mura | Diagnóstico y reparación especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 227
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

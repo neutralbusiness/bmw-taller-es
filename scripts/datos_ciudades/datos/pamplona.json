@@ -1,0 +1,156 @@
+{
+ "slug": "pamplona",
+ "nombre": "Pamplona",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Navarra",
+ "ccaa": "Navarra",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "31201",
+ "coordenadas": {
+  "lat": 42.81687,
+  "lng": -1.64323,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 31201"
+ },
+ "poblacion": {
+  "valor": 209094,
+  "anio": 2025,
+  "valor_hace_10": 195853,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 24.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 31201"
+ },
+ "densidad_hab_km2": 8397,
+ "altitud_m": {
+  "valor": 462,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Pamplona",
+    "operador": "TÜVRheinland",
+    "direccion": "Calle Soto Aizoain",
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/229095275) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Momentum (Pamplona)",
+  "razon_social": "Momentum Norte, S.R.L.",
+  "direccion": "Pol. Industrial Taluntxe II-Calle 8",
+  "cp": "31110",
+  "municipio": "Noain",
+  "web": "https://momentummotor.es/",
+  "solo_taller": false,
+  "km_carretera": 6.2,
+  "km_linea": 5.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "PA-30",
+   "tipo": "trunk",
+   "km": 2.1
+  },
+  {
+   "ref": "PA-31",
+   "tipo": "trunk",
+   "km": 2.2
+  },
+  {
+   "ref": "PA-33",
+   "tipo": "trunk",
+   "km": 2.3
+  },
+  {
+   "ref": "PA-34",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "PA-35",
+   "tipo": "trunk",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "san-sebastian",
+   "nombre": "Donostia / San Sebastián",
+   "km_linea_recta": 61.4
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 76.7
+  },
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 84.0
+  },
+  {
+   "slug": "ejea-de-los-caballeros",
+   "nombre": "Ejea de los Caballeros",
+   "km_linea_recta": 87.3
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 101.7
+  },
+  {
+   "slug": "tauste",
+   "nombre": "Tauste",
+   "km_linea_recta": 106.1
+  },
+  {
+   "slug": "borja",
+   "nombre": "Borja",
+   "km_linea_recta": 109.3
+  },
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 115.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Pamplona | Especialistas en mecánica BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 208243
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

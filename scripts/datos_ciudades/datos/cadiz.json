@@ -1,0 +1,136 @@
+{
+ "slug": "cadiz",
+ "nombre": "Cádiz",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Cádiz",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": null,
+ "codigo_ine": "11012",
+ "coordenadas": {
+  "lat": 36.52672,
+  "lng": -6.2891,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11012"
+ },
+ "poblacion": {
+  "valor": 109950,
+  "anio": 2025,
+  "valor_hace_10": 120468,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -8.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.4,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11012"
+ },
+ "densidad_hab_km2": 6319,
+ "altitud_m": {
+  "valor": 25,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Inspección Técnica de Vehículos",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/643263060) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movitransa (Cádiz)",
+  "razon_social": "Movitransa Cars, S.L.",
+  "direccion": "Villa de Rota s/n",
+  "cp": "11011",
+  "municipio": "Cádiz",
+  "web": "https://movitran.com",
+  "solo_taller": true,
+  "km_carretera": 4.9,
+  "km_linea": 4.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "CA-35",
+   "tipo": "motorway",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.9,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 22.4
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 86.9
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 90.2
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 99.2
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 100.6
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 125.4
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 168.2
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 202.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Cádiz | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 116979
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

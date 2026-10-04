@@ -1,0 +1,157 @@
+{
+ "slug": "san-agustin-del-guadalix",
+ "nombre": "San Agustín del Guadalix",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28129",
+ "coordenadas": {
+  "lat": 40.67882,
+  "lng": -3.61639,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28129"
+ },
+ "poblacion": {
+  "valor": 13825,
+  "anio": 2025,
+  "valor_hace_10": 12982,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 38.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28129"
+ },
+ "densidad_hab_km2": 363,
+ "altitud_m": {
+  "valor": 675,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 7689,
+  "anio": "2025",
+  "por_1000_hab": 556,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 21.2,
+  "km_linea_recta": 15.0,
+  "vias_de_la_ruta": [
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "Carretera A1, km 40,200",
+   "municipio": "El Molar",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 9.6,
+   "km_linea": 5.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 19.1,
+  "km_linea": 11.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-104",
+   "tipo": "primary",
+   "km": 0.3
+  },
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 0.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "molar-el",
+   "nombre": "Molar, El",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "pedrezuela",
+   "nombre": "Pedrezuela",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "valdetorres-de-jarama",
+   "nombre": "Valdetorres de Jarama",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "fuente-el-saz-de-jarama",
+   "nombre": "Fuente el Saz de Jarama",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "vellon-el",
+   "nombre": "El Vellón",
+   "km_linea_recta": 11.2
+  },
+  {
+   "slug": "guadalix-de-la-sierra",
+   "nombre": "Guadalix de la Sierra",
+   "km_linea_recta": 11.5
+  },
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 11.6
+  },
+  {
+   "slug": "colmenar-viejo",
+   "nombre": "Colmenar Viejo",
+   "km_linea_recta": 12.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en San Agustín del Guadalix — Especialistas CBS",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 13273
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

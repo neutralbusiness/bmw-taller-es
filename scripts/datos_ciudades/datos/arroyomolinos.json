@@ -1,0 +1,147 @@
+{
+ "slug": "arroyomolinos",
+ "nombre": "Arroyomolinos",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "10023",
+ "coordenadas": {
+  "lat": 39.15109,
+  "lng": -6.13424,
+  "comprobadas": false,
+  "fuente": "CartoCiudad (IGN), término municipal INE 10023"
+ },
+ "poblacion": {
+  "valor": 816,
+  "anio": 2025,
+  "valor_hace_10": 787,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 3.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 114.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 10023"
+ },
+ "densidad_hab_km2": 7,
+ "altitud_m": {
+  "valor": 361,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 337.7,
+  "km_linea_recta": 263.3,
+  "vias_de_la_ruta": [
+   "CC-344",
+   "EX-206",
+   "A-5",
+   "A-5R",
+   "M-40",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITV Pelayos, S.L (estación 2839)",
+   "operador": "ITV Pelayos, S.L",
+   "direccion": "C/ Hilero, 3",
+   "municipio": "Pelayos De La Presa",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 279.2,
+   "km_linea": 203.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Ceres (Mandel Motor Don Benito)",
+  "razon_social": "Ceres Motor, S.L.",
+  "direccion": "C/. Guttemberg, s/n",
+  "cp": "06400",
+  "municipio": "Don  Benito",
+  "web": "https://ceresmotor-motordonbenito.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 48.8,
+  "km_linea": 30.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "badajoz",
+   "nombre": "Badajoz",
+   "km_linea_recta": 78.4
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 183.4
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 197.1
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 206.0
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 208.6
+  },
+  {
+   "slug": "villamanta",
+   "nombre": "Villamanta",
+   "km_linea_recta": 214.4
+  },
+  {
+   "slug": "villamantilla",
+   "nombre": "Villamantilla",
+   "km_linea_recta": 215.8
+  },
+  {
+   "slug": "colmenar-del-arroyo",
+   "nombre": "Colmenar del Arroyo",
+   "km_linea_recta": 217.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Arroyomolinos | Suroeste de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 31396
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

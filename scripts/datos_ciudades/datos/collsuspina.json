@@ -1,0 +1,151 @@
+{
+ "slug": "collsuspina",
+ "nombre": "Collsuspina",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Moianès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08070",
+ "coordenadas": {
+  "lat": 41.8249,
+  "lng": 2.1731,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08070"
+ },
+ "poblacion": {
+  "valor": 391,
+  "anio": 2025,
+  "valor_hace_10": 343,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 14.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 15.08,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080706)"
+ },
+ "densidad_hab_km2": 26,
+ "altitud_m": {
+  "valor": 901,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080706)"
+ },
+ "turismos": {
+  "valor": 218,
+  "anio": "2024",
+  "por_1000_hab": 558,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 79.3,
+  "km_linea_recta": 51.8,
+  "vias_de_la_ruta": [
+   "N-141c",
+   "BV-5303",
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 28.0,
+   "km_linea": 16.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 18.6,
+  "km_linea": 13.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "centelles",
+   "nombre": "Centelles",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "tona",
+   "nombre": "Tona",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "balenya",
+   "nombre": "Balenyà",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "moia",
+   "nombre": "Moià",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "l-estany",
+   "nombre": "l'Estany",
+   "km_linea_recta": 7.1
+  },
+  {
+   "slug": "castellcir",
+   "nombre": "Castellcir",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "muntanyola",
+   "nombre": "Muntanyola",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "seva",
+   "nombre": "Seva",
+   "km_linea_recta": 8.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Collsuspina | Mecánica para Clima Extremo",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 347
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

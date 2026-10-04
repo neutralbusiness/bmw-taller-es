@@ -1,0 +1,157 @@
+{
+ "slug": "artes",
+ "nombre": "Artés",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08010",
+ "coordenadas": {
+  "lat": 41.80039,
+  "lng": 1.95467,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08010"
+ },
+ "poblacion": {
+  "valor": 6225,
+  "anio": 2025,
+  "valor_hace_10": 5665,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.87,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080109)"
+ },
+ "densidad_hab_km2": 348,
+ "altitud_m": {
+  "valor": 316,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080109)"
+ },
+ "turismos": {
+  "valor": 3438,
+  "anio": "2024",
+  "por_1000_hab": 552,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 72.1,
+  "km_linea_recta": 48.9,
+  "vias_de_la_ruta": [
+   "B-430",
+   "C-25",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Fruitós (B25)",
+   "operador": "ITEVELESA",
+   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
+   "municipio": "Sant Fruitós de Bages",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 15.1,
+   "km_linea": 10.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 10.1,
+  "km_linea": 7.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 1.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "calders",
+   "nombre": "Calders",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "sallent",
+   "nombre": "Sallent",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "navarcles",
+   "nombre": "Navarcles",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "avinyo",
+   "nombre": "Avinyó",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "monistrol-de-calders",
+   "nombre": "Monistrol de Calders",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "talamanca",
+   "nombre": "Talamanca",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "sant-fruitos-de-bages",
+   "nombre": "Sant Fruitós de Bages",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "balsareny",
+   "nombre": "Balsareny",
+   "km_linea_recta": 10.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Artés | Bages, cerca de Manresa",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 5566
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

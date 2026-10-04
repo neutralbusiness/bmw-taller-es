@@ -1,0 +1,136 @@
+{
+ "slug": "valencia",
+ "nombre": "Valencia",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Valencia",
+ "ccaa": "Comunidad Valenciana",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "46250",
+ "coordenadas": {
+  "lat": 39.47391,
+  "lng": -0.37966,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 46250"
+ },
+ "poblacion": {
+  "valor": 840792,
+  "anio": 2025,
+  "valor_hace_10": 786189,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 138.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 46250"
+ },
+ "densidad_hab_km2": 6084,
+ "altitud_m": {
+  "valor": 19,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Vara de Quart",
+    "operador": "SGS",
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (node/107381651) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Bertolin (Calle Naturalista)",
+  "razon_social": "Automoviles Bertolin, S.L.",
+  "direccion": "C/ Naturalista Rafael Cisternes, 2",
+  "cp": "46010",
+  "municipio": "Valencia",
+  "web": "http://bertolin-naturalista.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 2.9,
+  "km_linea": 1.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "V-21",
+   "tipo": "primary",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 4.3,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "castello-de-la-plana",
+   "nombre": "Castelló de la Plana",
+   "km_linea_recta": 63.5
+  },
+  {
+   "slug": "alicante",
+   "nombre": "Alicante",
+   "km_linea_recta": 125.8
+  },
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 137.6
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 137.9
+  },
+  {
+   "slug": "orihuela",
+   "nombre": "Orihuela",
+   "km_linea_recta": 162.0
+  },
+  {
+   "slug": "murcia",
+   "nombre": "Murcia",
+   "km_linea_recta": 177.7
+  },
+  {
+   "slug": "caspe",
+   "nombre": "Caspe",
+   "km_linea_recta": 201.9
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 214.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Valencia | Especialistas Serie 1 a X7 y M",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 824340
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

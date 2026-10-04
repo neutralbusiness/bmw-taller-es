@@ -1,0 +1,162 @@
+{
+ "slug": "colmenar-viejo",
+ "nombre": "Colmenar Viejo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28045",
+ "coordenadas": {
+  "lat": 40.65909,
+  "lng": -3.76762,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28045"
+ },
+ "poblacion": {
+  "valor": 58730,
+  "anio": 2025,
+  "valor_hace_10": 47601,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 23.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 182.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28045"
+ },
+ "densidad_hab_km2": 323,
+ "altitud_m": {
+  "valor": 892,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 28162,
+  "anio": "2025",
+  "por_1000_hab": 480,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 22.4,
+  "km_linea_recta": 16.6,
+  "vias_de_la_ruta": [
+   "M-607",
+   "M-616"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L (estación 2890)",
+    "operador": "APPLUS ITEUVE TECHNOLOGY, S.L",
+    "direccion": "c/ Perfumería, 1. Pol. Ind. La Mina",
+    "municipio": "Colmenar Viejo",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 24.1,
+  "km_linea": 19.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-104",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "M-607",
+   "tipo": "motorway",
+   "km": 1.4
+  },
+  {
+   "ref": "M-609",
+   "tipo": "primary",
+   "km": 2.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "soto-del-real",
+   "nombre": "Soto del Real",
+   "km_linea_recta": 10.4
+  },
+  {
+   "slug": "hoyo-de-manzanares",
+   "nombre": "Hoyo de Manzanares",
+   "km_linea_recta": 12.6
+  },
+  {
+   "slug": "san-agustin-del-guadalix",
+   "nombre": "San Agustín del Guadalix",
+   "km_linea_recta": 12.9
+  },
+  {
+   "slug": "el-goloso",
+   "nombre": "El Goloso",
+   "km_linea_recta": 13.1
+  },
+  {
+   "slug": "el-boalo",
+   "nombre": "El Boalo",
+   "km_linea_recta": 13.2
+  },
+  {
+   "slug": "miraflores-de-la-sierra",
+   "nombre": "Miraflores de la Sierra",
+   "km_linea_recta": 14.0
+  },
+  {
+   "slug": "manzanares-el-real",
+   "nombre": "Manzanares el Real",
+   "km_linea_recta": 14.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW M en Colmenar Viejo — Especialistas en Rendimiento",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 43700
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

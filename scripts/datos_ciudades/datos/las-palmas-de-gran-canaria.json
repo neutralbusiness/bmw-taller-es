@@ -1,0 +1,146 @@
+{
+ "slug": "las-palmas-de-gran-canaria",
+ "nombre": "Las Palmas de Gran Canaria",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Las Palmas",
+ "ccaa": "Canarias",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "35016",
+ "coordenadas": {
+  "lat": 28.10178,
+  "lng": -15.41573,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 35016"
+ },
+ "poblacion": {
+  "valor": 381868,
+  "anio": 2025,
+  "valor_hace_10": 379766,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 103.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 35016"
+ },
+ "densidad_hab_km2": 3707,
+ "altitud_m": {
+  "valor": 17,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Miller Bajo",
+    "operador": null,
+    "direccion": "Calle Luis Saavedra Miranda 59",
+    "municipio": "Las Palmas de Gran Canaria",
+    "fuente": "OpenStreetMap (way/1237266692) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Marmotor",
+  "razon_social": "Marmotor Canarias, S.L.",
+  "direccion": "Avda. Escaleritas, 178",
+  "cp": "35019",
+  "municipio": "Las Palmas de Gran Canaria",
+  "web": "https://marmotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.1,
+  "km_linea": 3.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "GC-1 AM",
+   "tipo": "trunk",
+   "km": 0.3
+  },
+  {
+   "ref": "GC-31",
+   "tipo": "motorway",
+   "km": 1.1
+  },
+  {
+   "ref": "GC-23",
+   "tipo": "motorway",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.3,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "telde",
+   "nombre": "Telde",
+   "km_linea_recta": 12.2
+  },
+  {
+   "slug": "santa-cruz-de-tenerife",
+   "nombre": "Santa Cruz de Tenerife",
+   "km_linea_recta": 91.7
+  },
+  {
+   "slug": "la-laguna",
+   "nombre": "La Laguna",
+   "km_linea_recta": 98.3
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 1268.8
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 1290.1
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 1291.0
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 1294.0
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 1351.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Las Palmas de Gran Canaria | Especialistas en diagnóstico",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 383516
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

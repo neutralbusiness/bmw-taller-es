@@ -1,0 +1,148 @@
+{
+ "slug": "sant-marti-sarroca",
+ "nombre": "Sant Martí Sarroca",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Alt Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08227",
+ "coordenadas": {
+  "lat": 41.3674,
+  "lng": 1.6181,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08227"
+ },
+ "poblacion": {
+  "valor": 3485,
+  "anio": 2025,
+  "valor_hace_10": 3092,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 12.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 35.27,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082270)"
+ },
+ "densidad_hab_km2": 99,
+ "altitud_m": {
+  "valor": 291,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082270)"
+ },
+ "turismos": {
+  "valor": 2155,
+  "anio": "2024",
+  "por_1000_hab": 618,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 59.0,
+  "km_linea_recta": 36.7,
+  "vias_de_la_ruta": [
+   "BP-2121",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Olèrdola (B09)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda HOSTAL NOU S/N",
+   "municipio": "Olèrdola",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 17.0,
+   "km_linea": 9.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vilanova)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Avinguda d' Eduard Toldrà, 69",
+  "cp": "08800",
+  "municipio": "Vilanova i la Geltrú",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 29.4,
+  "km_linea": 18.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "pacs-del-penedes",
+   "nombre": "Pacs del Penedès",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "castellvi-de-la-marca",
+   "nombre": "Castellví de la Marca",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "vilobi-del-penedes",
+   "nombre": "Vilobí del Penedès",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "les-cabanyes",
+   "nombre": "les Cabanyes",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "santa-margarida-i-els-monjos",
+   "nombre": "Santa Margarida i els Monjos",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "font-rubi",
+   "nombre": "Font-rubí",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "torrelles-de-foix",
+   "nombre": "Torrelles de Foix",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "vilafranca-del-penedes",
+   "nombre": "Vilafranca del Penedès",
+   "km_linea_recta": 7.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sant Martí Sarroca | Alt Penedès",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 3200
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

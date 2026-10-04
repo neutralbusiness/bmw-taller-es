@@ -1,0 +1,311 @@
+{
+ "slug": "madrid",
+ "nombre": "Madrid",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28079",
+ "coordenadas": {
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "poblacion": {
+  "valor": 3506730,
+  "anio": 2025,
+  "valor_hace_10": 3141991,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 600.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "densidad_hab_km2": 5838,
+ "altitud_m": {
+  "valor": 651,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 1360704,
+  "anio": "2025",
+  "por_1000_hab": 388,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 20.5,
+  "km_linea_recta": 15.2,
+  "vias_de_la_ruta": [
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2884)",
+    "operador": "APPLUS Iteuve Tecnology, S.L.U",
+    "direccion": "C/ Aguaviva, 1-3. Pol. Ind. Fin de Semana",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L.U (estación 2899)",
+    "operador": "APPLUS ITEUVE TECHNOLOGY, S.L.U",
+    "direccion": "C/ Bruno Abúndez, 37 (Vallecas)",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITVERSIA GESTIÓN, S.L (estación 2802)",
+    "operador": "ITVERSIA GESTIÓN, S.L",
+    "direccion": "Ctra. Villaverde a Vallecas, km 3,5",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A (estación 2830)",
+    "operador": "ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A",
+    "direccion": "C/ María de Portugal, 15 (Sanchinarro)",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Entidad IDV Madrid, S.L (estación 2876)",
+    "operador": "Entidad IDV Madrid, S.L",
+    "direccion": "Avda. del Parque, 2B. Pol. Ind. de Vicálvaro",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Entidad IDV Madrid, S.L (estación 2810)",
+    "operador": "Entidad IDV Madrid, S.L",
+    "direccion": "C/ Ntra, Sra. de Valverde, 179",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2858)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "C/ Treseta, 23",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2835)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "Ctra. de acceso al Barrio de la Fortuna, 10",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2837)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "C/ Arte Abstracto, 4. La Gavia",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV INTECTRA, S.A (estación 2824)",
+    "operador": "INTECTRA, S.A",
+    "direccion": "Avda. de la Democracia, 13-bis (Vallecas)",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L.U (estación 2840)",
+    "operador": "APPLUS ITEUVE TECHNOLOGY, S.L.U",
+    "direccion": "C/ Sagitario, 2",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV A-42 km 9, S.L (estación 2895)",
+    "operador": "ITV A-42 km 9, S.L",
+    "direccion": "Ctra. A-42 km 9,800 (Villaverde)",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV Madrid-Villaverde, S.L (estación 2892)",
+    "operador": "ITV Madrid-Villaverde, S.L",
+    "direccion": "C/ San Dalmacio, 13",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV Zona Centro, S.L (estación 2886)",
+    "operador": "ITV Zona Centro, S.L",
+    "direccion": "Ctra. Villaverde a Vallecas, 283",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2894)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "C/ Miguel Yuste, 31. (Simancas-Julián Camarillo)",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV MOTIELCO ITV, S.L (estación 2828)",
+    "operador": "MOTIELCO ITV, S.L",
+    "direccion": "Ctra. Valencia A-3 Km. 7.100",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2827)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "C/ Sinfonía, 29",
+    "municipio": "Madrid",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Caetano Cuzco (Raimundo Fdez. Villaverde)",
+  "razon_social": "Caetano Cuzco, S.L.U.",
+  "direccion": "c/ Edgar Neville, 1",
+  "cp": "28020",
+  "municipio": "Madrid",
+  "web": "https://caetanocuzco-raimundofdezvillaverde.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.9,
+  "km_linea": 3.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-30",
+   "tipo": "motorway",
+   "km": 1.7
+  },
+  {
+   "ref": "A-42",
+   "tipo": "motorway",
+   "km": 2.2
+  },
+  {
+   "ref": "A-5",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "A-6",
+   "tipo": "trunk",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "pozuelo-de-alarcon",
+   "nombre": "Pozuelo de Alarcón",
+   "km_linea_recta": 9.6
+  },
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 11.2
+  },
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 12.0
+  },
+  {
+   "slug": "getafe",
+   "nombre": "Getafe",
+   "km_linea_recta": 12.6
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 13.0
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 14.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "BMW Taller en Madrid para Profesionales — Presupuesto Cerrado",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 3506730
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

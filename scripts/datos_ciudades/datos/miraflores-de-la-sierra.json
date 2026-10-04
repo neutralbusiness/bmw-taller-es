@@ -1,0 +1,150 @@
+{
+ "slug": "miraflores-de-la-sierra",
+ "nombre": "Miraflores de la Sierra",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28085",
+ "coordenadas": {
+  "lat": 40.78442,
+  "lng": -3.75983,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28085"
+ },
+ "poblacion": {
+  "valor": 7350,
+  "anio": 2025,
+  "valor_hace_10": 5807,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 26.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 56.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28085"
+ },
+ "densidad_hab_km2": 131,
+ "altitud_m": {
+  "valor": 946,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 3805,
+  "anio": "2025",
+  "por_1000_hab": 518,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 46.0,
+  "km_linea_recta": 28.4,
+  "vias_de_la_ruta": [
+   "M-611",
+   "M-608",
+   "M-609",
+   "M-607",
+   "M-616"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "Carretera A1, km 40,200",
+   "municipio": "El Molar",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 29.3,
+   "km_linea": 19.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 47.7,
+  "km_linea": 32.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "soto-del-real",
+   "nombre": "Soto del Real",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "bustarviejo",
+   "nombre": "Bustarviejo",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "guadalix-de-la-sierra",
+   "nombre": "Guadalix de la Sierra",
+   "km_linea_recta": 7.1
+  },
+  {
+   "slug": "navalafuente",
+   "nombre": "Navalafuente",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "cabanillas-de-la-sierra",
+   "nombre": "Cabanillas de la Sierra",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "valdemanco",
+   "nombre": "Valdemanco",
+   "km_linea_recta": 11.7
+  },
+  {
+   "slug": "venturada",
+   "nombre": "Venturada",
+   "km_linea_recta": 11.9
+  },
+  {
+   "slug": "canencia",
+   "nombre": "Canencia",
+   "km_linea_recta": 12.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Miraflores de la Sierra | Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 5979
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

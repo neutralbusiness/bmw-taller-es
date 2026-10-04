@@ -1,0 +1,157 @@
+{
+ "slug": "chinchon",
+ "nombre": "Chinchón",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28052",
+ "coordenadas": {
+  "lat": 40.15498,
+  "lng": -3.48813,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28052"
+ },
+ "poblacion": {
+  "valor": 5800,
+  "anio": 2025,
+  "valor_hace_10": 5436,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 115.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28052"
+ },
+ "densidad_hab_km2": 50,
+ "altitud_m": {
+  "valor": 588,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 2923,
+  "anio": "2025",
+  "por_1000_hab": 504,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 63.1,
+  "km_linea_recta": 45.3,
+  "vias_de_la_ruta": [
+   "M-313",
+   "M-311",
+   "M-506",
+   "A-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITV Valdemoro, S.L (estación 2863)",
+   "operador": "ITV Valdemoro, S.L",
+   "direccion": "C/ Vereda de la Solana, 43-45. Pol.Ind. Las Canteras",
+   "municipio": "Valdemoro",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 16.3,
+   "km_linea": 13.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Getafe)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Ctra. Madrid-Toledo,",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 36.0,
+  "km_linea": 26.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-404",
+   "tipo": "primary",
+   "km": 0.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "villaconejos",
+   "nombre": "Villaconejos",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "titulcia",
+   "nombre": "Titulcia",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "san-martin-de-la-vega",
+   "nombre": "San Martín de la Vega",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "morata-de-tajuna",
+   "nombre": "Morata de Tajuña",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "valdelaguna",
+   "nombre": "Valdelaguna",
+   "km_linea_recta": 10.2
+  },
+  {
+   "slug": "ciempozuelos",
+   "nombre": "Ciempozuelos",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "perales-de-tajuna",
+   "nombre": "Perales de Tajuña",
+   "km_linea_recta": 13.9
+  },
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 16.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Chinchón | Especialistas cerca de Aranjuez",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 5239
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

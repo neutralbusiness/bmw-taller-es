@@ -3,7 +3,7 @@
   "name": "Barcelona",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1686208,
+  "population": 1731649,
   "lat": 41.38879,
   "lng": 2.15899,
   "metaTitle": "Taller BMW Barcelona — Mantenimiento oficial sin coste de concesionario",
@@ -188,5 +188,131 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller especialista BMW para Barcelona ciudad, a 12,7 km por la Diagonal y la B-23",
+    "entradilla": "El taller BMW de la red para Barcelona está fuera del término municipal, en Sant Joan Despí. Para quien vive en la ciudad hay dos datos que importan: se llega por la B-23 y hay recogida del coche dentro del área metropolitana.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 12.7
+    },
+    "secciones": [
+      {
+        "id": "salir-por-la-b23",
+        "h2": "Salir de Barcelona por la B-23",
+        "parrafos": [
+          "Desde el centro de la ciudad hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, hay 12,7 km por carretera y 8,8 en línea recta. El recorrido natural es Diagonal abajo hasta la B-23, y de ahí al Baix Llobregat; desde la parte alta de la ciudad, la Ronda de Dalt es la alternativa.",
+          "El taller abre de lunes a viernes en jornada partida, de 9:00 a 14:00 y de 15:00 a 18:00. Los fines de semana está cerrado."
+        ]
+      },
+      {
+        "id": "recogida-amb",
+        "h2": "Recogida y entrega dentro del área metropolitana",
+        "parrafos": [
+          "Barcelona y Sant Joan Despí forman parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana, ambos sujetos a disponibilidad. Para quien no quiere cruzar media ciudad para dejar el coche, suele ser la forma más cómoda de hacerlo. Pídelo al reservar la cita."
+        ]
+      },
+      {
+        "id": "cuatro-itv",
+        "h2": "Seis estaciones de ITV dentro de la ciudad",
+        "parrafos": [
+          "El registro de estaciones de la Generalitat sitúa seis ITV dentro de la ciudad: Còrsega (B16), en el carrer de Còrsega 384-392; Diputació (B14), en el carrer de la Diputació 158-160; Àvila (B19), en el carrer d'Àvila 130-134; Puigmadrona (B10), en el passatge de Puigmadrona 9-15; BCN Caracas (B23), en el carrer de Caracas 10 B, y Motors (B15), en el carrer dels Motors 136.",
+          "Con seis estaciones repartidas por la ciudad, la pre-ITV tiene sentido hacerla en el taller cuando el coche ya va por otro motivo, y la inspección, después, en la estación que te quede más cerca de casa."
+        ]
+      },
+      {
+        "id": "oficial-en-la-ciudad",
+        "h2": "El servicio oficial, en la Ronda de Dalt",
+        "parrafos": [
+          "El punto de servicio oficial BMW más próximo al centro según el localizador de bmw.es es el taller de Barcelona Premium en el carrer d'Esteve Terrades 77-79, junto a la Ronda de Dalt, a unos 4,2 km. Las campañas del fabricante y las reparaciones en garantía de BMW se hacen en la red oficial; el mantenimiento se puede hacer en un taller independiente sin perder la garantía si se respeta el plan del fabricante (Reglamento UE 461/2010)."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller dentro de Barcelona?",
+        "a": "No. El taller de la red para Barcelona es Dasercars Barcelona, en Sant Joan Despí, a 12,7 km del centro."
+      },
+      {
+        "q": "¿Recogéis el coche en Barcelona?",
+        "a": "Sí, dentro del área metropolitana hay recogida y entrega, sujeta a disponibilidad. Conviene pedirla al reservar."
+      },
+      {
+        "q": "¿Qué ITV hay en Barcelona ciudad?",
+        "a": "Según la Generalitat, seis: Còrsega (B16), Diputació (B14), Àvila (B19), Puigmadrona (B10), BCN Caracas (B23) y Motors (B15)."
+      },
+      {
+        "q": "¿Puedo hacer el mantenimiento con vosotros sin perder la garantía?",
+        "a": "Sí, si se respetan los intervalos y especificaciones del plan de mantenimiento de BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.731.649 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "487.185 · 281 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080193&lang=es"
+      },
+      {
+        "etiqueta": "Estaciones ITV en la ciudad",
+        "valor": "6",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, c. Esteve Terrades 77-79 · 4,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 12,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080193&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

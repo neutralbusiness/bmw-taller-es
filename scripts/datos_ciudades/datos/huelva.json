@@ -1,0 +1,147 @@
+{
+ "slug": "huelva",
+ "nombre": "Huelva",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Huelva",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "21041",
+ "coordenadas": {
+  "lat": 37.26638,
+  "lng": -6.94004,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 21041"
+ },
+ "poblacion": {
+  "valor": 143215,
+  "anio": 2025,
+  "valor_hace_10": 146318,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -2.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 152.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 21041"
+ },
+ "densidad_hab_km2": 938,
+ "altitud_m": {
+  "valor": 33,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "Estación de Inspección Técnica de Vehículos de San Juan del Puerto",
+   "operador": "Verificaciones Industriales de Andalucía, S.A.",
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/476985689) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 13.1,
+   "km_linea": 11.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movitransa (Huelva)",
+  "razon_social": "Movitransa Cars, S.L.",
+  "direccion": "Ctra. Huelva- Sevilla, Km.637,5",
+  "cp": "21007",
+  "municipio": "Huelva",
+  "web": "https://movitran.com",
+  "solo_taller": false,
+  "km_carretera": 3.9,
+  "km_linea": 2.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "H-31",
+   "tipo": "motorway",
+   "km": 1.4
+  },
+  {
+   "ref": "H-30",
+   "tipo": "motorway",
+   "km": 1.7
+  },
+  {
+   "ref": "A-497",
+   "tipo": "motorway",
+   "km": 1.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 3.4,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 86.5
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 90.2
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 96.2
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 100.6
+  },
+  {
+   "slug": "badajoz",
+   "nombre": "Badajoz",
+   "km_linea_recta": 179.2
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 183.1
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 200.9
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 203.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Huelva · Diagnosis ISTA y hasta un 50 % menos",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 144258
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

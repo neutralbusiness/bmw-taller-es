@@ -1,0 +1,170 @@
+{
+ "slug": "piera",
+ "nombre": "Piera",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08161",
+ "coordenadas": {
+  "lat": 41.52232,
+  "lng": 1.75076,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08161"
+ },
+ "poblacion": {
+  "valor": 17880,
+  "anio": 2025,
+  "valor_hace_10": 14991,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 19.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 57.2,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081614)"
+ },
+ "densidad_hab_km2": 313,
+ "altitud_m": {
+  "valor": 324,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081614)"
+ },
+ "turismos": {
+  "valor": 9729,
+  "anio": "2024",
+  "por_1000_hab": 544,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 39.0,
+  "km_linea_recta": 30.8,
+  "vias_de_la_ruta": [
+   "B-224",
+   "B-224z",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Igualada (B12)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 21.6,
+   "km_linea": 12.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Terrassa)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrasa",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 34.1,
+  "km_linea": 23.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-224",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "B-231",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "BV-2243",
+   "tipo": "primary",
+   "km": 1.5
+  },
+  {
+   "ref": "C-54",
+   "tipo": "primary",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "vallbona-d-anoia",
+   "nombre": "Vallbona d'Anoia",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "cabrera-d-anoia",
+   "nombre": "Cabrera d'Anoia",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "els-hostalets-de-pierola",
+   "nombre": "els Hostalets de Pierola",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "capellades",
+   "nombre": "Capellades",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "masquefa",
+   "nombre": "Masquefa",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "la-pobla-de-claramunt",
+   "nombre": "la Pobla de Claramunt",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "la-torre-de-claramunt",
+   "nombre": "la Torre de Claramunt",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "torrelavit",
+   "nombre": "Torrelavit",
+   "km_linea_recta": 8.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW Piera — Mantenimiento oficial sin coste de concesionario",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 15362
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

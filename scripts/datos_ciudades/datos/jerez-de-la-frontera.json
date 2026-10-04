@@ -1,0 +1,146 @@
+{
+ "slug": "jerez-de-la-frontera",
+ "nombre": "Jerez de la Frontera",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Cádiz",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "11020",
+ "coordenadas": {
+  "lat": 36.68645,
+  "lng": -6.13606,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11020"
+ },
+ "poblacion": {
+  "valor": 213634,
+  "anio": 2025,
+  "valor_hace_10": 212876,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 1183.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11020"
+ },
+ "densidad_hab_km2": 180,
+ "altitud_m": {
+  "valor": 53,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Estación ITV Veiasa",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/399674813) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movitransa (Jerez)",
+  "razon_social": "Movitransa Cars, S.L.",
+  "direccion": "Avenida Tío Pepe, 55",
+  "cp": "11407",
+  "municipio": "Jerez de la Frontera",
+  "web": "https://movitran.com",
+  "solo_taller": false,
+  "km_carretera": 5.3,
+  "km_linea": 4.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-4R",
+   "tipo": "primary",
+   "km": 1.5
+  },
+  {
+   "ref": "A-480",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "A-4",
+   "tipo": "motorway",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 15.0,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 22.4
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 69.0
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 78.8
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 86.9
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 96.2
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 113.2
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 153.0
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 180.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Jerez de la Frontera | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 212879
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

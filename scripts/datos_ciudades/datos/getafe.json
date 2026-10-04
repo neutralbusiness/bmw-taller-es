@@ -1,0 +1,201 @@
+{
+ "slug": "getafe",
+ "nombre": "Getafe",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28065",
+ "coordenadas": {
+  "lat": 40.30571,
+  "lng": -3.73295,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28065"
+ },
+ "poblacion": {
+  "valor": 193238,
+  "anio": 2025,
+  "valor_hace_10": 174921,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 10.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 78.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28065"
+ },
+ "densidad_hab_km2": 2471,
+ "altitud_m": {
+  "valor": 634,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 88793,
+  "anio": "2025",
+  "por_1000_hab": 460,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 33.8,
+  "km_linea_recta": 27.7,
+  "vias_de_la_ruta": [
+   "A-42",
+   "M-40",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Barcel Euro Inversiones, S.L (estación 2801)",
+    "operador": "Barcel Euro Inversiones, S.L",
+    "direccion": "A-4, km 15,4",
+    "municipio": "Getafe",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2838)",
+    "operador": "DEKRA ITV ESPAÑA, S.L.U",
+    "direccion": "C/ Marie Curie, 19. Tel 91 421 58 67",
+    "municipio": "Getafe",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2859)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "Avda. Río Guadalquivir, 20",
+    "municipio": "Getafe",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Applus Iteuve Technology, S.L.U (estación 2809)",
+    "operador": "Applus Iteuve Technology, S.L.U",
+    "direccion": "C/ Morse, 2  Pol. Ind. San Marcos",
+    "municipio": "Getafe",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Momentum Leganés)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
+  "cp": "28914",
+  "municipio": "Leganés",
+  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.3,
+  "km_linea": 2.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-42",
+   "tipo": "motorway",
+   "km": 0.5
+  },
+  {
+   "ref": "M-406",
+   "tipo": "trunk",
+   "km": 0.6
+  },
+  {
+   "ref": "M-402",
+   "tipo": "trunk",
+   "km": 2.8
+  },
+  {
+   "ref": "M-45",
+   "tipo": "motorway",
+   "km": 2.8
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "fuenlabrada",
+   "nombre": "Fuenlabrada",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "pinto",
+   "nombre": "Pinto",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "parla",
+   "nombre": "Parla",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "mostoles",
+   "nombre": "Móstoles",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "torrejon-de-la-calzada",
+   "nombre": "Torrejón de la Calzada",
+   "km_linea_recta": 12.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Getafe | Diagnosis y reparación especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 187525
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

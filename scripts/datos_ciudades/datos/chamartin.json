@@ -1,0 +1,164 @@
+{
+ "slug": "chamartin",
+ "nombre": "Chamartín",
+ "tipo": "distrito",
+ "pertenece_a": "Madrid",
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28079",
+ "coordenadas": {
+  "lat": 40.46206,
+  "lng": -3.6766,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "poblacion": {
+  "valor": null,
+  "nota": "No es municipio: la cifra del INE sería la de Madrid. No publicar población.",
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": null,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "densidad_hab_km2": null,
+ "altitud_m": {
+  "valor": 717,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 10.8,
+  "km_linea_recta": 9.7,
+  "vias_de_la_ruta": [
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2884)",
+   "operador": "APPLUS Iteuve Tecnology, S.L.U",
+   "direccion": "C/ Aguaviva, 1-3. Pol. Ind. Fin de Semana",
+   "municipio": "Madrid",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 6.1,
+   "km_linea": 4.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Caetano Cuzco (Raimundo Fdez. Villaverde)",
+  "razon_social": "Caetano Cuzco, S.L.U.",
+  "direccion": "c/ Edgar Neville, 1",
+  "cp": "28020",
+  "municipio": "Madrid",
+  "web": "https://caetanocuzco-raimundofdezvillaverde.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.1,
+  "km_linea": 2.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-30",
+   "tipo": "motorway",
+   "km": 0.8
+  },
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 2.2
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "M-11",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "M-607",
+   "tipo": "motorway",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "madrid",
+   "nombre": "Madrid",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "el-goloso",
+   "nombre": "El Goloso",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 10.6
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 11.2
+  },
+  {
+   "slug": "pozuelo-de-alarcon",
+   "nombre": "Pozuelo de Alarcón",
+   "km_linea_recta": 12.0
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 12.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Chamartín, Madrid | Especialistas en el distrito",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 140000
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "distrito",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": false
+ }
+}

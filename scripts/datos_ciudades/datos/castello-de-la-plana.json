@@ -1,0 +1,166 @@
+{
+ "slug": "castello-de-la-plana",
+ "nombre": "Castelló de la Plana",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Castellón",
+ "ccaa": "Comunidad Valenciana",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "12040",
+ "coordenadas": {
+  "lat": 39.98567,
+  "lng": -0.04935,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 12040"
+ },
+ "poblacion": {
+  "valor": 183711,
+  "anio": 2025,
+  "valor_hace_10": 171669,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 110.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 12040"
+ },
+ "densidad_hab_km2": 1660,
+ "altitud_m": {
+  "valor": 49,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Castelló",
+    "operador": "Societat Valenciana d'Inspecció Tècnica de Vehicles",
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/687046622) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Maberauto",
+  "razon_social": "Maberauto, S.A.",
+  "direccion": "Avda. Valencia, 99",
+  "cp": "12005",
+  "municipio": "Castellón",
+  "web": "https://maberauto.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 2.8,
+  "km_linea": 1.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "CV-1710",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "CV-1810",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "CV-1800",
+   "tipo": "primary",
+   "km": 2.0
+  },
+  {
+   "ref": "CS-22",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "CV-18",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "N-340",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 6.1,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "valencia",
+   "nombre": "Valencia",
+   "km_linea_recta": 63.5
+  },
+  {
+   "slug": "caspe",
+   "nombre": "Caspe",
+   "km_linea_recta": 142.7
+  },
+  {
+   "slug": "reus",
+   "nombre": "Reus",
+   "km_linea_recta": 162.7
+  },
+  {
+   "slug": "tarragona",
+   "nombre": "Tarragona",
+   "km_linea_recta": 166.9
+  },
+  {
+   "slug": "alicante",
+   "nombre": "Alicante",
+   "km_linea_recta": 186.2
+  },
+  {
+   "slug": "lleida",
+   "nombre": "Lleida",
+   "km_linea_recta": 190.0
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 190.3
+  },
+  {
+   "slug": "maria-de-huerva",
+   "nombre": "María de Huerva",
+   "km_linea_recta": 190.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Castellón de la Plana | Diagnóstico especializado",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 171857
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

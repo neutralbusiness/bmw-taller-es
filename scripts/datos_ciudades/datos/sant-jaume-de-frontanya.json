@@ -1,0 +1,151 @@
+{
+ "slug": "sant-jaume-de-frontanya",
+ "nombre": "Sant Jaume de Frontanyà",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Berguedà",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08216",
+ "coordenadas": {
+  "lat": 42.19188,
+  "lng": 2.02654,
+  "comprobadas": false,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08216"
+ },
+ "poblacion": {
+  "valor": 25,
+  "anio": 2025,
+  "valor_hace_10": 26,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -3.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 21.26,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082166)"
+ },
+ "densidad_hab_km2": 1,
+ "altitud_m": {
+  "valor": 1072,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082166)"
+ },
+ "turismos": {
+  "valor": 15,
+  "anio": "2024",
+  "por_1000_hab": 600,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 132.1,
+  "km_linea_recta": 91.7,
+  "vias_de_la_ruta": [
+   "BV-4656",
+   "C-26",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Berga (B13)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "municipio": "Berga",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 32.0,
+   "km_linea": 19.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 66.0,
+  "km_linea": 34.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "la-pobla-de-lillet",
+   "nombre": "la Pobla de Lillet",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "borreda",
+   "nombre": "Borredà",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "castell-de-l-areny",
+   "nombre": "Castell de l'Areny",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "vilada",
+   "nombre": "Vilada",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "castellar-de-n-hug",
+   "nombre": "Castellar de n'Hug",
+   "km_linea_recta": 9.8
+  },
+  {
+   "slug": "alpens",
+   "nombre": "Alpens",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "la-nou-de-bergueda",
+   "nombre": "la Nou de Berguedà",
+   "km_linea_recta": 11.1
+  },
+  {
+   "slug": "la-quar",
+   "nombre": "la Quar",
+   "km_linea_recta": 11.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sant Jaume de Frontanyà | El más pequeño merece lo mejor",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 28
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

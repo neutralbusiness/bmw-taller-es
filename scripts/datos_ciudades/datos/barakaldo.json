@@ -1,0 +1,197 @@
+{
+ "slug": "barakaldo",
+ "nombre": "Barakaldo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Bizkaia",
+ "ccaa": "País Vasco",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": null,
+ "codigo_ine": "48013",
+ "coordenadas": {
+  "lat": 43.29639,
+  "lng": -2.98813,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 48013"
+ },
+ "poblacion": {
+  "valor": 102986,
+  "anio": 2025,
+  "valor_hace_10": 100228,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 24.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 48013"
+ },
+ "densidad_hab_km2": 4153,
+ "altitud_m": {
+  "valor": 31,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV-IAT Trapagaran",
+   "operador": null,
+   "direccion": "Barrio El Juncal",
+   "municipio": "Valle de Trápaga-Trapagaran",
+   "fuente": "OpenStreetMap (way/109873953) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 2.8,
+   "km_linea": 2.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Enekuri Motor",
+  "razon_social": "Enekuri Motor, S.L.",
+  "direccion": "Ctra.Bilbao-Asúa, 0-1 Pol.Ind.",
+  "cp": "48950",
+  "municipio": "Erandio",
+  "web": "https://enekurimotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 6.1,
+  "km_linea": 2.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "BI-30",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "BI-628",
+   "tipo": "primary",
+   "km": 0.9
+  },
+  {
+   "ref": "BI-728",
+   "tipo": "primary",
+   "km": 0.9
+  },
+  {
+   "ref": "BI-711",
+   "tipo": "primary",
+   "km": 1.1
+  },
+  {
+   "ref": "BI-744",
+   "tipo": "primary",
+   "km": 1.1
+  },
+  {
+   "ref": "BI-10",
+   "tipo": "motorway",
+   "km": 1.3
+  },
+  {
+   "ref": "BI-735",
+   "tipo": "primary",
+   "km": 1.3
+  },
+  {
+   "ref": "A-8",
+   "tipo": "motorway",
+   "km": 1.5
+  },
+  {
+   "ref": "BI-637",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "BI-747",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "AP-8",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "BI-11",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "BI-738",
+   "tipo": "primary",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 3.2,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 55.9
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 68.6
+  },
+  {
+   "slug": "san-sebastian",
+   "nombre": "Donostia / San Sebastián",
+   "km_linea_recta": 82.0
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 102.2
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 121.1
+  },
+  {
+   "slug": "pamplona",
+   "nombre": "Pamplona",
+   "km_linea_recta": 121.6
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 186.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Barakaldo | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 100435
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

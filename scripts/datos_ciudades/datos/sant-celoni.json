@@ -1,0 +1,159 @@
+{
+ "slug": "sant-celoni",
+ "nombre": "Sant Celoni",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08202",
+ "coordenadas": {
+  "lat": 41.68921,
+  "lng": 2.48965,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08202"
+ },
+ "poblacion": {
+  "valor": 18977,
+  "anio": 2025,
+  "valor_hace_10": 17317,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 65.23,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082021)"
+ },
+ "densidad_hab_km2": 291,
+ "altitud_m": {
+  "valor": 152,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082021)"
+ },
+ "turismos": {
+  "valor": 8710,
+  "anio": "2024",
+  "por_1000_hab": 459,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 60.4,
+  "km_linea_recta": 50.8,
+  "vias_de_la_ruta": [
+   "AP-7",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Sant Celoni (B26)",
+    "operador": "TuV-SUD",
+    "direccion": "Carretera Gualba, 41-43",
+    "municipio": "Sant Celoni",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Mataró)",
+  "razon_social": "Pruna Motor, S.L. Mataró",
+  "direccion": "Via Sergia, 2",
+  "cp": "08302",
+  "municipio": "Mataró",
+  "web": "https://prunamotor-mataro.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 30.7,
+  "km_linea": 19.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-35",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 1.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 14.9,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "santa-maria-de-palautordera",
+   "nombre": "Santa Maria de Palautordera",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "campins",
+   "nombre": "Campins",
+   "km_linea_recta": 4.1
+  },
+  {
+   "slug": "vallgorguina",
+   "nombre": "Vallgorguina",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "vilalba-sasserra",
+   "nombre": "Vilalba Sasserra",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "sant-esteve-de-palautordera",
+   "nombre": "Sant Esteve de Palautordera",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "gualba",
+   "nombre": "Gualba",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "fogars-de-montclus",
+   "nombre": "Fogars de Montclús",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "sant-pere-de-vilamajor",
+   "nombre": "Sant Pere de Vilamajor",
+   "km_linea_recta": 8.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en Sant Celoni — Revisión y reparación con garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 16860
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

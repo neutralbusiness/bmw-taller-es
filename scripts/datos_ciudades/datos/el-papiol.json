@@ -1,0 +1,173 @@
+{
+ "slug": "el-papiol",
+ "nombre": "el Papiol",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Llobregat",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08158",
+ "coordenadas": {
+  "lat": 41.44328,
+  "lng": 2.01406,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08158"
+ },
+ "poblacion": {
+  "valor": 4404,
+  "anio": 2025,
+  "valor_hace_10": 4071,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 8.95,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081580)"
+ },
+ "densidad_hab_km2": 492,
+ "altitud_m": {
+  "valor": 135,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081580)"
+ },
+ "turismos": {
+  "valor": 2290,
+  "anio": "2024",
+  "por_1000_hab": 520,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 12.9,
+  "km_linea_recta": 9.2,
+  "vias_de_la_ruta": [
+   "C-1413a",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 10.7,
+   "km_linea": 5.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Cugat del Vallés)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Vallespir , 19",
+  "cp": "08173",
+  "municipio": "Sant Cugat del Vallès",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 14.1,
+  "km_linea": 6.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-23",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 1.4
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 1.9
+  },
+  {
+   "ref": "N-IIa",
+   "tipo": "primary",
+   "km": 2.0
+  },
+  {
+   "ref": "B-30",
+   "tipo": "trunk",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "palleja",
+   "nombre": "Pallejà",
+   "km_linea_recta": 2.7
+  },
+  {
+   "slug": "molins-de-rei",
+   "nombre": "Molins de Rei",
+   "km_linea_recta": 3.0
+  },
+  {
+   "slug": "sant-andreu-de-la-barca",
+   "nombre": "Sant Andreu de la Barca",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "castellbisbal",
+   "nombre": "Castellbisbal",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "sant-vicenc-dels-horts",
+   "nombre": "Sant Vicenç dels Horts",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "la-palma-de-cervello",
+   "nombre": "la Palma de Cervelló",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "rubi",
+   "nombre": "Rubí",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "sant-cugat-del-valles",
+   "nombre": "Sant Cugat del Vallès",
+   "km_linea_recta": 6.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en el Papiol — Revisión y reparación con garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 4014
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": false
+ }
+}

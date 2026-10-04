@@ -3,7 +3,7 @@
   "name": "Guadalajara",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 93470,
+  "population": 92834,
   "lat": 40.62862,
   "lng": -3.16185,
   "metaTitle": "Taller BMW en Guadalajara | Diagnosis y reparación especializada",
@@ -176,5 +176,106 @@
     "CM-101 hacia Cabanillas del Campo",
     "GU-30 ronda de circunvalación",
     "N-320 desde Cuenca"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Guadalajara: concesionario BMW en la ciudad, taller especialista en Alcobendas",
+    "entradilla": "Mucha gente que busca «taller BMW Guadalajara» quiere en realidad el concesionario. Te decimos dónde está cada cosa y qué supone traer el coche desde la capital alcarreña hasta Alcobendas por la A-2.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 52.5
+    },
+    "secciones": [
+      {
+        "id": "concesionario-o-taller",
+        "h2": "Si lo que buscas es el concesionario",
+        "parrafos": [
+          "El concesionario oficial BMW de la ciudad es AutoPremier, en el Paseo de la Estación 23, a unos 2,5 km del centro según el localizador de bmw.es. Allí se hacen las campañas de revisión del fabricante y las reparaciones en garantía que dependen de BMW.",
+          "Nosotros no somos ese concesionario ni tenemos taller en Guadalajara. Somos un taller independiente especializado en BMW con nave propia en Alcobendas. Te lo aclaramos de entrada porque mucha gente llega a esta página buscando el concesionario, y no queremos que llames pensando que hablas con otro."
+        ]
+      },
+      {
+        "id": "a2-r2",
+        "h2": "52 kilómetros por la A-2: cuándo compensa el viaje",
+        "parrafos": [
+          "La ruta desde el centro de Guadalajara hasta la calle Valgrande de Alcobendas va por la A-2, enlaza con la R-2 y entra por la M-50: 52,5 km por carretera. La recogida y entrega del coche que ofrece el taller solo cubre el área metropolitana de Madrid, de modo que desde aquí cuenta con traerlo tú.",
+          "Por eso tiene más sentido para trabajos en los que la especialización marca la diferencia —un ruido de cadena en un N47, un fallo del sistema SCR con la cuenta atrás de AdBlue en marcha, una avería eléctrica que nadie ha conseguido localizar— que para un cambio de aceite. Llama antes con modelo, año y kilometraje: muchas veces se puede orientar el problema por teléfono y decidir si merece la pena el desplazamiento."
+        ]
+      },
+      {
+        "id": "itv-guadalajara",
+        "h2": "La ITV, en la calle Trafalgar",
+        "parrafos": [
+          "La estación de ITV de la ciudad, de Itevelesa, está en la calle Trafalgar. Si vas a bajar el coche a Alcobendas por otro motivo y la inspección está cerca, pide que te hagan la pre-ITV en la misma visita."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Guadalajara?",
+        "a": "No. El concesionario es AutoPremier, en el Paseo de la Estación 23. Somos Dasercars, taller independiente especializado en BMW, en Alcobendas."
+      },
+      {
+        "q": "¿Cuánto hay desde Guadalajara hasta vuestro taller?",
+        "a": "52,5 km por carretera desde el centro, por la A-2, la R-2 y la M-50."
+      },
+      {
+        "q": "¿Pierdo la garantía si hago el mantenimiento con vosotros?",
+        "a": "No, si se respetan los intervalos y especificaciones del plan de mantenimiento: lo ampara el Reglamento (UE) 461/2010."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "92.834 habitantes (+11,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "718 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Concesionario oficial BMW",
+        "valor": "AutoPremier, Paseo de la Estación 23 · 2,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Distancia al taller (Alcobendas)",
+        "valor": "52,5 km por carretera",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

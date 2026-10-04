@@ -3,7 +3,7 @@
   "name": "Torrejón de Ardoz",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 118162,
+  "population": 143526,
   "lat": 40.45535,
   "lng": -3.46973,
   "metaTitle": "Taller BMW en Torrejón de Ardoz — Especialistas en Distribución",
@@ -200,5 +200,123 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrejón de Ardoz: dos ITV en el municipio y taller BMW en Alcobendas, a 27 km",
+    "entradilla": "Torrejón ha ganado más de 16.000 vecinos en diez años. Para el dueño de un BMW o un MINI, lo útil es saber dónde pasar la ITV dentro del municipio y qué ruta lleva al taller de Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 27.0
+    },
+    "secciones": [
+      {
+        "id": "dos-itv",
+        "h2": "Dos estaciones de ITV sin salir de Torrejón",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid recoge dos estaciones de ITV en el municipio: la de Itversia Gestión (estación 2861), en la calle Jacinto Benavente 6, en el polígono Casablanca Este, y la de ITV Maco (estación 2865), en la avenida de la Constitución 3.",
+          "Tener dos estaciones en el municipio da margen para elegir día y hora sin salir de Torrejón. Y si el coche va antes al taller, la pre-ITV y la inspección pueden quedar en la misma semana."
+        ]
+      },
+      {
+        "id": "ruta-r2",
+        "h2": "Hacia Alcobendas por la M-50 y la R-2",
+        "parrafos": [
+          "La ruta desde el centro de Torrejón hasta la calle Valgrande de Alcobendas usa la M-108, la M-50 y la R-2: 27 km por carretera, 17,6 en línea recta. El taller trabaja de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00.",
+          "Para trabajos de más de un día existe vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad. Pregunta al reservar si tu dirección entra."
+        ]
+      },
+      {
+        "id": "oficial-alcala",
+        "h2": "El servicio oficial más cercano está en Alcalá",
+        "parrafos": [
+          "El punto oficial BMW más próximo por carretera, según bmw.es, es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 12,7 km. Si te llega una carta de BMW para una campaña de revisión, esa cita es con ellos; para todo lo demás, la elección de taller es tuya."
+        ]
+      },
+      {
+        "id": "torrejon-crece",
+        "h2": "143.526 vecinos, un 13,1 % más que en 2015",
+        "parrafos": [
+          "Torrejón pasó de 126.934 habitantes en 2015 a 143.526 en 2025. En 2025 tenía 69.412 turismos censados según la Comunidad de Madrid a partir de la DGT, 484 por cada 1.000 habitantes. Con la A-2 a menos de tres kilómetros del centro, es fácil que un diésel haga de vez en cuando el recorrido a régimen constante que necesita para regenerar el filtro de partículas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV hay en Torrejón de Ardoz?",
+        "a": "Dos, según la Comunidad de Madrid: Itversia (calle Jacinto Benavente 6, polígono Casablanca Este) e ITV Maco (avenida de la Constitución 3)."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 27 km por carretera, en la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, MINI comparte electrónica y motores con BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "143.526 habitantes (+13,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "69.412 · 484 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "2 estaciones",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 12,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 27 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

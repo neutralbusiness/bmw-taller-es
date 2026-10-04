@@ -1,0 +1,148 @@
+{
+ "slug": "villamantilla",
+ "nombre": "Villamantilla",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28175",
+ "coordenadas": {
+  "lat": 40.3411,
+  "lng": -4.13989,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28175"
+ },
+ "poblacion": {
+  "valor": 1660,
+  "anio": 2025,
+  "valor_hace_10": 1292,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 28.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 23.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28175"
+ },
+ "densidad_hab_km2": 70,
+ "altitud_m": {
+  "valor": 564,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 889,
+  "anio": "2025",
+  "por_1000_hab": 536,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 65.3,
+  "km_linea_recta": 47.9,
+  "vias_de_la_ruta": [
+   "M-530",
+   "M-501",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2845)",
+   "operador": "TÜV Rheinland Ibérica, S.A",
+   "direccion": "Pº de Alparrache, 26. Pol. Ind. El Alparrache",
+   "municipio": "Navalcarnero",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 19.3,
+   "km_linea": 14.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Alcorcón)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Av. S.Martín de Valdeiglesias 14-16",
+  "cp": "28922",
+  "municipio": "Alcorcón",
+  "web": "https://vehinter-alcorcon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 35.5,
+  "km_linea": 26.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "villamanta",
+   "nombre": "Villamanta",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "villanueva-de-perales",
+   "nombre": "Villanueva de Perales",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "colmenar-del-arroyo",
+   "nombre": "Colmenar del Arroyo",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "sevilla-la-nueva",
+   "nombre": "Sevilla la Nueva",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "quijorna",
+   "nombre": "Quijorna",
+   "km_linea_recta": 10.7
+  },
+  {
+   "slug": "navalagamella",
+   "nombre": "Navalagamella",
+   "km_linea_recta": 11.0
+  },
+  {
+   "slug": "navalcarnero",
+   "nombre": "Navalcarnero",
+   "km_linea_recta": 12.3
+  },
+  {
+   "slug": "brunete",
+   "nombre": "Brunete",
+   "km_linea_recta": 13.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Villamantilla | Diagnosis y mantenimiento",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1420
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

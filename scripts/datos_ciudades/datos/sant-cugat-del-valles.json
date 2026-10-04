@@ -1,0 +1,163 @@
+{
+ "slug": "sant-cugat-del-valles",
+ "nombre": "Sant Cugat del Vallès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Occidental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08205",
+ "coordenadas": {
+  "lat": 41.47063,
+  "lng": 2.08611,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08205"
+ },
+ "poblacion": {
+  "valor": 97983,
+  "anio": 2025,
+  "valor_hace_10": 87830,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 48.23,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082055)"
+ },
+ "densidad_hab_km2": 2032,
+ "altitud_m": {
+  "valor": 124,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082055)"
+ },
+ "turismos": {
+  "valor": 40087,
+  "anio": "2024",
+  "por_1000_hab": 409,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 22.8,
+  "km_linea_recta": 11.7,
+  "vias_de_la_ruta": [
+   "C-16",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Sant Cugat (B22)",
+    "operador": "TuV-RHEINLAND",
+    "direccion": "c. Amposta, 2: Pol. Ind. Sant Mamet",
+    "municipio": "Sant Cugat del Vallès",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Cugat del Vallés)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Vallespir , 19",
+  "cp": "08173",
+  "municipio": "Sant Cugat del Vallès",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 2.5,
+  "km_linea": 1.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-16",
+   "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.0
+  },
+  {
+   "ref": "B-30",
+   "tipo": "trunk",
+   "km": 2.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 14.5,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "rubi",
+   "nombre": "Rubí",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "badia-del-valles",
+   "nombre": "Badia del Vallès",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "cerdanyola-del-valles",
+   "nombre": "Cerdanyola del Vallès",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "barbera-del-valles",
+   "nombre": "Barberà del Vallès",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "ripollet",
+   "nombre": "Ripollet",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "el-papiol",
+   "nombre": "el Papiol",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "sant-quirze-del-valles",
+   "nombre": "Sant Quirze del Vallès",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "montcada-i-reixac",
+   "nombre": "Montcada i Reixac",
+   "km_linea_recta": 8.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Sant Cugat del Vallès — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 79253
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "slug": "calafell",
+ "nombre": "Calafell",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Tarragona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "43037",
+ "coordenadas": {
+  "lat": 41.19997,
+  "lng": 1.5683,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 43037"
+ },
+ "poblacion": {
+  "valor": 32624,
+  "anio": 2025,
+  "valor_hace_10": 24256,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 34.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 20.38,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=430379)"
+ },
+ "densidad_hab_km2": 1601,
+ "altitud_m": {
+  "valor": 67,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=430379)"
+ },
+ "turismos": {
+  "valor": 14326,
+  "anio": "2024",
+  "por_1000_hab": 439,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 55.3,
+  "km_linea_recta": 44.9,
+  "vias_de_la_ruta": [
+   "C-32",
+   "B-25"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Baix Penedès (T07)",
+   "operador": "ITEVELESA",
+   "direccion": "Sector 8, C/V3, Parcel·les 21-22-23: Polígon Industrial Els Massets",
+   "municipio": "Bellvei",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 5.3,
+   "km_linea": 3.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vilanova)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Avinguda d' Eduard Toldrà, 69",
+  "cp": "08800",
+  "municipio": "Vilanova i la Geltrú",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 19.7,
+  "km_linea": 14.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-31",
+   "tipo": "primary",
+   "km": 0.4
+  },
+  {
+   "ref": "C-32",
+   "tipo": "motorway",
+   "km": 0.8
+  },
+  {
+   "ref": "N-340",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 1.2,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "el-vendrell",
+   "nombre": "El Vendrell",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "bellvei",
+   "nombre": "Bellvei",
+   "km_linea_recta": 4.1
+  },
+  {
+   "slug": "cunit",
+   "nombre": "Cunit",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "santa-oliva",
+   "nombre": "Santa Oliva",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "albinyana",
+   "nombre": "Albinyana",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "banyeres-del-penedes",
+   "nombre": "Banyeres del Penedès",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "cubelles",
+   "nombre": "Cubelles",
+   "km_linea_recta": 8.8
+  },
+  {
+   "slug": "l-arboc",
+   "nombre": "l'Arboç",
+   "km_linea_recta": 9.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Calafell | Costa Dorada, Baix Penedès",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 24265
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

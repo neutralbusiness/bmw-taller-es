@@ -1,0 +1,165 @@
+{
+ "slug": "morata-de-tajuna",
+ "nombre": "Morata de Tajuña",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28091",
+ "coordenadas": {
+  "lat": 40.23372,
+  "lng": -3.45405,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28091"
+ },
+ "poblacion": {
+  "valor": 8397,
+  "anio": 2025,
+  "valor_hace_10": 7453,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 12.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 45.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28091"
+ },
+ "densidad_hab_km2": 186,
+ "altitud_m": {
+  "valor": 649,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 4083,
+  "anio": "2025",
+  "por_1000_hab": 486,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 51.5,
+  "km_linea_recta": 38.1,
+  "vias_de_la_ruta": [
+   "M-313",
+   "A-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV General de Servicios ITV, S.A (estación 2852)",
+   "operador": "General de Servicios ITV, S.A",
+   "direccion": "Camino Puente Viejo, s/n",
+   "municipio": "Arganda Del Rey",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 11.9,
+   "km_linea": 7.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
+  "municipio": "Madrid",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 29.1,
+  "km_linea": 22.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-302",
+   "tipo": "primary",
+   "km": 0.6
+  },
+  {
+   "ref": "M-313",
+   "tipo": "primary",
+   "km": 1.5
+  },
+  {
+   "ref": "M-311",
+   "tipo": "primary",
+   "km": 1.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "arganda",
+   "nombre": "Arganda",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "perales-de-tajuna",
+   "nombre": "Perales de Tajuña",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "chinchon",
+   "nombre": "Chinchón",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "valdelaguna",
+   "nombre": "Valdelaguna",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "san-martin-de-la-vega",
+   "nombre": "San Martín de la Vega",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "rivas-vaciamadrid",
+   "nombre": "Rivas-Vaciamadrid",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "campo-real",
+   "nombre": "Campo Real",
+   "km_linea_recta": 11.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Morata de Tajuña | Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 7515
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

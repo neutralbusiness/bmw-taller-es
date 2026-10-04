@@ -1,0 +1,151 @@
+{
+ "slug": "vilanova-de-sau",
+ "nombre": "Vilanova de Sau",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Osona",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08303",
+ "coordenadas": {
+  "lat": 41.945,
+  "lng": 2.4234,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08303"
+ },
+ "poblacion": {
+  "valor": 325,
+  "anio": 2025,
+  "valor_hace_10": 312,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 4.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 58.84,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=083036)"
+ },
+ "densidad_hab_km2": 6,
+ "altitud_m": {
+  "valor": 558,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=083036)"
+ },
+ "turismos": {
+  "valor": 210,
+  "anio": "2024",
+  "por_1000_hab": 646,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 106.0,
+  "km_linea_recta": 71.1,
+  "vias_de_la_ruta": [
+   "N-141d",
+   "C-25",
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Osona (B04)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Carrer Sant Llorenç Desmunts 22",
+   "municipio": "Vic",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 20.7,
+   "km_linea": 11.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 21.2,
+  "km_linea": 14.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-sadurni-d-osormort",
+   "nombre": "Sant Sadurní d'Osormort",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "tavernoles",
+   "nombre": "Tavèrnoles",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "tavertet",
+   "nombre": "Tavertet",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "rupit-i-pruit",
+   "nombre": "Rupit i Pruit",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "sant-julia-de-vilatorta",
+   "nombre": "Sant Julià de Vilatorta",
+   "km_linea_recta": 8.8
+  },
+  {
+   "slug": "folgueroles",
+   "nombre": "Folgueroles",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "les-masies-de-roda",
+   "nombre": "les Masies de Roda",
+   "km_linea_recta": 9.5
+  },
+  {
+   "slug": "roda-de-ter",
+   "nombre": "Roda de Ter",
+   "km_linea_recta": 10.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Vilanova de Sau | Guilleries y Pantà de Sau",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 328
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

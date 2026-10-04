@@ -1,0 +1,157 @@
+{
+ "slug": "montmaneu",
+ "nombre": "Montmaneu",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08133",
+ "coordenadas": {
+  "lat": 41.6043,
+  "lng": 1.4045,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08133"
+ },
+ "poblacion": {
+  "valor": 181,
+  "anio": 2025,
+  "valor_hace_10": 156,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 16.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 13.62,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081332)"
+ },
+ "densidad_hab_km2": 13,
+ "altitud_m": {
+  "valor": 709,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081332)"
+ },
+ "turismos": {
+  "valor": 95,
+  "anio": "2024",
+  "por_1000_hab": 525,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 76.3,
+  "km_linea_recta": 60.4,
+  "vias_de_la_ruta": [
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Granyanella (L05)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 512,7 S/N",
+   "municipio": "Granyanella",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 23.1,
+   "km_linea": 18.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Unicars Ponent (Tárrega)",
+  "razon_social": "Unicars Ponent, S.L.",
+  "direccion": "Carrer de la Conca de Barberà,Nave6",
+  "cp": "25300",
+  "municipio": "Tárrega",
+  "web": "http://red.bmw.es/unicars/es_ES/home.html",
+  "solo_taller": false,
+  "km_carretera": 26.7,
+  "km_linea": 21.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.0
+  },
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "argencola",
+   "nombre": "Argençola",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "veciana",
+   "nombre": "Veciana",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "jorba",
+   "nombre": "Jorba",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "copons",
+   "nombre": "Copons",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "sant-marti-de-tous",
+   "nombre": "Sant Martí de Tous",
+   "km_linea_recta": 10.6
+  },
+  {
+   "slug": "bellprat",
+   "nombre": "Bellprat",
+   "km_linea_recta": 11.0
+  },
+  {
+   "slug": "pujalt",
+   "nombre": "Pujalt",
+   "km_linea_recta": 12.1
+  },
+  {
+   "slug": "sant-marti-sesgueioles",
+   "nombre": "Sant Martí Sesgueioles",
+   "km_linea_recta": 13.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Montmaneu | Corredor A-2, frontera Lleida",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 187
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

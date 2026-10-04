@@ -1,0 +1,156 @@
+{
+ "slug": "cardona",
+ "nombre": "Cardona",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08047",
+ "coordenadas": {
+  "lat": 41.91301,
+  "lng": 1.67481,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08047"
+ },
+ "poblacion": {
+  "valor": 4553,
+  "anio": 2025,
+  "valor_hace_10": 4898,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -7.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 66.7,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080478)"
+ },
+ "densidad_hab_km2": 68,
+ "altitud_m": {
+  "valor": 507,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080478)"
+ },
+ "turismos": {
+  "valor": 2583,
+  "anio": "2024",
+  "por_1000_hab": 567,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 92.5,
+  "km_linea_recta": 68.5,
+  "vias_de_la_ruta": [
+   "C-55",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Solsona (L06)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Plaça de les Filadores, 5: Pol. Ind. \\\\\\\"Els Ametllers\\\\\\\"",
+   "municipio": "Solsona",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 18.6,
+   "km_linea": 13.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 33.9,
+  "km_linea": 23.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-55",
+   "tipo": "primary",
+   "km": 0.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-mateu-de-bages",
+   "nombre": "Sant Mateu de Bages",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "montmajor",
+   "nombre": "Montmajor",
+   "km_linea_recta": 9.5
+  },
+  {
+   "slug": "viver-i-serrateix",
+   "nombre": "Viver i Serrateix",
+   "km_linea_recta": 11.0
+  },
+  {
+   "slug": "suria",
+   "nombre": "Súria",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "montclar",
+   "nombre": "Montclar",
+   "km_linea_recta": 13.7
+  },
+  {
+   "slug": "castellnou-de-bages",
+   "nombre": "Castellnou de Bages",
+   "km_linea_recta": 13.9
+  },
+  {
+   "slug": "callus",
+   "nombre": "Callús",
+   "km_linea_recta": 15.6
+  },
+  {
+   "slug": "l-espunyola",
+   "nombre": "l'Espunyola",
+   "km_linea_recta": 15.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Cardona — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 5064
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

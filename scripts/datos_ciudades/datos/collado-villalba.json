@@ -1,0 +1,200 @@
+{
+ "slug": "collado-villalba",
+ "nombre": "Collado-Villalba",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28047",
+ "coordenadas": {
+  "lat": 40.63506,
+  "lng": -4.00486,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28047"
+ },
+ "poblacion": {
+  "valor": 67274,
+  "anio": 2025,
+  "valor_hace_10": 62056,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 25.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28047"
+ },
+ "densidad_hab_km2": 2680,
+ "altitud_m": {
+  "valor": 883,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 34592,
+  "anio": "2025",
+  "por_1000_hab": 514,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 49.4,
+  "km_linea_recta": 32.3,
+  "vias_de_la_ruta": [
+   "A-6",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
+    "operador": "TÜV SÜD ATISAE",
+    "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
+    "municipio": "Collado Villalba",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2832)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "A-6, km 37,6",
+    "municipio": "Collado Villalba",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV P-29 Collado Villalba, S.L (estación 2883)",
+    "operador": "ITV P-29 Collado Villalba, S.L",
+    "direccion": "c/ Buril, 10. Pol. Ind. P-29",
+    "municipio": "Collado Villalba",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (Las Rozas)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "A6-Km. 23,100",
+  "cp": "28230",
+  "municipio": "Las Rozas",
+  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 17.8,
+  "km_linea": 15.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-6",
+   "tipo": "motorway",
+   "km": 0.2
+  },
+  {
+   "ref": "AP-6",
+   "tipo": "motorway",
+   "km": 0.2
+  },
+  {
+   "ref": "M-601",
+   "tipo": "trunk",
+   "km": 0.4
+  },
+  {
+   "ref": "M-608",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "M-619",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "M-510",
+   "tipo": "primary",
+   "km": 2.1
+  },
+  {
+   "ref": "N-6",
+   "tipo": "trunk",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "alpedrete",
+   "nombre": "Alpedrete",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "moralzarzal",
+   "nombre": "Moralzarzal",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "galapagar",
+   "nombre": "Galapagar",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "collado-mediano",
+   "nombre": "Collado Mediano",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "hoyo-de-manzanares",
+   "nombre": "Hoyo de Manzanares",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "guadarrama",
+   "nombre": "Guadarrama",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "torrelodones",
+   "nombre": "Torrelodones",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "el-boalo",
+   "nombre": "El Boalo",
+   "km_linea_recta": 10.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Collado Villalba | Especialistas en la Sierra de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 63074
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

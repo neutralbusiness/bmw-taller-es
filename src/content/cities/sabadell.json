@@ -3,7 +3,7 @@
   "name": "Sabadell",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 211734,
+  "population": 225368,
   "lat": 41.54329,
   "lng": 2.10942,
   "metaTitle": "Taller BMW en Sabadell — Especialistas N47 y Diagnóstico ISTA",
@@ -191,5 +191,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sabadell: servicio autorizado BMW en la ciudad y especialista independiente por la AP-7",
+    "entradilla": "Sabadell tiene taller autorizado BMW propio y estación de ITV en el polígono Can Roqueta. Nuestro taller está a 32 km, en Sant Joan Despí. Qué ofrece cada opción, sin rodeos.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 32.0
+    },
+    "secciones": [
+      {
+        "id": "sitjas",
+        "h2": "Sitjas, el taller autorizado de la calle Quintana",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto de servicio oficial de la ciudad es Sitjas Motor, un taller autorizado BMW en la calle Quintana 64, a 1,7 km del centro. Para una campaña de revisión del fabricante o una reparación cubierta por la garantía de BMW, es el sitio.",
+          "El mantenimiento periódico y las reparaciones fuera de garantía puedes hacerlos en un taller independiente sin perder la garantía del fabricante, siempre que se respeten los intervalos y especificaciones (Reglamento UE 461/2010). Ahí es donde encajamos nosotros."
+        ]
+      },
+      {
+        "id": "ap7-b23",
+        "h2": "32 kilómetros por la AP-7 y la B-23",
+        "parrafos": [
+          "La ruta desde el centro de Sabadell hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 32 km por carretera, 20,1 en línea recta. Sabadell no forma parte del Área Metropolitana de Barcelona, y la recogida del taller, que cubre solo el área metropolitana, no llega aquí: cuenta con traer el coche.",
+          "Para que el viaje compense, llama antes con modelo, año, kilometraje y el síntoma. Con el bastidor se comprueba la referencia exacta del recambio y se puede tener la pieza el día que entra el coche."
+        ]
+      },
+      {
+        "id": "itv-can-roqueta",
+        "h2": "La ITV de Sabadell, en Can Roqueta",
+        "parrafos": [
+          "La estación de Sabadell (B24) del registro de la Generalitat está en el polígono Can Roqueta, dentro del término municipal. Si el coche tiene más de diez años, la inspección es anual; entre los cuatro y los diez, cada dos años."
+        ]
+      },
+      {
+        "id": "sabadell-en-cifras",
+        "h2": "225.368 vecinos y 95.235 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Sabadell 225.368 habitantes, 17.554 más que en 2015 (un 8,4 %). El parque de 2024, según Idescat a partir de la DGT, era de 95.235 turismos: 423 por cada 1.000 habitantes. La C-58 y la N-150 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el taller BMW de Sabadell?",
+        "a": "No. El taller autorizado BMW de Sabadell es Sitjas Motor, en la calle Quintana 64. Nosotros somos Dasercars, taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Sabadell?",
+        "a": "En la estación B24 del polígono Can Roqueta, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Recogéis el coche en Sabadell?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona, y Sabadell queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "225.368 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081878&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "95.235 · 423 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081878&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sabadell (B24), polígono Can Roqueta",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Sitjas Motor, c. Quintana 64 · 1,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 32 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081878&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

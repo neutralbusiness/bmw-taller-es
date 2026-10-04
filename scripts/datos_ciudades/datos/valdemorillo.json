@@ -1,0 +1,159 @@
+{
+ "slug": "valdemorillo",
+ "nombre": "Valdemorillo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28160",
+ "coordenadas": {
+  "lat": 40.50064,
+  "lng": -4.0671,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28160"
+ },
+ "poblacion": {
+  "valor": 14420,
+  "anio": 2025,
+  "valor_hace_10": 12173,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 18.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 93.4,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28160"
+ },
+ "densidad_hab_km2": 154,
+ "altitud_m": {
+  "valor": 810,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 8928,
+  "anio": "2025",
+  "por_1000_hab": 619,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 50.0,
+  "km_linea_recta": 36.4,
+  "vias_de_la_ruta": [
+   "M-600",
+   "M-503",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Entidad IDV Madrid, S.L (estación 2862)",
+   "operador": "Entidad IDV Madrid, S.L",
+   "direccion": "C/ De la Fresa, 12. Pol. Ind. El Carralero",
+   "municipio": "Majadahonda",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 16.6,
+   "km_linea": 12.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (El Carralero)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "C/. Fresa, 13",
+  "cp": "28220",
+  "municipio": "Majadahonda",
+  "web": "https://movilnorte.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 21.3,
+  "km_linea": 17.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-510",
+   "tipo": "primary",
+   "km": 0.4
+  },
+  {
+   "ref": "M-600",
+   "tipo": "trunk",
+   "km": 0.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "colmenarejo",
+   "nombre": "Colmenarejo",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "villanueva-de-la-canada",
+   "nombre": "Villanueva de la Cañada",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "navalagamella",
+   "nombre": "Navalagamella",
+   "km_linea_recta": 8.7
+  },
+  {
+   "slug": "villanueva-del-pardillo",
+   "nombre": "Villanueva del Pardillo",
+   "km_linea_recta": 8.8
+  },
+  {
+   "slug": "quijorna",
+   "nombre": "Quijorna",
+   "km_linea_recta": 9.5
+  },
+  {
+   "slug": "fresnedillas-de-la-oliva",
+   "nombre": "Fresnedillas de la Oliva",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "zarzalejo",
+   "nombre": "Zarzalejo",
+   "km_linea_recta": 10.1
+  },
+  {
+   "slug": "galapagar",
+   "nombre": "Galapagar",
+   "km_linea_recta": 10.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Valdemorillo | Diagnosis y mecánica oficial",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 11045
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

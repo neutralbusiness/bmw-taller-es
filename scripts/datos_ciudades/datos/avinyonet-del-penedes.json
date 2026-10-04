@@ -1,0 +1,154 @@
+{
+ "slug": "avinyonet-del-penedes",
+ "nombre": "Avinyonet del Penedès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Alt Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08013",
+ "coordenadas": {
+  "lat": 41.35988,
+  "lng": 1.7782,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08013"
+ },
+ "poblacion": {
+  "valor": 1782,
+  "anio": 2025,
+  "valor_hace_10": 1652,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 29.13,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080137)"
+ },
+ "densidad_hab_km2": 61,
+ "altitud_m": {
+  "valor": 280,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080137)"
+ },
+ "turismos": {
+  "valor": 1199,
+  "anio": "2024",
+  "por_1000_hab": 673,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 34.6,
+  "km_linea_recta": 23.3,
+  "vias_de_la_ruta": [
+   "N-340",
+   "B-24",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Olèrdola (B09)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda HOSTAL NOU S/N",
+   "municipio": "Olèrdola",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 4.8,
+   "km_linea": 4.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vilanova)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Avinguda d' Eduard Toldrà, 69",
+  "cp": "08800",
+  "municipio": "Vilanova i la Geltrú",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 21.8,
+  "km_linea": 15.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-340",
+   "tipo": "primary",
+   "km": 0.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-cugat-sesgarrigues",
+   "nombre": "Sant Cugat Sesgarrigues",
+   "km_linea_recta": 1.9
+  },
+  {
+   "slug": "subirats",
+   "nombre": "Subirats",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "la-granada",
+   "nombre": "la Granada",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "olesa-de-bonesvalls",
+   "nombre": "Olesa de Bonesvalls",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "santa-fe-del-penedes",
+   "nombre": "Santa Fe del Penedès",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "olivella",
+   "nombre": "Olivella",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "vilafranca-del-penedes",
+   "nombre": "Vilafranca del Penedès",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "olerdola",
+   "nombre": "Olèrdola",
+   "km_linea_recta": 7.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Avinyonet del Penedès | Alt Penedès",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1716
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

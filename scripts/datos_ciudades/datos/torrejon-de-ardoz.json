@@ -1,0 +1,177 @@
+{
+ "slug": "torrejon-de-ardoz",
+ "nombre": "Torrejón de Ardoz",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28148",
+ "coordenadas": {
+  "lat": 40.45535,
+  "lng": -3.46973,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28148"
+ },
+ "poblacion": {
+  "valor": 143526,
+  "anio": 2025,
+  "valor_hace_10": 126934,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 13.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 32.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28148"
+ },
+ "densidad_hab_km2": 4457,
+ "altitud_m": {
+  "valor": 589,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 69412,
+  "anio": "2025",
+  "por_1000_hab": 484,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 27.0,
+  "km_linea_recta": 17.6,
+  "vias_de_la_ruta": [
+   "M-108",
+   "M-50",
+   "R-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Itversia Gestión, S.L (estación 2861)",
+    "operador": "Itversia Gestión, S.L",
+    "direccion": "C/ Jacinto Benavente, 6. Pol.Ind. Casablanca Este",
+    "municipio": "Torrejón De Ardoz",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV Maco, S.L (estación 2865)",
+    "operador": "ITV Maco, S.L",
+    "direccion": "Avda.  de la Constitución, 3",
+    "municipio": "Torrejón De Ardoz",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (P.I.La Garena)",
+  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Argentina, 7",
+  "cp": "28806",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 12.7,
+  "km_linea": 7.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 0.3
+  },
+  {
+   "ref": "M-206",
+   "tipo": "primary",
+   "km": 0.7
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 1.3
+  },
+  {
+   "ref": "M-108",
+   "tipo": "primary",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "ajalvir",
+   "nombre": "Ajalvir",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "torres-de-la-alameda",
+   "nombre": "Torres de la Alameda",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "loeches",
+   "nombre": "Loeches",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "alcala-de-henares",
+   "nombre": "Alcalá de Henares",
+   "km_linea_recta": 9.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Torrejón de Ardoz — Especialistas en Distribución",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 143526
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

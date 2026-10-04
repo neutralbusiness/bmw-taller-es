@@ -1,0 +1,171 @@
+{
+ "slug": "badajoz",
+ "nombre": "Badajoz",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Badajoz",
+ "ccaa": "Extremadura",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "06015",
+ "coordenadas": {
+  "lat": 38.87789,
+  "lng": -6.97061,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 06015"
+ },
+ "poblacion": {
+  "valor": 150209,
+  "anio": 2025,
+  "valor_hace_10": 149892,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 1432.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 06015"
+ },
+ "densidad_hab_km2": 105,
+ "altitud_m": {
+  "valor": 195,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Badajoz - El Nevero",
+    "operador": null,
+    "direccion": "Av Miguel de Fabra 4",
+    "municipio": "Badajoz",
+    "fuente": "OpenStreetMap (way/820911489) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Ceres (Mandel Motor Badajoz)",
+  "razon_social": "Ceres Motor, S.L.",
+  "direccion": "Autovía Madrid- Lisboa, Km. 398,9",
+  "cp": "06009",
+  "municipio": "Badajoz",
+  "web": "https://ceresmotor-mandelmotorbadajoz.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 2.1,
+  "km_linea": 1.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "EX-330",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "BA-20",
+   "tipo": "trunk",
+   "km": 0.8
+  },
+  {
+   "ref": "N-432a",
+   "tipo": "trunk",
+   "km": 1.0
+  },
+  {
+   "ref": "N-523",
+   "tipo": "trunk",
+   "km": 1.0
+  },
+  {
+   "ref": "BA-11",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "EX-107",
+   "tipo": "primary",
+   "km": 1.1
+  },
+  {
+   "ref": "N-432",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "BA-11/N-432",
+   "tipo": "trunk",
+   "km": 1.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 78.4
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 179.2
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 187.7
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 199.7
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 220.7
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 254.5
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 257.8
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 268.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Badajoz | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 150530
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

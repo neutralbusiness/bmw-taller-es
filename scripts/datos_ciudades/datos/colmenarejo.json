@@ -1,0 +1,154 @@
+{
+ "slug": "colmenarejo",
+ "nombre": "Colmenarejo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28044",
+ "coordenadas": {
+  "lat": 40.53025,
+  "lng": -4.0161,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28044"
+ },
+ "poblacion": {
+  "valor": 9640,
+  "anio": 2025,
+  "valor_hace_10": 8934,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 31.3,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28044"
+ },
+ "densidad_hab_km2": 308,
+ "altitud_m": {
+  "valor": 826,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 5236,
+  "anio": "2025",
+  "por_1000_hab": 543,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 48.6,
+  "km_linea_recta": 31.7,
+  "vias_de_la_ruta": [
+   "M-505",
+   "A-6",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2831)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "A-6, km 20,4",
+   "municipio": "Las Rozas",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 19.8,
+   "km_linea": 9.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (Las Rozas)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "A6-Km. 23,100",
+  "cp": "28230",
+  "municipio": "Las Rozas",
+  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 20.7,
+  "km_linea": 10.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-510",
+   "tipo": "primary",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "valdemorillo",
+   "nombre": "Valdemorillo",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "galapagar",
+   "nombre": "Galapagar",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "villanueva-del-pardillo",
+   "nombre": "Villanueva del Pardillo",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "torrelodones",
+   "nombre": "Torrelodones",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "villanueva-de-la-canada",
+   "nombre": "Villanueva de la Cañada",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "las-matas",
+   "nombre": "Las Matas",
+   "km_linea_recta": 10.9
+  },
+  {
+   "slug": "el-escorial",
+   "nombre": "El Escorial",
+   "km_linea_recta": 11.1
+  },
+  {
+   "slug": "collado-villalba",
+   "nombre": "Collado-Villalba",
+   "km_linea_recta": 11.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Colmenarejo | Cerca de Villanueva de la Cañada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 9124
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

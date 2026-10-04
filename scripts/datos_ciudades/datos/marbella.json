@@ -1,0 +1,146 @@
+{
+ "slug": "marbella",
+ "nombre": "Marbella",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Málaga",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "29069",
+ "coordenadas": {
+  "lat": 36.51543,
+  "lng": -4.88583,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 29069"
+ },
+ "poblacion": {
+  "valor": 159786,
+  "anio": 2025,
+  "valor_hace_10": 139537,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 14.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 116.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 29069"
+ },
+ "densidad_hab_km2": 1370,
+ "altitud_m": {
+  "valor": 58,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV San Pedro de Alcántara-Marbella",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/483156537) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AC 99 Motor",
+  "razon_social": "AC 99 Motor, S.L.",
+  "direccion": "P.I. Las Albarizas-C/. Pirita, esq.",
+  "cp": "29603",
+  "municipio": "Marbella",
+  "web": "https://acmotor99.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 2.6,
+  "km_linea": 1.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-7/AP-7",
+   "tipo": "motorway",
+   "km": 0.5
+  },
+  {
+   "ref": "A-7",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 1.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 1.2,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 47.4
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 66.1
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 113.2
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 125.4
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 125.5
+  },
+  {
+   "slug": "granada",
+   "nombre": "Granada",
+   "km_linea_recta": 136.2
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 136.5
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 153.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Marbella | Diagnosis y Mecánica Especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 156295
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

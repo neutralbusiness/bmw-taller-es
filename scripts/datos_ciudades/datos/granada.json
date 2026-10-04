@@ -1,0 +1,151 @@
+{
+ "slug": "granada",
+ "nombre": "Granada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Granada",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "18087",
+ "coordenadas": {
+  "lat": 37.18817,
+  "lng": -3.60667,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 18087"
+ },
+ "poblacion": {
+  "valor": 233975,
+  "anio": 2025,
+  "valor_hace_10": 235800,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -0.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 87.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 18087"
+ },
+ "densidad_hab_km2": 2671,
+ "altitud_m": {
+  "valor": 689,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Estación de Inspección Técnica de Vehículos de Granada",
+    "operador": "Verificaciones Industriales de Andalucía, S.A.",
+    "direccion": "Avenida de Andalucía",
+    "municipio": "Granada",
+    "fuente": "OpenStreetMap (way/862468736) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Ilbira Motor (Granada)",
+  "razon_social": "Ilbira Motor, S.L.",
+  "direccion": "Avda. Andalucía, 114",
+  "cp": "18015",
+  "municipio": "Granada",
+  "web": "https://ilbiramotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.1,
+  "km_linea": 2.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "GR-30",
+   "tipo": "motorway",
+   "km": 1.4
+  },
+  {
+   "ref": "A-92G",
+   "tipo": "primary",
+   "km": 2.5
+  },
+  {
+   "ref": "A-4006",
+   "tipo": "primary",
+   "km": 2.7
+  },
+  {
+   "ref": "GR-3103",
+   "tipo": "primary",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "jaen",
+   "nombre": "Jaén",
+   "km_linea_recta": 66.6
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 89.1
+  },
+  {
+   "slug": "almeria",
+   "nombre": "Almería",
+   "km_linea_recta": 109.0
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 129.2
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 136.2
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 202.0
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 205.1
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 210.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Granada | Especialistas en la marca",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 233532
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

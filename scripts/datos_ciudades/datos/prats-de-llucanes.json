@@ -1,0 +1,157 @@
+{
+ "slug": "prats-de-llucanes",
+ "nombre": "Prats de Lluçanès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Lluçanès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08171",
+ "coordenadas": {
+  "lat": 41.999,
+  "lng": 2.0219,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08171"
+ },
+ "poblacion": {
+  "valor": 2761,
+  "anio": 2025,
+  "valor_hace_10": 2580,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 7.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 13.78,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081712)"
+ },
+ "densidad_hab_km2": 200,
+ "altitud_m": {
+  "valor": 707,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081712)"
+ },
+ "turismos": {
+  "valor": 1641,
+  "anio": "2024",
+  "por_1000_hab": 594,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 113.4,
+  "km_linea_recta": 70.3,
+  "vias_de_la_ruta": [
+   "C-62",
+   "C-25",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Berga (B13)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "municipio": "Berga",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 28.0,
+   "km_linea": 18.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 29.4,
+  "km_linea": 20.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-62",
+   "tipo": "primary",
+   "km": 2.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "santa-maria-de-merles",
+   "nombre": "Santa Maria de Merlès",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "sant-marti-d-albars",
+   "nombre": "Sant Martí d'Albars",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "olost",
+   "nombre": "Olost",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "orista",
+   "nombre": "Oristà",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "sant-feliu-sasserra",
+   "nombre": "Sant Feliu Sasserra",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "sagas",
+   "nombre": "Sagàs",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "perafita",
+   "nombre": "Perafita",
+   "km_linea_recta": 8.8
+  },
+  {
+   "slug": "lluca",
+   "nombre": "Lluçà",
+   "km_linea_recta": 8.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW Prats de Lluçanès | Especialistas altiplano y frío",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2659
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

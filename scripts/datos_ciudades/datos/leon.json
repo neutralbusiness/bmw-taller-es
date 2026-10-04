@@ -1,0 +1,172 @@
+{
+ "slug": "leon",
+ "nombre": "León",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "León",
+ "ccaa": "Castilla y León",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "24089",
+ "coordenadas": {
+  "lat": 42.60003,
+  "lng": -5.57032,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 24089"
+ },
+ "poblacion": {
+  "valor": 123446,
+  "anio": 2025,
+  "valor_hace_10": 127817,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -3.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 38.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 24089"
+ },
+ "densidad_hab_km2": 3182,
+ "altitud_m": {
+  "valor": 842,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Onzonilla",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/263198122) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 7.6,
+   "km_linea": 6.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Dohisa",
+  "razon_social": "Automoviles Dohisa, S.A.",
+  "direccion": "Ctra. León-Astorga, Km.3,800",
+  "cp": "24010",
+  "municipio": "Trobajo del Camino",
+  "web": "https://dohisa.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 5.9,
+  "km_linea": 3.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-630",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "N-120",
+   "tipo": "trunk",
+   "km": 1.5
+  },
+  {
+   "ref": "LE-20",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "LE-5508",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "N-630A",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "N-621",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "CL-623",
+   "tipo": "primary",
+   "km": 2.2
+  },
+  {
+   "ref": "LE-30",
+   "tipo": "motorway",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "oviedo",
+   "nombre": "Oviedo",
+   "km_linea_recta": 87.4
+  },
+  {
+   "slug": "gijon",
+   "nombre": "Gijón",
+   "km_linea_recta": 104.3
+  },
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 126.1
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 155.9
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 172.8
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 181.5
+  },
+  {
+   "slug": "ourense",
+   "nombre": "Ourense",
+   "km_linea_recta": 190.4
+  },
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 224.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en León | Diagnosis y Mecánica Especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 124772
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

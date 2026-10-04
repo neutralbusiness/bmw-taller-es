@@ -1,0 +1,148 @@
+{
+ "slug": "canencia",
+ "nombre": "Canencia",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28034",
+ "coordenadas": {
+  "lat": 40.89253,
+  "lng": -3.75533,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28034"
+ },
+ "poblacion": {
+  "valor": 475,
+  "anio": 2025,
+  "valor_hace_10": 464,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 53.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28034"
+ },
+ "densidad_hab_km2": 9,
+ "altitud_m": {
+  "valor": 1246,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 280,
+  "anio": "2025",
+  "por_1000_hab": 589,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 70.5,
+  "km_linea_recta": 39.8,
+  "vias_de_la_ruta": [
+   "M-629",
+   "M-604",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV TÜV SÜD ATISAE (estación 2812)",
+   "operador": "TÜV SÜD ATISAE",
+   "direccion": "A-1, km 66",
+   "municipio": "Lozoyuela",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 18.6,
+   "km_linea": 12.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (Las Rozas)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "A6-Km. 23,100",
+  "cp": "28230",
+  "municipio": "Las Rozas",
+  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 63.9,
+  "km_linea": 41.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "bustarviejo",
+   "nombre": "Bustarviejo",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "garganta-de-los-montes",
+   "nombre": "Garganta de los Montes",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "lozoya",
+   "nombre": "Lozoya",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "alameda-del-valle",
+   "nombre": "Alameda del Valle",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "pinilla-del-valle",
+   "nombre": "Pinilla del Valle",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "valdemanco",
+   "nombre": "Valdemanco",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "gargantilla-del-lozoya-y-pinilla-de-buitrago",
+   "nombre": "Gargantilla del Lozoya y Pinilla de Buitrago",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "navalafuente",
+   "nombre": "Navalafuente",
+   "km_linea_recta": 10.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Canencia | Sierra Norte de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 423
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

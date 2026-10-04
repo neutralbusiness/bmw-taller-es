@@ -1,0 +1,151 @@
+{
+ "slug": "lozoyuela-navas-sieteiglesias",
+ "nombre": "Lozoyuela-Navas-Sieteiglesias",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28901",
+ "coordenadas": {
+  "lat": 40.92154,
+  "lng": -3.61554,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28901"
+ },
+ "poblacion": {
+  "valor": 1468,
+  "anio": 2025,
+  "valor_hace_10": 1203,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 22.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 51.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28901"
+ },
+ "densidad_hab_km2": 29,
+ "altitud_m": {
+  "valor": 1006,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 809,
+  "anio": "2025",
+  "por_1000_hab": 551,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 52.4,
+  "km_linea_recta": 41.9,
+  "vias_de_la_ruta": [
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜD ATISAE (estación 2812)",
+    "operador": "TÜV SÜD ATISAE",
+    "direccion": "A-1, km 66",
+    "municipio": "Lozoyuela",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 50.3,
+  "km_linea": 37.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 0.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "garganta-de-los-montes",
+   "nombre": "Garganta de los Montes",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "cabrera-la",
+   "nombre": "La Cabrera",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "berrueco-el",
+   "nombre": "El Berrueco",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "puentes-viejas",
+   "nombre": "Puentes Viejas",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "robledillo-de-la-jara",
+   "nombre": "Robledillo de la Jara",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "valdemanco",
+   "nombre": "Valdemanco",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "cervera-de-buitrago",
+   "nombre": "Cervera de Buitrago",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "buitrago-del-lozoya",
+   "nombre": "Buitrago del Lozoya",
+   "km_linea_recta": 8.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Lozoyuela-Navas-Sieteiglesias | BMW Taller",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1468
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

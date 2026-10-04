@@ -1,0 +1,176 @@
+{
+ "slug": "parets-del-valles",
+ "nombre": "Parets del Vallès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08159",
+ "coordenadas": {
+  "lat": 41.57481,
+  "lng": 2.23306,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08159"
+ },
+ "poblacion": {
+  "valor": 18885,
+  "anio": 2025,
+  "valor_hace_10": 18901,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -0.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 9.12,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081593)"
+ },
+ "densidad_hab_km2": 2071,
+ "altitud_m": {
+  "valor": 98,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081593)"
+ },
+ "turismos": {
+  "valor": 10255,
+  "anio": "2024",
+  "por_1000_hab": 543,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 35.8,
+  "km_linea_recta": 27.3,
+  "vias_de_la_ruta": [
+   "BV-1604",
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Granollers (B18)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
+   "municipio": "Granollers",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 4.9,
+   "km_linea": 3.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.2,
+  "km_linea": 3.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-35",
+   "tipo": "trunk",
+   "km": 1.0
+  },
+  {
+   "ref": "C-17",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "C-33",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "C-155",
+   "tipo": "trunk",
+   "km": 3.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 13.6,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "llica-de-vall",
+   "nombre": "Lliçà de Vall",
+   "km_linea_recta": 1.9
+  },
+  {
+   "slug": "montmelo",
+   "nombre": "Montmeló",
+   "km_linea_recta": 2.3
+  },
+  {
+   "slug": "mollet-del-valles",
+   "nombre": "Mollet del Vallès",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "palau-solita-i-plegamans",
+   "nombre": "Palau-solità i Plegamans",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "montornes-del-valles",
+   "nombre": "Montornès del Vallès",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "llica-d-amunt",
+   "nombre": "Lliçà d'Amunt",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "martorelles",
+   "nombre": "Martorelles",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "granollers",
+   "nombre": "Granollers",
+   "km_linea_recta": 5.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "BMW Parets del Vallès — Tu taller especialista con precios de hasta -50%",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 17632
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

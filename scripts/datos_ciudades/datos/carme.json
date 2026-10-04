@@ -1,0 +1,154 @@
+{
+ "slug": "carme",
+ "nombre": "Carme",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08048",
+ "coordenadas": {
+  "lat": 41.53975,
+  "lng": 1.62104,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08048"
+ },
+ "poblacion": {
+  "valor": 847,
+  "anio": 2025,
+  "valor_hace_10": 792,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 11.68,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080484)"
+ },
+ "densidad_hab_km2": 73,
+ "altitud_m": {
+  "valor": 351,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080484)"
+ },
+ "turismos": {
+  "valor": 508,
+  "anio": "2024",
+  "por_1000_hab": 600,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 63.7,
+  "km_linea_recta": 41.1,
+  "vias_de_la_ruta": [
+   "BV-2131",
+   "C-244",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Igualada (B12)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 10.3,
+   "km_linea": 5.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 50.0,
+  "km_linea": 32.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-37",
+   "tipo": "primary",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "la-torre-de-claramunt",
+   "nombre": "la Torre de Claramunt",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "orpi",
+   "nombre": "Orpí",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "vilanova-del-cami",
+   "nombre": "Vilanova del Camí",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "santa-margarida-de-montbui",
+   "nombre": "Santa Margarida de Montbui",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "igualada",
+   "nombre": "Igualada",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "la-pobla-de-claramunt",
+   "nombre": "la Pobla de Claramunt",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "capellades",
+   "nombre": "Capellades",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "mediona",
+   "nombre": "Mediona",
+   "km_linea_recta": 6.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Carme | Anoia | Diagnosis BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 866
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

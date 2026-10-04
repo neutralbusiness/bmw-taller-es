@@ -1,0 +1,181 @@
+{
+ "slug": "alcala-de-henares",
+ "nombre": "Alcalá de Henares",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28005",
+ "coordenadas": {
+  "lat": 40.48205,
+  "lng": -3.35996,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28005"
+ },
+ "poblacion": {
+  "valor": 203208,
+  "anio": 2025,
+  "valor_hace_10": 198750,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 87.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28005"
+ },
+ "densidad_hab_km2": 2317,
+ "altitud_m": {
+  "valor": 588,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 99452,
+  "anio": "2025",
+  "por_1000_hab": 489,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 32.6,
+  "km_linea_recta": 24.8,
+  "vias_de_la_ruta": [
+   "M-100",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜD ATISAE, S.A.U (estación 2878)",
+    "operador": "TÜV SÜD ATISAE, S.A.U",
+    "direccion": "Avda. Juan Carlos I, s/n Centro Comercial La Garena",
+    "municipio": "Alcalá De Henares",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2857)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "C/ Louis Pasteur, s/n",
+    "municipio": "Alcalá De Henares",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
+    "operador": "ITVERSIA Gestión, S.L",
+    "direccion": "Vía Complutense, 105",
+    "municipio": "Alcalá De Henares",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Alcalá Henares)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.2,
+  "km_linea": 1.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "M-300",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "villalbilla",
+   "nombre": "Villalbilla",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "torres-de-la-alameda",
+   "nombre": "Torres de la Alameda",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "anchuelo",
+   "nombre": "Anchuelo",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "santos-de-la-humosa-los",
+   "nombre": "Los Santos de la Humosa",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "meco",
+   "nombre": "Meco",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "camarma-de-esteruelas",
+   "nombre": "Camarma de Esteruelas",
+   "km_linea_recta": 9.1
+  },
+  {
+   "slug": "valverde-de-alcala",
+   "nombre": "Valverde de Alcalá",
+   "km_linea_recta": 9.6
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 9.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Alcalá de Henares | Corredor Henares",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 193751
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

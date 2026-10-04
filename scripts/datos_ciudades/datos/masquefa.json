@@ -1,0 +1,155 @@
+{
+ "slug": "masquefa",
+ "nombre": "Masquefa",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08119",
+ "coordenadas": {
+  "lat": 41.50471,
+  "lng": 1.80702,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08119"
+ },
+ "poblacion": {
+  "valor": 10120,
+  "anio": 2025,
+  "valor_hace_10": 8335,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 21.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.06,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081192)"
+ },
+ "densidad_hab_km2": 593,
+ "altitud_m": {
+  "valor": 257,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081192)"
+ },
+ "turismos": {
+  "valor": 5354,
+  "anio": "2024",
+  "por_1000_hab": 529,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 32.8,
+  "km_linea_recta": 25.9,
+  "vias_de_la_ruta": [
+   "B-224z",
+   "B-224",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 20.8,
+   "km_linea": 13.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Cugat del Vallés)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Carrer Vallespir , 19",
+  "cp": "08173",
+  "municipio": "Sant Cugat del Vallès",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 29.8,
+  "km_linea": 21.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-224",
+   "tipo": "primary",
+   "km": 0.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "els-hostalets-de-pierola",
+   "nombre": "els Hostalets de Pierola",
+   "km_linea_recta": 3.9
+  },
+  {
+   "slug": "sant-llorenc-d-hortons",
+   "nombre": "Sant Llorenç d'Hortons",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "piera",
+   "nombre": "Piera",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "sant-esteve-sesrovires",
+   "nombre": "Sant Esteve Sesrovires",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "esparreguera",
+   "nombre": "Esparreguera",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "cabrera-d-anoia",
+   "nombre": "Cabrera d'Anoia",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "collbato",
+   "nombre": "Collbató",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "abrera",
+   "nombre": "Abrera",
+   "km_linea_recta": 7.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Masquefa — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 8373
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

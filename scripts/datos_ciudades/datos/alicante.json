@@ -1,0 +1,141 @@
+{
+ "slug": "alicante",
+ "nombre": "Alicante",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Alicante",
+ "ccaa": "Comunidad Valenciana",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "03014",
+ "coordenadas": {
+  "lat": 38.34517,
+  "lng": -0.48149,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 03014"
+ },
+ "poblacion": {
+  "valor": 366221,
+  "anio": 2025,
+  "valor_hace_10": 328648,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 201.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 03014"
+ },
+ "densidad_hab_km2": 1817,
+ "altitud_m": {
+  "valor": 19,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "I.T.V. (Inspección Técnica de Vehículos)",
+    "operador": "Applus ITV",
+    "direccion": "calle Nieve 7",
+    "municipio": "Alicante",
+    "fuente": "OpenStreetMap (way/33587830) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Benigar (Alicante)",
+  "razon_social": "Movil Begar Levante, S.A.",
+  "direccion": "Ctra. Madrid, Km. 4",
+  "cp": "03006",
+  "municipio": "Alicante",
+  "web": "https://benigar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.4,
+  "km_linea": 5.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-332",
+   "tipo": "primary",
+   "km": 0.2
+  },
+  {
+   "ref": "A-31",
+   "tipo": "motorway",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 1.0,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 21.3
+  },
+  {
+   "slug": "orihuela",
+   "nombre": "Orihuela",
+   "km_linea_recta": 49.7
+  },
+  {
+   "slug": "murcia",
+   "nombre": "Murcia",
+   "km_linea_recta": 69.3
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 93.6
+  },
+  {
+   "slug": "valencia",
+   "nombre": "Valencia",
+   "km_linea_recta": 125.8
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 139.5
+  },
+  {
+   "slug": "castello-de-la-plana",
+   "nombre": "Castelló de la Plana",
+   "km_linea_recta": 186.2
+  },
+  {
+   "slug": "almeria",
+   "nombre": "Almería",
+   "km_linea_recta": 241.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Alicante | Diagnóstico ISTA experto",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 348901
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

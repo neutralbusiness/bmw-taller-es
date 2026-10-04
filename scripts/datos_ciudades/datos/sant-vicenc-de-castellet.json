@@ -1,0 +1,161 @@
+{
+ "slug": "sant-vicenc-de-castellet",
+ "nombre": "Sant Vicenç de Castellet",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08262",
+ "coordenadas": {
+  "lat": 41.66893,
+  "lng": 1.88187,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08262"
+ },
+ "poblacion": {
+  "valor": 10164,
+  "anio": 2025,
+  "valor_hace_10": 9246,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 17.13,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082628)"
+ },
+ "densidad_hab_km2": 593,
+ "altitud_m": {
+  "valor": 176,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082628)"
+ },
+ "turismos": {
+  "valor": 4755,
+  "anio": "2024",
+  "por_1000_hab": 468,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 57.3,
+  "km_linea_recta": 36.6,
+  "vias_de_la_ruta": [
+   "BV-1229",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Manresa (B06)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. \\\\\\\"Bufalvent\\\\\\\"",
+   "municipio": "Manresa",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 9.7,
+   "km_linea": 5.9
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 15.8,
+  "km_linea": 10.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-16",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "C-55",
+   "tipo": "trunk",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "rellinars",
+   "nombre": "Rellinars",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "castellbell-i-el-vilar",
+   "nombre": "Castellbell i el Vilar",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "el-pont-de-vilomara-i-rocafort",
+   "nombre": "el Pont de Vilomara i Rocafort",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "castellgali",
+   "nombre": "Castellgalí",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "monistrol-de-montserrat",
+   "nombre": "Monistrol de Montserrat",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "vacarisses",
+   "nombre": "Vacarisses",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "mura",
+   "nombre": "Mura",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "manresa",
+   "nombre": "Manresa",
+   "km_linea_recta": 8.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sant Vicenç de Castellet — Especialistas sin perder garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 9314
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "slug": "paracuellos-de-jarama",
+ "nombre": "Paracuellos de Jarama",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28104",
+ "coordenadas": {
+  "lat": 40.50353,
+  "lng": -3.52775,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28104"
+ },
+ "poblacion": {
+  "valor": 27650,
+  "anio": 2025,
+  "valor_hace_10": 22293,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 24.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 43.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28104"
+ },
+ "densidad_hab_km2": 634,
+ "altitud_m": {
+  "valor": 690,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 14158,
+  "anio": "2025",
+  "por_1000_hab": 512,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 18.4,
+  "km_linea_recta": 10.6,
+  "vias_de_la_ruta": [
+   "M-113",
+   "M-111",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2808)",
+    "operador": "DEKRA ITV ESPAÑA, S.L.U",
+    "direccion": "Cº Viejo de Cobeña, 36",
+    "municipio": "Paracuellos",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Caetano Cuzco (Calle Alcalá)",
+  "razon_social": "Caetano Cuzco, S.L.U.",
+  "direccion": "C/. Alcalá, 474",
+  "cp": "28027",
+  "municipio": "Madrid",
+  "web": "https://caetanocuzco-alcala.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 14.1,
+  "km_linea": 11.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-111",
+   "tipo": "primary",
+   "km": 1.6
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "R-2",
+   "tipo": "motorway",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ajalvir",
+   "nombre": "Ajalvir",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "daganzo-de-arriba",
+   "nombre": "Daganzo de Arriba",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 10.2
+  },
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 10.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Paracuellos de Jarama — Especialistas M con ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 14329
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

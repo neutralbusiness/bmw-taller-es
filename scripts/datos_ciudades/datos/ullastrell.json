@@ -1,0 +1,153 @@
+{
+ "slug": "ullastrell",
+ "nombre": "Ullastrell",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Occidental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08290",
+ "coordenadas": {
+  "lat": 41.52631,
+  "lng": 1.95866,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08290"
+ },
+ "poblacion": {
+  "valor": 2171,
+  "anio": 2025,
+  "valor_hace_10": 2043,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 7.31,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082900)"
+ },
+ "densidad_hab_km2": 297,
+ "altitud_m": {
+  "valor": 342,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082900)"
+ },
+ "turismos": {
+  "valor": 1158,
+  "anio": "2024",
+  "por_1000_hab": 533,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 30.6,
+  "km_linea_recta": 19.5,
+  "vias_de_la_ruta": [
+   "BV-1202",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Viladecavalls (B03)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "municipio": "Viladecavalls",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 9.9,
+   "km_linea": 4.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Terrassa)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrasa",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 11.9,
+  "km_linea": 6.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-40",
+   "tipo": "motorway",
+   "km": 1.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "viladecavalls",
+   "nombre": "Viladecavalls",
+   "km_linea_recta": 3.4
+  },
+  {
+   "slug": "abrera",
+   "nombre": "Abrera",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "olesa-de-montserrat",
+   "nombre": "Olesa de Montserrat",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "castellbisbal",
+   "nombre": "Castellbisbal",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "martorell",
+   "nombre": "Martorell",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "terrassa",
+   "nombre": "Terrassa",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "rubi",
+   "nombre": "Rubí",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "esparreguera",
+   "nombre": "Esparreguera",
+   "km_linea_recta": 7.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Ullastrell — Especialistas en DPF, AdBlue y N47/B47",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1981
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

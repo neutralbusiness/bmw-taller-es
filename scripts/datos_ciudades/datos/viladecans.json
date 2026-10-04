@@ -1,0 +1,162 @@
+{
+ "slug": "viladecans",
+ "nombre": "Viladecans",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Llobregat",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08301",
+ "coordenadas": {
+  "lat": 41.31405,
+  "lng": 2.01427,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08301"
+ },
+ "poblacion": {
+  "valor": 67587,
+  "anio": 2025,
+  "valor_hace_10": 65549,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 3.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 20.4,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=083015)"
+ },
+ "densidad_hab_km2": 3313,
+ "altitud_m": {
+  "valor": 18,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=083015)"
+ },
+ "turismos": {
+  "valor": 28520,
+  "anio": "2024",
+  "por_1000_hab": 422,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 11.4,
+  "km_linea_recta": 6.9,
+  "vias_de_la_ruta": [
+   "C-32",
+   "B-25"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Viladecans (B07)",
+    "operador": "APPLUS ITV",
+    "direccion": "c. Jocelyn Bell, 16",
+    "municipio": "Viladecans",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Barcelona Premium (Sant Boi)",
+  "razon_social": "Caetano Barcelona Premium S.L. Sant Boi",
+  "direccion": "Ctra. del Prat, 15",
+  "cp": "08830",
+  "municipio": "Sant Boi de Llobregat",
+  "web": "https://barcelonapremium-santboi.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 7.6,
+  "km_linea": 3.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-32",
+   "tipo": "motorway",
+   "km": 1.4
+  },
+  {
+   "ref": "C-32LD",
+   "tipo": "trunk",
+   "km": 2.2
+  },
+  {
+   "ref": "C-32LE",
+   "tipo": "trunk",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 5.3,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "gava",
+   "nombre": "Gavà",
+   "km_linea_recta": 1.4
+  },
+  {
+   "slug": "sant-climent-de-llobregat",
+   "nombre": "Sant Climent de Llobregat",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "sant-boi-de-llobregat",
+   "nombre": "Sant Boi de Llobregat",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "castelldefels",
+   "nombre": "Castelldefels",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "santa-coloma-de-cervello",
+   "nombre": "Santa Coloma de Cervelló",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "torrelles-de-llobregat",
+   "nombre": "Torrelles de Llobregat",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "el-prat-de-llobregat",
+   "nombre": "El Prat de Llobregat",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "sant-joan-despi",
+   "nombre": "Sant Joan Despí",
+   "km_linea_recta": 6.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Viladecans — Especialistas en Revisión CBS y ZF",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 66168
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": true
+ }
+}

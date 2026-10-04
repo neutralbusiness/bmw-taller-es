@@ -3,7 +3,7 @@
   "name": "Sant Boi de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 82428,
+  "population": 85610,
   "lat": 41.34357,
   "lng": 2.03659,
   "metaTitle": "Taller BMW en Sant Boi de Llobregat — Especialista en CBS e ISTA",
@@ -196,5 +196,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW cerca de Sant Boi: Dasercars Barcelona, a 6 km en Sant Joan Despí",
+    "entradilla": "Si vives en Sant Boi de Llobregat, el taller especialista BMW de la red está en el municipio de al lado. Te contamos cómo llegar, qué ofrece dentro del área metropolitana y en qué se diferencia del concesionario que tienes en la carretera del Prat.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 6.2
+    },
+    "secciones": [
+      {
+        "id": "el-concesionario-de-sant-boi",
+        "h2": "El concesionario de la carretera del Prat no somos nosotros",
+        "parrafos": [
+          "En Sant Boi hay servicio oficial BMW: Barcelona Premium, en la carretera del Prat 15, a unos 2,4 km del centro según el localizador de bmw.es. Hay quien llega a esta página buscando el teléfono de ese concesionario. Si es tu caso, el teléfono que buscas es el suyo, no el de esta página.",
+          "Nosotros somos Dasercars, taller independiente especializado en BMW. La diferencia práctica: en el concesionario se hacen las campañas del fabricante y las reparaciones en garantía; el mantenimiento puedes hacerlo con nosotros sin perder esa garantía, siempre que se respete el plan de mantenimiento (Reglamento UE 461/2010)."
+        ]
+      },
+      {
+        "id": "seis-kilometros",
+        "h2": "Seis kilómetros hasta el Tambor del Bruc",
+        "parrafos": [
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 6,2 km por carretera desde el centro de Sant Boi, 3,2 km en línea recta. Es, de toda la red, una de las ciudades con el taller más a mano.",
+          "Sant Boi forma parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche dentro del área metropolitana y vehículo de cortesía, ambos sujetos a disponibilidad. Pídelo al reservar la cita, no a última hora."
+        ]
+      },
+      {
+        "id": "itv-cornella",
+        "h2": "La ITV más cercana está en Viladecans",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Sant Boi es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 6,7 km. La de Cornellà (B11), en el passeig de la Campsa, queda más a mano si vienes del taller de Sant Joan Despí después de una pre-ITV."
+        ]
+      },
+      {
+        "id": "parque-sant-boi",
+        "h2": "85.610 vecinos y casi 34.000 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Sant Boi 85.610 habitantes, y el parque de vehículos de 2024 (Idescat, con datos de la DGT) 33.970 turismos: 397 por cada 1.000 vecinos. Con la C-245, la C-32 y la A-2 a menos de tres kilómetros del centro, es fácil dar al coche el rato de carretera que necesita un diésel para regenerar el filtro de partículas, algo que un uso solo urbano no consigue."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Sant Boi?",
+        "a": "No. El servicio oficial de Sant Boi es Barcelona Premium, en la carretera del Prat 15. Nosotros somos Dasercars, taller independiente en Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Boi?",
+        "a": "Sí, dentro del área metropolitana de Barcelona hay recogida y entrega, sujeta a disponibilidad. Pídela al reservar."
+      },
+      {
+        "q": "¿Qué horario tiene el taller?",
+        "a": "De lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Sábados y domingos, cerrado."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "85.610 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082009&lang=es"
+      },
+      {
+        "etiqueta": "Turismos censados (2024)",
+        "valor": "33.970 · 397 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082009&lang=es"
+      },
+      {
+        "etiqueta": "Distancia al taller (Sant Joan Despí)",
+        "valor": "6,2 km por carretera",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecans (B07) · 6,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, ctra. del Prat 15 · 2,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082009&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

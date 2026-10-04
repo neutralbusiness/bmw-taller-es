@@ -1,0 +1,170 @@
+{
+ "slug": "banyeres-del-penedes",
+ "nombre": "Banyeres del Penedès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Tarragona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "43020",
+ "coordenadas": {
+  "lat": 41.2704,
+  "lng": 1.56095,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 43020"
+ },
+ "poblacion": {
+  "valor": 3395,
+  "anio": 2025,
+  "valor_hace_10": 3103,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 12.19,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=430206)"
+ },
+ "densidad_hab_km2": 279,
+ "altitud_m": {
+  "valor": 173,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=430206)"
+ },
+ "turismos": {
+  "valor": 2006,
+  "anio": "2024",
+  "por_1000_hab": 591,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 66.6,
+  "km_linea_recta": 42.8,
+  "vias_de_la_ruta": [
+   "TP-2124",
+   "N-340",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Baix Penedès (T07)",
+   "operador": "ITEVELESA",
+   "direccion": "Sector 8, C/V3, Parcel·les 21-22-23: Polígon Industrial Els Massets",
+   "municipio": "Bellvei",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 7.6,
+   "km_linea": 4.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vilanova)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Avinguda d' Eduard Toldrà, 69",
+  "cp": "08800",
+  "municipio": "Vilanova i la Geltrú",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 29.5,
+  "km_linea": 15.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 0.5
+  },
+  {
+   "ref": "TP-2125",
+   "tipo": "primary",
+   "km": 0.7
+  },
+  {
+   "ref": "AP-2",
+   "tipo": "motorway",
+   "km": 1.0
+  },
+  {
+   "ref": "TP-2124",
+   "tipo": "primary",
+   "km": 1.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 9.1,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "llorenc-del-penedes",
+   "nombre": "Llorenç del Penedès",
+   "km_linea_recta": 2.6
+  },
+  {
+   "slug": "santa-oliva",
+   "nombre": "Santa Oliva",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "sant-jaume-dels-domenys",
+   "nombre": "Sant Jaume dels Domenys",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "l-arboc",
+   "nombre": "l'Arboç",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "bellvei",
+   "nombre": "Bellvei",
+   "km_linea_recta": 3.9
+  },
+  {
+   "slug": "castellet-i-la-gornal",
+   "nombre": "Castellet i la Gornal",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "albinyana",
+   "nombre": "Albinyana",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "el-vendrell",
+   "nombre": "El Vendrell",
+   "km_linea_recta": 6.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Banyeres del Penedès | Baix Penedès",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 3347
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

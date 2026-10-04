@@ -1,0 +1,173 @@
+{
+ "slug": "zaragoza",
+ "nombre": "Zaragoza",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Zaragoza",
+ "ccaa": "Aragón",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": "+34647503521",
+ "codigo_ine": "50297",
+ "coordenadas": {
+  "lat": 41.65606,
+  "lng": -0.87734,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50297"
+ },
+ "poblacion": {
+  "valor": 693091,
+  "anio": 2025,
+  "valor_hace_10": 664953,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 4.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 968.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50297"
+ },
+ "densidad_hab_km2": 715,
+ "altitud_m": {
+  "valor": 208,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "socio-zaragoza",
+  "nombre": "Taller asociado en Zaragoza",
+  "direccion": null,
+  "cp": null,
+  "municipio": null,
+  "horario": null,
+  "km_carretera": null,
+  "km_linea_recta": null,
+  "vias_de_la_ruta": null,
+  "fuente": "panel: network_sites.custom_phone"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Malpica. Inspección de vehículos.",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (node/2214906504) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Malpica. Inspección de vehículos",
+    "operador": null,
+    "direccion": "Calle D Parcela 24",
+    "municipio": "Zaragoza",
+    "fuente": "OpenStreetMap (way/473536295) — NO oficial, verificar; municipio con estación según aragon.es",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Augusta Aragón",
+  "razon_social": "Augusta Aragón, S.A.",
+  "direccion": "Avda. Alcalde Caballero, 112",
+  "cp": "50015",
+  "municipio": "Zaragoza",
+  "web": "https://augustaaragon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.4,
+  "km_linea": 2.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-330",
+   "tipo": "trunk",
+   "km": 1.3
+  },
+  {
+   "ref": "Z-30",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "Z-40",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "A-68",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "cuarte-de-huerva",
+   "nombre": "Cuarte de Huerva",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "puebla-de-alfinden-la",
+   "nombre": "Puebla de Alfindén, La",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "utebo",
+   "nombre": "Utebo",
+   "km_linea_recta": 11.7
+  },
+  {
+   "slug": "maria-de-huerva",
+   "nombre": "María de Huerva",
+   "km_linea_recta": 18.7
+  },
+  {
+   "slug": "muela-la",
+   "nombre": "Muela, La",
+   "km_linea_recta": 20.4
+  },
+  {
+   "slug": "alagon",
+   "nombre": "Alagón",
+   "km_linea_recta": 24.0
+  },
+  {
+   "slug": "zuera",
+   "nombre": "Zuera",
+   "km_linea_recta": 27.9
+  },
+  {
+   "slug": "tauste",
+   "nombre": "Tauste",
+   "km_linea_recta": 39.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Zaragoza | Especialistas, diagnosis ISTA",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 693091
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

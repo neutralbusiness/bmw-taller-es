@@ -1,0 +1,195 @@
+{
+ "slug": "coslada",
+ "nombre": "Coslada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28049",
+ "coordenadas": {
+  "lat": 40.42378,
+  "lng": -3.56129,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28049"
+ },
+ "poblacion": {
+  "valor": 80512,
+  "anio": 2025,
+  "valor_hace_10": 86919,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -7.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 12.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28049"
+ },
+ "densidad_hab_km2": 6709,
+ "altitud_m": {
+  "valor": 616,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 42062,
+  "anio": "2025",
+  "por_1000_hab": 522,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 20.7,
+  "km_linea_recta": 15.1,
+  "vias_de_la_ruta": [
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2880)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "Avda. de la constitución, 4",
+    "municipio": "Coslada",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2851)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "Avda. San Pablo, 29",
+    "municipio": "Coslada",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV SÜD ATISAE (estación 2815)",
+    "operador": "TÜV SÜD ATISAE",
+    "direccion": "C/ Alcarria, 2",
+    "municipio": "Coslada",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Caetano Cuzco (Calle Alcalá)",
+  "razon_social": "Caetano Cuzco, S.L.U.",
+  "direccion": "C/. Alcalá, 474",
+  "cp": "28027",
+  "municipio": "Madrid",
+  "web": "https://caetanocuzco-alcala.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.4,
+  "km_linea": 6.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-22",
+   "tipo": "trunk",
+   "km": 1.7
+  },
+  {
+   "ref": "M-21",
+   "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "M201",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "M-45",
+   "tipo": "motorway",
+   "km": 1.9
+  },
+  {
+   "ref": "R-3",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 2.4
+  },
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "velilla-de-san-antonio",
+   "nombre": "Velilla de San Antonio",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 10.6
+  },
+  {
+   "slug": "rivas-vaciamadrid",
+   "nombre": "Rivas-Vaciamadrid",
+   "km_linea_recta": 11.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Coslada — Especialistas en Mantenimiento Preventivo",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 81860
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

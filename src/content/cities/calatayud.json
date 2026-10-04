@@ -3,7 +3,7 @@
   "name": "Calatayud",
   "province": "Zaragoza",
   "ccaa": "Aragón",
-  "population": 20035,
+  "population": 20158,
   "lat": 41.35353,
   "lng": -1.64318,
   "metaTitle": "Taller BMW en Calatayud — Especialistas en diésel DPF y AdBlue",
@@ -195,5 +195,105 @@
     "whatsapp": "34647503521",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calatayud: ITV en la ciudad, servicio oficial BMW a 87 km",
+    "entradilla": "Calatayud queda lejos de casi todo lo que tiene que ver con BMW: el servicio oficial más cercano y el taller asociado de la red están en Zaragoza. Te explicamos qué puedes resolver aquí y qué conviene hablar por teléfono antes de coger la A-2.",
+    "socio": {
+      "id": "socio-zaragoza"
+    },
+    "secciones": [
+      {
+        "id": "lejos-de-zaragoza",
+        "h2": "A 87 kilómetros del servicio oficial",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo a Calatayud es Augusta Aragón, en la avenida Alcalde Caballero 112 de Zaragoza, a 86,9 km por carretera. El taller de la red que atiende esta zona es un taller asociado de Zaragoza: el teléfono de esta página es el suyo, y al llamar te indican dónde llevar el coche.",
+          "Con esa distancia, lo sensato es que el mantenimiento rutinario y lo que no es específico de la marca se resuelva en Calatayud, y reservar el viaje para lo que de verdad necesita un especialista BMW: una avería electrónica sin diagnosticar, un problema del sistema de AdBlue o de la cadena de distribución, o una segunda revisión antes de aceptar una reparación cara."
+        ]
+      },
+      {
+        "id": "itv-calatayud",
+        "h2": "La ITV, sin salir de la ciudad",
+        "parrafos": [
+          "El directorio oficial del Gobierno de Aragón incluye una estación de ITV en el municipio de Calatayud, en la comarca Comunidad de Calatayud. Tenerla en la ciudad permite separar las cosas: la inspección aquí y el viaje a Zaragoza solo cuando haya una avería que lo justifique."
+        ]
+      },
+      {
+        "id": "a2-n234",
+        "h2": "Un cruce de carreteras: A-2, N-234 y A-202",
+        "parrafos": [
+          "A menos de tres kilómetros del centro pasan la A-2, la N-234 y la A-202. Es un municipio de 154 km² y 20.158 habitantes en 2025, con un crecimiento del 2,2 % en diez años.",
+          "Para un BMW que hace mucha autovía, lo que más agradece es respetar los intervalos del indicador de servicio con el aceite de homologación correcta para su motor, y no dejar pasar un aviso de temperatura o de presión de aceite «hasta llegar»."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Calatayud?",
+        "a": "No. La zona la atiende un taller asociado de la red en Zaragoza; al llamar te indican dónde llevar el coche."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "En Zaragoza: Augusta Aragón, avenida Alcalde Caballero 112, a 86,9 km."
+      },
+      {
+        "q": "¿Hay ITV en Calatayud?",
+        "a": "Sí. El directorio del Gobierno de Aragón recoge una estación en el municipio."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "20.158 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "154,2 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sí (directorio de Aragón)",
+        "fuente": "Gobierno de Aragón",
+        "url": "https://www.aragon.es/itv/directorio-de-estaciones"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Augusta Aragón (Zaragoza) · 86,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Gobierno de Aragón, estaciones ITV",
+        "url": "https://www.aragon.es/itv/directorio-de-estaciones"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "Humanes de Madrid",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 18098,
+  "population": 20500,
   "lat": 40.25038,
   "lng": -3.83062,
   "metaTitle": "Taller BMW en Humanes de Madrid | Diagnosis especializada",
@@ -172,5 +172,112 @@
     "A-42 dirección Madrid",
     "M-408 hacia Fuenlabrada",
     "M-407 desde Griñón"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Humanes de Madrid: ITV en el pueblo, especialista BMW al otro lado de Madrid",
+    "entradilla": "Humanes tiene estación de ITV propia y el servicio oficial BMW a 10 km, en Leganés. Nuestro taller está en Alcobendas, en el extremo opuesto de la región: 46 km. Te contamos cómo encaja.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 46.1
+    },
+    "secciones": [
+      {
+        "id": "itv-avenida-fuenlabrada",
+        "h2": "La ITV la tienes en la avenida de Fuenlabrada",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye una estación de ITV dentro del municipio: Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15. Para un coche de Humanes, es la opción evidente.",
+          "Si el BMW tiene más de diez años y pasa inspección cada año, una pre-ITV antes de pedir cita evita sustos con luces, emisiones o holguras."
+        ]
+      },
+      {
+        "id": "cruzar-madrid",
+        "h2": "46 kilómetros de sur a norte",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas cruza la región: M-405 y M-506, A-42, M-40, M-30 y A-1. Son 46,1 km por carretera y 36,5 en línea recta.",
+          "Por eso, para el día a día, el servicio oficial que te queda cerca —Vehinter, Momentum Leganés, a 10,1 km según bmw.es— es más práctico. El viaje a Alcobendas compensa para trabajos de especialista o cuando buscas una alternativa independiente al concesionario; si es tu caso, pregunta por la recogida y entrega dentro del área metropolitana, sujeta a disponibilidad."
+        ]
+      },
+      {
+        "id": "carreteras-humanes",
+        "h2": "Un municipio rodeado de carreteras autonómicas",
+        "parrafos": [
+          "En un radio de tres kilómetros desde el centro pasan la M-405, la M-407, la M-410, la M-413 y la M-419. Con 20.500 vecinos en 2025 y 12.096 turismos censados (590 por cada 1.000 habitantes), Humanes tiene bastantes más coches por vecino que Madrid capital, donde la proporción es de 388 por cada 1.000."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay ITV en Humanes de Madrid?",
+        "a": "Sí: Alcaravan ITV, en la avenida de Fuenlabrada 15, según el listado oficial de la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Dónde está vuestro taller?",
+        "a": "En la calle Valgrande 17 de Alcobendas, a 46,1 km de Humanes por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Humanes?",
+        "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad: confírmalo al pedir cita."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "20.500 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "12.096 · 590 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Alcaravan ITV, av. de Fuenlabrada 15",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Leganés) · 10,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 46,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

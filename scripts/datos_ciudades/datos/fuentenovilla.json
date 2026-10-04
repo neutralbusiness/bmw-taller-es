@@ -1,0 +1,148 @@
+{
+ "slug": "fuentenovilla",
+ "nombre": "Fuentenovilla",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Guadalajara",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "19124",
+ "coordenadas": {
+  "lat": 40.37632,
+  "lng": -3.10175,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19124"
+ },
+ "poblacion": {
+  "valor": 621,
+  "anio": 2025,
+  "valor_hace_10": 543,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 14.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 37.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19124"
+ },
+ "densidad_hab_km2": 17,
+ "altitud_m": {
+  "valor": 815,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 70.6,
+  "km_linea_recta": 49.3,
+  "vias_de_la_ruta": [
+   "CM-2001",
+   "CM-2028",
+   "M-237",
+   "CM-2004",
+   "CM-235",
+   "M-226",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Azuqueca de Henares",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (node/12362141696) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 39.8,
+   "km_linea": 24.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Alcalá Henares)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 42.3,
+  "km_linea": 24.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "mondejar",
+   "nombre": "Mondéjar",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "pezuela-de-las-torres",
+   "nombre": "Pezuela de las Torres",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "ambite",
+   "nombre": "Ambite",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "loranca-de-tajuna",
+   "nombre": "Loranca de Tajuña",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "olmeda-de-las-fuentes",
+   "nombre": "Olmeda de las Fuentes",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "pioz",
+   "nombre": "Pioz",
+   "km_linea_recta": 10.9
+  },
+  {
+   "slug": "nuevo-baztan",
+   "nombre": "Nuevo Baztán",
+   "km_linea_recta": 12.4
+  },
+  {
+   "slug": "villar-del-olmo",
+   "nombre": "Villar del Olmo",
+   "km_linea_recta": 12.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Fuentenovilla | Mecánica especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 634
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "slug": "burgos",
+ "nombre": "Burgos",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Burgos",
+ "ccaa": "Castilla y León",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "09059",
+ "coordenadas": {
+  "lat": 42.34106,
+  "lng": -3.70184,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 09059"
+ },
+ "poblacion": {
+  "valor": 177402,
+  "anio": 2025,
+  "valor_hace_10": 177100,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 106.4,
+  "fuente": "CartoCiudad (IGN), término municipal INE 09059"
+ },
+ "densidad_hab_km2": 1667,
+ "altitud_m": {
+  "valor": 868,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "Inspección Técnica de Vehículos Briviesca",
+   "operador": "Tüv Süd",
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/330977937) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 45.3,
+   "km_linea": 38.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Burgocar (Burgos)",
+  "razon_social": "Burgocar Comercial del Automóvil SA",
+  "direccion": "Ctra. Logroño, Km.109",
+  "cp": "09007",
+  "municipio": "Burgos",
+  "web": "https://burgocar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.4,
+  "km_linea": 4.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "BU-11",
+   "tipo": "motorway",
+   "km": 1.1
+  },
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "BU-30",
+   "tipo": "motorway",
+   "km": 2.7
+  },
+  {
+   "ref": "N-120",
+   "tipo": "trunk",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 101.5
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 103.6
+  },
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 113.8
+  },
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 120.5
+  },
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 121.1
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 125.4
+  },
+  {
+   "slug": "buitrago-del-lozoya",
+   "nombre": "Buitrago del Lozoya",
+   "km_linea_recta": 149.9
+  },
+  {
+   "slug": "puentes-viejas",
+   "nombre": "Puentes Viejas",
+   "km_linea_recta": 152.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Burgos | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 176418
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

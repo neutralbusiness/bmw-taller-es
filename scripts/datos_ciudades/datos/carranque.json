@@ -1,0 +1,151 @@
+{
+ "slug": "carranque",
+ "nombre": "Carranque",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Toledo",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "45038",
+ "coordenadas": {
+  "lat": 40.16956,
+  "lng": -3.90006,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 45038"
+ },
+ "poblacion": {
+  "valor": 5469,
+  "anio": 2025,
+  "valor_hace_10": 4545,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 20.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 24.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 45038"
+ },
+ "densidad_hab_km2": 222,
+ "altitud_m": {
+  "valor": 660,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 56.9,
+  "km_linea_recta": 47.2,
+  "vias_de_la_ruta": [
+   "M-415",
+   "M-407",
+   "R-5",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/246716829) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 14.4,
+   "km_linea": 7.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Momentum Leganés)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
+  "cp": "28914",
+  "municipio": "Leganés",
+  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 24.2,
+  "km_linea": 19.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "AP-41",
+   "tipo": "motorway",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ugena",
+   "nombre": "Ugena",
+   "km_linea_recta": 2.5
+  },
+  {
+   "slug": "serranillos-del-valle",
+   "nombre": "Serranillos del Valle",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "cubas-de-la-sagra",
+   "nombre": "Cubas de la Sagra",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "casarrubuelos",
+   "nombre": "Casarrubuelos",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "batres",
+   "nombre": "Batres",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "grinon",
+   "nombre": "Griñón",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "torrejon-de-la-calzada",
+   "nombre": "Torrejón de la Calzada",
+   "km_linea_recta": 9.6
+  },
+  {
+   "slug": "moraleja-de-enmedio",
+   "nombre": "Moraleja de Enmedio",
+   "km_linea_recta": 10.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Carranque | Toledo | Cita previa",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 4473
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

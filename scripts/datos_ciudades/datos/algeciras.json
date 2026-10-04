@@ -1,0 +1,160 @@
+{
+ "slug": "algeciras",
+ "nombre": "Algeciras",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Cádiz",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "11004",
+ "coordenadas": {
+  "lat": 36.13326,
+  "lng": -5.45051,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11004"
+ },
+ "poblacion": {
+  "valor": 126589,
+  "anio": 2025,
+  "valor_hace_10": 118920,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 87.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 11004"
+ },
+ "densidad_hab_km2": 1447,
+ "altitud_m": {
+  "valor": 28,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Estación Inspección Técnica de Vehículos",
+    "operador": "Verificaciones Industriales de Andalucía, S. A.",
+    "direccion": "Calle de los Deseos 2",
+    "municipio": "Algeciras",
+    "fuente": "OpenStreetMap (way/1302530560) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "Estación ITV Algeciras VEIASA",
+    "operador": null,
+    "direccion": "Calle de los Deseos",
+    "municipio": "Algeciras",
+    "fuente": "OpenStreetMap (way/1302530561) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Carteya Motor",
+  "razon_social": "Carteya Motor, S.L.",
+  "direccion": "Área del Fresno- Z.A.L.",
+  "cp": "11370",
+  "municipio": "Los Barrios",
+  "web": "https://carteyamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.7,
+  "km_linea": 4.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-350",
+   "tipo": "trunk",
+   "km": 0.4
+  },
+  {
+   "ref": "A-7",
+   "tipo": "motorway",
+   "km": 1.1
+  },
+  {
+   "ref": "N-357",
+   "tipo": "trunk",
+   "km": 1.9
+  },
+  {
+   "ref": "N-340",
+   "tipo": "primary",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.8,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 66.1
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 86.9
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 86.9
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 112.9
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 134.5
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 146.5
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 183.1
+  },
+  {
+   "slug": "granada",
+   "nombre": "Granada",
+   "km_linea_recta": 202.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Algeciras | Campo de Gibraltar",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 121414
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "slug": "ciempozuelos",
+ "nombre": "Ciempozuelos",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28040",
+ "coordenadas": {
+  "lat": 40.15913,
+  "lng": -3.62103,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28040"
+ },
+ "poblacion": {
+  "valor": 26350,
+  "anio": 2025,
+  "valor_hace_10": 23696,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 11.2,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 49.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28040"
+ },
+ "densidad_hab_km2": 536,
+ "altitud_m": {
+  "valor": 587,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 12104,
+  "anio": "2025",
+  "por_1000_hab": 459,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 50.0,
+  "km_linea_recta": 42.9,
+  "vias_de_la_ruta": [
+   "M-404",
+   "A-4",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV ITV Valdemoro, S.L (estación 2863)",
+    "operador": "ITV Valdemoro, S.L",
+    "direccion": "C/ Vereda de la Solana, 43-45. Pol.Ind. Las Canteras",
+    "municipio": "Valdemoro",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Getafe)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Ctra. Madrid-Toledo,",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 22.3,
+  "km_linea": 17.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-404",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "M-307",
+   "tipo": "primary",
+   "km": 1.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "titulcia",
+   "nombre": "Titulcia",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "valdemoro",
+   "nombre": "Valdemoro",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "san-martin-de-la-vega",
+   "nombre": "San Martín de la Vega",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "sesena",
+   "nombre": "Seseña",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "torrejon-de-velasco",
+   "nombre": "Torrejón de Velasco",
+   "km_linea_recta": 11.1
+  },
+  {
+   "slug": "chinchon",
+   "nombre": "Chinchón",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "pinto",
+   "nombre": "Pinto",
+   "km_linea_recta": 11.3
+  },
+  {
+   "slug": "villaconejos",
+   "nombre": "Villaconejos",
+   "km_linea_recta": 12.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Ciempozuelos | Especialistas en el sur de Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 22132
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "slug": "villanueva-de-la-torre",
+ "nombre": "Villanueva de la Torre",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Guadalajara",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "19319",
+ "coordenadas": {
+  "lat": 40.59376,
+  "lng": -3.30308,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19319"
+ },
+ "poblacion": {
+  "valor": 6666,
+  "anio": 2025,
+  "valor_hace_10": 6443,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 3.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 11.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19319"
+ },
+ "densidad_hab_km2": 595,
+ "altitud_m": {
+  "valor": 715,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 47.7,
+  "km_linea_recta": 29.1,
+  "vias_de_la_ruta": [
+   "CM-1008",
+   "A-2",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Azuqueca de Henares",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (node/12362141696) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 9.8,
+   "km_linea": 5.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Guadalajara)",
+  "razon_social": "Auto Premier Baviera, S.A. AutoPremier (Vehículo de Ocasión Ce",
+  "direccion": "Paseo de la Estación, 23",
+  "cp": "19004",
+  "municipio": "Guadalajara",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 18.3,
+  "km_linea": 12.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "R-2",
+   "tipo": "motorway",
+   "km": 2.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "quer",
+   "nombre": "Quer",
+   "km_linea_recta": 3.0
+  },
+  {
+   "slug": "azuqueca-de-henares",
+   "nombre": "Azuqueca de Henares",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "alovera",
+   "nombre": "Alovera",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "meco",
+   "nombre": "Meco",
+   "km_linea_recta": 5.1
+  },
+  {
+   "slug": "valdeavero",
+   "nombre": "Valdeavero",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "valdeaveruelo",
+   "nombre": "Valdeaveruelo",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "cabanillas-del-campo",
+   "nombre": "Cabanillas del Campo",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "camarma-de-esteruelas",
+   "nombre": "Camarma de Esteruelas",
+   "km_linea_recta": 6.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Villanueva de la Torre | Guadalajara, diagnosis",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 6438
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

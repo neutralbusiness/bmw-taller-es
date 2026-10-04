@@ -1,0 +1,162 @@
+{
+ "slug": "esparreguera",
+ "nombre": "Esparreguera",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Llobregat",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08076",
+ "coordenadas": {
+  "lat": 41.53809,
+  "lng": 1.87025,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08076"
+ },
+ "poblacion": {
+  "valor": 22665,
+  "anio": 2025,
+  "valor_hace_10": 21701,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 4.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 27.4,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080765)"
+ },
+ "densidad_hab_km2": 827,
+ "altitud_m": {
+  "valor": 187,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080765)"
+ },
+ "turismos": {
+  "valor": 11629,
+  "anio": "2024",
+  "por_1000_hab": 513,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 28.5,
+  "km_linea_recta": 24.6,
+  "vias_de_la_ruta": [
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 13.7,
+   "km_linea": 11.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Terrassa)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrasa",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 19.1,
+  "km_linea": 13.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 0.7
+  },
+  {
+   "ref": "C-55",
+   "tipo": "trunk",
+   "km": 1.2
+  },
+  {
+   "ref": "B-40",
+   "tipo": "motorway",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "olesa-de-montserrat",
+   "nombre": "Olesa de Montserrat",
+   "km_linea_recta": 2.1
+  },
+  {
+   "slug": "abrera",
+   "nombre": "Abrera",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "collbato",
+   "nombre": "Collbató",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "sant-esteve-sesrovires",
+   "nombre": "Sant Esteve Sesrovires",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "els-hostalets-de-pierola",
+   "nombre": "els Hostalets de Pierola",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "masquefa",
+   "nombre": "Masquefa",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "viladecavalls",
+   "nombre": "Viladecavalls",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "ullastrell",
+   "nombre": "Ullastrell",
+   "km_linea_recta": 7.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en Esparreguera — Revisión y reparación con garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 21855
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

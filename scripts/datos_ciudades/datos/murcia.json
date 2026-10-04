@@ -1,0 +1,163 @@
+{
+ "slug": "murcia",
+ "nombre": "Murcia",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Murcia",
+ "ccaa": "Murcia",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "30030",
+ "coordenadas": {
+  "lat": 37.98704,
+  "lng": -1.13004,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 30030"
+ },
+ "poblacion": {
+  "valor": 479405,
+  "anio": 2025,
+  "valor_hace_10": 439889,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 881.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 30030"
+ },
+ "densidad_hab_km2": 544,
+ "altitud_m": {
+  "valor": 51,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Espinardo",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/209286480) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Baser Inspecciones Técnicas",
+    "operador": null,
+    "direccion": "Avenida Primero De Mayo 5",
+    "municipio": "Murcia",
+    "fuente": "OpenStreetMap (way/648725149) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/918842033) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Ronda Sur",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/1136512425) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Marcos Automoción (Avda. Rocio)",
+  "razon_social": "Murcia Premium, S.L.",
+  "direccion": "Avda. del Rocío, 4",
+  "cp": "30007",
+  "municipio": "Murcia",
+  "web": "https://murciapremium.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.3,
+  "km_linea": 1.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "MU-33",
+   "tipo": "motorway",
+   "km": 1.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "orihuela",
+   "nombre": "Orihuela",
+   "km_linea_recta": 19.6
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 44.7
+  },
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 48.4
+  },
+  {
+   "slug": "alicante",
+   "nombre": "Alicante",
+   "km_linea_recta": 69.3
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 128.6
+  },
+  {
+   "slug": "almeria",
+   "nombre": "Almería",
+   "km_linea_recta": 173.5
+  },
+  {
+   "slug": "valencia",
+   "nombre": "Valencia",
+   "km_linea_recta": 177.7
+  },
+  {
+   "slug": "jaen",
+   "nombre": "Jaén",
+   "km_linea_recta": 234.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Murcia | Especialistas en mecánica BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 471982
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

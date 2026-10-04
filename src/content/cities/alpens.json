@@ -3,7 +3,7 @@
   "name": "Alpens",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 304,
+  "population": 267,
   "lat": 42.1176,
   "lng": 2.097,
   "metaTitle": "Taller BMW en Alpens | Especialistas en montaña y frío",
@@ -189,5 +189,118 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Alpens, en el Lluçanès: un BMW a 855 metros y a 125 km del taller",
+    "entradilla": "Alpens tiene 267 vecinos y está a 855 metros de altitud. Nuestro taller queda a 125 km, en Sant Joan Despí, y no tiene sentido fingir que está cerca. Esto es lo que te sirve de verdad.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 125.0
+    },
+    "secciones": [
+      {
+        "id": "montana-y-frio",
+        "h2": "Lo que pide un coche a 855 metros",
+        "parrafos": [
+          "En invierno, a esta altitud, el frío se nota primero en la batería: un BMW con arranque y parada automático y mucho consumo eléctrico la exige más que un coche sencillo, y una batería cansada suele fallar la primera mañana de helada. La batería nueva, además, hay que registrarla en la centralita.",
+          "En las bajadas largas de carretera de montaña, los frenos trabajan más que en llano: el líquido de frenos absorbe humedad con los años y pierde punto de ebullición, por eso se cambia por tiempo y no por kilómetros."
+        ]
+      },
+      {
+        "id": "lo-mas-cercano",
+        "h2": "Lo más cercano: Vic y Ripoll",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 41 km por carretera. La estación de ITV más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 36,3 km.",
+          "Para el mantenimiento de rutina, lo razonable es un taller de la comarca o de Osona. El viaje a Sant Joan Despí —125 km por la BV-4341, la C-62, la C-25, la C-16 y la AP-7— solo compensa para una avería concreta de BMW que no se haya resuelto cerca, y siempre después de una llamada con modelo, año y síntomas."
+        ]
+      },
+      {
+        "id": "alpens-en-cifras",
+        "h2": "267 vecinos y 153 turismos",
+        "parrafos": [
+          "Alpens tenía 290 habitantes en 2015 y 267 en 2025, según el padrón. Idescat, con datos de la DGT, contaba 153 turismos en 2024: 573 por cada 1.000 vecinos, el doble que en Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller cerca de Alpens?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 125 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), a 36,3 km."
+      },
+      {
+        "q": "¿Cada cuánto se cambia el líquido de frenos?",
+        "a": "Por tiempo, según el plan de mantenimiento del coche, porque absorbe humedad aunque no se hagan kilómetros."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "267 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080044&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "855 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080044&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "153",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080044&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 36,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 41 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080044&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

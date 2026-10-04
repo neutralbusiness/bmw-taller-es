@@ -1,0 +1,145 @@
+{
+ "slug": "valdepenas-de-la-sierra",
+ "nombre": "Valdepeñas de la Sierra",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Guadalajara",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "19305",
+ "coordenadas": {
+  "lat": 40.90398,
+  "lng": -3.40229,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19305"
+ },
+ "poblacion": {
+  "valor": 151,
+  "anio": 2025,
+  "valor_hace_10": 192,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -21.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 70.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19305"
+ },
+ "densidad_hab_km2": 2,
+ "altitud_m": {
+  "valor": 887,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 70.4,
+  "km_linea_recta": 44.7,
+  "vias_de_la_ruta": [
+   "GU-1066",
+   "CM-1052",
+   "M-102",
+   "N-320",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV El Casar",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/1510921144) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 45.0,
+   "km_linea": 22.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Guadalajara)",
+  "razon_social": "Auto Premier Baviera, S.A. AutoPremier (Vehículo de Ocasión Ce",
+  "direccion": "Paseo de la Estación, 23",
+  "cp": "19004",
+  "municipio": "Guadalajara",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 45.7,
+  "km_linea": 35.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "casa-de-uceda",
+   "nombre": "Casa de Uceda",
+   "km_linea_recta": 6.4
+  },
+  {
+   "slug": "atazar-el",
+   "nombre": "El Atazar",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "patones",
+   "nombre": "Patones",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "villaseca-de-uceda",
+   "nombre": "Villaseca de Uceda",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "matarrubia",
+   "nombre": "Matarrubia",
+   "km_linea_recta": 9.5
+  },
+  {
+   "slug": "cervera-de-buitrago",
+   "nombre": "Cervera de Buitrago",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "uceda",
+   "nombre": "Uceda",
+   "km_linea_recta": 10.2
+  },
+  {
+   "slug": "cubillo-de-uceda-el",
+   "nombre": "El Cubillo de Uceda",
+   "km_linea_recta": 10.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Valdepeñas de la Sierra | Guadalajara",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 193
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

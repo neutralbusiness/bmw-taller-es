@@ -1,0 +1,155 @@
+{
+ "slug": "sant-quirze-de-besora",
+ "nombre": "Sant Quirze de Besora",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Osona",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08237",
+ "coordenadas": {
+  "lat": 42.1042,
+  "lng": 2.2238,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08237"
+ },
+ "poblacion": {
+  "valor": 2164,
+  "anio": 2025,
+  "valor_hace_10": 2132,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 1.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 8.12,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082378)"
+ },
+ "densidad_hab_km2": 267,
+ "altitud_m": {
+  "valor": 587,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082378)"
+ },
+ "turismos": {
+  "valor": 1156,
+  "anio": "2024",
+  "por_1000_hab": 534,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 103.0,
+  "km_linea_recta": 83.1,
+  "vias_de_la_ruta": [
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Ripoll (G08)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Passeig d'Ordina s/n",
+   "municipio": "Ripoll",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 15.3,
+   "km_linea": 11.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 24.8,
+  "km_linea": 19.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-17",
+   "tipo": "motorway",
+   "km": 0.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "montesquiu",
+   "nombre": "Montesquiu",
+   "km_linea_recta": 1.6
+  },
+  {
+   "slug": "vilaseca",
+   "nombre": "Vilaseca",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "oris",
+   "nombre": "Orís",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "santa-maria-de-besora",
+   "nombre": "Santa Maria de Besora",
+   "km_linea_recta": 4.0
+  },
+  {
+   "slug": "sora",
+   "nombre": "Sora",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "sant-vicenc-de-torello",
+   "nombre": "Sant Vicenç de Torelló",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "torello",
+   "nombre": "Torelló",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "sant-agusti-de-llucanes",
+   "nombre": "Sant Agustí de Lluçanès",
+   "km_linea_recta": 8.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Sant Quirze de Besora | Norte de Osona",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2187
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

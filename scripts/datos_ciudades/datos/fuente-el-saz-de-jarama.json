@@ -1,0 +1,153 @@
+{
+ "slug": "fuente-el-saz-de-jarama",
+ "nombre": "Fuente el Saz de Jarama",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28059",
+ "coordenadas": {
+  "lat": 40.63868,
+  "lng": -3.52123,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28059"
+ },
+ "poblacion": {
+  "valor": 7413,
+  "anio": 2025,
+  "valor_hace_10": 6440,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 15.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 33.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28059"
+ },
+ "densidad_hab_km2": 225,
+ "altitud_m": {
+  "valor": 632,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 4418,
+  "anio": "2025",
+  "por_1000_hab": 596,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 24.4,
+  "km_linea_recta": 14.5,
+  "vias_de_la_ruta": [
+   "M-111",
+   "M-100",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV ITV Barbastro S.A.U (estación 2818)",
+    "operador": "ITV Barbastro S.A.U",
+    "direccion": "Avda, Nicasio Martín, 4 - Pol. Ind. Sector 8. Parc. PR16",
+    "municipio": "Algete",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.6,
+  "km_linea": 5.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-111",
+   "tipo": "motorway",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "valdeolmos-alalpardo",
+   "nombre": "Valdeolmos-Alalpardo",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "valdetorres-de-jarama",
+   "nombre": "Valdetorres de Jarama",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "molar-el",
+   "nombre": "Molar, El",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "ribatejada",
+   "nombre": "Ribatejada",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "san-agustin-del-guadalix",
+   "nombre": "San Agustín del Guadalix",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 10.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Fuente el Saz de Jarama | Especialista ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 6379
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

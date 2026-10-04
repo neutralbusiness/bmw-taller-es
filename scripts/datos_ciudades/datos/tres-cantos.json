@@ -1,0 +1,152 @@
+{
+ "slug": "tres-cantos",
+ "nombre": "Tres Cantos",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28903",
+ "coordenadas": {
+  "lat": 40.60092,
+  "lng": -3.70806,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28903"
+ },
+ "poblacion": {
+  "valor": 54592,
+  "anio": 2025,
+  "valor_hace_10": 43309,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 26.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 37.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28903"
+ },
+ "densidad_hab_km2": 1444,
+ "altitud_m": {
+  "valor": 727,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 28323,
+  "anio": "2025",
+  "por_1000_hab": 519,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 12.7,
+  "km_linea_recta": 8.4,
+  "vias_de_la_ruta": [
+   "M-607",
+   "M-616"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜV ATISAE (estación 2811)",
+    "operador": "TÜV SÜV ATISAE",
+    "direccion": "San Isidro Labrador, 6",
+    "municipio": "Tres Cantos",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 14.5,
+  "km_linea": 12.0,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-607",
+   "tipo": "motorway",
+   "km": 0.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "el-goloso",
+   "nombre": "El Goloso",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "colmenar-viejo",
+   "nombre": "Colmenar Viejo",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "san-agustin-del-guadalix",
+   "nombre": "San Agustín del Guadalix",
+   "km_linea_recta": 11.6
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 15.7
+  },
+  {
+   "slug": "molar-el",
+   "nombre": "Molar, El",
+   "km_linea_recta": 16.1
+  },
+  {
+   "slug": "las-matas",
+   "nombre": "Las Matas",
+   "km_linea_recta": 16.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Tres Cantos — Especialistas N47 y Diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 41896
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": true
+ }
+}

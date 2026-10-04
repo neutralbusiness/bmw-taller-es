@@ -1,0 +1,183 @@
+{
+ "slug": "arganda",
+ "nombre": "Arganda",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28014",
+ "coordenadas": {
+  "lat": 40.30076,
+  "lng": -3.43722,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28014"
+ },
+ "poblacion": {
+  "valor": 60419,
+  "anio": 2025,
+  "valor_hace_10": 54533,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 10.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 79.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28014"
+ },
+ "densidad_hab_km2": 756,
+ "altitud_m": {
+  "valor": 623,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 30786,
+  "anio": "2025",
+  "por_1000_hab": 510,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 43.2,
+  "km_linea_recta": 32.2,
+  "vias_de_la_ruta": [
+   "N-IIIa",
+   "A-3",
+   "M-40",
+   "M-12"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV General de Servicios ITV, S.A (estación 2852)",
+    "operador": "General de Servicios ITV, S.A",
+    "direccion": "Camino Puente Viejo, s/n",
+    "municipio": "Arganda Del Rey",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L (estación 2807)",
+    "operador": "LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L",
+    "direccion": "Camino de San Martín de la Vega, nº8",
+    "municipio": "Arganda Del Rey",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Madrid)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Carretera de Valencia, Km 7,3",
+  "cp": "28031",
+  "municipio": "Madrid",
+  "web": "https://autopremier-madrid.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 20.8,
+  "km_linea": 18.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-IIIa",
+   "tipo": "trunk",
+   "km": 0.4
+  },
+  {
+   "ref": "R-3",
+   "tipo": "motorway",
+   "km": 1.6
+  },
+  {
+   "ref": "A-3",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "M-209",
+   "tipo": "primary",
+   "km": 2.3
+  },
+  {
+   "ref": "M-300",
+   "tipo": "primary",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "arganda-del-rey",
+   "nombre": "Arganda del Rey",
+   "km_linea_recta": 1.1
+  },
+  {
+   "slug": "campo-real",
+   "nombre": "Campo Real",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "rivas-vaciamadrid",
+   "nombre": "Rivas-Vaciamadrid",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "morata-de-tajuna",
+   "nombre": "Morata de Tajuña",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "velilla-de-san-antonio",
+   "nombre": "Velilla de San Antonio",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "loeches",
+   "nombre": "Loeches",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "perales-de-tajuna",
+   "nombre": "Perales de Tajuña",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 10.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Arganda | Comarca de las Vegas Madrid",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 51489
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

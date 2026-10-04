@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { NETWORK, SERVICES } from "../lib/network.ts";
+import { SOCIOS, HORARIO_SCHEMA_DASERCARS } from "../lib/socios.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -29,6 +30,27 @@ interface TenantConfig {
   lng?: number;
   gbpUrl?: string;
   hours?: string;
+}
+
+/* ── Contenido local v3 (oct-2026) ─────────────────────────────────
+   Contenido único por ciudad escrito a mano a partir de datos verificados
+   (scripts/datos_ciudades/datos/<slug>.json). Si `local` existe, la página
+   se pinta con este bloque y NO con las secciones de plantilla (proceso,
+   por qué nosotros, problemas, introLocal, cierre), que eran casi iguales
+   en toda la red. Ver scripts/datos_ciudades/GUIA-REDACCION.md. */
+interface SeccionLocal { id: string; h2: string; parrafos: string[]; lista?: string[]; }
+interface DatoLocal { etiqueta: string; valor: string; fuente: string; url?: string; }
+interface FuenteLocal { texto: string; url?: string; }
+interface ContenidoLocal {
+  version: 3;
+  revisado: string;            // AAAA-MM-DD de la redacción
+  h1: string;
+  entradilla: string;
+  socio?: { id: string; kmCarretera?: number };
+  secciones: SeccionLocal[];
+  faq: FaqItem[];
+  datos: DatoLocal[];
+  fuentes: FuenteLocal[];
 }
 
 interface CityContent {
@@ -61,6 +83,7 @@ interface CityContent {
   closingHeadline?: string;
   closingCta: string;
   tenant?: TenantConfig;
+  local?: ContenidoLocal;
 }
 
 export async function getStaticPaths() {
@@ -104,6 +127,11 @@ const nearbyCities: Array<NearbyCity & { distanceKm: number }> =
         .sort((a, b) => a.distanceKm - b.distanceKm)
         .slice(0, 8)
     : [];
+const L = city.local && city.local.version === 3 ? city.local : null;
+const socio = L?.socio ? SOCIOS[L.socio.id] : undefined;
+// Las fuentes que ya aparecen enlazadas en la ficha de datos no se repiten abajo.
+const fuentesExtra = L ? L.fuentes.filter(f => !f.url || !L.datos.some(d => d.url === f.url)) : [];
+const fmtKm = (km: number) => (km < 10 ? km.toFixed(1).replace(".", ",") : Math.round(km).toString());
 // Últimas 3 entradas del blog visibles en este subdominio (ciudad o globales)
 type BlogPost = CollectionEntry<"blog">;
 const _allBlog = await getCollection("blog");
@@ -135,7 +163,7 @@ const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
 const whatsapp = t?.whatsapp ?? NETWORK.whatsapp;
 const email = t?.email ?? NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
-const hours = t?.hours ?? "Lunes a Sábado · 08:00–20:00";
+const hours = L ? (socio?.horario ?? "Llama para concertar cita") : (t?.hours ?? "Lunes a Sábado · 08:00–20:00");
 const addrStreet = t?.addressStreet;
 const addrPostal = t?.addressPostalCode;
 const geoLat = t?.lat ?? city.lat;
@@ -193,7 +221,7 @@ const waUrl = `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}`;
 
 // Solo el FAQ propio de la ciudad: el genérico se repetía idéntico
 // en toda la red y disparaba la similitud entre subdominios.
-const allFaqs = [...city.faqLocal];
+const allFaqs = L ? [...L.faq] : [...city.faqLocal];
 
 /* ──────────────────────────────────────────────────────────
    Schema.org @graph — paquete completo de entidades:
@@ -349,10 +377,60 @@ const faqEntity = {
   })),
 };
 
-const schemaGraph = {
-  "@context": "https://schema.org",
-  "@graph": [autoRepair, organization, webPage, breadcrumb, faqEntity],
+/* v3: solo se declara AutoRepair cuando el taller que atiende la ciudad
+   tiene dirección real publicada, y se declara CON esa dirección (no la de
+   la ciudad). areaServed dice la verdad: se atiende a la ciudad. */
+const tallerV3 = L && socio?.direccion
+  ? {
+      "@type": "AutoRepair",
+      "@id": `${canonical}#taller`,
+      name: socio.nombre,
+      url: socio.urlFicha,
+      telephone: phone,
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: socio.direccion,
+        postalCode: socio.cp,
+        addressLocality: socio.municipio,
+        addressRegion: socio.provincia,
+        addressCountry: "ES",
+      },
+      geo: { "@type": "GeoCoordinates", latitude: socio.lat, longitude: socio.lng },
+      openingHoursSpecification: HORARIO_SCHEMA_DASERCARS,
+      areaServed: { "@type": "City", name: city.name },
+      parentOrganization: { "@id": networkOrgId },
+    }
+  : null;
+const breadcrumbV3 = {
+  "@type": "BreadcrumbList",
+  "@id": breadcrumbId,
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: NETWORK.brand, item: `https://www.${NETWORK.domain}/` },
+    { "@type": "ListItem", position: 2, name: "Talleres BMW por provincia", item: `https://www.${NETWORK.domain}/zonas/` },
+    { "@type": "ListItem", position: 3, name: `${city.name} (${city.province})`, item: canonical },
+  ],
 };
+const webPageV3 = {
+  ...webPage,
+  dateModified: L?.revisado,
+  about: tallerV3 ? { "@id": tallerV3["@id"] } : { "@id": networkOrgId },
+};
+
+const schemaGraph = L
+  ? {
+      "@context": "https://schema.org",
+      "@graph": [
+        ...(tallerV3 ? [tallerV3] : []),
+        { ...organization, description: "Red de talleres independientes especializados en BMW y MINI, con talleres propios de Dasercars en Alcobendas (Madrid) y Sant Joan Despí (Barcelona). No es concesionario ni servicio oficial de BMW." },
+        webPageV3,
+        breadcrumbV3,
+        ...(allFaqs.length ? [faqEntity] : []),
+      ],
+    }
+  : {
+      "@context": "https://schema.org",
+      "@graph": [autoRepair, organization, webPage, breadcrumb, faqEntity],
+    };
 
 const introParagraphs = (Array.isArray(city.introLocal)
   ? city.introLocal
@@ -379,11 +457,16 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       </a>
       <div class="nav-links">
         <a href="/">Inicio</a>
-        <a href="#servicios">Servicios</a>
-        <a href="#proceso">Proceso</a>
-        <a href="#problemas">Problemas</a>
-        <a href="#opiniones">Opiniones</a>
-        <a href="#zona">Zona</a>
+        <a href={L ? `https://www.${NETWORK.domain}/servicios/` : "#servicios"}>Servicios</a>
+        {L ? (
+          <a href="#datos">Datos</a>
+        ) : (
+          <>
+            <a href="#proceso">Proceso</a>
+            <a href="#problemas">Problemas</a>
+            <a href="#zona">Zona</a>
+          </>
+        )}
         <a href={`/blog/`}>Blog</a>
         <a href="#faq">FAQ</a>
         <a href="#contacto">Contacto</a>
@@ -414,8 +497,8 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         Taller BMW en {city.name}, {city.province}
       </span>
-      <h1>Especialistas BMW en {city.name} — hasta un 50 % menos que el oficial.</h1>
-      <p class="lead">{city.heroSubtitle}</p>
+      {L ? <h1>{L.h1}</h1> : <h1>Especialistas BMW en {city.name} — hasta un 50 % menos que el oficial.</h1>}
+      <p class="lead">{L ? L.entradilla : city.heroSubtitle}</p>
       <div class="hero-ctas">
         <a href={`tel:${phone}`} class="btn btn-primary">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
@@ -434,7 +517,7 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
   </header>
 
   {/* ─────────────────────── TRUST STRIP ─────────────────────── */}
-  {city.trustChips && city.trustChips.length > 0 && (
+  {!L && city.trustChips && city.trustChips.length > 0 && (
     <aside class="trust-strip" aria-label="Garantías del taller">
       <div class="container">
         <ul class="trust-strip-list">
@@ -449,26 +532,42 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </aside>
   )}
 
+  {/* ─────────────────────── CONTENIDO LOCAL v3 ─────────────────────── */}
+  {L && L.secciones.map((sec, i) => (
+    <section id={sec.id} class={i % 2 === 1 ? "local-sec local-sec-alt" : "local-sec"}>
+      <div class="container local-container" data-editorial>
+        <h2>{sec.h2}</h2>
+        {sec.parrafos.map(p => <p>{p}</p>)}
+        {sec.lista && sec.lista.length > 0 && (
+          <ul class="local-list">{sec.lista.map(li => <li>{li}</li>)}</ul>
+        )}
+      </div>
+    </section>
+  ))}
+
   {/* ─────────────────────── SERVICIOS ─────────────────────── */}
+  {!L && (
   <section id="servicios">
     <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow"><span class="num">01</span> Servicios</span>
-        <h2>Qué hacemos con tu BMW en {city.name}</h2>
-        <p class="section-lead">{city.servicesIntro}</p>
+        <span class="section-eyebrow">{!L && <span class="num">01</span>} Servicios</span>
+        {L ? <h2>Servicios del taller</h2> : <h2>Qué hacemos con tu BMW en {city.name}</h2>}
+        {!L && <p class="section-lead">{city.servicesIntro}</p>}
       </div>
       <div class="services-grid">
         {SERVICES.map(s => (
           <article class="service-card">
             <span class="service-icon" set:html={SERVICE_ICONS[s.id] || SERVICE_ICONS.revision} />
             <h3>{s.title}</h3>
-            {city.servicesOverrides?.[s.id] && <p>{city.servicesOverrides[s.id]}</p>}
+            {!L && city.servicesOverrides?.[s.id] && <p>{city.servicesOverrides[s.id]}</p>}
           </article>
         ))}
       </div>
     </div>
   </section>
+  )}
 
+  {!L && (<>
   {/* ─────────────────────── PROCESO ─────────────────────── */}
   {city.processSteps && city.processSteps.length > 0 && (
     <section id="proceso" class="process-section">
@@ -562,14 +661,16 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </div>
   </section>
 
+  </>)}
+
   {/* ─────────────────────── FAQ ─────────────────────── */}
   <section id="faq">
     <div class="container">
       <div class="section-head">
-        <span class="section-eyebrow"><span class="num">07</span> Preguntas frecuentes</span>
-        <h2>Lo que más nos preguntan</h2>
+        {!L && <span class="section-eyebrow"><span class="num">07</span> Preguntas frecuentes</span>}
+        <h2>{L ? "Preguntas frecuentes" : "Lo que más nos preguntan"}</h2>
       </div>
-      <ul class="faq-list">
+      <ul class="faq-list" data-editorial={L ? "" : undefined}>
         {allFaqs.map(f => (
           <li class="faq-item">
             <details>
@@ -585,23 +686,51 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     </div>
   </section>
 
+  {/* ─────────────────────── FICHA DE DATOS (v3) ─────────────────────── */}
+  {L && L.datos.length > 0 && (
+    <section id="datos" class="local-sec local-sec-alt">
+      <div class="container local-container">
+        <h2>{city.name} en datos</h2>
+        <dl class="local-datos">
+          {L.datos.map(d => (
+            <div class="local-dato">
+              <dt>{d.etiqueta}</dt>
+              <dd>{d.valor}<span class="local-dato-fuente">{d.url ? <a href={d.url} target="_blank" rel="noopener">{d.fuente}</a> : d.fuente}</span></dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </section>
+  )}
+
   {/* ─────────────────────── CONTACTO ─────────────────────── */}
   <section id="contacto" class="contact-section">
     <div class="container">
       <div class="section-head" style="text-align: center; margin-left: auto; margin-right: auto;">
-        <span class="section-eyebrow"><span class="num">08</span> Pide cita</span>
-        <h2>{city.closingHeadline || `Cuida tu coche en ${city.name}`}</h2>
-        <p class="section-lead" style="margin-left: auto; margin-right: auto;">{city.closingCta}</p>
+        {!L && <span class="section-eyebrow"><span class="num">08</span> Pide cita</span>}
+        {L ? <h2>Pide cita o consulta</h2> : <h2>{city.closingHeadline || `Cuida tu coche en ${city.name}`}</h2>}
+        {L ? (
+          socio?.direccion ? (
+            <p class="section-lead" style="margin-left: auto; margin-right: auto;">
+              Te atiende {socio.nombre}, en {socio.direccion}, {socio.cp} {socio.municipio}{L.socio?.kmCarretera ? `, a unos ${fmtKm(L.socio.kmCarretera)} km por carretera desde ${city.name}` : ""}.
+            </p>
+          ) : (
+            <p class="section-lead" style="margin-left: auto; margin-right: auto;">Llama o escribe y te decimos cuándo y dónde podemos ver el coche.</p>
+          )
+        ) : (
+          <p class="section-lead" style="margin-left: auto; margin-right: auto;">{city.closingCta}</p>
+        )}
       </div>
       <div class="contact-card">
-        <p class="label">Llámanos ahora</p>
+        {!L && <p class="label">Llámanos ahora</p>}
         <a href={`tel:${phone}`} class="phone-big">{phoneDisplay}</a>
         <p class="hours">{hours}</p>
-        {addrStreet && (
+        {!L && addrStreet && (
           <p style="margin: 0.85rem 0 0; color: rgba(255,255,255,0.85); font-size: 0.95rem;">
             📍 {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}, {city.name}
           </p>
         )}
+
         <div class="ctas">
           <a href={`tel:${phone}`} class="btn btn-primary">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
@@ -616,14 +745,17 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
             Rellenar el formulario
           </a>
         </div>
+        {!L && (
         <p class="contact-email-note">
           Escríbenos por nuestro <a href={mailtoUrl}>formulario de contacto</a>.
         </p>
+        )}
       </div>
     </div>
   </section>
 
   {/* ─────────────────────── CONTEXTO LOCAL (al final por SEO sin estorbar al CTA) ─────────────────────── */}
+  {!L && (
   <section id="contexto" class="context-section">
     <div class="container">
       <div class="section-head">
@@ -656,6 +788,8 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       </div>
     </div>
   </section>
+
+  )}
 
   {/* ─────────────────────── BLOG (últimos artículos) ─────────────────────── */}
   {latestPosts.length > 0 && (
@@ -721,20 +855,24 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
     <section id="cercanas" class="nearby-section">
       <div class="container">
         <div class="section-head">
-          <span class="section-eyebrow"><span class="num">10</span> Red {NETWORK.brand}</span>
-          <h2>Talleres BMW cerca de {city.name}</h2>
+          {!L && <span class="section-eyebrow"><span class="num">10</span> Red {NETWORK.brand}</span>}
+          <h2>{L ? "Otros municipios cercanos" : `Talleres BMW cerca de ${city.name}`}</h2>
+          {L ? (
+            <p class="section-lead">Distancia en línea recta entre centros urbanos.</p>
+          ) : (
           <p class="section-lead">
             ¿No te pilla a mano? La red {NETWORK.brand} también atiende en estas localidades
             próximas a {city.name}, con el mismo diagnóstico ISTA y la misma política de
             presupuesto cerrado.
           </p>
+          )}
         </div>
         <ul class="nearby-list">
           {nearbyCities.map(n => (
             <li>
               <a href={`https://${n.slug}.${NETWORK.domain}/`} class="chip nearby-chip">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-                <span>Taller BMW en {n.name}</span>
+                {L ? <span>{n.name}<small class="nearby-km"> · {fmtKm(n.distanceKm)} km</small></span> : <span>Taller BMW en {n.name}</span>}
               </a>
             </li>
           ))}
@@ -768,6 +906,18 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
   )}
 
   
+{L && fuentesExtra.length > 0 && (
+  <section id="fuentes" class="local-sec local-fuentes">
+    <div class="container local-container">
+      <h2>Fuentes de esta página</h2>
+      <ul>
+        {fuentesExtra.map(f => <li>{f.url ? <a href={f.url} target="_blank" rel="noopener">{f.texto}</a> : f.texto}</li>)}
+      </ul>
+      <p class="local-note">Datos revisados el {new Date(L.revisado).toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" })}.</p>
+    </div>
+  </section>
+)}
+
 <!-- formulario-neutralb -->
 <section class="nb-form-sec" id="formulario" style="padding:clamp(2.5rem,6vw,4.5rem) 1.2rem">
   <div style="max-width:1100px;margin-inline:auto"><div data-nb-form></div></div>
@@ -782,8 +932,12 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       <div class="footer-grid">
         <div class="footer-col footer-brand-block">
           <div class="brand-name">{businessName}</div>
+          {L ? (
+            <p>Red de talleres especializados en BMW. {socio?.direccion ? `Esta zona la atiende ${socio.nombre} (${socio.municipio}).` : ""}</p>
+          ) : (
           <p>Taller especializado en BMW {t ? "" : `de la red ${NETWORK.brand}`}. Diagnóstico ISTA de nivel concesionario, recambios OE y presupuesto cerrado antes de tocar nada — hasta un 50 % menos que el oficial.</p>
-          {addrStreet && (
+          )}
+          {!L && addrStreet && (
             <p style="font-size: 0.92rem; color: rgba(255,255,255,0.75); margin-bottom: 0.4rem;">
               {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}
             </p>
@@ -810,12 +964,12 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
             <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>
             <li><a href={mailtoUrl}>Formulario de contacto</a></li>
             <li><a href={`/blog/`}>Blog</a></li>
-            <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">Lun–Sáb · 08:00–20:00</li>
+            <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">{L ? hours : "Lun–Sáb · 08:00–20:00"}</li>
           </ul>
         </div>
       </div>
       <div class="footer-legal">
-        <span>© {new Date().getFullYear()} {NETWORK.brand}. Hecho en {city.name}.</span>
+        <span>© {new Date().getFullYear()} {NETWORK.brand}.{!L && ` Hecho en ${city.name}.`}</span>
         <div class="footer-legal-links">
           <a href="https://www.bmw-taller.es/">Red completa</a>
           <a href="https://www.bmw-taller.es/zonas/">Todas las zonas</a>
@@ -838,4 +992,25 @@ const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
       WhatsApp
     </a>
   </div>
+  {L && (
+    <style>
+      .local-sec { padding: clamp(2.5rem, 6vw, 4.5rem) 0; }
+      .local-sec-alt { background: var(--ink-50); }
+      .local-container { max-width: 760px; }
+      .local-container h2 { margin-bottom: 1rem; }
+      .local-container p { line-height: 1.7; margin: 0 0 1rem; color: var(--ink-700); }
+      .local-list { margin: 0.5rem 0 1rem 1.2rem; line-height: 1.7; color: var(--ink-700); }
+      .local-note { font-size: 0.9rem; color: var(--ink-500) !important; }
+      .local-datos { display: grid; gap: 0.6rem; margin: 1rem 0 0; }
+      @media (min-width: 640px) { .local-datos { grid-template-columns: 1fr 1fr; } }
+      .local-dato { background: white; border: 1px solid var(--ink-200); border-radius: 10px; padding: 0.8rem 1rem; }
+      .local-dato dt { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-500); }
+      .local-dato dd { margin: 0.2rem 0 0; font-weight: 600; color: var(--ink-900); }
+      .local-dato-fuente { display: block; font-weight: 400; font-size: 0.78rem; color: var(--ink-500); margin-top: 0.2rem; }
+      .local-dato-fuente a { color: inherit; }
+      .local-fuentes ul { font-size: 0.9rem; color: var(--ink-700); line-height: 1.6; padding-left: 1.1rem; }
+      .local-fuentes a { color: var(--ink-700); }
+      .nearby-km { font-weight: 400; opacity: 0.75; }
+    </style>
+  )}
 </Layout>

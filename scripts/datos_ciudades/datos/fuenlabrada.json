@@ -1,0 +1,195 @@
+{
+ "slug": "fuenlabrada",
+ "nombre": "Fuenlabrada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28058",
+ "coordenadas": {
+  "lat": 40.28419,
+  "lng": -3.79415,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28058"
+ },
+ "poblacion": {
+  "valor": 190076,
+  "anio": 2025,
+  "valor_hace_10": 195180,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -2.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 39.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28058"
+ },
+ "densidad_hab_km2": 4861,
+ "altitud_m": {
+  "valor": 670,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 96418,
+  "anio": "2025",
+  "por_1000_hab": 507,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 40.6,
+  "km_linea_recta": 31.8,
+  "vias_de_la_ruta": [
+   "M-409",
+   "M-406",
+   "A-42",
+   "M-40",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV TÜV SÜD ATISAE, S.L.U (estación 2875)",
+    "operador": "TÜV SÜD ATISAE, S.L.U",
+    "direccion": "Almendro, 4 - nave 2",
+    "municipio": "Fuenlabrada",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2849)",
+    "operador": "TÜV Rheinland Ibérica, S.A",
+    "direccion": "Avda. de la Industria, 5. Pol. Ind. La Cantueña",
+    "municipio": "Fuenlabrada",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Momentum Leganés)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "C/. Palier esq. C/ Bastidor - P.I.",
+  "cp": "28914",
+  "municipio": "Leganés",
+  "web": "https://vehinter-momentumleganes.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.2,
+  "km_linea": 4.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-506",
+   "tipo": "motorway",
+   "km": 1.0
+  },
+  {
+   "ref": "M-409",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "M-413",
+   "tipo": "primary",
+   "km": 1.4
+  },
+  {
+   "ref": "M-405",
+   "tipo": "primary",
+   "km": 1.5
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "M-407",
+   "tipo": "motorway",
+   "km": 2.8
+  },
+  {
+   "ref": "M-419",
+   "tipo": "primary",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "getafe",
+   "nombre": "Getafe",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "parla",
+   "nombre": "Parla",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "alcorcon",
+   "nombre": "Alcorcón",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "mostoles",
+   "nombre": "Móstoles",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "grinon",
+   "nombre": "Griñón",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "moraleja-de-enmedio",
+   "nombre": "Moraleja de Enmedio",
+   "km_linea_recta": 8.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Fuenlabrada | Especialistas Serie 1 a 7, X y M",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 190496
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
+ }
+}

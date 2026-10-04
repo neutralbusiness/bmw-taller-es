@@ -1,0 +1,180 @@
+{
+ "slug": "terrassa",
+ "nombre": "Terrassa",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Occidental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08279",
+ "coordenadas": {
+  "lat": 41.56667,
+  "lng": 2.01667,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08279"
+ },
+ "poblacion": {
+  "valor": 233270,
+  "anio": 2025,
+  "valor_hace_10": 215214,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 70.16,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082798)"
+ },
+ "densidad_hab_km2": 3325,
+ "altitud_m": {
+  "valor": 277,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082798)"
+ },
+ "turismos": {
+  "valor": 102461,
+  "anio": "2024",
+  "por_1000_hab": 439,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 32.3,
+  "km_linea_recta": 22.4,
+  "vias_de_la_ruta": [
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Viladecavalls (B03)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "municipio": "Viladecavalls",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 6.3,
+   "km_linea": 3.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Terrassa)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrasa",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 5.2,
+  "km_linea": 2.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-150",
+   "tipo": "primary",
+   "km": 1.8
+  },
+  {
+   "ref": "BP-1503var",
+   "tipo": "primary",
+   "km": 1.9
+  },
+  {
+   "ref": "B-40",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "C-16",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "C-58",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "C-243c",
+   "tipo": "primary",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "viladecavalls",
+   "nombre": "Viladecavalls",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "ullastrell",
+   "nombre": "Ullastrell",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "sant-quirze-del-valles",
+   "nombre": "Sant Quirze del Vallès",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "matadepera",
+   "nombre": "Matadepera",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "castellar-del-valles",
+   "nombre": "Castellar del Vallès",
+   "km_linea_recta": 7.9
+  },
+  {
+   "slug": "sabadell",
+   "nombre": "Sabadell",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "rubi",
+   "nombre": "Rubí",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "vacarisses",
+   "nombre": "Vacarisses",
+   "km_linea_recta": 9.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en Terrassa — Revisión y reparación con garantía",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 233270
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

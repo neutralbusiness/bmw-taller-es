@@ -1,0 +1,157 @@
+{
+ "slug": "la-pobla-de-claramunt",
+ "nombre": "la Pobla de Claramunt",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08165",
+ "coordenadas": {
+  "lat": 41.55901,
+  "lng": 1.67778,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08165"
+ },
+ "poblacion": {
+  "valor": 2350,
+  "anio": 2025,
+  "valor_hace_10": 2150,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.3,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 18.54,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081653)"
+ },
+ "densidad_hab_km2": 127,
+ "altitud_m": {
+  "valor": 265,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081653)"
+ },
+ "turismos": {
+  "valor": 1441,
+  "anio": "2024",
+  "por_1000_hab": 613,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 54.2,
+  "km_linea_recta": 38.2,
+  "vias_de_la_ruta": [
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Igualada (B12)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 8.3,
+   "km_linea": 5.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 40.5,
+  "km_linea": 28.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-15",
+   "tipo": "motorway",
+   "km": 0.4
+  },
+  {
+   "ref": "C-37",
+   "tipo": "trunk",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "capellades",
+   "nombre": "Capellades",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "la-torre-de-claramunt",
+   "nombre": "la Torre de Claramunt",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "vilanova-del-cami",
+   "nombre": "Vilanova del Camí",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "vallbona-d-anoia",
+   "nombre": "Vallbona d'Anoia",
+   "km_linea_recta": 4.1
+  },
+  {
+   "slug": "castelloli",
+   "nombre": "Castellolí",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "carme",
+   "nombre": "Carme",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "igualada",
+   "nombre": "Igualada",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "piera",
+   "nombre": "Piera",
+   "km_linea_recta": 7.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de La Pobla de Claramunt | Especialistas",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2258
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

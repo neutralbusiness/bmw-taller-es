@@ -9,6 +9,7 @@
  */
 import type { APIRoute, GetStaticPaths } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE } from "../../lib/network.ts";
+import { SOCIOS } from "../../lib/socios.ts";
 
 interface CityContent {
   slug: string;
@@ -34,6 +35,56 @@ interface CityContent {
   zoneAccessRoutes?: string[];
   faqLocal: Array<{ q: string; a: string }>;
   closingCta: string;
+  tenant?: { active?: boolean; phone?: string; phoneDisplay?: string; whatsapp?: string };
+  local?: {
+    version: 3;
+    revisado: string;
+    h1: string;
+    entradilla: string;
+    socio?: { id: string; kmCarretera?: number };
+    secciones: Array<{ h2: string; parrafos: string[]; lista?: string[] }>;
+    faq: Array<{ q: string; a: string }>;
+    datos: Array<{ etiqueta: string; valor: string; fuente: string; url?: string }>;
+    fuentes: Array<{ texto: string; url?: string }>;
+  };
+}
+
+/** llms.txt del contenido local v3: solo hechos de la página, con fuente. */
+function llmsLocal(city: CityContent): string {
+  const L = city.local!;
+  const canonical = `https://${city.slug}.${NETWORK.domain}`;
+  const socio = L.socio ? SOCIOS[L.socio.id] : undefined;
+  const t = city.tenant && city.tenant.active !== false ? city.tenant : undefined;
+  const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
+  const phone = t?.phone ?? NETWORK.phone;
+  const out: string[] = [];
+  out.push(`# ${city.metaTitle}`, "", `> ${L.entradilla}`, "");
+  out.push("## Quién atiende esta ciudad", "");
+  if (socio?.direccion) {
+    out.push(`- Taller: ${socio.nombre} (taller independiente especializado en BMW y MINI; no es concesionario ni servicio oficial de BMW).`);
+    out.push(`- Dirección: ${socio.direccion}, ${socio.cp} ${socio.municipio} (${socio.provincia}).${socio.municipio === city.name ? "" : ` No hay taller de la red dentro de ${city.name}.`}`);
+    if (L.socio?.kmCarretera) out.push(`- Distancia por carretera desde el centro de ${city.name}: ${String(L.socio.kmCarretera).replace(".", ",")} km.`);
+    out.push(`- Horario: ${socio.horario}`);
+    out.push(`- Ficha del taller: ${socio.urlFicha}`);
+  } else {
+    out.push(`- ${socio?.nombre ?? "Taller de la red"}. Su dirección no está publicada; se facilita al llamar.`);
+  }
+  out.push(`- Teléfono de esta página: ${phoneDisplay} (${phone})`, `- Web: ${canonical}/`, "");
+  out.push(`## Datos de ${city.name} (con fuente)`, "");
+  for (const d of L.datos) out.push(`- ${d.etiqueta}: ${d.valor} — fuente: ${d.fuente}${d.url ? ` (${d.url})` : ""}`);
+  out.push("");
+  for (const sec of L.secciones) {
+    out.push(`## ${sec.h2}`, "", ...sec.parrafos.flatMap(p => [p, ""]));
+    if (sec.lista?.length) out.push(...sec.lista.map(li => `- ${li}`), "");
+  }
+  out.push("## Preguntas frecuentes", "");
+  for (const f of L.faq) out.push(`### ${f.q}`, "", f.a, "");
+  out.push("## Servicios del taller", "");
+  for (const s of SERVICES) out.push(`- ${s.title}`);
+  out.push("", "## Fuentes", "");
+  for (const f of L.fuentes) out.push(`- ${f.texto}${f.url ? `: ${f.url}` : ""}`);
+  out.push("", "---", "", `Contenido revisado el ${L.revisado}. Red ${NETWORK.brand}: https://www.${NETWORK.domain}/`);
+  return out.join("\n");
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -49,6 +100,11 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
+  if (city.local && city.local.version === 3) {
+    return new Response(llmsLocal(city), {
+      headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=300, s-maxage=3600" },
+    });
+  }
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
 

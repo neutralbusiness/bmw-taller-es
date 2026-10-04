@@ -1,0 +1,154 @@
+{
+ "slug": "valdeavero",
+ "nombre": "Valdeavero",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28156",
+ "coordenadas": {
+  "lat": 40.62812,
+  "lng": -3.34999,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28156"
+ },
+ "poblacion": {
+  "valor": 1896,
+  "anio": 2025,
+  "valor_hace_10": 1451,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 30.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 18.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28156"
+ },
+ "densidad_hab_km2": 102,
+ "altitud_m": {
+  "valor": 722,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 1233,
+  "anio": "2025",
+  "por_1000_hab": 650,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 55.9,
+  "km_linea_recta": 26.3,
+  "vias_de_la_ruta": [
+   "N-320",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
+   "operador": "ITVERSIA Gestión, S.L",
+   "direccion": "Vía Complutense, 105",
+   "municipio": "Alcalá De Henares",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 20.6,
+   "km_linea": 15.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (P.I.La Garena)",
+  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Argentina, 7",
+  "cp": "28806",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 19.5,
+  "km_linea": 15.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-320",
+   "tipo": "trunk",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "torrejon-del-rey",
+   "nombre": "Torrejón del Rey",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "valdeaveruelo",
+   "nombre": "Valdeaveruelo",
+   "km_linea_recta": 4.3
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "villanueva-de-la-torre",
+   "nombre": "Villanueva de la Torre",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "quer",
+   "nombre": "Quer",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "ribatejada",
+   "nombre": "Ribatejada",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "camarma-de-esteruelas",
+   "nombre": "Camarma de Esteruelas",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "meco",
+   "nombre": "Meco",
+   "km_linea_recta": 8.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Valdeavero | Mecánica y diagnosis oficial",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1510
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

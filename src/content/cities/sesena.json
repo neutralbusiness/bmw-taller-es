@@ -3,7 +3,7 @@
   "name": "Seseña",
   "province": "Toledo",
   "ccaa": "Castilla-La Mancha",
-  "population": 16231,
+  "population": 30907,
   "lat": 40.10473,
   "lng": -3.69793,
   "metaTitle": "Taller BMW en Seseña | Diagnosis original y mecánica especializada",
@@ -174,5 +174,106 @@
     "A-4 hacia Madrid",
     "CM-4004 acceso local",
     "N-IV alternativa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Seseña, un 43 % más grande que hace diez años: tu BMW y el taller de Alcobendas",
+    "entradilla": "Seseña ha pasado de 21.558 a 30.907 vecinos en diez años. Es provincia de Toledo, pero el taller que la atiende está en Alcobendas, a 58 km por la A-4. Esto es lo que tienes cerca y lo que supone el viaje.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 58.1
+    },
+    "secciones": [
+      {
+        "id": "un-43-por-ciento",
+        "h2": "Un 43,4 % más de población desde 2015",
+        "parrafos": [
+          "Según el padrón del INE, Seseña tenía 21.558 habitantes en 2015 y 30.907 en 2025: un 43,4 % más.",
+          "Si tu coche está todavía en garantía, hacer las revisiones fuera del concesionario no la anula mientras se cumplan los intervalos del plan de BMW y se usen recambios y aceites con la especificación correcta (Reglamento UE 461/2010). Lo único que no sale de la red oficial son las campañas que convoque la marca."
+        ]
+      },
+      {
+        "id": "lo-oficial-cerca",
+        "h2": "Lo oficial que tienes más cerca",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km por carretera. Para la ITV, una estación oficial cercana es la de General de Servicios ITV en el polígono Gonzalo Chacón de Aranjuez, a 14,7 km, que figura en el listado de la Comunidad de Madrid."
+        ]
+      },
+      {
+        "id": "a4-hasta-alcobendas",
+        "h2": "58 kilómetros por la A-4, la M-30 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas sube por la R-4 y la A-4, cruza por la M-30 y sale por la A-1: 58,1 km por carretera. Seseña queda fuera del área metropolitana de Madrid, así que la recogida y entrega que ofrece el taller no te sirve; el viaje lo haces tú.",
+          "Para que compense, llama antes con modelo, año, kilometraje y bastidor. El presupuesto se entrega por escrito y ningún trabajo empieza sin tu aprobación, de modo que puedes decidir antes de mover el coche."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué os atiende un taller de Madrid si Seseña es de Toledo?",
+        "a": "Porque el taller de la red más cercano es Dasercars Madrid, en Alcobendas, a 58,1 km; no hay otro taller de la red más próximo."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Seseña?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "30.907 habitantes (+43,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Getafe) · 29,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV oficial cercana",
+        "valor": "Aranjuez, polígono Gonzalo Chacón · 14,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 58,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

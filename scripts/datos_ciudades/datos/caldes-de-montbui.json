@@ -1,0 +1,154 @@
+{
+ "slug": "caldes-de-montbui",
+ "nombre": "Caldes de Montbui",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08033",
+ "coordenadas": {
+  "lat": 41.63333,
+  "lng": 2.16667,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08033"
+ },
+ "poblacion": {
+  "valor": 18567,
+  "anio": 2025,
+  "valor_hace_10": 17098,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 37.45,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080333)"
+ },
+ "densidad_hab_km2": 496,
+ "altitud_m": {
+  "valor": 203,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080333)"
+ },
+ "turismos": {
+  "valor": 9746,
+  "anio": "2024",
+  "por_1000_hab": 525,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 44.5,
+  "km_linea_recta": 31.0,
+  "vias_de_la_ruta": [
+   "C-59",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV CIM Vallès (B20)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. \\\\\\\"Les Minetes\\\\\\\"",
+   "municipio": "Santa Perpètua de Mogoda",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 13.6,
+   "km_linea": 10.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Tallcar",
+  "razon_social": "Tallcar, S.L.",
+  "direccion": "C/. Suiza, 6",
+  "cp": "08211",
+  "municipio": "Castellar del Vallés",
+  "web": "https://tallcar.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 11.5,
+  "km_linea": 7.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-59",
+   "tipo": "primary",
+   "km": 0.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sentmenat",
+   "nombre": "Sentmenat",
+   "km_linea_recta": 3.8
+  },
+  {
+   "slug": "santa-eulalia-de-roncana",
+   "nombre": "Santa Eulàlia de Ronçana",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "llica-d-amunt",
+   "nombre": "Lliçà d'Amunt",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "palau-solita-i-plegamans",
+   "nombre": "Palau-solità i Plegamans",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "bigues-i-riells",
+   "nombre": "Bigues i Riells",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "castellar-del-valles",
+   "nombre": "Castellar del Vallès",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "sant-feliu-de-codines",
+   "nombre": "Sant Feliu de Codines",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "llica-de-vall",
+   "nombre": "Lliçà de Vall",
+   "km_linea_recta": 7.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Especialistas BMW en Caldes de Montbui — Revisión y reparación con garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 16885
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

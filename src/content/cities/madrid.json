@@ -3,7 +3,7 @@
   "name": "Madrid",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 3255944,
+  "population": 3506730,
   "lat": 40.4165,
   "lng": -3.70256,
   "metaTitle": "BMW Taller en Madrid para Profesionales — Presupuesto Cerrado",
@@ -188,5 +188,133 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW para Madrid capital: Dasercars, a 20 km del centro por la A-1",
+    "entradilla": "Madrid no tiene un taller nuestro dentro del término municipal: el taller especialista que atiende la capital está en Alcobendas. Aquí tienes la ruta, las 17 ITV de la ciudad y el servicio oficial más próximo al centro, para que compares con datos.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 20.5
+    },
+    "secciones": [
+      {
+        "id": "ruta-alcobendas",
+        "h2": "Del centro de Madrid a Alcobendas: 20,5 km por la M-30 y la A-1",
+        "parrafos": [
+          "Desde la Puerta del Sol, la ruta más corta hasta la nave de Dasercars en la calle Valgrande sale a la M-30 y sigue por la A-1 hasta el polígono industrial de Alcobendas: 20,5 km por carretera, 15,2 km en línea recta. Desde el norte de la ciudad —Fuencarral, Hortaleza, Las Tablas o Sanchinarro— el trayecto se acorta mucho; desde Vallecas o Villaverde hay que cruzar la M-30 o la M-40.",
+          "El taller abre de lunes a viernes en jornada partida (9:00–14:00 y 15:00–18:00) y cierra el fin de semana, así que lo práctico es dejar el coche a primera hora y recogerlo por la tarde. Para trabajos de varios días existe vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad: pídelo al reservar, no el mismo día."
+        ]
+      },
+      {
+        "id": "itv-madrid",
+        "h2": "Diecisiete estaciones ITV dentro del término municipal",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid sitúa 17 estaciones de ITV en el municipio de Madrid. Entre ellas están las de Vallecas (Bruno Abúndez y avenida de la Democracia), Villaverde (A-42, km 9,8), Vicálvaro, La Gavia, el polígono Fin de Semana, la carretera de Valencia (A-3, km 7,1) y la de Miguel Yuste, en Simancas. Hacia el norte, la más cómoda si luego vas a Alcobendas es la de María de Portugal, en Sanchinarro.",
+          "Un turismo pasa su primera ITV a los cuatro años, después cada dos hasta los diez, y a partir de ahí cada año (Real Decreto 920/2017). Una pre-ITV repasa luces, emisiones, frenos y holguras de dirección y suspensión antes de pedir cita en la estación."
+        ]
+      },
+      {
+        "id": "oficial-o-independiente",
+        "h2": "Servicio oficial a 4,9 km o taller independiente a 20: cómo decidir",
+        "parrafos": [
+          "El punto de servicio oficial BMW más próximo al centro, según el localizador de bmw.es, es Caetano Cuzco, en la calle Edgar Neville, a unos 4,9 km de Sol. Las campañas de llamada a revisión del fabricante se hacen en la red oficial.",
+          "Para el mantenimiento, el Reglamento (UE) 461/2010 permite revisar el coche en un taller independiente sin perder la garantía del fabricante, siempre que se respeten intervalos y especificaciones del plan de mantenimiento. En Dasercars se entrega presupuesto por escrito y ningún trabajo empieza sin tu aprobación; la diagnosis también se presupuesta antes de conectar el equipo."
+        ]
+      },
+      {
+        "id": "parque-madrid",
+        "h2": "Una ciudad con menos coche por vecino que su corona",
+        "parrafos": [
+          "Madrid tenía 3.506.730 habitantes en el padrón de 2025, un 11,6 % más que diez años antes, y 1.360.704 turismos censados en 2025 según el Instituto de Estadística de la Comunidad de Madrid a partir de los datos de la DGT. Son 388 turismos por cada 1.000 habitantes, muy lejos de municipios de la misma red como Humanes de Madrid (590) o Camarma de Esteruelas (630).",
+          "Menos coches por vecino no significa menos desgaste por coche. Un diésel que solo hace trayectos cortos por la ciudad rara vez completa la regeneración del filtro de partículas, y es el uso que peor lleva; si es tu caso, una salida de vez en cuando por la M-40 o la A-1 a régimen constante le sienta mejor que cualquier aditivo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay algún taller vuestro dentro de Madrid capital?",
+        "a": "No. El taller que atiende Madrid es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 20,5 km del centro por la A-1."
+      },
+      {
+        "q": "¿Podéis recoger el coche en mi casa de Madrid?",
+        "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad. Conviene pedirla al reservar la cita."
+      },
+      {
+        "q": "¿En qué ITV de Madrid paso la inspección después de la pre-ITV?",
+        "a": "En cualquiera de las 17 estaciones del municipio que publica la Comunidad de Madrid; la del norte más cercana al taller es la de María de Portugal, en Sanchinarro."
+      },
+      {
+        "q": "¿Trabajáis también MINI?",
+        "a": "Sí. MINI comparte electrónica y motores con BMW y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.506.730 habitantes (+11,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos censados (2025)",
+        "valor": "1.360.704 · 388 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "17",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Distancia al taller (Alcobendas)",
+        "valor": "20,5 km por carretera",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW más cercano",
+        "valor": "Caetano Cuzco, c/ Edgar Neville 1 · 4,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

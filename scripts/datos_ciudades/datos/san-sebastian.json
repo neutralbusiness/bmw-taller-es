@@ -1,0 +1,152 @@
+{
+ "slug": "san-sebastian",
+ "nombre": "Donostia / San Sebastián",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Gipuzkoa",
+ "ccaa": "País Vasco",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "20069",
+ "coordenadas": {
+  "lat": 43.31283,
+  "lng": -1.97499,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 20069"
+ },
+ "poblacion": {
+  "valor": 189866,
+  "anio": 2025,
+  "valor_hace_10": 186095,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 60.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 20069"
+ },
+ "densidad_hab_km2": 3128,
+ "altitud_m": {
+  "valor": 28,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/256992481) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 11.6,
+   "km_linea": 8.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Momentum (Oyarzun)",
+  "razon_social": "Momentum Norte, S.R.L.",
+  "direccion": "Pol. Industrial Makarraztegi. 3",
+  "cp": "20180",
+  "municipio": "Oyarzun",
+  "web": "https://momentummotor.es/",
+  "solo_taller": false,
+  "km_carretera": 11.4,
+  "km_linea": 8.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "GI-20",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "GI-41",
+   "tipo": "primary",
+   "km": 0.6
+  },
+  {
+   "ref": "GI-40",
+   "tipo": "motorway",
+   "km": 1.6
+  },
+  {
+   "ref": "GI-21",
+   "tipo": "primary",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 2.4,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "pamplona",
+   "nombre": "Pamplona",
+   "km_linea_recta": 61.4
+  },
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 76.5
+  },
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 77.1
+  },
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 82.0
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 101.8
+  },
+  {
+   "slug": "ejea-de-los-caballeros",
+   "nombre": "Ejea de los Caballeros",
+   "km_linea_recta": 148.6
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 148.8
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 157.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en San Sebastián | Especialistas en Donostia-Gipuzkoa",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 185357
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

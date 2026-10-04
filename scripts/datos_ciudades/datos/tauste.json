@@ -1,0 +1,139 @@
+{
+ "slug": "tauste",
+ "nombre": "Tauste",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Zaragoza",
+ "ccaa": "Aragón",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34647503521",
+ "codigo_ine": "50252",
+ "coordenadas": {
+  "lat": 41.92346,
+  "lng": -1.18947,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50252"
+ },
+ "poblacion": {
+  "valor": 6838,
+  "anio": 2025,
+  "valor_hace_10": 6941,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -1.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 402.9,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50252"
+ },
+ "densidad_hab_km2": 17,
+ "altitud_m": {
+  "valor": 315,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "socio-zaragoza",
+  "nombre": "Taller asociado en Zaragoza",
+  "direccion": null,
+  "cp": null,
+  "municipio": null,
+  "horario": null,
+  "km_carretera": null,
+  "km_linea_recta": null,
+  "vias_de_la_ruta": null,
+  "fuente": "panel: network_sites.custom_phone"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "Inspección Técnica de Vehículos de Tarazona",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/1449424544) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 56.1,
+   "km_linea": 43.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Augusta Aragón",
+  "razon_social": "Augusta Aragón, S.A.",
+  "direccion": "Avda. Alcalde Caballero, 112",
+  "cp": "50015",
+  "municipio": "Zaragoza",
+  "web": "https://augustaaragon.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 54.3,
+  "km_linea": 38.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "alagon",
+   "nombre": "Alagón",
+   "km_linea_recta": 18.0
+  },
+  {
+   "slug": "ejea-de-los-caballeros",
+   "nombre": "Ejea de los Caballeros",
+   "km_linea_recta": 23.0
+  },
+  {
+   "slug": "utebo",
+   "nombre": "Utebo",
+   "km_linea_recta": 28.7
+  },
+  {
+   "slug": "borja",
+   "nombre": "Borja",
+   "km_linea_recta": 31.7
+  },
+  {
+   "slug": "zuera",
+   "nombre": "Zuera",
+   "km_linea_recta": 36.4
+  },
+  {
+   "slug": "zaragoza",
+   "nombre": "Zaragoza",
+   "km_linea_recta": 39.4
+  },
+  {
+   "slug": "muela-la",
+   "nombre": "Muela, La",
+   "km_linea_recta": 40.7
+  },
+  {
+   "slug": "cuarte-de-huerva",
+   "nombre": "Cuarte de Huerva",
+   "km_linea_recta": 42.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Tauste — Especialista con ISTA sin ir a Zaragoza",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 6838
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

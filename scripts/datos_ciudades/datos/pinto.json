@@ -1,0 +1,177 @@
+{
+ "slug": "pinto",
+ "nombre": "Pinto",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28113",
+ "coordenadas": {
+  "lat": 40.24147,
+  "lng": -3.69999,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28113"
+ },
+ "poblacion": {
+  "valor": 56651,
+  "anio": 2025,
+  "valor_hace_10": 48660,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 16.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 61.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28113"
+ },
+ "densidad_hab_km2": 918,
+ "altitud_m": {
+  "valor": 610,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 28166,
+  "anio": "2025",
+  "por_1000_hab": 497,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 38.2,
+  "km_linea_recta": 34.1,
+  "vias_de_la_ruta": [
+   "A-4",
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV APPLUS ITEUVE TECNOLOGY, S.L.U (estación 2867)",
+    "operador": "APPLUS ITEUVE TECNOLOGY, S.L.U",
+    "direccion": "C/ Carpinteros nº 13, Parcela M/1.3ª",
+    "municipio": "Pinto",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV ITV Maco, S.L (estación 2864)",
+    "operador": "ITV Maco, S.L",
+    "direccion": "Avda. Avutardas, 7. Pol. Ind. El Cascajal",
+    "municipio": "Pinto",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Vehinter (Getafe)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Ctra. Madrid-Toledo,",
+  "cp": "28905",
+  "municipio": "Getafe",
+  "web": "https://vehinter.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 9.5,
+  "km_linea": 6.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-506",
+   "tipo": "motorway",
+   "km": 0.6
+  },
+  {
+   "ref": "A-4",
+   "tipo": "motorway",
+   "km": 0.9
+  },
+  {
+   "ref": "M-408",
+   "tipo": "primary",
+   "km": 1.2
+  },
+  {
+   "ref": "M-423",
+   "tipo": "primary",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "parla",
+   "nombre": "Parla",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "valdemoro",
+   "nombre": "Valdemoro",
+   "km_linea_recta": 5.9
+  },
+  {
+   "slug": "getafe",
+   "nombre": "Getafe",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "torrejon-de-velasco",
+   "nombre": "Torrejón de Velasco",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "torrejon-de-la-calzada",
+   "nombre": "Torrejón de la Calzada",
+   "km_linea_recta": 9.2
+  },
+  {
+   "slug": "fuenlabrada",
+   "nombre": "Fuenlabrada",
+   "km_linea_recta": 9.3
+  },
+  {
+   "slug": "leganes",
+   "nombre": "Leganés",
+   "km_linea_recta": 10.9
+  },
+  {
+   "slug": "humanes-de-madrid",
+   "nombre": "Humanes de Madrid",
+   "km_linea_recta": 11.1
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Pinto | Mantenimiento y reparación especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 43501
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

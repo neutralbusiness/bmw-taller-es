@@ -1,0 +1,147 @@
+{
+ "slug": "vilaseca",
+ "nombre": "Vilaseca",
+ "tipo": "núcleo de población",
+ "pertenece_a": "Orís (Osona)",
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Osona",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08150",
+ "coordenadas": {
+  "lat": 42.07878,
+  "lng": 2.23357,
+  "comprobadas": false,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08150"
+ },
+ "poblacion": {
+  "valor": null,
+  "nota": "No es municipio: la cifra del INE sería la de Orís (Osona). No publicar población.",
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": null,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081509)"
+ },
+ "densidad_hab_km2": null,
+ "altitud_m": {
+  "valor": 576,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081509)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 99.3,
+  "km_linea_recta": 80.5,
+  "vias_de_la_ruta": [
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Ripoll (G08)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Passeig d'Ordina s/n",
+   "municipio": "Ripoll",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 16.9,
+   "km_linea": 14.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 21.1,
+  "km_linea": 16.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-17",
+   "tipo": "motorway",
+   "km": 0.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "oris",
+   "nombre": "Orís",
+   "km_linea_recta": 0.7
+  },
+  {
+   "slug": "sant-quirze-de-besora",
+   "nombre": "Sant Quirze de Besora",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "sant-vicenc-de-torello",
+   "nombre": "Sant Vicenç de Torelló",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "montesquiu",
+   "nombre": "Montesquiu",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "torello",
+   "nombre": "Torelló",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "santa-maria-de-besora",
+   "nombre": "Santa Maria de Besora",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "les-masies-de-voltrega",
+   "nombre": "les Masies de Voltregà",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "sant-hipolit-de-voltrega",
+   "nombre": "Sant Hipòlit de Voltregà",
+   "km_linea_recta": 6.8
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Vilaseca — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 17305
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "núcleo de población",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

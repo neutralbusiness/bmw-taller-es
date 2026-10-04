@@ -1,0 +1,153 @@
+{
+ "slug": "calonge-de-segarra",
+ "nombre": "Calonge de Segarra",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Anoia",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08036",
+ "coordenadas": {
+  "lat": 41.7569,
+  "lng": 1.4832,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08036"
+ },
+ "poblacion": {
+  "valor": 179,
+  "anio": 2025,
+  "valor_hace_10": 197,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -9.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 37.15,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080364)"
+ },
+ "densidad_hab_km2": 5,
+ "altitud_m": {
+  "valor": 688,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080364)"
+ },
+ "turismos": {
+  "valor": 131,
+  "anio": "2024",
+  "por_1000_hab": 732,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 83.8,
+  "km_linea_recta": 64.5,
+  "vias_de_la_ruta": [
+   "C-1412a",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Igualada (B12)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 33.1,
+   "km_linea": 22.3
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Unicars Ponent (Tárrega)",
+  "razon_social": "Unicars Ponent, S.L.",
+  "direccion": "Carrer de la Conca de Barberà,Nave6",
+  "cp": "25300",
+  "municipio": "Tárrega",
+  "web": "http://red.bmw.es/unicars/es_ES/home.html",
+  "solo_taller": false,
+  "km_carretera": 37.8,
+  "km_linea": 29.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 2.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "calaf",
+   "nombre": "Calaf",
+   "km_linea_recta": 3.7
+  },
+  {
+   "slug": "castellfollit-de-riubregos",
+   "nombre": "Castellfollit de Riubregós",
+   "km_linea_recta": 3.9
+  },
+  {
+   "slug": "sant-marti-sesgueioles",
+   "nombre": "Sant Martí Sesgueioles",
+   "km_linea_recta": 6.0
+  },
+  {
+   "slug": "pujalt",
+   "nombre": "Pujalt",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "sant-pere-sallavinera",
+   "nombre": "Sant Pere Sallavinera",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "els-prats-de-rei",
+   "nombre": "els Prats de Rei",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "veciana",
+   "nombre": "Veciana",
+   "km_linea_recta": 10.8
+  },
+  {
+   "slug": "aguilar-de-segarra",
+   "nombre": "Aguilar de Segarra",
+   "km_linea_recta": 11.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Calonge de Segarra | Frontera Anoia-Segarra",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 201
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "slug": "palma",
+ "nombre": "Palma",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Islas Baleares",
+ "ccaa": "Islas Baleares",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "07040",
+ "coordenadas": {
+  "lat": 39.56939,
+  "lng": 2.65024,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 07040"
+ },
+ "poblacion": {
+  "valor": 434786,
+  "anio": 2025,
+  "valor_hace_10": 400578,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 207.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 07040"
+ },
+ "densidad_hab_km2": 2093,
+ "altitud_m": {
+  "valor": 32,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV - Palma I",
+    "operador": "itevebasa",
+    "direccion": "Carrer del Gremi de Sucrers i Candelers 2",
+    "municipio": "Palma",
+    "fuente": "OpenStreetMap (way/179645137) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV Son Oms",
+    "operador": "itevebasa",
+    "direccion": "carrer del Canal de Sant Jordi 1",
+    "municipio": "Palma",
+    "fuente": "OpenStreetMap (way/330245129) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Proa Premium (Palma de Mallorca)",
+  "razon_social": "Proa Premium, S.L.",
+  "direccion": "Gremi de Sucrers i Candelers 6A",
+  "cp": "07009",
+  "municipio": "Palma de Mallorca",
+  "web": "https://proapremium.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 5.3,
+  "km_linea": 4.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "Ma-1",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "Ma-19",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "Ma-15",
+   "tipo": "trunk",
+   "km": 2.2
+  },
+  {
+   "ref": "Ma-13A",
+   "tipo": "primary",
+   "km": 2.3
+  },
+  {
+   "ref": "Ma-20",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "Ma-3018",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "Ma-13",
+   "tipo": "motorway",
+   "km": 2.5
+  },
+  {
+   "ref": "Ma-1110",
+   "tipo": "primary",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.7,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sitges",
+   "nombre": "Sitges",
+   "km_linea_recta": 198.3
+  },
+  {
+   "slug": "castelldefels",
+   "nombre": "Castelldefels",
+   "km_linea_recta": 198.5
+  },
+  {
+   "slug": "vilanova-i-la-geltru",
+   "nombre": "Vilanova i la Geltrú",
+   "km_linea_recta": 200.0
+  },
+  {
+   "slug": "cubelles",
+   "nombre": "Cubelles",
+   "km_linea_recta": 200.1
+  },
+  {
+   "slug": "cunit",
+   "nombre": "Cunit",
+   "km_linea_recta": 200.4
+  },
+  {
+   "slug": "gava",
+   "nombre": "Gavà",
+   "km_linea_recta": 200.8
+  },
+  {
+   "slug": "el-prat-de-llobregat",
+   "nombre": "El Prat de Llobregat",
+   "km_linea_recta": 201.1
+  },
+  {
+   "slug": "viladecans",
+   "nombre": "Viladecans",
+   "km_linea_recta": 201.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Palma | Especialistas en mecánica BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 438234
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

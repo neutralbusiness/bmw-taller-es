@@ -1,0 +1,191 @@
+{
+ "slug": "alcobendas",
+ "nombre": "Alcobendas",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28006",
+ "coordenadas": {
+  "lat": 40.54746,
+  "lng": -3.64197,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28006"
+ },
+ "poblacion": {
+  "valor": 123342,
+  "anio": 2025,
+  "valor_hace_10": 113055,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 9.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 45.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28006"
+ },
+ "densidad_hab_km2": 2741,
+ "altitud_m": {
+  "valor": 694,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 332201,
+  "anio": "2025",
+  "por_1000_hab": 2693,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 0.4,
+  "km_linea_recta": 0.3,
+  "vias_de_la_ruta": [],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2868)",
+    "operador": "APPLUS Iteuve Tecnology, S.L.U",
+    "direccion": "C/ La Maliciosa s/n, Parcela 2",
+    "municipio": "Alcobendas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV SÜD ATISAE (estación 2814)",
+    "operador": "TÜV SÜD ATISAE",
+    "direccion": "C/ Peñalara, 29. Parque Empresarial Valdelacasa",
+    "municipio": "Alcobendas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2833)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "Avda. Fuencarral, 100",
+    "municipio": "Alcobendas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2806)",
+    "operador": "DEKRA ITV ESPAÑA, S.L.U",
+    "direccion": "Avda. Valdelaparra, 1",
+    "municipio": "Alcobendas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 7.0,
+  "km_linea": 5.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-616",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "M-603",
+   "tipo": "trunk",
+   "km": 1.4
+  },
+  {
+   "ref": "A-1",
+   "tipo": "motorway",
+   "km": 1.6
+  },
+  {
+   "ref": "M-12",
+   "tipo": "motorway",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 1.5
+  },
+  {
+   "slug": "el-goloso",
+   "nombre": "El Goloso",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 9.9
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 10.8
+  },
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 11.4
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 11.7
+  },
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 13.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Alcobendas — Especialistas sin perder garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 116037
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": true
+ }
+}

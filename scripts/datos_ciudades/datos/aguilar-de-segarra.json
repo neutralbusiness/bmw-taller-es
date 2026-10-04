@@ -1,0 +1,157 @@
+{
+ "slug": "aguilar-de-segarra",
+ "nombre": "Aguilar de Segarra",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Bages",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08002",
+ "coordenadas": {
+  "lat": 41.7297,
+  "lng": 1.6159,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08002"
+ },
+ "poblacion": {
+  "valor": 292,
+  "anio": 2025,
+  "valor_hace_10": 246,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 18.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 43.32,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080023)"
+ },
+ "densidad_hab_km2": 7,
+ "altitud_m": {
+  "valor": 480,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080023)"
+ },
+ "turismos": {
+  "valor": 7912,
+  "anio": "2024",
+  "por_1000_hab": 27096,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 87.1,
+  "km_linea_recta": 54.5,
+  "vias_de_la_ruta": [
+   "C-25",
+   "C-55",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sant Fruitós (B25)",
+   "operador": "ITEVELESA",
+   "direccion": "c. Les Malloles, P-C7a: Polígon Industrial El Grau",
+   "municipio": "Sant Fruitós de Bages",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 28.7,
+   "km_linea": 20.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 33.0,
+  "km_linea": 21.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 1.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-pere-sallavinera",
+   "nombre": "Sant Pere Sallavinera",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "els-prats-de-rei",
+   "nombre": "els Prats de Rei",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "rajadell",
+   "nombre": "Rajadell",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "fonollosa",
+   "nombre": "Fonollosa",
+   "km_linea_recta": 8.1
+  },
+  {
+   "slug": "castellfollit-del-boix",
+   "nombre": "Castellfollit del Boix",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "rubio",
+   "nombre": "Rubió",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "calaf",
+   "nombre": "Calaf",
+   "km_linea_recta": 8.7
+  },
+  {
+   "slug": "sant-marti-sesgueioles",
+   "nombre": "Sant Martí Sesgueioles",
+   "km_linea_recta": 10.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Aguilar de Segarra | Altiplano del Bages",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 250
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

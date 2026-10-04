@@ -3,7 +3,7 @@
   "name": "Sentmenat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 8521,
+  "population": 9548,
   "lat": 41.60864,
   "lng": 2.13534,
   "metaTitle": "BMW Sentmenat — Tu taller especialista con precios de hasta -50%",
@@ -180,5 +180,122 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sentmenat: taller autorizado BMW a 6,6 km o especialista independiente",
+    "entradilla": "Desde Sentmenat tienes un taller autorizado BMW en Castellar del Vallès y nuestro taller especialista en Sant Joan Despí, a 42 km. Qué te ofrece cada uno y cómo se presupuesta.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 42.1
+    },
+    "secciones": [
+      {
+        "id": "tallcar-castellar",
+        "h2": "El servicio autorizado más cercano está en Castellar",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto de servicio oficial más próximo a Sentmenat es Tallcar, un taller autorizado BMW en la calle Suiza 6 de Castellar del Vallès, a 6,6 km por carretera. Para una campaña de revisión del fabricante o una reparación en garantía, es la opción lógica por cercanía.",
+          "Nuestro taller, Dasercars Barcelona, queda bastante más lejos: 42,1 km por la B-142, la AP-7 y la B-23 hasta Sant Joan Despí. Tiene sentido cuando buscas un especialista independiente para una avería concreta o para el mantenimiento fuera de la red oficial, que no hace perder la garantía si se respeta el plan del fabricante."
+        ]
+      },
+      {
+        "id": "presupuesto-por-escrito",
+        "h2": "Presupuesto cerrado y por escrito",
+        "parrafos": [
+          "Hay quien llega aquí buscando «precios cerrados». Lo que sí podemos asegurar es el método: el presupuesto se entrega por escrito y ningún trabajo empieza sin tu aprobación. La diagnosis es un trabajo técnico y también se presupuesta antes de conectar el equipo.",
+          "El precio depende del modelo, del motor y de la pieza, y ninguna cifra genérica te dice nada sobre tu coche. Llama con modelo, año y kilometraje y te damos un número concreto."
+        ]
+      },
+      {
+        "id": "itv-sabadell",
+        "h2": "La ITV, en el polígono Can Roqueta de Sabadell",
+        "parrafos": [
+          "La estación más próxima en el registro de la Generalitat es la de Sabadell (B24), en el polígono Can Roqueta, a 11,4 km del centro de Sentmenat. El municipio, con 9.548 vecinos en 2025 y 5.242 turismos en 2024 (Idescat, a partir de la DGT), tiene 549 turismos por cada 1.000 habitantes: más de un coche por cada dos personas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el taller BMW autorizado más cercano a Sentmenat?",
+        "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 6,6 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Me dais el precio por teléfono?",
+        "a": "Te orientamos con modelo, año y kilometraje, y el presupuesto definitivo se entrega por escrito antes de empezar."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "42,1 km por carretera hasta Sant Joan Despí, por la B-142, la AP-7 y la B-23."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "9.548 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082671&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.242 · 549 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082671&lang=es"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar, Castellar del Vallès · 6,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 11,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 42,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082671&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

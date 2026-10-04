@@ -1,0 +1,141 @@
+{
+ "slug": "gasteiz-vitoria",
+ "nombre": "Vitoria-Gasteiz",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Álava",
+ "ccaa": "País Vasco",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "01059",
+ "coordenadas": {
+  "lat": 42.84998,
+  "lng": -2.67268,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 01059"
+ },
+ "poblacion": {
+  "valor": 260699,
+  "anio": 2025,
+  "valor_hace_10": 243918,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 275.2,
+  "fuente": "CartoCiudad (IGN), término municipal INE 01059"
+ },
+ "densidad_hab_km2": 947,
+ "altitud_m": {
+  "valor": 545,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Vitoria",
+    "operador": null,
+    "direccion": "Lermandabidea kalea 13",
+    "municipio": "Vitoria-Gasteiz",
+    "fuente": "OpenStreetMap (way/288970397) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Burgocar (Motor Gorbea Vitoria)",
+  "razon_social": "Burgocar Comercial del Automóvil SA",
+  "direccion": "Alto de Armentía, 14",
+  "cp": "01007",
+  "municipio": "Vitoria",
+  "web": "https://motorgorbea.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 3.9,
+  "km_linea": 2.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-104",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "N-622",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 46.4
+  },
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 50.3
+  },
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 55.9
+  },
+  {
+   "slug": "san-sebastian",
+   "nombre": "Donostia / San Sebastián",
+   "km_linea_recta": 76.5
+  },
+  {
+   "slug": "pamplona",
+   "nombre": "Pamplona",
+   "km_linea_recta": 84.0
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 101.5
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 114.6
+  },
+  {
+   "slug": "tarazona",
+   "nombre": "Tarazona",
+   "km_linea_recta": 130.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Vitoria-Gasteiz | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 257407
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

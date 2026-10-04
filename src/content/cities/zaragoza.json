@@ -3,7 +3,7 @@
   "name": "Zaragoza",
   "province": "Zaragoza",
   "ccaa": "Aragón",
-  "population": 686986,
+  "population": 693091,
   "lat": 41.65606,
   "lng": -0.87734,
   "metaTitle": "Taller BMW en Zaragoza | Especialistas, diagnosis ISTA",
@@ -185,5 +185,109 @@
     "whatsapp": "34647503521",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Especialista BMW en Zaragoza: taller asociado de la red",
+    "entradilla": "En Zaragoza no trabaja Dasercars sino un taller asociado de la red, que es quien responde al teléfono de esta página. Aquí tienes lo que te sirve de la ciudad para decidir: servicio oficial, ITV y accesos.",
+    "socio": {
+      "id": "socio-zaragoza"
+    },
+    "secciones": [
+      {
+        "id": "quien-atiende",
+        "h2": "Quién te atiende cuando llamas desde Zaragoza",
+        "parrafos": [
+          "Los dos talleres propios de Dasercars están en Alcobendas y en Sant Joan Despí, a varios cientos de kilómetros. Para Zaragoza, la red funciona con un taller asociado: el teléfono que ves en esta página es el suyo, y al llamar te dicen dónde y cuándo pueden ver el coche. No publicamos su dirección aquí mientras no esté confirmada en la ficha de la red.",
+          "Cuando llames, ten a mano modelo, año, kilometraje y, si puede ser, el número de bastidor: con eso se identifica la referencia exacta del recambio y se puede orientar el presupuesto antes de que lleves el coche."
+        ]
+      },
+      {
+        "id": "servicio-oficial",
+        "h2": "Augusta Aragón, el servicio oficial, a 3,4 km del centro",
+        "parrafos": [
+          "El servicio oficial BMW de la ciudad que aparece en el localizador de bmw.es es Augusta Aragón, en la avenida Alcalde Caballero 112, a unos 3,4 km del centro por carretera. Las campañas de revisión del fabricante y las reparaciones cubiertas por la garantía de BMW se hacen allí.",
+          "El mantenimiento, en cambio, puedes hacerlo en un taller independiente sin perder la garantía siempre que se respeten los intervalos y las especificaciones del plan de mantenimiento: es lo que establece el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "itv-zaragoza",
+        "h2": "Cuatro estaciones de ITV en el término municipal",
+        "parrafos": [
+          "El directorio de estaciones del Gobierno de Aragón recoge cuatro estaciones de ITV dentro del municipio de Zaragoza, además de las de Utebo y Quinto de Ebro en la misma provincia. Con un término municipal de casi 969 km², merece la pena elegir la estación por cercanía a tu barrio y no por costumbre."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Es Dasercars quien repara mi coche en Zaragoza?",
+        "a": "No. En Zaragoza te atiende un taller asociado de la red; Dasercars tiene sus talleres en Alcobendas y Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW en Zaragoza?",
+        "a": "Augusta Aragón, en la avenida Alcalde Caballero 112, según el localizador oficial de bmw.es."
+      },
+      {
+        "q": "¿Cuántas ITV hay en Zaragoza?",
+        "a": "Cuatro dentro del término municipal, según el directorio del Gobierno de Aragón."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "693.091 habitantes (+4,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "968,8 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "4",
+        "fuente": "Gobierno de Aragón",
+        "url": "https://www.aragon.es/itv/directorio-de-estaciones"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Augusta Aragón, av. Alcalde Caballero 112 · 3,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Gobierno de Aragón, estaciones ITV",
+        "url": "https://www.aragon.es/itv/directorio-de-estaciones"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "RD 920/2017 (ITV)",
+        "url": "https://www.boe.es/eli/es/rd/2017/10/23/920"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      }
+    ]
   }
 }

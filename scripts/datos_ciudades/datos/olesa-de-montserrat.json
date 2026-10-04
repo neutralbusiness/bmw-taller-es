@@ -1,0 +1,163 @@
+{
+ "slug": "olesa-de-montserrat",
+ "nombre": "Olesa de Montserrat",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Llobregat",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08147",
+ "coordenadas": {
+  "lat": 41.54372,
+  "lng": 1.89407,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08147"
+ },
+ "poblacion": {
+  "valor": 24966,
+  "anio": 2025,
+  "valor_hace_10": 23536,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 16.63,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081477)"
+ },
+ "densidad_hab_km2": 1501,
+ "altitud_m": {
+  "valor": 124,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081477)"
+ },
+ "turismos": {
+  "valor": 11215,
+  "anio": "2024",
+  "por_1000_hab": 449,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 28.9,
+  "km_linea_recta": 23.9,
+  "vias_de_la_ruta": [
+   "C-55",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Viladecavalls (B03)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "municipio": "Viladecavalls",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 12.5,
+   "km_linea": 7.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Terrassa)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Anoia, 9",
+  "cp": "08223",
+  "municipio": "Terrasa",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 16.8,
+  "km_linea": 11.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-55",
+   "tipo": "trunk",
+   "km": 0.6
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 2.0
+  },
+  {
+   "ref": "B-40",
+   "tipo": "motorway",
+   "km": 2.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "esparreguera",
+   "nombre": "Esparreguera",
+   "km_linea_recta": 2.1
+  },
+  {
+   "slug": "abrera",
+   "nombre": "Abrera",
+   "km_linea_recta": 3.0
+  },
+  {
+   "slug": "viladecavalls",
+   "nombre": "Viladecavalls",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "ullastrell",
+   "nombre": "Ullastrell",
+   "km_linea_recta": 5.7
+  },
+  {
+   "slug": "sant-esteve-sesrovires",
+   "nombre": "Sant Esteve Sesrovires",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "collbato",
+   "nombre": "Collbató",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "vacarisses",
+   "nombre": "Vacarisses",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "els-hostalets-de-pierola",
+   "nombre": "els Hostalets de Pierola",
+   "km_linea_recta": 7.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento oficial sin coste de concesionario",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 23301
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "slug": "a-coruna",
+ "nombre": "A Coruña",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "A Coruña",
+ "ccaa": "Galicia",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "15030",
+ "coordenadas": {
+  "lat": 43.37135,
+  "lng": -8.396,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 15030"
+ },
+ "poblacion": {
+  "valor": 251543,
+  "anio": 2025,
+  "valor_hace_10": 243870,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 3.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 38.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 15030"
+ },
+ "densidad_hab_km2": 6534,
+ "altitud_m": {
+  "valor": 22,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Sabón",
+   "operador": null,
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/168432867) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 14.4,
+   "km_linea": 11.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Novomóvil (La Coruña)",
+  "razon_social": "Novomóvil, S.A.",
+  "direccion": "Rua O Morrazo, 9",
+  "cp": "15171",
+  "municipio": "Oleiros",
+  "web": "https://novomovil.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.8,
+  "km_linea": 5.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "AC-11",
+   "tipo": "trunk",
+   "km": 1.2
+  },
+  {
+   "ref": "AC-12",
+   "tipo": "primary",
+   "km": 1.6
+  },
+  {
+   "ref": "AC-10",
+   "tipo": "primary",
+   "km": 2.3
+  },
+  {
+   "ref": "V-1.4",
+   "tipo": "trunk",
+   "km": 2.4
+  },
+  {
+   "ref": "AC-012",
+   "tipo": "primary",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.9,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "ourense",
+   "nombre": "Ourense",
+   "km_linea_recta": 122.9
+  },
+  {
+   "slug": "vigo",
+   "nombre": "Vigo",
+   "km_linea_recta": 129.4
+  },
+  {
+   "slug": "oviedo",
+   "nombre": "Oviedo",
+   "km_linea_recta": 206.2
+  },
+  {
+   "slug": "gijon",
+   "nombre": "Gijón",
+   "km_linea_recta": 221.5
+  },
+  {
+   "slug": "leon",
+   "nombre": "León",
+   "km_linea_recta": 245.3
+  },
+  {
+   "slug": "salamanca",
+   "nombre": "Salamanca",
+   "km_linea_recta": 349.3
+  },
+  {
+   "slug": "valladolid",
+   "nombre": "Valladolid",
+   "km_linea_recta": 356.3
+  },
+  {
+   "slug": "santander",
+   "nombre": "Santander",
+   "km_linea_recta": 370.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en A Coruña | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 250438
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

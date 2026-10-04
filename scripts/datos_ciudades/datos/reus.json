@@ -1,0 +1,169 @@
+{
+ "slug": "reus",
+ "nombre": "Reus",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Tarragona",
+ "ccaa": "Cataluña",
+ "comarca": "Baix Camp",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "43123",
+ "coordenadas": {
+  "lat": 41.15612,
+  "lng": 1.10687,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 43123"
+ },
+ "poblacion": {
+  "valor": 111601,
+  "anio": 2025,
+  "valor_hace_10": 103194,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 8.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 52.82,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=431233)"
+ },
+ "densidad_hab_km2": 2113,
+ "altitud_m": {
+  "valor": 117,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=431233)"
+ },
+ "turismos": {
+  "valor": 50998,
+  "anio": "2024",
+  "por_1000_hab": 457,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 99.3,
+  "km_linea_recta": 82.9,
+  "vias_de_la_ruta": [
+   "N-420a",
+   "AP-7",
+   "C-32",
+   "B-25"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Reus (T02)",
+    "operador": "APPLUS ITV",
+    "direccion": "Carretera VALENCIA-TARRAGONA KM. 1155,14 S/N",
+    "municipio": "Reus",
+    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Oliva Motor (Tarragona)",
+  "razon_social": "Oliva Motor Gavarres, S.L.U.",
+  "direccion": "Carrer Josep Mª Folch i Torres, 2",
+  "cp": "43006",
+  "municipio": "Tarragona",
+  "web": "https://olivamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 10.3,
+  "km_linea": 8.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-420a",
+   "tipo": "primary",
+   "km": 0.7
+  },
+  {
+   "ref": "C-14z",
+   "tipo": "primary",
+   "km": 1.1
+  },
+  {
+   "ref": "T-11",
+   "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "C-14",
+   "tipo": "motorway",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 9.5,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "tarragona",
+   "nombre": "Tarragona",
+   "km_linea_recta": 12.3
+  },
+  {
+   "slug": "albinyana",
+   "nombre": "Albinyana",
+   "km_linea_recta": 33.9
+  },
+  {
+   "slug": "la-bisbal-del-penedes",
+   "nombre": "la Bisbal del Penedès",
+   "km_linea_recta": 34.0
+  },
+  {
+   "slug": "el-vendrell",
+   "nombre": "El Vendrell",
+   "km_linea_recta": 36.3
+  },
+  {
+   "slug": "santa-oliva",
+   "nombre": "Santa Oliva",
+   "km_linea_recta": 37.4
+  },
+  {
+   "slug": "el-montmell",
+   "nombre": "el Montmell",
+   "km_linea_recta": 38.1
+  },
+  {
+   "slug": "calafell",
+   "nombre": "Calafell",
+   "km_linea_recta": 38.9
+  },
+  {
+   "slug": "llorenc-del-penedes",
+   "nombre": "Llorenç del Penedès",
+   "km_linea_recta": 39.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Reus | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 103477
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": true
+ }
+}

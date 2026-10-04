@@ -1,0 +1,149 @@
+{
+ "slug": "fontanar",
+ "nombre": "Fontanar",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Guadalajara",
+ "ccaa": "Castilla-La Mancha",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "19117",
+ "coordenadas": {
+  "lat": 40.73019,
+  "lng": -3.18255,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19117"
+ },
+ "poblacion": {
+  "valor": 2630,
+  "anio": 2025,
+  "valor_hace_10": 2338,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 12.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 15.4,
+  "fuente": "CartoCiudad (IGN), término municipal INE 19117"
+ },
+ "densidad_hab_km2": 171,
+ "altitud_m": {
+  "valor": 695,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 61.0,
+  "km_linea_recta": 43.8,
+  "vias_de_la_ruta": [
+   "CM-101",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Itevelesa",
+   "operador": "Grupo Itevelesa",
+   "direccion": "Calle de Trafalgar",
+   "municipio": "Guadalajara",
+   "fuente": "OpenStreetMap (way/383258840) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 12.9,
+   "km_linea": 11.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Guadalajara)",
+  "razon_social": "Auto Premier Baviera, S.A. AutoPremier (Vehículo de Ocasión Ce",
+  "direccion": "Paseo de la Estación, 23",
+  "cp": "19004",
+  "municipio": "Guadalajara",
+  "web": "https://autopremier.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 11.4,
+  "km_linea": 9.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "CM-101",
+   "tipo": "primary",
+   "km": 0.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "yunquera-de-henares",
+   "nombre": "Yunquera de Henares",
+   "km_linea_recta": 2.9
+  },
+  {
+   "slug": "tortola-de-henares",
+   "nombre": "Tórtola de Henares",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "marchamalo",
+   "nombre": "Marchamalo",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "malaga-del-fresno",
+   "nombre": "Málaga del Fresno",
+   "km_linea_recta": 7.3
+  },
+  {
+   "slug": "mohernando",
+   "nombre": "Mohernando",
+   "km_linea_recta": 7.7
+  },
+  {
+   "slug": "guadalajara",
+   "nombre": "Guadalajara",
+   "km_linea_recta": 11.4
+  },
+  {
+   "slug": "fuentelahiguera-de-albatages",
+   "nombre": "Fuentelahiguera de Albatages",
+   "km_linea_recta": 11.6
+  },
+  {
+   "slug": "cabanillas-del-campo",
+   "nombre": "Cabanillas del Campo",
+   "km_linea_recta": 11.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Fontanar | Mecánica especializada Guadalajara",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 2342
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,149 @@
+{
+ "slug": "ribatejada",
+ "nombre": "Ribatejada",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28122",
+ "coordenadas": {
+  "lat": 40.66692,
+  "lng": -3.42256,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28122"
+ },
+ "poblacion": {
+  "valor": 905,
+  "anio": 2025,
+  "valor_hace_10": 707,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 28.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 32.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28122"
+ },
+ "densidad_hab_km2": 28,
+ "altitud_m": {
+  "valor": 820,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 567,
+  "anio": "2025",
+  "por_1000_hab": 627,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 29.1,
+  "km_linea_recta": 22.9,
+  "vias_de_la_ruta": [
+   "M-123",
+   "M-106",
+   "M-100",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV ITV Barbastro S.A.U (estación 2818)",
+   "operador": "ITV Barbastro S.A.U",
+   "direccion": "Avda, Nicasio Martín, 4 - Pol. Ind. Sector 8. Parc. PR16",
+   "municipio": "Algete",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 14.6,
+   "km_linea": 10.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 15.3,
+  "km_linea": 13.3,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "valdeolmos-alalpardo",
+   "nombre": "Valdeolmos-Alalpardo",
+   "km_linea_recta": 4.6
+  },
+  {
+   "slug": "torrejon-del-rey",
+   "nombre": "Torrejón del Rey",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 7.1
+  },
+  {
+   "slug": "casar-el",
+   "nombre": "El Casar",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "valdeavero",
+   "nombre": "Valdeavero",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "galapagos",
+   "nombre": "Galápagos",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "valdetorres-de-jarama",
+   "nombre": "Valdetorres de Jarama",
+   "km_linea_recta": 8.5
+  },
+  {
+   "slug": "fuente-el-saz-de-jarama",
+   "nombre": "Fuente el Saz de Jarama",
+   "km_linea_recta": 8.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Mecánico BMW en Ribatejada | Recogida a domicilio, taller",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 706
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "slug": "mollet-del-valles",
+ "nombre": "Mollet del Vallès",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08124",
+ "coordenadas": {
+  "lat": 41.54026,
+  "lng": 2.21306,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08124"
+ },
+ "poblacion": {
+  "valor": 52990,
+  "anio": 2025,
+  "valor_hace_10": 51650,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.6,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 10.77,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081249)"
+ },
+ "densidad_hab_km2": 4920,
+ "altitud_m": {
+  "valor": 65,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081249)"
+ },
+ "turismos": {
+  "valor": 23471,
+  "anio": "2024",
+  "por_1000_hab": 443,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 31.7,
+  "km_linea_recta": 23.2,
+  "vias_de_la_ruta": [
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV CIM Vallès (B20)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. \\\\\\\"Les Minetes\\\\\\\"",
+   "municipio": "Santa Perpètua de Mogoda",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 3.4,
+   "km_linea": 2.0
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 7.8,
+  "km_linea": 7.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-17",
+   "tipo": "motorway",
+   "km": 0.7
+  },
+  {
+   "ref": "C-33",
+   "tipo": "motorway",
+   "km": 1.0
+  },
+  {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 1.1
+  },
+  {
+   "ref": "C-59",
+   "tipo": "trunk",
+   "km": 1.4
+  },
+  {
+   "ref": "B-140",
+   "tipo": "trunk",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 10.9,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "martorelles",
+   "nombre": "Martorelles",
+   "km_linea_recta": 2.5
+  },
+  {
+   "slug": "santa-perpetua-de-mogoda",
+   "nombre": "Santa Perpètua de Mogoda",
+   "km_linea_recta": 2.6
+  },
+  {
+   "slug": "la-llagosta",
+   "nombre": "La Llagosta",
+   "km_linea_recta": 3.3
+  },
+  {
+   "slug": "montmelo",
+   "nombre": "Montmeló",
+   "km_linea_recta": 3.5
+  },
+  {
+   "slug": "parets-del-valles",
+   "nombre": "Parets del Vallès",
+   "km_linea_recta": 4.2
+  },
+  {
+   "slug": "sant-fost-de-campsentelles",
+   "nombre": "Sant Fost de Campsentelles",
+   "km_linea_recta": 4.4
+  },
+  {
+   "slug": "montornes-del-valles",
+   "nombre": "Montornès del Vallès",
+   "km_linea_recta": 4.5
+  },
+  {
+   "slug": "santa-maria-de-martorelles",
+   "nombre": "Santa Maria de Martorelles",
+   "km_linea_recta": 4.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller especializado BMW en Mollet del Vallès — Diagnóstico ISTA y recambio OE",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 52484
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "slug": "olesa-de-bonesvalls",
+ "nombre": "Olesa de Bonesvalls",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Alt Penedès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08146",
+ "coordenadas": {
+  "lat": 41.3531,
+  "lng": 1.84388,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08146"
+ },
+ "poblacion": {
+  "valor": 2135,
+  "anio": 2025,
+  "valor_hace_10": 1715,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 24.5,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 30.79,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081461)"
+ },
+ "densidad_hab_km2": 69,
+ "altitud_m": {
+  "valor": 265,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=081461)"
+ },
+ "turismos": {
+  "valor": 1194,
+  "anio": "2024",
+  "por_1000_hab": 559,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 28.5,
+  "km_linea_recta": 17.9,
+  "vias_de_la_ruta": [
+   "BV-2410",
+   "B-24",
+   "A-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Olèrdola (B09)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda HOSTAL NOU S/N",
+   "municipio": "Olèrdola",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 15.2,
+   "km_linea": 9.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Barcelona Premium (Sant Boi)",
+  "razon_social": "Caetano Barcelona Premium S.L. Sant Boi",
+  "direccion": "Ctra. del Prat, 15",
+  "cp": "08830",
+  "municipio": "Sant Boi de Llobregat",
+  "web": "https://barcelonapremium-santboi.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 30.6,
+  "km_linea": 17.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 12.6,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "begues",
+   "nombre": "Begues",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "avinyonet-del-penedes",
+   "nombre": "Avinyonet del Penedès",
+   "km_linea_recta": 5.5
+  },
+  {
+   "slug": "subirats",
+   "nombre": "Subirats",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "olivella",
+   "nombre": "Olivella",
+   "km_linea_recta": 6.8
+  },
+  {
+   "slug": "sant-cugat-sesgarrigues",
+   "nombre": "Sant Cugat Sesgarrigues",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "vallirana",
+   "nombre": "Vallirana",
+   "km_linea_recta": 8.3
+  },
+  {
+   "slug": "sant-sadurni-d-anoia",
+   "nombre": "Sant Sadurní d'Anoia",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "corbera-de-llobregat",
+   "nombre": "Corbera de Llobregat",
+   "km_linea_recta": 9.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Olesa de Bonesvalls | Especialistas Revisión ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1755
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

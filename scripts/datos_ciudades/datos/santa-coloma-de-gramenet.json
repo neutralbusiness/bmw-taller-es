@@ -1,0 +1,188 @@
+{
+ "slug": "santa-coloma-de-gramenet",
+ "nombre": "Santa Coloma de Gramenet",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Barcelonès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08245",
+ "coordenadas": {
+  "lat": 41.45152,
+  "lng": 2.2081,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08245"
+ },
+ "poblacion": {
+  "valor": 123981,
+  "anio": 2025,
+  "valor_hace_10": 116950,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 6.0,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 7.0,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082457)"
+ },
+ "densidad_hab_km2": 17712,
+ "altitud_m": {
+  "valor": 56,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082457)"
+ },
+ "turismos": {
+  "valor": 34470,
+  "anio": "2024",
+  "por_1000_hab": 278,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 21.1,
+  "km_linea_recta": 15.7,
+  "vias_de_la_ruta": [
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV BCN Caracas (B23)",
+   "operador": "TuV-RHEINLAND",
+   "direccion": "c. Caracas, 10 B",
+   "municipio": "Barcelona",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 2.0,
+   "km_linea": 1.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Barcelona Premium (Ronda Litoral)",
+  "razon_social": "Caetano Barcelona Premium S.L. Ronda Litoral",
+  "direccion": "Juan de Austria, 1",
+  "cp": "08930",
+  "municipio": "Sant Adrià de Besòs",
+  "web": "https://barcelonapremium.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 2.7,
+  "km_linea": 2.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "B-20",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "B-10",
+   "tipo": "trunk",
+   "km": 0.6
+  },
+  {
+   "ref": "C-58",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "C-17",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "C-58cc",
+   "tipo": "trunk",
+   "km": 1.6
+  },
+  {
+   "ref": "C-33",
+   "tipo": "trunk",
+   "km": 1.7
+  },
+  {
+   "ref": "C-31",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 4.2,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "llefia",
+   "nombre": "Llefià",
+   "km_linea_recta": 1.8
+  },
+  {
+   "slug": "sant-adria-de-besos",
+   "nombre": "Sant Adrià de Besòs",
+   "km_linea_recta": 2.5
+  },
+  {
+   "slug": "badalona",
+   "nombre": "Badalona",
+   "km_linea_recta": 3.3
+  },
+  {
+   "slug": "montcada-i-reixac",
+   "nombre": "Montcada i Reixac",
+   "km_linea_recta": 4.1
+  },
+  {
+   "slug": "montgat",
+   "nombre": "Montgat",
+   "km_linea_recta": 6.3
+  },
+  {
+   "slug": "ripollet",
+   "nombre": "Ripollet",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "sant-fost-de-campsentelles",
+   "nombre": "Sant Fost de Campsentelles",
+   "km_linea_recta": 6.6
+  },
+  {
+   "slug": "tiana",
+   "nombre": "Tiana",
+   "km_linea_recta": 6.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Santa Coloma de Gramenet — Especialistas sin perder garantía",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 118821
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

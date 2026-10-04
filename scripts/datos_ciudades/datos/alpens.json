@@ -1,0 +1,153 @@
+{
+ "slug": "alpens",
+ "nombre": "Alpens",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Lluçanès",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08004",
+ "coordenadas": {
+  "lat": 42.1176,
+  "lng": 2.097,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08004"
+ },
+ "poblacion": {
+  "valor": 267,
+  "anio": 2025,
+  "valor_hace_10": 290,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -7.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 13.8,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080044)"
+ },
+ "densidad_hab_km2": 19,
+ "altitud_m": {
+  "valor": 855,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=080044)"
+ },
+ "turismos": {
+  "valor": 153,
+  "anio": "2024",
+  "por_1000_hab": 573,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 125.0,
+  "km_linea_recta": 83.5,
+  "vias_de_la_ruta": [
+   "BV-4341",
+   "BV-4342",
+   "C-62",
+   "C-25",
+   "C-16",
+   "B-30",
+   "AP-7",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Ripoll (G08)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Passeig d'Ordina s/n",
+   "municipio": "Ripoll",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 36.3,
+   "km_linea": 11.8
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Quadis Munich (Vic)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Perot Rocaguinarda, 1",
+  "cp": "08500",
+  "municipio": "Vic",
+  "web": "",
+  "solo_taller": false,
+  "km_carretera": 41.0,
+  "km_linea": 24.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "sant-agusti-de-llucanes",
+   "nombre": "Sant Agustí de Lluçanès",
+   "km_linea_recta": 4.7
+  },
+  {
+   "slug": "sora",
+   "nombre": "Sora",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "lluca",
+   "nombre": "Lluçà",
+   "km_linea_recta": 5.8
+  },
+  {
+   "slug": "perafita",
+   "nombre": "Perafita",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "borreda",
+   "nombre": "Borredà",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "sant-boi-de-llucanes",
+   "nombre": "Sant Boi de Lluçanès",
+   "km_linea_recta": 8.6
+  },
+  {
+   "slug": "sant-marti-d-albars",
+   "nombre": "Sant Martí d'Albars",
+   "km_linea_recta": 8.9
+  },
+  {
+   "slug": "montesquiu",
+   "nombre": "Montesquiu",
+   "km_linea_recta": 9.4
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Alpens | Especialistas en montaña y frío",
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 267
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "montaña (>800 m)",
+  "distancia_taller": "lejos (80+ km)",
+  "itv_en_municipio": false
+ }
+}

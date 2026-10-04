@@ -1,0 +1,155 @@
+{
+ "slug": "tagamanent",
+ "nombre": "Tagamanent",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Barcelona",
+ "ccaa": "Cataluña",
+ "comarca": "Vallès Oriental",
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34622552992",
+ "codigo_ine": "08276",
+ "coordenadas": {
+  "lat": 41.7401,
+  "lng": 2.26649,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 08276"
+ },
+ "poblacion": {
+  "valor": 328,
+  "anio": 2025,
+  "valor_hace_10": 319,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 2.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 43.31,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082763)"
+ },
+ "densidad_hab_km2": 8,
+ "altitud_m": {
+  "valor": 354,
+  "fuente": "Idescat, El municipio en cifras (https://www.idescat.cat/emex/?id=082763)"
+ },
+ "turismos": {
+  "valor": 177,
+  "anio": "2024",
+  "por_1000_hab": 540,
+  "fuente": "Idescat a partir de la DGT"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-sant-joan-despi",
+  "nombre": "Dasercars Barcelona",
+  "direccion": "Carrer del Tambor del Bruc, 3, Local",
+  "cp": "08970",
+  "municipio": "Sant Joan Despí",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 56.3,
+  "km_linea_recta": 45.0,
+  "vias_de_la_ruta": [
+   "C-17",
+   "C-33",
+   "B-20",
+   "B-23"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Granollers (B18)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
+   "municipio": "Granollers",
+   "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
+   "oficial": true,
+   "verificar": false,
+   "precision": null,
+   "km_carretera": 22.4,
+   "km_linea": 18.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 19.7,
+  "km_linea": 16.4,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "C-17",
+   "tipo": "trunk",
+   "km": 0.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "figaro-montmany",
+   "nombre": "Figaró-Montmany",
+   "km_linea_recta": 2.2
+  },
+  {
+   "slug": "sant-marti-de-centelles",
+   "nombre": "Sant Martí de Centelles",
+   "km_linea_recta": 2.8
+  },
+  {
+   "slug": "aiguafreda",
+   "nombre": "Aiguafreda",
+   "km_linea_recta": 3.2
+  },
+  {
+   "slug": "la-garriga",
+   "nombre": "la Garriga",
+   "km_linea_recta": 6.5
+  },
+  {
+   "slug": "l-ametlla-del-valles",
+   "nombre": "l'Ametlla del Vallès",
+   "km_linea_recta": 7.0
+  },
+  {
+   "slug": "sant-quirze-safaja",
+   "nombre": "Sant Quirze Safaja",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "centelles",
+   "nombre": "Centelles",
+   "km_linea_recta": 7.5
+  },
+  {
+   "slug": "bigues-i-riells",
+   "nombre": "Bigues i Riells",
+   "km_linea_recta": 8.0
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Tagamanent | Diagnosis y reparación especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 322
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo pequeño (<1.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "slug": "jaen",
+ "nombre": "Jaén",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Jaén",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": true,
+ "telefono_pagina": null,
+ "codigo_ine": "23050",
+ "coordenadas": {
+  "lat": 37.76922,
+  "lng": -3.79028,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 23050"
+ },
+ "poblacion": {
+  "valor": 112235,
+  "anio": 2025,
+  "valor_hace_10": 115395,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": -2.7,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 422.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 23050"
+ },
+ "densidad_hab_km2": 266,
+ "altitud_m": {
+  "valor": 558,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Estación de Inspección Técnica de Vehículos de Jaén",
+    "operador": "Verificaciones Industriales de Andalucía",
+    "direccion": "Calle Espeluy 17",
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/343421569) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Motri Motor (Jaén)",
+  "razon_social": "Motri Motor, S.A.",
+  "direccion": "C/. Juan Eslava Galán, 4",
+  "cp": "23009",
+  "municipio": "Jaén",
+  "web": "https://motrimotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 3.5,
+  "km_linea": 2.1,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "J-14",
+   "tipo": "primary",
+   "km": 2.3
+  },
+  {
+   "ref": "N-323",
+   "tipo": "primary",
+   "km": 2.5
+  },
+  {
+   "ref": "J-12",
+   "tipo": "trunk",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "granada",
+   "nombre": "Granada",
+   "km_linea_recta": 66.6
+  },
+  {
+   "slug": "cordoba",
+   "nombre": "Córdoba",
+   "km_linea_recta": 87.4
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 129.3
+  },
+  {
+   "slug": "almeria",
+   "nombre": "Almería",
+   "km_linea_recta": 156.7
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 169.9
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 195.5
+  },
+  {
+   "slug": "sevilla",
+   "nombre": "Sevilla",
+   "km_linea_recta": 197.1
+  },
+  {
+   "slug": "albacete",
+   "nombre": "Albacete",
+   "km_linea_recta": 216.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Jaén | Especialistas en diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 113457
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "slug": "almeria",
+ "nombre": "Almería",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Almería",
+ "ccaa": "Andalucía",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "04013",
+ "coordenadas": {
+  "lat": 36.83814,
+  "lng": -2.45974,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 04013"
+ },
+ "poblacion": {
+  "valor": 205468,
+  "anio": 2025,
+  "valor_hace_10": 194203,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 5.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 294.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 04013"
+ },
+ "densidad_hab_km2": 698,
+ "altitud_m": {
+  "valor": 20,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Huércal de Almería",
+   "operador": "VEIASA",
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (way/639406633) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 5.2,
+   "km_linea": 4.1
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Automotor Costa (Huercal)",
+  "razon_social": "Automotor Costa, S.L.U.",
+  "direccion": "Ctra. N-340 km. 446,5",
+  "cp": "04230",
+  "municipio": "Huercal de Almería",
+  "web": "https://automotorcosta.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 4.7,
+  "km_linea": 4.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-340A",
+   "tipo": "trunk",
+   "km": 0.6
+  },
+  {
+   "ref": "AL-12",
+   "tipo": "trunk",
+   "km": 1.8
+  },
+  {
+   "ref": "A-7",
+   "tipo": "motorway",
+   "km": 2.1
+  },
+  {
+   "ref": "AL-14",
+   "tipo": "trunk",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 1.4,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "granada",
+   "nombre": "Granada",
+   "km_linea_recta": 109.0
+  },
+  {
+   "slug": "cartagena",
+   "nombre": "Cartagena",
+   "km_linea_recta": 155.8
+  },
+  {
+   "slug": "jaen",
+   "nombre": "Jaén",
+   "km_linea_recta": 156.7
+  },
+  {
+   "slug": "murcia",
+   "nombre": "Murcia",
+   "km_linea_recta": 173.5
+  },
+  {
+   "slug": "malaga",
+   "nombre": "Málaga",
+   "km_linea_recta": 175.1
+  },
+  {
+   "slug": "orihuela",
+   "nombre": "Orihuela",
+   "km_linea_recta": 192.6
+  },
+  {
+   "slug": "marbella",
+   "nombre": "Marbella",
+   "km_linea_recta": 219.3
+  },
+  {
+   "slug": "elche",
+   "nombre": "Elche",
+   "km_linea_recta": 221.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Almería | Especialistas en BMW",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 196851
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "gran ciudad (200.000+)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

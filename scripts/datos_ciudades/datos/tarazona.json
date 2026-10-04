@@ -1,0 +1,149 @@
+{
+ "slug": "tarazona",
+ "nombre": "Tarazona",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Zaragoza",
+ "ccaa": "Aragón",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34647503521",
+ "codigo_ine": "50251",
+ "coordenadas": {
+  "lat": 41.90475,
+  "lng": -1.72678,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50251"
+ },
+ "poblacion": {
+  "valor": 10873,
+  "anio": 2025,
+  "valor_hace_10": 10759,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 1.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 242.6,
+  "fuente": "CartoCiudad (IGN), término municipal INE 50251"
+ },
+ "densidad_hab_km2": 45,
+ "altitud_m": {
+  "valor": 503,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "socio-zaragoza",
+  "nombre": "Taller asociado en Zaragoza",
+  "direccion": null,
+  "cp": null,
+  "municipio": null,
+  "horario": null,
+  "km_carretera": null,
+  "km_linea_recta": null,
+  "vias_de_la_ruta": null,
+  "fuente": "panel: network_sites.custom_phone"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "Inspección Técnica de Vehículos de Tarazona",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/1449424544) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "T. Sebas",
+  "razon_social": "Talleres Sebas, S.A.",
+  "direccion": "Avda. de Valladolid, s/n",
+  "cp": "42005",
+  "municipio": "Soria",
+  "web": "https://talleresebas.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 70.2,
+  "km_linea": 64.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-121",
+   "tipo": "trunk",
+   "km": 0.2
+  },
+  {
+   "ref": "N-122",
+   "tipo": "trunk",
+   "km": 0.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "borja",
+   "nombre": "Borja",
+   "km_linea_recta": 16.3
+  },
+  {
+   "slug": "tauste",
+   "nombre": "Tauste",
+   "km_linea_recta": 44.5
+  },
+  {
+   "slug": "alagon",
+   "nombre": "Alagón",
+   "km_linea_recta": 52.2
+  },
+  {
+   "slug": "ejea-de-los-caballeros",
+   "nombre": "Ejea de los Caballeros",
+   "km_linea_recta": 54.6
+  },
+  {
+   "slug": "almunia-de-dona-godina-la",
+   "nombre": "Almunia de Doña Godina, La",
+   "km_linea_recta": 55.8
+  },
+  {
+   "slug": "calatayud",
+   "nombre": "Calatayud",
+   "km_linea_recta": 61.7
+  },
+  {
+   "slug": "utebo",
+   "nombre": "Utebo",
+   "km_linea_recta": 64.1
+  },
+  {
+   "slug": "muela-la",
+   "nombre": "Muela, La",
+   "km_linea_recta": 64.9
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Tarazona | Especialistas con Diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 11211
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "municipio medio (10.000-50.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

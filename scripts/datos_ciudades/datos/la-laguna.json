@@ -1,0 +1,165 @@
+{
+ "slug": "la-laguna",
+ "nombre": "La Laguna",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Santa Cruz de Tenerife",
+ "ccaa": "Canarias",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "38023",
+ "coordenadas": {
+  "lat": 28.4853,
+  "lng": -16.32014,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 38023"
+ },
+ "poblacion": {
+  "valor": 161108,
+  "anio": 2025,
+  "valor_hace_10": 152843,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 5.4,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 102.1,
+  "fuente": "CartoCiudad (IGN), término municipal INE 38023"
+ },
+ "densidad_hab_km2": 1578,
+ "altitud_m": {
+  "valor": 559,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV La Cuesta Taco",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/585624495) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   },
+   {
+    "nombre": "ITV",
+    "operador": null,
+    "direccion": null,
+    "municipio": null,
+    "fuente": "OpenStreetMap (way/1094479570) — NO oficial, verificar",
+    "oficial": false,
+    "verificar": true
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Canaauto (Taco- La Laguna)",
+  "razon_social": "Canarioalemana del Automóvil, S.L",
+  "direccion": "C/. Las Industrias, 12",
+  "cp": "38108",
+  "municipio": "Taco-La Laguna",
+  "web": "https://canaauto.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 6.0,
+  "km_linea": 4.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "TF-5",
+   "tipo": "motorway",
+   "km": 0.2
+  },
+  {
+   "ref": "TF-24",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "TF-263",
+   "tipo": "primary",
+   "km": 0.5
+  },
+  {
+   "ref": "TF-13",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "TF-2",
+   "tipo": "motorway",
+   "km": 2.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 6.9,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "santa-cruz-de-tenerife",
+   "nombre": "Santa Cruz de Tenerife",
+   "km_linea_recta": 6.7
+  },
+  {
+   "slug": "las-palmas-de-gran-canaria",
+   "nombre": "Las Palmas de Gran Canaria",
+   "km_linea_recta": 98.3
+  },
+  {
+   "slug": "telde",
+   "nombre": "Telde",
+   "km_linea_recta": 103.9
+  },
+  {
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 1296.3
+  },
+  {
+   "slug": "huelva",
+   "nombre": "Huelva",
+   "km_linea_recta": 1310.3
+  },
+  {
+   "slug": "jerez-de-la-frontera",
+   "nombre": "Jerez de la Frontera",
+   "km_linea_recta": 1318.3
+  },
+  {
+   "slug": "algeciras",
+   "nombre": "Algeciras",
+   "km_linea_recta": 1327.6
+  },
+  {
+   "slug": "dos-hermanas",
+   "nombre": "Dos Hermanas",
+   "km_linea_recta": 1376.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en La Laguna | Especialistas en Tenerife",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 150661
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": true
+ }
+}

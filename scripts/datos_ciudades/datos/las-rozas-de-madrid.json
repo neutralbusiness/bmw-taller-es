@@ -1,0 +1,181 @@
+{
+ "slug": "las-rozas-de-madrid",
+ "nombre": "Las Rozas de Madrid",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28127",
+ "coordenadas": {
+  "lat": 40.49292,
+  "lng": -3.87371,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28127"
+ },
+ "poblacion": {
+  "valor": 99037,
+  "anio": 2025,
+  "valor_hace_10": 93520,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 5.9,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 58.0,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28127"
+ },
+ "densidad_hab_km2": 1708,
+ "altitud_m": {
+  "valor": 716,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 53807,
+  "anio": "2025",
+  "por_1000_hab": 543,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 27.8,
+  "km_linea_recta": 20.5,
+  "vias_de_la_ruta": [
+   "A-6",
+   "M-40"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [
+   {
+    "nombre": "ITV Grupo ITEVELESA, S.L (estación 2831)",
+    "operador": "Grupo ITEVELESA, S.L",
+    "direccion": "A-6, km 20,4",
+    "municipio": "Las Rozas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   },
+   {
+    "nombre": "ITV TÜV SÜD ATISAE (estación 2816)",
+    "operador": "TÜV SÜD ATISAE",
+    "direccion": "C/ Cabo Rufino Lázaro, 14D, P4.1 - Pol. Ind. Európolis",
+    "municipio": "Las Rozas",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false
+   }
+  ],
+  "mas_cercana": null
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Movilnorte (Majadahonda)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "Ctra. El Plantío, 62",
+  "cp": "28220",
+  "municipio": "Majadahonda",
+  "web": "https://movilnorte.concesionariobmw.es/",
+  "solo_taller": false,
+  "km_carretera": 4.7,
+  "km_linea": 2.9,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-505",
+   "tipo": "trunk",
+   "km": 0.3
+  },
+  {
+   "ref": "A-6",
+   "tipo": "motorway",
+   "km": 0.4
+  },
+  {
+   "ref": "A-6 BUS-VAO",
+   "tipo": "motorway",
+   "km": 0.8
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "M-509",
+   "tipo": "trunk",
+   "km": 2.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "majadahonda",
+   "nombre": "Majadahonda",
+   "km_linea_recta": 2.2
+  },
+  {
+   "slug": "las-matas",
+   "nombre": "Las Matas",
+   "km_linea_recta": 7.4
+  },
+  {
+   "slug": "villanueva-del-pardillo",
+   "nombre": "Villanueva del Pardillo",
+   "km_linea_recta": 7.6
+  },
+  {
+   "slug": "pozuelo-de-alarcon",
+   "nombre": "Pozuelo de Alarcón",
+   "km_linea_recta": 8.4
+  },
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 9.8
+  },
+  {
+   "slug": "torrelodones",
+   "nombre": "Torrelodones",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "villanueva-de-la-canada",
+   "nombre": "Villanueva de la Cañada",
+   "km_linea_recta": 12.2
+  },
+  {
+   "slug": "colmenarejo",
+   "nombre": "Colmenarejo",
+   "km_linea_recta": 12.7
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Las Rozas de Madrid | Mecánica Especializada",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 95550
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": true
+ }
+}

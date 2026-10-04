@@ -1,0 +1,149 @@
+{
+ "slug": "el-goloso",
+ "nombre": "El Goloso",
+ "tipo": "barrio",
+ "pertenece_a": "Madrid",
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28079",
+ "coordenadas": {
+  "lat": 40.55342,
+  "lng": -3.69968,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "poblacion": {
+  "valor": null,
+  "nota": "No es municipio: la cifra del INE sería la de Madrid. No publicar población.",
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": null,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "densidad_hab_km2": null,
+ "altitud_m": {
+  "valor": 737,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 10.0,
+  "km_linea_recta": 5.0,
+  "vias_de_la_ruta": [
+   "M-616"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Entidad IDV Madrid, S.L (estación 2810)",
+   "operador": "Entidad IDV Madrid, S.L",
+   "direccion": "C/ Ntra, Sra. de Valverde, 179",
+   "municipio": "Madrid",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 11.9,
+   "km_linea": 5.6
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 11.7,
+  "km_linea": 6.8,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-616",
+   "tipo": "trunk",
+   "km": 0.5
+  },
+  {
+   "ref": "M-607",
+   "tipo": "motorway",
+   "km": 0.6
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 4.9
+  },
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 5.3
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 6.1
+  },
+  {
+   "slug": "chamartin",
+   "nombre": "Chamartín",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "ciudad-lineal",
+   "nombre": "Ciudad Lineal",
+   "km_linea_recta": 12.7
+  },
+  {
+   "slug": "colmenar-viejo",
+   "nombre": "Colmenar Viejo",
+   "km_linea_recta": 13.1
+  },
+  {
+   "slug": "madrid",
+   "nombre": "Madrid",
+   "km_linea_recta": 15.2
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 15.6
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en El Goloso, Madrid — Revisión Compraventa con ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 19036
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "barrio",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": false
+ }
+}

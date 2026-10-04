@@ -1,0 +1,157 @@
+{
+ "slug": "santander",
+ "nombre": "Santander",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Cantabria",
+ "ccaa": "Cantabria",
+ "comarca": null,
+ "capital_provincia": true,
+ "activa_panel": false,
+ "telefono_pagina": null,
+ "codigo_ine": "39075",
+ "coordenadas": {
+  "lat": 43.46589,
+  "lng": -3.80493,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 39075"
+ },
+ "poblacion": {
+  "valor": 175425,
+  "anio": 2025,
+  "valor_hace_10": 173957,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 0.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 35.8,
+  "fuente": "CartoCiudad (IGN), término municipal INE 39075"
+ },
+ "densidad_hab_km2": 4900,
+ "altitud_m": {
+  "valor": 66,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": null,
+  "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV Maliaño",
+   "operador": "Itevelesa",
+   "direccion": "Polígono industrial de Raos Parcela 10",
+   "municipio": "Maliaño",
+   "fuente": "OpenStreetMap (way/97098463) — NO oficial, verificar",
+   "oficial": false,
+   "verificar": true,
+   "precision": null,
+   "km_carretera": 7.3,
+   "km_linea": 4.2
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Grünblau Motor",
+  "razon_social": "Grünblau Motor, S.A.",
+  "direccion": "Barrio de la Venta, s/n",
+  "cp": "39608",
+  "municipio": "Santander-Camargo",
+  "web": "https://grunblaumotor.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 8.0,
+  "km_linea": 7.2,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "N-611",
+   "tipo": "primary",
+   "km": 2.1
+  },
+  {
+   "ref": "S-10",
+   "tipo": "motorway",
+   "km": 2.3
+  },
+  {
+   "ref": "S-21",
+   "tipo": "trunk",
+   "km": 2.3
+  },
+  {
+   "ref": "N-623",
+   "tipo": "trunk",
+   "km": 2.4
+  },
+  {
+   "ref": "S-20",
+   "tipo": "motorway",
+   "km": 2.7
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": 0.4,
+  "a_menos_de_5km": true
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "barakaldo",
+   "nombre": "Barakaldo",
+   "km_linea_recta": 68.6
+  },
+  {
+   "slug": "bilbao",
+   "nombre": "Bilbao",
+   "km_linea_recta": 74.6
+  },
+  {
+   "slug": "gasteiz-vitoria",
+   "nombre": "Vitoria-Gasteiz",
+   "km_linea_recta": 114.6
+  },
+  {
+   "slug": "burgos",
+   "nombre": "Burgos",
+   "km_linea_recta": 125.4
+  },
+  {
+   "slug": "san-sebastian",
+   "nombre": "Donostia / San Sebastián",
+   "km_linea_recta": 148.8
+  },
+  {
+   "slug": "gijon",
+   "nombre": "Gijón",
+   "km_linea_recta": 149.9
+  },
+  {
+   "slug": "logrono",
+   "nombre": "Logroño",
+   "km_linea_recta": 156.5
+  },
+  {
+   "slug": "oviedo",
+   "nombre": "Oviedo",
+   "km_linea_recta": 165.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Santander | Especialistas en Cantabria",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 173635
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "ciudad (50.000-200.000)",
+  "capital_provincia": true,
+  "costa": true,
+  "altitud": "baja (<600 m)",
+  "distancia_taller": "sin taller con dirección",
+  "itv_en_municipio": false
+ }
+}

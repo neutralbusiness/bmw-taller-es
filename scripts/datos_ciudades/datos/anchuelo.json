@@ -1,0 +1,150 @@
+{
+ "slug": "anchuelo",
+ "nombre": "Anchuelo",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34665245143",
+ "codigo_ine": "28012",
+ "coordenadas": {
+  "lat": 40.46883,
+  "lng": -3.27659,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28012"
+ },
+ "poblacion": {
+  "valor": 1414,
+  "anio": 2025,
+  "valor_hace_10": 1200,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 17.8,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 21.5,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28012"
+ },
+ "densidad_hab_km2": 66,
+ "altitud_m": {
+  "valor": 736,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 851,
+  "anio": "2025",
+  "por_1000_hab": 602,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 42.3,
+  "km_linea_recta": 32.0,
+  "vias_de_la_ruta": [
+   "M-213",
+   "M-300",
+   "M-100",
+   "R-2",
+   "M-50"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV TÜV SÜD ATISAE, S.A.U (estación 2878)",
+   "operador": "TÜV SÜD ATISAE, S.A.U",
+   "direccion": "Avda. Juan Carlos I, s/n Centro Comercial La Garena",
+   "municipio": "Alcalá De Henares",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (centro del municipio)",
+   "km_carretera": 10.4,
+   "km_linea": 7.4
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "AutoPremier (Alcalá Henares)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 14.3,
+  "km_linea": 6.5,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "cercanas_red": [
+  {
+   "slug": "santorcaz",
+   "nombre": "Santorcaz",
+   "km_linea_recta": 3.6
+  },
+  {
+   "slug": "santos-de-la-humosa-los",
+   "nombre": "Los Santos de la Humosa",
+   "km_linea_recta": 5.0
+  },
+  {
+   "slug": "corpa",
+   "nombre": "Corpa",
+   "km_linea_recta": 5.4
+  },
+  {
+   "slug": "villalbilla",
+   "nombre": "Villalbilla",
+   "km_linea_recta": 6.2
+  },
+  {
+   "slug": "valverde-de-alcala",
+   "nombre": "Valverde de Alcalá",
+   "km_linea_recta": 6.9
+  },
+  {
+   "slug": "alcala-de-henares",
+   "nombre": "Alcalá de Henares",
+   "km_linea_recta": 7.2
+  },
+  {
+   "slug": "pozo-de-guadalajara",
+   "nombre": "Pozo de Guadalajara",
+   "km_linea_recta": 9.0
+  },
+  {
+   "slug": "pioz",
+   "nombre": "Pioz",
+   "km_linea_recta": 9.3
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW cerca de Anchuelo | Henares y Vegas",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 1272
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": false
+ }
+}
