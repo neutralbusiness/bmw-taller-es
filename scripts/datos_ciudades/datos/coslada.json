@@ -143,7 +143,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -159,7 +159,9 @@
   {
    "slug": "ciudad-lineal",
    "nombre": "Ciudad Lineal",
-   "km_linea_recta": 8.0
+   "km_linea_recta": 8.0,
+   "tipo": "distrito",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "torrejon-de-ardoz",
@@ -179,7 +181,9 @@
   {
    "slug": "chamartin",
    "nombre": "Chamartín",
-   "km_linea_recta": 10.6
+   "km_linea_recta": 10.6,
+   "tipo": "distrito",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "rivas-vaciamadrid",

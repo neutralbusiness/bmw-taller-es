@@ -62,7 +62,7 @@ CIUDADES["sant-pere-de-ribes"] = {
     "secciones": [
         {"id": "vilanova-a-mano", "h2": "Lo oficial y la inspección, en Vilanova i la Geltrú",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 6 km por carretera. En la misma ciudad está la ITV que el registro de la Generalitat da como más cercana por carretera: Vilanova (B17), de Applus, en la Ronda Europa, a 7 km.",
+             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 5,6 km por carretera. En la misma ciudad está la ITV que el registro de la Generalitat da como más cercana por carretera: Vilanova (B17), de Applus, en la Ronda Europa, a 7 km.",
              "Tenerlo todo en el municipio vecino simplifica la rutina: la inspección y lo que dependa de la marca se resuelven sin salir del Garraf.",
          ]},
         {"id": "c32-garraf", "h2": "33,9 kilómetros por la C-32 y la B-25",
@@ -82,7 +82,7 @@ CIUDADES["sant-pere-de-ribes"] = {
     ],
     "faq": [
         {"q": "¿Cuál es el servicio oficial BMW más cercano a Sant Pere de Ribes?",
-         "a": "Quadis Munich, en Vilanova i la Geltrú, a 6 km por carretera según bmw.es."},
+         "a": "Quadis Munich, en Vilanova i la Geltrú, a 5,6 km por carretera según bmw.es."},
         {"q": "¿Recogéis el coche en Sant Pere de Ribes?",
          "a": "No. La recogida del taller solo cubre el área metropolitana de Barcelona, y el Garraf queda fuera."},
         {"q": "¿Qué conviene revisar en un coche que vive cerca del mar?",
@@ -94,7 +94,7 @@ CIUDADES["sant-pere-de-ribes"] = {
         {"etiqueta": "Turismos (2024)", "valor": "13.853 · 424 por cada 1.000 hab.", **F.idescat("082310")},
         {"etiqueta": "Distancia a la costa", "valor": "unos 3,6 km desde el centro", "fuente": "Natural Earth", "url": "https://www.naturalearthdata.com/"},
         {"etiqueta": "ITV más cercana", "valor": "Vilanova (B17) · 7 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Vilanova i la Geltrú · 6 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Vilanova i la Geltrú · 5,6 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082310"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -291,7 +291,7 @@ CIUDADES["molins-de-rei"] = {
          ]},
         {"id": "sant-boi-y-sant-just", "h2": "Servicio oficial e ITV, a poco más de 10 km",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto de servicio oficial BMW más próximo es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 11,7 km por carretera: más lejos que nuestro taller. La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Just Desvern (B05), en la avinguda de la Riera, a 10,9 km.",
+             "Según el localizador de bmw.es, el punto de servicio oficial BMW más próximo es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 11,7 km por carretera: más lejos que nuestro taller. La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Just Desvern (B05), en la avinguda de la Riera, a 6,7 km.",
          ]},
         {"id": "molins-crece", "h2": "27.300 vecinos, un 8,5 % más que en 2015",
          "parrafos": [
@@ -312,7 +312,7 @@ CIUDADES["molins-de-rei"] = {
         {"etiqueta": "Turismos (2024)", "valor": "11.771 · 431 por cada 1.000 hab.", **F.idescat("081234")},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 9,6 km", **F.osrm},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 11,7 km", **F.bmw},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 10,9 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 6,7 km", **F.itv_cat},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081234"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -379,9 +379,9 @@ CIUDADES["mejorada-del-campo"] = {
          "parrafos": [
              "Hasta la calle Valgrande de Alcobendas hay 32,8 km por carretera y 21,5 en línea recta: R-3, M-30 y A-1. Mejorada forma parte del área metropolitana de Madrid, donde el taller ofrece recogida y entrega del coche y vehículo de cortesía, siempre según disponibilidad.",
          ]},
-        {"id": "oficial-la-garena", "h2": "El servicio oficial, en La Garena de Alcalá",
+        {"id": "oficial-carretera-valencia", "h2": "El servicio oficial, en la carretera de Valencia",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto oficial BMW más próximo es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 15,5 km por carretera. Para lo que dependa de la garantía de BMW, esa es la referencia.",
+             "Según el localizador de bmw.es, el punto oficial BMW más próximo es AutoPremier, en el km 7,3 de la carretera de Valencia, ya en Madrid, a 17,3 km por carretera. Para lo que dependa de la garantía de BMW, esa es la referencia.",
              "El taller independiente entra en juego para el resto: mantenimiento, desgaste y averías concretas de la marca, como la cadena de un N47 o el sistema SCR de los diésel con AdBlue.",
          ]},
         {"id": "mejorada-en-cifras", "h2": "Un 9,4 % más de vecinos en diez años",
@@ -401,20 +401,20 @@ CIUDADES["mejorada-del-campo"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "25.049 habitantes (+9,4 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "13.888 · 554 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV en el municipio", "valor": "ITV Barbastro (2819), c/ Levante 10", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 15,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, ctra. de Valencia km 7,3 (Madrid) · 17,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 32,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
 
 CIUDADES["el-masnou"] = {
-    "h1": "El Masnou: lo oficial, hacia Barcelona; el especialista BMW, a 29,3 km",
-    "entradilla": "Desde El Masnou, lo que tiene que ver con BMW queda hacia el sur: el servicio oficial en Sant Adrià de Besòs, la ITV en Badalona y nuestro taller en Sant Joan Despí. Las distancias, sin adornos, y lo que conviene saber de la garantía.",
+    "h1": "El Masnou: servicio oficial en Mataró o Sant Adrià; el especialista BMW, a 29,3 km",
+    "entradilla": "Desde El Masnou, el servicio oficial BMW queda a algo más de 12 km tanto hacia Mataró como hacia Sant Adrià de Besòs; la ITV, en Badalona, y nuestro taller, en Sant Joan Despí. Las distancias, sin adornos, y lo que conviene saber de la garantía.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 29.3},
     "secciones": [
-        {"id": "hacia-el-besos", "h2": "Servicio oficial en Sant Adrià, ITV en Badalona",
+        {"id": "mataro-o-besos", "h2": "Servicio oficial en Mataró o en Sant Adrià, ITV en Badalona",
          "parrafos": [
-             "El punto de servicio oficial BMW más próximo según bmw.es es Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 12,9 km por carretera. La ITV más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer de la Indústria 427-449, a 11,9 km.",
+             "En el localizador de bmw.es hay dos puntos de servicio oficial prácticamente a la misma distancia: Pruna Motor, en la Via Sèrgia 2 de Mataró, a 12,5 km por carretera, y Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 12,9. La ITV más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer de la Indústria 427-449, a 11,9 km.",
          ]},
         {"id": "por-la-b20", "h2": "29,3 km por la B-20",
          "parrafos": [
@@ -433,7 +433,7 @@ CIUDADES["el-masnou"] = {
     ],
     "faq": [
         {"q": "¿Dónde está el concesionario BMW más cercano a El Masnou?",
-         "a": "Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 12,9 km según bmw.es."},
+         "a": "Hay dos casi empatados según bmw.es: Pruna Motor, en Mataró, a 12,5 km, y Barcelona Premium, en Sant Adrià de Besòs, a 12,9."},
         {"q": "¿Recogéis el coche en El Masnou?",
          "a": "No: la recogida cubre solo el área metropolitana de Barcelona, y El Masnou queda fuera."},
         {"q": "¿Puedo hacer las revisiones fuera del concesionario sin perder la garantía?",
@@ -444,7 +444,7 @@ CIUDADES["el-masnou"] = {
         {"etiqueta": "Comarca", "valor": "Maresme", **F.idescat("081189")},
         {"etiqueta": "Turismos (2024)", "valor": "11.161 · 451 por cada 1.000 hab.", **F.idescat("081189")},
         {"etiqueta": "ITV más cercana", "valor": "Badalona (B02) · 11,9 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Adrià de Besòs · 12,9 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 12,5 km (Barcelona Premium, Sant Adrià, 12,9)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 29,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081189"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
@@ -634,8 +634,8 @@ META_DESCRIPTIONS = {
     "sant-vicenc-dels-horts": "Desde Sant Vicenç dels Horts, el taller especialista BMW está a 8,3 km por la A-2, más cerca que el concesionario. Recogida en el AMB sujeta a disponibilidad.",
     "molins-de-rei": "Molins de Rei: 9,6 km por la B-23 hasta el taller especialista BMW y MINI de Sant Joan Despí. Servicio oficial, ITV y recogida en el área metropolitana.",
     "castellar-del-valles": "Castellar del Vallès tiene taller autorizado BMW en el pueblo. Cuándo compensa llevar el coche a un especialista independiente, a 41 km en Sant Joan Despí.",
-    "mejorada-del-campo": "Mejorada del Campo: ITV en el propio polígono, servicio oficial BMW en Alcalá y taller especialista independiente en Alcobendas, a 32,8 km por la R-3.",
-    "el-masnou": "BMW en El Masnou: servicio oficial en Sant Adrià, ITV en Badalona y taller especialista independiente a 29,3 km. Revisiones fuera del concesionario y garantía.",
+    "mejorada-del-campo": "Mejorada del Campo: ITV en el propio polígono, servicio oficial BMW en la carretera de Valencia y taller especialista independiente en Alcobendas, a 32,8 km por la R-3.",
+    "el-masnou": "BMW en El Masnou: servicio oficial en Mataró o Sant Adrià, ITV en Badalona y taller especialista independiente a 29,3 km. Revisiones fuera del concesionario y garantía.",
     "vilassar-de-mar": "Vilassar de Mar: servicio oficial BMW e ITV a unos 5 km y taller especialista a 39,5 km. Qué averías justifican el viaje y cuáles se resuelven cerca.",
     "san-martin-de-la-vega": "San Martín de la Vega: ITV en Valdemoro, servicio oficial BMW en Getafe y taller especialista independiente en Alcobendas, a 45 km. Presupuesto por escrito.",
     "les-franqueses-del-valles": "les Franqueses del Vallès: servicio oficial BMW e ITV en Granollers y taller especialista independiente a 42 km por la C-17. Diésel, electrónica y REDISTA.",

@@ -55,7 +55,7 @@ CIUDADES["sabadell"] = {
     "secciones": [
         {"id": "sitjas", "h2": "Sitjas, el taller autorizado de la calle Quintana",
          "parrafos": [
-             "En el localizador de bmw.es, el punto de servicio oficial de la ciudad es Sitjas Motor, un taller autorizado BMW en la calle Quintana 64, a 1,7 km del centro. Para una campaña de revisión del fabricante o una reparación cubierta por la garantía de BMW, es el sitio.",
+             "En el localizador de bmw.es, el punto de servicio oficial de la ciudad es Sitjas Motor, un taller autorizado BMW en la calle Quintana 64, a 1,6 km del centro. Para una campaña de revisión del fabricante o una reparación cubierta por la garantía de BMW, es el sitio.",
              "El mantenimiento periódico y las reparaciones fuera de garantía puedes hacerlos en un taller independiente sin perder la garantía del fabricante, siempre que se respeten los intervalos y especificaciones (Reglamento UE 461/2010). Ahí es donde encajamos nosotros."
          ]},
         {"id": "ap7-b23", "h2": "32 kilómetros por la AP-7 y la B-23",
@@ -85,7 +85,7 @@ CIUDADES["sabadell"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("081878")},
         {"etiqueta": "Turismos (2024)", "valor": "95.235 · 423 por cada 1.000 hab.", **F.idescat("081878")},
         {"etiqueta": "ITV en el municipio", "valor": "Sabadell (B24), polígono Can Roqueta", **F.itv_cat},
-        {"etiqueta": "Taller autorizado BMW", "valor": "Sitjas Motor, c. Quintana 64 · 1,7 km", **F.bmw},
+        {"etiqueta": "Taller autorizado BMW", "valor": "Sitjas Motor, c. Quintana 64 · 1,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 32,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081878"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
@@ -108,7 +108,7 @@ CIUDADES["torrejon-de-ardoz"] = {
          ]},
         {"id": "oficial-alcala", "h2": "El servicio oficial más cercano está en Alcalá",
          "parrafos": [
-             "El punto oficial BMW más próximo por carretera, según bmw.es, es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 12,7 km. Si te llega una carta de BMW para una campaña de revisión, esa cita es con ellos; para todo lo demás, la elección de taller es tuya."
+             "El punto oficial BMW más próximo por carretera, según bmw.es, es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 14,7 km. Si te llega una carta de BMW para una campaña de revisión, esa cita es con ellos; para todo lo demás, la elección de taller es tuya."
          ]},
         {"id": "torrejon-crece", "h2": "143.526 vecinos, un 13,1 % más que en 2015",
          "parrafos": [
@@ -127,7 +127,7 @@ CIUDADES["torrejon-de-ardoz"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "143.526 habitantes (+13,1 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "69.412 · 484 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV en el municipio", "valor": "2 estaciones", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 12,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 14,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 27 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],

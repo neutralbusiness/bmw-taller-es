@@ -105,7 +105,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -151,8 +151,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Santa Eugènia de Berga | Corredor C-17",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 2269
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 2348
  },
  "generado": "2026-10-04",
  "perfil": {

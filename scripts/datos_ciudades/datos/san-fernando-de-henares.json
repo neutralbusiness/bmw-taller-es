@@ -78,8 +78,9 @@
   "municipio": "Madrid",
   "web": "https://caetanocuzco-alcala.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 12.5,
+  "km_carretera": 11.1,
   "km_linea": 8.6,
+  "km_ruta_mas_rapida": 12.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -119,7 +120,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -150,7 +151,9 @@
   {
    "slug": "ciudad-lineal",
    "nombre": "Ciudad Lineal",
-   "km_linea_recta": 10.3
+   "km_linea_recta": 10.3,
+   "tipo": "distrito",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "loeches",

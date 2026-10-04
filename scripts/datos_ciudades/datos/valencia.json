@@ -54,15 +54,23 @@
   "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Bertolin (Calle Naturalista)",
+  "nombre": "Bertolín (General Avilés)",
   "razon_social": "Automoviles Bertolin, S.L.",
-  "direccion": "C/ Naturalista Rafael Cisternes, 2",
-  "cp": "46010",
+  "direccion": "Avda. General Avilés, 68",
+  "cp": "46015",
   "municipio": "Valencia",
-  "web": "http://bertolin-naturalista.concesionariobmw.es",
+  "web": "https://bertolin.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 2.9,
-  "km_linea": 1.6,
+  "km_carretera": 2.8,
+  "km_linea": 2.1,
+  "km_ruta_mas_rapida": 3.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Bertolin (Calle Naturalista)",
+    "municipio": "Valencia",
+    "km_carretera": 2.9
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -82,7 +90,7 @@
   "km": 4.3,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

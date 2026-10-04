@@ -60,7 +60,7 @@
   "mas_cercana": {
    "nombre": "ITV Solsona (L06)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "Plaça de les Filadores, 5: Pol. Ind. \\\\\\\"Els Ametllers\\\\\\\"",
+   "direccion": "Plaça de les Filadores, 5: Pol. Ind. «Els Ametllers»",
    "municipio": "Solsona",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -104,7 +104,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

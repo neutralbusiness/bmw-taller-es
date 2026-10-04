@@ -95,7 +95,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -141,8 +141,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Santa Eulàlia de Riuprimer | Especialistas a 10 min de Vic",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1199
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1516
  },
  "generado": "2026-10-04",
  "perfil": {

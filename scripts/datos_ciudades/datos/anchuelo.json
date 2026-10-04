@@ -69,7 +69,14 @@
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
    "km_carretera": 10.4,
-   "km_linea": 7.4
+   "km_linea": 7.4,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2857)",
+     "municipio": "Alcalá De Henares",
+     "km_carretera": 10.4
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -96,7 +103,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -142,8 +149,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Anchuelo | Henares y Vegas",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1272
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1414
  },
  "generado": "2026-10-04",
  "perfil": {

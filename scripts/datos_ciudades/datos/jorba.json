@@ -69,13 +69,14 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Unicars Ponent (Tárrega)",
+  "nombre": "Unicars Ponent (Tàrrega)",
   "razon_social": "Unicars Ponent, S.L.",
   "direccion": "Carrer de la Conca de Barberà,Nave6",
   "cp": "25300",
-  "municipio": "Tárrega",
+  "municipio": "Tàrrega",
   "web": "http://red.bmw.es/unicars/es_ES/home.html",
   "solo_taller": false,
+  "centro_ocasion_con_taller": "Unicars Ponent Tàrrega: «talleres oficiales en Lleida y Tárrega» (grupmibec.com/es/bmw/)",
   "km_carretera": 38.2,
   "km_linea": 32.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
@@ -112,7 +113,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.60162,
   "lng": 1.54482,
@@ -162,8 +163,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Jorba | Especialistas A-2 y clima extremo",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 826
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 850
  },
  "generado": "2026-10-04",
  "perfil": {

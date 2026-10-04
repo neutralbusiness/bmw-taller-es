@@ -107,11 +107,6 @@
    "km": 1.6
   },
   {
-   "ref": "C-58cc",
-   "tipo": "trunk",
-   "km": 1.6
-  },
-  {
    "ref": "C-31",
    "tipo": "motorway",
    "km": 2.1
@@ -132,13 +127,15 @@
   "km": 4.2,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "llefia",
    "nombre": "Llefià",
-   "km_linea_recta": 1.8
+   "km_linea_recta": 1.8,
+   "tipo": "barrio",
+   "pertenece_a": "Badalona"
   },
   {
    "slug": "sant-adria-de-besos",

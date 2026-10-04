@@ -95,7 +95,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.98569,
   "lng": 2.09477,
@@ -145,8 +145,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Olost | Especialistas al 700m en el Lluçanès",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1188
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1209
  },
  "generado": "2026-10-04",
  "perfil": {

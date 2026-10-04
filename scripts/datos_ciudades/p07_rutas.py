@@ -3,10 +3,19 @@
 Para cada ciudad:
 - ruta al taller real que la atiende (si tiene dirección): km, y las vías por
   las que va la ruta (refs de carretera con más de 2 km de recorrido);
-- servicio oficial BMW más cercano por carretera (de los 3 más próximos en
+- servicio oficial BMW más cercano por carretera (de los 6 más próximos en
   línea recta) — solo como referencia comparativa;
 - estación ITV: las que hay DENTRO del municipio y, si no hay, la más cercana
-  por carretera (de las 5 más próximas en línea recta).
+  por carretera (de las 8 más próximas en línea recta).
+«Más cercano por carretera» = la ruta más corta entre las que propone OSRM.
+La tabla de OSRM da la distancia de la ruta MÁS RÁPIDA, que a veces da un
+rodeo por autopista: de Rellinars a Terrassa la tabla da 33,6 km (por la C-16)
+y la ruta directa por la B-122 tiene 21,1 km; con solo la tabla, el servicio
+oficial «más cercano» salía Sant Fruitós (25,1 km). Por eso, para cada
+candidata que pueda ganar (línea recta menor que la ganadora de la tabla y
+tabla < 1,8 veces la ganadora) se piden las rutas alternativas y se toma la
+más corta. Con 3 candidatas BMW, Sant Julià de Cerdanyola daba Vic (71 km)
+porque Sant Fruitós era la 4.ª en línea recta; ahora son 6 (BMW) y 8 (ITV).
 Origen de las rutas: el punto de la página del repo, salvo que caiga fuera del
 casco urbano y a más de 1 km de él (paso 3b, `paso_nucleo.json`): entonces el
 centro del núcleo que da nombre al municipio. Vilassar de Dalt tenía el punto
@@ -46,6 +55,43 @@ def osrm(path: str, cache: str):
     return None
 
 
+N_BMW, N_ITV = 6, 8
+
+
+def km_mas_corta(s, lat, lng, p):
+    """Distancia (km) de la ruta más corta entre las alternativas de OSRM."""
+    clave = f"{p['lat']:.5f}_{p['lng']:.5f}".replace("-", "m")
+    d = osrm(f"/route/v1/driving/{lng},{lat};{p['lng']},{p['lat']}?overview=false&alternatives=3", f"osrm_a_{s}_{clave}.json")
+    if not d:
+        return None
+    return round(min(r["distance"] for r in d["routes"]) / 1000, 1)
+
+
+def elegir(s, lat, lng, filas):
+    """filas: (tipo, punto, km_tabla, km_linea). Devuelve (punto, km, km_linea, km_ruta_rapida)."""
+    if not filas:
+        return None
+    con = [f for f in filas if f[2] is not None]
+    if not con:
+        f = min(filas, key=lambda f: f[3])
+        return f[1], None, f[3], None, []
+    gana = min(con, key=lambda f: f[2])
+    res = []
+    for f in con:
+        km = f[2]
+        if f is gana or (f[3] < gana[2] and f[2] <= 1.8 * gana[2]):
+            alt = km_mas_corta(s, lat, lng, f[1])
+            if alt is not None:
+                km = min(km, alt)
+        res.append((f[1], km, f[3], f[2]))
+    res.sort(key=lambda x: (x[1], x[2]))
+    # otras a menos de 1 km de diferencia: la «más cercana» es un empate práctico
+    # (Santa Maria d'Oló: ITV de Sant Fruitós y de Vic, las dos a 27,2 km)
+    empates = [{"nombre": x[0].get("nombre"), "municipio": x[0].get("municipio"), "km_carretera": x[1]}
+               for x in res[1:] if x[1] - res[0][1] < 1.0]
+    return (*res[0], empates)
+
+
 def main():
     base = cargar("paso_base.json")
     geo = cargar("paso_geo.json")
@@ -57,7 +103,8 @@ def main():
     # OSM solo fuera de Cataluña y Madrid, y nunca un punto que diga estar en
     # un municipio madrileño con estación oficial (sería la misma, mal geocodificada)
     osm = [e for e in itv["osm"] if not (e.get("municipio") and norm(e["municipio"]) in munis_mad)]
-    out = cargar("paso_rutas.json", {}) or {}
+    import sys
+    out = {} if "--todo" in sys.argv else (cargar("paso_rutas.json", {}) or {})
     for n, (s, c) in enumerate(base.items()):
         if s in out:
             continue
@@ -98,9 +145,9 @@ def main():
         soc = SOCIOS.get(c["socio"] or "", {})
         if soc.get("direccion"):
             destinos.append(("socio", soc))
-        cerca_bmw = sorted(bmw, key=lambda p: haversine_km(lat, lng, p["lat"], p["lng"]))[:3]
+        cerca_bmw = sorted(bmw, key=lambda p: haversine_km(lat, lng, p["lat"], p["lng"]))[:N_BMW]
         destinos += [("bmw", p) for p in cerca_bmw]
-        cerca_itv = [] if en_mun else sorted(estaciones, key=lambda p: haversine_km(lat, lng, p["lat"], p["lng"]))[:5]
+        cerca_itv = [] if en_mun else sorted(estaciones, key=lambda p: haversine_km(lat, lng, p["lat"], p["lng"]))[:N_ITV]
         destinos += [("itv", p) for p in cerca_itv]
         coords = f"{lng},{lat};" + ";".join(f"{p['lng']},{p['lat']}" for _, p in destinos)
         t = osrm(f"/table/v1/driving/{coords}?sources=0&annotations=distance", f"osrm_t2_{s}.json")
@@ -124,19 +171,25 @@ def main():
                     if ref:
                         acc[ref] = acc.get(ref, 0) + st["distance"]
                 r["socio"]["vias_ruta"] = [k for k, v in acc.items() if v > 2000]
-        b = [f for f in filas if f[0] == "bmw"]
-        b.sort(key=lambda f: f[2] if f[2] is not None else f[3] * 1.3)
-        if b:
-            _, p, kc, kl = b[0]
-            r["bmw_oficial"] = {**{k: p.get(k) for k in ("nombre", "razon_social", "direccion", "cp", "municipio", "web", "solo_taller")},
+        e = elegir(s, lat, lng, [f for f in filas if f[0] == "bmw"])
+        if e:
+            p, kc, kl, kr, emp = e
+            r["bmw_oficial"] = {**{k: p.get(k) for k in ("nombre", "razon_social", "direccion", "cp", "municipio", "web", "solo_taller", "centro_ocasion_con_taller") if p.get(k) is not None or k in ("web", "solo_taller")},
                                 "km_carretera": kc, "km_linea": kl}
-        it = [f for f in filas if f[0] == "itv"]
-        it.sort(key=lambda f: f[2] if f[2] is not None else f[3] * 1.3)
-        if it:
-            _, p, kc, kl = it[0]
+            if kr is not None and kc is not None and kr - kc >= 0.5:
+                r["bmw_oficial"]["km_ruta_mas_rapida"] = kr
+            if emp:
+                r["bmw_oficial"]["casi_igual_de_cerca"] = emp
+        e = elegir(s, lat, lng, [f for f in filas if f[0] == "itv"])
+        if e:
+            p, kc, kl, kr, emp = e
             r["itv_cercana"] = {**{k: p.get(k) for k in ("nombre", "operador", "direccion", "municipio", "fuente", "oficial", "verificar", "precision")},
                                 "km_carretera": kc, "km_linea": kl}
-        r["fuente"] = "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap"
+            if kr is not None and kc is not None and kr - kc >= 0.5:
+                r["itv_cercana"]["km_ruta_mas_rapida"] = kr
+            if emp:
+                r["itv_cercana"]["casi_igual_de_cerca"] = emp
+        r["fuente"] = "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM"
         out[s] = r
         if n % 20 == 0:
             guardar("paso_rutas.json", out)

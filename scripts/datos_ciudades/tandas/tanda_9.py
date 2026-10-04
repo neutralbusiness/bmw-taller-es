@@ -17,7 +17,7 @@ OSM = {"texto": "OpenStreetMap (estación ITV de Guadalajara)", "url": "https://
 
 META = {
     "cabrera-d-anoia": "BMW en Cabrera d'Anoia: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista independiente en Sant Joan Despí, a 48,1 km.",
-    "gualba": "BMW y MINI en Gualba: ITV a 6,9 km en Sant Celoni, servicio oficial en Mataró y taller especialista de la red en Sant Joan Despí, a 65,5 km.",
+    "gualba": "BMW y MINI en Gualba: ITV a 6,9 km en Sant Celoni, servicio oficial en Granollers y taller especialista de la red en Sant Joan Despí, a 65,5 km.",
     "villanueva-de-perales": "BMW en Villanueva de Perales: ITV en Navalcarnero, servicio oficial en Alcorcón y taller especialista independiente en Alcobendas, a 60,5 km.",
     "torrelavit": "BMW en Torrelavit: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista de la red en Sant Joan Despí, a 43,7 km por la AP-7.",
     "orusco-de-tajuna": "BMW en Orusco de Tajuña: ITV en Villarejo de Salvanés, servicio oficial en Alcalá de Henares y taller especialista en Alcobendas, a 64,6 km.",
@@ -74,16 +74,16 @@ CIUDADES["cabrera-d-anoia"] = {
 # ---------------------------------------------------------------- Gualba
 CIUDADES["gualba"] = {
     "h1": "BMW en Gualba: la ITV en la carretera de Gualba y el taller especialista a 65,5 km",
-    "entradilla": "La estación de ITV que le toca a Gualba está en Sant Celoni, en una calle que lleva el nombre del pueblo. El servicio oficial BMW queda en Mataró y el taller de la red, en Sant Joan Despí. Esto es lo que te conviene resolver cerca y lo que no.",
+    "entradilla": "La estación de ITV que le toca a Gualba está en Sant Celoni, en una calle que lleva el nombre del pueblo. El servicio oficial BMW queda en Granollers y el taller de la red, en Sant Joan Despí. Esto es lo que te conviene resolver cerca y lo que no.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 65.5},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "Sant Celoni (B26), a 6,9 km",
          "parrafos": [
              "En el registro de estaciones de la Generalitat, la más próxima por carretera es ITV Sant Celoni (B26), en la carretera de Gualba 41-43, a 6,9 km del centro del pueblo. Es tan accesible que no tiene sentido mezclarla con el viaje al taller: la pre-ITV la puede hacer cualquier taller de la zona, y la inspección, en la misma mañana.",
          ]},
-        {"id": "mataro-o-sant-joan", "h2": "Mataró para lo de la marca, Sant Joan Despí para lo difícil",
+        {"id": "granollers-o-sant-joan", "h2": "Granollers para lo de la marca, Sant Joan Despí para lo difícil",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto oficial BMW más cercano es Pruna Motor, en la Via Sergia 2 de Mataró, a 38,4 km por carretera. Allí se tramitan las reparaciones cubiertas por la garantía de BMW.",
+             "Según el localizador de bmw.es, el punto oficial BMW más cercano es Pruna Motor, en la C-17 (km 19) a su paso por Granollers, a 34,3 km por carretera. Allí se tramitan las reparaciones cubiertas por la garantía de BMW.",
              "Dasercars Barcelona, el taller independiente de la red, está a 65,5 km: BV-5115, C-35, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc. Es mucha carretera para un cambio de pastillas y poca para una avería que lleva meses sin diagnóstico, un diésel N47 o B47 con ruido de distribución o un escape que no pasa las emisiones (el taller tiene homologación REDISTA).",
          ]},
         {"id": "gualba-en-cifras", "h2": "1.766 vecinos repartidos en 23 km²",
@@ -107,7 +107,7 @@ CIUDADES["gualba"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("080977")},
         {"etiqueta": "Turismos (2024)", "valor": "933 · 528 por cada 1.000 hab.", **F.idescat("080977")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 6,9 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 38,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 34,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 65,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080977"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -533,12 +533,12 @@ CIUDADES["anchuelo"] = {
     "secciones": [
         {"id": "todo-en-alcala", "h2": "Dos citas en Alcalá de Henares",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial BMW más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 14,3 km por carretera. La ITV oficial más próxima del listado de la Comunidad de Madrid también está en Alcalá: TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena, a unos 10 km.",
+             "Bajando a Alcalá tienes las dos referencias. Primero aparece la inspección: la estación 2878, que el listado de la Comunidad de Madrid asigna a TÜV SÜD ATISAE, en la avenida Juan Carlos I, a unos 10 km. Un poco más allá, a 14,3 km, el concesionario AutoPremier de la Vía Complutense 131, que es el punto con servicio oficial más próximo según bmw.es.",
              "Tener las dos cosas en la misma ciudad permite encadenar la inspección y una visita al concesionario el mismo día, si hace falta.",
          ]},
         {"id": "m100-hacia-alcobendas", "h2": "M-213, M-100 y R-2 hasta Alcobendas",
          "parrafos": [
-             "La ruta desde Anchuelo hasta la calle Valgrande 17 enlaza la M-213, la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 42,2 km por carretera, 32,6 en línea recta.",
+             "Para llegar a la calle Valgrande 17 se encadenan cinco carreteras: M-213 al salir del pueblo, M-300, M-100, la radial R-2 y, al final, la M-50. Suman 42,2 km (32,6 si se midiera en línea recta).",
              "La recogida y el vehículo de cortesía, ambos sujetos a disponibilidad, funcionan dentro del área metropolitana de Madrid. Pregunta al pedir cita si tu dirección entra; si no, lo cómodo es dejar el coche a primera hora.",
          ]},
         {"id": "anchuelo-en-cifras", "h2": "602 turismos por cada mil vecinos",
@@ -548,12 +548,12 @@ CIUDADES["anchuelo"] = {
          ]},
     ],
     "faq": [
-        {"q": "¿Dónde está el servicio oficial BMW más cercano a Anchuelo?",
-         "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 14,3 km según bmw.es."},
-        {"q": "¿Qué ITV me queda más cerca?",
-         "a": "La de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I de Alcalá de Henares, a unos 10 km."},
-        {"q": "¿Cuánto hay hasta vuestro taller?",
-         "a": "42,2 km por la M-100, la R-2 y la M-50 hasta Alcobendas."},
+        {"q": "¿Hay concesionario BMW cerca de Anchuelo?",
+         "a": "El más próximo con servicio oficial es AutoPremier, en Alcalá de Henares: 14,3 km hasta la Vía Complutense."},
+        {"q": "¿Y la inspección técnica?",
+         "a": "En Alcalá, la estación 2878 (TÜV SÜD ATISAE) de la avenida Juan Carlos I, a unos 10 km del pueblo."},
+        {"q": "¿A qué distancia queda Alcobendas?",
+         "a": "42,2 km de carretera, con la R-2 como tramo principal."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "1.414 habitantes (+17,8 % desde 2015)", **F.ine},

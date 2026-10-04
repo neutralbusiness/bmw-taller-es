@@ -79,6 +79,13 @@
   "solo_taller": false,
   "km_carretera": 14.5,
   "km_linea": 12.0,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Salvatierra)",
+    "municipio": "Madrid",
+    "km_carretera": 14.7
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -93,13 +100,15 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "el-goloso",
    "nombre": "El Goloso",
-   "km_linea_recta": 5.3
+   "km_linea_recta": 5.3,
+   "tipo": "barrio",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "alcobendas",
@@ -124,7 +133,9 @@
   {
    "slug": "chamartin",
    "nombre": "Chamartín",
-   "km_linea_recta": 15.7
+   "km_linea_recta": 15.7,
+   "tipo": "distrito",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "molar-el",
@@ -134,7 +145,9 @@
   {
    "slug": "las-matas",
    "nombre": "Las Matas",
-   "km_linea_recta": 16.2
+   "km_linea_recta": 16.2,
+   "tipo": "barrio",
+   "pertenece_a": "Las Rozas de Madrid"
   }
  ],
  "pagina_actual": {

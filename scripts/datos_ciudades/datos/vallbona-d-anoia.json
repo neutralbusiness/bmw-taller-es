@@ -75,11 +75,18 @@
   "razon_social": "Altrac Europa, S.A.",
   "direccion": "Anoia, 9",
   "cp": "08223",
-  "municipio": "Terrasa",
+  "municipio": "Terrassa",
   "web": "",
   "solo_taller": false,
   "km_carretera": 38.0,
   "km_linea": 26.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Quadis Munich (Vilanova)",
+    "municipio": "Vilanova i la Geltrú",
+    "km_carretera": 38.9
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -99,7 +106,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.52162,
   "lng": 1.70958,
@@ -149,8 +156,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Vallbona d'Anoia | Comarca de l'Anoia",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1432
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1424
  },
  "generado": "2026-10-04",
  "perfil": {

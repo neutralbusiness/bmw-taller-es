@@ -52,6 +52,14 @@ rellena.
   Generalitat es…».
 - `turismos.por_1000_hab` > 800: hay flotas domiciliadas (Brunete da 4.374).
   No uses la proporción; como mucho la cifra absoluta.
+- `casi_igual_de_cerca` en la ITV o el servicio oficial: hay otra a menos de
+  1 km de diferencia. No digas «la más cercana» a secas: nombra las dos
+  («Sant Fruitós y Vic, las dos a 27,2 km»).
+- `km_ruta_mas_rapida`: la ruta más corta (la publicada) no es la más rápida
+  (p. ej. carretera de montaña frente a autopista). Publica `km_carretera`; si
+  la diferencia es grande, puedes decir que por autopista son más km.
+- `centro_ocasion_con_taller`: el punto oficial es un centro de vehículos de
+  ocasión con taller comprobado; descríbelo como servicio oficial, sin más.
 - Distancias: publica km por carretera (`km_carretera`) o en línea recta, nunca
   **tiempos** (OSRM no conoce el tráfico).
 

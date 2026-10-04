@@ -60,7 +60,7 @@
   "mas_cercana": {
    "nombre": "ITV Berga (B13)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. «La Valldan»",
    "municipio": "Berga",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -71,15 +71,15 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Vic)",
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
   "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Perot Rocaguinarda, 1",
-  "cp": "08500",
-  "municipio": "Vic",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 71.1,
-  "km_linea": 44.1,
+  "km_carretera": 62.7,
+  "km_linea": 51.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -104,7 +104,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -150,8 +150,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Sant Julià de Cerdanyola | Expertos en Alta Montaña",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 257
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 234
  },
  "generado": "2026-10-04",
  "perfil": {

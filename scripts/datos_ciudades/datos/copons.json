@@ -49,7 +49,7 @@
   "km_carretera": 65.6,
   "km_linea_recta": 54.4,
   "vias_de_la_ruta": [
-   "C-1412az",
+   "C-1412a",
    "A-2"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
@@ -70,13 +70,14 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Unicars Ponent (Tárrega)",
+  "nombre": "Unicars Ponent (Tàrrega)",
   "razon_social": "Unicars Ponent, S.L.",
   "direccion": "Carrer de la Conca de Barberà,Nave6",
   "cp": "25300",
-  "municipio": "Tárrega",
+  "municipio": "Tàrrega",
   "web": "http://red.bmw.es/unicars/es_ES/home.html",
   "solo_taller": false,
+  "centro_ocasion_con_taller": "Unicars Ponent Tàrrega: «talleres oficiales en Lleida y Tárrega» (grupmibec.com/es/bmw/)",
   "km_carretera": 41.5,
   "km_linea": 30.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
@@ -98,7 +99,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.63536,
   "lng": 1.5183,
@@ -148,8 +149,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Copons | Valle del Anoia, mecánica experta",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 324
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 352
  },
  "generado": "2026-10-04",
  "perfil": {

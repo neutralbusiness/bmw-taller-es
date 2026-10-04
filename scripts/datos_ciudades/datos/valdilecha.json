@@ -69,19 +69,33 @@
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
    "km_carretera": 16.2,
-   "km_linea": 13.3
+   "km_linea": 13.3,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2852)",
+     "municipio": "Arganda Del Rey",
+     "km_carretera": 16.9
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "AutoPremier (P.I.La Garena)",
-  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
-  "direccion": "Calle Argentina, 7",
-  "cp": "28806",
+  "nombre": "AutoPremier (Alcalá Henares)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
   "municipio": "Alcalá de Henares",
-  "web": "https://autopremier.concesionariobmw.es/",
+  "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 28.4,
-  "km_linea": 24.0,
+  "km_carretera": 33.8,
+  "km_linea": 22.7,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "AutoPremier (Madrid)",
+    "municipio": "Madrid",
+    "km_carretera": 34.6
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -101,7 +115,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -147,8 +161,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Valdilecha | Sureste de Madrid",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 2840
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 3289
  },
  "generado": "2026-10-04",
  "perfil": {

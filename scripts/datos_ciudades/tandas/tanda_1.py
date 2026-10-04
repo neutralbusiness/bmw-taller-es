@@ -35,7 +35,7 @@ CIUDADES["l-hospitalet-de-llobregat"] = {
          ]},
         {"id": "servicio-oficial-en-la-ciudad", "h2": "Barcelona Premium, el servicio oficial dentro de la ciudad",
          "parrafos": [
-             "Según el localizador de bmw.es, L'Hospitalet tiene su propio punto de servicio oficial: Barcelona Premium, en la calle Montserrat Roig 31, a 3,6 km del centro por carretera. Si te ha llegado una carta de BMW por una campaña de revisión, esa cita se pide allí.",
+             "Según el localizador de bmw.es, L'Hospitalet tiene su propio punto de servicio oficial: Barcelona Premium, en la calle Montserrat Roig 31, a 3,5 km del centro por carretera. Si te ha llegado una carta de BMW por una campaña de revisión, esa cita se pide allí.",
              "Dasercars es otra cosa: un taller independiente que solo trabaja BMW y MINI. El mantenimiento según el plan de la marca, un ruido de cadena en un N47 o un fallo eléctrico que no aparece a la primera son el tipo de trabajo para el que tiene sentido comparar las dos opciones."
          ]},
         {"id": "itv-campsa", "h2": "La ITV, en el passeig de la Campsa de Cornellà",
@@ -59,7 +59,7 @@ CIUDADES["l-hospitalet-de-llobregat"] = {
         {"etiqueta": "Densidad", "valor": "23.348 hab./km² (12,4 km²)", **F.idescat("081017")},
         {"etiqueta": "Turismos (2024)", "valor": "74.343 · 257 por cada 1.000 hab.", **F.idescat("081017")},
         {"etiqueta": "ITV más cercana", "valor": "Cornellà (B11), pg. de la Campsa 64 · 0,8 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, c. Montserrat Roig 31 · 3,6 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, c. Montserrat Roig 31 · 3,5 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 4,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081017"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -172,7 +172,7 @@ CIUDADES["sant-cugat-del-valles"] = {
          ]},
         {"id": "quadis-vallespir", "h2": "Quadis Munich, en el carrer Vallespir",
          "parrafos": [
-             "El localizador de bmw.es sitúa en la ciudad un punto de servicio oficial: Quadis Munich, en el carrer Vallespir 19, a 2,5 km del centro. Para una reparación en garantía o una campaña del fabricante, es tu sitio.",
+             "El localizador de bmw.es sitúa en la ciudad un punto de servicio oficial: Quadis Munich, en el carrer Vallespir 19, a 2,3 km del centro. Para una reparación en garantía o una campaña del fabricante, es tu sitio.",
              "Para lo demás —un mantenimiento por plan con el aceite de la especificación correcta, un fallo intermitente que nadie ha localizado, un segundo diagnóstico antes de aceptar una reparación cara— puedes comparar con un taller independiente que solo trabaja BMW y MINI."
          ]},
         {"id": "itv-sant-mamet", "h2": "ITV propia en el polígono Sant Mamet",
@@ -198,7 +198,7 @@ CIUDADES["sant-cugat-del-valles"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("082055")},
         {"etiqueta": "Turismos (2024)", "valor": "40.087 · 409 por cada 1.000 hab.", **F.idescat("082055")},
         {"etiqueta": "ITV en el municipio", "valor": "Sant Cugat (B22), polígono Sant Mamet", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, c. Vallespir 19 · 2,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, c. Vallespir 19 · 2,3 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 20,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082055"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -447,7 +447,7 @@ CIUDADES["esplugues-de-llobregat"] = {
          ]},
         {"id": "taller-esteve-terrades", "h2": "Un punto de servicio oficial: el taller de Esteve Terrades",
          "parrafos": [
-             "El localizador de bmw.es da como punto de servicio oficial para Esplugues el taller de Barcelona Premium en el carrer d'Esteve Terrades 77-79 de Barcelona, a 7 km por carretera. Es un punto solo de taller, sin venta, que atiende lo que cubre la garantía de BMW."
+             "En el localizador de bmw.es, dos puntos de Barcelona Premium quedan a 7 km por carretera de Esplugues: el taller del carrer d'Esteve Terrades 77-79 de Barcelona, que es solo de taller, sin venta, y el concesionario de la carretera del Prat 15 de Sant Boi de Llobregat. Cualquiera de los dos atiende lo que cubre la garantía de BMW."
          ]},
     ],
     "faq": [
@@ -463,7 +463,7 @@ CIUDADES["esplugues-de-llobregat"] = {
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("080771")},
         {"etiqueta": "Turismos (2024)", "valor": "16.965 · 352 por cada 1.000 hab.", **F.idescat("080771")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Just Desvern (B05) · 2,7 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, c. Esteve Terrades 77-79 · 7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Esteve Terrades o Sant Boi) · 7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 3,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080771"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -571,9 +571,9 @@ CIUDADES["san-fernando-de-henares"] = {
              "A menos de tres kilómetros del centro pasan la A-2, la M-21, la M-22, la M-45, la M-50 y la M-206. La ruta hacia la calle Valgrande 17 de Alcobendas usa la M-21, la M-40 y la A-1: 21,5 km por carretera, 16,1 en línea recta.",
              "San Fernando está en el área metropolitana de Madrid, así que el taller puede recoger el coche y devolverlo, o dejarte uno de cortesía si la reparación se alarga, siempre según disponibilidad."
          ]},
-        {"id": "caetano-12-km", "h2": "El servicio oficial, a 12,5 km en Madrid",
+        {"id": "caetano-11-km", "h2": "El servicio oficial, a 11,1 km en Madrid",
          "parrafos": [
-             "El punto oficial BMW más próximo según el localizador de bmw.es es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 12,5 km. Para el mantenimiento por plan o una avería fuera de garantía, la alternativa es un especialista independiente como Dasercars, que solo trabaja BMW y MINI."
+             "El punto oficial BMW más próximo según el localizador de bmw.es es Caetano Cuzco, en la calle de Alcalá 474 de Madrid, a 11,1 km. Para el mantenimiento por plan o una avería fuera de garantía, la alternativa es un especialista independiente como Dasercars, que solo trabaja BMW y MINI."
          ]},
         {"id": "poblacion-san-fernando", "h2": "Algo menos de población que hace diez años",
          "parrafos": [
@@ -594,7 +594,7 @@ CIUDADES["san-fernando-de-henares"] = {
         {"etiqueta": "Turismos (2025)", "valor": "21.285 · 545 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV en el municipio", "valor": "ITV Jarama, c. Tapiceros 2", **F.itv_madrid},
         {"etiqueta": "Superficie del término", "valor": "38,7 km²", **F.cartociudad},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Caetano Cuzco (Madrid) · 12,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Caetano Cuzco (Madrid) · 11,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 21,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.cartociudad_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],

@@ -86,14 +86,9 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
-  {
-   "slug": "oris",
-   "nombre": "Orís",
-   "km_linea_recta": 0.7
-  },
   {
    "slug": "sant-quirze-de-besora",
    "nombre": "Sant Quirze de Besora",
@@ -128,12 +123,17 @@
    "slug": "sant-hipolit-de-voltrega",
    "nombre": "Sant Hipòlit de Voltregà",
    "km_linea_recta": 6.8
+  },
+  {
+   "slug": "sora",
+   "nombre": "Sora",
+   "km_linea_recta": 7.1
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller especializado BMW en Vilaseca — Diagnóstico ISTA y recambio OE",
   "tiene_contenido_v3": false,
-  "poblacion_en_json": 17305
+  "poblacion_en_json": null
  },
  "generado": "2026-10-04",
  "perfil": {

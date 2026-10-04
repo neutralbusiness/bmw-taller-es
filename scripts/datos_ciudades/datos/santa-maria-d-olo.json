@@ -68,7 +68,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 27.2,
-   "km_linea": 21.0
+   "km_linea": 21.0,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Osona (B04)",
+     "municipio": "Vic",
+     "km_carretera": 27.2
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -95,7 +102,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.8764,
   "lng": 2.03436,
@@ -145,8 +152,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Santa Maria d'Oló | Especialistas Alta Montaña",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1048
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1099
  },
  "generado": "2026-10-04",
  "perfil": {

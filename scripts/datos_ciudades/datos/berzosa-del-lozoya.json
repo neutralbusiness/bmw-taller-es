@@ -72,14 +72,16 @@
  },
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "BYmyCAR Madrid (Algete)",
-  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "razon_social": "BYMYCAR Madrid, S.L.U.",
   "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
   "cp": "28111",
   "municipio": "Algete",
   "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 70.3,
+  "centro_ocasion_con_taller": "BYmyCAR Madrid (Algete): la instalación de ocasión y el taller autorizado se trasladaron de Alcalá a Algete; horario de taller propio (bymycar.madrid, noticia «Algete»)",
+  "km_carretera": 60.8,
   "km_linea": 42.8,
+  "km_ruta_mas_rapida": 70.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
@@ -88,7 +90,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -134,8 +136,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Berzosa del Lozoya | Sierra Norte",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 227
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 242
  },
  "generado": "2026-10-04",
  "perfil": {

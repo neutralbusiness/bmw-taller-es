@@ -23,6 +23,27 @@ CAPITALES = {
 }
 
 
+# Referencias de carretera mal etiquetadas en OpenStreetMap
+VIAS_FIX = {"C-1412az": "C-1412a", "C-58cc": "C-58"}
+
+
+def limpia_vias(vs):
+    import re
+    out = []
+    for v in vs or []:
+        ref = v if isinstance(v, str) else v.get("ref")
+        if not ref or "ITV" in ref:
+            continue
+        ref = VIAS_FIX.get(ref, re.sub(r"^([A-Z]{1,4}-\d+)var$", r"\1", ref))
+        if isinstance(v, str):
+            nv = ref
+        else:
+            nv = {**v, "ref": ref}
+        if all((x if isinstance(x, str) else x.get("ref")) != ref for x in out):
+            out.append(nv)
+    return out
+
+
 def tamano(p):
     if p is None:
         return "desconocido"
@@ -99,12 +120,12 @@ def main():
                                     "cp": soc.get("cp"), "municipio": soc.get("municipio"), "horario": soc.get("horario"),
                                     "km_carretera": (ru.get("socio") or {}).get("km_carretera"),
                                     "km_linea_recta": (ru.get("socio") or {}).get("km_linea"),
-                                    "vias_de_la_ruta": (ru.get("socio") or {}).get("vias_ruta"),
+                                    "vias_de_la_ruta": limpia_vias((ru.get("socio") or {}).get("vias_ruta")),
                                     "fuente": soc.get("fuente")} if c["socio"] else
                                    {"id": None, "nota": "Sin taller de la red en la zona: no afirmar que hay taller en la ciudad. Pendiente de decisión de Martin."}),
             "itv": {"en_el_municipio": ru.get("itv_en_municipio") or [], "mas_cercana": ru.get("itv_cercana")},
             "bmw_servicio_oficial_mas_cercano": ({**ru["bmw_oficial"], "fuente": bmwf} if ru.get("bmw_oficial") else None),
-            "vias_cercanas": v.get("vias") or [],
+            "vias_cercanas": limpia_vias(v.get("vias")),
             "vias_fuente": v.get("fuente"),
             "costa": {"km": v.get("costa_km"), "a_menos_de_5km": v.get("costa_5km")} if v else None,
             "distancias_fuente": ru.get("fuente"),
@@ -113,9 +134,16 @@ def main():
             "distancias_desde": ({"lat": ru["origen"][0], "lng": ru["origen"][1],
                                   "que": f"centro del núcleo urbano de {ru['origen_nucleo']} (CartoCiudad)"}
                                  if ru.get("origen_nucleo") else None),
+            # Subdominios que no son municipio (barrio, distrito, núcleo): se marcan
+            # con su tipo y municipio, y no se listan como «cercanos» del propio
+            # municipio al que pertenecen (Vilaseca es un núcleo de Orís, no
+            # Vila-seca de Tarragona; no es un municipio vecino de Orís).
             "cercanas_red": [
-                {"slug": o, "nombre": base[o]["nombre"], "km_linea_recta": round(haversine_km(*coords[s], *coords[o]), 1)}
-                for o in sorted((o for o in base if o != s), key=lambda o: haversine_km(*coords[s], *coords[o]))[:8]
+                {"slug": o, "nombre": base[o]["nombre"], "km_linea_recta": round(haversine_km(*coords[s], *coords[o]), 1),
+                 **({"tipo": base[o].get("tipo"), "pertenece_a": base[o].get("pertenece_a")} if base[o].get("tipo") != "municipio" else {})}
+                for o in sorted((o for o in base if o != s and not (base[o].get("tipo") != "municipio" and base[o].get("ine") == c["ine"])
+                                 and not (c.get("tipo") != "municipio" and base[o].get("tipo") == "municipio" and base[o].get("ine") == c["ine"])),
+                                key=lambda o: haversine_km(*coords[s], *coords[o]))[:8]
             ],
             "pagina_actual": {"metaTitle": rc.get("metaTitle"), "tiene_contenido_v3": bool(rc.get("local")),
                               "poblacion_en_json": rc.get("population")},

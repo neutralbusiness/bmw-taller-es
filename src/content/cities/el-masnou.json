@@ -7,7 +7,7 @@
   "lat": 41.47978,
   "lng": 2.3188,
   "metaTitle": "Taller BMW en El Masnou — Especialistas sin perder garantía",
-  "metaDescription": "BMW en El Masnou: servicio oficial en Sant Adrià, ITV en Badalona y taller especialista independiente a 29,3 km. Revisiones fuera del concesionario y garantía.",
+  "metaDescription": "BMW en El Masnou: servicio oficial en Mataró o Sant Adrià, ITV en Badalona y taller especialista independiente a 29,3 km. Revisiones fuera del concesionario y garantía.",
   "heroSubtitle": "Tu BMW merece un especialista. En El Masnou, ofrecemos diagnóstico ISTA, recambios OE y revisiones CBS que mantienen tu garantía intacta.",
   "trustChips": [
     {
@@ -183,18 +183,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "El Masnou: lo oficial, hacia Barcelona; el especialista BMW, a 29,3 km",
-    "entradilla": "Desde El Masnou, lo que tiene que ver con BMW queda hacia el sur: el servicio oficial en Sant Adrià de Besòs, la ITV en Badalona y nuestro taller en Sant Joan Despí. Las distancias, sin adornos, y lo que conviene saber de la garantía.",
+    "h1": "El Masnou: servicio oficial en Mataró o Sant Adrià; el especialista BMW, a 29,3 km",
+    "entradilla": "Desde El Masnou, el servicio oficial BMW queda a algo más de 12 km tanto hacia Mataró como hacia Sant Adrià de Besòs; la ITV, en Badalona, y nuestro taller, en Sant Joan Despí. Las distancias, sin adornos, y lo que conviene saber de la garantía.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 29.3
     },
     "secciones": [
       {
-        "id": "hacia-el-besos",
-        "h2": "Servicio oficial en Sant Adrià, ITV en Badalona",
+        "id": "mataro-o-besos",
+        "h2": "Servicio oficial en Mataró o en Sant Adrià, ITV en Badalona",
         "parrafos": [
-          "El punto de servicio oficial BMW más próximo según bmw.es es Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 12,9 km por carretera. La ITV más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer de la Indústria 427-449, a 11,9 km."
+          "En el localizador de bmw.es hay dos puntos de servicio oficial prácticamente a la misma distancia: Pruna Motor, en la Via Sèrgia 2 de Mataró, a 12,5 km por carretera, y Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 12,9. La ITV más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer de la Indústria 427-449, a 11,9 km."
         ]
       },
       {
@@ -224,7 +224,7 @@
     "faq": [
       {
         "q": "¿Dónde está el concesionario BMW más cercano a El Masnou?",
-        "a": "Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 12,9 km según bmw.es."
+        "a": "Hay dos casi empatados según bmw.es: Pruna Motor, en Mataró, a 12,5 km, y Barcelona Premium, en Sant Adrià de Besòs, a 12,9."
       },
       {
         "q": "¿Recogéis el coche en El Masnou?",
@@ -262,7 +262,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Barcelona Premium, Sant Adrià de Besòs · 12,9 km",
+        "valor": "Pruna Motor, Mataró · 12,5 km (Barcelona Premium, Sant Adrià, 12,9)",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

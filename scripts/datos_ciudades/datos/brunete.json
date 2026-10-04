@@ -71,15 +71,15 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (El Carralero)",
-  "razon_social": "Movilnorte, S.A.",
-  "direccion": "C/. Fresa, 13",
-  "cp": "28220",
-  "municipio": "Majadahonda",
-  "web": "https://movilnorte.concesionariobmw.es",
+  "nombre": "Vehinter (Alcorcón)",
+  "razon_social": "Vehinter, S.A.",
+  "direccion": "Av. S.Martín de Valdeiglesias 14-16",
+  "cp": "28922",
+  "municipio": "Alcorcón",
+  "web": "https://vehinter-alcorcon.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 17.1,
-  "km_linea": 12.2,
+  "km_carretera": 18.5,
+  "km_linea": 15.4,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -104,7 +104,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

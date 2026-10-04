@@ -115,27 +115,27 @@ CIUDADES["ambite"] = {
     "secciones": [
         {"id": "itv-villarejo", "h2": "La ITV de referencia está en Villarejo de Salvanés",
          "parrafos": [
-             "Según el listado oficial de la Comunidad de Madrid, la estación más próxima por carretera al núcleo de Ambite es la de General de Servicios ITV (estación 2853), en la avenida Juan Carlos I Rey de España 13 de Villarejo de Salvanés: 24,7 km.",
+             "Según el listado oficial de la Comunidad de Madrid, para pasar la inspección desde Ambite hay que bajar 24,7 km hasta Villarejo de Salvanés. Allí, en el número 13 de la avenida que lleva el nombre del rey Juan Carlos I, está la estación 2853, que gestiona General de Servicios ITV.",
              "Si además necesita un repaso, pide la pre-ITV cuando vaya al taller por otra cosa."
          ]},
         {"id": "r3-hasta-alcobendas", "h2": "Por la M-204 y la R-3 hasta la A-1",
          "parrafos": [
-             "La ruta desde el centro del núcleo urbano hasta la calle Valgrande de Alcobendas va por la M-204 y la M-209, toma la R-3, cruza por la M-30 y sale por la A-1: 66,3 km por carretera, 46 en línea recta. La recogida que ofrece el taller es para el área metropolitana de Madrid; desde aquí no llega, así que el viaje lo haces tú.",
-             "El servicio oficial BMW más próximo, según bmw.es, es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 32,6 km. Para una campaña del fabricante es el sitio; para lo demás, compara."
+             "Hasta Alcobendas son 66,3 km (46 a vuelo de pájaro): primero la M-204 y la M-209, luego la radial R-3 hacia Madrid, un tramo de M-30 y, al final, la A-1 hasta la nave de Valgrande. La recogida que ofrece el taller es para el área metropolitana de Madrid; desde aquí no llega, así que el viaje lo haces tú.",
+             "Hacia el norte, a 32,6 km, queda Alcalá de Henares: allí tiene AutoPremier el punto oficial que bmw.es da como más cercano. Para una campaña del fabricante es el sitio; para lo demás, compara."
          ]},
         {"id": "ambite-crece", "h2": "De 618 a 732 vecinos en diez años",
          "parrafos": [
-             "El padrón del INE da a Ambite 732 habitantes en 2025, un 18,4 % más que en 2015. La Comunidad de Madrid, a partir de la DGT, contaba 373 turismos en 2025: 510 por cada 1.000 vecinos. A menos de tres kilómetros del centro pasan la M-215, la M-204 y la CM-2031, esta última ya de la red de Castilla-La Mancha.",
+             "El padrón del INE da a Ambite 732 habitantes en 2025, un 18,4 % más que en 2015. Hay 373 turismos censados (Comunidad de Madrid con datos de la DGT, 2025), algo más de uno por cada dos habitantes. A menos de tres kilómetros del centro pasan la M-215, la M-204 y la CM-2031, esta última ya de la red de Castilla-La Mancha.",
              "El pueblo está a unos 774 metros de altitud. Las heladas de invierno castigan las baterías cansadas, y en un BMW con arranque y parada automático la batería trabaja más que en un coche sencillo; revisarla antes del frío ahorra una mañana perdida."
          ]},
     ],
     "faq": [
         {"q": "¿Cuál es la ITV más cercana a Ambite?",
-         "a": "La estación 2853, en la avenida Juan Carlos I Rey de España 13 de Villarejo de Salvanés, a 24,7 km por carretera."},
+         "a": "La 2853 de Villarejo de Salvanés: 24,7 km de carretera hacia el sur."},
         {"q": "¿A qué distancia está vuestro taller?",
-         "a": "A 66,3 km, en la calle Valgrande 17 de Alcobendas, por la R-3, la M-30 y la A-1."},
+         "a": "66,3 km. La nave está en Alcobendas y se llega por la R-3."},
         {"q": "¿Dónde está el concesionario BMW más próximo?",
-         "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 32,6 km según bmw.es."},
+         "a": "El de AutoPremier en Alcalá de Henares, a 32,6 km por carretera."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "732 habitantes (+18,4 % desde 2015)", **F.ine},
@@ -278,8 +278,8 @@ CIUDADES["rajadell"] = {
 # ─────────────────────────────────────────────────────────────────────────────
 META["campins"] = "BMW en Campins (Vallès Oriental): ITV en Sant Celoni a 8,8 km, servicio oficial en Mataró y taller especialista independiente a 64,6 km por la AP-7."
 CIUDADES["campins"] = {
-    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 64,6 km",
-    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Mataró para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
+    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Granollers y taller a 64,6 km",
+    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Granollers para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 64.6},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "Sant Celoni: 4,1 km en recta, 8,8 por carretera",
@@ -289,7 +289,7 @@ CIUDADES["campins"] = {
          ]},
         {"id": "mataro-y-sant-joan", "h2": "Dos direcciones distintas: Mataró o el Baix Llobregat",
          "parrafos": [
-             "El punto oficial BMW más cercano en el localizador de bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 37,5 km. Es la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
+             "El punto oficial BMW más cercano en el localizador de bmw.es es Pruna Motor, en el km 19 de la C-17 en Granollers, a 33,5 km. Es la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
              "Nuestro taller, Dasercars Barcelona, está a 64,6 km: BV-5114, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc, 52,5 km en línea recta. Campins no forma parte del área metropolitana y la recogida del taller no llega. Para una revisión rutinaria es mucho camino; para una avería de BMW que nadie ha resuelto cerca, es otra cuenta."
          ]},
         {"id": "campins-crece", "h2": "Un pueblo pequeño que gana vecinos",
@@ -302,7 +302,7 @@ CIUDADES["campins"] = {
         {"q": "¿Dónde paso la ITV desde Campins?",
          "a": "En la estación de Sant Celoni (B26), carretera de Gualba 41-43, a 8,8 km por carretera."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
-         "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 37,5 km según bmw.es."},
+         "a": "Pruna Motor, en la C-17 a su paso por Granollers, a 33,5 km según bmw.es."},
         {"q": "¿Recogéis el coche en Campins?",
          "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."},
     ],
@@ -311,7 +311,7 @@ CIUDADES["campins"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("080399")},
         {"etiqueta": "Turismos (2024)", "valor": "344 · 587 por cada 1.000 hab.", **F.idescat("080399")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 8,8 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 37,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 33,5 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 64,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080399"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],

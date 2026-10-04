@@ -133,7 +133,7 @@ CIUDADES["alpens"] = {
          ]},
         {"id": "lo-mas-cercano", "h2": "Lo más cercano: Vic y Ripoll",
          "parrafos": [
-             "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 41 km por carretera. La estación de ITV más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 36,3 km.",
+             "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 38,8 km por carretera. La estación de ITV más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 28,1 km.",
              "Para el mantenimiento de rutina, lo razonable es un taller de la comarca o de Osona. El viaje a Sant Joan Despí —124,2 km por la BV-4341, la BV-4342, la C-62, la C-25, la C-16 y la B-20— solo compensa para una avería concreta de BMW que no se haya resuelto cerca, y siempre después de una llamada con modelo, año y síntomas."
          ]},
         {"id": "alpens-en-cifras", "h2": "267 vecinos y 153 turismos",
@@ -145,7 +145,7 @@ CIUDADES["alpens"] = {
         {"q": "¿Tenéis taller cerca de Alpens?",
          "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 124,2 km."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La estación más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), a 36,3 km."},
+         "a": "La estación más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), a 28,1 km."},
         {"q": "¿Cada cuánto se cambia el líquido de frenos?",
          "a": "Por tiempo, según el plan de mantenimiento del coche, porque absorbe humedad aunque no se hagan kilómetros."},
     ],
@@ -154,8 +154,8 @@ CIUDADES["alpens"] = {
         {"etiqueta": "Comarca", "valor": "Lluçanès", **F.idescat("080044")},
         {"etiqueta": "Altitud", "valor": "855 m", **F.idescat("080044")},
         {"etiqueta": "Turismos (2024)", "valor": "153", **F.idescat("080044")},
-        {"etiqueta": "ITV más cercana", "valor": "Ripoll (G08) · 36,3 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Vic) · 41 km", **F.bmw},
+        {"etiqueta": "ITV más cercana", "valor": "Ripoll (G08) · 28,1 km", **F.itv_cat},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Vic) · 38,8 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080044"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }

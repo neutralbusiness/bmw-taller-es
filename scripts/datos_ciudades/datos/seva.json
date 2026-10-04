@@ -67,8 +67,9 @@
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 25.0,
-   "km_linea": 12.5
+   "km_carretera": 18.8,
+   "km_linea": 12.5,
+   "km_ruta_mas_rapida": 25.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -100,7 +101,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

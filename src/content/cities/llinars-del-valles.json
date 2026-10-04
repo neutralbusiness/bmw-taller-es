@@ -7,7 +7,7 @@
   "lat": 41.63649,
   "lng": 2.39502,
   "metaTitle": "Taller BMW en Llinars del Vallès | BMW Taller",
-  "metaDescription": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
+  "metaDescription": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Granollers y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
   "heroSubtitle": "Especialistas BMW para Llinars del Vallès y su entorno",
   "trustChips": [
     {
@@ -174,8 +174,8 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 49,6 km",
-    "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Mataró; y el taller especialista de la red, en Sant Joan Despí.",
+    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Granollers y taller a 49,6 km",
+    "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Granollers; y el taller especialista de la red, en Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 49.6
@@ -185,15 +185,15 @@
         "id": "itv-sant-celoni",
         "h2": "La ITV de la carretera de Gualba",
         "parrafos": [
-          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Celoni (B26), que gestiona TÜV SÜD en la carretera de Gualba 41-43: 13,3 km desde el centro de Llinars.",
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Celoni (B26), que gestiona TÜV SÜD en la carretera de Gualba 41-43: 12,8 km desde el centro de Llinars.",
           "Si vas a pasar la inspección, revisa antes lo que más suspende: luces, neumáticos, escobillas y cualquier testigo encendido en el cuadro."
         ]
       },
       {
-        "id": "concesionario-mataro",
-        "h2": "El concesionario BMW más próximo está en Mataró",
+        "id": "concesionario-granollers",
+        "h2": "El concesionario BMW más próximo está en Granollers",
         "parrafos": [
-          "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en la Via Sergia 2 de Mataró, a 20,8 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
+          "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en el km 19 de la C-17, en Granollers, a 17,1 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
           "Lo demás —mantenimiento, desgaste, averías fuera de garantía— puede hacerse en un taller independiente."
         ]
       },
@@ -216,11 +216,11 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Llinars?",
-        "a": "La estación más próxima por carretera en el registro de la Generalitat es Sant Celoni (B26), a 13,3 km."
+        "a": "La estación más próxima por carretera en el registro de la Generalitat es Sant Celoni (B26), a 12,8 km."
       },
       {
-        "q": "¿Por qué el concesionario BMW más cercano está en Mataró?",
-        "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, a 20,8 km por carretera."
+        "q": "¿Cuál es el concesionario BMW más cercano?",
+        "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, en Granollers, a 17,1 km por carretera."
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
@@ -248,13 +248,13 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Celoni (B26) · 13,3 km",
+        "valor": "Sant Celoni (B26) · 12,8 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Pruna Motor, Mataró · 20,8 km",
+        "valor": "Pruna Motor, Granollers · 17,1 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

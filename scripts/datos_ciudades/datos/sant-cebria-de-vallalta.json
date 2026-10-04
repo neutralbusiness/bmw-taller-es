@@ -57,16 +57,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Celoni (B26)",
-   "operador": "TuV-SUD",
-   "direccion": "Carretera Gualba, 41-43",
-   "municipio": "Sant Celoni",
+   "nombre": "ITV Blanes (G07)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Avinguda de l'estació 47",
+   "municipio": "Blanes",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 22.4,
-   "km_linea": 11.6
+   "km_carretera": 20.5,
+   "km_linea": 15.9,
+   "km_ruta_mas_rapida": 23.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -98,7 +99,7 @@
   "km": 3.2,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.61905,
   "lng": 2.60129,
@@ -148,8 +149,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Sant Cebrià de Vallalta | Interior Maresme",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 3337
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 3872
  },
  "generado": "2026-10-04",
  "perfil": {

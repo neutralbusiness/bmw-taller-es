@@ -349,9 +349,9 @@ CIUDADES["campo-real"] = {
              "Desde Campo Real, la ruta hasta la calle Valgrande de Alcobendas sale por la M-209, que pasa a 0,4 km del centro, toma la R-3, cruza por la M-30 y termina por la A-1: 46,7 km por carretera, 31,9 en línea recta.",
              "No es un viaje para una escobilla. Sí lo es para un diagnóstico que nadie ha cerrado o para el mantenimiento por plan de marca. Antes de mover el coche recibes un presupuesto por escrito, y el trabajo no empieza hasta que das el visto bueno; la diagnosis también se presupuesta.",
          ]},
-        {"id": "oficial-la-garena", "h2": "El servicio oficial, en el polígono La Garena",
+        {"id": "oficial-via-complutense", "h2": "El servicio oficial, en la Vía Complutense",
          "parrafos": [
-             "En el localizador de bmw.es, el punto oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena, en Alcalá de Henares, a 23,7 km por carretera.",
+             "En el localizador de bmw.es, el punto oficial más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 23 km por carretera.",
          ]},
         {"id": "campo-real-crece", "h2": "De 5.854 a 6.974 vecinos",
          "parrafos": [
@@ -372,7 +372,7 @@ CIUDADES["campo-real"] = {
         {"etiqueta": "Turismos (2025)", "valor": "3.820 · 548 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Superficie del término", "valor": "61,5 km²", **F.cartociudad},
         {"etiqueta": "ITV más cercana", "valor": "Arganda del Rey (estación 2807) · 9,4 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 23,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 23 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 46,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.cartociudad_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],

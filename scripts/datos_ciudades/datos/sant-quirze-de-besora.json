@@ -94,7 +94,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -105,7 +105,9 @@
   {
    "slug": "vilaseca",
    "nombre": "Vilaseca",
-   "km_linea_recta": 2.9
+   "km_linea_recta": 2.9,
+   "tipo": "núcleo de población",
+   "pertenece_a": "Orís (Osona)"
   },
   {
    "slug": "oris",

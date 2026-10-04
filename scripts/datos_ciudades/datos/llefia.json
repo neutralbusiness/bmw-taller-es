@@ -56,8 +56,15 @@
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 2.4,
-   "km_linea": 1.5
+   "km_carretera": 2.2,
+   "km_linea": 1.5,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV BCN Caracas (B23)",
+     "municipio": "Barcelona",
+     "km_carretera": 2.6
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -102,11 +109,6 @@
    "ref": "C-33",
    "tipo": "primary",
    "km": 2.8
-  },
-  {
-   "ref": "C-58cc",
-   "tipo": "trunk",
-   "km": 2.9
   }
  ],
  "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
@@ -114,7 +116,7 @@
   "km": 2.6,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -126,11 +128,6 @@
    "slug": "santa-coloma-de-gramenet",
    "nombre": "Santa Coloma de Gramenet",
    "km_linea_recta": 1.8
-  },
-  {
-   "slug": "badalona",
-   "nombre": "Badalona",
-   "km_linea_recta": 2.7
   },
   {
    "slug": "montcada-i-reixac",
@@ -156,12 +153,17 @@
    "slug": "sant-fost-de-campsentelles",
    "nombre": "Sant Fost de Campsentelles",
    "km_linea_recta": 7.8
+  },
+  {
+   "slug": "ripollet",
+   "nombre": "Ripollet",
+   "km_linea_recta": 8.3
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Llefià, Badalona — Especialistas en Eléctricos",
   "tiene_contenido_v3": false,
-  "poblacion_en_json": 43827
+  "poblacion_en_json": null
  },
  "generado": "2026-10-04",
  "perfil": {

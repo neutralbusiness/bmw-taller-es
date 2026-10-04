@@ -117,7 +117,7 @@
   "km": 1.3,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -158,7 +158,9 @@
   {
    "slug": "llefia",
    "nombre": "Llefià",
-   "km_linea_recta": 6.1
+   "km_linea_recta": 6.1,
+   "tipo": "barrio",
+   "pertenece_a": "Badalona"
   }
  ],
  "pagina_actual": {

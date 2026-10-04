@@ -69,7 +69,14 @@
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
    "km_carretera": 21.0,
-   "km_linea": 17.2
+   "km_linea": 17.2,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2853)",
+     "municipio": "Villarejo De Salvanés",
+     "km_carretera": 21.3
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -101,7 +108,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.10311,
   "lng": -3.48606,

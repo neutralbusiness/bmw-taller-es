@@ -21,7 +21,7 @@ CIUDADES["terrassa"] = {
          ]},
         {"id": "itv-viladecavalls", "h2": "La ITV de referencia está en Viladecavalls",
          "parrafos": [
-             "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Terrassa es la de Viladecavalls (B03), en el polígono industrial Can Trias, a 6,3 km. Es también la más próxima por carretera para Ullastrell y Matadepera."
+             "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Terrassa es la de Viladecavalls (B03), en el polígono industrial Can Trias, a 5,6 km. Es también la más próxima por carretera para Ullastrell y Matadepera."
          ]},
         {"id": "parque-terrassa", "h2": "Un parque de más de 100.000 turismos",
          "parrafos": [
@@ -40,7 +40,7 @@ CIUDADES["terrassa"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "233.270 habitantes", **F.ine},
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("082798")},
         {"etiqueta": "Turismos (2024)", "valor": "102.461 · 439 por cada 1.000 hab.", **F.idescat("082798")},
-        {"etiqueta": "ITV más cercana", "valor": "Viladecavalls (B03) · 6,3 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Viladecavalls (B03) · 5,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, c. Anoia 9 · 5,2 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 31,4 km", **F.osrm},
     ],
@@ -59,7 +59,7 @@ CIUDADES["camarma-de-esteruelas"] = {
          ]},
         {"id": "alcala-al-lado", "h2": "Lo oficial, en Alcalá de Henares",
          "parrafos": [
-             "El servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena, en Alcalá de Henares, a 9 km por carretera. La estación de ITV oficial más cercana, también en Alcalá: ITVERSIA, en la Vía Complutense 105, a 10,1 km.",
+             "El servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 9,9 km por carretera. La estación de ITV oficial más cercana, también en Alcalá: ITVERSIA, en la Vía Complutense 105, a 10,1 km.",
              "Que el servicio oficial esté tan cerca no obliga a hacer allí las revisiones: la normativa europea de competencia protege el derecho a elegir taller sin perder la garantía, siempre que se siga el plan de mantenimiento del coche."
          ]},
         {"id": "m100-r2", "h2": "Hasta Alcobendas por la M-100 y la R-2",
@@ -79,7 +79,7 @@ CIUDADES["camarma-de-esteruelas"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "8.331 habitantes (+16,8 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "5.249 · 630 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV oficial más cercana", "valor": "ITVERSIA, Alcalá de Henares · 10,1 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 9 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 9,9 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 36,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],

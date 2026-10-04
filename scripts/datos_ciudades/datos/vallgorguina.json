@@ -79,8 +79,9 @@
   "municipio": "Mataró",
   "web": "https://prunamotor-mataro.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 34.3,
+  "km_carretera": 23.4,
   "km_linea": 15.3,
+  "km_ruta_mas_rapida": 34.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
@@ -89,7 +90,7 @@
   "km": 9.2,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.6477,
   "lng": 2.51139,

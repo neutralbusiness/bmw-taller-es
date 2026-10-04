@@ -59,6 +59,30 @@ def _coords_cat(e):
     return lat, lng
 
 
+def limpia_texto(s):
+    """Arregla la codificación del dataset de la Generalitat.
+
+    - comillas escapadas varias veces: `\\\\\\"Bufalvent\\\\\\"` → «Bufalvent»;
+    - apóstrofo perdido en la exportación: «l¿estació» → «l'estació»;
+    - espacios repetidos."""
+    if not s:
+        return s
+    s = re.sub(r'\\*"([^"\\]+?)\\*"', r"«\1»", s)
+    s = s.replace("\\", "")
+    s = re.sub(r"(?<=\w)¿(?=\w)", "'", s)
+    return re.sub(r"\s{2,}", " ", s).strip()
+
+
+def nombre_oficial_cat(m):
+    """«Borges Blanques, les» → «les Borges Blanques» (forma oficial del nomenclátor)."""
+    m = (m or "").strip()
+    x = re.match(r"^(.+?),\s*(el|la|els|les|l'|l’)$", m, re.I)
+    if x:
+        art = x.group(2)
+        return (art + x.group(1)) if art.endswith(("'", "’")) else f"{art} {x.group(1)}"
+    return m
+
+
 def cataluna():
     out = []
     for e in json.loads(http_get(CAT_URL, "itv_cat.json")):
@@ -69,9 +93,9 @@ def cataluna():
         if not (40.4 < lat < 42.95 and 0.1 < lng < 3.4):
             continue
         out.append({
-            "nombre": f"ITV {e.get('denominaci', '').strip()} ({e.get('estaci', '')})",
+            "nombre": limpia_texto(f"ITV {e.get('denominaci', '').strip()} ({e.get('estaci', '')})"),
             "operador": e.get("operador"),
-            "direccion": e.get("adre_a"), "cp": e.get("cp"), "municipio": e.get("municipi"),
+            "direccion": limpia_texto(e.get("adre_a")), "cp": e.get("cp"), "municipio": nombre_oficial_cat(e.get("municipi")),
             "ine5": (e.get("codi_municipi") or "")[:5] or None,
             "lat": lat, "lng": lng, "horario": e.get("horari_de_servei"), "precision": "Generalitat (coordenadas de la estación)",
             "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd", "oficial": True, "verificar": False,

@@ -58,28 +58,41 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Itversia Gestión, S.L (estación 2861)",
-   "operador": "Itversia Gestión, S.L",
-   "direccion": "C/ Jacinto Benavente, 6. Pol.Ind. Casablanca Este",
+   "nombre": "ITV ITV Maco, S.L (estación 2865)",
+   "operador": "ITV Maco, S.L",
+   "direccion": "Avda. de la Constitución, 3",
    "municipio": "Torrejón De Ardoz",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 19.3,
-   "km_linea": 13.4
+   "km_carretera": 18.9,
+   "km_linea": 16.5,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Itversia Gestión, S.L (estación 2861)",
+     "municipio": "Torrejón De Ardoz",
+     "km_carretera": 19.3
+    },
+    {
+     "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
+     "municipio": "Alcalá De Henares",
+     "km_carretera": 19.5
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "AutoPremier (P.I.La Garena)",
-  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
-  "direccion": "Calle Argentina, 7",
-  "cp": "28806",
-  "municipio": "Alcalá de Henares",
-  "web": "https://autopremier.concesionariobmw.es/",
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U.",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 15.5,
-  "km_linea": 10.6,
+  "centro_ocasion_con_taller": "BYmyCAR Madrid (Algete): la instalación de ocasión y el taller autorizado se trasladaron de Alcalá a Algete; horario de taller propio (bymycar.madrid, noticia «Algete»)",
+  "km_carretera": 20.7,
+  "km_linea": 11.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
@@ -88,7 +101,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.59217,
   "lng": -3.41248,
@@ -138,8 +151,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Fresno de Torote | Mecánica especializada",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 2089
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 2561
  },
  "generado": "2026-10-04",
  "perfil": {

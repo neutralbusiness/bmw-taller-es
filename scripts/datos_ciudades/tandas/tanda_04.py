@@ -196,17 +196,17 @@ META["bigues-i-riells"] = "Bigues i Riells: concesionario BMW e ITV en Granoller
 # ---------------------------------------------------------------- Santa Maria de Palautordera
 CIUDADES["santa-maria-de-palautordera"] = {
     "h1": "Santa Maria de Palautordera: ITV a 9,1 km y especialista BMW a 61,7 km",
-    "entradilla": "Desde Santa Maria de Palautordera, lo que tienes cerca es la ITV de Sant Celoni. El servicio oficial BMW más próximo está en Mataró y nuestro taller, en Sant Joan Despí. Mejor saber de antemano qué se resuelve dónde.",
+    "entradilla": "Desde Santa Maria de Palautordera, lo que tienes cerca es la ITV de Sant Celoni. El servicio oficial BMW más próximo está en Granollers, con el de Mataró casi a la par, y nuestro taller, en Sant Joan Despí. Mejor saber de antemano qué se resuelve dónde.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 61.7},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "La inspección, en la carretera de Gualba",
          "parrafos": [
              "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 9,1 km. Es lo único de esta lista que tienes realmente a mano, y conviene aprovecharlo: la inspección, aquí; los viajes largos, solo cuando haga falta.",
          ]},
-        {"id": "mataro-31-km", "h2": "El concesionario más cercano, a 30,7 km en Mataró",
+        {"id": "mataro-31-km", "h2": "El concesionario más cercano, a 30,6 km en Granollers",
          "parrafos": [
-             "Según bmw.es, el punto oficial más próximo es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,7 km por carretera. Para una reparación cubierta por la garantía de BMW, ese es el sitio.",
-             "Entre Mataró y Sant Joan Despí, la decisión depende del trabajo: lo que es de garantía, al oficial; un mantenimiento por plan o un problema que necesita un especialista independiente, a nosotros.",
+             "Según bmw.es, el punto oficial más próximo es Pruna Motor, en la C-17 a su paso por Granollers, a 30,6 km por carretera; el de la misma marca en la Via Sèrgia de Mataró queda a 30,7. Para una reparación cubierta por la garantía de BMW, ese es el sitio.",
+             "Entre el servicio oficial y Sant Joan Despí, la decisión depende del trabajo: lo que es de garantía, al oficial; un mantenimiento por plan o un problema que necesita un especialista independiente, a nosotros.",
          ]},
         {"id": "ap7-hasta-el-taller", "h2": "61,7 km por la AP-7: para qué sí",
          "parrafos": [
@@ -222,7 +222,7 @@ CIUDADES["santa-maria-de-palautordera"] = {
         {"q": "¿Dónde paso la ITV desde Santa Maria de Palautordera?",
          "a": "La estación más próxima en el registro de la Generalitat es Sant Celoni (B26), en la carretera de Gualba, a 9,1 km."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 30,7 km."},
+         "a": "Pruna Motor, en Granollers, a 30,6 km (o en Mataró, a 30,7)."},
         {"q": "¿Recogéis el coche aquí?",
          "a": "No: la recogida del taller cubre solo el Área Metropolitana de Barcelona."},
     ],
@@ -231,17 +231,17 @@ CIUDADES["santa-maria-de-palautordera"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("082592")},
         {"etiqueta": "Turismos (2024)", "valor": "5.439 · 540 por cada 1.000 hab.", **F.idescat("082592")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 9,1 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 30,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers) · 30,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 61,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082592"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["santa-maria-de-palautordera"] = "Santa Maria de Palautordera: ITV en Sant Celoni, servicio oficial BMW en Mataró y taller especialista independiente en Sant Joan Despí, a 61,7 km."
+META["santa-maria-de-palautordera"] = "Santa Maria de Palautordera: ITV en Sant Celoni, servicio oficial BMW en Granollers o Mataró y taller especialista independiente en Sant Joan Despí, a 61,7 km."
 
 # ---------------------------------------------------------------- Matadepera
 CIUDADES["matadepera"] = {
     "h1": "Matadepera: por la B-40 y la C-16, camino del especialista BMW",
-    "entradilla": "Desde Matadepera, lo básico para un BMW queda cerca: el concesionario más próximo está en Terrassa, a 8,5 km, y la ITV de Viladecavalls, a 8. Nuestro taller queda a 39,4 km, en Sant Joan Despí.",
+    "entradilla": "Desde Matadepera, lo básico para un BMW queda cerca: el concesionario más próximo está en Terrassa, a 8,3 km, y la ITV de Viladecavalls, a 8. Nuestro taller queda a 39,4 km, en Sant Joan Despí.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 39.4},
     "secciones": [
         {"id": "salir-por-terrassa", "h2": "Tres carreteras hasta Sant Joan Despí",
@@ -251,7 +251,7 @@ CIUDADES["matadepera"] = {
          ]},
         {"id": "anoia-9", "h2": "Quadis Munich, en el carrer Anoia de Terrassa",
          "parrafos": [
-             "El punto oficial más próximo según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 8,5 km. Si tu BMW está en garantía y tiene una avería cubierta, la reparación se tramita allí.",
+             "El punto oficial más próximo según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 8,3 km. Si tu BMW está en garantía y tiene una avería cubierta, la reparación se tramita allí.",
              "Si buscas un taller independiente especializado para el mantenimiento o un segundo diagnóstico, esa es nuestra parte. Trabajamos también MINI, que comparte electrónica y buena parte de los motores con BMW.",
          ]},
         {"id": "itv-can-trias", "h2": "ITV en el polígono Can Trias",
@@ -273,7 +273,7 @@ CIUDADES["matadepera"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "9.776 habitantes (+9,8 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Vallès Occidental", **F.idescat("081206")},
         {"etiqueta": "Turismos (2024)", "valor": "5.047 · 516 por cada 1.000 hab.", **F.idescat("081206")},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Terrassa) · 8,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich (Terrassa) · 8,3 km", **F.bmw},
         {"etiqueta": "ITV más cercana", "valor": "Viladecavalls (B03) · 8 km", **F.itv_cat},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 39,4 km", **F.osrm},
     ],
@@ -284,7 +284,7 @@ META["matadepera"] = "Matadepera: servicio oficial BMW en Terrassa, ITV en Vilad
 # ---------------------------------------------------------------- Cervelló
 CIUDADES["cervello"] = {
     "h1": "Cervelló: el taller especialista BMW queda más cerca que el concesionario",
-    "entradilla": "Desde Cervelló, nuestro taller de Sant Joan Despí está a 15,8 km y el servicio oficial BMW más próximo, en Sant Boi, a 17,8. Es poco habitual que sea así, y además el municipio entra en el área de recogida del taller.",
+    "entradilla": "Desde Cervelló, nuestro taller de Sant Joan Despí está a 15,8 km y el servicio oficial BMW más próximo, en Sant Boi, a 16,7. Es poco habitual que sea así, y además el municipio entra en el área de recogida del taller.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 15.8},
     "secciones": [
         {"id": "b24-a2", "h2": "15,8 km por la B-24 y la A-2",
@@ -297,7 +297,7 @@ CIUDADES["cervello"] = {
          ]},
         {"id": "oficial-sant-boi", "h2": "Barcelona Premium, en la carretera del Prat",
          "parrafos": [
-             "El punto oficial más cercano según el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 17,8 km. Las llamadas a revisión de la marca y las reparaciones en garantía se hacen allí.",
+             "El punto oficial más cercano según el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 16,7 km. Las llamadas a revisión de la marca y las reparaciones en garantía se hacen allí.",
              "El mantenimiento periódico no tiene por qué: la normativa europea de distribución de vehículos (Reglamento UE 461/2010) permite hacerlo en un taller independiente sin que el coche pierda la garantía, con dos condiciones: respetar los intervalos y usar recambios y aceites de la especificación correcta.",
          ]},
         {"id": "itv-sant-andreu", "h2": "La ITV, en la N-II a la altura de Sant Andreu de la Barca",
@@ -318,7 +318,7 @@ CIUDADES["cervello"] = {
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("080689")},
         {"etiqueta": "Turismos (2024)", "valor": "5.255 · 539 por cada 1.000 hab.", **F.idescat("080689")},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 15,8 km", **F.osrm},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Sant Boi) · 17,8 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium (Sant Boi) · 16,7 km", **F.bmw},
         {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 14,3 km", **F.itv_cat},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080689"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
@@ -563,7 +563,7 @@ CIUDADES["loeches"] = {
         {"id": "arganda-y-alcala", "h2": "ITV en Arganda, oficial en Alcalá",
          "parrafos": [
              "La estación oficial de ITV más próxima en el listado de la Comunidad es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8, en Arganda del Rey, a 11 km.",
-             "Para la red de la marca, el localizador de bmw.es remite a Alcalá de Henares: AutoPremier tiene su punto de servicio en la calle Argentina 7, a 17,4 km de Loeches por carretera. Pasar las revisiones en otro sitio no deja el coche sin garantía; el Reglamento (UE) 461/2010 lo ampara mientras se siga el plan de mantenimiento con piezas y aceites de la especificación correcta.",
+             "Para la red de la marca, el localizador de bmw.es remite a Alcalá de Henares: AutoPremier tiene su punto de servicio en la Vía Complutense 131, a 22,7 km de Loeches por carretera. Pasar las revisiones en otro sitio no deja el coche sin garantía; el Reglamento (UE) 461/2010 lo ampara mientras se siga el plan de mantenimiento con piezas y aceites de la especificación correcta.",
          ]},
         {"id": "m206-m50-r2", "h2": "Por la M-206, la M-50 y la R-2",
          "parrafos": [
@@ -584,7 +584,7 @@ CIUDADES["loeches"] = {
         {"etiqueta": "Superficie del término", "valor": "44,1 km²", **F.cartociudad},
         {"etiqueta": "Turismos (2025)", "valor": "5.936 · 641 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "Laboratorio e Inspección de Vehículos, Arganda del Rey · 11 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, c. Argentina 7 (Alcalá) · 17,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Vía Complutense 131 (Alcalá) · 22,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 40,4 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cartociudad_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],

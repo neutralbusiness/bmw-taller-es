@@ -201,7 +201,7 @@ CIUDADES["cunit"] = {
 
 CIUDADES["vallirana"] = {
     "h1": "Vallirana: el taller BMW de la red a 17,7 km, más cerca que el concesionario",
-    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,7 km por la B-24 y la A-2 frente a 19,8 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
+    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,7 km por la B-24 y la A-2 frente a 18,6 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 17.7},
     "secciones": [
         {"id": "b24-a2", "h2": "La B-24 hasta la A-2",
@@ -221,7 +221,7 @@ CIUDADES["vallirana"] = {
          ]},
         {"id": "oficial-e-itv", "h2": "Sant Boi para el servicio oficial, Sant Andreu de la Barca para la ITV",
          "parrafos": [
-             "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 19,8 km. La ITV que la Generalitat sitúa más cerca por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 16,2 km; en línea recta son 8,6.",
+             "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 18,6 km. La ITV que la Generalitat sitúa más cerca por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 15,5 km; en línea recta son 8,6.",
              "Vallirana tenía 16.245 habitantes en 2025, un 11 % más que en 2015, y 8.636 turismos en 2024 según Idescat: 532 por cada 1.000 vecinos.",
          ]},
     ],
@@ -229,16 +229,16 @@ CIUDADES["vallirana"] = {
         {"q": "¿Recogéis el coche en Vallirana?",
          "a": "No: Vallirana no está en el Área Metropolitana de Barcelona, y la recogida solo cubre esa área."},
         {"q": "¿Qué está más cerca, vuestro taller o el concesionario?",
-         "a": "El taller: 17,7 km hasta Sant Joan Despí, frente a 19,8 km hasta Barcelona Premium, en Sant Boi."},
+         "a": "El taller: 17,7 km hasta Sant Joan Despí, frente a 18,6 km hasta Barcelona Premium, en Sant Boi."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "En Sant Andreu de la Barca (B21), a 16,2 km por carretera, según el registro de la Generalitat."},
+         "a": "En Sant Andreu de la Barca (B21), a 15,5 km por carretera, según el registro de la Generalitat."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "16.245 habitantes (+11 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("082956")},
         {"etiqueta": "Turismos (2024)", "valor": "8.636 · 532 por cada 1.000 hab.", **F.idescat("082956")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 16,2 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 19,8 km", **F.bmw},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 15,5 km", **F.itv_cat},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 18,6 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 17,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082956"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -350,7 +350,7 @@ CIUDADES["la-llagosta"] = {
         {"id": "ruta-c33", "h2": "29,2 km por la C-33 y la B-20",
          "parrafos": [
              "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-33 y cruza por la B-20 hasta Sant Joan Despí: 29,2 km por carretera, 19,7 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
-             "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en el carrer Costa i Deu 133 de Sabadell, a 14,3 km por carretera.",
+             "El servicio oficial BMW más próximo según bmw.es es Sitjas, un taller autorizado en el carrer Quintana 64 de Sabadell, a 10,1 km por carretera.",
          ]},
         {"id": "la-llagosta-en-cifras", "h2": "4.383 habitantes por kilómetro cuadrado",
          "parrafos": [
@@ -371,7 +371,7 @@ CIUDADES["la-llagosta"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("081056")},
         {"etiqueta": "Turismos (2024)", "valor": "5.629 · 424 por cada 1.000 hab.", **F.idescat("081056")},
         {"etiqueta": "ITV más cercana", "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 4,6 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Sabadell · 14,3 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Sitjas (taller autorizado), Sabadell · 10,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 29,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081056"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -527,7 +527,7 @@ CIUDADES["palleja"] = {
          ]},
         {"id": "oficial-itv-palleja", "h2": "Sant Boi y Sant Andreu de la Barca",
          "parrafos": [
-             "El servicio oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 12,9 km: algo más lejos que el especialista independiente. La ITV que el registro de la Generalitat sitúa más cerca por carretera es Sant Andreu de la Barca (B21), en la N-II, a 8,4 km.",
+             "El servicio oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 12,9 km: algo más lejos que el especialista independiente. La ITV que el registro de la Generalitat sitúa más cerca por carretera es Sant Andreu de la Barca (B21), en la N-II, a 5,8 km.",
          ]},
         {"id": "nudo-de-carreteras", "h2": "Diez carreteras a menos de tres kilómetros",
          "parrafos": [
@@ -547,7 +547,7 @@ CIUDADES["palleja"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "12.006 habitantes (+6,3 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("081574")},
         {"etiqueta": "Turismos (2024)", "valor": "5.579 · 465 por cada 1.000 hab.", **F.idescat("081574")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 8,4 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 5,8 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 12,9 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 10,8 km", **F.osrm},
     ],
@@ -599,18 +599,18 @@ CIUDADES["la-roca-del-valles"] = {
 }
 
 CIUDADES["llinars-del-valles"] = {
-    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 49,6 km",
-    "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Mataró; y el taller especialista de la red, en Sant Joan Despí.",
+    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Granollers y taller a 49,6 km",
+    "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Granollers; y el taller especialista de la red, en Sant Joan Despí.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 49.6},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "La ITV de la carretera de Gualba",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Celoni (B26), que gestiona TÜV SÜD en la carretera de Gualba 41-43: 13,3 km desde el centro de Llinars.",
+             "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Celoni (B26), que gestiona TÜV SÜD en la carretera de Gualba 41-43: 12,8 km desde el centro de Llinars.",
              "Si vas a pasar la inspección, revisa antes lo que más suspende: luces, neumáticos, escobillas y cualquier testigo encendido en el cuadro.",
          ]},
-        {"id": "concesionario-mataro", "h2": "El concesionario BMW más próximo está en Mataró",
+        {"id": "concesionario-granollers", "h2": "El concesionario BMW más próximo está en Granollers",
          "parrafos": [
-             "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en la Via Sergia 2 de Mataró, a 20,8 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
+             "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en el km 19 de la C-17, en Granollers, a 17,1 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
              "Lo demás —mantenimiento, desgaste, averías fuera de garantía— puede hacerse en un taller independiente.",
          ]},
         {"id": "c35-ap7", "h2": "49,6 kilómetros por la C-35 y la AP-7",
@@ -625,9 +625,9 @@ CIUDADES["llinars-del-valles"] = {
     ],
     "faq": [
         {"q": "¿Dónde paso la ITV desde Llinars?",
-         "a": "La estación más próxima por carretera en el registro de la Generalitat es Sant Celoni (B26), a 13,3 km."},
-        {"q": "¿Por qué el concesionario BMW más cercano está en Mataró?",
-         "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, a 20,8 km por carretera."},
+         "a": "La estación más próxima por carretera en el registro de la Generalitat es Sant Celoni (B26), a 12,8 km."},
+        {"q": "¿Cuál es el concesionario BMW más cercano?",
+         "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, en Granollers, a 17,1 km por carretera."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
          "a": "49,6 km por carretera, por la C-35, la AP-7, la C-33 y la B-20."},
     ],
@@ -635,8 +635,8 @@ CIUDADES["llinars-del-valles"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "10.956 habitantes (+14,5 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("081069")},
         {"etiqueta": "Turismos (2024)", "valor": "5.667 · 517 por cada 1.000 hab.", **F.idescat("081069")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 13,3 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 20,8 km", **F.bmw},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 12,8 km", **F.itv_cat},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 17,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 49,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081069"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
@@ -658,7 +658,7 @@ META = {
     "montgat": "Montgat: recogida del coche en el área metropolitana (sujeta a disponibilidad) y taller especialista BMW a 25,3 km. ITV en Badalona.",
     "palleja": "Pallejà: taller especialista BMW y MINI a 10,8 km por la A-2, recogida en el área metropolitana sujeta a disponibilidad e ITV en Sant Andreu de la Barca.",
     "la-roca-del-valles": "La Roca del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 45,5 km en Sant Joan Despí.",
-    "llinars-del-valles": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
+    "llinars-del-valles": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Granollers y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
 }
 
 

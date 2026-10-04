@@ -77,8 +77,9 @@
   "municipio": "Sant Boi de Llobregat",
   "web": "https://barcelonapremium-santboi.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 18.1,
+  "km_carretera": 16.9,
   "km_linea": 11.2,
+  "km_ruta_mas_rapida": 18.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -103,7 +104,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

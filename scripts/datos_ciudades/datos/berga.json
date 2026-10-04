@@ -59,7 +59,7 @@
    {
     "nombre": "ITV Berga (B13)",
     "operador": "TuV-RHEINLAND",
-    "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+    "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. «La Valldan»",
     "municipio": "Berga",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
@@ -103,7 +103,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

@@ -326,13 +326,13 @@ CIUDADES["argencola"] = {
 
 # ---------------------------------------------------------------- Berzosa del Lozoya
 CIUDADES["berzosa-del-lozoya"] = {
-    "h1": "Berzosa del Lozoya: servicio oficial BMW y taller especialista, casi a la misma distancia",
-    "entradilla": "Desde Berzosa del Lozoya, el servicio oficial BMW más cercano está a 70,3 km y nuestro taller, a 72,3. Con dos kilómetros de diferencia, la distancia no decide: decide lo que necesita el coche.",
+    "h1": "Berzosa del Lozoya: servicio oficial BMW a 60,8 km y taller especialista a 72,3",
+    "entradilla": "Desde Berzosa del Lozoya, el servicio oficial BMW más cercano está a 60,8 km y nuestro taller, a 72,3. La diferencia es pequeña y la distancia no decide: decide lo que necesita el coche.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 72.3},
     "secciones": [
         {"id": "algete-o-alcobendas", "h2": "Algete o Alcobendas",
          "parrafos": [
-             "El localizador de bmw.es da como punto oficial más próximo BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete, km 3: 70,3 km por carretera. Dasercars Madrid está en la calle Valgrande 17 de Alcobendas, a 72,3 km por la M-127, la M-135 y la A-1 (49,5 km en línea recta).",
+             "El localizador de bmw.es da como punto oficial más próximo BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete, km 3: 60,8 km por carretera. Dasercars Madrid está en la calle Valgrande 17 de Alcobendas, a 72,3 km por la M-127, la M-135 y la A-1 (49,5 km en línea recta).",
              "La garantía del fabricante no obliga a revisar en el concesionario: el Reglamento (UE) 461/2010 permite hacerlo en un taller independiente si se respetan los intervalos y las especificaciones del plan de mantenimiento. En Dasercars, además, la diagnosis se presupuesta antes de empezar.",
          ]},
         {"id": "itv-a1-km-66", "h2": "La ITV, en la A-1 a la altura de Lozoyuela",
@@ -351,7 +351,7 @@ CIUDADES["berzosa-del-lozoya"] = {
     ],
     "faq": [
         {"q": "¿Qué me queda más cerca, el concesionario o vuestro taller?",
-         "a": "Prácticamente igual: BYmyCAR, en Algete, a 70,3 km, y Dasercars, en Alcobendas, a 72,3 km."},
+         "a": "Parecida: BYmyCAR, en Algete, a 60,8 km, y Dasercars, en Alcobendas, a 72,3 km."},
         {"q": "¿Dónde paso la ITV desde Berzosa?",
          "a": "En la estación de TÜV SÜD ATISAE de la A-1, km 66, a 20,5 km."},
         {"q": "¿Reparáis MINI?",
@@ -362,7 +362,7 @@ CIUDADES["berzosa-del-lozoya"] = {
         {"etiqueta": "Turismos (2025)", "valor": "116 · 479 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Altitud del centro urbano", "valor": "unos 1.077 m", **F.copernicus},
         {"etiqueta": "ITV más cercana", "valor": "A-1 km 66 (Lozoyuela) · 20,5 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "BYmyCAR Madrid (Algete) · 70,3 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "BYmyCAR Madrid (Algete) · 60,8 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 72,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.cartociudad_f, F.r461_f, F.dasercars_madrid_f],
@@ -673,7 +673,7 @@ META = {
     "lluca": "BMW en Lluçà: ITV más próxima en Berga, servicio oficial en Vic y taller especialista de la red a 116,6 km. Qué merece el viaje y qué no.",
     "l-espunyola": "L'Espunyola: ITV en Berga a 8,9 km, servicio oficial en Sant Fruitós de Bages y taller especialista BMW a 112,4 km. Un BMW a 803 metros.",
     "vallcebre": "Vallcebre, a 1.123 metros: qué revisar en tu BMW, ITV en Berga a 28,7 km y taller especialista de la red a 127,9 km en Sant Joan Despí.",
-    "berzosa-del-lozoya": "Berzosa del Lozoya: servicio oficial BMW en Algete a 70,3 km y taller especialista en Alcobendas a 72,3 km. ITV en la A-1, km 66.",
+    "berzosa-del-lozoya": "Berzosa del Lozoya: servicio oficial BMW en Algete a 60,8 km y taller especialista en Alcobendas a 72,3 km. ITV en la A-1, km 66.",
     "mura": "BMW en Mura: ITV en Manresa a 16,8 km, servicio oficial en Sant Fruitós de Bages y taller especialista a 59 km por la B-40 y la C-16.",
     "sora": "BMW en Sora: ITV en Ripoll a 15,6 km, servicio oficial en Vic y taller especialista de la red a 107 km en Sant Joan Despí.",
     "santa-cecilia-de-voltrega": "Santa Cecília de Voltregà: ITV y servicio oficial BMW en Vic, a unos 10 km, y taller especialista independiente a 85,8 km por la C-17.",

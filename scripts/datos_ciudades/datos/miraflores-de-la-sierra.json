@@ -73,15 +73,22 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (Las Rozas)",
-  "razon_social": "Movilnorte, S.A.",
-  "direccion": "A6-Km. 23,100",
-  "cp": "28230",
-  "municipio": "Las Rozas",
-  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "nombre": "BYmyCAR Madrid (Las Tablas)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
+  "direccion": "Avenida de Burgos, 133",
+  "cp": "28050",
+  "municipio": "Madrid",
+  "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 50.4,
-  "km_linea": 32.7,
+  "km_carretera": 46.1,
+  "km_linea": 35.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Salvatierra)",
+    "municipio": "Madrid",
+    "km_carretera": 46.4
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -101,7 +108,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.81052,
   "lng": -3.76659,

@@ -268,19 +268,9 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
-  {
-   "slug": "ciudad-lineal",
-   "nombre": "Ciudad Lineal",
-   "km_linea_recta": 5.4
-  },
-  {
-   "slug": "chamartin",
-   "nombre": "Chamartín",
-   "km_linea_recta": 5.5
-  },
   {
    "slug": "pozuelo-de-alarcon",
    "nombre": "Pozuelo de Alarcón",
@@ -310,6 +300,16 @@
    "slug": "san-fernando-de-henares",
    "nombre": "San Fernando de Henares",
    "km_linea_recta": 14.4
+  },
+  {
+   "slug": "boadilla-del-monte",
+   "nombre": "Boadilla del Monte",
+   "km_linea_recta": 14.9
+  },
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 15.4
   }
  ],
  "pagina_actual": {

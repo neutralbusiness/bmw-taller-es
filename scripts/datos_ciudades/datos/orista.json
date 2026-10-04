@@ -95,7 +95,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.93318,
   "lng": 2.06031,
@@ -145,8 +145,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Oristà | Expertos en entorno forestal",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 566
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 555
  },
  "generado": "2026-10-04",
  "perfil": {

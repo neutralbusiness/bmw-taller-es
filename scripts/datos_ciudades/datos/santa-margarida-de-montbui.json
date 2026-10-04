@@ -65,7 +65,7 @@
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 4.7,
+   "km_carretera": 4.6,
    "km_linea": 3.2
   }
  },
@@ -118,7 +118,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.57234,
   "lng": 1.60715,

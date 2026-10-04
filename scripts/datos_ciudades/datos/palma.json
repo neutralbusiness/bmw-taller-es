@@ -73,6 +73,13 @@
   "solo_taller": false,
   "km_carretera": 5.3,
   "km_linea": 4.3,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Proa Premium (Palma de Mallorca)",
+    "municipio": "Palma de Mallorca",
+    "km_carretera": 6.2
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -142,7 +149,7 @@
   "km": 0.7,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

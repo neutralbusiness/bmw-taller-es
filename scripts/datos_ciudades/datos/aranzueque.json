@@ -55,16 +55,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Guadalajara",
+   "nombre": "ITV Azuqueca de Henares",
    "operador": null,
-   "direccion": "Calle de Trafalgar 18",
-   "municipio": "Guadalajara",
-   "fuente": "OpenStreetMap (way/381990031) — NO oficial, verificar",
+   "direccion": null,
+   "municipio": null,
+   "fuente": "OpenStreetMap (node/12362141696) — NO oficial, verificar",
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 30.3,
-   "km_linea": 17.9
+   "km_carretera": 27.7,
+   "km_linea": 17.2,
+   "km_ruta_mas_rapida": 41.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -77,6 +78,13 @@
   "solo_taller": false,
   "km_carretera": 30.2,
   "km_linea": 22.5,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "AutoPremier (Guadalajara)",
+    "municipio": "Guadalajara",
+    "km_carretera": 30.4
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -101,7 +109,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

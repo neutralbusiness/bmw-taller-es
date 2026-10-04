@@ -23,13 +23,13 @@ META = {}
 
 # ---------------------------------------------------------------- Pozuelo del Rey
 CIUDADES["pozuelo-del-rey"] = {
-    "h1": "Pozuelo del Rey: tu BMW a 820 metros, con Alcalá a 20 km y Alcobendas a 55",
+    "h1": "Pozuelo del Rey: tu BMW a 820 metros, con Alcalá a 25 km y Alcobendas a 55",
     "entradilla": "Para un BMW o un MINI de Pozuelo del Rey, casi todo lo práctico está en Alcalá de Henares: la ITV y el servicio oficial. El taller especialista de la red, Dasercars Madrid, queda más lejos, en Alcobendas. Estas son las distancias reales.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 55.0},
     "secciones": [
         {"id": "lo-que-queda-en-alcala", "h2": "Alcalá de Henares, la referencia para ITV y servicio oficial",
          "parrafos": [
-             "El punto de servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena, en Alcalá de Henares: 20 km por carretera desde el núcleo urbano. En la misma zona de Alcalá está la estación de ITV de TÜV SÜD ATISAE (estación 2878 del listado de la Comunidad de Madrid), en la avenida Juan Carlos I, junto al centro comercial La Garena.",
+             "El punto de servicio oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares: 25,4 km por carretera desde el núcleo urbano. También en Alcalá está la estación de ITV de TÜV SÜD ATISAE (estación 2878 del listado de la Comunidad de Madrid), en la avenida Juan Carlos I, junto al centro comercial La Garena.",
              "La distancia a esa ITV es aproximada, unos 16 km hasta Alcalá, porque el listado oficial solo la sitúa a nivel de municipio.",
          ]},
         {"id": "r3-m30-a1", "h2": "55 kilómetros hasta la calle Valgrande, entrando por la R-3",
@@ -52,14 +52,14 @@ CIUDADES["pozuelo-del-rey"] = {
         {"q": "¿Dónde paso la ITV?",
          "a": "En la estación 2878 de Alcalá de Henares (TÜV SÜD ATISAE), en la avenida Juan Carlos I, a unos 16 km."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
-         "a": "AutoPremier, en la calle Argentina 7 de Alcalá de Henares (polígono La Garena), a 20 km según bmw.es."},
+         "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 25,4 km según bmw.es."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "1.302 habitantes (+21,6 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "781 · 600 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Altitud del centro urbano", "valor": "unos 820 m", **F.copernicus},
         {"etiqueta": "ITV oficial más cercana", "valor": "TÜV SÜD ATISAE (2878), Alcalá de Henares · unos 16 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 20 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 25,4 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 55 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],
@@ -251,7 +251,7 @@ CIUDADES["santa-maria-d-olo"] = {
          ]},
         {"id": "vic-y-sant-fruitos", "h2": "Servicio oficial en Vic, ITV en Sant Fruitós de Bages",
          "parrafos": [
-             "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono El Grau, a 27,2 km.",
+             "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 21 km por carretera. Para la inspección, la estación más próxima por carretera en el registro de la Generalitat está empatada: Sant Fruitós (B25), en el polígono El Grau, y Osona (B04), en Vic, quedan las dos a 27,2 km.",
              "Son dos direcciones distintas, una hacia Osona y otra hacia el Bages, así que no cuentes con resolver las dos cosas en una sola salida.",
          ]},
         {"id": "c25-hacia-el-sur", "h2": "Por la BP-4313 y la C-25 hasta la C-16",
@@ -273,12 +273,12 @@ CIUDADES["santa-maria-d-olo"] = {
         {"etiqueta": "Comarca", "valor": "Moianès", **F.idescat("082589")},
         {"etiqueta": "Superficie del término", "valor": "66,21 km² · 17 hab./km²", **F.cartociudad},
         {"etiqueta": "Turismos (2024)", "valor": "643 · 585 por cada 1.000 hab.", **F.idescat("082589")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) · 27,2 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Sant Fruitós (B25) o Osona (B04, Vic) · 27,2 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Vic · 21 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082589"), F.cartociudad_f, F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["santa-maria-d-olo"] = "BMW en Santa Maria d'Oló: servicio oficial en Vic a 21 km, ITV en Sant Fruitós de Bages y el taller especialista de la red a 83,3 km por la C-25."
+META["santa-maria-d-olo"] = "BMW en Santa Maria d'Oló: servicio oficial en Vic a 21 km, ITV en Sant Fruitós de Bages o Vic y el taller especialista de la red a 83,3 km por la C-25."
 
 # ---------------------------------------------------------------- Quer
 CIUDADES["quer"] = {
@@ -413,8 +413,8 @@ META["rellinars"] = "BMW y MINI en Rellinars: ITV en Viladecavalls a 16,8 km y t
 
 # ---------------------------------------------------------------- Ribatejada
 CIUDADES["ribatejada"] = {
-    "h1": "Ribatejada: Alcobendas a 36,6 km, ITV en Algete y servicio oficial en Alcalá",
-    "entradilla": "Ribatejada mira a dos lados: la ITV oficial más cercana está en Algete y el servicio oficial BMW, en Alcalá de Henares. El taller especialista de la red, Dasercars Madrid, queda a 36,6 km, en Alcobendas.",
+    "h1": "Ribatejada: Alcobendas a 36,6 km, ITV y servicio oficial en Algete",
+    "entradilla": "Ribatejada mira a dos lados: la ITV oficial más cercana y el servicio oficial BMW están en Algete, en direcciones distintas. El taller especialista de la red, Dasercars Madrid, queda a 36,6 km, en Alcobendas.",
     "socio": {"id": "dasercars-alcobendas", "kmCarretera": 36.6},
     "secciones": [
         {"id": "itv-algete", "h2": "ITV en el polígono Sector 8 de Algete",
@@ -422,9 +422,9 @@ CIUDADES["ribatejada"] = {
              "El listado oficial de la Comunidad de Madrid da como estación más cercana por carretera la 2818, de ITV Barbastro, en la avenida Nicasio Martín 4, dentro del polígono industrial Sector 8 de Algete: 25,3 km desde el núcleo de Ribatejada.",
              "Si el coche tiene que pasar antes por el taller para poner a punto luces, frenos o emisiones, deja la cita de la estación para unos días después.",
          ]},
-        {"id": "alcala-oficial", "h2": "El concesionario más próximo, en La Garena",
+        {"id": "algete-oficial", "h2": "El concesionario más próximo, en Algete",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 24,2 km. Para reparaciones en garantía que dependen directamente de BMW, es tu sitio; el mantenimiento puedes llevarlo donde prefieras.",
+             "Según el localizador de bmw.es, el servicio oficial más cercano es BYmyCAR Madrid, en la calle Tejera 2 de Algete (carretera de Algete, km 3), a 24,5 km. Para reparaciones en garantía que dependen directamente de BMW, es tu sitio; el mantenimiento puedes llevarlo donde prefieras.",
          ]},
         {"id": "m113-r2", "h2": "Por la M-113 y la R-2: 36,6 km",
          "parrafos": [
@@ -449,12 +449,12 @@ CIUDADES["ribatejada"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "905 habitantes (+28 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "567 · 627 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV oficial más cercana", "valor": "ITV Barbastro (2818), Algete · 25,3 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 24,2 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "BYmyCAR Madrid, Algete · 24,5 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 36,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
-META["ribatejada"] = "BMW en Ribatejada: ITV en Algete, servicio oficial en Alcalá de Henares y el taller especialista de la red en Alcobendas, a 36,6 km por la R-2."
+META["ribatejada"] = "BMW en Ribatejada: ITV y servicio oficial en Algete y el taller especialista de la red en Alcobendas, a 36,6 km por la R-2."
 
 # ---------------------------------------------------------------- Santa Maria de Martorelles
 CIUDADES["santa-maria-de-martorelles"] = {
@@ -636,12 +636,12 @@ META["orrius"] = "BMW en Òrrius: servicio oficial en Mataró a 11,4 km, ITV en 
 # ---------------------------------------------------------------- Castellcir
 CIUDADES["castellcir"] = {
     "h1": "Castellcir: un BMW a 773 metros, ITV a 36 km y el taller de la red a 63",
-    "entradilla": "Castellcir está en el Moianès, a 773 metros de altitud, y todo lo relacionado con el coche queda a más de treinta kilómetros: el taller autorizado BMW, la ITV y el taller especialista de la red. Ordenamos las tres opciones.",
+    "entradilla": "Castellcir está en el Moianès, a 773 metros de altitud, y todo lo relacionado con el coche queda a más de treinta kilómetros: el servicio oficial BMW, la ITV y el taller especialista de la red. Ordenamos las tres opciones.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 63.1},
     "secciones": [
-        {"id": "tres-destinos", "h2": "Tallcar, el CIM Vallès y Sant Joan Despí",
+        {"id": "tres-destinos", "h2": "Sant Fruitós, el CIM Vallès y Sant Joan Despí",
          "parrafos": [
-             "El punto oficial BMW más próximo según bmw.es es Tallcar, un taller autorizado en la calle Suiza 6 de Castellar del Vallès, a 35 km por carretera. La estación de ITV más próxima por carretera en el registro de la Generalitat es la del CIM Vallès (B20), en Santa Perpètua de Mogoda, a 36,1 km. Y Dasercars Barcelona, el taller especialista de la red, está a 63,1 km.",
+             "El punto oficial BMW más próximo según bmw.es es Quadis Munich, en el km 34,5 de la carretera de Manresa a Berga (Sant Fruitós de Bages), a 33,9 km por carretera; Tallcar, el taller autorizado de Castellar del Vallès, queda casi igual, a 35 km. La estación de ITV más próxima por carretera en el registro de la Generalitat es la del CIM Vallès (B20), en Santa Perpètua de Mogoda, a 36,1 km. Y Dasercars Barcelona, el taller especialista de la red, está a 63,1 km.",
          ]},
         {"id": "c59-c33", "h2": "Seis carreteras hasta el Baix Llobregat",
          "parrafos": [
@@ -660,7 +660,7 @@ CIUDADES["castellcir"] = {
     ],
     "faq": [
         {"q": "¿Cuál es el taller BMW autorizado más cercano a Castellcir?",
-         "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 35 km según bmw.es."},
+         "a": "Quadis Munich, en Sant Fruitós de Bages, a 33,9 km según bmw.es; Tallcar, en Castellar del Vallès, está a 35."},
         {"q": "¿Dónde paso la ITV?",
          "a": "La más próxima por carretera en el registro de la Generalitat es la del CIM Vallès (B20), en Santa Perpètua de Mogoda, a 36,1 km."},
         {"q": "¿A cuánto queda vuestro taller?",
@@ -671,12 +671,12 @@ CIUDADES["castellcir"] = {
         {"etiqueta": "Comarca", "valor": "Moianès", **F.idescat("080556")},
         {"etiqueta": "Altitud", "valor": "773 m", **F.idescat("080556")},
         {"etiqueta": "Turismos (2024)", "valor": "405 · 504 por cada 1.000 hab.", **F.idescat("080556")},
-        {"etiqueta": "Taller autorizado BMW", "valor": "Tallcar, Castellar del Vallès · 35 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Sant Fruitós de Bages · 33,9 km", **F.bmw},
         {"etiqueta": "ITV más cercana", "valor": "CIM Vallès (B20) · 36,1 km", **F.itv_cat},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080556"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
-META["castellcir"] = "BMW en Castellcir (Moianès): taller autorizado en Castellar del Vallès, ITV en Santa Perpètua y el taller especialista de la red a 63,1 km."
+META["castellcir"] = "BMW en Castellcir (Moianès): servicio oficial en Sant Fruitós de Bages, ITV en Santa Perpètua y el taller especialista de la red a 63,1 km."
 
 
 def aplicar_meta():

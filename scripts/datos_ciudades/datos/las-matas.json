@@ -86,7 +86,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -98,11 +98,6 @@
    "slug": "hoyo-de-manzanares",
    "nombre": "Hoyo de Manzanares",
    "km_linea_recta": 7.3
-  },
-  {
-   "slug": "las-rozas-de-madrid",
-   "nombre": "Las Rozas de Madrid",
-   "km_linea_recta": 7.4
   },
   {
    "slug": "majadahonda",
@@ -128,12 +123,17 @@
    "slug": "collado-villalba",
    "nombre": "Collado-Villalba",
    "km_linea_recta": 12.8
+  },
+  {
+   "slug": "moralzarzal",
+   "nombre": "Moralzarzal",
+   "km_linea_recta": 15.0
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Las Matas | Especialistas BMW Taller",
   "tiene_contenido_v3": false,
-  "poblacion_en_json": 14213
+  "poblacion_en_json": null
  },
  "generado": "2026-10-04",
  "perfil": {

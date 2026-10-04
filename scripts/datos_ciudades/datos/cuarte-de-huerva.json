@@ -43,7 +43,7 @@
   "horario": null,
   "km_carretera": null,
   "km_linea_recta": null,
-  "vias_de_la_ruta": null,
+  "vias_de_la_ruta": [],
   "fuente": "panel: network_sites.custom_phone"
  },
  "itv": {
@@ -58,7 +58,14 @@
    "verificar": true,
    "precision": null,
    "km_carretera": 23.8,
-   "km_linea": 13.7
+   "km_linea": 13.7,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Malpica. Inspección de vehículos",
+     "municipio": "Zaragoza",
+     "km_carretera": 23.9
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -95,7 +102,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

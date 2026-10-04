@@ -71,7 +71,7 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Sant Cugat del Vallés)",
+  "nombre": "Quadis Munich (Sant Cugat del Vallès)",
   "razon_social": "Altrac Europa, S.A.",
   "direccion": "Carrer Vallespir , 19",
   "cp": "08173",
@@ -104,7 +104,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.45033,
   "lng": 1.89958,

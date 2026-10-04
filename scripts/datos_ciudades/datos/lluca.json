@@ -61,7 +61,7 @@
   "mas_cercana": {
    "nombre": "ITV Berga (B13)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. \\\\\\\"La Valldan\\\\\\\"",
+   "direccion": "Camí de St. Bartomeu, s/n, Parcel.la 1: Pol. Ind. «La Valldan»",
    "municipio": "Berga",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -89,7 +89,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 42.05158,
   "lng": 2.03489,
@@ -139,8 +139,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Lluçà | Servicio técnico en el corazón rural",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 259
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 281
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -298,9 +298,9 @@ CIUDADES["fresno-de-torote"] = {
              "Nada se toca sin que hayas visto antes el presupuesto por escrito y lo hayas aceptado. La diagnosis también tiene su presupuesto, porque es trabajo técnico.",
              "Si el coche es un MINI, el procedimiento es el mismo: comparte electrónica y buena parte de los motores con BMW.",
          ]},
-        {"id": "itv-y-oficial", "h2": "ITV en Torrejón, servicio oficial en Alcalá",
+        {"id": "itv-y-oficial", "h2": "ITV en Torrejón, servicio oficial en Algete",
          "parrafos": [
-             "La estación oficial más próxima por carretera es la de Itversia Gestión (estación 2861), en la calle Jacinto Benavente 6, en el polígono Casablanca Este de Torrejón de Ardoz, a 19,3 km. El servicio oficial BMW más cercano según bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 15,5 km.",
+             "Para la inspección hay tres estaciones oficiales casi a la misma distancia: en Torrejón de Ardoz, la de ITV Maco (estación 2865), en la avenida de la Constitución 3, a 18,9 km, y la de Itversia (2861), en el polígono Casablanca Este, a 19,3; en Alcalá, la 2891 de la Vía Complutense, a 19,5. El servicio oficial BMW más cercano según bmw.es es BYmyCAR Madrid, en la calle Tejera 2 de Algete, a 20,7 km.",
          ]},
         {"id": "fresno-cifras", "h2": "703 turismos por cada mil vecinos",
          "parrafos": [
@@ -313,18 +313,18 @@ CIUDADES["fresno-de-torote"] = {
         {"q": "¿Hay recogida del coche en Fresno de Torote?",
          "a": "La recogida y entrega se ofrece dentro del área metropolitana de Madrid, sujeta a disponibilidad. Pregunta al reservar si tu dirección entra."},
         {"q": "¿Dónde paso la ITV?",
-         "a": "La más próxima por carretera es la de Itversia, en el polígono Casablanca Este de Torrejón de Ardoz, a 19,3 km."},
+         "a": "En Torrejón de Ardoz: ITV Maco (2865), a 18,9 km, o Itversia (2861), a 19,3. La 2891 de Alcalá queda a 19,5."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "2.561 habitantes (+25,5 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.800 · 703 por cada 1.000 hab.", **F.cam_parque},
-        {"etiqueta": "ITV más cercana", "valor": "Itversia, Torrejón de Ardoz · 19,3 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 15,5 km", **F.bmw},
+        {"etiqueta": "ITV más cercana", "valor": "ITV Maco (2865), Torrejón de Ardoz · 18,9 km", **F.itv_madrid},
+        {"etiqueta": "Servicio oficial BMW", "valor": "BYmyCAR Madrid, Algete · 20,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 27,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
-META["fresno-de-torote"] = "BMW en Fresno de Torote: taller especialista de la red en Alcobendas a 27,8 km por la R-2, ITV en Torrejón de Ardoz y servicio oficial en Alcalá."
+META["fresno-de-torote"] = "BMW en Fresno de Torote: taller especialista de la red en Alcobendas a 27,8 km por la R-2, ITV en Torrejón de Ardoz y servicio oficial en Algete."
 
 # ---------------------------------------------------------------------------
 CIUDADES["bellvei"] = {
@@ -512,7 +512,7 @@ CIUDADES["folgueroles"] = {
     "secciones": [
         {"id": "en-vic", "h2": "Lo que se resuelve en Vic",
          "parrafos": [
-             "La ITV más próxima por carretera en el registro de la Generalitat es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, a 6,7 km. El punto oficial BMW más cercano en el localizador de bmw.es es Quadis Munich, en el carrer Perot Rocaguinarda 1, a 7,2 km.",
+             "Vic lo concentra casi todo. Hasta la estación de inspección de Osona (B04), que la Generalitat sitúa en Sant Llorenç Desmunts 22, hay 6,7 km; hasta Quadis Munich, el concesionario con servicio oficial que da bmw.es en Perot Rocaguinarda 1, otros 7,2.",
              "Inspección, revisiones sencillas y pequeñas reparaciones: nada de eso justifica salir de la comarca.",
          ]},
         {"id": "cuando-89-km", "h2": "Cuándo sí merecen la pena 89,4 km",
@@ -522,7 +522,7 @@ CIUDADES["folgueroles"] = {
          ]},
         {"id": "ruta-c25", "h2": "C-25, C-17, C-33 y B-20",
          "parrafos": [
-             "La ruta hasta Dasercars Barcelona arranca por la C-25, que pasa a 1,5 km del centro, sigue por la C-17 y la C-33 y termina por la B-20 en Sant Joan Despí: 89,4 km por carretera, 66,9 en línea recta. La recogida del taller solo cubre el área metropolitana de Barcelona.",
+             "Desde el pueblo se coge la C-25, a kilómetro y medio del centro; después vienen la C-17 hacia el sur, la C-33 y, para acabar, la B-20 hasta la nave de Sant Joan Despí. En total, 89,4 km de carretera (66,9 a vuelo de pájaro). Folgueroles queda fuera del área metropolitana, así que el coche lo tendrías que traer tú.",
          ]},
         {"id": "folgueroles-cifras", "h2": "2.262 vecinos, 23 menos que en 2015",
          "parrafos": [
@@ -530,10 +530,10 @@ CIUDADES["folgueroles"] = {
          ]},
     ],
     "faq": [
-        {"q": "¿Tenéis taller en Osona?",
-         "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 89,4 km de Folgueroles."},
-        {"q": "¿Dónde paso la ITV?",
-         "a": "En ITV Osona (B04), en Vic, a 6,7 km por carretera."},
+        {"q": "¿Hay algún taller vuestro en Osona?",
+         "a": "No. Nuestro único taller en Cataluña es Dasercars Barcelona, en Sant Joan Despí: 89,4 km desde Folgueroles."},
+        {"q": "¿Y para la inspección técnica?",
+         "a": "La estación B04 de Vic, a 6,7 km. Es la de Osona en el registro de la Generalitat."},
         {"q": "¿Trabajáis también MINI?",
          "a": "Sí. MINI y BMW comparten electrónica y buena parte de los motores."},
     ],
@@ -564,9 +564,9 @@ CIUDADES["baga"] = {
          "parrafos": [
              "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el camí de Sant Bartomeu del polígono industrial La Valldan, a 24,4 km.",
          ]},
-        {"id": "oficial-andorra", "h2": "El punto oficial más cercano está en Andorra",
+        {"id": "oficial-sant-fruitos", "h2": "El servicio oficial, bajando al Bages",
          "parrafos": [
-             "El localizador de bmw.es devuelve como punto de servicio oficial más próximo por carretera a Pyrénées Motors, en Prat de la Tresa, en Sant Julià de Lòria (Andorra), a 67,5 km. Antes de ir por un asunto de garantía, confirma con ellos que pueden atender un coche matriculado en España.",
+             "Entre los puntos de la red oficial en España que da el localizador de bmw.es, el más próximo por carretera es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 62,5 km, casi todos por la C-16. Es la referencia para lo que cubre la garantía de BMW y para las campañas de revisión.",
          ]},
         {"id": "frio-y-montana", "h2": "Invierno a 785 metros",
          "parrafos": [
@@ -580,7 +580,7 @@ CIUDADES["baga"] = {
         {"q": "¿Dónde paso la ITV?",
          "a": "En ITV Berga (B13), en el polígono La Valldan, a 24,4 km."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "Según bmw.es, Pyrénées Motors, en Sant Julià de Lòria (Andorra), a 67,5 km."},
+         "a": "Quadis Munich, en Sant Fruitós de Bages, a 62,5 km por carretera según bmw.es."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "2.161 habitantes", **F.ine},
@@ -651,7 +651,7 @@ CIUDADES["valdeavero"] = {
          ]},
         {"id": "alcala", "h2": "ITV y servicio oficial, en Alcalá de Henares",
          "parrafos": [
-             "La estación oficial más cercana por carretera es ITVERSIA (estación 2891), en la Vía Complutense 105 de Alcalá de Henares, a 19,7 km. El servicio oficial BMW más próximo según bmw.es, AutoPremier, también está en Alcalá, en la calle Argentina 7 del polígono La Garena, a 18,5 km.",
+             "La estación oficial más cercana por carretera es ITVERSIA (estación 2891), en la Vía Complutense 105 de Alcalá de Henares, a 19,7 km. Para el servicio oficial, AutoPremier tiene dos puntos en el localizador de bmw.es casi a la misma distancia: el del Paseo de la Estación 23 de Guadalajara, a 19,2 km, y el de la Vía Complutense 131 de Alcalá, a 19,4.",
              "Están a una distancia parecida, así que puedes hacer la inspección y una gestión en el concesionario en la misma mañana.",
          ]},
         {"id": "valdeavero-crece", "h2": "De 1.451 a 1.896 habitantes",
@@ -666,7 +666,7 @@ CIUDADES["valdeavero"] = {
         {"q": "¿Dónde paso la ITV?",
          "a": "La más próxima por carretera es ITVERSIA, en la Vía Complutense 105 de Alcalá de Henares, a 19,7 km."},
         {"q": "¿Dónde está el servicio oficial BMW?",
-         "a": "AutoPremier, en la calle Argentina 7 de Alcalá de Henares, a 18,5 km."},
+         "a": "AutoPremier, en Guadalajara (19,2 km) o en la Vía Complutense de Alcalá (19,4 km)."},
         {"q": "¿Trabajáis MINI?",
          "a": "Sí. Comparte electrónica y motores con BMW y se diagnostica con el mismo equipo."},
     ],
@@ -674,9 +674,9 @@ CIUDADES["valdeavero"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "1.896 habitantes (+30,7 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.233 · 650 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "ITVERSIA, Alcalá de Henares · 19,7 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Alcalá de Henares · 18,5 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier, Guadalajara · 19,2 km (Alcalá, 19,4)", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 54,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
 }
-META["valdeavero"] = "BMW en Valdeavero: ITV y servicio oficial en Alcalá de Henares y taller especialista de la red en Alcobendas, a 54,8 km por la R-2."
+META["valdeavero"] = "BMW en Valdeavero: ITV en Alcalá de Henares, servicio oficial en Alcalá o Guadalajara y taller especialista de la red en Alcobendas, a 54,8 km por la R-2."

@@ -67,12 +67,13 @@
  },
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "AutoPremier (Guadalajara)",
-  "razon_social": "Auto Premier Baviera, S.A. AutoPremier (Vehículo de Ocasión Ce",
+  "razon_social": "Auto Premier Baviera, S.A.",
   "direccion": "Paseo de la Estación, 23",
   "cp": "19004",
   "municipio": "Guadalajara",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
+  "centro_ocasion_con_taller": "AutoPremier Guadalajara (Paseo de la Estación 23): concesionario con taller y horario de taller propio",
   "km_carretera": 17.3,
   "km_linea": 13.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
@@ -89,7 +90,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.64517,
   "lng": -3.33549,

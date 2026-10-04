@@ -70,15 +70,23 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Sabadell)",
-  "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Carrer Costa i Deu, 133",
-  "cp": "08038",
+  "nombre": "Sitjas",
+  "razon_social": "Sitjas Motor, S.L.",
+  "direccion": "C/. Quintana, 64",
+  "cp": "08205",
   "municipio": "Sabadell",
-  "web": "https://www.quadismunich.es/",
-  "solo_taller": false,
-  "km_carretera": 9.6,
-  "km_linea": 5.8,
+  "web": "https://sitjasmotor.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 9.5,
+  "km_linea": 6.6,
+  "km_ruta_mas_rapida": 10.4,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Quadis Munich (Sabadell)",
+    "municipio": "Sabadell",
+    "km_carretera": 9.6
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -113,11 +121,6 @@
    "km": 1.2
   },
   {
-   "ref": "C-58cc",
-   "tipo": "trunk",
-   "km": 1.7
-  },
-  {
    "ref": "N-152z",
    "tipo": "secondary",
    "km": 2.1
@@ -148,7 +151,7 @@
   "km": 10.6,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

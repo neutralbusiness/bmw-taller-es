@@ -94,14 +94,9 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
-  {
-   "slug": "vilaseca",
-   "nombre": "Vilaseca",
-   "km_linea_recta": 0.7
-  },
   {
    "slug": "sant-quirze-de-besora",
    "nombre": "Sant Quirze de Besora",
@@ -136,12 +131,17 @@
    "slug": "santa-maria-de-besora",
    "nombre": "Santa Maria de Besora",
    "km_linea_recta": 6.6
+  },
+  {
+   "slug": "sora",
+   "nombre": "Sora",
+   "km_linea_recta": 7.2
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Orís | Valle del Ter, Servicio Cercano",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 294
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 355
  },
  "generado": "2026-10-04",
  "perfil": {

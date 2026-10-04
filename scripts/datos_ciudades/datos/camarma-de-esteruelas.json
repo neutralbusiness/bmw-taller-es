@@ -72,15 +72,15 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "AutoPremier (P.I.La Garena)",
-  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
-  "direccion": "Calle Argentina, 7",
-  "cp": "28806",
+  "nombre": "AutoPremier (Alcalá Henares)",
+  "razon_social": "Auto Premier Baviera, S.A.",
+  "direccion": "Via Complutense, 131",
+  "cp": "28805",
   "municipio": "Alcalá de Henares",
-  "web": "https://autopremier.concesionariobmw.es/",
+  "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 9.0,
-  "km_linea": 6.2,
+  "km_carretera": 9.9,
+  "km_linea": 6.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -95,7 +95,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.55099,
   "lng": -3.37606,

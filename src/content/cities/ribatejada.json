@@ -7,7 +7,7 @@
   "lat": 40.66692,
   "lng": -3.42256,
   "metaTitle": "Mecánico BMW en Ribatejada | Recogida a domicilio, taller",
-  "metaDescription": "BMW en Ribatejada: ITV en Algete, servicio oficial en Alcalá de Henares y el taller especialista de la red en Alcobendas, a 36,6 km por la R-2.",
+  "metaDescription": "BMW en Ribatejada: ITV y servicio oficial en Algete y el taller especialista de la red en Alcobendas, a 36,6 km por la R-2.",
   "heroSubtitle": "Ribatejada, un pueblo pequeño con un servicio serio",
   "trustChips": [
     {
@@ -174,8 +174,8 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Ribatejada: Alcobendas a 36,6 km, ITV en Algete y servicio oficial en Alcalá",
-    "entradilla": "Ribatejada mira a dos lados: la ITV oficial más cercana está en Algete y el servicio oficial BMW, en Alcalá de Henares. El taller especialista de la red, Dasercars Madrid, queda a 36,6 km, en Alcobendas.",
+    "h1": "Ribatejada: Alcobendas a 36,6 km, ITV y servicio oficial en Algete",
+    "entradilla": "Ribatejada mira a dos lados: la ITV oficial más cercana y el servicio oficial BMW están en Algete, en direcciones distintas. El taller especialista de la red, Dasercars Madrid, queda a 36,6 km, en Alcobendas.",
     "socio": {
       "id": "dasercars-alcobendas",
       "kmCarretera": 36.6
@@ -190,10 +190,10 @@
         ]
       },
       {
-        "id": "alcala-oficial",
-        "h2": "El concesionario más próximo, en La Garena",
+        "id": "algete-oficial",
+        "h2": "El concesionario más próximo, en Algete",
         "parrafos": [
-          "Según el localizador de bmw.es, el servicio oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 24,2 km. Para reparaciones en garantía que dependen directamente de BMW, es tu sitio; el mantenimiento puedes llevarlo donde prefieras."
+          "Según el localizador de bmw.es, el servicio oficial más cercano es BYmyCAR Madrid, en la calle Tejera 2 de Algete (carretera de Algete, km 3), a 24,5 km. Para reparaciones en garantía que dependen directamente de BMW, es tu sitio; el mantenimiento puedes llevarlo donde prefieras."
         ]
       },
       {
@@ -248,7 +248,7 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "AutoPremier, Alcalá de Henares · 24,2 km",
+        "valor": "BYmyCAR Madrid, Algete · 24,5 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

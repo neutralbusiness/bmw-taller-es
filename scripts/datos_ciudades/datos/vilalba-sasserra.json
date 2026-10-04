@@ -72,15 +72,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Pruna Motor (Mataró)",
-  "razon_social": "Pruna Motor, S.L. Mataró",
-  "direccion": "Via Sergia, 2",
-  "cp": "08302",
-  "municipio": "Mataró",
-  "web": "https://prunamotor-mataro.concesionariobmw.es",
+  "nombre": "Pruna Motor (Granollers)",
+  "razon_social": "Pruna Motor, S.L. Granollers",
+  "direccion": "Ctra. C-17, Km. 19,060",
+  "cp": "08403",
+  "municipio": "Granollers",
+  "web": "https://prunamotor.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 23.3,
-  "km_linea": 14.2,
+  "km_carretera": 21.0,
+  "km_linea": 16.2,
+  "km_ruta_mas_rapida": 26.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -105,7 +106,7 @@
   "km": 12.1,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.65226,
   "lng": 2.44016,

@@ -188,17 +188,17 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Sant Cebrià de Vallalta: un BMW a 3,2 km del mar y a 61,2 del taller",
-    "entradilla": "A 3,2 km del mar pero ya en el interior del Maresme, Sant Cebrià tiene una particularidad: la ITV de referencia está a 11,6 km en línea recta y casi al doble por carretera. El taller de la red, a 61,2 km.",
+    "entradilla": "A 3,2 km del mar pero ya en el interior del Maresme, Sant Cebrià tiene una particularidad: la ITV más próxima por carretera ya está en la provincia de Girona, en Blanes, a 20,5 km. El taller de la red, a 61,2 km.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 61.2
     },
     "secciones": [
       {
-        "id": "itv-sant-celoni",
-        "h2": "La ITV de Sant Celoni: cerca en el mapa, no tanto al volante",
+        "id": "itv-blanes",
+        "h2": "La ITV, en Blanes: más cerca al volante que Sant Celoni",
         "parrafos": [
-          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43. En línea recta está a 11,6 km; por carretera, a 22,4: casi el doble.",
+          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Blanes (G07), en la avinguda de l'Estació 47, a 20,5 km (15,9 en línea recta). La de Sant Celoni (B26) parece más cerca en el mapa, a 11,6 km en línea recta, pero por carretera son 22,4.",
           "Por eso conviene llegar a la inspección con el coche revisado: repetir el viaje por un defecto leve de luces o de neumáticos sale caro en tiempo."
         ]
       },
@@ -228,7 +228,7 @@
     "faq": [
       {
         "q": "¿Qué ITV me corresponde desde Sant Cebrià?",
-        "a": "La más próxima por carretera en el registro de la Generalitat es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 22,4 km."
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 20,5 km. Sant Celoni (B26) queda a 22,4."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -260,7 +260,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Celoni (B26) · 22,4 km",
+        "valor": "Blanes (G07) · 20,5 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },

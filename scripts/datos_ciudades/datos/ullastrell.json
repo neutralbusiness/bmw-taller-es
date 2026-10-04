@@ -59,7 +59,7 @@
   "mas_cercana": {
    "nombre": "ITV Viladecavalls (B03)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. «Can Trias»",
    "municipio": "Viladecavalls",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -74,11 +74,12 @@
   "razon_social": "Altrac Europa, S.A.",
   "direccion": "Anoia, 9",
   "cp": "08223",
-  "municipio": "Terrasa",
+  "municipio": "Terrassa",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 11.9,
+  "km_carretera": 10.1,
   "km_linea": 6.4,
+  "km_ruta_mas_rapida": 11.9,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -98,7 +99,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

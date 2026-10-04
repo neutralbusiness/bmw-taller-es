@@ -72,15 +72,15 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (El Carralero)",
+  "nombre": "Movilnorte (Majadahonda)",
   "razon_social": "Movilnorte, S.A.",
-  "direccion": "C/. Fresa, 13",
+  "direccion": "Ctra. El Plantío, 62",
   "cp": "28220",
   "municipio": "Majadahonda",
-  "web": "https://movilnorte.concesionariobmw.es",
+  "web": "https://movilnorte.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 37.1,
-  "km_linea": 27.8,
+  "km_carretera": 40.2,
+  "km_linea": 30.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -100,7 +100,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.42084,
   "lng": -4.19751,

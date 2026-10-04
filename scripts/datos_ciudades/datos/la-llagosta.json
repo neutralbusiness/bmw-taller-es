@@ -59,7 +59,7 @@
   "mas_cercana": {
    "nombre": "ITV CIM Vallès (B20)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. \\\\\\\"Les Minetes\\\\\\\"",
+   "direccion": "c. Pont Vell, s/n. Parc. 13: Zona A: Centre Integral de Mercaderies: Pol. Ind. «Les Minetes»",
    "municipio": "Santa Perpètua de Mogoda",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -70,15 +70,16 @@
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Quadis Munich (Sabadell)",
-  "razon_social": "Altrac Europa, S.A.",
-  "direccion": "Carrer Costa i Deu, 133",
-  "cp": "08038",
+  "nombre": "Sitjas",
+  "razon_social": "Sitjas Motor, S.L.",
+  "direccion": "C/. Quintana, 64",
+  "cp": "08205",
   "municipio": "Sabadell",
-  "web": "https://www.quadismunich.es/",
-  "solo_taller": false,
-  "km_carretera": 14.3,
-  "km_linea": 7.9,
+  "web": "https://sitjasmotor.tallerautorizadobmw.es",
+  "solo_taller": true,
+  "km_carretera": 10.1,
+  "km_linea": 8.2,
+  "km_ruta_mas_rapida": 15.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -138,7 +139,7 @@
   "km": 9.6,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

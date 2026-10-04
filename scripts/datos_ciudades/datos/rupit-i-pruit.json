@@ -69,7 +69,14 @@
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 34.1,
-   "km_linea": 16.6
+   "km_linea": 16.6,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV Olot (G04)",
+     "municipio": "Olot",
+     "km_carretera": 34.4
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -90,7 +97,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

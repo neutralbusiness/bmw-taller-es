@@ -192,7 +192,7 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Vallirana: el taller BMW de la red a 17,7 km, más cerca que el concesionario",
-    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,7 km por la B-24 y la A-2 frente a 19,8 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
+    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,7 km por la B-24 y la A-2 frente a 18,6 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 17.7
@@ -226,7 +226,7 @@
         "id": "oficial-e-itv",
         "h2": "Sant Boi para el servicio oficial, Sant Andreu de la Barca para la ITV",
         "parrafos": [
-          "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 19,8 km. La ITV que la Generalitat sitúa más cerca por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 16,2 km; en línea recta son 8,6.",
+          "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 18,6 km. La ITV que la Generalitat sitúa más cerca por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 15,5 km; en línea recta son 8,6.",
           "Vallirana tenía 16.245 habitantes en 2025, un 11 % más que en 2015, y 8.636 turismos en 2024 según Idescat: 532 por cada 1.000 vecinos."
         ]
       }
@@ -238,11 +238,11 @@
       },
       {
         "q": "¿Qué está más cerca, vuestro taller o el concesionario?",
-        "a": "El taller: 17,7 km hasta Sant Joan Despí, frente a 19,8 km hasta Barcelona Premium, en Sant Boi."
+        "a": "El taller: 17,7 km hasta Sant Joan Despí, frente a 18,6 km hasta Barcelona Premium, en Sant Boi."
       },
       {
         "q": "¿Dónde paso la ITV?",
-        "a": "En Sant Andreu de la Barca (B21), a 16,2 km por carretera, según el registro de la Generalitat."
+        "a": "En Sant Andreu de la Barca (B21), a 15,5 km por carretera, según el registro de la Generalitat."
       }
     ],
     "datos": [
@@ -266,13 +266,13 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Andreu de la Barca (B21) · 16,2 km",
+        "valor": "Sant Andreu de la Barca (B21) · 15,5 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Barcelona Premium, Sant Boi · 19,8 km",
+        "valor": "Barcelona Premium, Sant Boi · 18,6 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },

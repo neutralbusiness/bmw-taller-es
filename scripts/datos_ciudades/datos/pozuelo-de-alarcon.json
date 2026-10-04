@@ -70,15 +70,15 @@
   "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (El Carralero)",
+  "nombre": "Movilnorte (Majadahonda)",
   "razon_social": "Movilnorte, S.A.",
-  "direccion": "C/. Fresa, 13",
+  "direccion": "Ctra. El Plantío, 62",
   "cp": "28220",
   "municipio": "Majadahonda",
-  "web": "https://movilnorte.concesionariobmw.es",
+  "web": "https://movilnorte.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 8.6,
-  "km_linea": 5.5,
+  "km_carretera": 11.4,
+  "km_linea": 5.6,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -118,7 +118,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -154,7 +154,9 @@
   {
    "slug": "chamartin",
    "nombre": "Chamartín",
-   "km_linea_recta": 12.0
+   "km_linea_recta": 12.0,
+   "tipo": "distrito",
+   "pertenece_a": "Madrid"
   },
   {
    "slug": "leganes",

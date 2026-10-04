@@ -109,14 +109,9 @@
   "km": 1.7,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
-  {
-   "slug": "llefia",
-   "nombre": "Llefià",
-   "km_linea_recta": 2.7
-  },
   {
    "slug": "sant-adria-de-besos",
    "nombre": "Sant Adrià de Besòs",
@@ -151,6 +146,11 @@
    "slug": "montcada-i-reixac",
    "nombre": "Montcada i Reixac",
    "km_linea_recta": 6.5
+  },
+  {
+   "slug": "el-masnou",
+   "nombre": "El Masnou",
+   "km_linea_recta": 6.8
   }
  ],
  "pagina_actual": {

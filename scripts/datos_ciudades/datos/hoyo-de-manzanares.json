@@ -95,7 +95,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -106,7 +106,9 @@
   {
    "slug": "las-matas",
    "nombre": "Las Matas",
-   "km_linea_recta": 7.3
+   "km_linea_recta": 7.3,
+   "tipo": "barrio",
+   "pertenece_a": "Las Rozas de Madrid"
   },
   {
    "slug": "moralzarzal",

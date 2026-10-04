@@ -75,7 +75,7 @@
   "razon_social": "Tallcar, S.L.",
   "direccion": "C/. Suiza, 6",
   "cp": "08211",
-  "municipio": "Castellar del Vallés",
+  "municipio": "Castellar del Vallès",
   "web": "https://tallcar.tallerautorizadobmw.es",
   "solo_taller": true,
   "km_carretera": 1.1,
@@ -88,7 +88,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

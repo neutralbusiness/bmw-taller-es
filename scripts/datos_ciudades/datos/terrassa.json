@@ -59,14 +59,15 @@
   "mas_cercana": {
    "nombre": "ITV Viladecavalls (B03)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. «Can Trias»",
    "municipio": "Viladecavalls",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 6.3,
-   "km_linea": 3.3
+   "km_carretera": 5.6,
+   "km_linea": 3.3,
+   "km_ruta_mas_rapida": 6.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -74,7 +75,7 @@
   "razon_social": "Altrac Europa, S.A.",
   "direccion": "Anoia, 9",
   "cp": "08223",
-  "municipio": "Terrasa",
+  "municipio": "Terrassa",
   "web": "",
   "solo_taller": false,
   "km_carretera": 5.2,
@@ -108,7 +109,7 @@
    "km": 1.9
   },
   {
-   "ref": "BP-1503var",
+   "ref": "BP-1503",
    "tipo": "primary",
    "km": 1.9
   },
@@ -121,11 +122,6 @@
    "ref": "C-58",
    "tipo": "motorway",
    "km": 2.0
-  },
-  {
-   "ref": "BP-1503",
-   "tipo": "secondary",
-   "km": 2.2
   }
  ],
  "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
@@ -133,7 +129,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

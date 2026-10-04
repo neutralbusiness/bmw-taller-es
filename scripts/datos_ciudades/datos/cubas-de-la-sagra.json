@@ -68,7 +68,24 @@
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
    "km_carretera": 12.2,
-   "km_linea": 10.7
+   "km_linea": 10.7,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2897)",
+     "municipio": "Parla",
+     "km_carretera": 12.6
+    },
+    {
+     "nombre": "ITV Alcaravan ITV (estación 2829)",
+     "municipio": "Humanes",
+     "km_carretera": 12.8
+    },
+    {
+     "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2841)",
+     "municipio": "Parla",
+     "km_carretera": 12.8
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -105,7 +122,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

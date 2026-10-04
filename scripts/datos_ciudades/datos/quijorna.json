@@ -69,19 +69,33 @@
    "verificar": false,
    "precision": "CartoCiudad (punto kilométrico)",
    "km_carretera": 21.8,
-   "km_linea": 17.4
+   "km_linea": 17.4,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV TÜV SÜD ATISAE (estación 2816)",
+     "municipio": "Las Rozas",
+     "km_carretera": 22.0
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (El Carralero)",
+  "nombre": "Movilnorte (Majadahonda)",
   "razon_social": "Movilnorte, S.A.",
-  "direccion": "C/. Fresa, 13",
+  "direccion": "Ctra. El Plantío, 62",
   "cp": "28220",
   "municipio": "Majadahonda",
-  "web": "https://movilnorte.concesionariobmw.es",
+  "web": "https://movilnorte.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 23.0,
-  "km_linea": 15.9,
+  "km_carretera": 26.1,
+  "km_linea": 18.2,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Vehinter (Alcorcón)",
+    "municipio": "Alcorcón",
+    "km_carretera": 27.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -101,7 +115,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.42824,
   "lng": -4.05634,
@@ -151,8 +165,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Quijorna | Zona oeste de Madrid",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 3357
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 4044
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -68,7 +68,19 @@
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
    "km_carretera": 22.5,
-   "km_linea": 18.7
+   "km_linea": 18.7,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2857)",
+     "municipio": "Alcalá De Henares",
+     "km_carretera": 22.5
+    },
+    {
+     "nombre": "ITV LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L (estación 2807)",
+     "municipio": "Arganda Del Rey",
+     "km_carretera": 23.4
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -100,7 +112,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

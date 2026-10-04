@@ -57,16 +57,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Argentona (B08)",
-   "operador": "APPLUS ITV",
-   "direccion": "Polígon EL CROS - ZONA INDUSTRIAL SECTOR SUD S/N",
-   "municipio": "Argentona",
+   "nombre": "ITV Blanes (G07)",
+   "operador": "Revisions de Vehicles, S.A.",
+   "direccion": "Avinguda de l'estació 47",
+   "municipio": "Blanes",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 22.4,
-   "km_linea": 18.8
+   "km_carretera": 20.0,
+   "km_linea": 15.0,
+   "km_ruta_mas_rapida": 22.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -98,7 +99,7 @@
   "km": 1.7,
   "a_menos_de_5km": true
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

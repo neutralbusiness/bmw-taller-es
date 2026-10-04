@@ -69,7 +69,14 @@
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
    "km_carretera": 8.6,
-   "km_linea": 6.9
+   "km_linea": 6.9,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV General de Servicios ITV, S.A (estación 2857)",
+     "municipio": "Alcalá De Henares",
+     "km_carretera": 8.6
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -96,7 +103,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 40.43488,
   "lng": -3.29831,

@@ -94,7 +94,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -115,7 +115,9 @@
   {
    "slug": "vilaseca",
    "nombre": "Vilaseca",
-   "km_linea_recta": 4.4
+   "km_linea_recta": 4.4,
+   "tipo": "núcleo de población",
+   "pertenece_a": "Orís (Osona)"
   },
   {
    "slug": "oris",
@@ -140,8 +142,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Montesquiu | Expertos en Rutas de Montaña",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 921
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1131
  },
  "generado": "2026-10-04",
  "perfil": {

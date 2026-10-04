@@ -59,7 +59,7 @@ CIUDADES["guadalajara"] = {
     "secciones": [
         {"id": "concesionario-o-taller", "h2": "Si lo que buscas es el concesionario",
          "parrafos": [
-             "El concesionario oficial BMW de la ciudad es AutoPremier, en el Paseo de la Estación 23, a unos 2,5 km del centro según el localizador de bmw.es. Allí se hacen las campañas de revisión del fabricante y las reparaciones en garantía que dependen de BMW.",
+             "El concesionario oficial BMW de la ciudad es AutoPremier, en el Paseo de la Estación 23, a 2,3 km del centro según el localizador de bmw.es. Allí se hacen las campañas de revisión del fabricante y las reparaciones en garantía que dependen de BMW.",
              "Nosotros no somos ese concesionario ni tenemos taller en Guadalajara. Somos un taller independiente especializado en BMW con nave propia en Alcobendas. Te lo aclaramos de entrada porque mucha gente llega a esta página buscando el concesionario, y no queremos que llames pensando que hablas con otro."
          ]},
         {"id": "a2-r2", "h2": "52 kilómetros por la A-2: cuándo compensa el viaje",
@@ -83,7 +83,7 @@ CIUDADES["guadalajara"] = {
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "92.834 habitantes (+11,3 % desde 2015)", **F.ine},
         {"etiqueta": "Altitud del centro urbano", "valor": "718 m", **F.copernicus},
-        {"etiqueta": "Concesionario oficial BMW", "valor": "AutoPremier, Paseo de la Estación 23 · 2,5 km", **F.bmw},
+        {"etiqueta": "Concesionario oficial BMW", "valor": "AutoPremier, Paseo de la Estación 23 · 2,3 km", **F.bmw},
         {"etiqueta": "Distancia al taller (Alcobendas)", "valor": "52,5 km por carretera", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.bmw_f, F.osrm_f, F.rd920_f, F.r461_f, F.dasercars_madrid_f],

@@ -104,28 +104,13 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
-  {
-   "slug": "ciudad-lineal",
-   "nombre": "Ciudad Lineal",
-   "km_linea_recta": 2.9
-  },
-  {
-   "slug": "madrid",
-   "nombre": "Madrid",
-   "km_linea_recta": 5.5
-  },
   {
    "slug": "alcobendas",
    "nombre": "Alcobendas",
    "km_linea_recta": 9.9
-  },
-  {
-   "slug": "el-goloso",
-   "nombre": "El Goloso",
-   "km_linea_recta": 10.3
   },
   {
    "slug": "coslada",
@@ -146,12 +131,27 @@
    "slug": "san-fernando-de-henares",
    "nombre": "San Fernando de Henares",
    "km_linea_recta": 12.9
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 13.4
+  },
+  {
+   "slug": "tres-cantos",
+   "nombre": "Tres Cantos",
+   "km_linea_recta": 15.7
+  },
+  {
+   "slug": "majadahonda",
+   "nombre": "Majadahonda",
+   "km_linea_recta": 16.6
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Chamartín, Madrid | Especialistas en el distrito",
   "tiene_contenido_v3": false,
-  "poblacion_en_json": 140000
+  "poblacion_en_json": null
  },
  "generado": "2026-10-04",
  "perfil": {

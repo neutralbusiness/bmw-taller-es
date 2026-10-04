@@ -129,18 +129,13 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "majadahonda",
    "nombre": "Majadahonda",
    "km_linea_recta": 2.2
-  },
-  {
-   "slug": "las-matas",
-   "nombre": "Las Matas",
-   "km_linea_recta": 7.4
   },
   {
    "slug": "villanueva-del-pardillo",
@@ -171,6 +166,11 @@
    "slug": "colmenarejo",
    "nombre": "Colmenarejo",
    "km_linea_recta": 12.7
+  },
+  {
+   "slug": "galapagar",
+   "nombre": "Galapagar",
+   "km_linea_recta": 14.6
   }
  ],
  "pagina_actual": {

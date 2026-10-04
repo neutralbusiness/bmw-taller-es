@@ -60,16 +60,17 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Celoni (B26)",
-   "operador": "TuV-SUD",
-   "direccion": "Carretera Gualba, 41-43",
-   "municipio": "Sant Celoni",
+   "nombre": "ITV Granollers (B18)",
+   "operador": "APPLUS ITV",
+   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
+   "municipio": "Granollers",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
    "precision": "Generalitat (coordenadas de la estación)",
-   "km_carretera": 20.5,
-   "km_linea": 12.8
+   "km_carretera": 17.0,
+   "km_linea": 14.4,
+   "km_ruta_mas_rapida": 21.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -90,7 +91,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {

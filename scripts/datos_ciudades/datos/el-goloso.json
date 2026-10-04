@@ -57,7 +57,14 @@
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
    "km_carretera": 9.7,
-   "km_linea": 3.6
+   "km_linea": 3.6,
+   "casi_igual_de_cerca": [
+    {
+     "nombre": "ITV TÜV SÜV ATISAE (estación 2811)",
+     "municipio": "Tres Cantos",
+     "km_carretera": 9.9
+    }
+   ]
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -70,6 +77,13 @@
   "solo_taller": false,
   "km_carretera": 11.7,
   "km_linea": 6.8,
+  "casi_igual_de_cerca": [
+   {
+    "nombre": "Caetano Cuzco (Salvatierra)",
+    "municipio": "Madrid",
+    "km_carretera": 12.0
+   }
+  ],
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
@@ -89,7 +103,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": null,
  "cercanas_red": [
   {
@@ -108,35 +122,37 @@
    "km_linea_recta": 6.1
   },
   {
-   "slug": "chamartin",
-   "nombre": "Chamartín",
-   "km_linea_recta": 10.3
-  },
-  {
-   "slug": "ciudad-lineal",
-   "nombre": "Ciudad Lineal",
-   "km_linea_recta": 12.7
-  },
-  {
    "slug": "colmenar-viejo",
    "nombre": "Colmenar Viejo",
    "km_linea_recta": 13.1
   },
   {
-   "slug": "madrid",
-   "nombre": "Madrid",
-   "km_linea_recta": 15.2
-  },
-  {
    "slug": "paracuellos-de-jarama",
    "nombre": "Paracuellos de Jarama",
    "km_linea_recta": 15.6
+  },
+  {
+   "slug": "san-agustin-del-guadalix",
+   "nombre": "San Agustín del Guadalix",
+   "km_linea_recta": 15.6
+  },
+  {
+   "slug": "las-rozas-de-madrid",
+   "nombre": "Las Rozas de Madrid",
+   "km_linea_recta": 16.2
+  },
+  {
+   "slug": "las-matas",
+   "nombre": "Las Matas",
+   "km_linea_recta": 16.2,
+   "tipo": "barrio",
+   "pertenece_a": "Las Rozas de Madrid"
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en El Goloso, Madrid — Revisión Compraventa con ISTA",
   "tiene_contenido_v3": false,
-  "poblacion_en_json": 19036
+  "poblacion_en_json": null
  },
  "generado": "2026-10-04",
  "perfil": {

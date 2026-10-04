@@ -120,7 +120,7 @@
   "km": 12.2,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.73347,
   "lng": 2.67262,
@@ -170,8 +170,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Fogars de la Selva | Valle Tordera, AP-7",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 1529
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 1704
  },
  "generado": "2026-10-04",
  "perfil": {

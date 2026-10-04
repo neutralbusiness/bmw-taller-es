@@ -26,7 +26,7 @@ META = {
     "caldes-d-estrac": "BMW en Caldes d'Estrac: el coche a menos de un kilómetro del mar, servicio oficial en Mataró y taller especialista de la red a 51,8 km por la C-32.",
     "valdilecha": "BMW en Valdilecha: ITV en Arganda del Rey, servicio oficial en Alcalá de Henares y taller especialista de la red en Alcobendas, a 55,1 km.",
     "monistrol-de-montserrat": "BMW en Monistrol de Montserrat: ITV en Manresa, servicio oficial en Sant Fruitós de Bages y taller especialista de la red a 39,2 km por la A-2.",
-    "sant-esteve-de-palautordera": "BMW en Sant Esteve de Palautordera: ITV en Sant Celoni a 11,2 km, servicio oficial en Mataró y taller especialista de la red a 63,8 km.",
+    "sant-esteve-de-palautordera": "BMW en Sant Esteve de Palautordera: ITV en Sant Celoni a 11,2 km, servicio oficial en Granollers o Mataró y taller especialista de la red a 63,8 km.",
     "tielmes": "BMW en Tielmes: ITV en Villarejo de Salvanés, servicio oficial en la A-3 y taller especialista de la red en Alcobendas, a 58,9 km.",
     "santos-de-la-humosa-los": "BMW en Los Santos de la Humosa: ITV y servicio oficial en la Vía Complutense de Alcalá y taller especialista de la red a 41,3 km.",
     "galapagos": "BMW en Galápagos (Guadalajara): concesionario en Guadalajara, a 23,8 km, y el taller especialista de la red en Alcobendas, a 44,9 km.",
@@ -129,7 +129,7 @@ CIUDADES["quijorna"] = {
     "secciones": [
         {"id": "majadahonda-alcorcon", "h2": "Concesionario en Majadahonda, ITV en la M-506",
          "parrafos": [
-             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la calle Fresa 13 de Majadahonda (El Carralero), a 23 km por carretera. La estación ITV más cercana por carretera en el listado de la Comunidad de Madrid es la de ITV Villaviciosa (estación 2871), en la M-506, punto kilométrico 4,200, término de Alcorcón: 21,8 km.",
+             "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 26,1 km por carretera; Vehinter, en Alcorcón, queda casi igual, a 27. La estación ITV más cercana por carretera en el listado de la Comunidad de Madrid es la de ITV Villaviciosa (estación 2871), en la M-506, punto kilométrico 4,200, término de Alcorcón: 21,8 km.",
              "Están a una distancia parecida pero en direcciones distintas, así que no esperes resolver las dos cosas en el mismo viaje.",
          ]},
         {"id": "m40-hacia-el-norte", "h2": "M-521, M-503 y M-40 hasta la A-1",
@@ -148,7 +148,7 @@ CIUDADES["quijorna"] = {
     ],
     "faq": [
         {"q": "¿Cuál es el concesionario BMW más cercano a Quijorna?",
-         "a": "Movilnorte, en la calle Fresa 13 de Majadahonda, a 23 km según bmw.es."},
+         "a": "Movilnorte, en la carretera de El Plantío 62 de Majadahonda, a 26,1 km según bmw.es."},
         {"q": "¿Dónde paso la ITV?",
          "a": "La estación más cercana por carretera en el listado oficial es la de ITV Villaviciosa, en la M-506, km 4,200 (Alcorcón), a 21,8 km."},
         {"q": "¿A cuánto queda vuestro taller?",
@@ -158,7 +158,7 @@ CIUDADES["quijorna"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "4.044 habitantes (+26,5 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "2.225 · 550 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "ITV Villaviciosa, M-506 km 4,2 (Alcorcón) · 21,8 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Movilnorte (Majadahonda) · 23 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Movilnorte (Majadahonda) · 26,1 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 51,3 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.dasercars_madrid_f],
@@ -167,12 +167,12 @@ CIUDADES["quijorna"] = {
 # ---------------------------------------------------------------------------
 CIUDADES["sant-cebria-de-vallalta"] = {
     "h1": "Sant Cebrià de Vallalta: un BMW a 3,2 km del mar y a 61,2 del taller",
-    "entradilla": "A 3,2 km del mar pero ya en el interior del Maresme, Sant Cebrià tiene una particularidad: la ITV de referencia está a 11,6 km en línea recta y casi al doble por carretera. El taller de la red, a 61,2 km.",
+    "entradilla": "A 3,2 km del mar pero ya en el interior del Maresme, Sant Cebrià tiene una particularidad: la ITV más próxima por carretera ya está en la provincia de Girona, en Blanes, a 20,5 km. El taller de la red, a 61,2 km.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 61.2},
     "secciones": [
-        {"id": "itv-sant-celoni", "h2": "La ITV de Sant Celoni: cerca en el mapa, no tanto al volante",
+        {"id": "itv-blanes", "h2": "La ITV, en Blanes: más cerca al volante que Sant Celoni",
          "parrafos": [
-             "En el registro de la Generalitat, la estación más próxima por carretera es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43. En línea recta está a 11,6 km; por carretera, a 22,4: casi el doble.",
+             "En el registro de la Generalitat, la estación más próxima por carretera es ITV Blanes (G07), en la avinguda de l'Estació 47, a 20,5 km (15,9 en línea recta). La de Sant Celoni (B26) parece más cerca en el mapa, a 11,6 km en línea recta, pero por carretera son 22,4.",
              "Por eso conviene llegar a la inspección con el coche revisado: repetir el viaje por un defecto leve de luces o de neumáticos sale caro en tiempo.",
          ]},
         {"id": "humedad-a-3-km", "h2": "Tres kilómetros del mar, más humedad que sal",
@@ -191,7 +191,7 @@ CIUDADES["sant-cebria-de-vallalta"] = {
     ],
     "faq": [
         {"q": "¿Qué ITV me corresponde desde Sant Cebrià?",
-         "a": "La más próxima por carretera en el registro de la Generalitat es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 22,4 km."},
+         "a": "La más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 20,5 km. Sant Celoni (B26) queda a 22,4."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
          "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 24 km según bmw.es."},
         {"q": "¿Trabajáis MINI?",
@@ -201,7 +201,7 @@ CIUDADES["sant-cebria-de-vallalta"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "3.872 habitantes (+16,4 % desde 2015)", **F.ine},
         {"etiqueta": "Comarca", "valor": "Maresme", **F.idescat("082037")},
         {"etiqueta": "Turismos (2024)", "valor": "1.907 · 493 por cada 1.000 hab.", **F.idescat("082037")},
-        {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 22,4 km", **F.itv_cat},
+        {"etiqueta": "ITV más cercana", "valor": "Blanes (G07) · 20,5 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 24 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 61,2 km", **F.osrm},
     ],
@@ -445,7 +445,7 @@ CIUDADES["valdilecha"] = {
          ]},
         {"id": "alcala-garantia", "h2": "Servicio oficial en Alcalá y la garantía",
          "parrafos": [
-             "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 28,4 km. Allí se tramitan las reparaciones que paga la garantía de BMW.",
+             "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 33,8 km; el de AutoPremier en la carretera de Valencia (Madrid) queda casi igual, a 34,6. Allí se tramitan las reparaciones que paga la garantía de BMW.",
              "Las revisiones periódicas, en cambio, no tienen por qué hacerse allí: la normativa europea permite hacerlas en un taller independiente sin perder la garantía, con los intervalos y los recambios que marca el fabricante.",
          ]},
         {"id": "valdilecha-en-cifras", "h2": "Un 15,9 % más de vecinos en diez años",
@@ -457,7 +457,7 @@ CIUDADES["valdilecha"] = {
         {"q": "¿Dónde paso la ITV si vivo en Valdilecha?",
          "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km."},
         {"q": "¿Cuál es el servicio oficial BMW más cercano?",
-         "a": "AutoPremier, en el polígono La Garena de Alcalá de Henares, a 28,4 km según bmw.es."},
+         "a": "AutoPremier, en la Vía Complutense de Alcalá de Henares, a 33,8 km según bmw.es."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
          "a": "55,1 km por la A-3, la M-30 y la A-1, hasta la calle Valgrande 17 de Alcobendas."},
     ],
@@ -465,7 +465,7 @@ CIUDADES["valdilecha"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "3.289 habitantes (+15,9 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos (2025)", "valor": "1.733 · 527 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV más cercana", "valor": "Estación 2807, Arganda del Rey · 16,2 km", **F.itv_madrid},
-        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier (Alcalá de Henares) · 28,4 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "AutoPremier (Alcalá de Henares) · 33,8 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Alcobendas · 55,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],
@@ -517,16 +517,16 @@ CIUDADES["monistrol-de-montserrat"] = {
 # ---------------------------------------------------------------------------
 CIUDADES["sant-esteve-de-palautordera"] = {
     "h1": "Sant Esteve de Palautordera: ITV en Sant Celoni y especialista BMW por la AP-7",
-    "entradilla": "Aunque es Vallès Oriental, el concesionario BMW que te queda más cerca está en el Maresme, en Mataró. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
+    "entradilla": "El servicio oficial BMW te queda a la misma distancia hacia dos lados: Granollers y Mataró. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
     "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 63.8},
     "secciones": [
         {"id": "itv-gualba", "h2": "La ITV de Sant Celoni, en la carretera de Gualba",
          "parrafos": [
              "La estación más próxima por carretera del registro de la Generalitat es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43, a 11,2 km. Si la inspección se acerca y el coche tiene algún testigo encendido, resuélvelo antes: un fallo de emisiones o de airbag es motivo de desfavorable.",
          ]},
-        {"id": "mataro-al-otro-lado", "h2": "El servicio oficial, al otro lado: Mataró",
+        {"id": "granollers-o-mataro", "h2": "El servicio oficial: Granollers o Mataró, a la par",
          "parrafos": [
-             "Según el localizador de bmw.es, el punto oficial BMW más próximo es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 32,7 km por carretera y 20,8 en línea recta. Para lo que dependa de la garantía de BMW, esa es la dirección.",
+             "Según el localizador de bmw.es, Pruna Motor tiene dos puntos oficiales a 32,7 km por carretera de Sant Esteve: el de la C-17 en Granollers y el de la Via Sèrgia 2 de Mataró. Para lo que dependa de la garantía de BMW, elige el que te venga mejor.",
              "Para el mantenimiento habitual y las averías fuera de garantía, la alternativa es un taller independiente especializado. Trabajamos BMW y MINI con presupuesto por escrito, y la diagnosis también se presupuesta antes de empezar.",
          ]},
         {"id": "bv5301-ap7", "h2": "63,8 km: BV-5301, AP-7, C-33 y B-20",
@@ -541,8 +541,8 @@ CIUDADES["sant-esteve-de-palautordera"] = {
     "faq": [
         {"q": "¿Dónde paso la ITV?",
          "a": "En ITV Sant Celoni (B26), carretera de Gualba 41-43, a 11,2 km por carretera."},
-        {"q": "¿Por qué el concesionario más cercano está en Mataró?",
-         "a": "Porque es el punto oficial BMW más próximo en el localizador de bmw.es: 32,7 km por carretera."},
+        {"q": "¿Cuál es el concesionario BMW más cercano?",
+         "a": "Pruna Motor, en Granollers o en Mataró: los dos a 32,7 km por carretera según bmw.es."},
         {"q": "¿Puedo pasar la ITV con un testigo encendido?",
          "a": "Depende del testigo, pero los de emisiones, airbag o frenos suelen acabar en desfavorable: mejor diagnosticarlos antes."},
     ],
@@ -551,7 +551,7 @@ CIUDADES["sant-esteve-de-palautordera"] = {
         {"etiqueta": "Comarca", "valor": "Vallès Oriental", **F.idescat("082074")},
         {"etiqueta": "Turismos (2024)", "valor": "1.428 · 461 por cada 1.000 hab.", **F.idescat("082074")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 11,2 km", **F.itv_cat},
-        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Mataró) · 32,7 km", **F.bmw},
+        {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor (Granollers o Mataró) · 32,7 km", **F.bmw},
         {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 63,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082074"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],

@@ -62,7 +62,7 @@
   "mas_cercana": {
    "nombre": "ITV Manresa (B06)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. \\\\\\\"Bufalvent\\\\\\\"",
+   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. «Bufalvent»",
    "municipio": "Manresa",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
@@ -90,7 +90,7 @@
   "km": null,
   "a_menos_de_5km": false
  },
- "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
  "distancias_desde": {
   "lat": 41.70089,
   "lng": 1.97818,
@@ -140,8 +140,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Mura | Diagnóstico y reparación especializada",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 227
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 235
  },
  "generado": "2026-10-04",
  "perfil": {
