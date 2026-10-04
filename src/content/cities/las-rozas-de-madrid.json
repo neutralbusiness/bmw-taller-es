@@ -3,7 +3,7 @@
   "name": "Las Rozas de Madrid",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 95550,
+  "population": 99037,
   "lat": 40.49292,
   "lng": -3.87371,
   "metaTitle": "Taller BMW en Las Rozas de Madrid | Mecánica Especializada",
@@ -184,5 +184,136 @@
     "M-505",
     "M-503",
     "Cercanías C-8"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Concesionario o taller BMW en Las Rozas: Movilnorte a 4,7 km, Dasercars a 27,5 km",
+    "entradilla": "Casi todo el que llega aquí desde Las Rozas busca el concesionario. No lo somos, y preferimos dejarlo claro arriba: te indicamos dónde está el punto oficial más próximo y qué ofrece un taller independiente de BMW en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 27.5
+    },
+    "secciones": [
+      {
+        "id": "movilnorte-el-plantio",
+        "h2": "El servicio oficial más próximo: Movilnorte, en El Plantío",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto de servicio oficial más cercano al centro de Las Rozas es Movilnorte, en la carretera de El Plantío 62, ya en Majadahonda: 4,7 km por carretera. Su horario y sus citas los gestiona Movilnorte; el teléfono de esta página no es el suyo.",
+          "Dasercars es un taller independiente. Te puede interesar si quieres contrastar un presupuesto, un especialista en los diésel de BMW o mantener el coche fuera de la red sin perder la garantía: el Reglamento (UE) 461/2010 lo permite mientras se respeten intervalos y especificaciones del plan."
+        ]
+      },
+      {
+        "id": "a6-m40",
+        "h2": "27,5 km por la A-6, la M-40 y la A-1",
+        "parrafos": [
+          "Desde el centro de Las Rozas hasta la calle Valgrande de Alcobendas se va por la A-6, se rodea Madrid por la M-40 y se sube por la A-1: 27,5 km por carretera, 19,5 en línea recta.",
+          "Al estar en el área metropolitana de Madrid, el municipio entra en la zona de recogida y entrega del taller y de vehículo de cortesía, siempre según disponibilidad."
+        ]
+      },
+      {
+        "id": "solo-bmw-y-mini",
+        "h2": "Mecánica y electrónica, pero solo de BMW y MINI",
+        "parrafos": [
+          "También llega gente de Las Rozas buscando un taller de electrónica o de mecánica general. Conviene saberlo antes de llamar: Dasercars trabaja únicamente BMW y MINI. Si tu coche es de otra marca, te ahorramos el viaje.",
+          "Si es un BMW, la electrónica es precisamente donde más se nota la especialización: un fallo de una centralita puede encender avisos en otras, y localizar el origen pide conocer cómo se comunican entre sí en cada serie."
+        ]
+      },
+      {
+        "id": "itv-las-rozas",
+        "h2": "Dos ITV: en la A-6 y en Európolis",
+        "parrafos": [
+          "La Comunidad de Madrid sitúa dos estaciones en el término: la de ITEVELESA (estación 2831), en la A-6, km 20,4, y la de TÜV SÜD ATISAE (estación 2816), en la calle Cabo Rufino Lázaro 14D del polígono Európolis."
+        ]
+      },
+      {
+        "id": "las-rozas-coches",
+        "h2": "543 turismos por cada mil vecinos",
+        "parrafos": [
+          "Las Rozas tenía 99.037 habitantes en el padrón de 2025, un 5,9 % más que en 2015, y 53.807 turismos censados en 2025 según la Comunidad de Madrid a partir de la DGT: 543 por cada 1.000 habitantes, bastante por encima de los 388 de Madrid capital.",
+          "Con el centro urbano a unos 716 metros de altitud, el frío de enero castiga las baterías de los coches que duermen fuera, sobre todo en BMW con arranque y parada automático."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Las Rozas?",
+        "a": "No. El punto oficial más próximo según bmw.es es Movilnorte, en la carretera de El Plantío 62 (Majadahonda). Nosotros somos Dasercars, taller independiente en Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Las Rozas?",
+        "a": "En la A-6, km 20,4 (ITEVELESA) o en el polígono Európolis (TÜV SÜD ATISAE)."
+      },
+      {
+        "q": "¿Reparáis averías electrónicas?",
+        "a": "Sí, en BMW y MINI. La diagnosis se presupuesta antes de empezar y después se explica qué falla y por qué."
+      },
+      {
+        "q": "¿Trabajáis otras marcas?",
+        "a": "No. El taller está dedicado a BMW y MINI."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "99.037 habitantes (+5,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "53.807 · 543 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "2 estaciones (A-6 km 20,4 y Európolis)",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Majadahonda) · 4,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 27,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

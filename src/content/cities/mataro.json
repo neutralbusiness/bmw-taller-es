@@ -3,7 +3,7 @@
   "name": "Mataró",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 126988,
+  "population": 131683,
   "lat": 41.54211,
   "lng": 2.4445,
   "metaTitle": "Taller especializado BMW en Mataró — Diagnóstico ISTA y recambio OE",
@@ -184,5 +184,135 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW y Mataró: Pruna Motor en Via Sergia o el especialista independiente a 42 km",
+    "entradilla": "Quien escribe «BMW Mataró taller» suele buscar el concesionario de Via Sergia. Te lo situamos, y te contamos también qué ofrece un especialista independiente a 42,3 km y dónde pasa la ITV un coche de la capital del Maresme.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 42.3
+    },
+    "secciones": [
+      {
+        "id": "pruna-via-sergia",
+        "h2": "Pruna Motor, en Via Sergia 2",
+        "parrafos": [
+          "El servicio oficial BMW de la ciudad, según el localizador de bmw.es, es Pruna Motor, en Via Sergia 2, a 3,1 km del centro. Si lo que necesitas es una reparación en garantía de fábrica o una campaña que te haya comunicado BMW, la tienes ahí.",
+          "Para el resto —revisiones, frenos, distribución, diagnosis de un fallo que va y viene— puedes elegir taller. El Reglamento (UE) 461/2010 impide que la marca condicione la garantía a revisar el coche en su red, con una condición: que se cumplan los intervalos y las especificaciones de su plan."
+        ]
+      },
+      {
+        "id": "c32-maresme",
+        "h2": "Por la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "Desde el centro de Mataró se llega a la nave de Dasercars Barcelona por la C-31D, la autopista C-32 del Maresme y la B-20: 42,3 km por carretera, 37,3 en línea recta. Mataró no está en el Área Metropolitana de Barcelona y la recogida del taller no cubre la ciudad, así que el coche lo llevas tú.",
+          "Con esa distancia, tiene sentido para trabajos que piden a alguien que trabaje BMW todos los días; para un cambio de pastillas, no hace falta salir del Maresme.",
+          "Salir de la ciudad es fácil: la C-32, la N-II, la C-60 y la C-31D pasan a menos de tres kilómetros del centro, así que el viaje hasta el Baix Llobregat es casi entero por autopista."
+        ]
+      },
+      {
+        "id": "itv-el-cros",
+        "h2": "La ITV, en el polígono El Cros de Argentona",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 3,2 km del centro de Mataró."
+        ]
+      },
+      {
+        "id": "salitre-maresme",
+        "h2": "Una ciudad a 0,9 km del mar",
+        "parrafos": [
+          "El centro de Mataró queda a 0,9 km de la costa. A esa distancia el ambiente salino trabaja sin prisa sobre los bajos, las grapas del escape y los conectores eléctricos expuestos. Un aclarado de bajos con agua dulce al final del verano y mirar los conectores cuando aparece un aviso eléctrico intermitente son dos costumbres baratas.",
+          "La ciudad tenía 131.683 habitantes en 2025, un 5,5 % más que en 2015, y 52.397 turismos en 2024 según Idescat a partir de la DGT: 398 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois Pruna Motor?",
+        "a": "No. Pruna Motor es el servicio oficial BMW de Mataró, en Via Sergia 2. Dasercars es un taller independiente con nave en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV si vivo en Mataró?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 3,2 km."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI y BMW comparten motores y electrónica, y se diagnostican con el mismo equipo."
+      },
+      {
+        "q": "¿Recogéis coches en Mataró?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona, y Mataró queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "131.683 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081213&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "52.397 · 398 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081213&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Via Sergia 2 · 3,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Argentona (B08) · 3,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 42,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081213&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

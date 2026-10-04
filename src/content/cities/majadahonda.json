@@ -3,7 +3,7 @@
   "name": "Majadahonda",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 68110,
+  "population": 73625,
   "lat": 40.47353,
   "lng": -3.87182,
   "metaTitle": "Taller BMW en Majadahonda | Diagnosis y Mecánica Especializada",
@@ -177,5 +177,126 @@
     "M-503",
     "M-513",
     "Cercanías C-7"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Taller BMW en Majadahonda: Movilnorte a 2,4 km o Dasercars a 27,5 km",
+    "entradilla": "El concesionario BMW que buscas probablemente sea Movilnorte, en la carretera de El Plantío. Nosotros somos otra cosa: un taller independiente de BMW y MINI en Alcobendas. Aquí tienes las dos opciones con sus datos.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 27.5
+    },
+    "secciones": [
+      {
+        "id": "movilnorte",
+        "h2": "Movilnorte, el servicio oficial dentro del municipio",
+        "parrafos": [
+          "Según el localizador de bmw.es, Movilnorte, en la carretera de El Plantío 62, es el punto oficial BMW más próximo: 2,4 km desde el centro de Majadahonda. Allí van las reparaciones en garantía de fábrica y las campañas del fabricante.",
+          "Si has llegado aquí buscando su teléfono, no es este. El número de esta página es el de Dasercars Madrid."
+        ]
+      },
+      {
+        "id": "para-que-un-independiente",
+        "h2": "Para qué sirve un especialista independiente",
+        "parrafos": [
+          "Para todo lo que no depende de BMW como fabricante: el mantenimiento que marca el indicador de servicio, los frenos, la distribución de un diésel N47 o N57, un turbo, una caja automática que da tirones o una avería eléctrica que no se ha localizado. También para contrastar un diagnóstico antes de aceptar una reparación cara.",
+          "La diagnosis se presupuesta antes de conectar el equipo, y la reparación no empieza sin tu visto bueno."
+        ]
+      },
+      {
+        "id": "ruta-a6",
+        "h2": "A-6, M-40 y A-1: 27,5 km",
+        "parrafos": [
+          "Desde el centro de Majadahonda, la ruta más corta a la calle Valgrande de Alcobendas va por la A-6, la M-40 y la A-1: 27,5 km por carretera y 20 en línea recta.",
+          "Majadahonda está dentro del área metropolitana de Madrid, donde el taller ofrece recogida y entrega y coche de cortesía, ambos sujetos a disponibilidad.",
+          "A menos de tres kilómetros del centro pasan la A-6, la M-50, la M-503, la M-505 y la M-509. Las Rozas, a 2,2 km en línea recta, comparte con Majadahonda el mismo punto oficial de referencia en el localizador: Movilnorte."
+        ]
+      },
+      {
+        "id": "itv-el-carralero",
+        "h2": "La ITV, en El Carralero",
+        "parrafos": [
+          "La Comunidad de Madrid recoge una estación en el municipio: IDV Madrid (estación 2862), en la calle De la Fresa 12, en el polígono industrial El Carralero.",
+          "Majadahonda tenía 73.625 habitantes en 2025, un 4 % más que en 2015, y su centro está a unos 741 metros de altitud: en invierno, la batería de un coche que duerme en la calle es lo primero que conviene revisar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois Movilnorte?",
+        "a": "No. Movilnorte es el servicio oficial BMW de la carretera de El Plantío 62. Dasercars es un taller independiente en Alcobendas."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 27,5 km por carretera desde el centro de Majadahonda, por la A-6, la M-40 y la A-1."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Majadahonda?",
+        "a": "En la calle De la Fresa 12, polígono El Carralero, según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, comparte motores y electrónica con BMW."
+      },
+      {
+        "q": "¿Podéis venir a por el coche a Majadahonda?",
+        "a": "Majadahonda entra en el área metropolitana, donde hay recogida y entrega sujeta a disponibilidad. Pídela al reservar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "73.625 habitantes (+4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 741 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "IDV Madrid, polígono El Carralero",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte, ctra. de El Plantío 62 · 2,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 27,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

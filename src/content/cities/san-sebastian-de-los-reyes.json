@@ -3,7 +3,7 @@
   "name": "San Sebastián de los Reyes",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 75912,
+  "population": 96992,
   "lat": 40.55555,
   "lng": -3.62733,
   "metaTitle": "Taller BMW en San Sebastián de los Reyes — Especialistas ISTA",
@@ -191,5 +191,119 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "San Sebastián de los Reyes: el taller BMW está en Alcobendas, a 4,5 km",
+    "entradilla": "Pocas ciudades de la red tienen el taller tan cerca. El centro de Alcobendas está a 1,5 km en línea recta, y la nave de Dasercars Madrid, a 4,5 km por carretera desde el centro de San Sebastián de los Reyes.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 4.5
+    },
+    "secciones": [
+      {
+        "id": "al-lado",
+        "h2": "A 4,5 km: entrar por la mañana, salir por la tarde",
+        "parrafos": [
+          "Entre el centro de Sanse y la calle Valgrande 17 de Alcobendas hay 4,5 km por carretera y 2,9 en línea recta. Con esa distancia, lo más cómodo suele ser dejar el coche por la mañana y recogerlo por la tarde: el taller abre de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00.",
+          "Si la reparación va a durar días, pregunta por el vehículo de cortesía al reservar. Igual que la recogida y entrega dentro del área metropolitana, está sujeto a disponibilidad."
+        ]
+      },
+      {
+        "id": "dos-itv-sanse",
+        "h2": "Una ITV junto a la A-1 y otra en Plaza Norte",
+        "parrafos": [
+          "La Comunidad de Madrid recoge dos estaciones en el municipio: INTECTRA (estación 2821), en la A-1, km 23, en el desvío de Algete, y TÜV Rheinland (estación 2850), en la avenida Fuente Nueva 7, en el centro comercial Plaza Norte.",
+          "Con el taller y las dos estaciones en un radio tan corto, se puede hacer la pre-ITV un día y pasar la inspección al siguiente sin apenas mover el coche."
+        ]
+      },
+      {
+        "id": "las-tablas",
+        "h2": "El servicio oficial, en Las Tablas",
+        "parrafos": [
+          "El punto oficial BMW más cercano por carretera, según bmw.es, es BYmyCAR Madrid, en la avenida de Burgos 133 (Las Tablas), a 8,9 km. Si lo que tienes es una avería en garantía, ese es el sitio; para el mantenimiento y lo que ya no cubre BMW, la elección es tuya."
+        ]
+      },
+      {
+        "id": "sanse-en-cifras",
+        "h2": "Un 14,2 % más de vecinos que hace diez años",
+        "parrafos": [
+          "San Sebastián de los Reyes ha pasado de 84.944 habitantes en 2015 a 96.992 en 2025. La Comunidad de Madrid, con datos de la DGT, contaba 46.458 turismos en 2025: 479 por cada 1.000 habitantes. A menos de tres kilómetros del centro pasan la A-1, la N-I, la M-12, la M-603 y la M-616."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en San Sebastián de los Reyes?",
+        "a": "No dentro del municipio: está en la calle Valgrande 17 de Alcobendas, a 4,5 km del centro de Sanse."
+      },
+      {
+        "q": "¿Qué ITV me queda más a mano?",
+        "a": "Hay dos en el municipio: INTECTRA, en la A-1 km 23, y TÜV Rheinland, en la avenida Fuente Nueva 7."
+      },
+      {
+        "q": "¿Tenéis coche de cortesía?",
+        "a": "Sí, para trabajos largos y sujeto a disponibilidad. Pídelo al reservar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "96.992 habitantes (+14,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "46.458 · 479 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "2 estaciones (A-1 km 23 y Plaza Norte)",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Las Tablas) · 8,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 4,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }
