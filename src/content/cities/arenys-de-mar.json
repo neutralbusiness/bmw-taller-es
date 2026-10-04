@@ -3,7 +3,7 @@
   "name": "Arenys de Mar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 15307,
+  "population": 17042,
   "lat": 41.5819,
   "lng": 2.54936,
   "metaTitle": "Especialistas BMW en Arenys de Mar — Revisión y reparación con garantía",
@@ -178,5 +178,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Arenys de Mar: BMW junto al puerto, servicio oficial en Mataró y especialista a 54,5 km",
+    "entradilla": "Con el mar a poco más de un kilómetro del centro, un coche de Arenys pide algunos cuidados que uno de interior no necesita. Te contamos cuáles, dónde está lo oficial y qué supone llevar el BMW a Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 54.5
+    },
+    "secciones": [
+      {
+        "id": "aire-salino",
+        "h2": "Lo que hace el aire salino",
+        "parrafos": [
+          "La costa queda a 1,3 km del centro. La sal no se ve, pero se acumula: en los pasos de rueda, en los soportes y abrazaderas del escape y en los conectores que van más expuestos. Un coche que duerme en la calle cerca del puerto lo nota antes que uno de garaje.",
+          "Lo práctico: aclarar los bajos con agua dulce de vez en cuando, sobre todo después del invierno, y si el coche ha estado parado varias semanas, frenar suave los primeros kilómetros para limpiar el óxido superficial de los discos."
+        ]
+      },
+      {
+        "id": "mataro-y-argentona",
+        "h2": "Mataró para lo oficial, Argentona para la ITV",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sergia 2 de Mataró, a 12,9 km. La ITV más cercana por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 16,9 km."
+        ]
+      },
+      {
+        "id": "c32-b20",
+        "h2": "54,5 kilómetros por la C-32",
+        "parrafos": [
+          "Hasta el carrer del Tambor del Bruc de Sant Joan Despí se va por la C-32 y la B-20: 54,5 km por carretera, 47,1 en línea recta. Arenys de Mar no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no llega hasta aquí.",
+          "El viaje compensa para un diagnóstico que no ha salido en el Maresme o para el mantenimiento de un diésel BMW con el plan de marca, no para lo que cualquier taller de confianza te resuelve cerca."
+        ]
+      },
+      {
+        "id": "arenys-cifras",
+        "h2": "17.042 vecinos en 6,75 km²",
+        "parrafos": [
+          "Arenys de Mar tenía 15.289 habitantes en 2015 y 17.042 en 2025, un 11,5 % más, en un término de 6,75 km². Idescat, a partir de la DGT, contaba 7.239 turismos en 2024: 425 por cada 1.000 vecinos, con la N-II y la C-32 a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Arenys de Mar?",
+        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 12,9 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima por carretera es la de Argentona (B08), a 16,9 km."
+      },
+      {
+        "q": "¿Qué le hace el mar a mi coche?",
+        "a": "Acelera la corrosión de bajos y escape, el óxido de los discos si el coche está parado y la sulfatación de conectores."
+      },
+      {
+        "q": "¿Recogéis el coche en Arenys?",
+        "a": "No: la recogida solo cubre el Área Metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.042 habitantes (+11,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080060&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.239 · 425 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080060&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 1,3 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Mataró) · 12,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Argentona (B08) · 16,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080060&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

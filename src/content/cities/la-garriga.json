@@ -3,7 +3,7 @@
   "name": "la Garriga",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 14991,
+  "population": 17426,
   "lat": 41.68333,
   "lng": 2.28333,
   "metaTitle": "BMW la Garriga — Tu taller especialista con precios de hasta -50%",
@@ -180,5 +180,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "La Garriga y la C-17: tu BMW entre Granollers y Sant Joan Despí",
+    "entradilla": "En la Garriga casi todo pasa por la C-17: el servicio oficial BMW de Granollers, la ITV y la ruta hasta nuestro taller. Lo que hay en cada punto y los kilómetros reales.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 46.5
+    },
+    "secciones": [
+      {
+        "id": "una-sola-carretera",
+        "h2": "Una sola carretera principal",
+        "parrafos": [
+          "La única vía con referencia que pasa a menos de tres kilómetros del centro es la C-17. Hacia el sur te lleva a Granollers; hacia Barcelona enlaza con la C-33 y, desde ahí, con la B-20 hasta Sant Joan Despí. En total, 46,5 km por carretera hasta el carrer del Tambor del Bruc (39,8 en línea recta).",
+          "La Garriga no forma parte del Área Metropolitana de Barcelona, así que queda fuera de la recogida que ofrece el taller."
+        ]
+      },
+      {
+        "id": "granollers",
+        "h2": "Lo oficial y la ITV, en Granollers",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la propia C-17, km 19,060, en Granollers: 12,6 km. La ITV más cercana por carretera en el registro de la Generalitat es la estación B18 de Granollers, en el polígono El Congost, a 15,3 km.",
+          "Lo que paga la garantía, en la red oficial. Lo demás, donde elijas."
+        ]
+      },
+      {
+        "id": "para-que-bajar",
+        "h2": "Para qué bajar hasta Sant Joan Despí",
+        "parrafos": [
+          "Para trabajos en los que un especialista BMW marca la diferencia: un N47 o N57 con ruido de cadena, un error del sistema SCR, un consumo eléctrico en reposo que vacía la batería, o el mantenimiento por plan de marca con el indicador de servicio puesto a cero como corresponde.",
+          "Para un trabajo de un día, lo práctico es entrar temprano y recogerlo por la tarde."
+        ]
+      },
+      {
+        "id": "la-garriga-cifras",
+        "h2": "17.426 vecinos y 8.723 turismos",
+        "parrafos": [
+          "La Garriga tenía 15.740 habitantes en 2015 y 17.426 en 2025, un 10,7 % más. El centro está a 252 m de altitud y el término mide 18,8 km². En 2024 había 8.723 turismos censados según Idescat a partir de la DGT, 501 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a la Garriga?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 12,6 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Granollers (B18), a 15,3 km."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 46,5 km, en Sant Joan Despí, por la C-17, la C-33 y la B-20."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.426 habitantes (+10,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080885&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.723 · 501 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080885&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 12,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 15,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 46,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080885&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
