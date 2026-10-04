@@ -3,11 +3,11 @@
   "name": "Anchuelo",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 1272,
+  "population": 1414,
   "lat": 40.46883,
   "lng": -3.27659,
   "metaTitle": "Taller BMW cerca de Anchuelo | Henares y Vegas",
-  "metaDescription": "Servicio especializado BMW para Anchuelo, cerca de Alcalá de Henares. Diagnóstico ISTA, presupuesto cerrado y recogida disponible.",
+  "metaDescription": "BMW en Anchuelo: servicio oficial e ITV en Alcalá de Henares y taller especialista independiente en Alcobendas, a 42,2 km por la R-2.",
   "heroSubtitle": "Atención especializada BMW para Anchuelo, a un paso de Alcalá de Henares.",
   "trustChips": [
     {
@@ -169,5 +169,113 @@
   "zoneAccessRoutes": [
     "M-219",
     "A-2"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Anchuelo: Alcalá para la ITV y el concesionario, Alcobendas para el especialista BMW",
+    "entradilla": "Para un vecino de Anchuelo, Alcalá de Henares concentra casi todo lo que necesita un BMW: estación de ITV y servicio oficial. El taller especialista de la red está a 42,2 km, en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 42.2
+    },
+    "secciones": [
+      {
+        "id": "todo-en-alcala",
+        "h2": "Dos citas en Alcalá de Henares",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 14,3 km por carretera. La ITV oficial más próxima del listado de la Comunidad de Madrid también está en Alcalá: TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena, a unos 10 km.",
+          "Tener las dos cosas en la misma ciudad permite encadenar la inspección y una visita al concesionario el mismo día, si hace falta."
+        ]
+      },
+      {
+        "id": "m100-hacia-alcobendas",
+        "h2": "M-213, M-100 y R-2 hasta Alcobendas",
+        "parrafos": [
+          "La ruta desde Anchuelo hasta la calle Valgrande 17 enlaza la M-213, la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 42,2 km por carretera, 32,6 en línea recta.",
+          "La recogida y el vehículo de cortesía, ambos sujetos a disponibilidad, funcionan dentro del área metropolitana de Madrid. Pregunta al pedir cita si tu dirección entra; si no, lo cómodo es dejar el coche a primera hora."
+        ]
+      },
+      {
+        "id": "anchuelo-en-cifras",
+        "h2": "602 turismos por cada mil vecinos",
+        "parrafos": [
+          "Anchuelo tenía 1.414 habitantes en 2025, un 17,8 % más que en 2015, en un término de 21,5 km² a 736 metros. La Comunidad de Madrid, con datos de la DGT, registraba 851 turismos en 2025: 602 por cada 1.000 habitantes, frente a 388 en Madrid capital.",
+          "La M-213 pasa por el propio casco urbano. Para un BMW que hace casi siempre el mismo trayecto corto hasta Alcalá, lo más delicado suele ser la batería y, en diésel, el filtro de partículas: un aviso de regeneración que se repite merece una revisión."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Anchuelo?",
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 14,3 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I de Alcalá de Henares, a unos 10 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "42,2 km por la M-100, la R-2 y la M-50 hasta Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.414 habitantes (+17,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "851 · 602 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE, Alcalá de Henares · unos 10 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 14,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 42,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

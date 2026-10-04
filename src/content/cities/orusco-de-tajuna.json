@@ -3,11 +3,11 @@
   "name": "Orusco de Tajuña",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 1300,
+  "population": 1531,
   "lat": 40.294,
   "lng": -3.2113,
   "metaTitle": "Taller BMW cerca de Orusco de Tajuña | Sureste de Madrid",
-  "metaDescription": "Diagnóstico y reparación BMW para Orusco de Tajuña y el Sureste de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en Orusco de Tajuña: ITV en Villarejo de Salvanés, servicio oficial en Alcalá de Henares y taller especialista en Alcobendas, a 64,6 km.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Orusco de Tajuña, junto al río Tajuña.",
   "trustChips": [
     {
@@ -163,5 +163,120 @@
     "M-219",
     "A-3 (acceso desde Arganda)",
     "M-311"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Orusco de Tajuña: del valle a Alcobendas, 64,6 km hasta el taller especialista BMW",
+    "entradilla": "En la vega del Tajuña lo que tienes más cerca para tu BMW está en Villarejo de Salvanés y en Alcalá de Henares. El taller especialista de la red queda en Alcobendas, y conviene saber cuándo merece la pena el viaje.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 64.6
+    },
+    "secciones": [
+      {
+        "id": "ruta-r3",
+        "h2": "Por la R-3 y la M-30 hasta la calle Valgrande",
+        "parrafos": [
+          "La ruta desde el centro de Orusco va por la M-229, la M-221 y la M-209 hasta la R-3, cruza por la M-30 y sale por la A-1: 64,6 km por carretera y 46 en línea recta hasta Dasercars Madrid, en la calle Valgrande 17 de Alcobendas.",
+          "La recogida y el vehículo de cortesía del taller existen, sujetos a disponibilidad, pero solo dentro del área metropolitana de Madrid; desde el valle, cuenta con llevar tú el coche."
+        ]
+      },
+      {
+        "id": "villarejo-y-alcala",
+        "h2": "ITV en Villarejo, servicio oficial en Alcalá",
+        "parrafos": [
+          "La estación oficial más próxima por carretera, según el listado de la Comunidad de Madrid, es la de General de Servicios ITV (estación 2853), en la avenida Juan Carlos I Rey de España 13 de Villarejo de Salvanés, a 19,8 km.",
+          "El servicio oficial BMW más cercano en el localizador de bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 36,2 km. Allí se tramitan las reparaciones en garantía de la marca."
+        ]
+      },
+      {
+        "id": "cuando-compensa",
+        "h2": "Cuándo compensa bajar",
+        "parrafos": [
+          "Para una avería de BMW o MINI que no se ha localizado cerca, un problema del sistema de AdBlue o una cadena de distribución ruidosa en un diésel. En esos casos, el presupuesto se entrega por escrito y nada se empieza sin tu aprobación, de modo que el viaje no te ata a una reparación que no quieras."
+        ]
+      },
+      {
+        "id": "orusco-en-cifras",
+        "h2": "1.531 vecinos a 714 metros",
+        "parrafos": [
+          "Orusco de Tajuña tenía 1.531 habitantes en el padrón de 2025, un 21,5 % más que en 2015, en un término de 21,3 km². La Comunidad de Madrid, con datos de la DGT, contaba 754 turismos en 2025: 492 por cada 1.000 habitantes, menos que en Anchuelo (602), aunque por encima de Madrid capital (388).",
+          "La M-229, la M-204 y la M-215 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Orusco?",
+        "a": "La estación oficial más cercana por carretera es la de Villarejo de Salvanés (estación 2853), a 19,8 km."
+      },
+      {
+        "q": "¿Cuál es el concesionario BMW más próximo?",
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 36,2 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "64,6 km por la R-3, la M-30 y la A-1 hasta Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.531 habitantes (+21,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "754 · 492 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "Villarejo de Salvanés · 19,8 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 36,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 64,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

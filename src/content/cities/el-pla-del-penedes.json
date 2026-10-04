@@ -3,11 +3,11 @@
   "name": "el Pla del Penedès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1198,
+  "population": 1393,
   "lat": 41.41642,
   "lng": 1.71965,
   "metaTitle": "Taller BMW en El Pla del Penedès | Mecánica especializada",
-  "metaDescription": "Taller BMW en El Pla del Penedès, Alt Penedès. Diagnosis oficial, turbo, Valvetronic y caja automática ZF. Presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en el Pla del Penedès: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista en Sant Joan Despí, a 45,9 km.",
   "heroSubtitle": "Taller BMW entre viñedos, para El Pla del Penedès y el Alt Penedès",
   "trustChips": [
     {
@@ -174,5 +174,125 @@
     "BP-2151 hacia Vilafranca",
     "C-15 hacia Igualada",
     "AP-7 como enlace regional"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "El Pla del Penedès: la ITV a 6,6 km en línea recta, el doble por carretera",
+    "entradilla": "Hay datos que engañan sobre el mapa. La estación de ITV de Olèrdola parece estar al lado del Pla del Penedès, pero por carretera son 12,6 km. El taller especialista BMW de la red queda a 45,9 km, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 45.9
+    },
+    "secciones": [
+      {
+        "id": "itv-olerdola",
+        "h2": "Olèrdola (B09): 6,6 km en el mapa, 12,6 al volante",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima es la de Olèrdola (B09), en la avinguda de l'Hostal Nou. En línea recta queda a 6,6 km del centro; por carretera, a 12,6 km, porque hay que rodear Vilafranca.",
+          "Si el coche tiene una holgura, una luz fundida o un testigo encendido, mejor saberlo antes de pedir cita: una pre-ITV ahorra repetir el viaje."
+        ]
+      },
+      {
+        "id": "seis-vias-al-taller",
+        "h2": "Cinco carreteras hasta el Tambor del Bruc",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona encadena la BV-2154, la C-243a, la BV-2244, la AP-7 y la B-23: 45,9 km por carretera, 29,2 en línea recta. El Pla no está en el área metropolitana de Barcelona, por lo que la recogida del taller no llega hasta aquí.",
+          "Antes de ir, explica por teléfono el modelo, el año y lo que le pasa al coche; con el bastidor se puede tener la pieza correcta pedida."
+        ]
+      },
+      {
+        "id": "vilanova-red-oficial",
+        "h2": "La red oficial, en Vilanova i la Geltrú",
+        "parrafos": [
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 27,2 km. Para una reparación cubierta por la garantía de fábrica, el sitio es ese."
+        ]
+      },
+      {
+        "id": "el-pla-en-cifras",
+        "h2": "1.393 vecinos en 9,56 km²",
+        "parrafos": [
+          "El padrón de 2025 da al Pla del Penedès 1.393 habitantes, un 13,3 % más que en 2015, en un término pequeño, de 9,56 km², a 216 metros. Idescat, con datos de la DGT, registraba 784 turismos en 2024: 563 por cada 1.000 vecinos. La C-15 y la BP-2151 pasan a menos de tres kilómetros del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es la ITV más cercana al Pla del Penedès?",
+        "a": "Olèrdola (B09), a 12,6 km por carretera según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Dónde está vuestro taller?",
+        "a": "En el carrer del Tambor del Bruc 3 de Sant Joan Despí, a 45,9 km por la AP-7 y la B-23."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí: MINI comparte electrónica y motores con BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.393 habitantes (+13,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081640&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "784 · 563 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081640&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 12,6 km por carretera",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 27,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 45,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081640&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

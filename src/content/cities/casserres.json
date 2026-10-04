@@ -3,7 +3,7 @@
   "name": "Casserres",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1578,
+  "population": 1660,
   "lat": 42.0119,
   "lng": 1.846,
   "metaTitle": "Taller BMW en Casserres | Especialistas BMW — Diagnóstico Profesional",
@@ -185,5 +185,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Casserres, en el Berguedà: casi 100 km hasta el taller BMW y lo que te queda cerca",
+    "entradilla": "Hasta nuestro taller hay 98,7 km por la C-16. No vamos a decirte que es un paseo: para casi todo, Berga y Sant Fruitós te quedan mucho más cerca. Esta página separa lo que merece el viaje de lo que no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 98.7
+    },
+    "secciones": [
+      {
+        "id": "berga-y-sant-fruitos",
+        "h2": "La ITV en Berga, el concesionario en Sant Fruitós",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Berga (B13), en el camí de Sant Bartomeu, polígono industrial La Valldan, a 15,3 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 37,5 km.",
+          "Las dos quedan sobre el eje de la C-16, que pasa a menos de tres kilómetros del centro de Casserres junto con la BV-4131 y la BV-4132."
+        ]
+      },
+      {
+        "id": "lo-que-no-merece",
+        "h2": "Lo que no merece 99 kilómetros",
+        "parrafos": [
+          "Neumáticos, escobillas, un cambio de aceite sin complicaciones o la pre-ITV: todo eso lo resuelve un taller de confianza del Berguedà. Bajar a Sant Joan Despí por esto sería gastar un día."
+        ]
+      },
+      {
+        "id": "lo-que-si",
+        "h2": "Lo que sí puede merecerlo",
+        "parrafos": [
+          "Un problema específico de BMW que ha pasado por varios talleres sin solución, un diésel M57 o N57 con fallos que nadie localiza, o un mantenimiento hecho según el plan de la marca. La ruta es directa: BV-4132, C-16 y B-20 hasta el carrer del Tambor del Bruc.",
+          "Desde aquí lo sensato es organizarlo antes. El presupuesto llega por escrito y no se toca nada sin tu visto bueno, y la diagnosis también se presupuesta: así sabes a qué vas antes de coger el coche. Casserres queda lejos del área metropolitana, de modo que la recogida del taller no cubre la zona."
+        ]
+      },
+      {
+        "id": "casserres-en-cifras",
+        "h2": "1.660 vecinos a 611 metros",
+        "parrafos": [
+          "Casserres tenía 1.660 habitantes en 2025, un 7,7 % más que en 2015, y 1.102 turismos en 2024 según Idescat a partir de la DGT: 664 por cada 1.000, frente a los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en el Berguedà?",
+        "a": "No. El taller de la red más cercano está en Sant Joan Despí, a 98,7 km de Casserres."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Berga (B13), polígono La Valldan, a 15,3 km: la más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Puedo saber el presupuesto antes de bajar?",
+        "a": "Sí. La diagnosis se presupuesta antes de hacerla, y la reparación, por escrito, antes de empezar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.660 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080497&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "611 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080497&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.102 · 664 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080497&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 15,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 37,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080497&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

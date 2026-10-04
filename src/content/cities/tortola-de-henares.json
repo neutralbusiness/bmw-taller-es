@@ -3,11 +3,11 @@
   "name": "Tórtola de Henares",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 941,
+  "population": 1439,
   "lat": 40.71266,
   "lng": -3.12926,
   "metaTitle": "Taller BMW en Tórtola de Henares | Especialistas cerca de Guadalajara",
-  "metaDescription": "Taller BMW para Tórtola de Henares y el Corredor del Henares. Diagnosis original, motor, turbo y caja ZF 8HP. Presupuesto cerrado y garantía escrita.",
+  "metaDescription": "BMW en Tórtola de Henares: concesionario en Guadalajara, a 13,8 km, y taller especialista independiente en Alcobendas, a 65,3 km por la R-2.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Tórtola de Henares",
   "trustChips": [
     {
@@ -174,5 +174,117 @@
     "A-2 hacia Madrid/Guadalajara",
     "N-320 de conexión local",
     "Acceso desde Guadalajara capital"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Tórtola de Henares: concesionario BMW en Guadalajara y especialista a 65 km",
+    "entradilla": "Tórtola de Henares ha pasado de 990 a 1.439 vecinos en diez años. Para el dueño de un BMW o un MINI, Guadalajara capital resuelve lo cercano; el taller especialista de la red está en Alcobendas, por la R-2.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 65.3
+    },
+    "secciones": [
+      {
+        "id": "un-45-por-ciento",
+        "h2": "Un 45,4 % más de población desde 2015",
+        "parrafos": [
+          "Según el padrón del INE, Tórtola de Henares tenía 990 habitantes en 2015 y 1.439 en 2025. El término mide 26,6 km² y el núcleo está a unos 743 metros. La CM-1003 pasa a medio kilómetro del centro y es por donde sale casi todo el tráfico."
+        ]
+      },
+      {
+        "id": "guadalajara-cerca",
+        "h2": "Lo de la marca y la ITV, en Guadalajara",
+        "parrafos": [
+          "El punto oficial BMW más próximo según el localizador de bmw.es es AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 13,8 km por carretera. Si el coche está en garantía, las reparaciones a cargo de BMW se hacen en la red oficial.",
+          "El mantenimiento, en cambio, no te ata al concesionario: el Reglamento (UE) 461/2010 protege la garantía si el coche se revisa en un taller independiente cumpliendo el plan del fabricante.",
+          "Para la inspección, una estación cercana es la de Guadalajara capital, en la calle Trafalgar."
+        ]
+      },
+      {
+        "id": "r2-hasta-alcobendas",
+        "h2": "Por la CM-1003, la R-2 y la M-50",
+        "parrafos": [
+          "La ruta hasta Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, va por la CM-1003, la R-2 y la M-50: 65,3 km por carretera, 48,2 en línea recta. Tórtola es provincia de Guadalajara y queda fuera del área metropolitana de Madrid, así que la recogida del taller no la cubre.",
+          "Compensa bajar para lo que pide conocer la marca: una avería electrónica sin diagnóstico, un diésel N47 o B47 con problemas de distribución o un fallo del sistema SCR. Para el resto, Guadalajara te queda a un paso."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano a Tórtola?",
+        "a": "AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 13,8 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "65,3 km por la CM-1003, la R-2 y la M-50 hasta Alcobendas."
+      },
+      {
+        "q": "¿Recogéis el coche en Tórtola de Henares?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.439 habitantes (+45,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "26,6 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 743 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Guadalajara · 13,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 65,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "OpenStreetMap (estación ITV de Guadalajara)",
+        "url": "https://www.openstreetmap.org/way/381990031"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

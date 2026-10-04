@@ -3,7 +3,7 @@
   "name": "Castellví de la Marca",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1650,
+  "population": 1721,
   "lat": 41.33366,
   "lng": 1.61265,
   "metaTitle": "Taller BMW en Castellví de la Marca | Alt Penedès",
@@ -171,5 +171,118 @@
     "C-15",
     "AP-7",
     "BP-2151"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellví de la Marca: 661 turismos por cada mil vecinos y un taller BMW a 55,5 km",
+    "entradilla": "Más del doble de turismos por habitante que en Barcelona ciudad. En Castellví de la Marca el coche es imprescindible, y la AP-7 pasa al lado: eso marca cómo conviene mantener un BMW aquí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 55.5
+    },
+    "secciones": [
+      {
+        "id": "dos-coches-cada-tres",
+        "h2": "Casi dos coches por cada tres habitantes",
+        "parrafos": [
+          "El padrón de 2025 da a Castellví de la Marca 1.721 vecinos, un 11,8 % más que en 2015, repartidos en 28,4 km². Idescat, con datos de la DGT, registraba 1.138 turismos en 2024: 661 por cada 1.000 habitantes, más del doble que en Barcelona ciudad (281).",
+          "Con 61 habitantes por kilómetro cuadrado y el término salpicado de núcleos, cada desplazamiento es en coche. Muchos hogares tienen dos, y suele ser el segundo, el que menos se mueve, el que da sustos con la batería."
+        ]
+      },
+      {
+        "id": "ap7-al-lado",
+        "h2": "La AP-7, la N-340 y la B-212 a menos de 3 km",
+        "parrafos": [
+          "Tener la AP-7 tan cerca es una ventaja para un diésel moderno: unos kilómetros a régimen constante permiten que el filtro de partículas se regenere, cosa que no ocurre en trayectos cortos entre masías. Si el cuadro avisa de regeneración, lo correcto es seguir circulando, no apagar el motor.",
+          "Esa misma AP-7, tras la B-212 y la N-340, lleva al taller: 55,5 km hasta el carrer del Tambor del Bruc de Sant Joan Despí, terminando por la B-23. Castellví queda fuera del área metropolitana, así que la recogida del taller no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "itv-y-oficial",
+        "h2": "Olèrdola y Vilanova, lo más próximo",
+        "parrafos": [
+          "La estación más cercana por carretera en el registro de la Generalitat es la de Olèrdola (B09), a 13,4 km. El servicio oficial BMW que figura en bmw.es más próximo es Quadis Munich, en Vilanova i la Geltrú, a 24,3 km; ahí van las reparaciones en garantía de la marca."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "55,5 km por la B-212, la N-340, la AP-7 y la B-23 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Qué hago si mi diésel avisa de regeneración del filtro?",
+        "a": "Seguir circulando a régimen constante hasta que termine. Si el aviso se repite a menudo, conviene revisarlo."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es Olèrdola (B09), a 13,4 km, según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.721 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080654&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.138 · 661 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080654&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 13,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 24,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 55,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080654&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
