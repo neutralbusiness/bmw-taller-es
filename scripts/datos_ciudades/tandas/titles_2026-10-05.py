@@ -16,9 +16,16 @@
 #   - un superlativo sin dato («El taller de referencia», Collado Villalba).
 # Solo se reescribió la frase que quedaba vacía o rota («Diagnóstico.» →
 # «Diagnóstico de averías.»; Sant Andreu de la Barca entera).
-# Se han dejado como estaban (no están en la lista de Martin; revisar con él):
-# «presupuesto cerrado», «Presupuesto gratis» (El Escorial), «garantía por
-# escrito / real / en cada reparación», «Profesionales» (Madrid, ya decidido).
+# Segunda pasada (CAMBIOS_PRESUPUESTO, decisión del 04-oct-2026): con el mismo
+# criterio se quitan también «presupuesto(s) cerrado(s)», «Presupuesto gratis» y
+# «garantía escrita / por escrito / real / en cada reparación». Donde quedaba
+# «Presupuesto cerrado antes de reparar» se conserva «Presupuesto antes de
+# reparar» (hecho de la raíz); en 4 descriptions que se quedaban cortas
+# (Azuqueca, Boadilla, Paracuellos, Parla) la frase quitada se sustituye por
+# «Presupuesto por escrito antes de reparar.». «para profesionales» (Madrid) se
+# queda. NO se tocan (no están en la lista): «Revisión y reparación con
+# garantía» (8 titles de la plantilla Arenys/Canet/Cardedeu…), «Presupuesto sin
+# compromiso» (Galapagar, Zaragoza) y «presupuesto claro» (Meco).
 #
 # Cada entrada es (antes, después). Para reaplicar (idempotente; avisa si el
 # valor actual no es ni el «antes» ni el «después»):
@@ -640,6 +647,218 @@ CAMBIOS = {
     },
 }
 
+# Segunda pasada: se aplica DESPUÉS de CAMBIOS (el «antes» es el valor que dejó CAMBIOS)
+CAMBIOS_PRESUPUESTO = {
+    'alovera': {
+        'metaDescription': (
+            "Taller BMW especializado en Alovera, junto a Guadalajara. Diagnóstico, presupuesto cerrado y técnicos formados en la marca. Pide cita.",
+            "Taller BMW especializado en Alovera, junto a Guadalajara. Diagnóstico y técnicos formados en la marca. Pide cita.",
+        ),
+    },
+    'alpedrete': {
+        'metaDescription': (
+            "Taller BMW especializado cerca de Alpedrete, en la Sierra de Guadarrama. Diagnóstico, presupuesto cerrado y técnicos formados en la marca.",
+            "Taller BMW especializado cerca de Alpedrete, en la Sierra de Guadarrama. Diagnóstico y técnicos formados en la marca.",
+        ),
+    },
+    'arganda-del-rey': {
+        'metaDescription': (
+            "Taller BMW especializado en Arganda del Rey. Diagnóstico, presupuesto cerrado y técnicos formados en la marca. Servimos toda la comarca.",
+            "Taller BMW especializado en Arganda del Rey. Diagnóstico y técnicos formados en la marca. Servimos toda la comarca.",
+        ),
+    },
+    'azuqueca-de-henares': {
+        'metaDescription': (
+            "Taller especializado BMW en Azuqueca de Henares. Diagnosis, mantenimiento y reparación. Presupuesto cerrado.",
+            "Taller especializado BMW en Azuqueca de Henares. Diagnosis, mantenimiento y reparación. Presupuesto por escrito antes de reparar.",
+        ),
+    },
+    'berga': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en Berga. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en Berga. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'boadilla-del-monte': {
+        'metaDescription': (
+            "Taller especializado BMW en Boadilla del Monte. Diagnosis, mantenimiento y reparación. Presupuesto cerrado.",
+            "Taller especializado BMW en Boadilla del Monte. Diagnosis, mantenimiento y reparación. Presupuesto por escrito antes de reparar.",
+        ),
+    },
+    'camarma-de-esteruelas': {
+        'metaDescription': (
+            "Taller especializado BMW cerca de Camarma de Esteruelas. Diagnosis, mantenimiento y reparación de motor, turbo y caja ZF con garantía escrita.",
+            "Taller especializado BMW cerca de Camarma de Esteruelas. Diagnosis, mantenimiento y reparación de motor, turbo y caja ZF.",
+        ),
+    },
+    'canovelles': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en Canovelles. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en Canovelles. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'casar-el': {
+        'metaDescription': (
+            "Taller BMW especializado cerca de El Casar, Guadalajara. Diagnosis, mantenimiento, motor, turbo y caja ZF con garantía escrita.",
+            "Taller BMW especializado cerca de El Casar, Guadalajara. Diagnosis, mantenimiento, motor, turbo y caja ZF.",
+        ),
+    },
+    'castelldefels': {
+        'metaDescription': (
+            "Especialistas en BMW en Castelldefels. Realizamos revisiones de compra, diagnóstico y mecánica avanzada. Presupuesto cerrado.",
+            "Especialistas en BMW en Castelldefels. Realizamos revisiones de compra, diagnóstico y mecánica avanzada.",
+        ),
+    },
+    'el-escorial': {
+        'metaDescription': (
+            "Taller BMW en El Escorial, junto a San Lorenzo de El Escorial. Mantenimiento, turbo, Valvetronic, caja ZF y diagnosis. Presupuesto gratis.",
+            "Taller BMW en El Escorial, junto a San Lorenzo de El Escorial. Mantenimiento, turbo, Valvetronic, caja ZF y diagnosis.",
+        ),
+    },
+    'guadalajara': {
+        'metaDescription': (
+            "Taller BMW en Guadalajara especializado en diagnosis, motor, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado y garantía por escrito en cada reparación.",
+            "Taller BMW en Guadalajara especializado en diagnosis, motor, turbo, Valvetronic y caja ZF 8HP.",
+        ),
+    },
+    'guadarrama': {
+        'metaDescription': (
+            "Taller BMW especializado en Guadarrama. Diagnosis, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado antes de reparar.",
+            "Taller BMW especializado en Guadarrama. Diagnosis, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto antes de reparar.",
+        ),
+    },
+    'humanes-de-madrid': {
+        'metaDescription': (
+            "Taller BMW especializado cerca de Humanes de Madrid. Diagnosis, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto cerrado antes de reparar.",
+            "Taller BMW especializado cerca de Humanes de Madrid. Diagnosis, mantenimiento, turbo, Valvetronic y caja ZF 8HP. Presupuesto antes de reparar.",
+        ),
+    },
+    'la-garriga': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en la Garriga. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en la Garriga. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'las-rozas-de-madrid': {
+        'metaDescription': (
+            "Taller BMW en Las Rozas de Madrid: diagnosis avanzada, mantenimiento, turbo, caja ZF y Vanos. Recambios homologados y presupuesto cerrado antes de reparar.",
+            "Taller BMW en Las Rozas de Madrid: diagnosis avanzada, mantenimiento, turbo, caja ZF y Vanos. Recambios homologados y presupuesto antes de reparar.",
+        ),
+    },
+    'madrid': {
+        'metaDescription': (
+            "Tu BMW es tu herramienta de trabajo en Madrid. Mantenlo fiable con nuestro servicio especializado para profesionales. Presupuesto cerrado y sin sorpresas.",
+            "Tu BMW es tu herramienta de trabajo en Madrid. Mantenlo fiable con nuestro servicio especializado para profesionales.",
+        ),
+    },
+    'majadahonda': {
+        'metaDescription': (
+            "Taller BMW en Majadahonda. Diagnóstico, mantenimiento, turbo, caja ZF y Vanos. Presupuesto cerrado antes de reparar tu BMW.",
+            "Taller BMW en Majadahonda. Diagnóstico, mantenimiento, turbo, caja ZF y Vanos. Presupuesto antes de reparar tu BMW.",
+        ),
+    },
+    'meco': {
+        'metaDescription': (
+            "Taller especializado en BMW en Meco, Comunidad de Madrid. Diagnosis, mecánica y electrónica con presupuesto claro y garantía en cada reparación.",
+            "Taller especializado en BMW en Meco, Comunidad de Madrid. Diagnosis, mecánica y electrónica con presupuesto claro.",
+        ),
+    },
+    'moralzarzal': {
+        'metaDescription': (
+            "Taller BMW en Moralzarzal, sierra de Madrid. Diagnosis, mecánica y mantenimiento adaptado a la conducción de montaña, con garantía real.",
+            "Taller BMW en Moralzarzal, sierra de Madrid. Diagnosis, mecánica y mantenimiento adaptado a la conducción de montaña.",
+        ),
+    },
+    'navalcarnero': {
+        'metaDescription': (
+            "Taller especializado en BMW en Navalcarnero. Diagnóstico, motor, turbo, caja ZF y electrónica. Presupuesto cerrado y garantía por escrito.",
+            "Taller especializado en BMW en Navalcarnero. Diagnóstico, motor, turbo, caja ZF y electrónica.",
+        ),
+    },
+    'palau-solita-i-plegamans': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en Palau-solità i Plegamans. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en Palau-solità i Plegamans. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'paracuellos-de-jarama': {
+        'metaDescription': (
+            "Taller especialista en BMW en Paracuellos de Jarama. Diagnóstico, revisiones CBS y mecánica. Presupuesto cerrado.",
+            "Taller especialista en BMW en Paracuellos de Jarama. Diagnóstico, revisiones CBS y mecánica. Presupuesto por escrito antes de reparar.",
+        ),
+    },
+    'parets-del-valles': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en Parets del Vallès. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en Parets del Vallès. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'parla': {
+        'metaDescription': (
+            "Taller especializado en BMW en Parla. Diagnóstico, motor, turbo, cajas ZF y electrónica. Presupuesto cerrado y garantía por escrito.",
+            "Taller especializado en BMW en Parla. Diagnóstico, motor, turbo, cajas ZF y electrónica. Presupuesto por escrito antes de reparar.",
+        ),
+    },
+    'pinto': {
+        'metaDescription': (
+            "Taller especializado BMW en Pinto: mantenimiento, frenos, distribución, cajas ZF y diagnosis. Presupuesto cerrado y garantía en cada reparación.",
+            "Taller especializado BMW en Pinto: mantenimiento, frenos, distribución, cajas ZF y diagnosis.",
+        ),
+    },
+    'rivas-vaciamadrid': {
+        'metaDescription': (
+            "Taller BMW especializado en Rivas-Vaciamadrid: mantenimiento, frenos, distribución, cajas ZF y diagnosis. Presupuesto cerrado y garantía real.",
+            "Taller BMW especializado en Rivas-Vaciamadrid: mantenimiento, frenos, distribución, cajas ZF y diagnosis.",
+        ),
+    },
+    'sant-just-desvern': {
+        'metaDescription': (
+            "Tu taller especialista BMW en Sant Just Desvern. Revisión CBS, distribución N47 y averías complejas. Pide tu presupuesto cerrado.",
+            "Tu taller especialista BMW en Sant Just Desvern. Revisión CBS, distribución N47 y averías complejas. Pide tu presupuesto.",
+        ),
+    },
+    'sentmenat': {
+        'metaDescription': (
+            "Tu taller BMW de confianza en Sentmenat. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta y presupuestos cerrados.",
+            "Tu taller BMW de confianza en Sentmenat. Revisiones CBS, reparación especializada y diagnóstico. Garantía intacta.",
+        ),
+    },
+    'torrelodones': {
+        'metaDescription': (
+            "Taller especializado BMW en Torrelodones. Diagnosis, reparación de motor, Vanos, turbo y caja ZF 8HP. Presupuesto cerrado y garantía escrita.",
+            "Taller especializado BMW en Torrelodones. Diagnosis, reparación de motor, Vanos, turbo y caja ZF 8HP.",
+        ),
+    },
+    'tres-cantos': {
+        'metaDescription': (
+            "Tu taller especialista BMW en Tres Cantos. Averías de cadena (N47/B47), turbo y revisiones CBS. Presupuesto cerrado.",
+            "Tu taller especialista BMW en Tres Cantos. Averías de cadena (N47/B47), turbo y revisiones CBS.",
+        ),
+    },
+    'valdemorillo': {
+        'metaDescription': (
+            "Taller BMW para Valdemorillo y la sierra oeste de Madrid: diagnosis, Vanos, turbo, caja ZF 8HP y refrigeración. Presupuesto cerrado. Pide cita.",
+            "Taller BMW para Valdemorillo y la sierra oeste de Madrid: diagnosis, Vanos, turbo, caja ZF 8HP y refrigeración. Pide cita.",
+        ),
+    },
+    'valdemoro': {
+        'metaDescription': (
+            "Taller BMW en Valdemoro: diagnosis, revisión de Vanos, turbo, caja ZF 8HP y refrigeración. Presupuesto cerrado. Pide cita hoy.",
+            "Taller BMW en Valdemoro: diagnosis, revisión de Vanos, turbo, caja ZF 8HP y refrigeración. Pide cita hoy.",
+        ),
+    },
+    'viladecans': {
+        'metaDescription': (
+            "Taller especialista BMW en Viladecans. Diagnóstico, revisión CBS con aceite LL-04 y mecánica para tu Serie 3/5. Pide presupuesto cerrado.",
+            "Taller especialista BMW en Viladecans. Diagnóstico, revisión CBS con aceite LL-04 y mecánica para tu Serie 3/5. Pide presupuesto.",
+        ),
+    },
+
+}
+
+PROHIBIDO_2 = re.compile(
+    r"presupuestos? cerrados?|gratis|garant[ií]a (escrita|por escrito|real|en cada)", re.I)
+
 PROHIBIDO = re.compile(
     r"(?-i:\bISTA\b)|Rheingold|oficial|%|recogida|domicilio|minutos?\b|\bmin\b|ahorr|"
     r"(?-i:\bBMW M\b)|(?-i:\bM\b)|S55|S58|alto rendimiento|coste de concesionario|"
@@ -662,10 +881,27 @@ def comprobar():
                 assert len(despues) >= 90, (slug, len(despues), despues)
 
 
+def comprobar_2():
+    for slug, campos in CAMBIOS_PRESUPUESTO.items():
+        for campo, (antes, despues) in campos.items():
+            assert antes != despues, (slug, campo)
+            assert not PROHIBIDO.search(despues) and not PROHIBIDO_2.search(despues), (slug, campo, despues)
+            assert not re.search(r"\s[,.]|\.\.|,\s*\.|\by\s*\.", despues), (slug, campo, despues)
+            assert campo != "metaDescription" or len(despues) >= 90, (slug, len(despues), despues)
+            previo = CAMBIOS.get(slug, {}).get(campo)
+            assert previo is None or previo[1] == antes, (slug, campo, "no encadena con CAMBIOS")
+
+
 def aplicar():
     comprobar()
+    comprobar_2()
+    _aplicar(CAMBIOS, "CAMBIOS")
+    _aplicar(CAMBIOS_PRESUPUESTO, "CAMBIOS_PRESUPUESTO")
+
+
+def _aplicar(tabla, nombre):
     cambiados = 0
-    for slug, campos in CAMBIOS.items():
+    for slug, campos in tabla.items():
         f = CIUDADES_DIR / f"{slug}.json"
         cj = json.loads(f.read_text("utf-8"))
         tocado = False
@@ -682,7 +918,7 @@ def aplicar():
         if tocado:
             f.write_text(json.dumps(cj, ensure_ascii=False, indent=2) + "\n", "utf-8")
             cambiados += 1
-    print(f"{cambiados} ficheros cambiados de {len(CAMBIOS)}")
+    print(f"{nombre}: {cambiados} ficheros cambiados de {len(tabla)}")
 
 
 if __name__ == "__main__":
