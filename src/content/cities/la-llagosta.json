@@ -3,11 +3,11 @@
   "name": "La Llagosta",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 13820,
+  "population": 13280,
   "lat": 41.51435,
   "lng": 2.19297,
   "metaTitle": "Taller BMW en La Llagosta — Especialista sin perder garantía",
-  "metaDescription": "Taller especialista en BMW en La Llagosta. Mantén la garantía oficial con nuestras revisiones CBS y reparaciones. Ahorra hasta un 50 % frente al concesionario.",
+  "metaDescription": "La Llagosta: ITV a 4,6 km en Santa Perpètua de Mogoda y taller especialista BMW y MINI a 31,8 km por la C-58 y la B-23.",
   "heroSubtitle": "¿Tu BMW aún está en garantía? No tienes por qué pagar de más en el concesionario. Te explicamos cómo ahorrar sin perderla.",
   "trustChips": [
     {
@@ -190,5 +190,127 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "La Llagosta: ITV a 4,6 km y taller especialista BMW a 31,8 km",
+    "entradilla": "En poco más de tres kilómetros cuadrados, La Llagosta reúne 13.280 vecinos y queda rodeada de carreteras. Para quien tiene aquí un BMW, la ITV está casi al lado, en Santa Perpètua de Mogoda, y el taller especialista de la red, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 31.8
+    },
+    "secciones": [
+      {
+        "id": "itv-santa-perpetua",
+        "h2": "La ITV más próxima: CIM Vallès, en Santa Perpètua",
+        "parrafos": [
+          "La estación que el registro de la Generalitat sitúa más cerca por carretera es la ITV CIM Vallès (B20), de TÜV Rheinland, en Santa Perpètua de Mogoda: 4,6 km desde el centro de La Llagosta, 2,6 en línea recta.",
+          "Con la inspección tan a mano, si el coche no tiene nada más pendiente basta con una pre-ITV cerca de casa; si va a pasar por el taller por otro motivo, aprovecha esa visita para revisar luces, frenos y emisiones."
+        ]
+      },
+      {
+        "id": "cinco-carreteras",
+        "h2": "Cinco carreteras a menos de tres kilómetros",
+        "parrafos": [
+          "OpenStreetMap registra cinco carreteras con referencia a menos de tres kilómetros del centro: la C-17 a 0,9 km, la C-33 a 1 km, la C-59 a 1,9, la AP-7 a 2,5 y la B-140 a 2,9.",
+          "Para un BMW diésel es buena noticia: rodar un rato a régimen constante, que es lo que el filtro de partículas necesita para quemar el hollín acumulado, está a la vuelta de la esquina. Si en cambio el coche solo se mueve entre retenciones, con muchas paradas, el desgaste se concentra en embrague, frenos y caja automática."
+        ]
+      },
+      {
+        "id": "ruta-c58",
+        "h2": "31,8 km por la C-58, la B-20 y la B-23",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-58 y cruza por la B-20 hasta la B-23: 31,8 km por carretera, 19,9 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en el carrer Costa i Deu 133 de Sabadell, a 14,3 km por carretera."
+        ]
+      },
+      {
+        "id": "la-llagosta-en-cifras",
+        "h2": "4.383 habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "La Llagosta tenía 13.280 habitantes en 2025, prácticamente los mismos que en 2015 (13.252). Con 3,03 km² de término, salen 4.383 por kilómetro cuadrado. Idescat contaba 5.629 turismos en 2024: 424 por cada 1.000 habitantes.",
+          "En calles densas, el coche pasa mucho tiempo aparcado y se mueve en tramos cortos: buena razón para vigilar la batería, que en un BMW, además, hay que dar de alta en el sistema cuando se cambia."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde La Llagosta?",
+        "a": "En la ITV CIM Vallès (B20) de Santa Perpètua de Mogoda, a 4,6 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en La Llagosta?",
+        "a": "No. La recogida del taller solo cubre el área metropolitana de Barcelona, y La Llagosta queda fuera."
+      },
+      {
+        "q": "¿Por qué hay que dar de alta la batería nueva de un BMW?",
+        "a": "El sistema de gestión de energía adapta la carga al tipo y la edad de la batería que conoce. Si se monta una nueva sin informarle, la sigue tratando como la vieja."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.280 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081056&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.629 · 424 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081056&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 4,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sabadell · 14,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 31,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081056&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Montgat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 10270,
+  "population": 12879,
   "lat": 41.46859,
   "lng": 2.28001,
   "metaTitle": "Taller BMW Montgat — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Montgat. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "Montgat: recogida del coche en el área metropolitana (sujeta a disponibilidad) y taller especialista BMW a 27,9 km. ITV en Badalona.",
   "heroSubtitle": "Mantén tu BMW en Montgat con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -179,5 +179,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Montgat: recogida del BMW dentro del área metropolitana y taller a 27,9 km",
+    "entradilla": "Montgat forma parte del Área Metropolitana de Barcelona, y es lo primero que debe saber quien tiene aquí un BMW o un MINI: el taller de Sant Joan Despí puede recoger y devolver el coche, siempre que haya disponibilidad.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 27.9
+    },
+    "secciones": [
+      {
+        "id": "recoger-en-montgat",
+        "h2": "Que el coche vaya solo al taller",
+        "parrafos": [
+          "Dasercars Barcelona ofrece recogida y entrega del coche dentro del área metropolitana, y vehículo de cortesía para los trabajos largos; ambos, sujetos a disponibilidad. Desde Montgat el taller queda a 27,9 km por la B-20 y la B-23, así que es la opción que más trayecto te ahorra.",
+          "Pídelo al reservar e indica dónde estará el coche. Si prefieres llevarlo tú, la B-20 pasa a 0,3 km del centro."
+        ]
+      },
+      {
+        "id": "entre-la-playa-y-la-c32",
+        "h2": "Un municipio entre la playa y la C-32",
+        "parrafos": [
+          "La C-31 y la C-32 pasan a 0,1 km del centro y la N-II a 0,2; la costa queda a 1,3 km. El salitre trabaja despacio: un coche que pasa años junto al mar acaba mostrando óxido en la tornillería de los bajos, en las grapas del escape y en los anclajes de la matrícula, y sulfato en los bornes de la batería antes que en otros sitios.",
+          "Cuando revises el coche, pide que miren los bajos con el coche elevado: es la única forma de ver el estado real de soportes y tubos."
+        ]
+      },
+      {
+        "id": "oficial-sant-adria",
+        "h2": "Servicio oficial en Sant Adrià, ITV en Badalona",
+        "parrafos": [
+          "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 8,7 km. La ITV más próxima en el registro de la Generalitat es la de Badalona (B02), en el carrer de la Indústria 427-449, a 7,7 km.",
+          "Mantener el coche fuera del concesionario no hace perder la garantía: el Reglamento (UE) 461/2010 solo exige que se respeten los intervalos y especificaciones del fabricante."
+        ]
+      },
+      {
+        "id": "montgat-en-cifras",
+        "h2": "12.879 vecinos en 2,91 km²",
+        "parrafos": [
+          "Montgat tenía 12.879 habitantes en 2025, un 12 % más que en 2015, en un término de 2,91 km²: 4.426 habitantes por kilómetro cuadrado. Idescat contaba 6.126 turismos en 2024, 476 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Montgat?",
+        "a": "Sí, Montgat está dentro del área metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad: pídela al reservar."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima en el registro de la Generalitat es Badalona (B02), a 7,7 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Barcelona Premium, en la calle Juan de Austria 1 de Sant Adrià de Besòs, a 8,7 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "12.879 habitantes (+12 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081265&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "6.126 · 476 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081265&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 1,3 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Badalona (B02) · 7,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Adrià de Besòs · 8,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081265&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

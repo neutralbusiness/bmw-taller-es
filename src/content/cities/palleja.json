@@ -3,11 +3,11 @@
   "name": "Pallejà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 11134,
+  "population": 12006,
   "lat": 41.42394,
   "lng": 1.99505,
   "metaTitle": "Taller BMW M en Pallejà – Especialistas en Rendimiento y Mecánica",
-  "metaDescription": "Mantenimiento y reparación para tu BMW M, M Performance o deportivo en Pallejà. Diagnóstico ISTA y ahorro del 50 % frente al concesionario. Pide presupuesto.",
+  "metaDescription": "Pallejà: taller especialista BMW y MINI a 10,8 km por la A-2, recogida en el área metropolitana sujeta a disponibilidad e ITV en Sant Andreu de la Barca.",
   "heroSubtitle": "¿Cansado de ir hasta Sant Boi o Sant Cugat y pagar de más por un servicio que no entiende la pasión por tu M? Aquí, en Pallejà, hablamos tu idioma.",
   "trustChips": [
     {
@@ -196,5 +196,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Pallejà: el taller especialista BMW a 10,8 km por la A-2",
+    "entradilla": "Desde Pallejà, el taller especialista BMW de la red está a 10,8 km por la A-2, en Sant Joan Despí, más cerca que el concesionario de la marca. Y como Pallejà es área metropolitana, también puedes pedir que lo recojan.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 10.8
+    },
+    "secciones": [
+      {
+        "id": "a2-diez-km",
+        "h2": "La A-2 a medio kilómetro, el taller a 10,8",
+        "parrafos": [
+          "La A-2 pasa a 0,5 km del centro de Pallejà y es, prácticamente, el único tramo de la ruta: 10,8 km por carretera, 8,2 en línea recta, hasta la nave de Dasercars Barcelona en el carrer del Tambor del Bruc 3.",
+          "El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Con esta cercanía, puedes dejar el coche antes de ir a trabajar y pasar a por él a la salida."
+        ]
+      },
+      {
+        "id": "recogida-palleja",
+        "h2": "Si no puedes acercarlo, el taller lo recoge",
+        "parrafos": [
+          "Pallejà forma parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega dentro de ella, igual que vehículo de cortesía para los trabajos de varios días. Las dos cosas están sujetas a disponibilidad: lo mejor es pedirlas en el momento de reservar."
+        ]
+      },
+      {
+        "id": "oficial-itv-palleja",
+        "h2": "Sant Boi y Sant Andreu de la Barca",
+        "parrafos": [
+          "El servicio oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 12,9 km: algo más lejos que el especialista independiente. La ITV que el registro de la Generalitat sitúa más cerca por carretera es Sant Andreu de la Barca (B21), en la N-II, a 8,4 km."
+        ]
+      },
+      {
+        "id": "nudo-de-carreteras",
+        "h2": "Ocho carreteras a menos de tres kilómetros",
+        "parrafos": [
+          "OpenStreetMap cuenta a menos de tres kilómetros del centro la A-2, la N-IIa, la B-23, la B-24, la C-1413a, la N-340, la BV-2002 y la AP-7. Para un diésel con filtro de partículas es una ventaja: las ocasiones de rodar a ritmo sostenido, que es lo que el filtro necesita para limpiarse, sobran.",
+          "Pallejà tenía 12.006 habitantes en 2025, un 6,3 % más que en 2015, y 5.579 turismos en 2024 según Idescat: 465 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto hay de Pallejà a vuestro taller?",
+        "a": "10,8 km por la A-2 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Podéis recoger el coche en Pallejà?",
+        "a": "Sí, dentro del área metropolitana hay recogida y entrega, sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Reparáis MINI?",
+        "a": "Sí. Los MINI comparten electrónica y motores con BMW y se diagnostican con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "12.006 habitantes (+6,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081574&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.579 · 465 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081574&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 8,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Boi · 12,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 10,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081574&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

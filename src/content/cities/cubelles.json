@@ -3,11 +3,11 @@
   "name": "Cubelles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 13711,
+  "population": 17673,
   "lat": 41.20772,
   "lng": 1.67267,
   "metaTitle": "BMW Cubelles — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "Tu taller BMW de confianza en Cubelles. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "metaDescription": "Cubelles, a medio kilómetro del mar: qué vigilar en tu BMW, servicio oficial e ITV en Vilanova i la Geltrú y taller especialista a 43,8 km.",
   "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Cubelles, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
@@ -177,5 +177,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Cubelles: a medio kilómetro del mar y a 43,8 km del taller especialista",
+    "entradilla": "En Cubelles el mar queda a medio kilómetro del centro urbano, y eso pesa en el cuidado de un coche más que la distancia al taller. Lo que tienes a mano está en Vilanova i la Geltrú; el especialista BMW de la red, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 43.8
+    },
+    "secciones": [
+      {
+        "id": "humedad-salina",
+        "h2": "Lo que el aire del mar le hace a un BMW aparcado en la calle",
+        "parrafos": [
+          "Un coche que duerme a pocos cientos de metros de la orilla vive todo el año en un ambiente húmedo y cargado de sal. Los primeros en notarlo suelen ser los discos de freno, que tras unos días sin moverse amanecen con una capa de óxido; después, los soportes y abrazaderas del escape, y las tomas de masa y conectores que quedan bajo el coche o en el vano motor.",
+          "No hace falta obsesionarse. Basta con enjuagar los bajos de vez en cuando, mover el coche si pasa semanas parado y, ante un fallo eléctrico que aparece y desaparece, empezar por los conectores antes de cambiar ninguna pieza."
+        ]
+      },
+      {
+        "id": "vilanova-al-lado",
+        "h2": "Servicio oficial e ITV, los dos en Vilanova",
+        "parrafos": [
+          "En el localizador de BMW España, el punto oficial más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 7,8 km por carretera. La ITV que el registro de la Generalitat sitúa más cerca también está allí: la estación B17 de Applus, en la Ronda Europa, a 8,7 km.",
+          "Para la inspección y para cualquier asunto que tenga que pasar por la marca, no hace falta salir del Garraf."
+        ]
+      },
+      {
+        "id": "c32-b25",
+        "h2": "43,8 kilómetros por la C-32 hasta el Baix Llobregat",
+        "parrafos": [
+          "La C-31 atraviesa el propio municipio y la C-32 pasa a un kilómetro del centro. Desde ahí, la ruta hasta Dasercars Barcelona sigue por la C-32 y la B-25 hasta Sant Joan Despí: 43,8 km por carretera, 36,7 en línea recta.",
+          "Cubelles no pertenece al Área Metropolitana de Barcelona, así que la recogida del coche que hace el taller queda fuera de su alcance. El viaje compensa para una avería que pide un especialista en la marca o para un fallo que se resiste; para cambiar unas escobillas, no."
+        ]
+      },
+      {
+        "id": "cubelles-crece",
+        "h2": "Un 22,6 % más de vecinos que en 2015",
+        "parrafos": [
+          "Cubelles ha pasado de 14.420 habitantes en 2015 a 17.673 en 2025, según el padrón del INE, en un término de solo 13,49 km². Idescat contaba 8.262 turismos en 2024, 467 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Afecta vivir junto al mar a mi BMW?",
+        "a": "Sobre todo a los frenos de un coche que pasa días parado, a los soportes del escape y a los conectores expuestos. Moverlo con regularidad y enjuagar los bajos ayuda."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano a Cubelles?",
+        "a": "Quadis Munich, en Vilanova i la Geltrú, a 7,8 km por carretera según bmw.es."
+      },
+      {
+        "q": "¿Y la ITV?",
+        "a": "La estación B17 de Vilanova i la Geltrú, en la Ronda Europa, a 8,7 km."
+      },
+      {
+        "q": "¿Reparáis también MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "17.673 habitantes (+22,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Garraf",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080749&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "8.262 · 467 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080749&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 0,5 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Vilanova (B17) · 8,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 7,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080749&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

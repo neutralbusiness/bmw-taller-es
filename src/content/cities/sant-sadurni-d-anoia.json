@@ -3,11 +3,11 @@
   "name": "Sant Sadurní d'Anoia",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 12237,
+  "population": 12911,
   "lat": 41.42555,
   "lng": 1.78519,
   "metaTitle": "Taller especializado BMW en Sant Sadurní d'Anoia — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Sant Sadurní d'Anoia? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "Sant Sadurní d'Anoia: taller especialista BMW a 37 km por la AP-7, servicio oficial en Vilanova i la Geltrú e ITV en Olèrdola.",
   "heroSubtitle": "Taller especialista BMW para Sant Sadurní d'Anoia y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -179,5 +179,134 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Sadurní d'Anoia: tu BMW a 37 km del taller especialista por la AP-7",
+    "entradilla": "Sant Sadurní tiene la AP-7 a poco más de un kilómetro, y eso lo marca casi todo: el taller especialista de la red, en Sant Joan Despí, queda a 37 km de autopista, y el servicio oficial BMW más próximo, en Vilanova i la Geltrú, no está mucho más cerca.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 37.0
+    },
+    "secciones": [
+      {
+        "id": "ap7-b23",
+        "h2": "De la AP-7 a la B-23",
+        "parrafos": [
+          "La ruta que traza OpenStreetMap hasta Dasercars Barcelona solo usa dos vías principales: la AP-7, que pasa a 1,1 km del centro, y la B-23 hasta Sant Joan Despí. En total, 37 km por carretera y 23,6 en línea recta.",
+          "Sant Sadurní no está en el Área Metropolitana de Barcelona, así que la recogida del taller no llega. Con una ruta tan directa, si el trabajo es de un día, lo práctico es dejar el coche al abrir y llevártelo al cierre."
+        ]
+      },
+      {
+        "id": "oficial-a-30-km",
+        "h2": "El concesionario más cercano, a 30,5 km en Vilanova",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 30,5 km por carretera. Con distancias tan parecidas al servicio oficial y al especialista independiente, la elección depende del tipo de trabajo, no de la cercanía.",
+          "Si el coche aún está en garantía, hacer las revisiones fuera del concesionario no la pone en riesgo: el Reglamento (UE) 461/2010 lo ampara, con la condición de cumplir el plan de mantenimiento de BMW en intervalos, aceites y recambios."
+        ]
+      },
+      {
+        "id": "itv-olerdola",
+        "h2": "La ITV, en Olèrdola",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Olèrdola (B09), de Applus, en la avinguda de l'Hostal Nou: 13,7 km desde el centro de Sant Sadurní."
+        ]
+      },
+      {
+        "id": "sant-sadurni-en-cifras",
+        "h2": "12.911 vecinos y 6.631 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Sant Sadurní d'Anoia 12.911 habitantes, un 1,7 % más que en 2015. En 2024 había 6.631 turismos censados según Idescat: 514 por cada 1.000 vecinos, en un término de 18,96 km² a 162 metros de altitud.",
+          "Si tu coche hace a diario la AP-7, el desgaste se concentra en neumáticos, frenos delanteros y aceite. El indicador de servicio calcula el cambio según el uso real, y estirarlo no sale a cuenta."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué hay más cerca de Sant Sadurní, vuestro taller o el concesionario?",
+        "a": "El concesionario BMW de Vilanova i la Geltrú, a 30,5 km; nuestro taller está a 37 km, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima en el registro de la Generalitat es Olèrdola (B09), a 13,7 km."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No, la recogida solo cubre el área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI y BMW comparten electrónica y buena parte de los motores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "12.911 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082401&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "6.631 · 514 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082401&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 13,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 30,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 37 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082401&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Caldes de Montbui",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 16885,
+  "population": 18567,
   "lat": 41.63333,
   "lng": 2.16667,
   "metaTitle": "Especialistas BMW en Caldes de Montbui — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en Caldes de Montbui. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "metaDescription": "Taller especialista BMW y MINI para Caldes de Montbui: Dasercars Barcelona, a 44,5 km por la C-59 y la AP-7. Servicio autorizado e ITV más próximos.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Caldes de Montbui? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -180,5 +180,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Caldes de Montbui: taller BMW a 44,5 km por la C-59 y la AP-7",
+    "entradilla": "Desde Caldes, la C-59 pasa a medio kilómetro del centro y es la salida natural hacia cualquier taller. El especialista BMW de la red está en Sant Joan Despí; el servicio autorizado más próximo, en Castellar del Vallès.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 44.5
+    },
+    "secciones": [
+      {
+        "id": "c59-ap7",
+        "h2": "La C-59 como punto de partida",
+        "parrafos": [
+          "La ruta que calcula OpenStreetMap desde el centro de Caldes de Montbui hasta Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, encadena la C-59, la AP-7 y la B-23: 44,5 km de carretera para 31 km en línea recta.",
+          "Caldes no forma parte del Área Metropolitana de Barcelona, y el servicio de recogida del taller no llega hasta aquí: el coche lo traes tú. Lo razonable es reservar el viaje para trabajos que piden conocer la marca —una distribución ruidosa en un diésel N47, una avería eléctrica que nadie ha localizado, poner al día el mantenimiento según el plan de BMW— y resolver cerca lo genérico."
+        ]
+      },
+      {
+        "id": "tallcar-castellar",
+        "h2": "Un taller autorizado BMW a 11,5 km, en Castellar",
+        "parrafos": [
+          "Si lo que necesitas es la red de la marca, la referencia es Tallcar, en la calle Suiza 6 de Castellar del Vallès. El buscador de bmw.es lo identifica como punto solo de taller, sin exposición de venta, a 11,5 km de Caldes por carretera.",
+          "Llevar el mantenimiento a un taller independiente no anula la garantía del fabricante: el Reglamento (UE) 461/2010 lo permite mientras se cumplan los intervalos y las especificaciones del plan de BMW. Para lo que dependa directamente de la marca, Tallcar es lo que te pilla más cerca."
+        ]
+      },
+      {
+        "id": "itv-les-minetes",
+        "h2": "Pasar la ITV: Santa Perpètua de Mogoda, en Les Minetes",
+        "parrafos": [
+          "Los datos abiertos de la Generalitat dan como estación más próxima por carretera la ITV CIM Vallès (B20), que gestiona TÜV Rheinland en el polígono Les Minetes, dentro del Centre Integral de Mercaderies de Santa Perpètua de Mogoda. Son 13,6 km desde el centro de Caldes, 10,8 en línea recta."
+        ]
+      },
+      {
+        "id": "caldes-en-cifras",
+        "h2": "18.567 vecinos y 9.746 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Caldes de Montbui 18.567 habitantes, un 8,6 % más que los 17.098 de 2015, en un término de 37,45 km² a 203 metros de altitud. Idescat, a partir de los datos de la DGT, contaba 9.746 turismos en 2024: 525 por cada 1.000 habitantes.",
+          "El diésel que solo hace recados por el pueblo apenas llega a calentar lo suficiente para que el filtro de partículas se regenere. Si el tuyo avisa de filtro saturado, una salida larga a ritmo constante por la C-59 suele bastar; si el aviso vuelve, toca diagnosticar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el taller BMW que atiende Caldes de Montbui?",
+        "a": "En Sant Joan Despí: Dasercars Barcelona, carrer del Tambor del Bruc 3, a 44,5 km por la C-59, la AP-7 y la B-23."
+      },
+      {
+        "q": "¿Hay algún taller autorizado BMW cerca?",
+        "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 11,5 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima en el registro de la Generalitat es la ITV CIM Vallès (B20), en Santa Perpètua de Mogoda, a 13,6 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "18.567 habitantes (+8,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080333&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "9.746 · 525 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080333&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 13,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller autorizado BMW",
+        "valor": "Tallcar, Castellar del Vallès · 11,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 44,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080333&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
