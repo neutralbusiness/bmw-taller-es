@@ -3,11 +3,11 @@
   "name": "Òdena",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3580,
+  "population": 3760,
   "lat": 41.61784,
   "lng": 1.63284,
   "metaTitle": "Taller BMW Òdena — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Òdena. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "BMW en Òdena: ITV de Igualada a 2,4 km, servicio oficial en Sant Fruitós de Bages y taller especialista de la red a 53,1 km, todo por la A-2.",
   "heroSubtitle": "Mantén tu BMW en Òdena con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -178,5 +178,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Òdena: ITV a 2,4 km y taller especialista BMW a 53 km sin salir de la A-2",
+    "entradilla": "Desde Òdena, la estación ITV de Igualada está prácticamente al lado y el taller de la red se alcanza por una sola autovía. Lo que no tienes cerca es el concesionario, a 35 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 53.1
+    },
+    "secciones": [
+      {
+        "id": "toda-la-a2",
+        "h2": "53,1 km, toda la ruta por la A-2",
+        "parrafos": [
+          "La A-2 pasa a 0,8 km del centro y es el único eje que hace falta: por ella se llega hasta Sant Joan Despí, donde está la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3. Son 53,1 km por carretera y 44 en línea recta.",
+          "Òdena no pertenece al área metropolitana y la recogida del taller no llega. Antes de bajar, apunta cuándo aparece la avería —en frío, en caliente, a qué marcha— y con qué testigo: ese dato ahorra más diagnosis que cualquier otra cosa."
+        ]
+      },
+      {
+        "id": "itv-les-comes",
+        "h2": "La ITV de Igualada, en el polígono Les Comes",
+        "parrafos": [
+          "La estación más próxima por carretera del registro de la Generalitat es ITV Igualada (B12), de Applus, en el carrer Països Baixos 18 del polígono Les Comes: 2,4 km desde el centro de Òdena. Con la inspección tan cerca, una pre-ITV en un taller de la comarca tiene más lógica que bajar a Barcelona solo para eso."
+        ]
+      },
+      {
+        "id": "concesionario-bages",
+        "h2": "El servicio oficial más próximo, en el Bages",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más cercano es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 35 km por carretera. Es el sitio para las campañas de revisión que convoque la marca.",
+          "Para el resto, el Reglamento (UE) 461/2010 deja elegir taller sin perder la garantía siempre que el mantenimiento siga el plan y las especificaciones de BMW."
+        ]
+      },
+      {
+        "id": "odena-en-cifras",
+        "h2": "615 turismos por cada mil vecinos",
+        "parrafos": [
+          "Òdena tenía 3.760 habitantes en 2025 (3.623 en 2015) repartidos en un término amplio, de 52,66 km², a 421 metros. Idescat, con datos de la DGT, contaba 2.312 turismos en 2024: 615 por cada 1.000 habitantes, más del doble que los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Òdena?",
+        "a": "En ITV Igualada (B12), polígono Les Comes, a 2,4 km por carretera."
+      },
+      {
+        "q": "¿Cómo llego al taller?",
+        "a": "Por la A-2 de principio a fin: 53,1 km hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Pierdo la garantía si no voy al concesionario?",
+        "a": "No, mientras el mantenimiento respete los intervalos y especificaciones del plan de BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.760 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081430&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.312 · 615 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081430&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 2,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 35 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 53,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081430&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

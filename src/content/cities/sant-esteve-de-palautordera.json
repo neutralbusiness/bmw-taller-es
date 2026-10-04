@@ -3,11 +3,11 @@
   "name": "Sant Esteve de Palautordera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2555,
+  "population": 3099,
   "lat": 41.71182,
   "lng": 2.42759,
   "metaTitle": "Taller BMW cerca de Sant Esteve de Palautordera | Montseny",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Esteve de Palautordera. Diagnosis oficial y mantenimiento adaptado a la conducción de montaña.",
+  "metaDescription": "BMW en Sant Esteve de Palautordera: ITV en Sant Celoni a 11,2 km, servicio oficial en Mataró y taller especialista de la red a 63,8 km.",
   "heroSubtitle": "Mecánica BMW especializada junto al Montseny",
   "trustChips": [
     {
@@ -166,5 +166,124 @@
   "zoneAccessRoutes": [
     "BV-5114 hacia Sant Celoni",
     "BP-5114 hacia el interior del Montseny"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Esteve de Palautordera: ITV en Sant Celoni y especialista BMW por la AP-7",
+    "entradilla": "Aunque es Vallès Oriental, el concesionario BMW que te queda más cerca está en el Maresme, en Mataró. La ITV sí está a mano, en Sant Celoni, y el taller de la red a 63,8 km por la AP-7.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 63.8
+    },
+    "secciones": [
+      {
+        "id": "itv-gualba",
+        "h2": "La ITV de Sant Celoni, en la carretera de Gualba",
+        "parrafos": [
+          "La estación más próxima por carretera del registro de la Generalitat es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43, a 11,2 km. Si la inspección se acerca y el coche tiene algún testigo encendido, resuélvelo antes: un fallo de emisiones o de airbag es motivo de desfavorable."
+        ]
+      },
+      {
+        "id": "mataro-al-otro-lado",
+        "h2": "El servicio oficial, al otro lado: Mataró",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 32,7 km por carretera y 20,8 en línea recta. Para lo que dependa de la garantía de BMW, esa es la dirección.",
+          "Para el mantenimiento habitual y las averías fuera de garantía, la alternativa es un taller independiente especializado. Trabajamos BMW y MINI con presupuesto por escrito, y la diagnosis también se presupuesta antes de empezar."
+        ]
+      },
+      {
+        "id": "bv5301-ap7",
+        "h2": "63,8 km: BV-5301, AP-7, C-33 y B-20",
+        "parrafos": [
+          "La BV-5301 pasa a 1,3 km del centro y lleva a la AP-7; desde ahí, C-33 y B-20 hasta la nave de Dasercars Barcelona en Sant Joan Despí. Son 63,8 km por carretera, 49 en línea recta. No hay recogida: el municipio queda fuera del área metropolitana."
+        ]
+      },
+      {
+        "id": "crecimiento",
+        "h2": "Un 20,7 % más de vecinos que en 2015",
+        "parrafos": [
+          "El padrón pasó de 2.568 habitantes en 2015 a 3.099 en 2025, en un término de 10,64 km² a 231 metros. Idescat contaba 1.428 turismos en 2024 a partir de la DGT: 461 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Sant Celoni (B26), carretera de Gualba 41-43, a 11,2 km por carretera."
+      },
+      {
+        "q": "¿Por qué el concesionario más cercano está en Mataró?",
+        "a": "Porque es el punto oficial BMW más próximo en el localizador de bmw.es: 32,7 km por carretera."
+      },
+      {
+        "q": "¿Puedo pasar la ITV con un testigo encendido?",
+        "a": "Depende del testigo, pero los de emisiones, airbag o frenos suelen acabar en desfavorable: mejor diagnosticarlos antes."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.099 habitantes (+20,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082074&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.428 · 461 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082074&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 11,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Mataró) · 32,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 63,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082074&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

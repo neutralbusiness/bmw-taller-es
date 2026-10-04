@@ -3,7 +3,7 @@
   "name": "Santa Susanna",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3338,
+  "population": 4099,
   "lat": 41.6543,
   "lng": 2.6902,
   "metaTitle": "Taller BMW en Santa Susanna | Costa Maresme, sal y turismo",
@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Susanna: un BMW a 1,8 km del mar y el taller especialista a 70 km",
+    "entradilla": "Con el centro a menos de dos kilómetros de la playa y la ITV en Blanes, lo que más condiciona a un BMW de Santa Susanna es el aire del mar. El taller de la red queda lejos, a 69,9 km, y te explicamos cuándo merece la pena el viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 69.9
+    },
+    "secciones": [
+      {
+        "id": "aire-salino",
+        "h2": "1,8 km de costa: dónde ataca primero la sal",
+        "parrafos": [
+          "El núcleo urbano está a 1,8 km de la línea de costa. La humedad salina no se ve, pero trabaja todo el año sobre las piezas metálicas sin pintar: soportes del escape, abrazaderas, tornillería de los bajos y latiguillos de freno. Si el coche duerme en la calle, revísalas cada vez que esté en el elevador.",
+          "Los discos son el otro punto sensible. Un coche que pasa una semana sin moverse cerca del mar amanece con una capa de óxido que suele desaparecer en las primeras frenadas; si en lugar de eso aparece vibración en el pedal, el disco se ha marcado y conviene medirlo."
+        ]
+      },
+      {
+        "id": "blanes-y-mataro",
+        "h2": "ITV en Blanes, servicio oficial en Mataró",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Blanes (G07), en la avinguda de l'Estació 47, a 9,7 km. El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 32,7 km: ahí van las campañas del fabricante y las reparaciones cubiertas por la garantía de BMW."
+        ]
+      },
+      {
+        "id": "n2-c32-b20",
+        "h2": "69,9 km por la N-II, la C-32 y la B-20",
+        "parrafos": [
+          "Hasta la nave de Dasercars Barcelona, en Sant Joan Despí, se baja por la N-II, que pasa a 0,6 km del centro, se sigue por la C-32 y se termina por la B-20: 69,9 km por carretera, 62 en línea recta. Santa Susanna no está en el área metropolitana, así que la recogida del taller no llega aquí.",
+          "Con esa distancia, el viaje encaja para una avería que se resiste, un testigo eléctrico intermitente —los conectores corroídos son sospechosos habituales en la costa— o el mantenimiento de un diésel N47 o B47 por el plan de marca. Para unas pastillas, mejor un taller del Maresme."
+        ]
+      },
+      {
+        "id": "un-cuarto-mas",
+        "h2": "Un 25,2 % más de vecinos que en 2015",
+        "parrafos": [
+          "Santa Susanna ha pasado de 3.275 habitantes en 2015 a 4.099 en 2025, según el padrón. En 2024 tenía 1.984 turismos censados (Idescat a partir de la DGT), 484 por cada 1.000 vecinos, en un término de 12,63 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Santa Susanna?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Blanes (G07), en la avinguda de l'Estació 47, a 9,7 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Santa Susanna?",
+        "a": "No. La recogida del taller se limita al área metropolitana de Barcelona."
+      },
+      {
+        "q": "¿Cada cuánto conviene lavar los bajos si vivo junto al mar?",
+        "a": "Después del verano y siempre que el coche haya estado mucho tiempo parado cerca de la playa, con agua dulce y sin presión excesiva sobre conectores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.099 habitantes (+25,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082613&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.984 · 484 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082613&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "1,8 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Blanes (G07) · 9,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 69,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082613&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

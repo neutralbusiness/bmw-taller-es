@@ -3,11 +3,11 @@
   "name": "Santa Oliva",
   "province": "Tarragona",
   "ccaa": "Cataluña",
-  "population": 3322,
+  "population": 3711,
   "lat": 41.25424,
   "lng": 1.53428,
   "metaTitle": "Taller BMW en Santa Oliva | Baix Penedès",
-  "metaDescription": "Taller especializado BMW en Santa Oliva, Baix Penedès. Diagnosis con equipo original, mecánica y mantenimiento con garantía escrita.",
+  "metaDescription": "BMW en Santa Oliva: ITV del Baix Penedès en Bellvei, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 62,6 km.",
   "heroSubtitle": "Especialistas BMW junto a El Vendrell",
   "trustChips": [
     {
@@ -171,5 +171,125 @@
   "zoneAccessRoutes": [
     "AP-7 salida El Vendrell",
     "N-340 alternativa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Oliva: seis carreteras alrededor y el taller BMW a 62,6 km",
+    "entradilla": "La AP-7, la AP-2 y la N-340 pasan a menos de tres kilómetros del centro de Santa Oliva. Es provincia de Tarragona, pero el taller especialista que te atiende está en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 62.6
+    },
+    "secciones": [
+      {
+        "id": "nudo-de-carreteras",
+        "h2": "AP-7, AP-2 y N-340 a la puerta",
+        "parrafos": [
+          "En un radio de tres kilómetros desde el centro pasan la TP-2125 (0,6 km), la AP-7 (1,2), la AP-2 (1,9), la N-340 (2,2), la C-51 (2,5) y la TV-2126 (2,6). Para un diésel, tener autopista tan cerca es una ventaja: un tramo a velocidad constante de vez en cuando permite que el filtro de partículas complete su regeneración."
+        ]
+      },
+      {
+        "id": "itv-els-massets",
+        "h2": "ITV en Bellvei, a 5,3 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la del Baix Penedès (T07), de Itevelesa, en el polígono Els Massets de Bellvei: 5,3 km por carretera, 2,4 en línea recta."
+        ]
+      },
+      {
+        "id": "ruta-y-oficial",
+        "h2": "Hasta Sant Joan Despí por la C-32, o a Vilanova por lo oficial",
+        "parrafos": [
+          "La ruta al taller sale por la TP-2125, toma la C-31 y la C-32 y termina por la B-25: 62,6 km por carretera y 44,6 en línea recta. Santa Oliva no está en el área metropolitana de Barcelona, así que el coche lo traes tú.",
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 27,2 km. Para una reparación cubierta por la garantía de BMW, es la referencia."
+        ]
+      },
+      {
+        "id": "antes-de-bajar",
+        "h2": "Antes de hacer 62,6 kilómetros",
+        "parrafos": [
+          "Llama con el modelo, el año y lo que notas. Con el bastidor se identifica la referencia exacta de cada recambio y, si el trabajo lo requiere, se pide antes de que llegue el coche. El presupuesto lo tienes por escrito y nada empieza sin que lo apruebes.",
+          "El municipio tenía 3.711 habitantes en 2025, un 13 % más que en 2015, y 2.254 turismos en 2024 según Idescat a partir de la DGT: 607 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está la ITV más cercana a Santa Oliva?",
+        "a": "En el polígono Els Massets de Bellvei: estación Baix Penedès (T07), a 5,3 km por carretera."
+      },
+      {
+        "q": "¿Por qué me atiende un taller de Barcelona si estoy en Tarragona?",
+        "a": "Porque el taller de la red más próximo es Dasercars Barcelona, en Sant Joan Despí, a 62,6 km."
+      },
+      {
+        "q": "¿Recogéis el coche?",
+        "a": "No en Santa Oliva: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.711 habitantes (+13 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431401&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.254 · 607 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=431401&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Baix Penedès (T07), Bellvei · 5,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vilanova i la Geltrú) · 27,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 62,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=431401&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

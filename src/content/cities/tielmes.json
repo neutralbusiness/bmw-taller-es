@@ -3,11 +3,11 @@
   "name": "Tielmes",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 2604,
+  "population": 2964,
   "lat": 40.23587,
   "lng": -3.30071,
   "metaTitle": "Taller BMW en Tielmes | Mecánica especializada en el sureste de Madrid",
-  "metaDescription": "Taller BMW para Tielmes y la comarca de las Vegas. Diagnosis con equipo original, motor, turbo y caja ZF. Presupuesto cerrado, garantía por escrito.",
+  "metaDescription": "BMW en Tielmes: ITV en Villarejo de Salvanés, servicio oficial en la A-3 y taller especialista de la red en Alcobendas, a 58,9 km.",
   "heroSubtitle": "El taller BMW especializado más cercano para los vecinos de Tielmes",
   "trustChips": [
     {
@@ -174,5 +174,123 @@
     "A-3 hacia Madrid",
     "R-3 de peaje",
     "Carretera M-828 de conexión comarcal"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Tielmes: ITV en Villarejo de Salvanés y taller BMW a 58,9 km por la A-3",
+    "entradilla": "La M-204 atraviesa Tielmes y la A-3 queda a menos de tres kilómetros. Por esa autovía se llega tanto al servicio oficial BMW como, después de cruzar Madrid, al taller especialista de Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 58.9
+    },
+    "secciones": [
+      {
+        "id": "itv-villarejo",
+        "h2": "La ITV que te queda más cerca, en Villarejo",
+        "parrafos": [
+          "En el listado de la Comunidad de Madrid, la estación más próxima por carretera es la de General de Servicios ITV (estación 2853), en la avenida Juan Carlos I Rey de España 13 de Villarejo de Salvanés: 12 km."
+        ]
+      },
+      {
+        "id": "a3-oficial",
+        "h2": "Servicio oficial en la carretera de Valencia",
+        "parrafos": [
+          "Según bmw.es, el punto oficial BMW más cercano es AutoPremier, en la carretera de Valencia, km 7,3, ya en Madrid: 38,4 km. Para una avería en garantía, ese es el sitio.",
+          "Fuera de eso, el mantenimiento lo puedes hacer donde prefieras sin perder la garantía, siempre que se cumpla el plan de BMW: intervalos, aceite con la homologación del motor y recambios de calidad equivalente. Lo ampara el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "hasta-alcobendas",
+        "h2": "58,9 km: M-204, A-3, M-30 y A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la M-204, sigue la A-3 hasta Madrid, cruza por la M-30 y termina por la A-1: 58,9 km por carretera, 43,2 en línea recta.",
+          "Es un trayecto largo para un cambio de aceite, pero razonable para un diésel con problemas de filtro de partículas o de AdBlue, una caja automática que da tirones o un aviso que vuelve tras cada borrado."
+        ]
+      },
+      {
+        "id": "tielmes-en-cifras",
+        "h2": "563 turismos por cada mil vecinos",
+        "parrafos": [
+          "Tielmes tenía 2.964 habitantes en 2025, un 14,7 % más que los 2.585 de 2015, y 1.668 turismos censados en 2025 según la Comunidad de Madrid a partir de la DGT: 563 por cada 1.000. Además de la M-204, pasan cerca la M-228, la M-302 y la N-IIIa. El casco está a 715 metros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Tielmes?",
+        "a": "En la estación 2853, avenida Juan Carlos I Rey de España 13, Villarejo de Salvanés, a 12 km por carretera."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "AutoPremier, en la carretera de Valencia, km 7,3 (Madrid), a 38,4 km según bmw.es."
+      },
+      {
+        "q": "¿Puedo hacer las revisiones fuera del concesionario estando en garantía?",
+        "a": "Sí, siempre que se respeten intervalos y especificaciones del plan de mantenimiento de BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.964 habitantes (+14,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "1.668 · 563 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Estación 2853, Villarejo de Salvanés · 12 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, ctra. de Valencia km 7,3 · 38,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 58,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

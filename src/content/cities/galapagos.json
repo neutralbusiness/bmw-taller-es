@@ -3,11 +3,11 @@
   "name": "Galápagos",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 2246,
+  "population": 2802,
   "lat": 40.70861,
   "lng": -3.3476,
   "metaTitle": "Taller BMW en Gálapagos | Mecánica especializada Guadalajara",
-  "metaDescription": "Taller BMW en Gálapagos, corredor A-1 de Guadalajara. Diagnosis oficial, turbo y caja automática ZF. Servicio con recogida coordinada. Presupuesto gratis.",
+  "metaDescription": "BMW en Galápagos (Guadalajara): concesionario en Guadalajara, a 23,8 km, y el taller especialista de la red en Alcobendas, a 44,9 km.",
   "heroSubtitle": "Taller BMW en Gálapagos, en el corredor de la A-1 hacia Guadalajara",
   "trustChips": [
     {
@@ -174,5 +174,116 @@
     "A-1 hacia Madrid",
     "A-1 hacia Guadalajara capital",
     "GU-107 como acceso local"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Galápagos: tu BMW entre la N-320 y la A-1, con el especialista a 44,9 km",
+    "entradilla": "Para un BMW o un MINI de Galápagos hay dos destinos posibles según lo que le pase: AutoPremier, en la capital alcarreña, a 23,8 km, o la nave de Dasercars en Alcobendas, a 44,9. Te explicamos qué va a cada sitio.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 44.9
+    },
+    "secciones": [
+      {
+        "id": "que-va-a-cada-sitio",
+        "h2": "Garantía en Guadalajara, especialidad en Alcobendas",
+        "parrafos": [
+          "AutoPremier, en el Paseo de la Estación 23 de Guadalajara, es el punto oficial BMW más próximo que da el localizador de bmw.es. Lo que paga la garantía del fabricante se tramita allí, y está a la mitad de distancia que nuestro taller.",
+          "Lo que tiene sentido llevar a un independiente es otra cosa: el mantenimiento cuando el coche ya no está en garantía, un segundo diagnóstico antes de aceptar una reparación cara o una avería concreta de la marca. No somos el concesionario ni trabajamos para él."
+        ]
+      },
+      {
+        "id": "seis-carreteras",
+        "h2": "GU-1056, N-320, GU-193 y tres carreteras madrileñas",
+        "parrafos": [
+          "El camino hasta la calle Valgrande 17 empieza por la GU-1056, enlaza con la N-320 —a 2,7 km del centro— y con la GU-193, y ya en la Comunidad de Madrid encadena la M-117, la M-111 y la M-100 antes de la A-1. En total, 44,9 km por carretera y 31,4 en línea recta.",
+          "Al no estar en el área metropolitana de Madrid, Galápagos queda fuera de la recogida del taller."
+        ]
+      },
+      {
+        "id": "trabajos-que-compensan",
+        "h2": "Trabajos que compensan los 44,9 km",
+        "parrafos": [
+          "Un diésel N47 o N57 con ruido de cadena, un aviso de AdBlue con la cuenta atrás en marcha, un fallo de emisiones (el taller tiene homologación REDISTA para escape y gases) o un mantenimiento por plan de marca con el indicador de servicio reiniciado. Un pinchazo o unas escobillas los resuelve cualquier taller cercano.",
+          "Desde aquí ayuda mucho describir el síntoma por teléfono: cuándo aparece, en frío o en caliente, y qué testigo se enciende."
+        ]
+      },
+      {
+        "id": "galapagos-en-cifras",
+        "h2": "De 2.368 a 2.802 vecinos",
+        "parrafos": [
+          "El padrón de 2025 da a Galápagos 2.802 habitantes, un 18,3 % más que en 2015. El término mide 33,7 km² y el casco está a 764 metros: en invierno, batería y anticongelante son lo primero que conviene mirar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué hago con una reparación en garantía?",
+        "a": "Llevarla al servicio oficial: el más cercano según bmw.es es AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 23,8 km."
+      },
+      {
+        "q": "¿Por qué carreteras se llega a vuestro taller?",
+        "a": "GU-1056, N-320, GU-193, M-117, M-111, M-100 y A-1: 44,9 km hasta Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis también MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.802 habitantes · 2.368 en 2015",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Término municipal",
+        "valor": "33,7 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "764 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Concesionario BMW más cercano",
+        "valor": "AutoPremier, Paseo de la Estación 23 · 23,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Dasercars Madrid (Alcobendas)",
+        "valor": "44,9 km por carretera",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

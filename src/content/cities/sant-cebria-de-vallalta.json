@@ -3,7 +3,7 @@
   "name": "Sant Cebrià de Vallalta",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3337,
+  "population": 3872,
   "lat": 41.6317,
   "lng": 2.6069,
   "metaTitle": "Taller BMW en Sant Cebrià de Vallalta | Interior Maresme",
@@ -183,5 +183,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Cebrià de Vallalta: un BMW a 3,2 km del mar y a 61,2 del taller",
+    "entradilla": "A 3,2 km del mar pero ya en el interior del Maresme, Sant Cebrià tiene una particularidad: la ITV de referencia está a 11,6 km en línea recta y casi al doble por carretera. El taller de la red, a 61,2 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 61.2
+    },
+    "secciones": [
+      {
+        "id": "itv-sant-celoni",
+        "h2": "La ITV de Sant Celoni: cerca en el mapa, no tanto al volante",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43. En línea recta está a 11,6 km; por carretera, a 22,4: casi el doble.",
+          "Por eso conviene llegar a la inspección con el coche revisado: repetir el viaje por un defecto leve de luces o de neumáticos sale caro en tiempo."
+        ]
+      },
+      {
+        "id": "humedad-a-3-km",
+        "h2": "Tres kilómetros del mar, más humedad que sal",
+        "parrafos": [
+          "El centro queda a 3,2 km de la costa. Es menos que primera línea, pero suficiente para que la humedad marina acelere la corrosión de lo que no está protegido: escape, anclajes y algunos conectores de los bajos. Una revisión visual de esas zonas cuando el coche pasa por un cambio de aceite cuesta poco."
+        ]
+      },
+      {
+        "id": "c32-hasta-sant-joan",
+        "h2": "Por la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "La C-32 pasa a 1,6 km del centro y es casi toda la ruta: C-32 y B-20 hasta el carrer del Tambor del Bruc 3, 61,2 km por carretera y 52,9 en línea recta. El municipio no forma parte del área metropolitana, así que la recogida del taller no llega.",
+          "El servicio oficial BMW más cercano según bmw.es está a 24 km: Pruna Motor, en la Via Sèrgia 2 de Mataró. Nosotros somos la opción independiente, especializada en BMW y MINI."
+        ]
+      },
+      {
+        "id": "sant-cebria-en-cifras",
+        "h2": "3.872 vecinos y 1.907 turismos",
+        "parrafos": [
+          "El padrón de 2025 da 3.872 habitantes, un 16,4 % más que los 3.326 de 2015, en 15,8 km² a 71 metros de altitud. Idescat contaba 1.907 turismos en 2024 a partir de la DGT: 493 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me corresponde desde Sant Cebrià?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 22,4 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 24 km según bmw.es."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW: comparten electrónica y buena parte de los motores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.872 habitantes (+16,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082037&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.907 · 493 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082037&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 22,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Mataró) · 24 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 61,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082037&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

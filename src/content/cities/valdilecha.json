@@ -3,11 +3,11 @@
   "name": "Valdilecha",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 2840,
+  "population": 3289,
   "lat": 40.29475,
   "lng": -3.29717,
   "metaTitle": "Taller BMW cerca de Valdilecha | Sureste de Madrid",
-  "metaDescription": "Servicio BMW para Valdilecha: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible. Pide cita.",
+  "metaDescription": "BMW en Valdilecha: ITV en Arganda del Rey, servicio oficial en Alcalá de Henares y taller especialista de la red en Alcobendas, a 55,1 km.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdilecha, en el sureste de la Comunidad de Madrid.",
   "trustChips": [
     {
@@ -167,5 +167,123 @@
     "M-213",
     "A-3",
     "Carretera de Arganda"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Valdilecha y su BMW: Arganda para la ITV, Alcobendas para el especialista",
+    "entradilla": "Desde la comarca del Tajuña, todo lo que tiene que ver con un BMW obliga a coger la carretera. La ITV más próxima está en Arganda del Rey, el servicio oficial en Alcalá de Henares y el taller de la red en Alcobendas, a 55,1 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 55.1
+    },
+    "secciones": [
+      {
+        "id": "itv-arganda",
+        "h2": "La ITV, en el camino de San Martín de la Vega",
+        "parrafos": [
+          "La estación más próxima por carretera en el listado de la Comunidad de Madrid es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8 de Arganda del Rey: 16,2 km por carretera, 13,3 en línea recta."
+        ]
+      },
+      {
+        "id": "a3-m30-a1",
+        "h2": "Por la A-3 y la M-30 hasta la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la M-229, que pasa a medio kilómetro del centro, toma la N-IIIa y la A-3 hacia Madrid, cruza por la M-30 y sale por la A-1: 55,1 km por carretera, 40,3 en línea recta.",
+          "Para un viaje así, conviene que el trabajo esté definido antes de salir: con el modelo, el año y el síntoma se puede orientar el problema, y si hace falta una pieza concreta, tenerla el día de la cita."
+        ]
+      },
+      {
+        "id": "alcala-garantia",
+        "h2": "Servicio oficial en Alcalá y la garantía",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es AutoPremier, en la calle Argentina 7 del polígono La Garena de Alcalá de Henares, a 28,4 km. Allí se tramitan las reparaciones que paga la garantía de BMW.",
+          "Las revisiones periódicas, en cambio, no tienen por qué hacerse allí: la normativa europea permite hacerlas en un taller independiente sin perder la garantía, con los intervalos y los recambios que marca el fabricante."
+        ]
+      },
+      {
+        "id": "valdilecha-en-cifras",
+        "h2": "Un 15,9 % más de vecinos en diez años",
+        "parrafos": [
+          "Valdilecha pasó de 2.838 habitantes en 2015 a 3.289 en 2025. La Comunidad de Madrid, a partir de la DGT, contaba 1.733 turismos en 2025: 527 por cada 1.000 vecinos. El término es amplio, 42,3 km², y el casco está a 674 metros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Valdilecha?",
+        "a": "La más próxima por carretera es la estación 2807, en el camino de San Martín de la Vega 8 de Arganda del Rey, a 16,2 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "AutoPremier, en el polígono La Garena de Alcalá de Henares, a 28,4 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "55,1 km por la A-3, la M-30 y la A-1, hasta la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.289 habitantes (+15,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "1.733 · 527 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Estación 2807, Arganda del Rey · 16,2 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier (Alcalá de Henares) · 28,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 55,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

@@ -3,11 +3,11 @@
   "name": "Caldes d'Estrac",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2773,
+  "population": 3356,
   "lat": 41.57088,
   "lng": 2.52703,
   "metaTitle": "Taller BMW en Caldes d'Estrac | Maresme | Cita previa",
-  "metaDescription": "Especialistas en BMW cerca de Caldes d'Estrac. Diagnosis, mantenimiento y reparación de motor, turbo y caja automática. Atendemos todo el Maresme.",
+  "metaDescription": "BMW en Caldes d'Estrac: el coche a menos de un kilómetro del mar, servicio oficial en Mataró y taller especialista de la red a 51,8 km por la C-32.",
   "heroSubtitle": "Taller de confianza para los BMW de Caldes d'Estrac y la costa del Maresme.",
   "trustChips": [
     {
@@ -170,5 +170,129 @@
     "N-II (Barcelona-Girona)",
     "C-32 Maresme (salida Sant Vicenç/Caldetes)",
     "Línea R1 Rodalies (para dejar el coche y volver en tren)"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Caldes d'Estrac: un BMW en menos de un kilómetro cuadrado junto al mar",
+    "entradilla": "El término de Caldes d'Estrac mide 0,88 km² y el centro está a 0,9 km de la costa. Para un coche, eso significa sal todo el año. El concesionario está en Mataró y el taller especialista de la red, a 51,8 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 51.8
+    },
+    "secciones": [
+      {
+        "id": "primera-linea",
+        "h2": "Coche de primera línea: lo que hay que vigilar",
+        "parrafos": [
+          "Con el mar a 0,9 km y la mayoría de coches aparcados en la calle, la corrosión no es una posibilidad sino un proceso. Lo primero que lo acusa es lo que va por debajo: escape, sus anclajes, abrazaderas y protecciones de los bajos. Lo segundo, la electricidad: un conector sulfatado puede dar un testigo que aparece y desaparece sin patrón aparente.",
+          "Dos hábitos ayudan mucho: aclarar los bajos con agua dulce después del verano y mover el coche si va a estar días parado, para que los discos no se queden marcados por el óxido."
+        ]
+      },
+      {
+        "id": "mataro-al-lado",
+        "h2": "Mataró a 10,7 km; la ITV, en Argentona",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 10,7 km por carretera. La estación ITV más próxima por carretera del registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 14,2 km."
+        ]
+      },
+      {
+        "id": "c32-al-taller",
+        "h2": "Por la C-32 hasta Sant Joan Despí",
+        "parrafos": [
+          "La N-II cruza el pueblo a 0,2 km del centro y la C-32 queda a 0,8. Por la C-32 y la B-20 se llega a la nave de Dasercars Barcelona: 51,8 km por carretera, 44,8 en línea recta. Caldes no está dentro del área metropolitana, así que la recogida del coche no llega.",
+          "Si vas a hacer el viaje por una avería concreta, describe por teléfono qué pasa y cuándo; con un BMW o un MINI de costa, revisar los conectores suele ser parte del diagnóstico."
+        ]
+      },
+      {
+        "id": "densidad",
+        "h2": "3.814 habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "En 2025 vivían en Caldes 3.356 personas, un 23,5 % más que las 2.717 de 2015. En un término tan pequeño eso da 3.814 habitantes por km². Idescat contaba 1.679 turismos en 2024 a partir de la DGT: 500 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 10,7 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Argentona (B08), en el polígono El Cros, a 14,2 km por carretera."
+      },
+      {
+        "q": "¿Por qué falla la electricidad de los coches cerca del mar?",
+        "a": "La humedad salina sulfata los conectores expuestos, y un mal contacto produce avisos intermitentes que no siempre dejan un error claro."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.356 habitantes (+23,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "0,88 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.679 · 500 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080327&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "0,9 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Mataró) · 10,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 51,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080327&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

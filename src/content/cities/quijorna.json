@@ -3,11 +3,11 @@
   "name": "Quijorna",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 3357,
+  "population": 4044,
   "lat": 40.4154,
   "lng": -4.05938,
   "metaTitle": "Taller BMW cerca de Quijorna | Zona oeste de Madrid",
-  "metaDescription": "Servicio BMW para Quijorna: recogida a domicilio, diagnosis con equipo original y reparación en el taller de referencia de la zona oeste de Madrid.",
+  "metaDescription": "BMW en Quijorna: servicio oficial en Majadahonda, ITV en la M-506 y el taller especialista de la red en Alcobendas, a 51,3 km por la M-40 y la A-1.",
   "heroSubtitle": "Zona oeste de Madrid, mecánica BMW sin desplazarte a la capital",
   "trustChips": [
     {
@@ -170,5 +170,119 @@
     "M-513 hacia Boadilla del Monte",
     "M-600 hacia Villaviciosa de Odón",
     "A-5 hacia Madrid capital"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Quijorna: del oeste de Madrid al taller BMW de Alcobendas, 51,3 km",
+    "entradilla": "En diez años Quijorna ha pasado de 3.196 a 4.044 vecinos, y el coche es casi obligatorio. Lo que te queda cerca está en Majadahonda y Alcorcón; el taller especialista de la red, al otro lado de la M-40.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 51.3
+    },
+    "secciones": [
+      {
+        "id": "majadahonda-alcorcon",
+        "h2": "Concesionario en Majadahonda, ITV en la M-506",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo es Movilnorte, en la calle Fresa 13 de Majadahonda (El Carralero), a 23 km por carretera. La estación ITV más cercana por carretera en el listado de la Comunidad de Madrid es la de ITV Villaviciosa (estación 2871), en la M-506, punto kilométrico 4,200, término de Alcorcón: 21,8 km.",
+          "Están a una distancia parecida pero en direcciones distintas, así que no esperes resolver las dos cosas en el mismo viaje."
+        ]
+      },
+      {
+        "id": "m40-hacia-el-norte",
+        "h2": "M-521, M-503 y M-40 hasta la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la M-521, que pasa a cien metros del centro, enlaza con la M-600 y la M-503 y rodea Madrid por la M-40 hasta la A-1: 51,3 km por carretera, 36,4 en línea recta.",
+          "El taller tiene recogida y entrega del coche dentro del área metropolitana de Madrid, siempre sujeta a disponibilidad. Desde aquí, confírmalo al pedir cita antes de contar con ello."
+        ]
+      },
+      {
+        "id": "cuando-merece",
+        "h2": "Qué tipo de trabajo justifica el viaje",
+        "parrafos": [
+          "Un cambio de neumáticos no. Lo que suele justificarlo es un problema que pide conocer la marca: un diésel de la familia N47 o B47 con ruido de distribución, una caja automática que da tirones, o una avería eléctrica que vuelve después de borrar los errores. El taller tiene además homologación REDISTA para escape y gases."
+        ]
+      },
+      {
+        "id": "quijorna-en-cifras",
+        "h2": "2.225 turismos para 4.044 vecinos",
+        "parrafos": [
+          "El padrón pasó de 3.196 habitantes en 2015 a 4.044 en 2025, un 26,5 % más. La Comunidad de Madrid, a partir de la DGT, contaba 2.225 turismos en 2025: 550 por cada 1.000 habitantes. El término ocupa 25,5 km² a 591 metros de altitud, con la M-521 y la M-522 pegadas al casco."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el concesionario BMW más cercano a Quijorna?",
+        "a": "Movilnorte, en la calle Fresa 13 de Majadahonda, a 23 km según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más cercana por carretera en el listado oficial es la de ITV Villaviciosa, en la M-506, km 4,200 (Alcorcón), a 21,8 km."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 51,3 km, en la calle Valgrande 17 de Alcobendas, por la M-40 y la A-1."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.044 habitantes (+26,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "2.225 · 550 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "ITV Villaviciosa, M-506 km 4,2 (Alcorcón) · 21,8 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Majadahonda) · 23 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 51,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

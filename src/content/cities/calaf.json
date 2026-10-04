@@ -3,11 +3,11 @@
   "name": "Calaf",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3538,
+  "population": 3644,
   "lat": 41.73161,
   "lng": 1.51131,
   "metaTitle": "BMW Calaf — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "Tu taller BMW de confianza en Calaf. Revisiones CBS, reparación especializada y diagnóstico ISTA. Garantía intacta y presupuestos cerrados.",
+  "metaDescription": "BMW en Calaf: servicio oficial en Tàrrega, ITV en Igualada y el taller especialista de la red en Sant Joan Despí, a 78,1 km por la A-2.",
   "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Calaf, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
@@ -178,5 +178,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calaf: el concesionario BMW más cercano está en Tàrrega, el taller a 78 km",
+    "entradilla": "Desde Calaf, nada de lo relacionado con BMW queda a menos de 27,4 km. El servicio oficial más próximo ni siquiera está en la provincia de Barcelona. Así se organiza el mantenimiento desde aquí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 78.1
+    },
+    "secciones": [
+      {
+        "id": "tarrega-igualada",
+        "h2": "Tàrrega para el concesionario, Igualada para la ITV",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más próximo a Calaf es Unicars Ponent, en el carrer de la Conca de Barberà (nave 6) de Tàrrega, a 34,4 km por carretera. La estación ITV más próxima por carretera en el registro de la Generalitat es la de Igualada (B12), en el polígono Les Comes, a 27,4 km.",
+          "Las dos están en direcciones opuestas, así que cada visita es un viaje propio."
+        ]
+      },
+      {
+        "id": "a2-hasta-el-taller",
+        "h2": "78,1 km por la C-1412a y la A-2",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona, en Sant Joan Despí, baja por la C-1412a hasta la A-2 y ya no la deja: 78,1 km por carretera, 61,4 en línea recta. La recogida del taller cubre solo el área metropolitana, así que desde aquí no llega."
+        ]
+      },
+      {
+        "id": "que-si-que-no",
+        "h2": "Qué vale el viaje y qué no",
+        "parrafos": [
+          "No lo vale una revisión de rutina, que puede hacerse en cualquier taller cercano con el aceite de la homologación correcta. Sí lo vale un problema que se repite sin solución: un fallo del sistema de AdBlue, un ruido de cadena en un diésel N47 o N57, una caja que cambia mal o una avería eléctrica que nadie localiza.",
+          "Desde 78 km, la llamada previa no es opcional. Con el síntoma bien descrito se puede orientar el problema y decidir si el viaje compensa."
+        ]
+      },
+      {
+        "id": "calaf-en-cifras",
+        "h2": "A 680 metros, con 1.880 turismos",
+        "parrafos": [
+          "Calaf tenía 3.644 vecinos en 2025, un 6,4 % más que en 2015, en un término compacto de 9,22 km² a 680 metros de altitud. Idescat contaba 1.880 turismos en 2024 a partir de la DGT, 516 por cada 1.000 habitantes. La C-1412a, la BV-1001 y la C-25 pasan a menos de un kilómetro del centro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Calaf?",
+        "a": "Unicars Ponent, en Tàrrega, a 34,4 km por carretera según bmw.es."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Igualada (B12), a 27,4 km, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Tenéis taller cerca de Calaf?",
+        "a": "No. El taller de la red más próximo está en Sant Joan Despí, a 78,1 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.644 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080312&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "680 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080312&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.880 · 516 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080312&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 27,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 34,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080312&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Monistrol de Montserrat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 2993,
+  "population": 3250,
   "lat": 41.61888,
   "lng": 1.83641,
   "metaTitle": "Taller BMW en Monistrol de Montserrat | Bages",
-  "metaDescription": "Taller BMW cerca de Monistrol de Montserrat, al pie del monasterio. Diagnosis oficial, mecánica y mantenimiento con presupuesto claro y garantía.",
+  "metaDescription": "BMW en Monistrol de Montserrat: ITV en Manresa, servicio oficial en Sant Fruitós de Bages y taller especialista de la red a 39,2 km por la A-2.",
   "heroSubtitle": "Servicio BMW especializado para Monistrol de Montserrat.",
   "trustChips": [
     {
@@ -163,5 +163,124 @@
   "zoneAccessRoutes": [
     "C-55",
     "BP-1121"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Monistrol de Montserrat: el taller BMW de la red a 39,2 km por la A-2",
+    "entradilla": "De los municipios del Bages en la red, Monistrol es de los que tienen el taller más a mano: menos de 40 km. La C-55 pasa por el mismo centro y lleva directa a la A-2.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 39.2
+    },
+    "secciones": [
+      {
+        "id": "c55-a2",
+        "h2": "C-55 y A-2: 39,2 km hasta Sant Joan Despí",
+        "parrafos": [
+          "La C-55 pasa a cien metros del centro. Por ella se baja hasta la A-2, y la A-2 lleva hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3: 39,2 km por carretera, 32,8 en línea recta.",
+          "El taller abre de lunes a viernes, en jornada partida de 9:00 a 14:00 y de 15:00 a 18:00. A esta distancia es posible dejar el coche por la mañana y volver por él a última hora. Monistrol queda fuera del área metropolitana y la recogida no llega."
+        ]
+      },
+      {
+        "id": "itv-y-concesionario",
+        "h2": "Manresa para la ITV, Sant Fruitós para el concesionario",
+        "parrafos": [
+          "La estación ITV más próxima por carretera en el registro de la Generalitat es ITV Manresa (B06), de TÜV Rheinland, en el carrer Esteve Terrades 2-4 del polígono Bufalvent: 14,5 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 20,9 km."
+        ]
+      },
+      {
+        "id": "subidas-y-bajadas",
+        "h2": "Carreteras con desnivel",
+        "parrafos": [
+          "Además de la C-55, en tres kilómetros a la redonda pasan la C-58 (1,4 km), la BP-1103 (1,5) y la C-16 (2,5). Quien sube y baja a menudo por carreteras con pendiente gasta más frenos que en llano, y el líquido de frenos, que absorbe humedad con el tiempo, merece cambiarse cuando toca por plan aunque el coche haga pocos kilómetros."
+        ]
+      },
+      {
+        "id": "monistrol-en-cifras",
+        "h2": "3.250 vecinos y 1.662 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Monistrol 3.250 habitantes, un 12 % más que los 2.901 de 2015, en 11,77 km² a 161 metros de altitud. Idescat, con datos de la DGT, contaba 1.662 turismos en 2024: 511 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A cuánto está vuestro taller desde Monistrol?",
+        "a": "A 39,2 km por la C-55 y la A-2, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "ITV Manresa (B06), en el polígono Bufalvent, a 14,5 km por carretera."
+      },
+      {
+        "q": "¿El líquido de frenos se cambia por kilómetros?",
+        "a": "No, por tiempo, según el plan de mantenimiento: pierde propiedades al absorber humedad aunque el coche se use poco."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "3.250 habitantes (+12 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081271&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.662 · 511 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081271&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Manresa (B06) · 14,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 20,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 39,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081271&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

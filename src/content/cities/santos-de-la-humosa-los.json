@@ -3,11 +3,11 @@
   "name": "Los Santos de la Humosa",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 2367,
+  "population": 2867,
   "lat": 40.51314,
   "lng": -3.28235,
   "metaTitle": "Taller BMW cerca de Los Santos de la Humosa | Madrid",
-  "metaDescription": "Servicio especializado BMW cerca de Los Santos de la Humosa. Diagnosis con equipo original, mecánica y mantenimiento con garantía escrita.",
+  "metaDescription": "BMW en Los Santos de la Humosa: ITV y servicio oficial en la Vía Complutense de Alcalá y taller especialista de la red a 41,3 km.",
   "heroSubtitle": "Especialistas BMW para el corredor del Henares",
   "trustChips": [
     {
@@ -171,5 +171,113 @@
   "zoneAccessRoutes": [
     "Carretera comarcal hacia Alcalá de Henares",
     "A-2 acceso más próximo"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Los Santos de la Humosa: ITV y concesionario BMW en la misma avenida de Alcalá",
+    "entradilla": "Una coincidencia práctica: la ITV y el servicio oficial BMW más próximos a Los Santos de la Humosa están los dos en la Vía Complutense de Alcalá de Henares. El taller especialista de la red, en Alcobendas, a 41,3 km.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 41.3
+    },
+    "secciones": [
+      {
+        "id": "via-complutense",
+        "h2": "Vía Complutense 105 y 131",
+        "parrafos": [
+          "La estación ITV más cercana por carretera en el listado de la Comunidad de Madrid es la de ITVERSIA (estación 2891), en la Vía Complutense 105, a 13,9 km. Unos números más allá, en la Vía Complutense 131, está AutoPremier, el servicio oficial BMW más próximo según bmw.es, a 13 km.",
+          "Con las dos cosas en la misma calle, una mañana en Alcalá puede cubrir la inspección y, si toca, una campaña de la marca."
+        ]
+      },
+      {
+        "id": "r2-m50",
+        "h2": "Por la M-226 y la R-2 hasta Alcobendas",
+        "parrafos": [
+          "Hasta la calle Valgrande 17 de Alcobendas, la ruta sale por la M-226, toma la R-2 y entra por la M-50: 41,3 km por carretera, 33,9 en línea recta.",
+          "Lo que justifica ese trayecto es lo específico: un BMW con un fallo que vuelve, un sistema de AdBlue que avisa, un diésel de las familias N47, N57, B47 o B57 que pide manos que lo conozcan. Para el resto, decide tú con el presupuesto en la mano: se da por escrito y no se toca nada sin tu visto bueno."
+        ]
+      },
+      {
+        "id": "dependencia-del-coche",
+        "h2": "576 turismos por cada mil vecinos",
+        "parrafos": [
+          "La Comunidad de Madrid, a partir de la DGT, contaba 1.652 turismos en 2025 para 2.867 habitantes: 576 por cada 1.000, frente a los 388 de Madrid capital. Es lo normal en un término de 34,6 km² donde las carreteras más próximas son la M-235, a 0,6 km del centro, y la M-213, a 2,8.",
+          "El padrón ha crecido un 20 % desde 2015, cuando había 2.389 vecinos. El casco está a 648 metros de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Los Santos de la Humosa?",
+        "a": "En ITVERSIA, Vía Complutense 105 de Alcalá de Henares, a 13,9 km por carretera."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 13 km según bmw.es."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "41,3 km por la M-226, la R-2 y la M-50, hasta Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "2.867 habitantes (+20 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "1.652 · 576 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "ITVERSIA, Vía Complutense 105 (Alcalá) · 13,9 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Vía Complutense 131 · 13 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 41,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

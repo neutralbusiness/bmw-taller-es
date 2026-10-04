@@ -3,11 +3,11 @@
   "name": "Sant Climent de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3900,
+  "population": 4187,
   "lat": 41.33386,
   "lng": 1.98602,
   "metaTitle": "Taller BMW en Sant Climent de Llobregat | Especialistas ISTA",
-  "metaDescription": "Taller especialista BMW en Sant Climent de Llobregat. Solucionamos problemas de DPF y AdBlue en motores diésel. Diagnóstico ISTA. Pide tu presupuesto cerrado.",
+  "metaDescription": "Taller especialista BMW y MINI a 12,6 km de Sant Climent de Llobregat, en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad.",
   "heroSubtitle": "¿Cansado de que tu BMW X3 diésel dé tirones subiendo a casa por la BV-2003? Tu taller especialista en Sant Climent.",
   "trustChips": [
     {
@@ -189,5 +189,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Climent de Llobregat: taller BMW a 12,6 km y recogida dentro del AMB",
+    "entradilla": "Pocos municipios de la red tienen el taller tan a mano y además entran en la recogida del coche. Sant Climent es uno: forma parte del Área Metropolitana de Barcelona y la nave de Dasercars está a 12,6 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 12.6
+    },
+    "secciones": [
+      {
+        "id": "dentro-del-amb",
+        "h2": "Uno de los 36 municipios del área metropolitana",
+        "parrafos": [
+          "Sant Climent de Llobregat está en la lista oficial del AMB, y eso cuenta: el taller ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana. Ninguna de las dos cosas está garantizada, dependen de la agenda de cada semana, así que lo sensato es pedirlas al reservar la cita.",
+          "Si prefieres llevarlo tú, el trayecto hasta el carrer del Tambor del Bruc 3 de Sant Joan Despí es de 12,6 km por carretera y termina por la B-25; en línea recta son 6,3 km."
+        ]
+      },
+      {
+        "id": "trayectos-cortos",
+        "h2": "Un pueblo pequeño y un diésel que casi no sale",
+        "parrafos": [
+          "La única carretera con referencia a menos de tres kilómetros del centro es la BV-2005, a 2,2 km. Con un término de 10,81 km², muchos desplazamientos del día a día son cortos, y para un diésel con filtro de partículas ese es el peor uso: el motor no llega a la temperatura que necesita la regeneración y el filtro se va cargando.",
+          "Si el cuadro avisa del filtro o notas que el ventilador sigue girando al aparcar, no lo dejes para más adelante. Una diagnosis a tiempo suele quedarse en una regeneración forzada; esperar acaba a veces en sustitución."
+        ]
+      },
+      {
+        "id": "itv-y-oficial",
+        "h2": "Viladecans para la ITV, Sant Boi para el concesionario",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es ITV Viladecans (B07), de Applus, en el carrer Jocelyn Bell 16: 5,4 km. El servicio oficial BMW más cercano según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 6,9 km.",
+          "Nosotros no somos ese concesionario: somos un taller independiente que trabaja BMW y MINI."
+        ]
+      },
+      {
+        "id": "sant-climent-en-cifras",
+        "h2": "4.187 vecinos y 1.987 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Sant Climent 4.187 habitantes, un 4,3 % más que los 4.013 de 2015. Idescat, con datos de la DGT, contaba 1.987 turismos en 2024: 475 por cada 1.000 vecinos. El núcleo está a 87 metros de altitud."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Entra Sant Climent en la recogida del coche?",
+        "a": "Sí, el municipio forma parte del área metropolitana. La recogida y el vehículo de cortesía están sujetos a disponibilidad: pídelos al reservar."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Viladecans (B07), en el carrer Jocelyn Bell 16, a 5,4 km por carretera según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Por qué se tapona el filtro de partículas en trayectos cortos?",
+        "a": "Porque el motor no alcanza la temperatura necesaria para quemar el hollín acumulado y la regeneración no llega a completarse."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.187 habitantes (+4,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082042&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "1.987 · 475 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082042&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecans (B07) · 5,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 6,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 12,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082042&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
