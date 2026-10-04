@@ -3,11 +3,11 @@
   "name": "el Papiol",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 4014,
+  "population": 4404,
   "lat": 41.44328,
   "lng": 2.01406,
   "metaTitle": "Especialistas BMW en el Papiol — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en el Papiol. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "metaDescription": "Taller especialista BMW a 12,9 km del Papiol por la B-23, en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en el Papiol? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -179,5 +179,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "El Papiol: taller BMW a 12,9 km, entre la B-23 y la AP-7",
+    "entradilla": "Cinco carreteras con número pasan a menos de tres kilómetros del Papiol, y una de ellas, la B-23, lleva directa al taller de la red en Sant Joan Despí. Además, el municipio está dentro del área metropolitana.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 12.9
+    },
+    "secciones": [
+      {
+        "id": "cinco-carreteras",
+        "h2": "B-23, AP-7, A-2, N-IIa y B-30 en tres kilómetros",
+        "parrafos": [
+          "Desde el centro del Papiol, la B-23 queda a 1,2 km, la AP-7 a 1,4, la A-2 a 1,9, la N-IIa a 2 y la B-30 a 2,4. Para llegar a la nave de Dasercars Barcelona basta con la C-1413a y la B-23: 12,9 km por carretera, 9,2 en línea recta.",
+          "Tanta autopista cerca tiene una ventaja para los diésel: un recorrido de vez en cuando a velocidad sostenida permite que el filtro de partículas complete su regeneración, cosa que no ocurre si el coche solo va al pueblo de al lado."
+        ]
+      },
+      {
+        "id": "recogida-papiol",
+        "h2": "Dentro del área metropolitana: recogida y coche de cortesía",
+        "parrafos": [
+          "El Papiol forma parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche y vehículo de cortesía dentro de ella, siempre según disponibilidad. Pídelo al reservar.",
+          "El taller trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; los fines de semana no abre."
+        ]
+      },
+      {
+        "id": "sant-cugat-y-sant-andreu",
+        "h2": "Sant Cugat para lo oficial, Sant Andreu de la Barca para la ITV",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès, a 14,1 km: algo más lejos que nuestro taller. La ITV más cercana por carretera en el registro de la Generalitat es Sant Andreu (B21), de Applus, en la N-II, punto kilométrico 592,5, en Sant Andreu de la Barca, a 10,7 km."
+        ]
+      },
+      {
+        "id": "papiol-en-cifras",
+        "h2": "4.404 vecinos en 8,95 km²",
+        "parrafos": [
+          "El padrón de 2025 da al Papiol 4.404 habitantes, un 8,2 % más que los 4.071 de 2015. Idescat contaba 2.290 turismos en 2024 a partir de la DGT: 520 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en el Papiol?",
+        "a": "Sí: el Papiol está dentro del área metropolitana y hay recogida y entrega, sujetas a disponibilidad."
+      },
+      {
+        "q": "¿Cuánto hay hasta el taller?",
+        "a": "12,9 km por la C-1413a y la B-23 hasta el carrer del Tambor del Bruc, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es Sant Andreu (B21), en Sant Andreu de la Barca, a 10,7 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.404 habitantes (+8,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081580&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.290 · 520 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081580&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 12,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu (B21) · 10,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Cugat · 14,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081580&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

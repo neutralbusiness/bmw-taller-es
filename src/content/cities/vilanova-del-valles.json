@@ -3,11 +3,11 @@
   "name": "Vilanova del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 5062,
+  "population": 5693,
   "lat": 41.55901,
   "lng": 2.30301,
   "metaTitle": "Taller BMW en Vilanova del Vallès | Diagnosis y reparación",
-  "metaDescription": "Taller BMW cerca de Vilanova del Vallès, junto a la C-17 y la Granada. Diagnosis ISTA, mantenimiento y reparación de averías comunes. Presupuesto claro.",
+  "metaDescription": "BMW en Vilanova del Vallès: ITV y servicio oficial en Granollers y taller especialista de la red en Sant Joan Despí, a 41,1 km por la AP-7.",
   "heroSubtitle": "Taller BMW próximo a Vilanova del Vallès, en el Vallès Oriental",
   "trustChips": [
     {
@@ -168,5 +168,125 @@
   "zoneAccessRoutes": [
     "C-17",
     "BV-5001"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vilanova del Vallès: ITV y concesionario en Granollers, especialista BMW a 41 km",
+    "entradilla": "Desde Vilanova del Vallès, Granollers lo concentra casi todo: la ITV a 5,8 km y el servicio oficial BMW a 11,1. El taller especialista de la red está en Sant Joan Despí, a 41,1 km por la AP-7.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 41.1
+    },
+    "secciones": [
+      {
+        "id": "granollers",
+        "h2": "Lo que tienes en Granollers",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la ITV Granollers (B18), de Applus, en la avinguda de Sant Julià del polígono El Congost, a 5,8 km. El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la carretera C-17, km 19,060, también en Granollers, a 11,1 km.",
+          "Con las dos cosas tan a mano, la inspección y lo que dependa de la marca se resuelven sin salir del Vallès Oriental."
+        ]
+      },
+      {
+        "id": "ap7-c33",
+        "h2": "41,1 km por la AP-7 y la C-33",
+        "parrafos": [
+          "La AP-7 pasa a 2,1 km del centro y la C-35 a 2,5. Hacia Sant Joan Despí se toma la AP-7, se enlaza con la C-33 y la B-20 y se sale por la B-23: 41,1 km por carretera, 29,6 en línea recta.",
+          "Vilanova del Vallès no forma parte del área metropolitana de Barcelona, así que la recogida del taller no la cubre. Si vas a bajar, ten a mano el número de bastidor: con él se identifica la referencia exacta de cada pieza y se puede tener todo pedido antes de que llegue el coche."
+        ]
+      },
+      {
+        "id": "cuando-compensa",
+        "h2": "Cuándo merece la pena hacer los 41 km",
+        "parrafos": [
+          "Para un BMW con una avería que se repite, una distribución ruidosa en un diésel de las familias N47 o N57, un testigo de emisiones que vuelve o un fallo eléctrico que nadie localiza. Para el mantenimiento del día a día, la cercanía de Granollers pesa más."
+        ]
+      },
+      {
+        "id": "vilanova-en-cifras",
+        "h2": "Un 8,6 % más de vecinos en diez años",
+        "parrafos": [
+          "El padrón pasó de 5.241 habitantes en 2015 a 5.693 en 2025, en un término de 15,2 km². Idescat, a partir de la DGT, contaba 3.076 turismos en 2024: 540 por cada 1.000 vecinos, casi el doble que los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Vilanova del Vallès?",
+        "a": "La más próxima por carretera es Granollers (B18), en el polígono El Congost, a 5,8 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la C-17 a la altura de Granollers, a 11,1 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche aquí?",
+        "a": "No: la recogida del taller se limita al área metropolitana de Barcelona, y Vilanova del Vallès queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "5.693 habitantes (+8,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089024&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "3.076 · 540 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089024&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 5,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Granollers · 11,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 41,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=089024&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

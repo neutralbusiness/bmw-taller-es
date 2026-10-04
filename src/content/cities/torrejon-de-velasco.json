@@ -3,11 +3,11 @@
   "name": "Torrejón de Velasco",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 4161,
+  "population": 4900,
   "lat": 40.17809,
   "lng": -3.74984,
   "metaTitle": "Taller BMW en Torrejón de Velasco | Especialistas al sur de Madrid",
-  "metaDescription": "Taller BMW en Torrejón de Velasco. Diagnosis con equipo original, motor, turbo, Vanos y caja ZF 8HP. Presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller especialista de la red en Alcobendas, a 48,7 km.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Torrejón de Velasco",
   "trustChips": [
     {
@@ -174,5 +174,122 @@
     "A-42 hacia Madrid/Toledo",
     "M-404 de conexión local",
     "Acceso desde Casarrubuelos"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller BMW a 48,7 km",
+    "entradilla": "No confundas Torrejón de Velasco con Torrejón de Ardoz: este está al sur, con la R-4 a 2,4 km, y el taller de la red le queda a 48,7 km. Te dejamos lo que hay cerca y lo que implica cruzar Madrid.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 48.7
+    },
+    "secciones": [
+      {
+        "id": "termino-amplio",
+        "h2": "51,9 km² para 4.900 vecinos",
+        "parrafos": [
+          "Torrejón de Velasco tiene un término amplio para su población: 51,9 km² y 4.900 habitantes en 2025, unos 94 por kilómetro cuadrado. Ha crecido un 16 % desde los 4.224 de 2015. La Comunidad de Madrid, a partir de la DGT, registraba 2.966 turismos en 2025: 605 por cada 1.000 vecinos."
+        ]
+      },
+      {
+        "id": "parla-y-getafe",
+        "h2": "ITV en Parla y servicio oficial en Getafe",
+        "parrafos": [
+          "La estación oficial más cercana por carretera es la de TÜV Rheinland Ibérica (estación 2841), en la calle Berlín 1 del polígono industrial de Parla, a 10,1 km según el listado de la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 17,5 km.",
+          "Si BMW te convoca para una campaña de revisión, la cita es en la red oficial; eso no lo hace un taller independiente. Lo demás —mantenimiento, averías, diagnosis— lo eliges tú."
+        ]
+      },
+      {
+        "id": "cruzar-madrid",
+        "h2": "48,7 km por la A-4, la M-30 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas va por la M-404, que pasa a menos de un kilómetro del centro, y la M-423 hasta la A-4; cruza por la M-30 y sale por la A-1: 48,7 km por carretera, 41,8 en línea recta.",
+          "La recogida del taller se limita al área metropolitana de Madrid y está sujeta a disponibilidad: confirma al reservar si tu dirección entra. Si vas a llevarlo tú, apunta antes cuándo aparece el problema —en frío o en caliente, a qué velocidad, con qué testigo— porque ayuda más al diagnóstico que cualquier descripción vaga."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Torrejón de Velasco?",
+        "a": "En la estación 2841 de TÜV Rheinland Ibérica, en el polígono industrial de Parla, a 10,1 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "48,7 km por carretera hasta la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo que los BMW: comparten electrónica y buena parte de los motores."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.900 habitantes (+16 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "2.966 · 605 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "51,9 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV Rheinland, Parla · 10,1 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Getafe) · 17,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 48,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

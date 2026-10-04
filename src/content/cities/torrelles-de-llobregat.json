@@ -3,11 +3,11 @@
   "name": "Torrelles de Llobregat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 5740,
+  "population": 6170,
   "lat": 41.35921,
   "lng": 1.97453,
   "metaTitle": "Taller BMW en Torrelles de Llobregat — Especialista Garantía",
-  "metaDescription": "Taller especialista BMW en Torrelles de Llobregat. Mantén la garantía oficial con nuestro diagnóstico ISTA. Pide presupuesto cerrado y ahorra hasta un 50%.",
+  "metaDescription": "Taller especialista BMW a 12,5 km de Torrelles de Llobregat, en Sant Joan Despí. Recogida en el área metropolitana sujeta a disponibilidad.",
   "heroSubtitle": "¿Tienes un BMW nuevo y crees que estás atado al concesionario de Sant Boi? Descubre cómo mantener tu garantía oficial aquí, en Torrelles.",
   "trustChips": [
     {
@@ -190,5 +190,128 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrelles de Llobregat: taller BMW a 12,5 km y recogida en el área metropolitana",
+    "entradilla": "Por la BV-2005 y la A-2, el taller especialista de la red queda a 12,5 km de Torrelles, más cerca que el concesionario. Y como el municipio pertenece al Área Metropolitana de Barcelona, puedes pedir que pasen a por el coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 12.5
+    },
+    "secciones": [
+      {
+        "id": "mas-cerca-que-el-concesionario",
+        "h2": "El especialista, más cerca que el concesionario",
+        "parrafos": [
+          "Desde el centro de Torrelles hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, hay 12,5 km por carretera y 7 en línea recta. Se baja por la BV-2005, que pasa a menos de un kilómetro del centro, y se sigue por la A-2.",
+          "El servicio oficial BMW más próximo según bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 14,6 km. Para reparaciones en garantía de BMW es la dirección; para el mantenimiento puedes elegir taller, porque el Reglamento (UE) 461/2010 impide que se pierda la garantía por revisar fuera de la red si se cumple el plan del fabricante."
+        ]
+      },
+      {
+        "id": "recogida-amb",
+        "h2": "Dentro del AMB: recogida y vehículo de cortesía",
+        "parrafos": [
+          "Torrelles de Llobregat es uno de los municipios del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana. Las dos cosas dependen de disponibilidad, así que lo correcto es pedirlas al reservar y no el mismo día."
+        ]
+      },
+      {
+        "id": "itv-sant-just",
+        "h2": "Para la ITV, Sant Just Desvern",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Just Desvern (B05), de Applus, en la avinguda de la Riera del polígono industrial número 1, a 13,8 km. Como queda hacia el mismo lado que el taller, la pre-ITV y la inspección pueden hacerse con pocos días de diferencia."
+        ]
+      },
+      {
+        "id": "torrelles-en-cifras",
+        "h2": "Un pueblo de 6.170 habitantes con 3.403 turismos",
+        "parrafos": [
+          "Torrelles tenía 6.170 vecinos en el padrón de 2025, frente a 5.883 en 2015 (un 4,9 % más), en 13,56 km² a 126 metros de altitud. Idescat contaba 3.403 turismos en 2024 a partir de la DGT: 552 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Torrelles de Llobregat?",
+        "a": "Sí, dentro del área metropolitana de Barcelona hay recogida y entrega, sujetas a disponibilidad."
+      },
+      {
+        "q": "¿Qué está más cerca, vuestro taller o el concesionario?",
+        "a": "El taller: 12,5 km hasta Sant Joan Despí, frente a 14,6 km hasta Barcelona Premium en Sant Boi."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es Sant Just Desvern (B05), a 13,8 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "6.170 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082896&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "3.403 · 552 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082896&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 12,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 13,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, Sant Boi · 14,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082896&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

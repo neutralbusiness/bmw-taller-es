@@ -3,11 +3,11 @@
   "name": "Gironella",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 5063,
+  "population": 5083,
   "lat": 42.02272,
   "lng": 1.88597,
   "metaTitle": "Taller BMW Gironella — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Gironella. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaDescription": "BMW en Gironella: ITV en Berga a 14,2 km, servicio oficial en Sant Fruitós de Bages y taller especialista a 94,3 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Mantén tu BMW en Gironella con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -178,5 +178,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Gironella, en el Berguedà: ITV en Berga y taller BMW a 94 km",
+    "entradilla": "Desde Gironella, el taller de la red queda a 94,3 km, en Sant Joan Despí. No vamos a fingir que está cerca: lo razonable es resolver en la zona casi todo y bajar solo cuando de verdad haga falta un especialista en BMW.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 94.3
+    },
+    "secciones": [
+      {
+        "id": "berga-y-sant-fruitos",
+        "h2": "Berga para la ITV, Sant Fruitós para lo oficial",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la ITV Berga (B13), de TÜV Rheinland, en el camí de Sant Bartomeu del polígono La Valldan, a 14,2 km. El servicio oficial BMW más cercano según bmw.es queda hacia el sur: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 32,3 km."
+        ]
+      },
+      {
+        "id": "c16-hacia-el-sur",
+        "h2": "La C-16 a la puerta, 94 km hasta el taller",
+        "parrafos": [
+          "La C-16 pasa a menos de un kilómetro del centro, y la C-154 y la C-62 a 2,8. La ruta hasta la nave de Dasercars Barcelona es casi toda esa C-16, seguida de la B-30, la AP-7 y la B-23: 94,3 km por carretera, 74,3 en línea recta.",
+          "La recogida del taller solo cubre el área metropolitana, así que el viaje es tuyo. Antes de hacerlo, pide presupuesto: se entrega por escrito y no se toca nada sin que lo apruebes; la diagnosis también se presupuesta, de modo que sabes a qué vas."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "Qué justifica casi doscientos kilómetros entre ida y vuelta",
+        "parrafos": [
+          "Una avería que ya han mirado sin éxito, un ruido de cadena en un diésel N47 o N57, un fallo del sistema de AdBlue con la cuenta atrás en marcha, o una reparación cara que quieres contrastar antes de aceptarla. Para aceite, frenos o neumáticos, un taller del Berguedà te ahorra el viaje."
+        ]
+      },
+      {
+        "id": "gironella-en-cifras",
+        "h2": "5.083 vecinos en 6,78 km²",
+        "parrafos": [
+          "El término de Gironella mide 6,78 km² y el padrón de 2025 le da 5.083 habitantes, unos 750 por kilómetro cuadrado; en 2015 eran 4.925. Idescat contaba 2.854 turismos en 2024 a partir de la DGT: 561 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en el Berguedà?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 94,3 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Gironella?",
+        "a": "La más próxima por carretera es Berga (B13), en el polígono La Valldan, a 14,2 km."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 32,3 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "5.083 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080924&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.854 · 561 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080924&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 14,2 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 32,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 94,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080924&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

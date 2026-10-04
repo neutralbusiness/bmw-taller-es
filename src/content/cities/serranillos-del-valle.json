@@ -3,11 +3,11 @@
   "name": "Serranillos del Valle",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 3631,
+  "population": 4670,
   "lat": 40.20712,
   "lng": -3.89347,
   "metaTitle": "Taller BMW cerca de Serranillos del Valle | Madrid",
-  "metaDescription": "Servicio especializado BMW cerca de Serranillos del Valle. Diagnosis con equipo original, mecánica y mantenimiento con garantía escrita.",
+  "metaDescription": "BMW en Serranillos del Valle: ITV en Arroyomolinos, servicio oficial en Leganés y taller especialista de la red en Alcobendas, a 53,4 km.",
   "heroSubtitle": "Especialistas BMW para el suroeste de Madrid",
   "trustChips": [
     {
@@ -171,5 +171,112 @@
   "zoneAccessRoutes": [
     "A-42 acceso más próximo",
     "Carretera comarcal hacia Griñón"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Serranillos del Valle: 731 turismos por cada mil vecinos y el taller BMW a 53 km",
+    "entradilla": "En Serranillos hay casi el doble de turismos por habitante que en Madrid capital, y la AP-41 pasa a un paso del centro. Lo que tienes cerca está en Arroyomolinos y Leganés; el taller especialista de la red, en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 53.4
+    },
+    "secciones": [
+      {
+        "id": "parque-serranillos",
+        "h2": "Casi el doble de coches por vecino que en Madrid",
+        "parrafos": [
+          "La Comunidad de Madrid, con datos de la DGT, contaba 3.414 turismos en Serranillos en 2025 para 4.670 habitantes: 731 por cada 1.000, frente a 388 en Madrid capital. La población ha crecido un 16,9 % desde los 3.994 vecinos de 2015, en un término de 13,2 km².",
+          "Cuando hay más de un coche en casa, el que se mueve poco es el que da problemas de batería y de discos oxidados. Arrancarlo y hacer con él algún trayecto cada semana evita la mayoría."
+        ]
+      },
+      {
+        "id": "arroyomolinos-y-leganes",
+        "h2": "ITV en Arroyomolinos, servicio oficial en Leganés",
+        "parrafos": [
+          "La estación oficial más cercana por carretera es la de TÜV SÜD ATISAE (estación 2873), en la calle Fresadores 3 del polígono Valdefuentes de Arroyomolinos, a 13,2 km según la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter (Momentum Leganés), a 22,2 km."
+        ]
+      },
+      {
+        "id": "ap41-r5",
+        "h2": "53,4 km por la AP-41, la R-5 y la M-30",
+        "parrafos": [
+          "Con la AP-41 y la M-404 casi al lado del centro, la salida es inmediata. Hasta la calle Valgrande de Alcobendas se va por la AP-41 y la R-5, se cruza por la M-30 y se termina en la A-1: 53,4 km por carretera, 43,2 en línea recta.",
+          "Antes de bajar, pide el presupuesto: llega por escrito y nada se empieza sin tu aprobación; la diagnosis también se presupuesta. La recogida del taller se limita al área metropolitana y depende de disponibilidad, así que pregunta si tu calle entra antes de contar con ella."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Serranillos del Valle?",
+        "a": "En la estación 2873 de TÜV SÜD ATISAE, en el polígono Valdefuentes de Arroyomolinos, a 13,2 km."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Vehinter (Momentum Leganés), a 22,2 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "53,4 km por carretera hasta Alcobendas, por la AP-41, la R-5, la M-30 y la A-1."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.670 habitantes (+16,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "3.414 · 731 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "TÜV SÜD ATISAE, Arroyomolinos · 13,2 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Leganés) · 22,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 53,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

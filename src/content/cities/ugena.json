@@ -3,11 +3,11 @@
   "name": "Ugena",
   "province": "Toledo",
   "ccaa": "Castilla-La Mancha",
-  "population": 5260,
+  "population": 5988,
   "lat": 40.16305,
   "lng": -3.87243,
   "metaTitle": "Taller BMW en Ugena | Especialistas al sur de Madrid, Toledo",
-  "metaDescription": "Taller BMW en Ugena, Toledo. Diagnosis con equipo original, motor, turbo, Vanos y caja ZF 8HP. Presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en Ugena (Toledo): servicio oficial en Leganés, a 26,4 km, y el taller especialista de la red en Alcobendas, a 62,2 km por la A-42.",
   "heroSubtitle": "Mecánica BMW especializada para Ugena y el corredor sur de Madrid",
   "trustChips": [
     {
@@ -174,5 +174,115 @@
     "A-42 hacia Madrid/Toledo",
     "AP-41 de peaje",
     "Acceso desde Illescas"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Ugena (Toledo): el taller BMW de la red, a 62 km en Alcobendas",
+    "entradilla": "Aunque Ugena es provincia de Toledo, lo que tiene que ver con BMW le queda en Madrid: el servicio oficial, en Leganés, y el taller especialista de la red, en Alcobendas. Te contamos distancias y rutas sin adornos.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 62.2
+    },
+    "secciones": [
+      {
+        "id": "toledo-mirando-a-madrid",
+        "h2": "Un municipio toledano que mira a Madrid",
+        "parrafos": [
+          "Ugena tenía 5.988 habitantes en 2025 frente a los 5.282 de 2015: un 13,4 % más en diez años, en un término de 15,4 km² a 656 metros de altitud.",
+          "Para el dueño de un BMW o un MINI, la consecuencia es sencilla: los servicios de marca más cercanos están al otro lado del límite autonómico, y la distancia se cuenta en decenas de kilómetros. Merece la pena saber de antemano qué se resuelve en cada sitio."
+        ]
+      },
+      {
+        "id": "oficial-leganes",
+        "h2": "El servicio oficial, a 26,4 km en Leganés",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto oficial más próximo es Vehinter (Momentum Leganés), en la esquina de las calles Palier y Bastidor de un polígono de Leganés, a 26,4 km por carretera. Si el coche está en garantía y lo que toca es una reparación cubierta por BMW, ese es el sitio lógico."
+        ]
+      },
+      {
+        "id": "ruta-a42",
+        "h2": "62,2 km por la CM-4008, la A-42 y la M-40",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la CM-4008, toma la A-42 hacia Madrid y rodea la ciudad por la M-40 y la M-30 hasta la A-1: 62,2 km por carretera, 46,8 en línea recta. Ugena queda fuera del área metropolitana de Madrid, de modo que la recogida del taller no llega aquí.",
+          "Con esa distancia, hazte una idea antes de mover el coche: cuenta el síntoma por teléfono junto con el modelo, el año y los kilómetros, y decide con esa primera orientación si el viaje compensa."
+        ]
+      },
+      {
+        "id": "itv-ugena",
+        "h2": "Sobre la ITV",
+        "parrafos": [
+          "No te indicamos una estación concreta: la que aparece cerca de Ugena en la cartografía abierta no figura en un registro oficial que hayamos podido comprobar. Para pedir cita, consulta el listado de estaciones de la Junta de Comunidades de Castilla-La Mancha."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Ugena o en la provincia de Toledo?",
+        "a": "No. El taller de la red que atiende Ugena es Dasercars Madrid, en Alcobendas, a 62,2 km."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Vehinter (Momentum Leganés), a 26,4 km, según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Ugena?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "5.988 habitantes (+13,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "15,4 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "656 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Leganés) · 26,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 62,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

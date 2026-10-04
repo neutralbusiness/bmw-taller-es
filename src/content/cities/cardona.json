@@ -3,11 +3,11 @@
   "name": "Cardona",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 5064,
+  "population": 4553,
   "lat": 41.91301,
   "lng": 1.67481,
   "metaTitle": "Taller especializado BMW en Cardona — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Cardona? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "BMW en Cardona: ITV en Solsona, servicio oficial en Sant Fruitós de Bages y taller especialista de la red en Sant Joan Despí, a 92,5 km.",
   "heroSubtitle": "Taller especialista BMW para Cardona y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -178,5 +178,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cardona: ITV en Solsona, concesionario en Sant Fruitós y taller BMW a 92,5 km",
+    "entradilla": "Para un BMW de Cardona, la ITV más cercana está en Solsona, el servicio oficial en Sant Fruitós de Bages y el taller especialista de la red a 92,5 km, en Sant Joan Despí. Esto es lo que conviene hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 92.5
+    },
+    "secciones": [
+      {
+        "id": "itv-solsona",
+        "h2": "La ITV, en Solsona",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera a Cardona no está en el Bages sino en Solsona: ITV Solsona (L06), de TÜV Rheinland, en la plaça de les Filadores del polígono Els Ametllers, a 18,6 km. Al pedir cita, búscala por su código; es una estación de la provincia de Lleida."
+        ]
+      },
+      {
+        "id": "c55-c16",
+        "h2": "Por la C-55 hasta la C-16",
+        "parrafos": [
+          "La C-55 pasa a menos de un kilómetro del centro y es el primer tramo de la ruta al taller: C-55, C-16, B-30, AP-7 y B-23, 92,5 km por carretera hasta Sant Joan Despí, 68,5 en línea recta. La recogida del taller no llega hasta aquí, porque solo cubre el área metropolitana.",
+          "Con esa distancia, empieza por el teléfono: explica el síntoma, desde cuándo pasa y el modelo con su año y kilometraje. Así se ve si el problema necesita al especialista o se puede resolver en la comarca."
+        ]
+      },
+      {
+        "id": "concesionario-sant-fruitos",
+        "h2": "El concesionario, a 33,9 km",
+        "parrafos": [
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 33,9 km. Para una reparación cubierta por la garantía de BMW es el destino natural; el taller independiente encaja en lo que va fuera de ella, y sobre todo en las averías concretas de la marca que no se han resuelto cerca."
+        ]
+      },
+      {
+        "id": "cardona-en-cifras",
+        "h2": "De 4.898 a 4.553 habitantes en diez años",
+        "parrafos": [
+          "Según el padrón, Cardona tenía 4.898 habitantes en 2015 y 4.553 en 2025, un 7 % menos. El término es amplio, 66,7 km², y la densidad baja: 68 habitantes por km², a 507 metros de altitud. Idescat registraba 2.583 turismos en 2024 a partir de la DGT, 567 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller cerca de Cardona?",
+        "a": "No. El de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 92,5 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Cardona?",
+        "a": "La más próxima por carretera es Solsona (L06), en el polígono Els Ametllers, a 18,6 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 33,9 km según el localizador de bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.553 habitantes (−7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080478&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.583 · 567 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080478&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Solsona (L06) · 18,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 33,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 92,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080478&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Valdetorres de Jarama",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 4170,
+  "population": 5175,
   "lat": 40.69338,
   "lng": -3.51753,
   "metaTitle": "Taller BMW cerca de Valdetorres de Jarama | Madrid norte",
-  "metaDescription": "Servicio BMW para Valdetorres de Jarama: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "BMW en Valdetorres de Jarama: ITV y servicio oficial en Algete y taller especialista de la red en Alcobendas, a 27,3 km por la A-1.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdetorres de Jarama, junto a la A-1.",
   "trustChips": [
     {
@@ -167,5 +167,117 @@
     "A-1",
     "M-103",
     "Carretera de Talamanca"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Valdetorres de Jarama: un 22 % más de vecinos y el taller BMW a 27 km",
+    "entradilla": "Valdetorres ha pasado de 4.234 a 5.175 habitantes en diez años. Para quien tiene aquí un BMW o un MINI, lo útil está en Algete —ITV y servicio oficial— y en Alcobendas, donde está el taller especialista de la red.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 27.3
+    },
+    "secciones": [
+      {
+        "id": "algete",
+        "h2": "Algete: la ITV a 10,6 km y el servicio oficial a 14,6",
+        "parrafos": [
+          "La estación oficial más cercana por carretera, según el listado de la Comunidad de Madrid, es la de ITV Barbastro (estación 2818), en la avenida Nicasio Martín 4 del polígono industrial Sector 8 de Algete, a 10,6 km. En el mismo municipio está el punto oficial BMW más próximo según bmw.es, BYmyCAR Madrid, en la calle Tejera 2, junto a la carretera de Algete, a 14,6 km.",
+          "Si toca una reparación cubierta por la garantía de BMW, es ahí. El mantenimiento periódico, en cambio, no tiene por qué: el Reglamento (UE) 461/2010 permite hacerlo en un taller independiente sin que el fabricante pueda negar la garantía, siempre que se respete el plan."
+        ]
+      },
+      {
+        "id": "m103-a1",
+        "h2": "Por la M-103, la M-111 y la M-100 hasta la A-1",
+        "parrafos": [
+          "La ruta desde el centro de Valdetorres hasta la calle Valgrande de Alcobendas encadena la M-103, la M-111 y la M-100 antes de entrar en la A-1: 27,3 km por carretera, 19,5 en línea recta.",
+          "Para trabajos de varios días, pregunta al reservar por el vehículo de cortesía y por la recogida: los dos están sujetos a disponibilidad y solo dentro del área metropolitana de Madrid, así que confirma si tu dirección entra."
+        ]
+      },
+      {
+        "id": "parque-valdetorres",
+        "h2": "584 turismos por cada mil habitantes",
+        "parrafos": [
+          "La Comunidad de Madrid, con datos de la DGT, contaba 3.020 turismos en Valdetorres en 2025: 584 por cada 1.000 vecinos, muy por encima de los 388 de Madrid capital. El término mide 34,9 km² y el casco está a 643 metros de altitud.",
+          "Cuando en casa hay más de un coche, el que menos se mueve es el que antes avisa: batería descargada, discos con óxido y neumáticos que pierden presión. Moverlo un rato cada semana evita la mayoría de esos sustos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 27,3 km por carretera, en la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Valdetorres de Jarama?",
+        "a": "La estación oficial más cercana es la de ITV Barbastro en Algete (estación 2818), a 10,6 km."
+      },
+      {
+        "q": "¿Pierdo la garantía si no voy al concesionario?",
+        "a": "No, si las revisiones siguen el plan de mantenimiento de BMW con las especificaciones correctas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "5.175 habitantes (+22,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "3.020 · 584 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "ITV Barbastro, Algete · 10,6 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid, Algete · 14,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 27,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
