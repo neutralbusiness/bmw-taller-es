@@ -46,10 +46,9 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 42.0,
-  "km_linea_recta": 33.5,
+  "km_carretera": 39.2,
+  "km_linea_recta": 32.8,
   "vias_de_la_ruta": [
-   "BP-1121",
    "C-55",
    "A-2"
   ],
@@ -65,9 +64,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 18.1,
-   "km_linea": 10.6
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 14.5,
+   "km_linea": 11.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,28 +77,43 @@
   "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 24.5,
-  "km_linea": 16.6,
+  "km_carretera": 20.9,
+  "km_linea": 17.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "C-55",
-   "tipo": "primary",
-   "km": 0.8
+   "tipo": "trunk",
+   "km": 0.1
   },
   {
    "ref": "C-58",
    "tipo": "primary",
-   "km": 1.3
+   "km": 1.4
+  },
+  {
+   "ref": "BP-1103",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
+   "ref": "C-16",
+   "tipo": "motorway",
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.61147,
+  "lng": 1.84589,
+  "que": "centro del núcleo urbano de Monistrol de Montserrat (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "castellbell-i-el-vilar",
@@ -153,7 +167,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "baja (<600 m)",
-  "distancia_taller": "media distancia (40-80 km)",
+  "distancia_taller": "cerca (15-40 km)",
   "itv_en_municipio": false
  }
 }

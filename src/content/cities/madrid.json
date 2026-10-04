@@ -196,14 +196,14 @@
     "entradilla": "Madrid no tiene un taller nuestro dentro del término municipal: el taller especialista que atiende la capital está en Alcobendas. Aquí tienes la ruta, las 17 ITV de la ciudad y el servicio oficial más próximo al centro, para que compares con datos.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 20.5
+      "kmCarretera": 20.2
     },
     "secciones": [
       {
         "id": "ruta-alcobendas",
-        "h2": "Del centro de Madrid a Alcobendas: 20,5 km por la M-30 y la A-1",
+        "h2": "Del centro de Madrid a Alcobendas: 20,2 km por la M-30 y la A-1",
         "parrafos": [
-          "Desde la Puerta del Sol, la ruta más corta hasta la nave de Dasercars en la calle Valgrande sale a la M-30 y sigue por la A-1 hasta el polígono industrial de Alcobendas: 20,5 km por carretera, 15,2 km en línea recta. Desde el norte de la ciudad —Fuencarral, Hortaleza, Las Tablas o Sanchinarro— el trayecto se acorta mucho; desde Vallecas o Villaverde hay que cruzar la M-30 o la M-40.",
+          "Desde la Puerta del Sol, la ruta más corta hasta la nave de Dasercars en la calle Valgrande sale a la M-30 y sigue por la A-1 hasta el polígono industrial de Alcobendas: 20,2 km por carretera, 14,1 km en línea recta. Desde el norte de la ciudad —Fuencarral, Hortaleza, Las Tablas o Sanchinarro— el trayecto se acorta mucho; desde Vallecas o Villaverde hay que cruzar la M-30 o la M-40.",
           "El taller abre de lunes a viernes en jornada partida (9:00–14:00 y 15:00–18:00) y cierra el fin de semana, así que lo práctico es dejar el coche a primera hora y recogerlo por la tarde. Para trabajos de varios días existe vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad: pídelo al reservar, no el mismo día."
         ]
       },
@@ -235,7 +235,7 @@
     "faq": [
       {
         "q": "¿Hay algún taller vuestro dentro de Madrid capital?",
-        "a": "No. El taller que atiende Madrid es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 20,5 km del centro por la A-1."
+        "a": "No. El taller que atiende Madrid es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 20,2 km del centro por la A-1."
       },
       {
         "q": "¿Podéis recoger el coche en mi casa de Madrid?",
@@ -271,7 +271,7 @@
       },
       {
         "etiqueta": "Distancia al taller (Alcobendas)",
-        "valor": "20,5 km por carretera",
+        "valor": "20,2 km por carretera",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       },

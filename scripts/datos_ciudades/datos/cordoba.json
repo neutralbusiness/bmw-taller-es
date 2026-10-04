@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/222642054) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV (chica)",
@@ -56,7 +57,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/222642055) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "Estación ITV Córdoba - Las Quemadas",
@@ -65,7 +67,8 @@
     "municipio": "Córdoba",
     "fuente": "OpenStreetMap (way/1137092230) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -89,47 +92,53 @@
    "km": 1.3
   },
   {
+   "ref": "CO-110a",
+   "tipo": "secondary",
+   "km": 1.3
+  },
+  {
    "ref": "A-4",
    "tipo": "motorway",
-   "km": 2.0
+   "km": 1.9
   },
   {
    "ref": "CO-31",
    "tipo": "motorway",
-   "km": 2.2
+   "km": 2.1
   },
   {
    "ref": "N-432",
    "tipo": "trunk",
-   "km": 2.3
-  },
-  {
-   "ref": "N-4A",
-   "tipo": "primary",
-   "km": 2.5
-  },
-  {
-   "ref": "A-3050",
-   "tipo": "trunk",
-   "km": 2.7
+   "km": 2.2
   },
   {
    "ref": "CO-111a",
    "tipo": "primary",
-   "km": 2.7
+   "km": 2.4
+  },
+  {
+   "ref": "N-4A",
+   "tipo": "primary",
+   "km": 2.4
+  },
+  {
+   "ref": "A-3050",
+   "tipo": "trunk",
+   "km": 2.5
   },
   {
    "ref": "CO-123a",
    "tipo": "primary",
-   "km": 2.8
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "jaen",
@@ -167,9 +176,9 @@
    "km_linea_recta": 180.3
   },
   {
-   "slug": "arroyomolinos",
-   "nombre": "Arroyomolinos",
-   "km_linea_recta": 183.4
+   "slug": "cadiz",
+   "nombre": "Cádiz",
+   "km_linea_recta": 202.6
   }
  ],
  "pagina_actual": {

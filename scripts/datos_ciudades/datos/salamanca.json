@@ -69,12 +69,12 @@
   {
    "ref": "N-630",
    "tipo": "trunk",
-   "km": 0.7
+   "km": 0.6
   },
   {
    "ref": "SA-300",
    "tipo": "trunk",
-   "km": 0.7
+   "km": 0.6
   },
   {
    "ref": "N-620",
@@ -87,9 +87,19 @@
    "km": 0.8
   },
   {
+   "ref": "SA-605",
+   "tipo": "secondary",
+   "km": 1.2
+  },
+  {
    "ref": "N-501",
    "tipo": "trunk",
    "km": 1.6
+  },
+  {
+   "ref": "CL-512",
+   "tipo": "primary",
+   "km": 1.8
   },
   {
    "ref": "DSA-600",
@@ -97,14 +107,14 @@
    "km": 1.8
   },
   {
-   "ref": "CL-512",
-   "tipo": "primary",
+   "ref": "CM-SA-12",
+   "tipo": "secondary",
    "km": 1.9
   },
   {
    "ref": "A-50",
    "tipo": "motorway",
-   "km": 2.3
+   "km": 2.2
   },
   {
    "ref": "A-62",
@@ -132,12 +142,13 @@
    "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "valladolid",

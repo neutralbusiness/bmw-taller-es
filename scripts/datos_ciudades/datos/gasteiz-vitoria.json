@@ -47,7 +47,8 @@
     "municipio": "Vitoria-Gasteiz",
     "fuente": "OpenStreetMap (way/288970397) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -68,20 +69,31 @@
   {
    "ref": "N-104",
    "tipo": "primary",
-   "km": 2.4
+   "km": 2.3
   },
   {
    "ref": "N-622",
    "tipo": "trunk",
-   "km": 2.7
+   "km": 2.6
+  },
+  {
+   "ref": "A-2124",
+   "tipo": "secondary",
+   "km": 3.0
+  },
+  {
+   "ref": "A-2130",
+   "tipo": "secondary",
+   "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "logrono",

@@ -38,8 +38,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 13.7,
-  "km_linea_recta": 11.1,
+  "km_carretera": 13.4,
+  "km_linea_recta": 10.2,
   "vias_de_la_ruta": [
    "M-30",
    "A-1"
@@ -49,16 +49,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A (estación 2830)",
-   "operador": "ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A",
-   "direccion": "C/ María de Portugal, 15 (Sanchinarro)",
+   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2894)",
+   "operador": "TÜV Rheinland Ibérica, S.A",
+   "direccion": "C/ Miguel Yuste, 31. (Simancas-Julián Camarillo)",
    "municipio": "Madrid",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 8.2,
-   "km_linea": 6.2
+   "km_carretera": 3.6,
+   "km_linea": 2.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -86,16 +86,17 @@
   },
   {
    "ref": "M-23",
-   "tipo": "primary",
+   "tipo": "motorway",
    "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "chamartin",

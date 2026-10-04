@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/1415374135) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -66,6 +67,16 @@
  },
  "vias_cercanas": [
   {
+   "ref": "GC-100",
+   "tipo": "secondary",
+   "km": 0.2
+  },
+  {
+   "ref": "GC-130",
+   "tipo": "secondary",
+   "km": 0.4
+  },
+  {
    "ref": "GC-10",
    "tipo": "primary",
    "km": 0.7
@@ -78,7 +89,7 @@
   {
    "ref": "GC-80",
    "tipo": "primary",
-   "km": 1.6
+   "km": 1.4
   },
   {
    "ref": "GC-1",
@@ -86,12 +97,13 @@
    "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 4.8,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "las-palmas-de-gran-canaria",

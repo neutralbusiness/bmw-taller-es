@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 45.3,
-  "km_linea_recta": 38.0,
+  "km_carretera": 45.0,
+  "km_linea_recta": 37.3,
   "vias_de_la_ruta": [
    "M-301",
    "A-4",
@@ -66,9 +66,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 11.5,
-   "km_linea": 6.7
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 14.6,
+   "km_linea": 8.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -85,27 +85,28 @@
  },
  "vias_cercanas": [
   {
+   "ref": "M-301",
+   "tipo": "secondary",
+   "km": 0.2
+  },
+  {
    "ref": "M-307",
-   "tipo": "primary",
-   "km": 1.2
+   "tipo": "secondary",
+   "km": 0.2
   },
   {
    "ref": "M-506",
    "tipo": "primary",
    "km": 1.2
-  },
-  {
-   "ref": "M-301",
-   "tipo": "trunk",
-   "km": 1.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "titulcia",
@@ -150,8 +151,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en San Martín de la Vega | Diagnosis y mantenimiento",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 18256
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 21010
  },
  "generado": "2026-10-04",
  "perfil": {

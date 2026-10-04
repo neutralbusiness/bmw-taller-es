@@ -7,7 +7,7 @@
   "lat": 41.50612,
   "lng": 2.24016,
   "metaTitle": "Taller especializado BMW en Sant Fost de Campsentelles — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "Sant Fost de Campsentelles: ITV en Santa Perpètua, servicio oficial BMW en Granollers y taller especialista independiente en Sant Joan Despí, a 31,5 km.",
+  "metaDescription": "Sant Fost de Campsentelles: ITV en Santa Perpètua, servicio oficial BMW en Granollers y taller especialista independiente en Sant Joan Despí, a 30,4 km.",
   "heroSubtitle": "Taller especialista BMW para Sant Fost de Campsentelles y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -184,30 +184,30 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Sant Fost de Campsentelles: por la B-500 hasta el taller BMW, 31,5 km",
+    "h1": "Sant Fost de Campsentelles: por la B-500 hasta el taller BMW, 30,4 km",
     "entradilla": "Desde Sant Fost hay dos salidas naturales: por la B-500 hacia Badalona y las rondas, o hacia la C-33 y la C-17. Lo que te interesa de cada una si tienes un BMW.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 31.5
+      "kmCarretera": 30.4
     },
     "secciones": [
       {
         "id": "b500",
-        "h2": "La B-500 y las rondas: 31,5 km",
+        "h2": "La B-500, la C-33 y la B-20: 30,4 km",
         "parrafos": [
-          "La ruta más corta hasta el carrer del Tambor del Bruc cruza por la B-500 y sigue por la B-20 y la B-23: 31,5 km por carretera, 21,7 en línea recta. Aunque varios municipios vecinos sí están en el Área Metropolitana de Barcelona, Sant Fost no, y la recogida del taller no lo cubre."
+          "La ruta más corta hasta el carrer del Tambor del Bruc sale por la B-500, enlaza con la C-33 y sigue por la B-20: 30,4 km por carretera, 22,1 en línea recta. Aunque varios municipios vecinos sí están en el Área Metropolitana de Barcelona, Sant Fost no, y la recogida del taller no lo cubre."
         ]
       },
       {
         "id": "itv-les-minetes",
-        "h2": "La ITV, a 7,8 km en Santa Perpètua",
+        "h2": "La ITV, a 5,8 km en Santa Perpètua",
         "parrafos": [
-          "En el registro de estaciones de la Generalitat, la más próxima por carretera es CIM Vallès (B20), en el carrer Pont Vell del polígono Les Minetes, dentro del Centre Integral de Mercaderies de Santa Perpètua de Mogoda: 7,8 km. Con la C-33 y la C-17 a menos de tres kilómetros del centro, se llega sin complicaciones."
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es CIM Vallès (B20), en el carrer Pont Vell del polígono Les Minetes, dentro del Centre Integral de Mercaderies de Santa Perpètua de Mogoda: 5,8 km. Con la C-33 y la C-17 a menos de tres kilómetros del centro, se llega sin complicaciones."
         ]
       },
       {
         "id": "granollers-oficial",
-        "h2": "Pruna Motor, a 12,7 km",
+        "h2": "Pruna Motor, a 10,6 km",
         "parrafos": [
           "El punto oficial BMW más cercano según bmw.es es Pruna Motor, en la C-17, km 19,060, en Granollers. Allí van las reparaciones que paga la garantía de la marca.",
           "Lo que no dependa de la garantía puedes hacerlo en un taller independiente. En el nuestro, la diagnosis se presupuesta antes de conectar el equipo, y la reparación también: nada se hace sin que sepas antes qué es y qué supone."
@@ -228,7 +228,7 @@
       },
       {
         "q": "¿Dónde está la ITV más cercana?",
-        "a": "En Santa Perpètua de Mogoda: CIM Vallès (B20), polígono Les Minetes, a 7,8 km."
+        "a": "En Santa Perpètua de Mogoda: CIM Vallès (B20), polígono Les Minetes, a 5,8 km."
       },
       {
         "q": "¿Cobráis la diagnosis?",
@@ -256,19 +256,19 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "CIM Vallès (B20), Santa Perpètua · 7,8 km",
+        "valor": "CIM Vallès (B20), Santa Perpètua · 5,8 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Pruna Motor (Granollers) · 12,7 km",
+        "valor": "Pruna Motor (Granollers) · 10,6 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 31,5 km",
+        "valor": "Sant Joan Despí · 30,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

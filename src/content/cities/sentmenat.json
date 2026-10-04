@@ -188,7 +188,7 @@
     "entradilla": "Desde Sentmenat tienes un taller autorizado BMW en Castellar del Vallès y nuestro taller especialista en Sant Joan Despí, a 42 km. Qué te ofrece cada uno y cómo se presupuesta.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 42.1
+      "kmCarretera": 42.2
     },
     "secciones": [
       {
@@ -196,7 +196,7 @@
         "h2": "El servicio autorizado más cercano está en Castellar",
         "parrafos": [
           "Según el localizador de bmw.es, el punto de servicio oficial más próximo a Sentmenat es Tallcar, un taller autorizado BMW en la calle Suiza 6 de Castellar del Vallès, a 6,6 km por carretera. Para una campaña de revisión del fabricante o una reparación en garantía, es la opción lógica por cercanía.",
-          "Nuestro taller, Dasercars Barcelona, queda bastante más lejos: 42,1 km por la B-142, la AP-7 y la B-23 hasta Sant Joan Despí. Tiene sentido cuando buscas un especialista independiente para una avería concreta o para el mantenimiento fuera de la red oficial, que no hace perder la garantía si se respeta el plan del fabricante."
+          "Nuestro taller, Dasercars Barcelona, queda bastante más lejos: 42,2 km por la B-142, la AP-7 y la B-23 hasta Sant Joan Despí. Tiene sentido cuando buscas un especialista independiente para una avería concreta o para el mantenimiento fuera de la red oficial, que no hace perder la garantía si se respeta el plan del fabricante."
         ]
       },
       {
@@ -226,7 +226,7 @@
       },
       {
         "q": "¿Qué distancia hay hasta vuestro taller?",
-        "a": "42,1 km por carretera hasta Sant Joan Despí, por la B-142, la AP-7 y la B-23."
+        "a": "42,2 km por carretera hasta Sant Joan Despí, por la B-142, la AP-7 y la B-23."
       }
     ],
     "datos": [
@@ -262,7 +262,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 42,1 km",
+        "valor": "Sant Joan Despí · 42,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

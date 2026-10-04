@@ -46,13 +46,12 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 29.1,
-  "km_linea_recta": 22.9,
+  "km_carretera": 36.6,
+  "km_linea_recta": 26.4,
   "vias_de_la_ruta": [
-   "M-123",
-   "M-106",
-   "M-100",
-   "A-1"
+   "M-113",
+   "M-50",
+   "R-2"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -66,30 +65,41 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 14.6,
-   "km_linea": 10.6
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 25.3,
+   "km_linea": 16.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "BYmyCAR Madrid (Algete)",
-  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
-  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
-  "cp": "28111",
-  "municipio": "Algete",
-  "web": "https://bmwbymycar.concesionariobmw.es",
+  "nombre": "AutoPremier (P.I.La Garena)",
+  "razon_social": "Auto Premier Baviera, S.A. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Argentina, 7",
+  "cp": "28806",
+  "municipio": "Alcalá de Henares",
+  "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 15.3,
-  "km_linea": 13.3,
+  "km_carretera": 24.2,
+  "km_linea": 19.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "N-320",
+   "tipo": "trunk",
+   "km": 1.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.66813,
+  "lng": -3.39055,
+  "que": "centro del núcleo urbano de Ribatejada (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "valdeolmos-alalpardo",

@@ -46,9 +46,10 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 28.5,
-  "km_linea_recta": 24.6,
+  "km_carretera": 26.9,
+  "km_linea_recta": 22.7,
   "vias_de_la_ruta": [
+   "C-55",
    "A-2"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
@@ -63,9 +64,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 13.7,
-   "km_linea": 11.3
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 12.1,
+   "km_linea": 9.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -76,33 +77,53 @@
   "municipio": "Terrasa",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 19.1,
-  "km_linea": 13.4,
+  "km_carretera": 18.6,
+  "km_linea": 10.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "A-2",
-   "tipo": "motorway",
-   "km": 0.7
-  },
-  {
    "ref": "C-55",
    "tipo": "trunk",
-   "km": 1.2
+   "km": 0.2
   },
   {
    "ref": "B-40",
    "tipo": "motorway",
-   "km": 2.5
+   "km": 0.3
+  },
+  {
+   "ref": "C-1414",
+   "tipo": "secondary",
+   "km": 0.9
+  },
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "N-IIa",
+   "tipo": "secondary",
+   "km": 1.9
+  },
+  {
+   "ref": "B-231",
+   "tipo": "secondary",
+   "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.53023,
+  "lng": 1.90244,
+  "que": "centro del núcleo urbano de Esparreguera (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "olesa-de-montserrat",

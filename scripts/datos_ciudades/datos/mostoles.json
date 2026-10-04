@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 42.4,
-  "km_linea_recta": 31.2,
+  "km_carretera": 42.1,
+  "km_linea_recta": 30.0,
   "vias_de_la_ruta": [
    "R-5",
    "M-30",
@@ -64,7 +64,8 @@
     "municipio": "Móstoles",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV ITV Móstoles, S.A (estación 2870)",
@@ -73,7 +74,8 @@
     "municipio": "Móstoles",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2847)",
@@ -82,7 +84,8 @@
     "municipio": "Móstoles",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -102,7 +105,7 @@
  "vias_cercanas": [
   {
    "ref": "M-506",
-   "tipo": "primary",
+   "tipo": "motorway",
    "km": 1.4
   },
   {
@@ -113,20 +116,26 @@
   {
    "ref": "A-5",
    "tipo": "motorway",
-   "km": 1.9
+   "km": 2.0
+  },
+  {
+   "ref": "M-856",
+   "tipo": "secondary",
+   "km": 2.4
   },
   {
    "ref": "R-5",
    "tipo": "motorway",
-   "km": 2.6
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "alcorcon",
@@ -149,6 +158,11 @@
    "km_linea_recta": 7.4
   },
   {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 7.5
+  },
+  {
    "slug": "humanes-de-madrid",
    "nombre": "Humanes de Madrid",
    "km_linea_recta": 8.5
@@ -162,11 +176,6 @@
    "slug": "boadilla-del-monte",
    "nombre": "Boadilla del Monte",
    "km_linea_recta": 9.3
-  },
-  {
-   "slug": "getafe",
-   "nombre": "Getafe",
-   "km_linea_recta": 11.3
   }
  ],
  "pagina_actual": {

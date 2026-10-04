@@ -7,7 +7,7 @@
   "lat": 41.62263,
   "lng": 2.29305,
   "metaTitle": "Taller BMW en Les Franqueses del Vallès | BMW Taller",
-  "metaDescription": "les Franqueses del Vallès: servicio oficial BMW e ITV en Granollers y taller especialista independiente a 44,6 km por la C-17. Diésel, electrónica y REDISTA.",
+  "metaDescription": "les Franqueses del Vallès: servicio oficial BMW e ITV en Granollers y taller especialista independiente a 42 km por la C-17. Diésel, electrónica y REDISTA.",
   "heroSubtitle": "Mecánica especializada BMW en Les Franqueses del Vallès",
   "trustChips": [
     {
@@ -177,10 +177,10 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Les Franqueses del Vallès: lo cercano, en Granollers; el especialista BMW, por la C-17",
-    "entradilla": "Desde les Franqueses, Granollers queda a 1,7 km en línea recta y concentra lo que el coche necesita a diario: servicio oficial BMW e ITV. Nuestro taller está más lejos, a 44,6 km en Sant Joan Despí, y sirve para otra cosa.",
+    "entradilla": "Desde les Franqueses, Granollers queda a 1,7 km en línea recta y concentra lo que el coche necesita a diario: servicio oficial BMW e ITV. Nuestro taller está más lejos, a 42 km en Sant Joan Despí, y sirve para otra cosa.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 44.6
+      "kmCarretera": 42.0
     },
     "secciones": [
       {
@@ -192,9 +192,9 @@
       },
       {
         "id": "c17-c33",
-        "h2": "44,6 km por la C-17, la C-33 y las rondas",
+        "h2": "42 km por la C-17, la C-33 y la ronda",
         "parrafos": [
-          "El recorrido hasta Dasercars Barcelona baja por la C-17 y la C-33, enlaza con la B-20 y termina por la B-23: 44,6 km por carretera, 34,5 en línea recta. Les Franqueses queda fuera del Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
+          "El recorrido hasta Dasercars Barcelona baja por la C-17 y la C-33 y termina por la B-20: 42 km por carretera, 34,4 en línea recta. Les Franqueses queda fuera del Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
           "Para que el viaje rinda, llama antes y cuenta qué le pasa al coche, con el modelo y el año delante. Así se valora si el problema encaja con lo que hacemos —diésel N47, N57 o B47, electrónica, homologaciones de escape y gases con REDISTA— y si conviene tener alguna pieza pedida."
         ]
       },
@@ -202,7 +202,7 @@
         "id": "c352-por-el-centro",
         "h2": "La C-352 por el centro, la C-17 a 2,1 km",
         "parrafos": [
-          "La C-352 pasa a 0,1 km del centro y la C-17 a 2,1. El término mide 29,14 km² y el núcleo está a 181 metros de altitud.",
+          "La C-352 pasa por el centro y la C-17 a 2,1 km. El término mide 29,14 km² y el núcleo está a 181 metros de altitud.",
           "Un diésel que alterna salidas a la C-17 con trayectos cortos suele llevar bien el filtro de partículas; el que solo hace lo segundo, no tanto. Si se enciende el testigo del filtro, no lo ignores: una regeneración a tiempo es mucho más sencilla que un filtro colmatado."
         ]
       },
@@ -261,7 +261,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 44,6 km",
+        "valor": "Sant Joan Despí · 42 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

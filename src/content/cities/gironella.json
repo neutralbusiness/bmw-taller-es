@@ -7,7 +7,7 @@
   "lat": 42.02272,
   "lng": 1.88597,
   "metaTitle": "Taller BMW Gironella — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "BMW en Gironella: ITV en Berga a 14,2 km, servicio oficial en Sant Fruitós de Bages y taller especialista a 94,3 km. Cuándo compensa el viaje.",
+  "metaDescription": "BMW en Gironella: ITV en Berga a 10,9 km, servicio oficial en Sant Fruitós de Bages y taller especialista a 97,3 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Mantén tu BMW en Gironella con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -182,25 +182,25 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Gironella, en el Berguedà: ITV en Berga y taller BMW a 94 km",
-    "entradilla": "Desde Gironella, el taller de la red queda a 94,3 km, en Sant Joan Despí. No vamos a fingir que está cerca: lo razonable es resolver en la zona casi todo y bajar solo cuando de verdad haga falta un especialista en BMW.",
+    "h1": "Gironella, en el Berguedà: ITV en Berga y taller BMW a 97 km",
+    "entradilla": "Desde Gironella, el taller de la red queda a 97,3 km, en Sant Joan Despí. No vamos a fingir que está cerca: lo razonable es resolver en la zona casi todo y bajar solo cuando de verdad haga falta un especialista en BMW.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 94.3
+      "kmCarretera": 97.3
     },
     "secciones": [
       {
         "id": "berga-y-sant-fruitos",
         "h2": "Berga para la ITV, Sant Fruitós para lo oficial",
         "parrafos": [
-          "La estación más próxima por carretera en el registro de la Generalitat es la ITV Berga (B13), de TÜV Rheinland, en el camí de Sant Bartomeu del polígono La Valldan, a 14,2 km. El servicio oficial BMW más cercano según bmw.es queda hacia el sur: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 32,3 km."
+          "La estación más próxima por carretera en el registro de la Generalitat es la ITV Berga (B13), de TÜV Rheinland, en el camí de Sant Bartomeu del polígono La Valldan, a 10,9 km. El servicio oficial BMW más cercano según bmw.es queda hacia el sur: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 36,1 km."
         ]
       },
       {
         "id": "c16-hacia-el-sur",
-        "h2": "La C-16 a la puerta, 94 km hasta el taller",
+        "h2": "La C-16 a la puerta, 97 km hasta el taller",
         "parrafos": [
-          "La C-16 pasa a menos de un kilómetro del centro, y la C-154 y la C-62 a 2,8. La ruta hasta la nave de Dasercars Barcelona es casi toda esa C-16, seguida de la B-30, la AP-7 y la B-23: 94,3 km por carretera, 74,3 en línea recta.",
+          "La C-16 pasa a menos de un kilómetro del centro, y la C-154 y la C-62 a 1,5. La ruta hasta la nave de Dasercars Barcelona es casi toda esa C-16, seguida de la B-20: 97,3 km por carretera, 75,8 en línea recta.",
           "La recogida del taller solo cubre el área metropolitana, así que el viaje es tuyo. Antes de hacerlo, pide presupuesto: se entrega por escrito y no se toca nada sin que lo apruebes; la diagnosis también se presupuesta, de modo que sabes a qué vas."
         ]
       },
@@ -222,15 +222,15 @@
     "faq": [
       {
         "q": "¿Tenéis taller en el Berguedà?",
-        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 94,3 km."
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 97,3 km."
       },
       {
         "q": "¿Dónde paso la ITV desde Gironella?",
-        "a": "La más próxima por carretera es Berga (B13), en el polígono La Valldan, a 14,2 km."
+        "a": "La más próxima por carretera es Berga (B13), en el polígono La Valldan, a 10,9 km."
       },
       {
         "q": "¿Dónde está el concesionario BMW más cercano?",
-        "a": "Quadis Munich, en Sant Fruitós de Bages, a 32,3 km según bmw.es."
+        "a": "Quadis Munich, en Sant Fruitós de Bages, a 36,1 km según bmw.es."
       }
     ],
     "datos": [
@@ -254,19 +254,19 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Berga (B13) · 14,2 km",
+        "valor": "Berga (B13) · 10,9 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Quadis Munich, Sant Fruitós de Bages · 32,3 km",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 36,1 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 94,3 km",
+        "valor": "Sant Joan Despí · 97,3 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

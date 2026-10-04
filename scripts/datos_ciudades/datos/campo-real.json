@@ -46,13 +46,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 48.3,
-  "km_linea_recta": 33.3,
+  "km_carretera": 46.7,
+  "km_linea_recta": 31.9,
   "vias_de_la_ruta": [
    "M-209",
    "R-3",
-   "M-40",
-   "M-12"
+   "M-30",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -67,8 +67,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 10.4,
-   "km_linea": 6.8
+   "km_carretera": 9.4,
+   "km_linea": 7.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -79,23 +79,38 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 25.4,
-  "km_linea": 19.5,
+  "km_carretera": 23.7,
+  "km_linea": 17.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-209",
    "tipo": "primary",
-   "km": 1.1
+   "km": 0.4
+  },
+  {
+   "ref": "M-220",
+   "tipo": "secondary",
+   "km": 0.7
+  },
+  {
+   "ref": "M-221",
+   "tipo": "secondary",
+   "km": 1.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.33877,
+  "lng": -3.37926,
+  "que": "centro del núcleo urbano de Campo Real (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "arganda",
@@ -140,8 +155,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Campo Real | Comunidad de Madrid",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 6075
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 6974
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -46,12 +46,11 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 27.0,
-  "km_linea_recta": 16.6,
+  "km_carretera": 24.4,
+  "km_linea_recta": 16.5,
   "vias_de_la_ruta": [
    "C-58",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -65,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 6.8,
    "km_linea": 4.6
   }
@@ -84,19 +83,44 @@
  },
  "vias_cercanas": [
   {
+   "ref": "B-141",
+   "tipo": "secondary",
+   "km": 0.3
+  },
+  {
    "ref": "C-58",
    "tipo": "motorway",
    "km": 0.6
   },
   {
    "ref": "N-150",
-   "tipo": "primary",
-   "km": 1.7
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
+   "ref": "C-58 50CN",
+   "tipo": "secondary",
+   "km": 1.0
+  },
+  {
+   "ref": "BP-1413",
+   "tipo": "secondary",
+   "km": 1.2
+  },
+  {
+   "ref": "BV-1411",
+   "tipo": "secondary",
+   "km": 1.2
   },
   {
    "ref": "C-58cc",
    "tipo": "trunk",
-   "km": 1.8
+   "km": 1.7
+  },
+  {
+   "ref": "N-152z",
+   "tipo": "secondary",
+   "km": 2.1
   },
   {
    "ref": "AP-7",
@@ -111,15 +135,21 @@
   {
    "ref": "C-33",
    "tipo": "motorway",
-   "km": 2.6
+   "km": 2.5
+  },
+  {
+   "ref": "B-30",
+   "tipo": "trunk",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 10.6,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "cerdanyola-del-valles",

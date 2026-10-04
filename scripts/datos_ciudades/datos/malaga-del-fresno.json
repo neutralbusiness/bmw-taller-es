@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 69.7,
-  "km_linea_recta": 43.0,
+  "km_carretera": 70.9,
+  "km_linea_recta": 44.0,
   "vias_de_la_ruta": [
    "GU-199",
    "CM-101",
@@ -62,8 +62,8 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 21.6,
-   "km_linea": 17.7
+   "km_carretera": 22.8,
+   "km_linea": 18.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -74,17 +74,22 @@
   "municipio": "Guadalajara",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 20.0,
-  "km_linea": 16.5,
+  "km_carretera": 21.3,
+  "km_linea": 17.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.78856,
+  "lng": -3.24838,
+  "que": "centro del núcleo urbano de Málaga del Fresno (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "yunquera-de-henares",

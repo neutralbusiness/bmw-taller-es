@@ -180,7 +180,7 @@
     "entradilla": "Humanes tiene estación de ITV propia y el servicio oficial BMW a 10 km, en Leganés. Nuestro taller está en Alcobendas, en el extremo opuesto de la región: 46 km. Te contamos cómo encaja.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 46.1
+      "kmCarretera": 45.8
     },
     "secciones": [
       {
@@ -195,7 +195,7 @@
         "id": "cruzar-madrid",
         "h2": "46 kilómetros de sur a norte",
         "parrafos": [
-          "La ruta hasta la calle Valgrande de Alcobendas cruza la región: M-405 y M-506, A-42, M-40, M-30 y A-1. Son 46,1 km por carretera y 36,5 en línea recta.",
+          "La ruta hasta la calle Valgrande de Alcobendas cruza la región: M-405 y M-506, A-42, M-40, M-30 y A-1. Son 45,8 km por carretera y 35,3 en línea recta.",
           "Por eso, para el día a día, el servicio oficial que te queda cerca —Vehinter, Momentum Leganés, a 10,1 km según bmw.es— es más práctico. El viaje a Alcobendas compensa para trabajos de especialista o cuando buscas una alternativa independiente al concesionario; si es tu caso, pregunta por la recogida y entrega dentro del área metropolitana, sujeta a disponibilidad."
         ]
       },
@@ -214,7 +214,7 @@
       },
       {
         "q": "¿Dónde está vuestro taller?",
-        "a": "En la calle Valgrande 17 de Alcobendas, a 46,1 km de Humanes por carretera."
+        "a": "En la calle Valgrande 17 de Alcobendas, a 45,8 km de Humanes por carretera."
       },
       {
         "q": "¿Recogéis el coche en Humanes?",
@@ -248,7 +248,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 46,1 km",
+        "valor": "Alcobendas · 45,8 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

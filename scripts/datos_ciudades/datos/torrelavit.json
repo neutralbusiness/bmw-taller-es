@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 43.6,
-  "km_linea_recta": 28.6,
+  "km_carretera": 43.7,
+  "km_linea_recta": 29.1,
   "vias_de_la_ruta": [
    "BP-2151",
    "BV-2244",
@@ -66,7 +66,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 20.0,
    "km_linea": 10.3
   }
@@ -83,13 +83,20 @@
   "km_linea": 24.6,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "BP-2151",
+   "tipo": "secondary",
+   "km": 1.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "sant-pere-de-riudebitlles",

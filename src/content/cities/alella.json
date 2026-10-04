@@ -175,18 +175,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Alella: un BMW a 3 km del mar y a 31,7 km del taller especialista",
+    "h1": "Alella: un BMW a 3 km del mar y a 29,1 km del taller especialista",
     "entradilla": "A tres kilómetros de la costa del Maresme, Alella tiene la B-20 y la C-32 casi en la puerta. Eso acerca Barcelona y también nuestro taller de Sant Joan Despí. Aquí tienes los datos para decidir.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 31.7
+      "kmCarretera": 29.1
     },
     "secciones": [
       {
-        "id": "b20-b23",
-        "h2": "Por la B-20 y la B-23, sin cruzar Barcelona",
+        "id": "b20",
+        "h2": "Por la B-20, sin cruzar Barcelona",
         "parrafos": [
-          "La ruta hasta el carrer del Tambor del Bruc de Sant Joan Despí va entera por rondas: B-20 y B-23, 31,7 km por carretera, 24,2 en línea recta. Con la C-32 a menos de un kilómetro del centro y la B-20 a menos de dos, la salida es inmediata.",
+          "La ruta hasta el carrer del Tambor del Bruc de Sant Joan Despí va entera por la B-20: 29,1 km por carretera, 23,9 en línea recta. Con la C-32 a menos de un kilómetro del centro y la B-20 a menos de dos, la salida es inmediata.",
           "Alella no forma parte del Área Metropolitana de Barcelona, que es el ámbito de la recogida del taller, así que esa opción no cubre el municipio: cuenta con traer el coche."
         ]
       },
@@ -214,7 +214,7 @@
       },
       {
         "q": "¿Qué distancia hay hasta el taller?",
-        "a": "31,7 km por la B-20 y la B-23 hasta Sant Joan Despí."
+        "a": "29,1 km por la B-20 hasta Sant Joan Despí."
       },
       {
         "q": "¿Dónde está la ITV más cercana?",
@@ -258,7 +258,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 31,7 km",
+        "valor": "Sant Joan Despí · 29,1 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

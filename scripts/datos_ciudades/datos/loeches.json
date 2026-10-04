@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 40.5,
-  "km_linea_recta": 25.9,
+  "km_carretera": 40.4,
+  "km_linea_recta": 26.0,
   "vias_de_la_ruta": [
    "M-206",
    "M-50",
@@ -58,16 +58,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Itversia Gestión, S.L (estación 2861)",
-   "operador": "Itversia Gestión, S.L",
-   "direccion": "C/ Jacinto Benavente, 6. Pol.Ind. Casablanca Este",
-   "municipio": "Torrejón De Ardoz",
+   "nombre": "ITV LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L (estación 2807)",
+   "operador": "LABORATORIO E INSPECCIÓN DE VEHÍCULOS, S.L",
+   "direccion": "Camino de San Martín de la Vega, nº8",
+   "municipio": "Arganda Del Rey",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 12.4,
-   "km_linea": 9.0
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 11.0,
+   "km_linea": 9.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -96,15 +96,21 @@
   {
    "ref": "M-206a",
    "tipo": "motorway",
+   "km": 2.8
+  },
+  {
+   "ref": "MP-203",
+   "tipo": "motorway",
    "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "mejorada-del-campo",
@@ -149,8 +155,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Loeches | Mecánica Especializada Madrid Este",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 8673
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 9261
  },
  "generado": "2026-10-04",
  "perfil": {

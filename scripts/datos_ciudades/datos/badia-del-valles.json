@@ -65,7 +65,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 6.7,
    "km_linea": 3.0
   }
@@ -94,27 +94,43 @@
    "km": 0.7
   },
   {
+   "ref": "AP-7",
+   "tipo": "motorway",
+   "km": 0.8
+  },
+  {
    "ref": "B-30",
    "tipo": "trunk",
    "km": 0.8
   },
   {
-   "ref": "AP-7",
-   "tipo": "motorway",
-   "km": 0.9
-  },
-  {
    "ref": "N-150",
    "tipo": "primary",
    "km": 1.0
+  },
+  {
+   "ref": "B-140",
+   "tipo": "secondary",
+   "km": 2.4
+  },
+  {
+   "ref": "B-141",
+   "tipo": "secondary",
+   "km": 2.5
+  },
+  {
+   "ref": "BP-1413",
+   "tipo": "secondary",
+   "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 14.3,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "barbera-del-valles",

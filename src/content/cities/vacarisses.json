@@ -7,7 +7,7 @@
   "lat": 41.60798,
   "lng": 1.92277,
   "metaTitle": "Taller BMW Vacarisses — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Vacarisses: servicio oficial BMW en Terrassa, ITV en Viladecavalls y taller especialista independiente en Sant Joan Despí, a 41,2 km. Cuándo compensa el viaje.",
+  "metaDescription": "Vacarisses: servicio oficial BMW en Terrassa, ITV en Viladecavalls y taller especialista independiente en Sant Joan Despí, a 40,4 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Mantén tu BMW en Vacarisses con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -185,10 +185,10 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Vacarisses ha crecido un 25,8 % en diez años: dónde llevar tu BMW",
-    "entradilla": "Más vecinos, más coches y ningún concesionario en el pueblo. Te contamos qué tienes en Terrassa y Viladecavalls y qué supone bajar hasta nuestro taller de Sant Joan Despí, a 41 km.",
+    "entradilla": "Más vecinos, más coches y ningún concesionario en el pueblo. Te contamos qué tienes en Terrassa y Viladecavalls y qué supone bajar hasta nuestro taller de Sant Joan Despí, a 40 km.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 41.2
+      "kmCarretera": 40.4
     },
     "secciones": [
       {
@@ -196,7 +196,7 @@
         "h2": "De 6.143 a 7.729 habitantes",
         "parrafos": [
           "El padrón daba a Vacarisses 6.143 vecinos en 2015 y 7.729 en 2025. En 2024 había 4.269 turismos censados según Idescat, con datos de la DGT: 552 por cada mil habitantes, casi el doble que los 281 de Barcelona ciudad.",
-          "En un término de 40,7 km² y a 382 metros de altitud, el coche se usa para casi todo. La C-16 y la C-58 pasan a 2,3 km del centro, así que muchos trayectos acaban en vía rápida, algo que agradecen los diésel con filtro de partículas."
+          "En un término de 40,7 km² y a 382 metros de altitud, el coche se usa para casi todo. La C-16 pasa a 2,1 km del centro y la C-58 a 2,3, así que muchos trayectos acaban en vía rápida, algo que agradecen los diésel con filtro de partículas."
         ]
       },
       {
@@ -214,10 +214,10 @@
         ]
       },
       {
-        "id": "cuarenta-y-un-km",
-        "h2": "41,2 km hasta Sant Joan Despí: cuándo compensa",
+        "id": "cuarenta-km",
+        "h2": "40,4 km hasta Sant Joan Despí: cuándo compensa",
         "parrafos": [
-          "La ruta encadena la C-58, la C-16, la B-30, un tramo de AP-7 y la B-23 hasta el carrer del Tambor del Bruc. Vacarisses no está en el Área Metropolitana de Barcelona, de modo que la recogida del taller no llega: el coche lo traes tú.",
+          "La ruta encadena la C-58, la C-16 y la B-20 hasta el carrer del Tambor del Bruc. Vacarisses no está en el Área Metropolitana de Barcelona, de modo que la recogida del taller no llega: el coche lo traes tú.",
           "Con esa distancia, el viaje tiene sentido para lo que pide un especialista: una caja automática que da tirones, un ruido de distribución en un diésel B47 o un fallo eléctrico que otro taller no ha localizado. Para la revisión de rutina, decide tú si te compensa."
         ]
       }
@@ -269,7 +269,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 41,2 km",
+        "valor": "Sant Joan Despí · 40,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

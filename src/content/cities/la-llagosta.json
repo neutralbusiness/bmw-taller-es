@@ -7,7 +7,7 @@
   "lat": 41.51435,
   "lng": 2.19297,
   "metaTitle": "Taller BMW en La Llagosta — Especialista sin perder garantía",
-  "metaDescription": "La Llagosta: ITV a 4,6 km en Santa Perpètua de Mogoda y taller especialista BMW y MINI a 31,8 km por la C-58 y la B-23.",
+  "metaDescription": "La Llagosta: ITV a 4,6 km en Santa Perpètua de Mogoda y taller especialista BMW y MINI a 29,2 km por la C-33 y la B-20.",
   "heroSubtitle": "¿Tu BMW aún está en garantía? No tienes por qué pagar de más en el concesionario. Te explicamos cómo ahorrar sin perderla.",
   "trustChips": [
     {
@@ -194,11 +194,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "La Llagosta: ITV a 4,6 km y taller especialista BMW a 31,8 km",
+    "h1": "La Llagosta: ITV a 4,6 km y taller especialista BMW a 29,2 km",
     "entradilla": "En poco más de tres kilómetros cuadrados, La Llagosta reúne 13.280 vecinos y queda rodeada de carreteras. Para quien tiene aquí un BMW, la ITV está casi al lado, en Santa Perpètua de Mogoda, y el taller especialista de la red, en Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 31.8
+      "kmCarretera": 29.2
     },
     "secciones": [
       {
@@ -211,17 +211,17 @@
       },
       {
         "id": "cinco-carreteras",
-        "h2": "Cinco carreteras a menos de tres kilómetros",
+        "h2": "Carreteras a menos de tres kilómetros",
         "parrafos": [
-          "OpenStreetMap registra cinco carreteras con referencia a menos de tres kilómetros del centro: la C-17 a 0,9 km, la C-33 a 1 km, la C-59 a 1,9, la AP-7 a 2,5 y la B-140 a 2,9.",
+          "Entre las carreteras que OpenStreetMap registra a menos de tres kilómetros del centro están la C-17 a 0,9 km, la C-33 a 1 km, la C-59 a 1,9, la AP-7 a 2,5 y la B-140 a 2,8.",
           "Para un BMW diésel es buena noticia: rodar un rato a régimen constante, que es lo que el filtro de partículas necesita para quemar el hollín acumulado, está a la vuelta de la esquina. Si en cambio el coche solo se mueve entre retenciones, con muchas paradas, el desgaste se concentra en embrague, frenos y caja automática."
         ]
       },
       {
-        "id": "ruta-c58",
-        "h2": "31,8 km por la C-58, la B-20 y la B-23",
+        "id": "ruta-c33",
+        "h2": "29,2 km por la C-33 y la B-20",
         "parrafos": [
-          "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-58 y cruza por la B-20 hasta la B-23: 31,8 km por carretera, 19,9 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
+          "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-33 y cruza por la B-20 hasta Sant Joan Despí: 29,2 km por carretera, 19,7 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
           "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en el carrer Costa i Deu 133 de Sabadell, a 14,3 km por carretera."
         ]
       },
@@ -281,7 +281,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 31,8 km",
+        "valor": "Sant Joan Despí · 29,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

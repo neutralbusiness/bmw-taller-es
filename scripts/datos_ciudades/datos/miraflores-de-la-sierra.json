@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 46.0,
-  "km_linea_recta": 28.4,
+  "km_carretera": 44.0,
+  "km_linea_recta": 31.9,
   "vias_de_la_ruta": [
    "M-611",
    "M-608",
@@ -60,37 +60,53 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2836)",
-   "operador": "Grupo ITEVELESA, S.L",
-   "direccion": "Carretera A1, km 40,200",
-   "municipio": "El Molar",
+   "nombre": "ITV APPLUS ITEUVE TECHNOLOGY, S.L (estación 2890)",
+   "operador": "APPLUS ITEUVE TECHNOLOGY, S.L",
+   "direccion": "c/ Perfumería, 1. Pol. Ind. La Mina",
+   "municipio": "Colmenar Viejo",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 29.3,
-   "km_linea": 19.0
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 25.2,
+   "km_linea": 17.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "BYmyCAR Madrid (Las Tablas)",
-  "razon_social": "BYMYCAR Madrid, S.L.U. (Las Tablas)",
-  "direccion": "Avenida de Burgos, 133",
-  "cp": "28050",
-  "municipio": "Madrid",
-  "web": "https://bmwbymycar.concesionariobmw.es",
+  "nombre": "Movilnorte (Las Rozas)",
+  "razon_social": "Movilnorte, S.A.",
+  "direccion": "A6-Km. 23,100",
+  "cp": "28230",
+  "municipio": "Las Rozas",
+  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 47.7,
-  "km_linea": 32.8,
+  "km_carretera": 50.4,
+  "km_linea": 32.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-610",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "M-611",
+   "tipo": "secondary",
+   "km": 0.2
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.81052,
+  "lng": -3.76659,
+  "que": "centro del núcleo urbano de Miraflores de la Sierra (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "soto-del-real",

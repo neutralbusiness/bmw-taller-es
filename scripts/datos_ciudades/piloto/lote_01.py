@@ -9,11 +9,11 @@ CIUDADES = {}
 CIUDADES["madrid"] = {
     "h1": "Taller BMW para Madrid capital: Dasercars, a 20 km del centro por la A-1",
     "entradilla": "Madrid no tiene un taller nuestro dentro del término municipal: el taller especialista que atiende la capital está en Alcobendas. Aquí tienes la ruta, las 17 ITV de la ciudad y el servicio oficial más próximo al centro, para que compares con datos.",
-    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 20.5},
+    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 20.2},
     "secciones": [
-        {"id": "ruta-alcobendas", "h2": "Del centro de Madrid a Alcobendas: 20,5 km por la M-30 y la A-1",
+        {"id": "ruta-alcobendas", "h2": "Del centro de Madrid a Alcobendas: 20,2 km por la M-30 y la A-1",
          "parrafos": [
-             "Desde la Puerta del Sol, la ruta más corta hasta la nave de Dasercars en la calle Valgrande sale a la M-30 y sigue por la A-1 hasta el polígono industrial de Alcobendas: 20,5 km por carretera, 15,2 km en línea recta. Desde el norte de la ciudad —Fuencarral, Hortaleza, Las Tablas o Sanchinarro— el trayecto se acorta mucho; desde Vallecas o Villaverde hay que cruzar la M-30 o la M-40.",
+             "Desde la Puerta del Sol, la ruta más corta hasta la nave de Dasercars en la calle Valgrande sale a la M-30 y sigue por la A-1 hasta el polígono industrial de Alcobendas: 20,2 km por carretera, 14,1 km en línea recta. Desde el norte de la ciudad —Fuencarral, Hortaleza, Las Tablas o Sanchinarro— el trayecto se acorta mucho; desde Vallecas o Villaverde hay que cruzar la M-30 o la M-40.",
              "El taller abre de lunes a viernes en jornada partida (9:00–14:00 y 15:00–18:00) y cierra el fin de semana, así que lo práctico es dejar el coche a primera hora y recogerlo por la tarde. Para trabajos de varios días existe vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad: pídelo al reservar, no el mismo día."
          ]},
         {"id": "itv-madrid", "h2": "Diecisiete estaciones ITV dentro del término municipal",
@@ -34,7 +34,7 @@ CIUDADES["madrid"] = {
     ],
     "faq": [
         {"q": "¿Hay algún taller vuestro dentro de Madrid capital?",
-         "a": "No. El taller que atiende Madrid es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 20,5 km del centro por la A-1."},
+         "a": "No. El taller que atiende Madrid es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 20,2 km del centro por la A-1."},
         {"q": "¿Podéis recoger el coche en mi casa de Madrid?",
          "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad. Conviene pedirla al reservar la cita."},
         {"q": "¿En qué ITV de Madrid paso la inspección después de la pre-ITV?",
@@ -46,7 +46,7 @@ CIUDADES["madrid"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "3.506.730 habitantes (+11,6 % desde 2015)", **F.ine},
         {"etiqueta": "Turismos censados (2025)", "valor": "1.360.704 · 388 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Estaciones ITV en el municipio", "valor": "17", **F.itv_madrid},
-        {"etiqueta": "Distancia al taller (Alcobendas)", "valor": "20,5 km por carretera", **F.osrm},
+        {"etiqueta": "Distancia al taller (Alcobendas)", "valor": "20,2 km por carretera", **F.osrm},
         {"etiqueta": "Servicio oficial BMW más cercano", "valor": "Caetano Cuzco, c/ Edgar Neville 1 · 4,9 km", **F.bmw},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.rd920_f, F.r461_f, F.dasercars_madrid_f],
@@ -92,11 +92,11 @@ CIUDADES["guadalajara"] = {
 CIUDADES["lozoyuela-navas-sieteiglesias"] = {
     "h1": "Talleres en Lozoyuela: lo que hay cerca y el especialista BMW de la Sierra Norte",
     "entradilla": "En Lozoyuela-Navas-Sieteiglesias no tenemos taller. Si tienes un BMW o un MINI y vives en el municipio, esto es lo que te queda cerca y lo que supone bajar hasta Alcobendas por la A-1.",
-    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 52.4},
+    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 52.3},
     "secciones": [
         {"id": "sin-taller-en-el-pueblo", "h2": "Por qué esta página no es la de un taller del pueblo",
          "parrafos": [
-             "Quien llega a esta página suele buscar un taller en el propio pueblo, así que lo decimos claro: el taller especialista que atiende esta zona es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 52,4 km por la A-1. Para un pinchazo o una revisión de rutina te conviene un taller del valle; para una avería concreta de BMW, un diagnóstico que otro taller no ha resuelto o el mantenimiento por plan de marca, sí tiene sentido bajar.",
+             "Quien llega a esta página suele buscar un taller en el propio pueblo, así que lo decimos claro: el taller especialista que atiende esta zona es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 52,3 km por la A-1. Para un pinchazo o una revisión de rutina te conviene un taller del valle; para una avería concreta de BMW, un diagnóstico que otro taller no ha resuelto o el mantenimiento por plan de marca, sí tiene sentido bajar.",
              "El municipio, con 1.468 vecinos en el padrón de 2025, ha crecido un 22 % en diez años. En 2025 tenía 809 turismos censados: 551 por cada 1.000 habitantes, bastantes más que en Madrid capital, como es lógico en un sitio donde casi todo queda a varios kilómetros."
          ]},
         {"id": "itv-a1-km66", "h2": "La ITV la tienes en tu propio término: A-1, kilómetro 66",
@@ -112,7 +112,7 @@ CIUDADES["lozoyuela-navas-sieteiglesias"] = {
     ],
     "faq": [
         {"q": "¿Tenéis taller en Lozoyuela?",
-         "a": "No. El taller que atiende la zona está en Alcobendas, a 52,4 km por la A-1."},
+         "a": "No. El taller que atiende la zona está en Alcobendas, a 52,3 km por la A-1."},
         {"q": "¿Dónde paso la ITV si vivo en Lozoyuela?",
          "a": "En la estación de la A-1, km 66, dentro del propio término municipal."},
         {"q": "¿Hace falta registrar una batería nueva en un BMW?",
@@ -123,7 +123,7 @@ CIUDADES["lozoyuela-navas-sieteiglesias"] = {
         {"etiqueta": "Turismos censados (2025)", "valor": "809 · 551 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "ITV en el término", "valor": "TÜV SÜD ATISAE, A-1 km 66", **F.itv_madrid},
         {"etiqueta": "Altitud del centro urbano", "valor": "unos 1.000 m", **F.copernicus},
-        {"etiqueta": "Distancia al taller (Alcobendas)", "valor": "52,4 km por la A-1", **F.osrm},
+        {"etiqueta": "Distancia al taller (Alcobendas)", "valor": "52,3 km por la A-1", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.osrm_f, F.dasercars_madrid_f],
 }
@@ -168,7 +168,7 @@ CIUDADES["zaragoza"] = {
 CIUDADES["sant-boi-de-llobregat"] = {
     "h1": "Taller BMW cerca de Sant Boi: Dasercars Barcelona, a 6 km en Sant Joan Despí",
     "entradilla": "Si vives en Sant Boi de Llobregat, el taller especialista BMW de la red está en el municipio de al lado. Te contamos cómo llegar, qué ofrece dentro del área metropolitana y en qué se diferencia del concesionario que tienes en la carretera del Prat.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 6.2},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 6.1},
     "secciones": [
         {"id": "el-concesionario-de-sant-boi", "h2": "El concesionario de la carretera del Prat no somos nosotros",
          "parrafos": [
@@ -177,12 +177,12 @@ CIUDADES["sant-boi-de-llobregat"] = {
          ]},
         {"id": "seis-kilometros", "h2": "Seis kilómetros hasta el Tambor del Bruc",
          "parrafos": [
-             "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 6,2 km por carretera desde el centro de Sant Boi, 3,2 km en línea recta. Es, de toda la red, una de las ciudades con el taller más a mano.",
+             "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 6,1 km por carretera desde el centro de Sant Boi, 3,4 km en línea recta. Es, de toda la red, una de las ciudades con el taller más a mano.",
              "Sant Boi forma parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche dentro del área metropolitana y vehículo de cortesía, ambos sujetos a disponibilidad. Pídelo al reservar la cita, no a última hora."
          ]},
         {"id": "itv-cornella", "h2": "La ITV más cercana está en Viladecans",
          "parrafos": [
-             "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Sant Boi es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 6,7 km. La de Cornellà (B11), en el passeig de la Campsa, queda más a mano si vienes del taller de Sant Joan Despí después de una pre-ITV."
+             "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Sant Boi es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 6,7 km."
          ]},
         {"id": "parque-sant-boi", "h2": "85.610 vecinos y casi 34.000 turismos",
          "parrafos": [
@@ -201,7 +201,7 @@ CIUDADES["sant-boi-de-llobregat"] = {
         {"etiqueta": "Población (padrón 2025)", "valor": "85.610 habitantes", **F.ine},
         {"etiqueta": "Comarca", "valor": "Baix Llobregat", **F.idescat("082009")},
         {"etiqueta": "Turismos censados (2024)", "valor": "33.970 · 397 por cada 1.000 hab.", **F.idescat("082009")},
-        {"etiqueta": "Distancia al taller (Sant Joan Despí)", "valor": "6,2 km por carretera", **F.osrm},
+        {"etiqueta": "Distancia al taller (Sant Joan Despí)", "valor": "6,1 km por carretera", **F.osrm},
         {"etiqueta": "ITV más cercana", "valor": "Viladecans (B07) · 6,7 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, ctra. del Prat 15 · 2,4 km", **F.bmw},
     ],

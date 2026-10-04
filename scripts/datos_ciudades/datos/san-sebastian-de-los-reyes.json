@@ -46,30 +46,32 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 2.4,
-  "km_linea_recta": 1.6,
+  "km_carretera": 4.5,
+  "km_linea_recta": 2.9,
   "vias_de_la_ruta": [],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [
    {
-    "nombre": "ITV INTECTRA, S.A (estación 2821)",
-    "operador": "INTECTRA, S.A",
+    "nombre": "ITV INTECTRA, S.A (estación 2821)",
+    "operador": "INTECTRA, S.A",
     "direccion": "Ctra. A-1, km 23 - Desvío Algete",
-    "municipio": "San Sebastián De Los Reyes",
+    "municipio": "San Sebastián De Los Reyes",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (punto kilométrico)"
    },
    {
     "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2850)",
     "operador": "TÜV Rheinland Ibérica, S.A",
     "direccion": "Avda. Fuente Nueva, 7. C. C. Plaza Norte",
-    "municipio": "San Sebastián De Los Reyes",
+    "municipio": "San Sebastián De Los Reyes",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -100,7 +102,7 @@
   {
    "ref": "M-616",
    "tipo": "trunk",
-   "km": 2.5
+   "km": 2.4
   },
   {
    "ref": "M-603",
@@ -110,15 +112,16 @@
   {
    "ref": "M-12",
    "tipo": "motorway",
-   "km": 2.8
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "alcobendas",

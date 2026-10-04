@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 27.3,
-  "km_linea_recta": 14.2,
+  "km_carretera": 24.1,
+  "km_linea_recta": 12.1,
   "vias_de_la_ruta": [
    "BV-2041",
    "C-32LD",
@@ -65,9 +65,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 18.9,
-   "km_linea": 10.6
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 15.8,
+   "km_linea": 8.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +78,33 @@
   "municipio": "Sant Boi de Llobregat",
   "web": "https://barcelonapremium-santboi.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 23.5,
-  "km_linea": 13.0,
+  "km_carretera": 20.4,
+  "km_linea": 10.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "C-535",
+   "tipo": "secondary",
+   "km": 0.2
+  },
+  {
+   "ref": "BV-2041",
+   "tipo": "secondary",
+   "km": 1.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
-  "km": 8.3,
+  "km": 8.1,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.33079,
+  "lng": 1.92575,
+  "que": "centro del núcleo urbano de Begues (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "olesa-de-bonesvalls",
@@ -133,8 +149,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Begues — Especialistas con diagnóstico ISTA",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 6520
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 7561
  },
  "generado": "2026-10-04",
  "perfil": {

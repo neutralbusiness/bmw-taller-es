@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 14.2,
-  "km_linea_recta": 8.3,
+  "km_carretera": 14.1,
+  "km_linea_recta": 8.5,
   "vias_de_la_ruta": [
    "C-32LD",
    "B-25"
@@ -64,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 2.9,
    "km_linea": 1.6
   }
@@ -83,6 +83,16 @@
  },
  "vias_cercanas": [
   {
+   "ref": "BV-2041",
+   "tipo": "secondary",
+   "km": 0.6
+  },
+  {
+   "ref": "C-234",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
    "ref": "C-32",
    "tipo": "motorway",
    "km": 1.6
@@ -96,14 +106,25 @@
    "ref": "C-32LE",
    "tipo": "trunk",
    "km": 1.6
+  },
+  {
+   "ref": "B-210",
+   "tipo": "secondary",
+   "km": 1.9
+  },
+  {
+   "ref": "B-204",
+   "tipo": "secondary",
+   "km": 2.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 4.6,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "viladecans",

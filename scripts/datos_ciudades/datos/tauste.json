@@ -57,8 +57,8 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 56.1,
-   "km_linea": 43.6
+   "km_carretera": 49.7,
+   "km_linea": 38.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -69,17 +69,48 @@
   "municipio": "Zaragoza",
   "web": "https://augustaaragon.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 54.3,
-  "km_linea": 38.2,
+  "km_carretera": 47.9,
+  "km_linea": 41.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "A-127a",
+   "tipo": "secondary",
+   "km": 0.4
+  },
+  {
+   "ref": "A-1208a",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
+   "ref": "A-127",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "A-1208",
+   "tipo": "secondary",
+   "km": 1.1
+  },
+  {
+   "ref": "A-126",
+   "tipo": "primary",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.91706,
+  "lng": -1.25575,
+  "que": "centro del núcleo urbano de Tauste (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "alagon",

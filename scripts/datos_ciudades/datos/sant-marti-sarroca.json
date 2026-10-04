@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 59.0,
-  "km_linea_recta": 36.7,
+  "km_carretera": 55.3,
+  "km_linea_recta": 37.6,
   "vias_de_la_ruta": [
    "BP-2121",
    "AP-7",
@@ -65,9 +65,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 17.0,
-   "km_linea": 9.4
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 13.3,
+   "km_linea": 10.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +78,33 @@
   "municipio": "Vilanova i la Geltrú",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 29.4,
-  "km_linea": 18.3,
+  "km_carretera": 25.7,
+  "km_linea": 20.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "BP-2121",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
+   "ref": "BV-2122",
+   "tipo": "secondary",
+   "km": 1.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.38558,
+  "lng": 1.61313,
+  "que": "centro del núcleo urbano de Sant Martí Sarroca (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "pacs-del-penedes",

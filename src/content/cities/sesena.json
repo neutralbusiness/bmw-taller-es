@@ -182,7 +182,7 @@
     "entradilla": "Seseña ha pasado de 21.558 a 30.907 vecinos en diez años. Es provincia de Toledo, pero el taller que la atiende está en Alcobendas, a 58 km por la A-4. Esto es lo que tienes cerca y lo que supone el viaje.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 58.1
+      "kmCarretera": 57.8
     },
     "secciones": [
       {
@@ -197,14 +197,14 @@
         "id": "lo-oficial-cerca",
         "h2": "Lo oficial que tienes más cerca",
         "parrafos": [
-          "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km por carretera. Para la ITV, una estación oficial cercana es la de General de Servicios ITV en el polígono Gonzalo Chacón de Aranjuez, a 14,7 km, que figura en el listado de la Comunidad de Madrid."
+          "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km por carretera. Para la ITV, una estación oficial cercana es la de ITV Valdemoro, en la calle Vereda de la Solana 43-45 del polígono industrial Las Canteras de Valdemoro, a 13 km, que figura en el listado de la Comunidad de Madrid."
         ]
       },
       {
         "id": "a4-hasta-alcobendas",
         "h2": "58 kilómetros por la A-4, la M-30 y la A-1",
         "parrafos": [
-          "La ruta hasta la calle Valgrande de Alcobendas sube por la R-4 y la A-4, cruza por la M-30 y sale por la A-1: 58,1 km por carretera. Seseña queda fuera del área metropolitana de Madrid, así que la recogida y entrega que ofrece el taller no te sirve; el viaje lo haces tú.",
+          "La ruta hasta la calle Valgrande de Alcobendas sube por la R-4, la M-423 y la A-4, cruza por la M-30 y sale por la A-1: 57,8 km por carretera. Seseña queda fuera del área metropolitana de Madrid, así que la recogida y entrega que ofrece el taller no te sirve; el viaje lo haces tú.",
           "Para que compense, llama antes con modelo, año, kilometraje y bastidor. El presupuesto se entrega por escrito y ningún trabajo empieza sin tu aprobación, de modo que puedes decidir antes de mover el coche."
         ]
       }
@@ -212,7 +212,7 @@
     "faq": [
       {
         "q": "¿Por qué os atiende un taller de Madrid si Seseña es de Toledo?",
-        "a": "Porque el taller de la red más cercano es Dasercars Madrid, en Alcobendas, a 58,1 km; no hay otro taller de la red más próximo."
+        "a": "Porque el taller de la red más cercano es Dasercars Madrid, en Alcobendas, a 57,8 km; no hay otro taller de la red más próximo."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -238,13 +238,13 @@
       },
       {
         "etiqueta": "ITV oficial cercana",
-        "valor": "Aranjuez, polígono Gonzalo Chacón · 14,7 km",
+        "valor": "Valdemoro, polígono Las Canteras · 13 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 58,1 km",
+        "valor": "Alcobendas · 57,8 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

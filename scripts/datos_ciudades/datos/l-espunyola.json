@@ -46,14 +46,12 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 116.7,
-  "km_linea_recta": 79.1,
+  "km_carretera": 112.4,
+  "km_linea_recta": 80.1,
   "vias_de_la_ruta": [
    "C-26",
    "C-16",
-   "B-30",
-   "AP-7",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -67,9 +65,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 12.4,
-   "km_linea": 8.2
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 8.9,
+   "km_linea": 6.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,23 +78,28 @@
   "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 54.7,
-  "km_linea": 32.3,
+  "km_carretera": 51.2,
+  "km_linea": 33.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "C-26",
    "tipo": "primary",
-   "km": 0.9
+   "km": 0.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 42.05269,
+  "lng": 1.77043,
+  "que": "centro del núcleo urbano de L'Espunyola (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "montclar",

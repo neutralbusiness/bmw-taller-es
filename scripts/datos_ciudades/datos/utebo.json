@@ -75,7 +75,17 @@
  },
  "vias_cercanas": [
   {
+   "ref": "N-232",
+   "tipo": "secondary",
+   "km": 0.7
+  },
+  {
    "ref": "A-68",
+   "tipo": "motorway",
+   "km": 1.2
+  },
+  {
+   "ref": "AP-68",
    "tipo": "motorway",
    "km": 1.2
   },
@@ -85,22 +95,18 @@
    "km": 1.3
   },
   {
-   "ref": "N-232",
-   "tipo": "trunk",
-   "km": 1.5
-  },
-  {
-   "ref": "AP-68",
-   "tipo": "motorway",
-   "km": 2.9
+   "ref": "Z-A-2563",
+   "tipo": "secondary",
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "zaragoza",

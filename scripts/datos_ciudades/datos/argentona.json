@@ -46,12 +46,11 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 45.2,
-  "km_linea_recta": 35.3,
+  "km_carretera": 42.6,
+  "km_linea_recta": 35.0,
   "vias_de_la_ruta": [
    "C-32",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -64,7 +63,8 @@
     "municipio": "Argentona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    }
   ],
   "mas_cercana": null
@@ -88,14 +88,14 @@
    "km": 0.7
   },
   {
-   "ref": "C-32",
-   "tipo": "motorway",
+   "ref": "B-40",
+   "tipo": "primary",
    "km": 1.4
   },
   {
-   "ref": "B-40",
-   "tipo": "primary",
-   "km": 1.5
+   "ref": "C-32",
+   "tipo": "motorway",
+   "km": 1.4
   },
   {
    "ref": "N-II",
@@ -105,15 +105,16 @@
   {
    "ref": "C-31F",
    "tipo": "trunk",
-   "km": 2.8
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 4.3,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "cabrera-de-mar",
@@ -158,8 +159,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Argentona — Especialistas sin perder garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 11633
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 12891
  },
  "generado": "2026-10-04",
  "perfil": {

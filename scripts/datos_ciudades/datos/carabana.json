@@ -46,13 +46,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 68.9,
+  "km_carretera": 67.0,
   "km_linea_recta": 46.4,
   "vias_de_la_ruta": [
    "M-204",
    "A-3",
-   "M-40",
-   "M-12"
+   "M-30",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -85,17 +85,28 @@
  },
  "vias_cercanas": [
   {
+   "ref": "M-221",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
    "ref": "M-204",
    "tipo": "primary",
-   "km": 1.0
+   "km": 0.9
+  },
+  {
+   "ref": "M-231",
+   "tipo": "secondary",
+   "km": 1.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "tielmes",

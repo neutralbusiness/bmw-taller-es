@@ -46,13 +46,11 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 32.3,
-  "km_linea_recta": 22.4,
+  "km_carretera": 31.4,
+  "km_linea_recta": 22.7,
   "vias_de_la_ruta": [
    "C-16",
-   "B-30",
-   "AP-7",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -66,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 6.3,
    "km_linea": 3.3
   }
@@ -85,9 +83,29 @@
  },
  "vias_cercanas": [
   {
+   "ref": "C-243c",
+   "tipo": "secondary",
+   "km": 1.3
+  },
+  {
+   "ref": "BV-1221",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
    "ref": "N-150",
    "tipo": "primary",
    "km": 1.8
+  },
+  {
+   "ref": "B-120",
+   "tipo": "secondary",
+   "km": 1.9
+  },
+  {
+   "ref": "B-40",
+   "tipo": "secondary",
+   "km": 1.9
   },
   {
    "ref": "BP-1503var",
@@ -95,32 +113,28 @@
    "km": 1.9
   },
   {
-   "ref": "B-40",
-   "tipo": "motorway",
-   "km": 2.1
-  },
-  {
    "ref": "C-16",
    "tipo": "motorway",
-   "km": 2.1
+   "km": 2.0
   },
   {
    "ref": "C-58",
    "tipo": "motorway",
-   "km": 2.1
+   "km": 2.0
   },
   {
-   "ref": "C-243c",
-   "tipo": "primary",
+   "ref": "BP-1503",
+   "tipo": "secondary",
    "km": 2.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "viladecavalls",

@@ -7,7 +7,7 @@
   "lat": 41.47063,
   "lng": 2.08611,
   "metaTitle": "Taller especializado BMW en Sant Cugat del Vallès — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "Especialista independiente BMW y MINI para Sant Cugat, a 22,8 km por carretera en Sant Joan Despí. ITV en Sant Mamet y recogida sujeta a disponibilidad.",
+  "metaDescription": "Especialista independiente BMW y MINI para Sant Cugat, a 20,2 km por carretera en Sant Joan Despí. ITV en Sant Mamet y recogida sujeta a disponibilidad.",
   "heroSubtitle": "Taller especialista BMW para Sant Cugat del Vallès y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -188,18 +188,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Sant Cugat: concesionario BMW en la ciudad y especialista independiente a 22,8 km",
-    "entradilla": "En línea recta, el taller de Sant Joan Despí está a 11,7 km de Sant Cugat; por carretera, casi al doble. Te explicamos por qué y lo que tienes dentro del municipio: servicio oficial, ITV y recogida del coche.",
+    "h1": "Sant Cugat: concesionario BMW en la ciudad y especialista independiente a 20,2 km",
+    "entradilla": "En línea recta, el taller de Sant Joan Despí está a 11,8 km de Sant Cugat; por carretera, a 20,2. Te explicamos por qué y lo que tienes dentro del municipio: servicio oficial, ITV y recogida del coche.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 22.8
+      "kmCarretera": 20.2
     },
     "secciones": [
       {
-        "id": "el-doble-por-carretera",
-        "h2": "11,7 km en línea recta, 22,8 por carretera",
+        "id": "rodeo-por-carretera",
+        "h2": "11,8 km en línea recta, 20,2 por carretera",
         "parrafos": [
-          "Entre Sant Cugat y el Baix Llobregat no hay un camino directo: la ruta que calcula OpenStreetMap baja por la C-16, enlaza con la B-20 y termina en la B-23 hasta el carrer del Tambor del Bruc. Son 22,8 km, prácticamente el doble de la distancia en línea recta.",
+          "Entre Sant Cugat y el Baix Llobregat no hay un camino directo: la ruta que calcula OpenStreetMap baja por la C-16 y enlaza con la B-20 hasta el carrer del Tambor del Bruc. Son 20,2 km, un 71 % más que la distancia en línea recta.",
           "Sant Cugat es uno de los municipios del Área Metropolitana de Barcelona, así que entra en la zona de recogida y entrega del taller y en la de vehículo de cortesía, siempre sujetos a disponibilidad. Con un trayecto así, merece la pena pedirlo."
         ]
       },
@@ -230,7 +230,7 @@
     "faq": [
       {
         "q": "¿Por qué hay tanta diferencia entre línea recta y carretera?",
-        "a": "Porque no hay vía directa entre Sant Cugat y Sant Joan Despí: la ruta rodea por la C-16, la B-20 y la B-23."
+        "a": "Porque no hay vía directa entre Sant Cugat y Sant Joan Despí: la ruta rodea por la C-16 y la B-20."
       },
       {
         "q": "¿Recogéis el coche en Sant Cugat?",
@@ -274,7 +274,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 22,8 km",
+        "valor": "Sant Joan Despí · 20,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

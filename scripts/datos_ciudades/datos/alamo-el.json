@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 61.8,
-  "km_linea_recta": 45.4,
+  "km_carretera": 61.5,
+  "km_linea_recta": 44.2,
   "vias_de_la_ruta": [
    "M-404",
    "R-5",
@@ -66,9 +66,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 9.8,
-   "km_linea": 5.1
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 9.5,
+   "km_linea": 6.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -87,15 +87,21 @@
   {
    "ref": "M-404",
    "tipo": "primary",
-   "km": 0.3
+   "km": 0.2
+  },
+  {
+   "ref": "R-5",
+   "tipo": "motorway",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "batres",
@@ -106,6 +112,11 @@
    "slug": "navalcarnero",
    "nombre": "Navalcarnero",
    "km_linea_recta": 6.6
+  },
+  {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 7.1
   },
   {
    "slug": "moraleja-de-enmedio",
@@ -131,11 +142,6 @@
    "slug": "ugena",
    "nombre": "Ugena",
    "km_linea_recta": 12.5
-  },
-  {
-   "slug": "humanes-de-madrid",
-   "nombre": "Humanes de Madrid",
-   "km_linea_recta": 13.4
   }
  ],
  "pagina_actual": {

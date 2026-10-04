@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 12.7,
-  "km_linea_recta": 8.8,
+  "km_carretera": 10.1,
+  "km_linea_recta": 8.4,
   "vias_de_la_ruta": [
    "B-23"
   ],
@@ -62,7 +62,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    },
    {
     "nombre": "ITV BCN Caracas (B23)",
@@ -71,7 +72,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    },
    {
     "nombre": "ITV Motors (B15)",
@@ -80,7 +82,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    },
    {
     "nombre": "ITV Àvila (B19)",
@@ -89,7 +92,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    },
    {
     "nombre": "ITV Diputació (B14)",
@@ -98,7 +102,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    },
    {
     "nombre": "ITV Puigmadrona (B10)",
@@ -107,7 +112,8 @@
     "municipio": "Barcelona",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    }
   ],
   "mas_cercana": null
@@ -131,17 +137,23 @@
    "km": 0.5
   },
   {
+   "ref": "N-340",
+   "tipo": "secondary",
+   "km": 1.9
+  },
+  {
    "ref": "B-10",
    "tipo": "trunk",
    "km": 2.1
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 4.2,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "l-hospitalet-de-llobregat",

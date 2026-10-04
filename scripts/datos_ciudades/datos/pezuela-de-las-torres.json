@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 58.2,
-  "km_linea_recta": 42.3,
+  "km_carretera": 56.6,
+  "km_linea_recta": 42.2,
   "vias_de_la_ruta": [
    "M-234",
    "CM-2004",
@@ -69,8 +69,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 22.2,
-   "km_linea": 17.5
+   "km_carretera": 20.6,
+   "km_linea": 16.8
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -81,17 +81,38 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 27.1,
-  "km_linea": 21.3,
+  "km_carretera": 25.5,
+  "km_linea": 20.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "CM-2004",
+   "tipo": "secondary",
+   "km": 1.7
+  },
+  {
+   "ref": "M-237",
+   "tipo": "secondary",
+   "km": 1.7
+  },
+  {
+   "ref": "M-225",
+   "tipo": "secondary",
+   "km": 1.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.41848,
+  "lng": -3.17741,
+  "que": "centro del núcleo urbano de Pezuela de las Torres (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "olmeda-de-las-fuentes",

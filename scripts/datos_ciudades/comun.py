@@ -27,7 +27,9 @@ UA = "bmw-taller.es datos-ciudades/1.0 (info@bmw-taller.es)"
 # Talleres reales que atienden cada zona. Fuente: páginas /talleres/,
 # /taller-bmw-madrid/ y /taller-bmw-barcelona/ de www.bmw-taller.es (JSON-LD
 # con dirección, CP y coordenadas) y la asignación de teléfonos por zona del
-# panel (network_sites.custom_phone). Si una zona no tiene dirección real,
+# panel (network_sites.custom_phone). Coordenadas: portal geocodificado con
+# CartoCiudad (IGN) el 04-oct-2026 (las del JSON-LD estaban redondeadas a 3-4
+# decimales: Alcobendas caía 1,2 km al NE, en el centro). Si una zona no tiene dirección real,
 # `direccion` es None y NO se calcula distancia ni se declara LocalBusiness.
 # ──────────────────────────────────────────────────────────────────────────
 SOCIOS = {
@@ -37,8 +39,8 @@ SOCIOS = {
         "cp": "08970",
         "municipio": "Sant Joan Despí",
         "provincia": "Barcelona",
-        "lat": 41.3672,
-        "lng": 2.0575,
+        "lat": 41.36594,
+        "lng": 2.06355,
         "telefono": "+34622552992",
         "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
         "horario_schema": [["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "09:00", "14:00", "15:00", "18:00"],
@@ -50,8 +52,8 @@ SOCIOS = {
         "cp": "28108",
         "municipio": "Alcobendas",
         "provincia": "Madrid",
-        "lat": 40.545,
-        "lng": -3.641,
+        "lat": 40.53717,
+        "lng": -3.65107,
         "telefono": "+34665245143",
         "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
         "horario_schema": [["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "09:00", "14:00", "15:00", "18:00"],
@@ -66,8 +68,12 @@ SOCIOS = {
 }
 
 # Códigos INE mal asignados en network_cities (comprobado contra el nombre
-# oficial de la tabla 29005 del INE el 04-oct-2026).
-INE_CORRECCIONES = {"la-llagosta": "08105"}
+# oficial de la tabla 29005 del INE el 04-oct-2026; Arroyomolinos, al comprobar
+# que el prefijo provincial del código coincide con la provincia).
+INE_CORRECCIONES = {
+    "la-llagosta": "08105",
+    "arroyomolinos": "28015",  # el panel tenía 10023 = Arroyomolinos (Cáceres): población 816 y coordenadas en Extremadura
+}
 
 # Subdominios que NO son municipios: su población, superficie, etc. NO son las
 # del municipio al que pertenecen. El texto debe decir «barrio de X».

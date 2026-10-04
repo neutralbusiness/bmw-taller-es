@@ -47,7 +47,8 @@
     "municipio": "Las Palmas de Gran Canaria",
     "fuente": "OpenStreetMap (way/1237266692) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -66,6 +67,11 @@
  },
  "vias_cercanas": [
   {
+   "ref": "GC-110",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
    "ref": "GC-1 AM",
    "tipo": "trunk",
    "km": 0.3
@@ -73,7 +79,7 @@
   {
    "ref": "GC-31",
    "tipo": "motorway",
-   "km": 1.1
+   "km": 1.0
   },
   {
    "ref": "GC-23",
@@ -81,12 +87,13 @@
    "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 0.3,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "telde",

@@ -46,12 +46,11 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 48.7,
-  "km_linea_recta": 41.8,
+  "km_carretera": 48.2,
+  "km_linea_recta": 40.5,
   "vias_de_la_ruta": [
-   "M-404",
-   "M-423",
-   "A-4",
+   "A-42",
+   "M-40",
    "M-30",
    "A-1"
   ],
@@ -60,16 +59,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2841)",
-   "operador": "TÜV Rheinland Ibérica, S.A",
-   "direccion": "C/ Berlín, 1. Pol. Ind. de Parla",
+   "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2897)",
+   "operador": "DEKRA ITV ESPAÑA, S.L.U",
+   "direccion": "C/ Roma, 9",
    "municipio": "Parla",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 10.1,
-   "km_linea": 5.8
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 10.5,
+   "km_linea": 6.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,28 +79,33 @@
   "municipio": "Getafe",
   "web": "https://vehinter.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 17.5,
-  "km_linea": 12.6,
+  "km_carretera": 13.6,
+  "km_linea": 12.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-404",
    "tipo": "primary",
-   "km": 0.8
+   "km": 0.7
   },
   {
-   "ref": "R-4",
+   "ref": "A-42",
    "tipo": "motorway",
-   "km": 2.4
+   "km": 1.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.18676,
+  "lng": -3.77949,
+  "que": "centro del núcleo urbano de Torrejón de Velasco (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "torrejon-de-la-calzada",
@@ -146,8 +150,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Torrejón de Velasco | Especialistas al sur de Madrid",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 4161
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 4900
  },
  "generado": "2026-10-04",
  "perfil": {

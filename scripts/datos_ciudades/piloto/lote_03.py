@@ -5,13 +5,13 @@ REVISADO = "2026-10-04"
 CIUDADES = {}
 
 CIUDADES["barcelona"] = {
-    "h1": "Taller especialista BMW para Barcelona ciudad, a 12,7 km por la Diagonal y la B-23",
+    "h1": "Taller especialista BMW para Barcelona ciudad, a 10,1 km por la Diagonal y la B-23",
     "entradilla": "El taller BMW de la red para Barcelona está fuera del término municipal, en Sant Joan Despí. Para quien vive en la ciudad hay dos datos que importan: se llega por la B-23 y hay recogida del coche dentro del área metropolitana.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 12.7},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 10.1},
     "secciones": [
         {"id": "salir-por-la-b23", "h2": "Salir de Barcelona por la B-23",
          "parrafos": [
-             "Desde el centro de la ciudad hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, hay 12,7 km por carretera y 8,8 en línea recta. El recorrido natural es Diagonal abajo hasta la B-23, y de ahí al Baix Llobregat; desde la parte alta de la ciudad, la Ronda de Dalt es la alternativa.",
+             "Desde el centro de la ciudad hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, hay 10,1 km por carretera y 8,4 en línea recta. El recorrido natural es Diagonal abajo hasta la B-23, y de ahí al Baix Llobregat; desde la parte alta de la ciudad, la Ronda de Dalt es la alternativa.",
              "El taller abre de lunes a viernes en jornada partida, de 9:00 a 14:00 y de 15:00 a 18:00. Los fines de semana está cerrado."
          ]},
         {"id": "recogida-amb", "h2": "Recogida y entrega dentro del área metropolitana",
@@ -30,7 +30,7 @@ CIUDADES["barcelona"] = {
     ],
     "faq": [
         {"q": "¿Tenéis taller dentro de Barcelona?",
-         "a": "No. El taller de la red para Barcelona es Dasercars Barcelona, en Sant Joan Despí, a 12,7 km del centro."},
+         "a": "No. El taller de la red para Barcelona es Dasercars Barcelona, en Sant Joan Despí, a 10,1 km del centro."},
         {"q": "¿Recogéis el coche en Barcelona?",
          "a": "Sí, dentro del área metropolitana hay recogida y entrega, sujeta a disponibilidad. Conviene pedirla al reservar."},
         {"q": "¿Qué ITV hay en Barcelona ciudad?",
@@ -43,7 +43,7 @@ CIUDADES["barcelona"] = {
         {"etiqueta": "Turismos (2024)", "valor": "487.185 · 281 por cada 1.000 hab.", **F.idescat("080193")},
         {"etiqueta": "Estaciones ITV en la ciudad", "valor": "6", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, c. Esteve Terrades 77-79 · 4,2 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 12,7 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 10,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080193"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.rd920_f, F.r461_f, F.dasercars_bcn_f],
 }
@@ -51,7 +51,7 @@ CIUDADES["barcelona"] = {
 CIUDADES["sabadell"] = {
     "h1": "Sabadell: servicio autorizado BMW en la ciudad y especialista independiente por la AP-7",
     "entradilla": "Sabadell tiene taller autorizado BMW propio y estación de ITV en el polígono Can Roqueta. Nuestro taller está a 32 km, en Sant Joan Despí. Qué ofrece cada opción, sin rodeos.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 32.0},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 32.1},
     "secciones": [
         {"id": "sitjas", "h2": "Sitjas, el taller autorizado de la calle Quintana",
          "parrafos": [
@@ -60,7 +60,7 @@ CIUDADES["sabadell"] = {
          ]},
         {"id": "ap7-b23", "h2": "32 kilómetros por la AP-7 y la B-23",
          "parrafos": [
-             "La ruta desde el centro de Sabadell hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 32 km por carretera, 20,1 en línea recta. Sabadell no forma parte del Área Metropolitana de Barcelona, y la recogida del taller, que cubre solo el área metropolitana, no llega aquí: cuenta con traer el coche.",
+             "La ruta desde el centro de Sabadell hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 32,1 km por carretera, 20,1 en línea recta. Sabadell no forma parte del Área Metropolitana de Barcelona, y la recogida del taller, que cubre solo el área metropolitana, no llega aquí: cuenta con traer el coche.",
              "Para que el viaje compense, llama antes con modelo, año, kilometraje y el síntoma. Con el bastidor se comprueba la referencia exacta del recambio y se puede tener la pieza el día que entra el coche."
          ]},
         {"id": "itv-can-roqueta", "h2": "La ITV de Sabadell, en Can Roqueta",
@@ -86,7 +86,7 @@ CIUDADES["sabadell"] = {
         {"etiqueta": "Turismos (2024)", "valor": "95.235 · 423 por cada 1.000 hab.", **F.idescat("081878")},
         {"etiqueta": "ITV en el municipio", "valor": "Sabadell (B24), polígono Can Roqueta", **F.itv_cat},
         {"etiqueta": "Taller autorizado BMW", "valor": "Sitjas Motor, c. Quintana 64 · 1,7 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 32 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 32,1 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081878"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
 }
@@ -103,7 +103,7 @@ CIUDADES["torrejon-de-ardoz"] = {
          ]},
         {"id": "ruta-r2", "h2": "Hacia Alcobendas por la M-50 y la R-2",
          "parrafos": [
-             "La ruta desde el centro de Torrejón hasta la calle Valgrande de Alcobendas usa la M-108, la M-50 y la R-2: 27 km por carretera, 17,6 en línea recta. El taller trabaja de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00.",
+             "La ruta desde el centro de Torrejón hasta la calle Valgrande de Alcobendas usa la M-108, la M-50 y la R-2: 27 km por carretera, 17,8 en línea recta. El taller trabaja de lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00.",
              "Para trabajos de más de un día existe vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad. Pregunta al reservar si tu dirección entra."
          ]},
         {"id": "oficial-alcala", "h2": "El servicio oficial más cercano está en Alcalá",
@@ -134,18 +134,18 @@ CIUDADES["torrejon-de-ardoz"] = {
 }
 
 CIUDADES["girona"] = {
-    "h1": "BMW en Girona: servicio oficial en Salt y especialista independiente a 111 km",
-    "entradilla": "Nuestro taller más cercano a Girona está en Sant Joan Despí, a 111 km por la AP-7. Es mucha distancia y no lo vamos a disimular: te explicamos para qué tiene sentido y qué tienes a mano en la ciudad.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 111.0},
+    "h1": "BMW en Girona: servicio oficial en Salt y especialista independiente a 108 km",
+    "entradilla": "Nuestro taller más cercano a Girona está en Sant Joan Despí, a 108 km por la AP-7. Es mucha distancia y no lo vamos a disimular: te explicamos para qué tiene sentido y qué tienes a mano en la ciudad.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 108.4},
     "secciones": [
         {"id": "lo-que-hay-en-girona", "h2": "Lo que tienes en Girona",
          "parrafos": [
              "El servicio oficial BMW más próximo según el localizador de bmw.es es Oliva Motor Girona, en el carrer de Lingen 9-11 de Salt, a 4,8 km del centro de Girona. La ITV, dentro del propio municipio: la estación de Girona (G09) del registro de la Generalitat, en el carrer Sarrià de Ter.",
              "Con esas dos cosas a menos de cinco kilómetros, para revisiones, campañas del fabricante e inspecciones no tiene sentido bajar a Barcelona."
          ]},
-        {"id": "cuando-bajar", "h2": "Para qué sí compensa hacer 111 kilómetros",
+        {"id": "cuando-bajar", "h2": "Para qué sí compensa hacer 108 kilómetros",
          "parrafos": [
-             "Para lo que no se ha resuelto cerca: una avería que vuelve después de varias visitas, un fallo del sistema SCR o del AdBlue con la cuenta atrás en marcha, un ruido de cadena en un diésel N47 o N57, o un segundo diagnóstico antes de aceptar una reparación cara. El trayecto es AP-7, C-33, B-20 y B-23 hasta el carrer del Tambor del Bruc.",
+             "Para lo que no se ha resuelto cerca: una avería que vuelve después de varias visitas, un fallo del sistema SCR o del AdBlue con la cuenta atrás en marcha, un ruido de cadena en un diésel N47 o N57, o un segundo diagnóstico antes de aceptar una reparación cara. El trayecto es AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc.",
              "Desde esta distancia, lo primero es una llamada con modelo, año, kilometraje y bastidor. Muchas veces se puede orientar el problema por teléfono, decidir si merece la pena el viaje y, si es así, tener la pieza pedida el día que llegas."
          ]},
         {"id": "girona-en-cifras", "h2": "108.666 habitantes y 46.124 turismos",
@@ -155,7 +155,7 @@ CIUDADES["girona"] = {
     ],
     "faq": [
         {"q": "¿Tenéis taller en Girona?",
-         "a": "No. El taller de la red más cercano está en Sant Joan Despí, a 111 km por la AP-7."},
+         "a": "No. El taller de la red más cercano está en Sant Joan Despí, a 108,4 km por la AP-7."},
         {"q": "¿Dónde está el servicio oficial BMW de Girona?",
          "a": "Oliva Motor Girona, en el carrer de Lingen 9-11 de Salt, según bmw.es."},
         {"q": "¿Dónde paso la ITV en Girona?",
@@ -167,7 +167,7 @@ CIUDADES["girona"] = {
         {"etiqueta": "Turismos (2024)", "valor": "46.124 · 424 por cada 1.000 hab.", **F.idescat("170792")},
         {"etiqueta": "ITV en el municipio", "valor": "Girona (G09), c. Sarrià de Ter", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Oliva Motor Girona (Salt) · 4,8 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 111 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 108,4 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("170792"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -183,7 +183,7 @@ CIUDADES["vilafranca-del-penedes"] = {
          ]},
         {"id": "ap7-hasta-el-taller", "h2": "Por la AP-7 hasta Sant Joan Despí",
          "parrafos": [
-             "La ruta hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 46,4 km por carretera, 30,2 en línea recta. Vilafranca no está en el Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí.",
+             "La ruta hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 46,4 km por carretera, 30,7 en línea recta. Vilafranca no está en el Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí.",
              "Con la N-340, la AP-7 y la C-15 a menos de tres kilómetros del centro, el viaje es sencillo; lo que conviene es llamar antes con modelo, año y kilometraje para que el día que bajes el trabajo esté planificado."
          ]},
         {"id": "oficial-vilanova", "h2": "El servicio oficial, en Vilanova i la Geltrú",

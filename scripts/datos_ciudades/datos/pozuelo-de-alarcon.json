@@ -46,23 +46,25 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 25.0,
-  "km_linea_recta": 19.2,
+  "km_carretera": 24.7,
+  "km_linea_recta": 18.0,
   "vias_de_la_ruta": [
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [
    {
-    "nombre": "ITV INTECTRA, S.A (estación 2823)",
-    "operador": "INTECTRA, S.A",
-    "direccion": "C/ Virgilio, 8",
+    "nombre": "ITV INTECTRA, S.A (estación 2823)",
+    "operador": "INTECTRA, S.A",
+    "direccion": "C/ Virgilio, 8",
     "municipio": "Pozuelo De Alarcón",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -83,7 +85,12 @@
   {
    "ref": "M-502",
    "tipo": "trunk",
-   "km": 0.5
+   "km": 0.4
+  },
+  {
+   "ref": "M-515",
+   "tipo": "secondary",
+   "km": 0.4
   },
   {
    "ref": "M-503",
@@ -99,14 +106,20 @@
    "ref": "M-40",
    "tipo": "motorway",
    "km": 1.7
+  },
+  {
+   "ref": "M-508",
+   "tipo": "secondary",
+   "km": 2.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "boadilla-del-monte",

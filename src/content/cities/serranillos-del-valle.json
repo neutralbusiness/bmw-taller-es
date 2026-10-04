@@ -7,7 +7,7 @@
   "lat": 40.20712,
   "lng": -3.89347,
   "metaTitle": "Taller BMW cerca de Serranillos del Valle | Madrid",
-  "metaDescription": "BMW en Serranillos del Valle: ITV en Arroyomolinos, servicio oficial en Leganés y taller especialista de la red en Alcobendas, a 53,4 km.",
+  "metaDescription": "BMW en Serranillos del Valle: ITV en Humanes, servicio oficial en Leganés y taller especialista de la red en Alcobendas, a 54,9 km.",
   "heroSubtitle": "Especialistas BMW para el suroeste de Madrid",
   "trustChips": [
     {
@@ -175,11 +175,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Serranillos del Valle: 731 turismos por cada mil vecinos y el taller BMW a 53 km",
-    "entradilla": "En Serranillos hay casi el doble de turismos por habitante que en Madrid capital, y la AP-41 pasa a un paso del centro. Lo que tienes cerca está en Arroyomolinos y Leganés; el taller especialista de la red, en Alcobendas.",
+    "h1": "Serranillos del Valle: 731 turismos por cada mil vecinos y el taller BMW a 55 km",
+    "entradilla": "En Serranillos hay casi el doble de turismos por habitante que en Madrid capital, y la AP-41 pasa a un paso del centro. Lo que tienes cerca está en Humanes y Leganés; el taller especialista de la red, en Alcobendas.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 53.4
+      "kmCarretera": 54.9
     },
     "secciones": [
       {
@@ -191,17 +191,17 @@
         ]
       },
       {
-        "id": "arroyomolinos-y-leganes",
-        "h2": "ITV en Arroyomolinos, servicio oficial en Leganés",
+        "id": "humanes-y-leganes",
+        "h2": "ITV en Humanes, servicio oficial en Leganés",
         "parrafos": [
-          "La estación oficial más cercana por carretera es la de TÜV SÜD ATISAE (estación 2873), en la calle Fresadores 3 del polígono Valdefuentes de Arroyomolinos, a 13,2 km según la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter (Momentum Leganés), a 22,2 km."
+          "La estación oficial más cercana por carretera es la de Alcaravan ITV (estación 2829), en la avenida de Fuenlabrada 15 de Humanes, a 12,5 km según la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter (Momentum Leganés), a 20,1 km."
         ]
       },
       {
         "id": "ap41-r5",
-        "h2": "53,4 km por la AP-41, la R-5 y la M-30",
+        "h2": "54,9 km por la AP-41, la R-5 y la M-30",
         "parrafos": [
-          "Con la AP-41 y la M-404 casi al lado del centro, la salida es inmediata. Hasta la calle Valgrande de Alcobendas se va por la AP-41 y la R-5, se cruza por la M-30 y se termina en la A-1: 53,4 km por carretera, 43,2 en línea recta.",
+          "Con la AP-41 y la M-404 casi al lado del centro, la salida es inmediata. Hasta la calle Valgrande de Alcobendas se va por la AP-41 y la R-5, se cruza por la M-30 y se termina en la A-1: 54,9 km por carretera, 41,6 en línea recta.",
           "Antes de bajar, pide el presupuesto: llega por escrito y nada se empieza sin tu aprobación; la diagnosis también se presupuesta. La recogida del taller se limita al área metropolitana y depende de disponibilidad, así que pregunta si tu calle entra antes de contar con ella."
         ]
       }
@@ -209,15 +209,15 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Serranillos del Valle?",
-        "a": "En la estación 2873 de TÜV SÜD ATISAE, en el polígono Valdefuentes de Arroyomolinos, a 13,2 km."
+        "a": "En la estación 2829 de Alcaravan ITV, en la avenida de Fuenlabrada 15 de Humanes, a 12,5 km."
       },
       {
         "q": "¿Dónde está el concesionario BMW más cercano?",
-        "a": "Vehinter (Momentum Leganés), a 22,2 km según el localizador de bmw.es."
+        "a": "Vehinter (Momentum Leganés), a 20,1 km según el localizador de bmw.es."
       },
       {
         "q": "¿Qué distancia hay hasta vuestro taller?",
-        "a": "53,4 km por carretera hasta Alcobendas, por la AP-41, la R-5, la M-30 y la A-1."
+        "a": "54,9 km por carretera hasta Alcobendas, por la AP-41, la R-5, la M-30 y la A-1."
       }
     ],
     "datos": [
@@ -235,19 +235,19 @@
       },
       {
         "etiqueta": "ITV oficial más cercana",
-        "valor": "TÜV SÜD ATISAE, Arroyomolinos · 13,2 km",
+        "valor": "Alcaravan ITV, Humanes · 12,5 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Vehinter (Leganés) · 22,2 km",
+        "valor": "Vehinter (Leganés) · 20,1 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 53,4 km",
+        "valor": "Alcobendas · 54,9 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

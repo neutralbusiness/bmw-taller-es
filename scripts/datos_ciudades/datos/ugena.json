@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 62.2,
-  "km_linea_recta": 46.8,
+  "km_carretera": 61.9,
+  "km_linea_recta": 45.6,
   "vias_de_la_ruta": [
    "CM-4008",
    "A-42",
@@ -79,13 +79,30 @@
   "km_linea": 19.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "CM-4008",
+   "tipo": "secondary",
+   "km": 1.0
+  },
+  {
+   "ref": "AP-41",
+   "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "M-415",
+   "tipo": "secondary",
+   "km": 2.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "carranque",
@@ -130,8 +147,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Ugena | Especialistas al sur de Madrid, Toledo",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 5260
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 5988
  },
  "generado": "2026-10-04",
  "perfil": {

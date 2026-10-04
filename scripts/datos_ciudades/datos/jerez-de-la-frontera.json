@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/399674813) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -71,22 +72,28 @@
    "km": 1.5
   },
   {
-   "ref": "A-480",
-   "tipo": "primary",
-   "km": 1.9
+   "ref": "A-2000",
+   "tipo": "secondary",
+   "km": 1.7
   },
   {
-   "ref": "A-4",
-   "tipo": "motorway",
-   "km": 2.9
+   "ref": "A-480",
+   "tipo": "primary",
+   "km": 1.7
+  },
+  {
+   "ref": "A-2004",
+   "tipo": "secondary",
+   "km": 1.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 15.0,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "cadiz",

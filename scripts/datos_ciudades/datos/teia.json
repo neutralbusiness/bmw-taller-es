@@ -46,11 +46,10 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 34.5,
-  "km_linea_recta": 26.8,
+  "km_carretera": 31.9,
+  "km_linea_recta": 26.4,
   "vias_de_la_ruta": [
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -64,7 +63,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 11.8,
    "km_linea": 8.6
   }
@@ -98,17 +97,23 @@
    "km": 2.0
   },
   {
+   "ref": "BP-5002",
+   "tipo": "secondary",
+   "km": 2.6
+  },
+  {
    "ref": "BV-5024",
    "tipo": "primary",
    "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 2.5,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "premia-de-dalt",

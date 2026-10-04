@@ -46,27 +46,29 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 56.4,
-  "km_linea_recta": 41.9,
+  "km_carretera": 60.5,
+  "km_linea_recta": 43.6,
   "vias_de_la_ruta": [
+   "M-524",
    "M-501",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2843)",
+   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2845)",
    "operador": "TÜV Rheinland Ibérica, S.A",
-   "direccion": "Sandro Pertini, 1. Pol.Ind. Navas del Rey",
-   "municipio": "Navas Del Rey",
+   "direccion": "Pº de Alparrache, 26. Pol. Ind. El Alparrache",
+   "municipio": "Navalcarnero",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 23.4,
-   "km_linea": 17.7
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 16.0,
+   "km_linea": 10.8
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -77,23 +79,38 @@
   "municipio": "Alcorcón",
   "web": "https://vehinter-alcorcon.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 26.7,
-  "km_linea": 21.9,
+  "km_carretera": 31.1,
+  "km_linea": 23.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "M-501",
-   "tipo": "motorway",
-   "km": 0.8
+   "ref": "M-523",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
+   "ref": "M-524",
+   "tipo": "secondary",
+   "km": 0.3
+  },
+  {
+   "ref": "M-530",
+   "tipo": "secondary",
+   "km": 2.3
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.34696,
+  "lng": -4.10156,
+  "que": "centro del núcleo urbano de Villanueva de Perales (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "sevilla-la-nueva",

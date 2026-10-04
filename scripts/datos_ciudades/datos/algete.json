@@ -47,7 +47,7 @@
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
   "km_carretera": 18.0,
-  "km_linea_recta": 13.4,
+  "km_linea_recta": 14.6,
   "vias_de_la_ruta": [
    "M-106",
    "M-100",
@@ -56,19 +56,19 @@
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
-  "en_el_municipio": [],
-  "mas_cercana": {
-   "nombre": "ITV ITV Barbastro S.A.U (estación 2818)",
-   "operador": "ITV Barbastro S.A.U",
-   "direccion": "Avda, Nicasio Martín, 4 - Pol. Ind. Sector 8. Parc. PR16",
-   "municipio": "Algete",
-   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
-   "oficial": true,
-   "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 8.6,
-   "km_linea": 3.2
-  }
+  "en_el_municipio": [
+   {
+    "nombre": "ITV ITV Barbastro S.A.U (estación 2818)",
+    "operador": "ITV Barbastro S.A.U",
+    "direccion": "Avda, Nicasio Martín, 4 - Pol. Ind. Sector 8. Parc. PR16",
+    "municipio": "Algete",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
+   }
+  ],
+  "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "BYmyCAR Madrid (Algete)",
@@ -82,13 +82,25 @@
   "km_linea": 3.9,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-103",
+   "tipo": "secondary",
+   "km": 0.9
+  },
+  {
+   "ref": "M-106",
+   "tipo": "secondary",
+   "km": 1.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "cobena",
@@ -143,6 +155,6 @@
   "costa": false,
   "altitud": "interior alto (600-800 m)",
   "distancia_taller": "cerca (15-40 km)",
-  "itv_en_municipio": false
+  "itv_en_municipio": true
  }
 }

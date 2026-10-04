@@ -46,14 +46,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 60.7,
-  "km_linea_recta": 46.8,
+  "km_carretera": 64.0,
+  "km_linea_recta": 48.3,
   "vias_de_la_ruta": [
-   "M-315",
-   "M-313",
+   "M-317a",
    "A-3",
-   "M-40",
-   "M-12"
+   "M-30",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -68,8 +67,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 10.7,
-   "km_linea": 6.8
+   "km_carretera": 8.5,
+   "km_linea": 6.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,28 +79,53 @@
   "municipio": "Madrid",
   "web": "https://autopremier-madrid.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 38.3,
-  "km_linea": 31.8,
+  "km_carretera": 43.6,
+  "km_linea": 33.4,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "M-317",
-   "tipo": "primary",
-   "km": 1.2
+   "ref": "M-316",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "M-317a",
+   "tipo": "secondary",
+   "km": 0.1
   },
   {
    "ref": "M-315",
+   "tipo": "secondary",
+   "km": 0.3
+  },
+  {
+   "ref": "M-317",
    "tipo": "primary",
-   "km": 2.5
+   "km": 0.6
+  },
+  {
+   "ref": "M-323",
+   "tipo": "secondary",
+   "km": 0.9
+  },
+  {
+   "ref": "M-404",
+   "tipo": "primary",
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.16057,
+  "lng": -3.36763,
+  "que": "centro del núcleo urbano de Valdelaguna (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "perales-de-tajuna",

@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 66.6,
-  "km_linea_recta": 42.8,
+  "km_carretera": 61.8,
+  "km_linea_recta": 41.4,
   "vias_de_la_ruta": [
    "TP-2124",
    "N-340",
@@ -66,9 +66,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 7.6,
-   "km_linea": 4.6
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 11.7,
+   "km_linea": 5.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -79,38 +79,63 @@
   "municipio": "Vilanova i la Geltrú",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 29.5,
-  "km_linea": 15.4,
+  "km_carretera": 21.1,
+  "km_linea": 14.1,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
+   "ref": "TP-2124",
+   "tipo": "primary",
+   "km": 0.2
+  },
+  {
    "ref": "AP-7",
    "tipo": "motorway",
-   "km": 0.5
+   "km": 0.7
+  },
+  {
+   "ref": "N-340",
+   "tipo": "primary",
+   "km": 2.3
   },
   {
    "ref": "TP-2125",
    "tipo": "primary",
-   "km": 0.7
+   "km": 2.3
   },
   {
    "ref": "AP-2",
    "tipo": "motorway",
-   "km": 1.0
+   "km": 2.4
   },
   {
-   "ref": "TP-2124",
+   "ref": "T-240",
+   "tipo": "secondary",
+   "km": 2.4
+  },
+  {
+   "ref": "TP-2115",
+   "tipo": "secondary",
+   "km": 2.4
+  },
+  {
+   "ref": "TP-2442",
    "tipo": "primary",
-   "km": 1.7
+   "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
-  "km": 9.1,
+  "km": 9.8,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.27839,
+  "lng": 1.5813,
+  "que": "centro del núcleo urbano de Banyeres del Penedès (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "llorenc-del-penedes",

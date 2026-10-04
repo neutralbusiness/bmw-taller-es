@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 37.2,
-  "km_linea_recta": 28.6,
+  "km_carretera": 42.6,
+  "km_linea_recta": 30.7,
   "vias_de_la_ruta": [
    "B-231",
    "A-2"
@@ -57,16 +57,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Sant Andreu (B21)",
+   "nombre": "ITV Igualada (B12)",
    "operador": "APPLUS ITV",
-   "direccion": "Carretera N-II P.K. 592,5 s/n",
-   "municipio": "Sant Andreu de la Barca",
+   "direccion": "Carrer PAÏSOS BAIXOS - POL. IND. LES COMES 18",
+   "municipio": "Igualada",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 22.5,
-   "km_linea": 15.7
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 22.0,
+   "km_linea": 13.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -77,23 +77,43 @@
   "municipio": "Terrasa",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 27.8,
-  "km_linea": 19.1,
+  "km_carretera": 33.1,
+  "km_linea": 21.6,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "A-2",
-   "tipo": "motorway",
-   "km": 2.9
+   "ref": "B-231",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "BV-2243",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "C-54",
+   "tipo": "primary",
+   "km": 0.8
+  },
+  {
+   "ref": "B-224",
+   "tipo": "primary",
+   "km": 1.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.53346,
+  "lng": 1.77103,
+  "que": "centro del núcleo urbano de Els Hostalets de Pierola (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "masquefa",
@@ -147,7 +167,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "baja (<600 m)",
-  "distancia_taller": "cerca (15-40 km)",
+  "distancia_taller": "media distancia (40-80 km)",
   "itv_en_municipio": false
  }
 }

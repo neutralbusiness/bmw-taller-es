@@ -7,7 +7,7 @@
   "lat": 40.63868,
   "lng": -3.52123,
   "metaTitle": "Taller BMW en Fuente el Saz de Jarama | Especialista ISTA",
-  "metaDescription": "Fuente el Saz de Jarama: taller independiente especializado en BMW y MINI en Alcobendas, a 24,4 km. Servicio oficial en Algete y estación ITV de referencia.",
+  "metaDescription": "Fuente el Saz de Jarama: taller independiente especializado en BMW y MINI en Alcobendas, a 24,3 km. Servicio oficial e ITV más cercana, en Algete.",
   "heroSubtitle": "Acabas de comprar tu BMW de segunda mano y ahora empieza la duda. ¿Está tan bien como parece? Te lo decimos con un diagnóstico ISTA en Fuente el Saz.",
   "trustChips": [
     {
@@ -198,17 +198,17 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Fuente el Saz de Jarama: taller especialista BMW a 24 km, servicio oficial en Algete",
-    "entradilla": "Entre Algete y la A-1, Fuente el Saz queda a 24,4 km de nuestro taller de Alcobendas. Tienes el concesionario más cerca todavía, y conviene saber qué se hace en cada sitio.",
+    "entradilla": "Entre Algete y la A-1, Fuente el Saz queda a 24,3 km de nuestro taller de Alcobendas. Tienes el concesionario más cerca todavía, y conviene saber qué se hace en cada sitio.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 24.4
+      "kmCarretera": 24.3
     },
     "secciones": [
       {
         "id": "m111-m100-a1",
         "h2": "Por la M-111, la M-100 y la A-1",
         "parrafos": [
-          "La ruta hasta la calle Valgrande 17 de Alcobendas usa la M-111, la M-100 y la A-1: 24,4 km por carretera, 14,5 en línea recta. La M-111 pasa a 2,1 km del centro, así que la salida es directa.",
+          "La ruta hasta la calle Valgrande 17 de Alcobendas usa la M-111, la M-100 y la A-1: 24,3 km por carretera, 15,7 en línea recta. La M-111 pasa a unos 200 metros del centro, así que la salida es directa.",
           "A esta distancia, la recogida y entrega del coche dentro del área metropolitana de Madrid puede ser una opción; está sujeta a disponibilidad y conviene confirmarla al pedir cita."
         ]
       },
@@ -222,9 +222,9 @@
       },
       {
         "id": "itv-nicasio-martin",
-        "h2": "Una estación ITV oficial en la avenida Nicasio Martín",
+        "h2": "La ITV más próxima, en la avenida Nicasio Martín de Algete",
         "parrafos": [
-          "El listado oficial de la Comunidad de Madrid incluye la estación 2818, de ITV Barbastro, en la avenida Nicasio Martín 4, en el polígono industrial del sector 8. Si vas a pasar la inspección poco después de una visita al taller, pide la pre-ITV en esa misma cita."
+          "En el listado oficial de la Comunidad de Madrid, la estación más próxima por carretera es la 2818, de ITV Barbastro, en la avenida Nicasio Martín 4, en el polígono industrial del sector 8 de Algete, a 9,5 km. Si vas a pasar la inspección poco después de una visita al taller, pide la pre-ITV en esa misma cita."
         ]
       },
       {
@@ -242,7 +242,7 @@
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
-        "a": "24,4 km por carretera, por la M-111, la M-100 y la A-1."
+        "a": "24,3 km por carretera, por la M-111, la M-100 y la A-1."
       },
       {
         "q": "¿Pierdo la garantía si hago aquí las revisiones?",
@@ -263,8 +263,8 @@
         "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
       },
       {
-        "etiqueta": "Estación ITV",
-        "valor": "ITV Barbastro, av. Nicasio Martín 4 (estación 2818)",
+        "etiqueta": "ITV más cercana",
+        "valor": "ITV Barbastro, Algete (estación 2818) · 9,5 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
@@ -276,7 +276,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 24,4 km",
+        "valor": "Alcobendas · 24,3 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

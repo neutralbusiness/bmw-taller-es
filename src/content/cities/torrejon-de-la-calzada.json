@@ -7,7 +7,7 @@
   "lat": 40.2036,
   "lng": -3.79607,
   "metaTitle": "Taller BMW en Torrejón de la Calzada | Especialistas al sur de Madrid",
-  "metaDescription": "Torrejón de la Calzada: ITV en Parla a 4,1 km, servicio oficial BMW en Getafe y taller especialista independiente en Alcobendas por la A-42.",
+  "metaDescription": "Torrejón de la Calzada: ITV en Parla a 8,5 km, servicio oficial BMW en Getafe y taller especialista independiente en Alcobendas por la A-42.",
   "heroSubtitle": "Mecánica BMW especializada para Torrejón de la Calzada y el sur de Madrid",
   "trustChips": [
     {
@@ -182,7 +182,7 @@
     "entradilla": "En diez años, Torrejón de la Calzada ha pasado de 7.901 a 10.653 vecinos. Casi todo lo que necesita un BMW está en el corredor de la A-42: la ITV en Parla, el concesionario en Getafe y, por la misma autovía, el camino hacia nuestro taller.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 46.5
+      "kmCarretera": 46.2
     },
     "secciones": [
       {
@@ -195,17 +195,17 @@
       },
       {
         "id": "itv-parla",
-        "h2": "La ITV, a 4,1 km en el polígono de Parla",
+        "h2": "La ITV, a 8,5 km en Parla",
         "parrafos": [
-          "La estación oficial más próxima es la de TÜV Rheinland Ibérica (estación 2841), en la calle Berlín 1 del polígono industrial de Parla: 4,1 km por carretera. Está tan cerca que no compensa juntarla con un viaje a Alcobendas; mejor resolverla en el día."
+          "La estación oficial más próxima en el listado de la Comunidad es la de DEKRA ITV España (estación 2897), en la calle Roma 9 de Parla: 8,5 km por carretera. Queda mucho más cerca que Alcobendas, así que no compensa juntarla con ese viaje; mejor resolverla aparte."
         ]
       },
       {
         "id": "getafe-o-alcobendas",
-        "h2": "Getafe a 11,5 km, Alcobendas a 46,5",
+        "h2": "Getafe a 11,5 km, Alcobendas a 46,2",
         "parrafos": [
           "El servicio oficial BMW más cercano según bmw.es es Vehinter, en la carretera Madrid-Toledo, en Getafe, a 11,5 km. Para una reparación en garantía es la opción evidente.",
-          "Hasta la nave de Dasercars hay 46,5 km: A-42, M-40, M-30 y A-1. Ese viaje encaja cuando quieres un especialista independiente para el mantenimiento o una avería que se resiste. Antes de moverte, el presupuesto se entrega por escrito y no se toca nada sin tu visto bueno."
+          "Hasta la nave de Dasercars hay 46,2 km: A-42, M-40, M-30 y A-1. Ese viaje encaja cuando quieres un especialista independiente para el mantenimiento o una avería que se resiste. Antes de moverte, el presupuesto se entrega por escrito y no se toca nada sin tu visto bueno."
         ]
       },
       {
@@ -219,11 +219,11 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Torrejón de la Calzada?",
-        "a": "La estación oficial más cercana es la de TÜV Rheinland, en la calle Berlín 1 del polígono de Parla, a 4,1 km."
+        "a": "La estación oficial más cercana es la de DEKRA ITV España, en la calle Roma 9 de Parla, a 8,5 km."
       },
       {
         "q": "¿A cuánto está vuestro taller?",
-        "a": "A 46,5 km por carretera, en Alcobendas, por la A-42, la M-40, la M-30 y la A-1."
+        "a": "A 46,2 km por carretera, en Alcobendas, por la A-42, la M-40, la M-30 y la A-1."
       },
       {
         "q": "¿Cuál es el servicio oficial BMW más próximo?",
@@ -251,7 +251,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "TÜV Rheinland, Parla · 4,1 km",
+        "valor": "DEKRA ITV España, Parla · 8,5 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
@@ -263,7 +263,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 46,5 km",
+        "valor": "Alcobendas · 46,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

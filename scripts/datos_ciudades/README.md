@@ -14,6 +14,7 @@ cd ~/Sites/bmw-taller-es/scripts/datos_ciudades
 python3 p01_base.py                 # ciudades del repo + estado/INE del panel
 python3 p02_ine.py                  # población (INE, padrón)
 python3 p03_geo.py                  # término municipal (CartoCiudad), superficie, altitud
+python3 p03b_nucleo.py              # núcleo urbano (CartoCiudad): origen de rutas si el punto del repo cae fuera del casco
 python3 p04_bmw_oficial.py          # red oficial BMW (localizador de bmw.es)
 python3 p05_itv.py                  # estaciones ITV (redes oficiales + OSM marcado)
 python3 p06_estadistica_regional.py # Idescat (Cataluña) y parque de turismos de Madrid
@@ -38,10 +39,10 @@ no repite peticiones. Para refrescar un dato, borra su fichero de `cache/`.
 | Comarca | Idescat (solo Cataluña tiene comarcas oficiales en la red) | |
 | Parque de turismos | Idescat a partir de DGT (Cataluña, 2024); Instituto de Estadística de la Comunidad de Madrid a partir de DGT (2025) | resto: sin fuente municipal abierta cargada |
 | Taller que atiende la zona | JSON-LD de `/taller-bmw-madrid/` y `/taller-bmw-barcelona/` + teléfono por zona del panel | Zaragoza: sin dirección publicada |
-| Distancia por carretera y vías de la ruta | OSRM (router.project-osrm.org) sobre OpenStreetMap | no se publica el tiempo (estimación sin tráfico) |
+| Distancia por carretera y vías de la ruta | OSRM (router.project-osrm.org) sobre OpenStreetMap | no se publica el tiempo (estimación sin tráfico). Origen: el punto de la página, o el centro del núcleo urbano (CartoCiudad, `p03b`) si el punto cae fuera del casco a más de 1 km (`distancias_desde` en el fichero) |
 | Servicio oficial BMW más cercano | localizador de concesionarios de bmw.es (puntos con taller, rama «T») | solo como referencia, nunca para desprestigiar |
-| ITV | Generalitat (dades obertes 7dyp-y4dd), Comunidad de Madrid (listado oficial), aragon.es (municipios); resto OSM con `verificar: true` | |
-| Carreteras a < 3 km, costa a < 5 km | OpenStreetMap (Overpass) | |
+| ITV | Generalitat (dades obertes 7dyp-y4dd), Comunidad de Madrid (listado oficial), aragon.es (municipios); resto OSM con `verificar: true` | Cataluña: coordenadas del campo `localitzador_a_google_maps` (los campos lat/long pierden el punto decimal). Madrid: geocodificadas por dirección o punto kilométrico (CartoCiudad); 10 estaciones solo con precisión de municipio (`precision`). «En el municipio» = municipio de la lista oficial (código INE), no el polígono. Más cercana: por carretera entre las 5 más próximas en línea recta |
+| Carreteras a < 3 km, costa a < 5 km | OpenStreetMap (Overpass); costa: Natural Earth 10m | autopista, autovía, primaria y secundaria con referencia, medidas sobre el trazado (no el centro del tramo) |
 | Búsquedas reales | Google Search Console vía panel | solo en `cache/paso_gsc.json` (no se versiona: el repo es público); orientan el texto, no se listan |
 
 ## Avisos que salen de los datos (revisar con Martin)

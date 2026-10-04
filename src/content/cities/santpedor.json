@@ -182,11 +182,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Santpedor y el Bages: cuándo compensa llevar el BMW a 70 km",
-    "entradilla": "De Santpedor a nuestro taller de Sant Joan Despí hay 70 km. No siempre merece la pena el viaje, y preferimos decirte cuándo sí y cuándo no antes de que cojas la C-16.",
+    "h1": "Santpedor y el Bages: cuándo compensa llevar el BMW a 68 km",
+    "entradilla": "De Santpedor a nuestro taller de Sant Joan Despí hay 68 km. No siempre merece la pena el viaje, y preferimos decirte cuándo sí y cuándo no antes de que cojas la C-16.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 70.4
+      "kmCarretera": 67.7
     },
     "secciones": [
       {
@@ -201,21 +201,21 @@
         "id": "cuando-no",
         "h2": "Cuándo no",
         "parrafos": [
-          "Para un pinchazo, unas escobillas o una revisión sencilla, 70,4 km por la C-16, la B-30, la AP-7 y la B-23 no tienen sentido: cualquier taller de confianza del Bages te lo resuelve. Y si el coche está en garantía y lo que toca es una campaña del fabricante, el servicio oficial más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 8,4 km."
+          "Para un pinchazo, unas escobillas o una revisión sencilla, 67,7 km por la BV-4511, la C-16 y la B-20 no tienen sentido: cualquier taller de confianza del Bages te lo resuelve. Y si el coche está en garantía y lo que toca es una campaña del fabricante, el servicio oficial más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 6,5 km."
         ]
       },
       {
         "id": "itv-bufalvent",
         "h2": "La ITV, en el polígono El Grau de Sant Fruitós",
         "parrafos": [
-          "La estación más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono industrial El Grau de Sant Fruitós de Bages, a 8,9 km; la de Manresa (B06), en Bufalvent, es la otra opción cercana. Santpedor tenía 7.744 habitantes en 2025 y 4.295 turismos en 2024 (Idescat a partir de la DGT): 555 por cada 1.000 habitantes, casi el doble que en Barcelona ciudad."
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono industrial El Grau de Sant Fruitós de Bages, a 7,6 km. Santpedor tenía 7.744 habitantes en 2025 y 4.295 turismos en 2024 (Idescat a partir de la DGT): 555 por cada 1.000 habitantes, casi el doble que en Barcelona ciudad."
         ]
       }
     ],
     "faq": [
       {
         "q": "¿Tenéis taller en el Bages?",
-        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 70,4 km de Santpedor."
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 67,7 km de Santpedor."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -247,19 +247,19 @@
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Quadis Munich, Sant Fruitós de Bages · 8,4 km",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 6,5 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Fruitós (B25) · 8,9 km",
+        "valor": "Sant Fruitós (B25) · 7,6 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 70,4 km",
+        "valor": "Sant Joan Despí · 67,7 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

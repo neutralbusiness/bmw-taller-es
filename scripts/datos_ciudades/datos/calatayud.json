@@ -55,7 +55,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/845495258) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -84,27 +85,33 @@
    "km": 0.3
   },
   {
-   "ref": "A-202",
+   "ref": "N-IIa",
    "tipo": "primary",
-   "km": 0.5
+   "km": 0.3
   },
   {
-   "ref": "N-IIa",
+   "ref": "A-202",
    "tipo": "primary",
    "km": 0.5
   },
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 1.6
+   "km": 1.5
+  },
+  {
+   "ref": "A-1504",
+   "tipo": "secondary",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "almunia-de-dona-godina-la",

@@ -46,11 +46,10 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 46.2,
-  "km_linea_recta": 35.1,
+  "km_carretera": 50.3,
+  "km_linea_recta": 37.2,
   "vias_de_la_ruta": [
-   "M-633",
-   "N-Ia",
+   "M-610",
    "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
@@ -65,9 +64,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (dirección)",
-   "km_carretera": 20.2,
-   "km_linea": 7.8
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 18.8,
+   "km_linea": 6.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +77,28 @@
   "municipio": "Algete",
   "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 44.1,
-  "km_linea": 31.9,
+  "km_carretera": 48.2,
+  "km_linea": 33.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-610",
+   "tipo": "secondary",
+   "km": 0.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.87115,
+  "lng": -3.66461,
+  "que": "centro del núcleo urbano de Valdemanco (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "navalafuente",

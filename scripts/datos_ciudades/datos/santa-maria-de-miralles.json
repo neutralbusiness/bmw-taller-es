@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 71.4,
-  "km_linea_recta": 48.1,
+  "km_carretera": 66.3,
+  "km_linea_recta": 47.4,
   "vias_de_la_ruta": [
    "C-37",
    "A-2"
@@ -64,36 +64,41 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 20.9,
-   "km_linea": 14.2
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 15.7,
+   "km_linea": 12.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Unicars Ponent (Tárrega)",
-  "razon_social": "Unicars Ponent, S.L.",
-  "direccion": "Carrer de la Conca de Barberà,Nave6",
-  "cp": "25300",
-  "municipio": "Tárrega",
-  "web": "http://red.bmw.es/unicars/es_ES/home.html",
+  "nombre": "Quadis Munich (Sant Fruitós de Bages)",
+  "razon_social": "Altrac Europa, S.A.",
+  "direccion": "Ctra. Manresa- Berga, Km. 34,5",
+  "cp": "08272",
+  "municipio": "Sant Fruitós de Bages",
+  "web": "",
   "solo_taller": false,
-  "km_carretera": 53.6,
-  "km_linea": 33.8,
+  "km_carretera": 52.5,
+  "km_linea": 39.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "C-37",
    "tipo": "primary",
-   "km": 1.4
+   "km": 0.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.51642,
+  "lng": 1.53133,
+  "que": "centro del núcleo urbano de Santa Maria de Miralles (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "la-llacuna",

@@ -41,10 +41,9 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 37.5,
-  "km_linea_recta": 28.2,
+  "km_carretera": 33.6,
+  "km_linea_recta": 26.2,
   "vias_de_la_ruta": [
-   "GU-1057",
    "GU-193",
    "M-117",
    "M-111",
@@ -62,7 +61,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/1510921144) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -75,23 +75,33 @@
   "municipio": "Algete",
   "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 22.4,
-  "km_linea": 19.3,
+  "km_carretera": 18.6,
+  "km_linea": 15.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "N-320",
    "tipo": "trunk",
-   "km": 2.9
+   "km": 0.4
+  },
+  {
+   "ref": "CM-1009",
+   "tipo": "secondary",
+   "km": 0.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.70211,
+  "lng": -3.42943,
+  "que": "centro del núcleo urbano de El Casar (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "valdenuno-fernandez",

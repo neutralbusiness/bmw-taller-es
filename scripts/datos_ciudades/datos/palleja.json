@@ -47,7 +47,7 @@
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
   "km_carretera": 10.8,
-  "km_linea_recta": 8.2,
+  "km_linea_recta": 8.6,
   "vias_de_la_ruta": [
    "A-2"
   ],
@@ -63,7 +63,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 8.4,
    "km_linea": 5.1
   }
@@ -82,19 +82,24 @@
  },
  "vias_cercanas": [
   {
+   "ref": "N-IIa",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
    "ref": "A-2",
    "tipo": "motorway",
    "km": 0.5
   },
   {
-   "ref": "N-IIa",
-   "tipo": "primary",
-   "km": 0.5
-  },
-  {
    "ref": "B-23",
    "tipo": "motorway",
-   "km": 1.0
+   "km": 0.9
+  },
+  {
+   "ref": "C-1413a",
+   "tipo": "secondary",
+   "km": 0.9
   },
   {
    "ref": "B-24",
@@ -102,9 +107,9 @@
    "km": 1.1
   },
   {
-   "ref": "C-1413a",
-   "tipo": "primary",
-   "km": 1.5
+   "ref": "BV-1468",
+   "tipo": "secondary",
+   "km": 1.7
   },
   {
    "ref": "N-340",
@@ -117,17 +122,23 @@
    "km": 2.3
   },
   {
+   "ref": "BV-2421",
+   "tipo": "secondary",
+   "km": 2.4
+  },
+  {
    "ref": "AP-7",
    "tipo": "motorway",
    "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "molins-de-rei",
@@ -172,8 +183,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW M en Pallejà – Especialistas en Rendimiento y Mecánica",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 11134
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 12006
  },
  "generado": "2026-10-04",
  "perfil": {

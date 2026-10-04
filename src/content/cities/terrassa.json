@@ -189,11 +189,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "BMW y MINI en Terrassa: especialista independiente a 32 km por la C-16",
+    "h1": "BMW y MINI en Terrassa: especialista independiente a 31 km por la C-16",
     "entradilla": "Terrassa supera los 230.000 habitantes y tiene concesionario oficial propio. Nuestro taller está en Sant Joan Despí; esta página explica cuándo encaja cada opción y dónde pasa la ITV un coche de Terrassa.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 32.3
+      "kmCarretera": 31.4
     },
     "secciones": [
       {
@@ -205,10 +205,10 @@
         ]
       },
       {
-        "id": "c16-b30",
-        "h2": "Por la C-16 y la B-30 hasta Sant Joan Despí",
+        "id": "c16-b20",
+        "h2": "Por la C-16 y la B-20 hasta Sant Joan Despí",
         "parrafos": [
-          "Desde el centro de Terrassa hasta la nave de Dasercars Barcelona hay 32,3 km por carretera: C-16, B-30, un tramo de AP-7 y la B-23 hasta Sant Joan Despí. Terrassa no forma parte del Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller dentro del área metropolitana no llega hasta aquí: cuenta con traerlo tú.",
+          "Desde el centro de Terrassa hasta la nave de Dasercars Barcelona hay 31,4 km por carretera: la C-16 y después la B-20 hasta Sant Joan Despí. Terrassa no forma parte del Área Metropolitana de Barcelona, así que la recogida del coche que ofrece el taller dentro del área metropolitana no llega hasta aquí: cuenta con traerlo tú.",
           "El taller trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Para trabajos de un día, lo cómodo es entrar a primera hora y volver por la tarde."
         ]
       },
@@ -238,7 +238,7 @@
       },
       {
         "q": "¿A qué distancia está el taller?",
-        "a": "A 32,3 km por carretera desde el centro, por la C-16, la B-30, la AP-7 y la B-23."
+        "a": "A 31,4 km por carretera desde el centro, por la C-16 y la B-20."
       }
     ],
     "datos": [
@@ -274,7 +274,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 32,3 km",
+        "valor": "Sant Joan Despí · 31,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

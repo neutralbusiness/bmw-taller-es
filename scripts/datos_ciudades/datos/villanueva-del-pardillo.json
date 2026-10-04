@@ -46,30 +46,31 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 36.7,
-  "km_linea_recta": 28.0,
+  "km_carretera": 36.4,
+  "km_linea_recta": 27.0,
   "vias_de_la_ruta": [
    "M-509",
    "M-851",
    "M-505",
    "A-6",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Entidad IDV Madrid, S.L (estación 2862)",
-   "operador": "Entidad IDV Madrid, S.L",
-   "direccion": "C/ De la Fresa, 12. Pol. Ind. El Carralero",
-   "municipio": "Majadahonda",
+   "nombre": "ITV TÜV SÜD ATISAE (estación 2816)",
+   "operador": "TÜV SÜD ATISAE",
+   "direccion": "C/ Cabo Rufino Lázaro, 14D, P4.1 - Pol. Ind. Európolis",
+   "municipio": "Las Rozas",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 4.8,
-   "km_linea": 3.8
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 8.5,
+   "km_linea": 6.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -87,21 +88,22 @@
  "vias_cercanas": [
   {
    "ref": "M-509",
-   "tipo": "trunk",
-   "km": 0.7
+   "tipo": "secondary",
+   "km": 0.1
   },
   {
    "ref": "M-503",
    "tipo": "trunk",
-   "km": 2.2
+   "km": 1.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "villanueva-de-la-canada",

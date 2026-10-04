@@ -186,10 +186,10 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "El Vendrell: BMW junto al mar, ITV a 3 km y taller especialista a 61 km",
-    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller queda a 61,5 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
+    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller queda a 61,4 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 61.5
+      "kmCarretera": 61.4
     },
     "secciones": [
       {
@@ -211,7 +211,7 @@
         "id": "c32-hasta-el-taller",
         "h2": "Por la C-32 hasta Sant Joan Despí",
         "parrafos": [
-          "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,5 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
+          "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,4 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
           "Desde aquí no hay recogida: el servicio del taller solo cubre el área metropolitana. Lo práctico es una llamada previa con el modelo y el síntoma, para bajar con hora y, si hace falta, con la pieza ya pedida."
         ]
       },
@@ -234,7 +234,7 @@
       },
       {
         "q": "¿A qué distancia está vuestro taller?",
-        "a": "A 61,5 km por la C-32 y la B-25, en Sant Joan Despí."
+        "a": "A 61,4 km por la C-32 y la B-25, en Sant Joan Despí."
       }
     ],
     "datos": [
@@ -270,7 +270,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 61,5 km",
+        "valor": "Sant Joan Despí · 61,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

@@ -7,7 +7,7 @@
   "lat": 40.32238,
   "lng": -3.37767,
   "metaTitle": "Taller BMW en Campo Real | Comunidad de Madrid",
-  "metaDescription": "Campo Real: ITV en Arganda del Rey a 10,4 km, servicio oficial BMW en Alcalá y taller independiente especializado en BMW y MINI en Alcobendas, a 48,3 km.",
+  "metaDescription": "Campo Real: ITV en Arganda del Rey a 9,4 km, servicio oficial BMW en Alcalá y taller independiente especializado en BMW y MINI en Alcobendas, a 46,7 km.",
   "heroSubtitle": "Especialistas BMW para Campo Real y el sureste de Madrid.",
   "trustChips": [
     {
@@ -173,25 +173,25 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Campo Real y tu BMW: ITV en Arganda, taller especialista a 48 km",
-    "entradilla": "Campo Real ha sumado más de mil vecinos en diez años. Si tienes un BMW o un MINI, la ITV te queda a 10 km, en Arganda, y el taller de la red en Alcobendas, cruzando Madrid por la R-3 y la M-40.",
+    "h1": "Campo Real y tu BMW: ITV en Arganda, taller especialista a 47 km",
+    "entradilla": "Campo Real ha sumado más de mil vecinos en diez años. Si tienes un BMW o un MINI, la ITV te queda a unos 9 km, en Arganda, y el taller de la red en Alcobendas, cruzando Madrid por la R-3 y la M-30.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 48.3
+      "kmCarretera": 46.7
     },
     "secciones": [
       {
         "id": "itv-san-martin",
         "h2": "Una ITV en el camino de San Martín de la Vega",
         "parrafos": [
-          "La estación oficial más próxima por carretera es la de Laboratorio e Inspección de Vehículos (estación 2807), en el Camino de San Martín de la Vega 8, en Arganda del Rey: 10,4 km desde el centro de Campo Real, según la Comunidad de Madrid."
+          "La estación oficial más próxima por carretera es la de Laboratorio e Inspección de Vehículos (estación 2807), en el Camino de San Martín de la Vega 8, en Arganda del Rey: 9,4 km desde el centro de Campo Real, según la Comunidad de Madrid."
         ]
       },
       {
-        "id": "r3-m40",
-        "h2": "48,3 km por la R-3, la M-40 y la M-12",
+        "id": "r3-m30",
+        "h2": "46,7 km por la R-3, la M-30 y la A-1",
         "parrafos": [
-          "Desde Campo Real, la ruta hasta la calle Valgrande de Alcobendas sale por la M-209, que pasa a 1,1 km del centro, toma la R-3, rodea por la M-40 y termina en la M-12: 48,3 km por carretera, 33,3 en línea recta.",
+          "Desde Campo Real, la ruta hasta la calle Valgrande de Alcobendas sale por la M-209, que pasa a 0,4 km del centro, toma la R-3, cruza por la M-30 y termina por la A-1: 46,7 km por carretera, 31,9 en línea recta.",
           "No es un viaje para una escobilla. Sí lo es para un diagnóstico que nadie ha cerrado o para el mantenimiento por plan de marca. Antes de mover el coche recibes un presupuesto por escrito, y el trabajo no empieza hasta que das el visto bueno; la diagnosis también se presupuesta."
         ]
       },
@@ -199,7 +199,7 @@
         "id": "oficial-la-garena",
         "h2": "El servicio oficial, en el polígono La Garena",
         "parrafos": [
-          "En el localizador de bmw.es, el punto oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena, en Alcalá de Henares, a 25,4 km por carretera."
+          "En el localizador de bmw.es, el punto oficial más cercano es AutoPremier, en la calle Argentina 7 del polígono La Garena, en Alcalá de Henares, a 23,7 km por carretera."
         ]
       },
       {
@@ -214,11 +214,11 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV si vivo en Campo Real?",
-        "a": "En la estación 2807 del Camino de San Martín de la Vega, en Arganda del Rey, a 10,4 km."
+        "a": "En la estación 2807 del Camino de San Martín de la Vega, en Arganda del Rey, a 9,4 km."
       },
       {
         "q": "¿Cómo llego a vuestro taller?",
-        "a": "Por la M-209, la R-3, la M-40 y la M-12 hasta Alcobendas: 48,3 km."
+        "a": "Por la M-209, la R-3, la M-30 y la A-1 hasta Alcobendas: 46,7 km."
       },
       {
         "q": "¿Llega hasta aquí la recogida del coche?",
@@ -246,19 +246,19 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Arganda del Rey (estación 2807) · 10,4 km",
+        "valor": "Arganda del Rey (estación 2807) · 9,4 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "AutoPremier, Alcalá de Henares · 25,4 km",
+        "valor": "AutoPremier, Alcalá de Henares · 23,7 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 48,3 km",
+        "valor": "Alcobendas · 46,7 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

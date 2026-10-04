@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 34.5,
-  "km_linea_recta": 29.9,
+  "km_carretera": 34.6,
+  "km_linea_recta": 30.3,
   "vias_de_la_ruta": [
    "A-2"
   ],
@@ -56,16 +56,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Viladecavalls (B03)",
-   "operador": "TuV-RHEINLAND",
-   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
-   "municipio": "Viladecavalls",
+   "nombre": "ITV Sant Andreu (B21)",
+   "operador": "APPLUS ITV",
+   "direccion": "Carretera N-II P.K. 592,5 s/n",
+   "municipio": "Sant Andreu de la Barca",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 20.7,
-   "km_linea": 12.6
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 19.7,
+   "km_linea": 16.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -84,7 +84,7 @@
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 1.3
+   "km": 1.2
   },
   {
    "ref": "C-55",
@@ -92,12 +92,13 @@
    "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "els-hostalets-de-pierola",
@@ -142,8 +143,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Collbató | Cerca de Montserrat y Martorell",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 4287
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 4828
  },
  "generado": "2026-10-04",
  "perfil": {

@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/687046622) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -66,29 +67,54 @@
  },
  "vias_cercanas": [
   {
+   "ref": "CV-1540",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
+   "ref": "CV-1520",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
+   "ref": "CV-1810",
+   "tipo": "secondary",
+   "km": 1.4
+  },
+  {
+   "ref": "CV-1800",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
    "ref": "CV-1710",
    "tipo": "primary",
    "km": 1.7
   },
   {
-   "ref": "CV-1810",
-   "tipo": "primary",
-   "km": 1.7
-  },
-  {
-   "ref": "CV-1800",
-   "tipo": "primary",
-   "km": 2.0
-  },
-  {
    "ref": "CS-22",
    "tipo": "motorway",
-   "km": 2.3
+   "km": 2.2
+  },
+  {
+   "ref": "CV-149",
+   "tipo": "secondary",
+   "km": 2.2
+  },
+  {
+   "ref": "N-225",
+   "tipo": "secondary",
+   "km": 2.2
   },
   {
    "ref": "AP-7",
    "tipo": "motorway",
-   "km": 2.4
+   "km": 2.3
+  },
+  {
+   "ref": "N-340a",
+   "tipo": "secondary",
+   "km": 2.3
   },
   {
    "ref": "CV-18",
@@ -98,15 +124,21 @@
   {
    "ref": "N-340",
    "tipo": "trunk",
-   "km": 2.7
+   "km": 2.4
+  },
+  {
+   "ref": "CV-151",
+   "tipo": "secondary",
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 6.1,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "valencia",

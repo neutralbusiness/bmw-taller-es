@@ -192,18 +192,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Taller especialista BMW para Barcelona ciudad, a 12,7 km por la Diagonal y la B-23",
+    "h1": "Taller especialista BMW para Barcelona ciudad, a 10,1 km por la Diagonal y la B-23",
     "entradilla": "El taller BMW de la red para Barcelona está fuera del término municipal, en Sant Joan Despí. Para quien vive en la ciudad hay dos datos que importan: se llega por la B-23 y hay recogida del coche dentro del área metropolitana.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 12.7
+      "kmCarretera": 10.1
     },
     "secciones": [
       {
         "id": "salir-por-la-b23",
         "h2": "Salir de Barcelona por la B-23",
         "parrafos": [
-          "Desde el centro de la ciudad hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, hay 12,7 km por carretera y 8,8 en línea recta. El recorrido natural es Diagonal abajo hasta la B-23, y de ahí al Baix Llobregat; desde la parte alta de la ciudad, la Ronda de Dalt es la alternativa.",
+          "Desde el centro de la ciudad hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, hay 10,1 km por carretera y 8,4 en línea recta. El recorrido natural es Diagonal abajo hasta la B-23, y de ahí al Baix Llobregat; desde la parte alta de la ciudad, la Ronda de Dalt es la alternativa.",
           "El taller abre de lunes a viernes en jornada partida, de 9:00 a 14:00 y de 15:00 a 18:00. Los fines de semana está cerrado."
         ]
       },
@@ -233,7 +233,7 @@
     "faq": [
       {
         "q": "¿Tenéis taller dentro de Barcelona?",
-        "a": "No. El taller de la red para Barcelona es Dasercars Barcelona, en Sant Joan Despí, a 12,7 km del centro."
+        "a": "No. El taller de la red para Barcelona es Dasercars Barcelona, en Sant Joan Despí, a 10,1 km del centro."
       },
       {
         "q": "¿Recogéis el coche en Barcelona?",
@@ -275,7 +275,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 12,7 km",
+        "valor": "Sant Joan Despí · 10,1 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

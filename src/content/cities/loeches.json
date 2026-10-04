@@ -7,7 +7,7 @@
   "lat": 40.38285,
   "lng": -3.42061,
   "metaTitle": "Taller BMW en Loeches | Mecánica Especializada Madrid Este",
-  "metaDescription": "Loeches: ITV en Torrejón de Ardoz, servicio oficial BMW en Alcalá de Henares y taller especialista independiente en Alcobendas, a 40,5 km.",
+  "metaDescription": "Loeches: ITV en Arganda del Rey, servicio oficial BMW en Alcalá de Henares y taller especialista independiente en Alcobendas, a 40,4 km.",
   "heroSubtitle": "Especialistas BMW para Loeches y el corredor del Henares",
   "trustChips": [
     {
@@ -174,11 +174,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Loeches: 641 turismos por cada mil vecinos y el taller BMW a 40,5 km",
-    "entradilla": "En Loeches hay 641 turismos por cada 1.000 vecinos, muchos más que en Madrid capital. Lo que necesitas cerca está en Torrejón de Ardoz y Alcalá; el taller especialista de la red, en Alcobendas, por la M-50.",
+    "h1": "Loeches: 641 turismos por cada mil vecinos y el taller BMW a 40,4 km",
+    "entradilla": "En Loeches hay 641 turismos por cada 1.000 vecinos, muchos más que en Madrid capital. Lo que necesitas cerca está en Arganda del Rey y Alcalá; el taller especialista de la red, en Alcobendas, por la M-50.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 40.5
+      "kmCarretera": 40.4
     },
     "secciones": [
       {
@@ -190,10 +190,10 @@
         ]
       },
       {
-        "id": "torrejon-y-alcala",
-        "h2": "ITV en Torrejón, oficial en Alcalá",
+        "id": "arganda-y-alcala",
+        "h2": "ITV en Arganda, oficial en Alcalá",
         "parrafos": [
-          "La estación oficial de ITV más próxima es la de Itversia Gestión (estación 2861), en la calle Jacinto Benavente 6 del polígono Casablanca Este de Torrejón de Ardoz, a 12,4 km.",
+          "La estación oficial de ITV más próxima en el listado de la Comunidad es la de Laboratorio e Inspección de Vehículos (estación 2807), en el camino de San Martín de la Vega 8, en Arganda del Rey, a 11 km.",
           "Para la red de la marca, el localizador de bmw.es remite a Alcalá de Henares: AutoPremier tiene su punto de servicio en la calle Argentina 7, a 17,4 km de Loeches por carretera. Pasar las revisiones en otro sitio no deja el coche sin garantía; el Reglamento (UE) 461/2010 lo ampara mientras se siga el plan de mantenimiento con piezas y aceites de la especificación correcta."
         ]
       },
@@ -201,7 +201,7 @@
         "id": "m206-m50-r2",
         "h2": "Por la M-206, la M-50 y la R-2",
         "parrafos": [
-          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-206, toma la M-50 y termina por la R-2: 40,5 km por carretera, 25,9 en línea recta. Si el trabajo va a llevar varios días, pregunta por el vehículo de cortesía al reservar; depende de disponibilidad.",
+          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-206, toma la M-50 y termina por la R-2: 40,4 km por carretera, 26 en línea recta. Si el trabajo va a llevar varios días, pregunta por el vehículo de cortesía al reservar; depende de disponibilidad.",
           "Un término tan amplio tiene otra lectura: buena parte de los desplazamientos empiezan y terminan con el motor frío. Si tu BMW es diésel y apenas sale de la M-206, una vuelta larga por la M-50 cada pocas semanas ayuda a que el filtro de partículas complete su regeneración."
         ]
       }
@@ -209,7 +209,7 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Loeches?",
-        "a": "En Itversia, calle Jacinto Benavente 6 (polígono Casablanca Este, Torrejón de Ardoz), a 12,4 km."
+        "a": "En Laboratorio e Inspección de Vehículos (estación 2807), camino de San Martín de la Vega 8, Arganda del Rey, a 11 km."
       },
       {
         "q": "Si llevo el coche a revisar con vosotros, ¿mantengo la garantía de BMW?",
@@ -217,7 +217,7 @@
       },
       {
         "q": "¿Qué carreteras se cogen desde Loeches hasta el taller?",
-        "a": "La M-206, la M-50 y la R-2 hasta la calle Valgrande 17 de Alcobendas: 40,5 km."
+        "a": "La M-206, la M-50 y la R-2 hasta la calle Valgrande 17 de Alcobendas: 40,4 km."
       }
     ],
     "datos": [
@@ -241,7 +241,7 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Itversia, Torrejón de Ardoz · 12,4 km",
+        "valor": "Laboratorio e Inspección de Vehículos, Arganda del Rey · 11 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
@@ -253,7 +253,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 40,5 km",
+        "valor": "Alcobendas · 40,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

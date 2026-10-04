@@ -46,13 +46,12 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 78.4,
-  "km_linea_recta": 66.3,
+  "km_carretera": 75.8,
+  "km_linea_recta": 65.9,
   "vias_de_la_ruta": [
    "N-II",
    "C-32",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -66,7 +65,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 7.6,
    "km_linea": 5.5
   }
@@ -87,7 +86,17 @@
   {
    "ref": "N-II",
    "tipo": "primary",
-   "km": 0.7
+   "km": 0.6
+  },
+  {
+   "ref": "GI-512",
+   "tipo": "secondary",
+   "km": 1.0
+  },
+  {
+   "ref": "GI-600",
+   "tipo": "secondary",
+   "km": 1.1
   },
   {
    "ref": "C-32",
@@ -95,12 +104,13 @@
    "km": 1.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 6.9,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "palafolls",

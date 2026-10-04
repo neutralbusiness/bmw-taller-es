@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 39.8,
-  "km_linea_recta": 26.5,
+  "km_carretera": 40.2,
+  "km_linea_recta": 27.9,
   "vias_de_la_ruta": [
    "M-224",
    "M-203",
@@ -68,8 +68,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 9.0,
-   "km_linea": 5.6
+   "km_carretera": 9.7,
+   "km_linea": 7.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,23 +80,28 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 12.8,
-  "km_linea": 8.7,
+  "km_carretera": 13.3,
+  "km_linea": 10.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-300",
-   "tipo": "primary",
-   "km": 2.6
+   "tipo": "secondary",
+   "km": 1.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.40842,
+  "lng": -3.3686,
+  "que": "centro del núcleo urbano de Torres de la Alameda (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "villalbilla",
@@ -150,7 +155,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "interior alto (600-800 m)",
-  "distancia_taller": "cerca (15-40 km)",
+  "distancia_taller": "media distancia (40-80 km)",
   "itv_en_municipio": false
  }
 }

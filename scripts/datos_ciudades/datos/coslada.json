@@ -46,11 +46,11 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 20.7,
-  "km_linea_recta": 15.1,
+  "km_carretera": 19.5,
+  "km_linea_recta": 14.7,
   "vias_de_la_ruta": [
    "M-40",
-   "M-12"
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -63,7 +63,8 @@
     "municipio": "Coslada",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV General de Servicios ITV, S.A (estación 2851)",
@@ -72,7 +73,8 @@
     "municipio": "Coslada",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV TÜV SÜD ATISAE (estación 2815)",
@@ -81,7 +83,8 @@
     "municipio": "Coslada",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -100,6 +103,21 @@
  },
  "vias_cercanas": [
   {
+   "ref": "M-214",
+   "tipo": "secondary",
+   "km": 1.4
+  },
+  {
+   "ref": "M-45",
+   "tipo": "motorway",
+   "km": 1.5
+  },
+  {
+   "ref": "M201",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
    "ref": "M-22",
    "tipo": "trunk",
    "km": 1.7
@@ -110,16 +128,6 @@
    "km": 1.8
   },
   {
-   "ref": "M201",
-   "tipo": "primary",
-   "km": 1.8
-  },
-  {
-   "ref": "M-45",
-   "tipo": "motorway",
-   "km": 1.9
-  },
-  {
    "ref": "R-3",
    "tipo": "motorway",
    "km": 2.6
@@ -127,15 +135,16 @@
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 2.9
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "san-fernando-de-henares",
@@ -180,8 +189,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Coslada — Especialistas en Mantenimiento Preventivo",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 81860
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 80512
  },
  "generado": "2026-10-04",
  "perfil": {

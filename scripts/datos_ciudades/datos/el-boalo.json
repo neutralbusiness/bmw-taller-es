@@ -46,28 +46,29 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 37.8,
-  "km_linea_recta": 28.9,
+  "km_carretera": 41.7,
+  "km_linea_recta": 30.3,
   "vias_de_la_ruta": [
+   "M-608",
    "M-607",
    "M-616"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
-  "en_el_municipio": [],
-  "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
-   "municipio": "Collado Villalba",
-   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
-   "oficial": true,
-   "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 12.2,
-   "km_linea": 9.4
-  }
+  "en_el_municipio": [
+   {
+    "nombre": "ITV I.T.V. CERCEDA, S.L (estación 2866)",
+    "operador": "I.T.V. CERCEDA, S.L",
+    "direccion": "Ctra. M-607, km 48,2",
+    "municipio": "Cerceda",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false,
+    "precision": "CartoCiudad (punto kilométrico)"
+   }
+  ],
+  "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "Movilnorte (Las Rozas)",
@@ -77,28 +78,43 @@
   "municipio": "Las Rozas",
   "web": "https://movilnorte-lasrozas.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 28.7,
-  "km_linea": 19.0,
+  "km_carretera": 31.1,
+  "km_linea": 20.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "M-607",
-   "tipo": "trunk",
-   "km": 0.8
+   "ref": "M-617",
+   "tipo": "secondary",
+   "km": 0.3
   },
   {
    "ref": "M-608",
+   "tipo": "secondary",
+   "km": 1.1
+  },
+  {
+   "ref": "M-607",
    "tipo": "trunk",
-   "km": 1.9
+   "km": 2.0
+  },
+  {
+   "ref": "M-615",
+   "tipo": "secondary",
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.71631,
+  "lng": -3.92173,
+  "que": "centro del núcleo urbano de El Boalo (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "manzanares-el-real",
@@ -152,7 +168,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "montaña (>800 m)",
-  "distancia_taller": "cerca (15-40 km)",
-  "itv_en_municipio": false
+  "distancia_taller": "media distancia (40-80 km)",
+  "itv_en_municipio": true
  }
 }

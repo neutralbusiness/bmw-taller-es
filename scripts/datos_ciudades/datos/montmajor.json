@@ -46,15 +46,12 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 103.8,
-  "km_linea_recta": 73.5,
+  "km_carretera": 119.1,
+  "km_linea_recta": 77.6,
   "vias_de_la_ruta": [
-   "B-420",
-   "C-55",
+   "C-26",
    "C-16",
-   "B-30",
-   "AP-7",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -68,9 +65,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 20.1,
-   "km_linea": 13.9
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 15.7,
+   "km_linea": 11.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -81,17 +78,28 @@
   "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 62.3,
-  "km_linea": 26.8,
+  "km_carretera": 58.0,
+  "km_linea": 30.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "C-26",
+   "tipo": "primary",
+   "km": 0.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 42.0191,
+  "lng": 1.73569,
+  "que": "centro del núcleo urbano de Montmajor (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "montclar",

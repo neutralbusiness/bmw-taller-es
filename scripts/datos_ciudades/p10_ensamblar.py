@@ -108,6 +108,11 @@ def main():
             "vias_fuente": v.get("fuente"),
             "costa": {"km": v.get("costa_km"), "a_menos_de_5km": v.get("costa_5km")} if v else None,
             "distancias_fuente": ru.get("fuente"),
+            # origen de distancias, rutas, vías y costa: el casco urbano cuando
+            # el punto de la página cae fuera de él (p03b); si no, el punto
+            "distancias_desde": ({"lat": ru["origen"][0], "lng": ru["origen"][1],
+                                  "que": f"centro del núcleo urbano de {ru['origen_nucleo']} (CartoCiudad)"}
+                                 if ru.get("origen_nucleo") else None),
             "cercanas_red": [
                 {"slug": o, "nombre": base[o]["nombre"], "km_linea_recta": round(haversine_km(*coords[s], *coords[o]), 1)}
                 for o in sorted((o for o in base if o != s), key=lambda o: haversine_km(*coords[s], *coords[o]))[:8]

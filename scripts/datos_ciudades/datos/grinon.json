@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 51.3,
-  "km_linea_recta": 39.8,
+  "km_carretera": 51.2,
+  "km_linea_recta": 39.7,
   "vias_de_la_ruta": [
    "M-405",
    "M-407",
@@ -68,8 +68,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 7.9,
-   "km_linea": 5.2
+   "km_carretera": 8.1,
+   "km_linea": 6.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,43 +80,53 @@
   "municipio": "Getafe",
   "web": "https://vehinter.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 18.5,
-  "km_linea": 11.6,
+  "km_carretera": 18.7,
+  "km_linea": 12.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-405",
    "tipo": "primary",
-   "km": 0.4
+   "km": 0.2
   },
   {
    "ref": "M-404",
    "tipo": "primary",
-   "km": 1.2
+   "km": 0.7
   },
   {
    "ref": "M-407",
    "tipo": "motorway",
-   "km": 1.9
+   "km": 1.4
   },
   {
-   "ref": "M-410",
-   "tipo": "trunk",
-   "km": 2.0
+   "ref": "M-415",
+   "tipo": "secondary",
+   "km": 1.6
   },
   {
    "ref": "M-419",
    "tipo": "primary",
-   "km": 2.4
+   "km": 2.7
+  },
+  {
+   "ref": "M-410",
+   "tipo": "trunk",
+   "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.21376,
+  "lng": -3.85066,
+  "que": "centro del núcleo urbano de Griñón (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "humanes-de-madrid",
@@ -161,8 +171,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW cerca de Griñón | Diagnosis y reparación especializada",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 10173
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 10799
  },
  "generado": "2026-10-04",
  "perfil": {

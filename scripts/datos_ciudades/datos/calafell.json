@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 55.3,
-  "km_linea_recta": 44.9,
+  "km_carretera": 55.2,
+  "km_linea_recta": 45.3,
   "vias_de_la_ruta": [
    "C-32",
    "B-25"
@@ -64,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 5.3,
    "km_linea": 3.5
   }
@@ -93,17 +93,23 @@
    "km": 0.8
   },
   {
+   "ref": "TV-2126",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
    "ref": "N-340",
    "tipo": "trunk",
    "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 1.2,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "el-vendrell",

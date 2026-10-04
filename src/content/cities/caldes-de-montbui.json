@@ -7,7 +7,7 @@
   "lat": 41.63333,
   "lng": 2.16667,
   "metaTitle": "Especialistas BMW en Caldes de Montbui — Revisión y reparación con garantía",
-  "metaDescription": "Taller especialista BMW y MINI para Caldes de Montbui: Dasercars Barcelona, a 44,5 km por la C-59 y la AP-7. Servicio autorizado e ITV más próximos.",
+  "metaDescription": "Taller especialista BMW y MINI para Caldes de Montbui: Dasercars Barcelona, a 40,6 km por la C-59 y la C-33. Servicio autorizado e ITV más próximos.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Caldes de Montbui? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -184,18 +184,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Caldes de Montbui: taller BMW a 44,5 km por la C-59 y la AP-7",
+    "h1": "Caldes de Montbui: taller BMW a 40,6 km por la C-59 y la C-33",
     "entradilla": "Desde Caldes, la C-59 pasa a medio kilómetro del centro y es la salida natural hacia cualquier taller. El especialista BMW de la red está en Sant Joan Despí; el servicio autorizado más próximo, en Castellar del Vallès.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 44.5
+      "kmCarretera": 40.6
     },
     "secciones": [
       {
         "id": "c59-ap7",
         "h2": "La C-59 como punto de partida",
         "parrafos": [
-          "La ruta que calcula OpenStreetMap desde el centro de Caldes de Montbui hasta Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, encadena la C-59, la AP-7 y la B-23: 44,5 km de carretera para 31 km en línea recta.",
+          "La ruta que calcula OpenStreetMap desde el centro de Caldes de Montbui hasta Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, encadena la C-59, la C-33 y la B-20: 40,6 km de carretera para 30,9 km en línea recta.",
           "Caldes no forma parte del Área Metropolitana de Barcelona, y el servicio de recogida del taller no llega hasta aquí: el coche lo traes tú. Lo razonable es reservar el viaje para trabajos que piden conocer la marca —una distribución ruidosa en un diésel N47, una avería eléctrica que nadie ha localizado, poner al día el mantenimiento según el plan de BMW— y resolver cerca lo genérico."
         ]
       },
@@ -226,7 +226,7 @@
     "faq": [
       {
         "q": "¿Dónde está el taller BMW que atiende Caldes de Montbui?",
-        "a": "En Sant Joan Despí: Dasercars Barcelona, carrer del Tambor del Bruc 3, a 44,5 km por la C-59, la AP-7 y la B-23."
+        "a": "En Sant Joan Despí: Dasercars Barcelona, carrer del Tambor del Bruc 3, a 40,6 km por la C-59, la C-33 y la B-20."
       },
       {
         "q": "¿Hay algún taller autorizado BMW cerca?",
@@ -270,7 +270,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 44,5 km",
+        "valor": "Sant Joan Despí · 40,6 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

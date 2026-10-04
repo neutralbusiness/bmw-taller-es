@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 43.8,
-  "km_linea_recta": 39.5,
+  "km_carretera": 43.5,
+  "km_linea_recta": 38.6,
   "vias_de_la_ruta": [
    "A-4",
    "M-30",
@@ -56,19 +56,19 @@
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
-  "en_el_municipio": [],
-  "mas_cercana": {
-   "nombre": "ITV ITV Valdemoro, S.L (estación 2863)",
-   "operador": "ITV Valdemoro, S.L",
-   "direccion": "C/ Vereda de la Solana, 43-45. Pol.Ind. Las Canteras",
-   "municipio": "Valdemoro",
-   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
-   "oficial": true,
-   "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 8.9,
-   "km_linea": 3.7
-  }
+  "en_el_municipio": [
+   {
+    "nombre": "ITV ITV Valdemoro, S.L (estación 2863)",
+    "operador": "ITV Valdemoro, S.L",
+    "direccion": "C/ Vereda de la Solana, 43-45. Pol.Ind. Las Canteras",
+    "municipio": "Valdemoro",
+    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+    "oficial": true,
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
+   }
+  ],
+  "mas_cercana": null
  },
  "bmw_servicio_oficial_mas_cercano": {
   "nombre": "Vehinter (Getafe)",
@@ -101,15 +101,16 @@
   {
    "ref": "R-4",
    "tipo": "motorway",
-   "km": 2.5
+   "km": 2.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "pinto",
@@ -164,6 +165,6 @@
   "costa": false,
   "altitud": "interior alto (600-800 m)",
   "distancia_taller": "media distancia (40-80 km)",
-  "itv_en_municipio": false
+  "itv_en_municipio": true
  }
 }

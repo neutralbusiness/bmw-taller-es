@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 64.8,
-  "km_linea_recta": 51.3,
+  "km_carretera": 62.2,
+  "km_linea_recta": 50.5,
   "vias_de_la_ruta": [
    "A-2"
   ],
@@ -63,9 +63,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 14.1,
-   "km_linea": 9.0
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 11.5,
+   "km_linea": 7.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -76,23 +76,48 @@
   "municipio": "Tárrega",
   "web": "http://red.bmw.es/unicars/es_ES/home.html",
   "solo_taller": false,
-  "km_carretera": 37.4,
-  "km_linea": 31.4,
+  "km_carretera": 38.2,
+  "km_linea": 32.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 0.7
+   "km": 0.3
+  },
+  {
+   "ref": "C-1412a",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
+   "ref": "N-II",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
+   "ref": "C-241c",
+   "tipo": "secondary",
+   "km": 2.3
+  },
+  {
+   "ref": "B-222",
+   "tipo": "secondary",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.60162,
+  "lng": 1.54482,
+  "que": "centro del núcleo urbano de Jorba (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "argencola",

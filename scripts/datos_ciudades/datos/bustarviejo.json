@@ -46,15 +46,11 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 49.8,
-  "km_linea_recta": 34.1,
+  "km_carretera": 54.9,
+  "km_linea_recta": 36.1,
   "vias_de_la_ruta": [
    "M-610",
-   "M-611",
-   "M-608",
-   "M-609",
-   "M-607",
-   "M-616"
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -68,30 +64,41 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (dirección)",
-   "km_carretera": 30.2,
-   "km_linea": 13.1
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 23.5,
+   "km_linea": 10.8
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Movilnorte (Las Rozas)",
-  "razon_social": "Movilnorte, S.A.",
-  "direccion": "A6-Km. 23,100",
-  "cp": "28230",
-  "municipio": "Las Rozas",
-  "web": "https://movilnorte-lasrozas.concesionariobmw.es",
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U. Vehículo de Ocasión Certificado",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 55.9,
-  "km_linea": 37.2,
+  "km_carretera": 52.9,
+  "km_linea": 33.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-610",
+   "tipo": "secondary",
+   "km": 0.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.85842,
+  "lng": -3.71209,
+  "que": "centro del núcleo urbano de Bustarviejo (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "navalafuente",

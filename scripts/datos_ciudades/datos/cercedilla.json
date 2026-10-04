@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 53.7,
-  "km_linea_recta": 42.1,
+  "km_carretera": 52.3,
+  "km_linea_recta": 41.0,
   "vias_de_la_ruta": [
    "M-622",
    "M-607",
@@ -58,16 +58,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
-   "municipio": "Collado Villalba",
+   "nombre": "ITV I.T.V. CERCEDA, S.L (estación 2866)",
+   "operador": "I.T.V. CERCEDA, S.L",
+   "direccion": "Ctra. M-607, km 48,2",
+   "municipio": "Cerceda",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 20.8,
-   "km_linea": 15.1
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 15.6,
+   "km_linea": 12.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,23 +78,33 @@
   "municipio": "Las Rozas",
   "web": "https://movilnorte-lasrozas.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 36.3,
-  "km_linea": 28.7,
+  "km_carretera": 33.5,
+  "km_linea": 27.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
+  {
+   "ref": "M-614",
+   "tipo": "primary",
+   "km": 1.5
+  },
   {
    "ref": "M-601",
    "tipo": "trunk",
    "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.73615,
+  "lng": -4.06043,
+  "que": "centro del núcleo urbano de Cercedilla (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "navacerrada",

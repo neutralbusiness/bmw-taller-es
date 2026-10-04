@@ -46,11 +46,12 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 40.9,
-  "km_linea_recta": 30.5,
+  "km_carretera": 40.6,
+  "km_linea_recta": 29.3,
   "vias_de_la_ruta": [
    "M-501",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -64,9 +65,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 6.7,
-   "km_linea": 5.8
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 3.0,
+   "km_linea": 2.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -88,17 +89,23 @@
    "km": 0.7
   },
   {
+   "ref": "M-856",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
    "ref": "M-501",
    "tipo": "motorway",
-   "km": 1.6
+   "km": 1.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "mostoles",
@@ -121,6 +128,11 @@
    "km_linea_recta": 9.1
   },
   {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 9.9
+  },
+  {
    "slug": "moraleja-de-enmedio",
    "nombre": "Moraleja de Enmedio",
    "km_linea_recta": 10.9
@@ -134,17 +146,12 @@
    "slug": "sevilla-la-nueva",
    "nombre": "Sevilla la Nueva",
    "km_linea_recta": 11.7
-  },
-  {
-   "slug": "navalcarnero",
-   "nombre": "Navalcarnero",
-   "km_linea_recta": 11.9
   }
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Villaviciosa de Odón | Diagnosis ISTA",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 27596
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 30127
  },
  "generado": "2026-10-04",
  "perfil": {

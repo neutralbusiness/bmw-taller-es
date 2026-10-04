@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 70.6,
-  "km_linea_recta": 49.3,
+  "km_carretera": 68.7,
+  "km_linea_recta": 50.9,
   "vias_de_la_ruta": [
    "CM-2001",
    "CM-2028",
@@ -58,16 +58,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Azuqueca de Henares",
-   "operador": null,
-   "direccion": null,
-   "municipio": null,
-   "fuente": "OpenStreetMap (node/12362141696) — NO oficial, verificar",
-   "oficial": false,
-   "verificar": true,
-   "precision": null,
-   "km_carretera": 39.8,
-   "km_linea": 24.2
+   "nombre": "ITV General de Servicios ITV, S.A (estación 2853)",
+   "operador": "General de Servicios ITV, S.A",
+   "direccion": "Avda. Juan Carlos I Rey de España, 13",
+   "municipio": "Villarejo De Salvanés",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 35.1,
+   "km_linea": 27.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +78,33 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 42.3,
-  "km_linea": 24.5,
+  "km_carretera": 40.5,
+  "km_linea": 25.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "CM-2001",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "CM-2003",
+   "tipo": "secondary",
+   "km": 2.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.36516,
+  "lng": -3.094,
+  "que": "centro del núcleo urbano de Fuentenovilla (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "mondejar",

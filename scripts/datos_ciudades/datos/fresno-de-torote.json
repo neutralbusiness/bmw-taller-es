@@ -46,7 +46,7 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 30.7,
+  "km_carretera": 27.8,
   "km_linea_recta": 21.1,
   "vias_de_la_ruta": [
    "M-113",
@@ -58,15 +58,15 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
-   "operador": "ITVERSIA Gestión, S.L",
-   "direccion": "Vía Complutense, 105",
-   "municipio": "Alcalá De Henares",
+   "nombre": "ITV Itversia Gestión, S.L (estación 2861)",
+   "operador": "Itversia Gestión, S.L",
+   "direccion": "C/ Jacinto Benavente, 6. Pol.Ind. Casablanca Este",
+   "municipio": "Torrejón De Ardoz",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 22.3,
+   "km_carretera": 19.3,
    "km_linea": 13.4
   }
  },
@@ -78,17 +78,22 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 18.3,
-  "km_linea": 11.9,
+  "km_carretera": 15.5,
+  "km_linea": 10.6,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.59217,
+  "lng": -3.41248,
+  "que": "centro del núcleo urbano de Fresno de Torote (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "camarma-de-esteruelas",

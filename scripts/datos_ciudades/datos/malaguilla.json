@@ -41,17 +41,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 60.9,
-  "km_linea_recta": 45.5,
+  "km_carretera": 75.0,
+  "km_linea_recta": 45.7,
   "vias_de_la_ruta": [
-   "CM-1001",
-   "GU-201",
-   "GU-202",
-   "M-120",
-   "M-103",
-   "M-111",
-   "M-100",
-   "A-1"
+   "GU-199",
+   "CM-101",
+   "R-2",
+   "M-50"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -66,8 +62,8 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 29.1,
-   "km_linea": 24.5
+   "km_carretera": 27.0,
+   "km_linea": 22.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +74,22 @@
   "municipio": "Guadalajara",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 27.6,
-  "km_linea": 23.4,
+  "km_carretera": 25.4,
+  "km_linea": 21.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.82157,
+  "lng": -3.25915,
+  "que": "centro del núcleo urbano de Malaguilla (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "matarrubia",

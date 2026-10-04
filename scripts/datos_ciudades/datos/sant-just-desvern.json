@@ -46,7 +46,7 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 3.6,
+  "km_carretera": 3.9,
   "km_linea_recta": 2.0,
   "vias_de_la_ruta": [],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
@@ -60,7 +60,8 @@
     "municipio": "Sant Just Desvern",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    }
   ],
   "mas_cercana": null
@@ -89,6 +90,11 @@
    "km": 0.9
   },
   {
+   "ref": "BV-2001",
+   "tipo": "secondary",
+   "km": 2.0
+  },
+  {
    "ref": "A-2",
    "tipo": "motorway",
    "km": 2.5
@@ -102,14 +108,20 @@
    "ref": "C-32",
    "tipo": "trunk",
    "km": 2.5
+  },
+  {
+   "ref": "BV-1468",
+   "tipo": "secondary",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 10.1,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "sant-feliu-de-llobregat",

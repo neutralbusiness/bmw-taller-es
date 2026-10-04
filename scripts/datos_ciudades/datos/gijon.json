@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/174394302) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -68,7 +69,7 @@
   {
    "ref": "N-632",
    "tipo": "primary",
-   "km": 0.1
+   "km": 0.0
   },
   {
    "ref": "GJ-81",
@@ -78,22 +79,32 @@
   {
    "ref": "N-641",
    "tipo": "trunk",
-   "km": 1.5
+   "km": 1.4
   },
   {
    "ref": "N-641a",
    "tipo": "trunk",
+   "km": 1.4
+  },
+  {
+   "ref": "AS-356",
+   "tipo": "secondary",
    "km": 1.5
+  },
+  {
+   "ref": "AS-377",
+   "tipo": "secondary",
+   "km": 1.6
   },
   {
    "ref": "A-8",
    "tipo": "motorway",
-   "km": 2.0
+   "km": 1.9
   },
   {
    "ref": "AS-I",
    "tipo": "motorway",
-   "km": 2.1
+   "km": 2.0
   },
   {
    "ref": "AS-II",
@@ -106,12 +117,13 @@
    "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 2.6,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "oviedo",

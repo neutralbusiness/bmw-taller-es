@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/209286480) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Baser Inspecciones Técnicas",
@@ -56,7 +57,8 @@
     "municipio": "Murcia",
     "fuente": "OpenStreetMap (way/648725149) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV",
@@ -65,7 +67,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/918842033) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Ronda Sur",
@@ -74,7 +77,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/1136512425) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -96,14 +100,30 @@
    "ref": "MU-33",
    "tipo": "motorway",
    "km": 1.0
+  },
+  {
+   "ref": "RM-B1",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
+   "ref": "RM-E1",
+   "tipo": "secondary",
+   "km": 1.7
+  },
+  {
+   "ref": "RM-E2",
+   "tipo": "secondary",
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "orihuela",

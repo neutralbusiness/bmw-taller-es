@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 7.9,
-  "km_linea_recta": 3.7,
+  "km_carretera": 4.1,
+  "km_linea_recta": 3.1,
   "vias_de_la_ruta": [],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -61,7 +61,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 0.8,
    "km_linea": 0.5
   }
@@ -80,6 +80,11 @@
  },
  "vias_cercanas": [
   {
+   "ref": "B-200",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
    "ref": "B-20",
    "tipo": "trunk",
    "km": 1.0
@@ -97,30 +102,36 @@
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 1.9
+   "km": 1.8
   },
   {
    "ref": "B-10",
    "tipo": "motorway",
-   "km": 1.9
+   "km": 1.8
   },
   {
    "ref": "N-340",
    "tipo": "primary",
-   "km": 1.9
+   "km": 1.8
   },
   {
    "ref": "B-23",
    "tipo": "motorway",
-   "km": 2.4
+   "km": 2.3
+  },
+  {
+   "ref": "B-250",
+   "tipo": "secondary",
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 6.3,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "cornella-de-llobregat",
@@ -165,8 +176,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en L'Hospitalet — Especialistas con diagnóstico ISTA",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 257038
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 289510
  },
  "generado": "2026-10-04",
  "perfil": {

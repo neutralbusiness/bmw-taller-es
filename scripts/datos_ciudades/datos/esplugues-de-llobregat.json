@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 5.6,
-  "km_linea_recta": 2.8,
+  "km_carretera": 3.3,
+  "km_linea_recta": 2.4,
   "vias_de_la_ruta": [
    "C-245"
   ],
@@ -63,7 +63,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 2.7,
    "km_linea": 2.3
   }
@@ -89,7 +89,7 @@
   {
    "ref": "B-23",
    "tipo": "motorway",
-   "km": 0.3
+   "km": 0.4
   },
   {
    "ref": "B-20",
@@ -99,15 +99,21 @@
   {
    "ref": "C-32",
    "tipo": "trunk",
-   "km": 0.7
+   "km": 0.6
+  },
+  {
+   "ref": "B-200",
+   "tipo": "secondary",
+   "km": 2.1
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 8.4,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "sant-just-desvern",
@@ -152,8 +158,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Esplugues de Llobregat — Especialista DPF y CBS",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 46355
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 48221
  },
  "generado": "2026-10-04",
  "perfil": {

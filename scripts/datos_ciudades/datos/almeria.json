@@ -74,25 +74,26 @@
   {
    "ref": "AL-12",
    "tipo": "trunk",
-   "km": 1.8
+   "km": 1.7
   },
   {
    "ref": "A-7",
    "tipo": "motorway",
-   "km": 2.1
+   "km": 2.0
   },
   {
    "ref": "AL-14",
    "tipo": "trunk",
-   "km": 2.6
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 1.4,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "granada",

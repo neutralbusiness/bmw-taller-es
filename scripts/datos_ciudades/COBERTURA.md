@@ -7,19 +7,19 @@ Generado por `p10_ensamblar.py` el 2026-10-04. No editar a mano.
 | Código INE comprobado contra el nombre oficial | 529/529 | 100 % |
 | Población INE (último padrón) | 524/529 | 99 % |
 | Evolución de población a 10 años | 524/529 | 99 % |
-| Coordenadas dentro del término municipal (CartoCiudad) | 524/529 | 99 % |
+| Coordenadas dentro del término municipal (CartoCiudad) | 525/529 | 99 % |
 | Superficie | 524/529 | 99 % |
 | Altitud | 529/529 | 100 % |
 | Comarca oficial (solo Cataluña) | 327/529 | 62 % |
-| Parque de turismos municipal (DGT vía Idescat / CAM) | 461/529 | 87 % |
+| Parque de turismos municipal (DGT vía Idescat / CAM) | 462/529 | 87 % |
 | Taller que atiende con dirección real | 509/529 | 96 % |
 | Distancia por carretera al taller | 509/529 | 96 % |
 | Vías de la ruta al taller | 501/529 | 95 % |
-| ITV oficial en el propio municipio | 48/529 | 9 % |
+| ITV oficial en el propio municipio | 50/529 | 9 % |
 | ITV en el municipio o cercana con fuente oficial | 470/529 | 89 % |
 | ITV cercana solo en OSM (verificar a mano) | 50/529 | 9 % |
 | Servicio oficial BMW más cercano (bmw.es) | 529/529 | 100 % |
-| Vías principales a < 3 km (OSM) | 368/529 | 70 % |
+| Vías principales a < 3 km (OSM) | 464/529 | 88 % |
 | Costa a < 5 km | 42/529 | 8 % |
 | Con consultas de Search Console (90 días, en cache/, no versionado) | 220/529 | 42 % |
 
@@ -28,19 +28,19 @@ Generado por `p10_ensamblar.py` el 2026-10-04. No editar a mano.
 | Código INE comprobado contra el nombre oficial | 575/575 | 100 % |
 | Población INE (último padrón) | 569/575 | 99 % |
 | Evolución de población a 10 años | 569/575 | 99 % |
-| Coordenadas dentro del término municipal (CartoCiudad) | 570/575 | 99 % |
+| Coordenadas dentro del término municipal (CartoCiudad) | 571/575 | 99 % |
 | Superficie | 569/575 | 99 % |
 | Altitud | 575/575 | 100 % |
 | Comarca oficial (solo Cataluña) | 329/575 | 57 % |
-| Parque de turismos municipal (DGT vía Idescat / CAM) | 469/575 | 82 % |
+| Parque de turismos municipal (DGT vía Idescat / CAM) | 470/575 | 82 % |
 | Taller que atiende con dirección real | 518/575 | 90 % |
 | Distancia por carretera al taller | 518/575 | 90 % |
 | Vías de la ruta al taller | 510/575 | 89 % |
-| ITV oficial en el propio municipio | 56/575 | 10 % |
+| ITV oficial en el propio municipio | 58/575 | 10 % |
 | ITV en el municipio o cercana con fuente oficial | 479/575 | 83 % |
 | ITV cercana solo en OSM (verificar a mano) | 62/575 | 11 % |
 | Servicio oficial BMW más cercano (bmw.es) | 575/575 | 100 % |
-| Vías principales a < 3 km (OSM) | 414/575 | 72 % |
+| Vías principales a < 3 km (OSM) | 510/575 | 89 % |
 | Costa a < 5 km | 60/575 | 10 % |
 | Con consultas de Search Console (90 días, en cache/, no versionado) | 254/575 | 44 % |
 

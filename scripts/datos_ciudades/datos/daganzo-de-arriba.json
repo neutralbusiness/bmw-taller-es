@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 24.0,
-  "km_linea_recta": 17.1,
+  "km_carretera": 21.4,
+  "km_linea_recta": 16.2,
   "vias_de_la_ruta": [
    "M-113",
    "M-50",
@@ -58,16 +58,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV ITVERSIA Gestión, S.L (estación 2891)",
-   "operador": "ITVERSIA Gestión, S.L",
-   "direccion": "Vía Complutense, 105",
-   "municipio": "Alcalá De Henares",
+   "nombre": "ITV ITV Maco, S.L (estación 2865)",
+   "operador": "ITV Maco, S.L",
+   "direccion": "Avda. de la Constitución, 3",
+   "municipio": "Torrejón De Ardoz",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 15.7,
-   "km_linea": 10.8
+   "km_carretera": 12.5,
+   "km_linea": 10.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +78,38 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 11.6,
-  "km_linea": 8.1,
+  "km_carretera": 9.5,
+  "km_linea": 7.4,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-100",
+   "tipo": "trunk",
+   "km": 1.1
+  },
+  {
+   "ref": "M-113",
+   "tipo": "primary",
+   "km": 1.1
+  },
+  {
+   "ref": "M-108",
+   "tipo": "primary",
+   "km": 1.4
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.54366,
+  "lng": -3.45932,
+  "que": "centro del núcleo urbano de Daganzo de Arriba (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "ajalvir",

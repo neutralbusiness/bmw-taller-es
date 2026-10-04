@@ -46,9 +46,10 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 49.7,
-  "km_linea_recta": 38.3,
+  "km_carretera": 45.5,
+  "km_linea_recta": 35.3,
   "vias_de_la_ruta": [
+   "M-407",
    "R-5",
    "M-30",
    "A-1"
@@ -58,16 +59,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE, S.L.U (estación 2873)",
-   "operador": "TÜV SÜD ATISAE, S.L.U",
-   "direccion": "C/ Fresadores, 3. Pol.Ind. Valdefuentes",
-   "municipio": "Arroyomolinos",
+   "nombre": "ITV Alcaravan ITV (estación 2829)",
+   "operador": "Alcaravan ITV",
+   "direccion": "Avda. de Fuenlabrada, 15",
+   "municipio": "Humanes",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 5.5,
-   "km_linea": 4.0
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 6.8,
+   "km_linea": 3.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,39 +79,59 @@
   "municipio": "Leganés",
   "web": "https://vehinter-momentumleganes.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 18.5,
-  "km_linea": 12.5,
+  "km_carretera": 13.1,
+  "km_linea": 9.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-413",
    "tipo": "primary",
-   "km": 0.1
+   "km": 0.2
   },
   {
-   "ref": "AP-41",
+   "ref": "M-407",
    "tipo": "motorway",
-   "km": 0.5
+   "km": 1.1
   },
   {
    "ref": "M-410",
    "tipo": "trunk",
-   "km": 0.9
+   "km": 1.3
+  },
+  {
+   "ref": "AP-41",
+   "tipo": "motorway",
+   "km": 2.0
   },
   {
    "ref": "R-5",
    "tipo": "motorway",
-   "km": 1.0
+   "km": 2.2
+  },
+  {
+   "ref": "M-405",
+   "tipo": "primary",
+   "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.2619,
+  "lng": -3.85784,
+  "que": "centro del núcleo urbano de Moraleja de Enmedio (CartoCiudad)"
+ },
  "cercanas_red": [
+  {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 2.4
+  },
   {
    "slug": "batres",
    "nombre": "Batres",
@@ -145,11 +166,6 @@
    "slug": "fuenlabrada",
    "nombre": "Fuenlabrada",
    "km_linea_recta": 8.9
-  },
-  {
-   "slug": "cubas-de-la-sagra",
-   "nombre": "Cubas de la Sagra",
-   "km_linea_recta": 9.2
   }
  ],
  "pagina_actual": {

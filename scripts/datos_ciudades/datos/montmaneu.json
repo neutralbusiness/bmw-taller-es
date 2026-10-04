@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 76.3,
-  "km_linea_recta": 60.4,
+  "km_carretera": 74.9,
+  "km_linea_recta": 61.2,
   "vias_de_la_ruta": [
    "A-2"
   ],
@@ -63,9 +63,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 23.1,
-   "km_linea": 18.0
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 22.4,
+   "km_linea": 18.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -76,28 +76,43 @@
   "municipio": "Tárrega",
   "web": "http://red.bmw.es/unicars/es_ES/home.html",
   "solo_taller": false,
-  "km_carretera": 26.7,
-  "km_linea": 21.3,
+  "km_carretera": 26.0,
+  "km_linea": 21.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 2.0
+   "km": 0.3
+  },
+  {
+   "ref": "B-100",
+   "tipo": "secondary",
+   "km": 0.6
+  },
+  {
+   "ref": "B-221",
+   "tipo": "secondary",
+   "km": 1.4
   },
   {
    "ref": "N-II",
-   "tipo": "primary",
-   "km": 2.1
+   "tipo": "secondary",
+   "km": 1.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.62545,
+  "lng": 1.41553,
+  "que": "centro del núcleo urbano de Montmaneu (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "argencola",

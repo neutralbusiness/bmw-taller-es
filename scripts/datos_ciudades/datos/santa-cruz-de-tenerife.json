@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/820903420) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Santa Cruz de Tenerife",
@@ -56,7 +57,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/820903421) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -77,7 +79,12 @@
   {
    "ref": "TF-11",
    "tipo": "primary",
-   "km": 0.8
+   "km": 0.7
+  },
+  {
+   "ref": "TF-111",
+   "tipo": "secondary",
+   "km": 0.9
   },
   {
    "ref": "TF-5",
@@ -87,11 +94,21 @@
   {
    "ref": "TF-4",
    "tipo": "primary",
-   "km": 1.1
+   "km": 1.0
+  },
+  {
+   "ref": "TF-180",
+   "tipo": "secondary",
+   "km": 1.4
   },
   {
    "ref": "TF-1",
    "tipo": "motorway",
+   "km": 1.8
+  },
+  {
+   "ref": "TF-192",
+   "tipo": "secondary",
    "km": 1.8
   },
   {
@@ -100,12 +117,13 @@
    "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 1.0,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "la-laguna",

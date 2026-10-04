@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 56.9,
-  "km_linea_recta": 47.2,
+  "km_carretera": 56.6,
+  "km_linea_recta": 46.0,
   "vias_de_la_ruta": [
    "M-415",
    "M-407",
@@ -81,17 +81,28 @@
  },
  "vias_cercanas": [
   {
+   "ref": "CM-4008",
+   "tipo": "secondary",
+   "km": 0.8
+  },
+  {
    "ref": "AP-41",
    "tipo": "motorway",
-   "km": 2.2
+   "km": 1.6
+  },
+  {
+   "ref": "M-415",
+   "tipo": "secondary",
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "ugena",

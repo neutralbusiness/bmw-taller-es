@@ -46,11 +46,12 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 27.8,
-  "km_linea_recta": 20.5,
+  "km_carretera": 27.5,
+  "km_linea_recta": 19.5,
   "vias_de_la_ruta": [
    "A-6",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -63,16 +64,18 @@
     "municipio": "Las Rozas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (punto kilométrico)"
    },
    {
     "nombre": "ITV TÜV SÜD ATISAE (estación 2816)",
     "operador": "TÜV SÜD ATISAE",
-    "direccion": "C/ Cabo Rufino Lázaro, 14D, P4.1 - Pol. Ind. Európolis",
+    "direccion": "C/ Cabo Rufino Lázaro, 14D, P4.1 - Pol. Ind. Európolis",
     "municipio": "Las Rozas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -103,25 +106,31 @@
   {
    "ref": "A-6 BUS-VAO",
    "tipo": "motorway",
-   "km": 0.8
+   "km": 0.5
   },
   {
    "ref": "M-50",
    "tipo": "motorway",
-   "km": 1.8
+   "km": 1.7
+  },
+  {
+   "ref": "M-851",
+   "tipo": "secondary",
+   "km": 2.3
   },
   {
    "ref": "M-509",
    "tipo": "trunk",
-   "km": 2.6
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "majadahonda",

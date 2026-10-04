@@ -46,15 +46,13 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 86.0,
-  "km_linea_recta": 60.1,
+  "km_carretera": 76.9,
+  "km_linea_recta": 55.0,
   "vias_de_la_ruta": [
-   "BV-3002",
+   "BV-3003",
    "C-55",
    "C-16",
-   "B-30",
-   "AP-7",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -68,9 +66,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 27.5,
-   "km_linea": 17.2
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 19.3,
+   "km_linea": 12.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -81,23 +79,22 @@
   "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 27.4,
-  "km_linea": 17.0,
+  "km_carretera": 23.6,
+  "km_linea": 12.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [
-  {
-   "ref": "C-55",
-   "tipo": "primary",
-   "km": 2.7
-  }
- ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.79274,
+  "lng": 1.72943,
+  "que": "centro del núcleo urbano de Sant Mateu de Bages (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "suria",
@@ -151,7 +148,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "baja (<600 m)",
-  "distancia_taller": "lejos (80+ km)",
+  "distancia_taller": "media distancia (40-80 km)",
   "itv_en_municipio": false
  }
 }

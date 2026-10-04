@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/141079195) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Atisae",
@@ -56,7 +57,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/141083100) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV La Piña Verde",
@@ -65,7 +67,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/141083310) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Maco",
@@ -74,7 +77,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/143028967) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -93,6 +97,11 @@
  },
  "vias_cercanas": [
   {
+   "ref": "CM-332",
+   "tipo": "secondary",
+   "km": 1.1
+  },
+  {
    "ref": "A-31",
    "tipo": "motorway",
    "km": 1.2
@@ -100,7 +109,7 @@
   {
    "ref": "N-430",
    "tipo": "primary",
-   "km": 1.7
+   "km": 1.6
   },
   {
    "ref": "AB-20",
@@ -108,9 +117,19 @@
    "km": 1.8
   },
   {
-   "ref": "CM-332",
-   "tipo": "primary",
-   "km": 1.9
+   "ref": "N-430a",
+   "tipo": "trunk",
+   "km": 1.8
+  },
+  {
+   "ref": "N-322",
+   "tipo": "motorway",
+   "km": 2.0
+  },
+  {
+   "ref": "N-322a",
+   "tipo": "trunk",
+   "km": 2.0
   },
   {
    "ref": "N-301a",
@@ -118,27 +137,18 @@
    "km": 2.1
   },
   {
-   "ref": "N-322",
-   "tipo": "motorway",
-   "km": 2.1
-  },
-  {
-   "ref": "N-322a",
-   "tipo": "trunk",
-   "km": 2.2
-  },
-  {
-   "ref": "N-430a",
-   "tipo": "trunk",
-   "km": 2.3
+   "ref": "CM-3203",
+   "tipo": "secondary",
+   "km": 2.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "orihuela",

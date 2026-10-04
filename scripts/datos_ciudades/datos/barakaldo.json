@@ -69,7 +69,7 @@
   {
    "ref": "BI-30",
    "tipo": "motorway",
-   "km": 0.6
+   "km": 0.5
   },
   {
    "ref": "BI-628",
@@ -84,7 +84,7 @@
   {
    "ref": "BI-711",
    "tipo": "primary",
-   "km": 1.1
+   "km": 1.0
   },
   {
    "ref": "BI-744",
@@ -94,7 +94,7 @@
   {
    "ref": "BI-10",
    "tipo": "motorway",
-   "km": 1.3
+   "km": 1.2
   },
   {
    "ref": "BI-735",
@@ -109,7 +109,7 @@
   {
    "ref": "BI-637",
    "tipo": "trunk",
-   "km": 1.9
+   "km": 1.7
   },
   {
    "ref": "BI-747",
@@ -117,14 +117,14 @@
    "km": 1.9
   },
   {
-   "ref": "AP-8",
-   "tipo": "motorway",
-   "km": 2.4
-  },
-  {
    "ref": "BI-11",
    "tipo": "primary",
-   "km": 2.4
+   "km": 2.3
+  },
+  {
+   "ref": "AP-8",
+   "tipo": "motorway",
+   "km": 2.5
   },
   {
    "ref": "BI-738",
@@ -132,12 +132,13 @@
    "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 3.2,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "bilbao",

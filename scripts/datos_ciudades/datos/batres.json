@@ -46,7 +46,7 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 58.1,
+  "km_carretera": 56.5,
   "km_linea_recta": 43.1,
   "vias_de_la_ruta": [
    "M-404",
@@ -67,9 +67,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 14.2,
-   "km_linea": 7.6
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 15.5,
+   "km_linea": 11.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,23 +80,33 @@
   "municipio": "Leganés",
   "web": "https://vehinter-momentumleganes.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 25.5,
-  "km_linea": 17.0,
+  "km_carretera": 24.2,
+  "km_linea": 17.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-404",
    "tipo": "primary",
-   "km": 1.2
+   "km": 0.5
+  },
+  {
+   "ref": "AP-41",
+   "tipo": "motorway",
+   "km": 2.3
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.20821,
+  "lng": -3.92107,
+  "que": "centro del núcleo urbano de Batres (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "serranillos-del-valle",
@@ -107,6 +117,11 @@
    "slug": "moraleja-de-enmedio",
    "nombre": "Moraleja de Enmedio",
    "km_linea_recta": 4.8
+  },
+  {
+   "slug": "arroyomolinos",
+   "nombre": "Arroyomolinos",
+   "km_linea_recta": 5.0
   },
   {
    "slug": "alamo-el",
@@ -132,11 +147,6 @@
    "slug": "humanes-de-madrid",
    "nombre": "Humanes de Madrid",
    "km_linea_recta": 8.7
-  },
-  {
-   "slug": "cubas-de-la-sagra",
-   "nombre": "Cubas de la Sagra",
-   "km_linea_recta": 8.8
   }
  ],
  "pagina_actual": {

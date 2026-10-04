@@ -64,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 6.8,
    "km_linea": 3.3
   }
@@ -83,17 +83,43 @@
  },
  "vias_cercanas": [
   {
+   "ref": "C-155",
+   "tipo": "secondary",
+   "km": 0.2
+  },
+  {
+   "ref": "B-142",
+   "tipo": "secondary",
+   "km": 0.7
+  },
+  {
+   "ref": "C-1413a",
+   "tipo": "secondary",
+   "km": 2.5
+  },
+  {
    "ref": "C-59",
    "tipo": "trunk",
    "km": 2.8
+  },
+  {
+   "ref": "B-140",
+   "tipo": "secondary",
+   "km": 2.9
+  },
+  {
+   "ref": "B-141",
+   "tipo": "secondary",
+   "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "palau-solita-i-plegamans",

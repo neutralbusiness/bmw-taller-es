@@ -199,7 +199,7 @@
     "entradilla": "Sabadell tiene taller autorizado BMW propio y estación de ITV en el polígono Can Roqueta. Nuestro taller está a 32 km, en Sant Joan Despí. Qué ofrece cada opción, sin rodeos.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 32.0
+      "kmCarretera": 32.1
     },
     "secciones": [
       {
@@ -214,7 +214,7 @@
         "id": "ap7-b23",
         "h2": "32 kilómetros por la AP-7 y la B-23",
         "parrafos": [
-          "La ruta desde el centro de Sabadell hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 32 km por carretera, 20,1 en línea recta. Sabadell no forma parte del Área Metropolitana de Barcelona, y la recogida del taller, que cubre solo el área metropolitana, no llega aquí: cuenta con traer el coche.",
+          "La ruta desde el centro de Sabadell hasta la nave de Dasercars Barcelona va por la AP-7 y la B-23: 32,1 km por carretera, 20,1 en línea recta. Sabadell no forma parte del Área Metropolitana de Barcelona, y la recogida del taller, que cubre solo el área metropolitana, no llega aquí: cuenta con traer el coche.",
           "Para que el viaje compense, llama antes con modelo, año, kilometraje y el síntoma. Con el bastidor se comprueba la referencia exacta del recambio y se puede tener la pieza el día que entra el coche."
         ]
       },
@@ -280,7 +280,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 32 km",
+        "valor": "Sant Joan Despí · 32,1 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

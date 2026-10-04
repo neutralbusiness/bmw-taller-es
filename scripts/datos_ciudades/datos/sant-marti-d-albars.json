@@ -46,16 +46,14 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 111.2,
-  "km_linea_recta": 74.8,
+  "km_carretera": 110.0,
+  "km_linea_recta": 73.7,
   "vias_de_la_ruta": [
    "BV-4342",
    "C-62",
    "C-25",
    "C-16",
-   "B-30",
-   "AP-7",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -69,9 +67,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 32.1,
-   "km_linea": 20.9
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 31.7,
+   "km_linea": 21.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -82,17 +80,28 @@
   "municipio": "Vic",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 27.2,
-  "km_linea": 19.0,
+  "km_carretera": 26.8,
+  "km_linea": 18.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "C-62",
+   "tipo": "primary",
+   "km": 1.8
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 42.02839,
+  "lng": 2.07351,
+  "que": "centro del núcleo urbano de Sant Martí d'Albars (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "perafita",

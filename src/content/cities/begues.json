@@ -7,7 +7,7 @@
   "lat": 41.3269,
   "lng": 1.89649,
   "metaTitle": "Taller BMW en Begues — Especialistas con diagnóstico ISTA",
-  "metaDescription": "Begues está en el área metropolitana: el taller especialista BMW de Sant Joan Despí, a 27,3 km, ofrece recogida sujeta a disponibilidad. ITV en Viladecans.",
+  "metaDescription": "Begues está en el área metropolitana: el taller especialista BMW de Sant Joan Despí, a 24,1 km, ofrece recogida sujeta a disponibilidad. ITV en Viladecans.",
   "heroSubtitle": "Te han dado un presupuesto desorbitado por la cadena o el turbo de tu BMW en el concesionario? En Begues hay una alternativa honesta.",
   "trustChips": [
     {
@@ -196,18 +196,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Begues: sin autovía cerca, pero con recogida del taller BMW a 27 km",
+    "h1": "Begues: sin autovía cerca, pero con recogida del taller BMW a 24 km",
     "entradilla": "Begues pertenece al Área Metropolitana de Barcelona aunque ninguna autovía pase cerca del pueblo. Eso tiene una ventaja práctica: el taller de Sant Joan Despí puede recoger el coche, sujeto a disponibilidad.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 27.3
+      "kmCarretera": 24.1
     },
     "secciones": [
       {
         "id": "bv-2041",
         "h2": "Primero la BV-2041, luego la C-32",
         "parrafos": [
-          "En un radio de tres kilómetros desde el centro no hay ninguna carretera con referencia de red principal. Para salir, la ruta hasta Dasercars Barcelona toma la BV-2041, enlaza con la C-32 y termina por la B-25: 27,3 km por carretera, 14,2 en línea recta.",
+          "En un radio de tres kilómetros desde el centro solo hay carreteras secundarias: la C-535, a unos 200 metros, y la BV-2041, a 1,8 km. Para salir, la ruta hasta Dasercars Barcelona toma la BV-2041, enlaza con la C-32 y termina por la B-25: 24,1 km por carretera, 12,1 en línea recta.",
           "Es un pueblo a 399 metros, y la bajada hacia el llano se hace con el freno trabajando. El líquido de frenos absorbe humedad con el tiempo y pierde capacidad aunque el coche haga pocos kilómetros: el plan de BMW lo cambia por fecha, y conviene no saltárselo."
         ]
       },
@@ -223,7 +223,7 @@
         "id": "itv-y-oficial",
         "h2": "ITV en Viladecans, concesionario en Sant Boi",
         "parrafos": [
-          "La estación más próxima por carretera según la Generalitat es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 18,9 km. El servicio oficial BMW más cercano, Barcelona Premium, está en la carretera del Prat 15 de Sant Boi de Llobregat, a 23,5 km según bmw.es."
+          "La estación más próxima por carretera según la Generalitat es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 15,8 km. El servicio oficial BMW más cercano, Barcelona Premium, está en la carretera del Prat 15 de Sant Boi de Llobregat, a 20,4 km según bmw.es."
         ]
       },
       {
@@ -241,7 +241,7 @@
       },
       {
         "q": "¿Cuánto hay hasta Sant Joan Despí?",
-        "a": "27,3 km por carretera, por la BV-2041, la C-32 y la B-25."
+        "a": "24,1 km por carretera, por la BV-2041, la C-32 y la B-25."
       },
       {
         "q": "¿Por qué el líquido de frenos se cambia por tiempo?",
@@ -275,13 +275,13 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Viladecans (B07) · 18,9 km",
+        "valor": "Viladecans (B07) · 15,8 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 27,3 km",
+        "valor": "Sant Joan Despí · 24,1 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

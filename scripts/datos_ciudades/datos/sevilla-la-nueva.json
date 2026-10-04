@@ -46,12 +46,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 54.9,
-  "km_linea_recta": 39.8,
+  "km_carretera": 53.0,
+  "km_linea_recta": 38.2,
   "vias_de_la_ruta": [
    "M-600",
    "M-501",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -65,9 +66,9 @@
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 13.5,
-   "km_linea": 10.1
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 8.0,
+   "km_linea": 6.8
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,23 +79,33 @@
   "municipio": "Alcorcón",
   "web": "https://vehinter-alcorcon.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 25.2,
-  "km_linea": 18.5,
+  "km_carretera": 23.6,
+  "km_linea": 17.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
+   "ref": "M-523",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
    "ref": "M-600",
    "tipo": "trunk",
-   "km": 2.3
+   "km": 0.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.34726,
+  "lng": -4.02749,
+  "que": "centro del núcleo urbano de Sevilla la Nueva (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "villanueva-de-perales",

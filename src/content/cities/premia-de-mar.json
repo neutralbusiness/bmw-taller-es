@@ -183,11 +183,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Premià de Mar: un BMW en 2,11 km² junto al mar y el especialista a 38,4 km",
+    "h1": "Premià de Mar: un BMW en 2,11 km² junto al mar y el especialista a 35,8 km",
     "entradilla": "En Premià de Mar viven 13.948 personas por kilómetro cuadrado y el centro está a 0,6 km de la costa. Eso marca cómo vive un coche aquí, y de eso va esta página, además de la ruta hasta nuestro taller de Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 38.4
+      "kmCarretera": 35.8
     },
     "secciones": [
       {
@@ -209,7 +209,7 @@
         "id": "por-la-c32",
         "h2": "Hasta Sant Joan Despí por la C-32 y las rondas",
         "parrafos": [
-          "Premià de Mar no forma parte del Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí. El trayecto suma 38,4 km por la C-32, la B-20 y la B-23; con la N-II pasando junto al centro y la C-32 a 1,4 km, salir hacia Barcelona es directo.",
+          "Premià de Mar no forma parte del Área Metropolitana de Barcelona, así que la recogida que ofrece el taller no llega hasta aquí. El trayecto suma 35,8 km por la C-32 y la B-20; con la N-II pasando junto al centro y la C-32 a 1,3 km, salir hacia Barcelona es directo.",
           "Tiene sentido para una avería que pida diagnosis específica de BMW o para un mantenimiento hecho con el plan de la marca. Una revisión de bajos por el salitre, en cambio, te la puede hacer cualquier buen taller del Maresme."
         ]
       },
@@ -274,7 +274,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 38,4 km",
+        "valor": "Sant Joan Despí · 35,8 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

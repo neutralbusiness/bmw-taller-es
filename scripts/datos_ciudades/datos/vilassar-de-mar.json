@@ -46,12 +46,11 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 42.1,
-  "km_linea_recta": 31.8,
+  "km_carretera": 39.5,
+  "km_linea_recta": 31.5,
   "vias_de_la_ruta": [
    "C-32",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -65,7 +64,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 5.4,
    "km_linea": 4.0
   }
@@ -91,7 +90,7 @@
   {
    "ref": "N-2",
    "tipo": "primary",
-   "km": 0.9
+   "km": 0.8
   },
   {
    "ref": "C-32",
@@ -101,20 +100,21 @@
   {
    "ref": "C-31D",
    "tipo": "motorway",
-   "km": 2.1
+   "km": 1.9
   },
   {
    "ref": "C-31F",
    "tipo": "trunk",
-   "km": 2.5
+   "km": 2.3
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 0.5,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "premia-de-mar",
@@ -159,8 +159,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "BMW Vilassar de Mar — Tu taller especialista con precios de hasta -50%",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 20764
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 21227
  },
  "generado": "2026-10-04",
  "perfil": {
@@ -168,7 +168,7 @@
   "capital_provincia": false,
   "costa": true,
   "altitud": "baja (<600 m)",
-  "distancia_taller": "media distancia (40-80 km)",
+  "distancia_taller": "cerca (15-40 km)",
   "itv_en_municipio": false
  }
 }

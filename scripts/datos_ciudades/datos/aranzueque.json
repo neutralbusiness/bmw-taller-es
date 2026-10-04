@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 58.5,
-  "km_linea_recta": 47.9,
+  "km_carretera": 58.4,
+  "km_linea_recta": 48.6,
   "vias_de_la_ruta": [
    "CM-2027",
    "CM-235",
@@ -79,13 +79,30 @@
   "km_linea": 22.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "CM-2028",
+   "tipo": "secondary",
+   "km": 0.0
+  },
+  {
+   "ref": "CM-2028a",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "CM-2027",
+   "tipo": "secondary",
+   "km": 0.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "valdarachas",

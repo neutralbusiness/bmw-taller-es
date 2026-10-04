@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 54.4,
-  "km_linea_recta": 30.5,
+  "km_carretera": 51.6,
+  "km_linea_recta": 30.1,
   "vias_de_la_ruta": [
    "N-320",
    "R-2",
@@ -61,8 +61,8 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 17.8,
-   "km_linea": 10.3
+   "km_carretera": 15.1,
+   "km_linea": 11.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -73,23 +73,28 @@
   "municipio": "Guadalajara",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 18.8,
-  "km_linea": 11.3,
+  "km_carretera": 16.0,
+  "km_linea": 12.3,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "N-320",
    "tipo": "trunk",
-   "km": 1.4
+   "km": 0.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.63682,
+  "lng": -3.31938,
+  "que": "centro del núcleo urbano de Valdeaveruelo (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "torrejon-del-rey",

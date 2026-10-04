@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 57.3,
-  "km_linea_recta": 27.9,
+  "km_carretera": 52.9,
+  "km_linea_recta": 29.2,
   "vias_de_la_ruta": [
    "N-320",
    "R-2",
@@ -61,8 +61,8 @@
    "oficial": false,
    "verificar": true,
    "precision": null,
-   "km_carretera": 10.1,
-   "km_linea": 7.8
+   "km_carretera": 12.4,
+   "km_linea": 9.8
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -73,23 +73,28 @@
   "municipio": "Guadalajara",
   "web": "https://autopremier.concesionariobmw.es/",
   "solo_taller": false,
-  "km_carretera": 21.7,
-  "km_linea": 14.9,
+  "km_carretera": 17.3,
+  "km_linea": 13.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "N-320",
    "tipo": "trunk",
-   "km": 0.6
+   "km": 0.1
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.64517,
+  "lng": -3.33549,
+  "que": "centro del núcleo urbano de Torrejón del Rey (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "valdeaveruelo",

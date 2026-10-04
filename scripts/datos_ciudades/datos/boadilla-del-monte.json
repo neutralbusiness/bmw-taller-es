@@ -46,27 +46,28 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 31.7,
-  "km_linea_recta": 25.4,
+  "km_carretera": 31.4,
+  "km_linea_recta": 24.2,
   "vias_de_la_ruta": [
    "M-513",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV ITV Villaviciosa, S.L (estación 2871)",
-   "operador": "ITV Villaviciosa, S.L",
-   "direccion": "Ctra. M-506 p.k. 4,200",
-   "municipio": "Alcorcón",
+   "nombre": "ITV Entidad IDV Madrid, S.L (estación 2862)",
+   "operador": "Entidad IDV Madrid, S.L",
+   "direccion": "C/ De la Fresa, 12. Pol. Ind. El Carralero",
+   "municipio": "Majadahonda",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 10.2,
-   "km_linea": 6.4
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 8.2,
+   "km_linea": 5.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -95,15 +96,16 @@
   {
    "ref": "M-50",
    "tipo": "motorway",
-   "km": 0.9
+   "km": 1.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "villaviciosa-de-odon",

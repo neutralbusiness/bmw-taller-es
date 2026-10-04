@@ -134,11 +134,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "BMW en Girona: servicio oficial en Salt y especialista independiente a 111 km",
-    "entradilla": "Nuestro taller más cercano a Girona está en Sant Joan Despí, a 111 km por la AP-7. Es mucha distancia y no lo vamos a disimular: te explicamos para qué tiene sentido y qué tienes a mano en la ciudad.",
+    "h1": "BMW en Girona: servicio oficial en Salt y especialista independiente a 108 km",
+    "entradilla": "Nuestro taller más cercano a Girona está en Sant Joan Despí, a 108 km por la AP-7. Es mucha distancia y no lo vamos a disimular: te explicamos para qué tiene sentido y qué tienes a mano en la ciudad.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 111.0
+      "kmCarretera": 108.4
     },
     "secciones": [
       {
@@ -151,9 +151,9 @@
       },
       {
         "id": "cuando-bajar",
-        "h2": "Para qué sí compensa hacer 111 kilómetros",
+        "h2": "Para qué sí compensa hacer 108 kilómetros",
         "parrafos": [
-          "Para lo que no se ha resuelto cerca: una avería que vuelve después de varias visitas, un fallo del sistema SCR o del AdBlue con la cuenta atrás en marcha, un ruido de cadena en un diésel N47 o N57, o un segundo diagnóstico antes de aceptar una reparación cara. El trayecto es AP-7, C-33, B-20 y B-23 hasta el carrer del Tambor del Bruc.",
+          "Para lo que no se ha resuelto cerca: una avería que vuelve después de varias visitas, un fallo del sistema SCR o del AdBlue con la cuenta atrás en marcha, un ruido de cadena en un diésel N47 o N57, o un segundo diagnóstico antes de aceptar una reparación cara. El trayecto es AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc.",
           "Desde esta distancia, lo primero es una llamada con modelo, año, kilometraje y bastidor. Muchas veces se puede orientar el problema por teléfono, decidir si merece la pena el viaje y, si es así, tener la pieza pedida el día que llegas."
         ]
       },
@@ -168,7 +168,7 @@
     "faq": [
       {
         "q": "¿Tenéis taller en Girona?",
-        "a": "No. El taller de la red más cercano está en Sant Joan Despí, a 111 km por la AP-7."
+        "a": "No. El taller de la red más cercano está en Sant Joan Despí, a 108,4 km por la AP-7."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW de Girona?",
@@ -212,7 +212,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 111 km",
+        "valor": "Sant Joan Despí · 108,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

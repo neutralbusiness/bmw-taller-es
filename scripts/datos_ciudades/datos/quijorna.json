@@ -46,28 +46,30 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 55.1,
-  "km_linea_recta": 38.2,
+  "km_carretera": 51.3,
+  "km_linea_recta": 36.4,
   "vias_de_la_ruta": [
-   "M-522",
-   "M-501",
-   "M-40"
+   "M-521",
+   "M-600",
+   "M-503",
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Entidad IDV Madrid, S.L (estación 2862)",
-   "operador": "Entidad IDV Madrid, S.L",
-   "direccion": "C/ De la Fresa, 12. Pol. Ind. El Carralero",
-   "municipio": "Majadahonda",
+   "nombre": "ITV ITV Villaviciosa, S.L (estación 2871)",
+   "operador": "ITV Villaviciosa, S.L",
+   "direccion": "Ctra. M-506 p.k. 4,200",
+   "municipio": "Alcorcón",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 19.4,
-   "km_linea": 14.4
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 21.8,
+   "km_linea": 17.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,23 +80,33 @@
   "municipio": "Majadahonda",
   "web": "https://movilnorte.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 24.1,
-  "km_linea": 16.4,
+  "km_carretera": 23.0,
+  "km_linea": 15.9,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "M-501",
-   "tipo": "motorway",
-   "km": 2.6
+   "ref": "M-521",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "M-522",
+   "tipo": "secondary",
+   "km": 0.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.42824,
+  "lng": -4.05634,
+  "que": "centro del núcleo urbano de Quijorna (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "villanueva-de-perales",

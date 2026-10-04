@@ -46,12 +46,12 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 76.8,
-  "km_linea_recta": 65.3,
+  "km_carretera": 77.4,
+  "km_linea_recta": 66.3,
   "vias_de_la_ruta": [
+   "N-II",
    "C-32",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -65,41 +65,61 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 8.5,
-   "km_linea": 4.1
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 2.9,
+   "km_linea": 2.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
-  "nombre": "Pruna Motor (Mataró)",
-  "razon_social": "Pruna Motor, S.L. Mataró",
-  "direccion": "Via Sergia, 2",
-  "cp": "08302",
-  "municipio": "Mataró",
-  "web": "https://prunamotor-mataro.concesionariobmw.es",
+  "nombre": "Oliva Motor Girona (Salt)",
+  "razon_social": "Oliva Motor Girona, S.L.U.",
+  "direccion": "C/ De Lingen, 9-11",
+  "cp": "17190",
+  "municipio": "Salt",
+  "web": "https://olivamotorgirona.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 36.9,
-  "km_linea": 29.8,
+  "km_carretera": 40.1,
+  "km_linea": 33.6,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
+   "ref": "B-682",
+   "tipo": "secondary",
+   "km": 0.2
+  },
+  {
+   "ref": "GI-682",
+   "tipo": "secondary",
+   "km": 0.9
+  },
+  {
    "ref": "N-II",
    "tipo": "primary",
-   "km": 0.1
+   "km": 1.6
   },
   {
    "ref": "C-32",
    "tipo": "motorway",
-   "km": 0.2
+   "km": 2.1
+  },
+  {
+   "ref": "GI-600",
+   "tipo": "secondary",
+   "km": 2.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
-  "km": 4.3,
+  "km": 3.1,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.66732,
+  "lng": 2.75066,
+  "que": "centro del núcleo urbano de Palafolls (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "malgrat-de-mar",

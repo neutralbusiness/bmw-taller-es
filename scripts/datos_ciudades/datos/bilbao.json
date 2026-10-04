@@ -67,14 +67,14 @@
  },
  "vias_cercanas": [
   {
-   "ref": "BI-629",
+   "ref": "BI-626",
    "tipo": "trunk",
    "km": 0.9
   },
   {
-   "ref": "BI-626",
+   "ref": "BI-629",
    "tipo": "trunk",
-   "km": 1.0
+   "km": 0.9
   },
   {
    "ref": "BI-20",
@@ -89,7 +89,7 @@
   {
    "ref": "BI-10",
    "tipo": "motorway",
-   "km": 2.0
+   "km": 1.8
   },
   {
    "ref": "N-634",
@@ -104,12 +104,12 @@
   {
    "ref": "A-8",
    "tipo": "motorway",
-   "km": 2.6
+   "km": 2.4
   },
   {
    "ref": "BI-30",
    "tipo": "motorway",
-   "km": 2.6
+   "km": 2.5
   },
   {
    "ref": "N-637",
@@ -119,15 +119,16 @@
   {
    "ref": "BI-11",
    "tipo": "primary",
-   "km": 2.8
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 9.3,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "barakaldo",

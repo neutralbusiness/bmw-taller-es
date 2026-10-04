@@ -176,31 +176,31 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Dosrius, Maresme de interior: dónde llevar el BMW",
-    "entradilla": "Sin autovía a menos de tres kilómetros y con un 20,6 % más de vecinos que hace diez años, en Dosrius cada trayecto empieza por carretera local. Esto es lo que tienes en Mataró y Argentona y lo que supone ir a Sant Joan Despí.",
+    "entradilla": "Con la C-60 a 2,7 km del centro y un 20,6 % más de vecinos que hace diez años, en Dosrius casi todo se hace en coche. Esto es lo que tienes en Mataró y Argentona y lo que supone ir a Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 60.1
+      "kmCarretera": 49.5
     },
     "secciones": [
       {
         "id": "pruna-mataro",
-        "h2": "Pruna Motor, en Mataró, a 19,9 km",
+        "h2": "Pruna Motor, en Mataró, a 12 km",
         "parrafos": [
-          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sergia 2 de Mataró, a 19,9 km por carretera. Las campañas de llamada a revisión que convoque BMW se hacen en la red oficial; todo lo demás puedes hacerlo donde prefieras."
+          "El servicio oficial BMW más próximo según bmw.es es Pruna Motor, en la Via Sergia 2 de Mataró, a 12 km por carretera. Las campañas de llamada a revisión que convoque BMW se hacen en la red oficial; todo lo demás puedes hacerlo donde prefieras."
         ]
       },
       {
         "id": "itv-el-cros",
         "h2": "La ITV de Argentona, en el polígono El Cros",
         "parrafos": [
-          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Argentona (B08), a 19,5 km del centro de Dosrius, aunque en línea recta son solo 8,6. La diferencia la marcan las carreteras del interior del Maresme."
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es la de Argentona (B08), a 11,6 km del centro de Dosrius, aunque en línea recta son solo 6,6. La diferencia la marcan las carreteras del interior del Maresme."
         ]
       },
       {
-        "id": "sesenta-km",
-        "h2": "Sesenta kilómetros por la C-60 y la C-32",
+        "id": "cincuenta-km",
+        "h2": "Casi cincuenta kilómetros por la C-60 y la C-32",
         "parrafos": [
-          "La ruta hasta el carrer del Tambor del Bruc arranca por la BV-5101 y la B-510, enlaza con la C-60 y la C-32 y cruza por la B-20 y la B-23: 60,1 km por carretera. Dosrius no está en el Área Metropolitana de Barcelona y la recogida del taller no llega hasta aquí.",
+          "La ruta hasta el carrer del Tambor del Bruc arranca por la B-510, enlaza con la C-60 y la C-32 y cruza por la B-20: 49,5 km por carretera. Dosrius no está en el Área Metropolitana de Barcelona y la recogida del taller no llega hasta aquí.",
           "El viaje compensa para lo que un taller generalista no resuelve: una codificación tras cambiar una centralita, un fallo del cambio automático, una distribución ruidosa en un N47. Para el aceite y los filtros, un taller cercano te ahorra kilómetros."
         ]
       },
@@ -215,15 +215,15 @@
     "faq": [
       {
         "q": "¿Cuál es el servicio oficial BMW más cercano a Dosrius?",
-        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 19,9 km."
+        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 12 km."
       },
       {
         "q": "¿Dónde paso la ITV?",
-        "a": "La estación más próxima por carretera es la de Argentona (B08), a 19,5 km."
+        "a": "La estación más próxima por carretera es la de Argentona (B08), a 11,6 km."
       },
       {
         "q": "¿A qué distancia está vuestro taller?",
-        "a": "A 60,1 km por carretera, en Sant Joan Despí."
+        "a": "A 49,5 km por carretera, en Sant Joan Despí."
       }
     ],
     "datos": [
@@ -247,19 +247,19 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Argentona (B08) · 19,5 km",
+        "valor": "Argentona (B08) · 11,6 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Pruna Motor (Mataró) · 19,9 km",
+        "valor": "Pruna Motor (Mataró) · 12 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 60,1 km",
+        "valor": "Sant Joan Despí · 49,5 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

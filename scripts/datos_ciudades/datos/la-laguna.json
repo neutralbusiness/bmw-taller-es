@@ -47,7 +47,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/585624495) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV",
@@ -56,7 +57,8 @@
     "municipio": null,
     "fuente": "OpenStreetMap (way/1094479570) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -90,22 +92,53 @@
    "km": 0.5
   },
   {
+   "ref": "TF-265",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
+   "ref": "TF-180",
+   "tipo": "secondary",
+   "km": 0.6
+  },
+  {
    "ref": "TF-13",
    "tipo": "primary",
    "km": 0.8
   },
   {
+   "ref": "TF-152",
+   "tipo": "secondary",
+   "km": 0.9
+  },
+  {
+   "ref": "TF-113",
+   "tipo": "secondary",
+   "km": 1.0
+  },
+  {
+   "ref": "TF-111",
+   "tipo": "secondary",
+   "km": 2.8
+  },
+  {
    "ref": "TF-2",
    "tipo": "motorway",
    "km": 2.8
+  },
+  {
+   "ref": "TF-235",
+   "tipo": "secondary",
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 6.9,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "santa-cruz-de-tenerife",

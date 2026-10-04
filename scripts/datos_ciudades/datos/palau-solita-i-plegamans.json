@@ -46,12 +46,13 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 37.6,
+  "km_carretera": 33.8,
   "km_linea_recta": 25.7,
   "vias_de_la_ruta": [
    "B-143",
-   "AP-7",
-   "B-23"
+   "C-59",
+   "C-33",
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -65,7 +66,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 6.8,
    "km_linea": 4.8
   }
@@ -87,14 +88,25 @@
    "ref": "C-59",
    "tipo": "trunk",
    "km": 0.7
+  },
+  {
+   "ref": "C-155",
+   "tipo": "secondary",
+   "km": 1.2
+  },
+  {
+   "ref": "B-142",
+   "tipo": "secondary",
+   "km": 2.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "polinya",

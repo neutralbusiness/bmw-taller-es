@@ -39,41 +39,88 @@ def centro_municipio(ine5: str):
         return None
 
 
+def _coords_cat(e):
+    """Coordenadas de una estación del dataset de la Generalitat.
+
+    Los campos `lat`/`long` guardan los grados sin punto decimal y sin ceros
+    (Viladecans lat=413028 → 41.3028; Lleida long=66082 → 0.66082), así que
+    la escala no se puede deducir con seguridad. El campo
+    `localitzador_a_google_maps` trae las mismas coordenadas CON punto decimal
+    («q=41.3028+2.019474»): es la fuente buena. Solo si faltara se reconstruye
+    con la parte entera conocida (lat 40-42, long 0-3).
+    """
+    url = (e.get("localitzador_a_google_maps") or {}).get("url", "")
+    m = re.search(r"q=(-?\d+\.\d+)\+(-?\d+\.\d+)", url)
+    if m:
+        return float(m.group(1)), float(m.group(2))
+    la, lo = str(int(e["lat"])), str(int(e["long"]))
+    lat = float(la[:2] + "." + la[2:])
+    lng = float(lo[0] + "." + lo[1:]) if lo[0] in "123" else float("0." + lo)
+    return lat, lng
+
+
 def cataluna():
     out = []
     for e in json.loads(http_get(CAT_URL, "itv_cat.json")):
-        # El dataset guarda grados×10^n como entero y pierde dígitos (Olèrdola
-        # sale con long=173028, Viladecans con lat=413028): se prueba cada
-        # escala y se elige la que cae más cerca del centro del municipio.
         try:
-            cen = centro_municipio(e["codi_municipi"][:5])
-            cands = [(int(e["lat"]) / 10 ** a, int(e["long"]) / 10 ** b) for a in range(3, 8) for b in range(3, 8)]
-            cands = [c for c in cands if 40.4 < c[0] < 42.95 and 0.1 < c[1] < 3.4]
-            lat, lng = min(cands, key=lambda c: haversine_km(c[0], c[1], *cen)) if cen and cands else (None, None)
-            if lat is None or (cen and haversine_km(lat, lng, *cen) > 12):
-                lat, lng = cen  # sin escala creíble: centro del municipio
+            lat, lng = _coords_cat(e)
         except (KeyError, ValueError, TypeError):
+            continue
+        if not (40.4 < lat < 42.95 and 0.1 < lng < 3.4):
             continue
         out.append({
             "nombre": f"ITV {e.get('denominaci', '').strip()} ({e.get('estaci', '')})",
             "operador": e.get("operador"),
             "direccion": e.get("adre_a"), "cp": e.get("cp"), "municipio": e.get("municipi"),
-            "lat": lat, "lng": lng, "horario": e.get("horari_de_servei"),
+            "ine5": (e.get("codi_municipi") or "")[:5] or None,
+            "lat": lat, "lng": lng, "horario": e.get("horari_de_servei"), "precision": "Generalitat (coordenadas de la estación)",
             "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd", "oficial": True, "verificar": False,
         })
     return out
 
 
+ABREV = [(r"^Avda[.,]?\s*", "Avenida "), (r"^C/\s*", "Calle "), (r"^Ctra[.,]?\s*", "Carretera "),
+         (r"^P[º°][.]?\s*", "Paseo "), (r"^Pol[.]?\s*Ind[.]?\s*", "Polígono Industrial "), (r"^C[º°][.]?\s*", "Camino "), (r"\bn[º°]\s*", "")]
+
+
+def _variantes(txt: str):
+    """Formas de la dirección a probar en CartoCiudad, de más a menos literal."""
+    v = []
+    # punto kilométrico: «A-6, km 37,6», «Ctra. M-506 p.k. 4,200», «Carretera A1, km 40,200»
+    m = re.search(r"\b([AMN])-?(\d+)\b.*?(?:km|p\.\s*k)\.?\s*(\d+)", txt, re.I)
+    if m:
+        v.append(("pk", f"{m.group(1).upper()}-{m.group(2)} km {m.group(3)}"))
+        v.append(("pk", f"{m.group(1).upper()}-{m.group(2)} {m.group(3)}"))
+    calle = re.split(r"(?<=\d)\.\s+|\s+(?=Centro Comercial|Pol\.)|,\s*P\d|\s+-\s+|\.\s+(?=Pol|Parque|Centro|C\.\s*C|Parc|Tel|\()|\(|\s{2,}", txt)[0]
+    calle = re.sub(r",?\s*Parcela.*$", "", calle, flags=re.I)
+    calle = re.sub(r"(\d+)\s*-\s*\d+", r"\1", calle)       # «43-45» → 43
+    for a, b in ABREV:
+        calle = re.sub(a, b, calle, flags=re.I)
+    calle = re.sub(r"^Avenida,\s*", "Avenida ", calle).strip(" .,")
+    v.append(("calle", txt))          # tal cual viene en el listado
+    v.append(("calle", calle))
+    v.append(("calle", re.sub(r",?\s*s/n$", "", calle, flags=re.I)))
+    return v
+
+
 def geocodifica(direccion: str, municipio: str):
+    import hashlib
     txt = re.sub(r"Tel[^\n]*", "", direccion).strip(" .")
-    url = f"https://www.cartociudad.es/geocoder/api/geocoder/candidates?q={q(txt + ', ' + municipio)}&limit=5"
-    try:
-        cands = json.loads(http_get(url, "cc_geo_" + __import__("hashlib").md5((txt + municipio).encode()).hexdigest() + ".json"))
-    except Exception:  # noqa: BLE001
-        cands = []
-    for c in cands:
-        if c.get("lat") and norm(c.get("muni", "")).startswith(norm(municipio)[:6]):
-            return c["lat"], c["lng"], "CartoCiudad (dirección)"
+    for tipo, var in _variantes(txt):
+        qq = var if tipo == "pk" else f"{var}, {municipio}"
+        url = f"https://www.cartociudad.es/geocoder/api/geocoder/candidates?q={q(qq)}&limit=5"
+        try:
+            cands = json.loads(http_get(url, "cc_geo2_" + hashlib.md5(qq.encode()).hexdigest() + ".json"))
+        except Exception:  # noqa: BLE001
+            cands = []
+        for c in cands:
+            if not c.get("lat") or c.get("type") != "portal":
+                continue
+            # un p.k. es único en la red de la comunidad (puede caer en el
+            # término vecino: la 2871 está en el M-506 p.k. 4,2, junto a
+            # Móstoles); una calle tiene que estar en el municipio del listado
+            if tipo == "pk" or norm(c.get("muni", "")).startswith(norm(municipio)[:6]):
+                return c["lat"], c["lng"], "CartoCiudad (punto kilométrico)" if tipo == "pk" else "CartoCiudad (dirección)"
     # sin portal: centroide del término municipal (precisión de municipio)
     try:
         c = json.loads(http_get(
@@ -90,10 +137,37 @@ def geocodifica(direccion: str, municipio: str):
     return None, None, None
 
 
+def ine_madrid(municipio: str):
+    """Código INE del municipio madrileño del listado (CartoCiudad, tipo Municipio).
+
+    El listado oficial da el nombre abreviado («Humanes», «Paracuellos»,
+    «Lozoyuela»); con el código se empareja sin depender de cómo escriba el
+    repo el nombre («Molar, El», «Arganda»)."""
+    try:
+        c = json.loads(http_get(
+            f"https://www.cartociudad.es/geocoder/api/geocoder/candidates?q={q(municipio + ', Madrid')}&limit=5",
+            f"cc_mun_name_{norm(municipio)}.json"))
+    except Exception:  # noqa: BLE001
+        return None
+    nm = norm(municipio)
+    # el listado usa nombres de núcleo: Cerceda es del municipio de El Boalo
+    # (El Boalo, Cerceda y Mataelpino) y Lozoyuela de Lozoyuela-Navas-Sieteiglesias
+    alias = {"cerceda": "28023", "lozoyuela": "28901"}
+    if nm in alias:
+        return alias[nm]
+    for x in c:
+        if x.get("type") == "Municipio" and str(x.get("id", "")).startswith("28"):
+            mx = norm(x.get("muni", ""))
+            if mx == nm or mx.startswith(nm + " ") or mx.replace(" ", "").startswith(nm.replace(" ", "")):
+                return str(x["id"]).zfill(5)
+    return None
+
+
 def madrid():
     h = http_get(MAD_URL, "itv_madrid.html").decode("utf-8", "ignore")
     t = re.sub(r"<script.*?</script>|<style.*?</style>", "", h, flags=re.S)
-    t = H.unescape(re.sub(r"<[^>]+>", "\n", t))
+    t = H.unescape(re.sub(r"<[^>]+>", "\n", t)).replace("\xa0", " ")  # «San Sebastián\xa0De Los Reyes»: norm() se comía el espacio
+    t = re.sub(r"[ \t]{2,}", " ", t)
     t = re.sub(r"\n\s*\n+", "\n", t)
     ini = t.index("listado de las Estaciones de ITV")
     fin = t.index("Web de la Asociación de ITV")
@@ -114,7 +188,8 @@ def madrid():
             out.append({
                 "nombre": f"ITV {m.group(2).strip().rstrip('.')} (estación {m.group(1)})",
                 "operador": m.group(2).strip().rstrip("."),
-                "direccion": calle, "municipio": muni.title(), "telefono": tel.group(1).strip() if tel else None,
+                "direccion": calle, "municipio": muni.title(), "ine5": ine_madrid(muni.title()),
+                "telefono": tel.group(1).strip() if tel else None,
                 "lat": lat, "lng": lng, "precision": prec,
                 "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (" + MAD_URL + ")",
                 "oficial": True, "verificar": False,

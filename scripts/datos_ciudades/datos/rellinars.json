@@ -46,10 +46,11 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 52.8,
-  "km_linea_recta": 33.3,
+  "km_carretera": 48.6,
+  "km_linea_recta": 32.4,
   "vias_de_la_ruta": [
-   "B-122",
+   "BV-1212",
+   "C-58",
    "C-55",
    "A-2"
   ],
@@ -58,16 +59,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Manresa (B06)",
+   "nombre": "ITV Viladecavalls (B03)",
    "operador": "TuV-RHEINLAND",
-   "direccion": "c. Esteve Terrades, 2-4: Pol.Ind. \\\\\\\"Bufalvent\\\\\\\"",
-   "municipio": "Manresa",
+   "direccion": "c. Joan Lluis Vives, s/n, Parcel·la 1, Pol.Ind. \\\\\\\"Can Trias\\\\\\\"",
+   "municipio": "Viladecavalls",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 20.1,
-   "km_linea": 9.5
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 16.8,
+   "km_linea": 9.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +79,28 @@
   "municipio": "Sant Fruitós de Bages",
   "web": "",
   "solo_taller": false,
-  "km_carretera": 26.6,
-  "km_linea": 13.6,
+  "km_carretera": 25.1,
+  "km_linea": 15.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "C-16",
+   "tipo": "motorway",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.63238,
+  "lng": 1.90702,
+  "que": "centro del núcleo urbano de Rellinars (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "sant-vicenc-de-castellet",

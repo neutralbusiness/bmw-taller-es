@@ -7,7 +7,7 @@
   "lat": 41.83922,
   "lng": 1.76856,
   "metaTitle": "BMW Súria — Tu taller especialista con precios de hasta -50%",
-  "metaDescription": "BMW y MINI en Súria: servicio oficial e ITV en Sant Fruitós de Bages, a 20 km, y el taller especialista de la red en Sant Joan Despí, a 78,6 km.",
+  "metaDescription": "BMW y MINI en Súria: servicio oficial e ITV en Sant Fruitós de Bages, a unos 19 km, y el taller especialista de la red en Sant Joan Despí, a 76,3 km.",
   "heroSubtitle": "Si tu BMW está en garantía y buscas una alternativa al concesionario en Súria, aquí mantenemos tu coche según el fabricante sin que la pierdas.",
   "trustChips": [
     {
@@ -183,24 +183,24 @@
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Súria y su BMW: Sant Fruitós para lo cercano, Sant Joan Despí para lo específico",
-    "entradilla": "Desde Súria, el concesionario y la ITV caen en el mismo municipio, Sant Fruitós de Bages, a unos 20 km. El taller especialista de la red está bastante más lejos, a 78,6 km. Así se reparte el trabajo con sentido.",
+    "entradilla": "Desde Súria, el concesionario y la ITV caen en el mismo municipio, Sant Fruitós de Bages, a unos 19 km. El taller especialista de la red está bastante más lejos, a 76,3 km. Así se reparte el trabajo con sentido.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 78.6
+      "kmCarretera": 76.3
     },
     "secciones": [
       {
-        "id": "sant-fruitos-a-20-km",
+        "id": "sant-fruitos-a-19-km",
         "h2": "Concesionario e ITV, los dos en Sant Fruitós de Bages",
         "parrafos": [
-          "Según el localizador de bmw.es, el servicio oficial BMW más próximo a Súria es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 20 km por carretera. Prácticamente a la misma distancia, 20,1 km, está la estación ITV Sant Fruitós (B25), que gestiona Itevelesa en el polígono El Grau, según el registro de la Generalitat."
+          "Según el localizador de bmw.es, el servicio oficial BMW más próximo a Súria es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 18,6 km por carretera. Prácticamente a la misma distancia, 18,7 km, está la estación ITV Sant Fruitós (B25), que gestiona Itevelesa en el polígono El Grau, según el registro de la Generalitat."
         ]
       },
       {
         "id": "c55-hacia-el-sur",
-        "h2": "78,6 km hasta el taller: C-55, C-16 y AP-7",
+        "h2": "76,3 km hasta el taller: C-55, C-16 y B-20",
         "parrafos": [
-          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3 de Sant Joan Despí. Desde Súria se sale por la C-55, que pasa a 2,1 km del centro, se enlaza con la C-16 y la B-30 y se termina por la AP-7 y la B-23: 78,6 km por carretera, 57,7 en línea recta.",
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3 de Sant Joan Despí. Desde Súria se sale por la C-1410z, que pasa a unos cientos de metros del centro, y se sigue por la C-55 y la C-16 hasta terminar por la B-20: 76,3 km por carretera, 57,7 en línea recta.",
           "Súria no forma parte del área metropolitana de Barcelona, así que no entra en la recogida de coches del taller."
         ]
       },
@@ -222,11 +222,11 @@
     "faq": [
       {
         "q": "¿Dónde está el concesionario BMW más cercano a Súria?",
-        "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 20 km según bmw.es."
+        "a": "Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 18,6 km según bmw.es."
       },
       {
         "q": "¿Qué ITV me queda más cerca?",
-        "a": "La más próxima por carretera en el registro de la Generalitat es Sant Fruitós (B25), en el polígono El Grau, a 20,1 km."
+        "a": "La más próxima por carretera en el registro de la Generalitat es Sant Fruitós (B25), en el polígono El Grau, a 18,7 km."
       },
       {
         "q": "¿Recogéis el coche en Súria?",
@@ -254,19 +254,19 @@
       },
       {
         "etiqueta": "ITV más cercana",
-        "valor": "Sant Fruitós (B25) · 20,1 km",
+        "valor": "Sant Fruitós (B25) · 18,7 km",
         "fuente": "Generalitat de Catalunya",
         "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Quadis Munich, Sant Fruitós de Bages · 20 km",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 18,6 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 78,6 km",
+        "valor": "Sant Joan Despí · 76,3 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

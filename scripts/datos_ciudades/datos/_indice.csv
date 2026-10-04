@@ -1,545 +1,545 @@
 orden,slug,nombre,provincia,activa_panel,tipo,poblacion,tamano,costa,altitud,distancia_taller,km_taller,itv_en_municipio,v3
-1,barcelona,Barcelona,Barcelona,True,municipio,1731649,gran ciudad (200.000+),True,baja (<600 m),muy cerca (<15 km),12.7,True,True
-2,l-hospitalet-de-llobregat,L'Hospitalet de Llobregat,Barcelona,True,municipio,289510,gran ciudad (200.000+),False,baja (<600 m),muy cerca (<15 km),7.9,False,False
-3,sabadell,Sabadell,Barcelona,True,municipio,225368,gran ciudad (200.000+),False,baja (<600 m),cerca (15-40 km),32.0,True,True
+1,barcelona,Barcelona,Barcelona,True,municipio,1731649,gran ciudad (200.000+),True,baja (<600 m),muy cerca (<15 km),10.1,True,True
+2,l-hospitalet-de-llobregat,L'Hospitalet de Llobregat,Barcelona,True,municipio,289510,gran ciudad (200.000+),False,baja (<600 m),muy cerca (<15 km),4.1,False,True
+3,sabadell,Sabadell,Barcelona,True,municipio,225368,gran ciudad (200.000+),False,baja (<600 m),cerca (15-40 km),32.1,True,True
 4,torrejon-de-ardoz,Torrejón de Ardoz,Madrid,True,municipio,143526,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),27.0,True,True
-5,santa-coloma-de-gramenet,Santa Coloma de Gramenet,Barcelona,True,municipio,123981,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),21.1,False,False
-6,alcobendas,Alcobendas,Madrid,True,municipio,123342,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),0.4,True,False
-7,girona,Girona,Girona,True,municipio,108666,ciudad (50.000-200.000),False,baja (<600 m),lejos (80+ km),111.0,True,True
-8,sant-cugat-del-valles,Sant Cugat del Vallès,Barcelona,True,municipio,97983,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),22.8,True,False
-9,rubi,Rubí,Barcelona,True,municipio,82823,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),20.8,False,False
-10,manresa,Manresa,Barcelona,True,municipio,80974,ciudad (50.000-200.000),False,baja (<600 m),media distancia (40-80 km),60.5,True,False
-11,coslada,Coslada,Madrid,True,municipio,80512,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),20.7,True,False
-12,granollers,Granollers,Barcelona,True,municipio,65341,ciudad (50.000-200.000),False,baja (<600 m),media distancia (40-80 km),41.5,True,False
-13,mollet-del-valles,Mollet del Vallès,Barcelona,True,municipio,52990,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),31.7,False,False
-14,esplugues-de-llobregat,Esplugues de Llobregat,Barcelona,True,municipio,48221,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),5.6,False,False
-15,sant-feliu-de-llobregat,Sant Feliu de Llobregat,Barcelona,True,municipio,46781,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),2.5,False,False
+5,santa-coloma-de-gramenet,Santa Coloma de Gramenet,Barcelona,True,municipio,123981,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),18.5,False,True
+6,alcobendas,Alcobendas,Madrid,True,municipio,123342,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),2.5,True,True
+7,girona,Girona,Girona,True,municipio,108666,ciudad (50.000-200.000),False,baja (<600 m),lejos (80+ km),108.4,True,True
+8,sant-cugat-del-valles,Sant Cugat del Vallès,Barcelona,True,municipio,97983,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),20.2,True,True
+9,rubi,Rubí,Barcelona,True,municipio,82823,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),20.9,False,True
+10,manresa,Manresa,Barcelona,True,municipio,80974,ciudad (50.000-200.000),False,baja (<600 m),media distancia (40-80 km),59.7,True,True
+11,coslada,Coslada,Madrid,True,municipio,80512,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),19.5,True,True
+12,granollers,Granollers,Barcelona,True,municipio,65341,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),38.9,True,True
+13,mollet-del-valles,Mollet del Vallès,Barcelona,True,municipio,52990,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),29.1,False,True
+14,esplugues-de-llobregat,Esplugues de Llobregat,Barcelona,True,municipio,48221,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),3.3,False,True
+15,sant-feliu-de-llobregat,Sant Feliu de Llobregat,Barcelona,True,municipio,46781,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),2.8,False,True
 16,vilafranca-del-penedes,Vilafranca del Penedès,Barcelona,True,municipio,42607,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),46.4,False,True
-17,igualada,Igualada,Barcelona,True,municipio,42085,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),55.2,True,False
-18,el-vendrell,El Vendrell,Tarragona,True,municipio,41133,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),61.5,False,True
-19,san-fernando-de-henares,San Fernando de Henares,Madrid,True,municipio,39059,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),22.7,True,False
-20,montcada-i-reixac,Montcada i Reixac,Barcelona,True,municipio,37460,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),23.3,False,False
-21,sant-joan-despi,Sant Joan Despí,Barcelona,True,municipio,35926,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),0.0,False,False
-22,barbera-del-valles,Barberà del Vallès,Barcelona,True,municipio,33987,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),28.1,False,False
-23,sant-pere-de-ribes,Sant Pere de Ribes,Barcelona,True,municipio,32705,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),34.0,False,False
-24,sesena,Seseña,Toledo,True,municipio,30907,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),58.1,False,True
-25,villaviciosa-de-odon,Villaviciosa de Odón,Madrid,True,municipio,30127,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),40.9,False,False
-26,premia-de-mar,Premià de Mar,Barcelona,True,municipio,29431,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),38.4,False,False
-27,martorell,Martorell,Barcelona,True,municipio,29175,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),19.8,False,False
-28,sant-vicenc-dels-horts,Sant Vicenç dels Horts,Barcelona,True,municipio,28746,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),8.2,False,False
-29,molins-de-rei,Molins de Rei,Barcelona,True,municipio,27300,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),9.6,False,False
-30,castellar-del-valles,Castellar del Vallès,Barcelona,True,municipio,25422,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),47.0,False,False
-31,mejorada-del-campo,Mejorada del Campo,Madrid,True,municipio,25049,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),33.4,True,False
-32,el-masnou,El Masnou,Barcelona,True,municipio,24761,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),31.9,False,False
-33,vilassar-de-mar,Vilassar de Mar,Barcelona,True,municipio,21227,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),42.1,False,False
-34,san-martin-de-la-vega,San Martín de la Vega,Madrid,True,municipio,21010,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),45.3,False,False
-35,les-franqueses-del-valles,les Franqueses del Vallès,Barcelona,True,municipio,20881,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),44.6,False,False
+17,igualada,Igualada,Barcelona,True,municipio,42085,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),55.2,True,True
+18,el-vendrell,El Vendrell,Tarragona,True,municipio,41133,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),61.4,False,True
+19,san-fernando-de-henares,San Fernando de Henares,Madrid,True,municipio,39059,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),21.5,True,True
+20,montcada-i-reixac,Montcada i Reixac,Barcelona,True,municipio,37460,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),20.7,False,True
+21,sant-joan-despi,Sant Joan Despí,Barcelona,True,municipio,35926,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),0.8,False,True
+22,barbera-del-valles,Barberà del Vallès,Barcelona,True,municipio,33987,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),28.2,False,True
+23,sant-pere-de-ribes,Sant Pere de Ribes,Barcelona,True,municipio,32705,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),33.9,False,True
+24,sesena,Seseña,Toledo,True,municipio,30907,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),57.8,False,True
+25,villaviciosa-de-odon,Villaviciosa de Odón,Madrid,True,municipio,30127,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),40.6,False,True
+26,premia-de-mar,Premià de Mar,Barcelona,True,municipio,29431,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),35.8,False,True
+27,martorell,Martorell,Barcelona,True,municipio,29175,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),19.9,False,True
+28,sant-vicenc-dels-horts,Sant Vicenç dels Horts,Barcelona,True,municipio,28746,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),8.3,False,True
+29,molins-de-rei,Molins de Rei,Barcelona,True,municipio,27300,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),9.6,False,True
+30,castellar-del-valles,Castellar del Vallès,Barcelona,True,municipio,25422,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),41.0,False,True
+31,mejorada-del-campo,Mejorada del Campo,Madrid,True,municipio,25049,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),32.8,True,True
+32,el-masnou,El Masnou,Barcelona,True,municipio,24761,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),29.3,False,True
+33,vilassar-de-mar,Vilassar de Mar,Barcelona,True,municipio,21227,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),39.5,False,True
+34,san-martin-de-la-vega,San Martín de la Vega,Madrid,True,municipio,21010,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),45.0,False,True
+35,les-franqueses-del-valles,les Franqueses del Vallès,Barcelona,True,municipio,20881,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),42.0,False,True
 36,calatayud,Calatayud,Zaragoza,True,municipio,20158,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,True,True
 37,utebo,Utebo,Zaragoza,True,municipio,19116,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,False,False
-38,villalbilla,Villalbilla,Madrid,True,municipio,18687,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),35.7,False,False
-39,caldes-de-montbui,Caldes de Montbui,Barcelona,True,municipio,18567,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),44.5,False,False
-40,cubelles,Cubelles,Barcelona,True,municipio,17673,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),43.8,False,False
+38,villalbilla,Villalbilla,Madrid,True,municipio,18687,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),40.4,False,True
+39,caldes-de-montbui,Caldes de Montbui,Barcelona,True,municipio,18567,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),40.6,False,True
+40,cubelles,Cubelles,Barcelona,True,municipio,17673,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),43.7,False,True
 41,ejea-de-los-caballeros,Ejea de los Caballeros,Zaragoza,True,municipio,17129,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,False,False
-42,montornes-del-valles,Montornès del Vallès,Barcelona,True,municipio,17102,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),37.3,False,False
-43,cunit,Cunit,Tarragona,True,municipio,16385,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),49.7,False,False
-44,vallirana,Vallirana,Barcelona,True,municipio,16245,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),17.6,False,False
-45,corbera-de-llobregat,Corbera de Llobregat,Barcelona,True,municipio,16010,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),19.8,False,False
-46,torello,Torelló,Barcelona,True,municipio,15334,municipio medio (10.000-50.000),False,baja (<600 m),lejos (80+ km),95.8,False,False
-47,la-llagosta,La Llagosta,Barcelona,True,municipio,13280,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),31.8,False,False
-48,sant-sadurni-d-anoia,Sant Sadurní d'Anoia,Barcelona,True,municipio,12911,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),37.0,False,False
-49,argentona,Argentona,Barcelona,True,municipio,12891,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),45.2,True,False
-50,montgat,Montgat,Barcelona,True,municipio,12879,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),27.9,False,False
-51,palleja,Pallejà,Barcelona,True,municipio,12006,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),10.8,False,False
-52,la-roca-del-valles,La Roca del Vallès,Barcelona,True,municipio,11014,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),48.1,False,False
-53,llinars-del-valles,Llinars del Vallès,Barcelona,True,municipio,10956,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),52.2,False,False
+42,montornes-del-valles,Montornès del Vallès,Barcelona,True,municipio,17102,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),34.7,False,True
+43,cunit,Cunit,Tarragona,True,municipio,16385,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),49.6,False,True
+44,vallirana,Vallirana,Barcelona,True,municipio,16245,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),17.7,False,True
+45,corbera-de-llobregat,Corbera de Llobregat,Barcelona,True,municipio,16010,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),19.9,False,True
+46,torello,Torelló,Barcelona,True,municipio,15334,municipio medio (10.000-50.000),False,baja (<600 m),lejos (80+ km),93.2,False,True
+47,la-llagosta,La Llagosta,Barcelona,True,municipio,13280,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),29.2,False,True
+48,sant-sadurni-d-anoia,Sant Sadurní d'Anoia,Barcelona,True,municipio,12911,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),37.0,False,True
+49,argentona,Argentona,Barcelona,True,municipio,12891,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),42.6,True,True
+50,montgat,Montgat,Barcelona,True,municipio,12879,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),25.3,False,True
+51,palleja,Pallejà,Barcelona,True,municipio,12006,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),10.8,False,True
+52,la-roca-del-valles,La Roca del Vallès,Barcelona,True,municipio,11014,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),45.5,False,True
+53,llinars-del-valles,Llinars del Vallès,Barcelona,True,municipio,10956,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),49.6,False,True
 54,tarazona,Tarazona,Zaragoza,True,municipio,10873,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,True,False
-55,grinon,Griñón,Madrid,True,municipio,10799,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),51.3,False,False
-56,torrejon-de-la-calzada,Torrejón de la Calzada,Madrid,True,municipio,10653,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.5,False,False
+55,grinon,Griñón,Madrid,True,municipio,10799,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),51.2,False,True
+56,torrejon-de-la-calzada,Torrejón de la Calzada,Madrid,True,municipio,10653,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.2,False,True
 57,caspe,Caspe,Zaragoza,True,municipio,10365,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,False,False
-58,alella,Alella,Barcelona,True,municipio,10262,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),31.7,False,False
-59,bigues-i-riells,Bigues i Riells,Barcelona,True,municipio,10139,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),54.2,False,False
-60,santa-maria-de-palautordera,Santa Maria de Palautordera,Barcelona,True,municipio,10080,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),62.8,False,False
-61,matadepera,Matadepera,Barcelona,True,municipio,9776,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),44.6,False,False
-62,cervello,Cervelló,Barcelona,True,municipio,9743,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),15.7,False,False
-63,arenys-de-munt,Arenys de Munt,Barcelona,True,municipio,9558,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),59.2,False,False
-64,l-ametlla-del-valles,l'Ametlla del Vallès,Barcelona,True,municipio,9474,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),49.2,False,False
-65,sant-fost-de-campsentelles,Sant Fost de Campsentelles,Barcelona,True,municipio,9419,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),31.5,False,False
-66,vilassar-de-dalt,Vilassar de Dalt,Barcelona,True,municipio,9404,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),41.5,False,False
-67,tiana,Tiana,Barcelona,True,municipio,9331,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),28.3,False,False
-68,loeches,Loeches,Madrid,True,municipio,9261,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),40.5,False,False
+58,alella,Alella,Barcelona,True,municipio,10262,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),29.1,False,True
+59,bigues-i-riells,Bigues i Riells,Barcelona,True,municipio,10139,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),51.6,False,True
+60,santa-maria-de-palautordera,Santa Maria de Palautordera,Barcelona,True,municipio,10080,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),61.7,False,True
+61,matadepera,Matadepera,Barcelona,True,municipio,9776,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),39.4,False,True
+62,cervello,Cervelló,Barcelona,True,municipio,9743,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),15.8,False,True
+63,arenys-de-munt,Arenys de Munt,Barcelona,True,municipio,9558,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.6,False,True
+64,l-ametlla-del-valles,l'Ametlla del Vallès,Barcelona,True,municipio,9474,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),44.7,False,True
+65,sant-fost-de-campsentelles,Sant Fost de Campsentelles,Barcelona,True,municipio,9419,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),30.4,False,True
+66,vilassar-de-dalt,Vilassar de Dalt,Barcelona,True,municipio,9404,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),35.9,False,True
+67,tiana,Tiana,Barcelona,True,municipio,9331,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),25.7,False,True
+68,loeches,Loeches,Madrid,True,municipio,9261,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),40.4,False,True
 69,zuera,Zuera,Zaragoza,True,municipio,8766,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-70,morata-de-tajuna,Morata de Tajuña,Madrid,True,municipio,8397,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),51.5,False,False
-71,santa-coloma-de-cervello,Santa Coloma de Cervelló,Barcelona,True,municipio,8273,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),9.1,False,False
-72,vacarisses,Vacarisses,Barcelona,True,municipio,7729,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),41.2,False,False
-73,begues,Begues,Barcelona,True,municipio,7561,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),27.3,False,False
-74,nuevo-baztan,Nuevo Baztán,Madrid,True,municipio,7429,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),49.4,False,False
-75,fuente-el-saz-de-jarama,Fuente el Saz de Jarama,Madrid,True,municipio,7413,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),24.4,True,False
-76,sallent,Sallent,Barcelona,True,municipio,7030,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),77.2,False,False
-77,campo-real,Campo Real,Madrid,True,municipio,6974,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),48.3,False,False
-78,roda-de-ter,Roda de Ter,Barcelona,True,municipio,6937,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),91.3,False,False
+70,morata-de-tajuna,Morata de Tajuña,Madrid,True,municipio,8397,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),47.5,False,True
+71,santa-coloma-de-cervello,Santa Coloma de Cervelló,Barcelona,True,municipio,8273,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),9.1,False,True
+72,vacarisses,Vacarisses,Barcelona,True,municipio,7729,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),40.4,False,True
+73,begues,Begues,Barcelona,True,municipio,7561,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),24.1,False,True
+74,nuevo-baztan,Nuevo Baztán,Madrid,True,municipio,7429,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),49.4,False,True
+75,fuente-el-saz-de-jarama,Fuente el Saz de Jarama,Madrid,True,municipio,7413,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),24.3,False,True
+76,sallent,Sallent,Barcelona,True,municipio,7030,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),72.0,False,True
+77,campo-real,Campo Real,Madrid,True,municipio,6974,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),46.7,False,True
+78,roda-de-ter,Roda de Ter,Barcelona,True,municipio,6937,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),88.7,False,True
 79,tauste,Tauste,Zaragoza,True,municipio,6838,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-80,sant-vicenc-de-montalt,Sant Vicenç de Montalt,Barcelona,True,municipio,6802,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),53.4,False,False
+80,sant-vicenc-de-montalt,Sant Vicenç de Montalt,Barcelona,True,municipio,6802,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),50.8,False,True
 81,muela-la,"Muela, La",Zaragoza,True,municipio,6737,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-82,villanueva-de-la-torre,Villanueva de la Torre,Guadalajara,True,municipio,6666,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),47.7,False,False
-83,dosrius,Dosrius,Barcelona,True,municipio,6287,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.1,False,False
-84,suria,Súria,Barcelona,True,municipio,6200,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),78.6,False,False
-85,torrelles-de-llobregat,Torrelles de Llobregat,Barcelona,True,municipio,6170,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),12.5,False,False
-86,ugena,Ugena,Toledo,True,municipio,5988,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),62.2,False,False
-87,sant-pol-de-mar,Sant Pol de Mar,Barcelona,True,municipio,5793,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),62.6,False,False
-88,l-arboc,l'Arboç,Tarragona,True,municipio,5721,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.2,False,False
-89,vilanova-del-valles,Vilanova del Vallès,Barcelona,True,municipio,5693,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),41.1,False,False
+82,villanueva-de-la-torre,Villanueva de la Torre,Guadalajara,True,municipio,6666,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),47.6,False,True
+83,dosrius,Dosrius,Barcelona,True,municipio,6287,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),49.5,False,True
+84,suria,Súria,Barcelona,True,municipio,6200,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),76.3,False,True
+85,torrelles-de-llobregat,Torrelles de Llobregat,Barcelona,True,municipio,6170,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),12.5,False,True
+86,ugena,Ugena,Toledo,True,municipio,5988,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),61.9,False,True
+87,sant-pol-de-mar,Sant Pol de Mar,Barcelona,True,municipio,5793,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),60.0,False,True
+88,l-arboc,l'Arboç,Tarragona,True,municipio,5721,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.2,False,True
+89,vilanova-del-valles,Vilanova del Vallès,Barcelona,True,municipio,5693,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),37.9,False,True
 90,borja,Borja,Zaragoza,True,municipio,5202,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-91,valdetorres-de-jarama,Valdetorres de Jarama,Madrid,True,municipio,5175,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),27.3,False,False
-92,gironella,Gironella,Barcelona,True,municipio,5083,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),94.3,False,False
-93,torrejon-de-velasco,Torrejón de Velasco,Madrid,True,municipio,4900,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.7,False,False
-94,collbato,Collbató,Barcelona,True,municipio,4828,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),34.5,False,False
-95,serranillos-del-valle,Serranillos del Valle,Madrid,True,municipio,4670,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),53.4,False,False
-96,cardona,Cardona,Barcelona,True,municipio,4553,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),92.5,False,False
-97,el-papiol,el Papiol,Barcelona,True,municipio,4404,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),12.9,False,False
-98,el-pont-de-vilomara-i-rocafort,el Pont de Vilomara i Rocafort,Barcelona,True,municipio,4193,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),63.3,False,False
-99,sant-climent-de-llobregat,Sant Climent de Llobregat,Barcelona,True,municipio,4187,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),12.8,False,False
-100,santa-susanna,Santa Susanna,Barcelona,True,municipio,4099,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),74.2,False,False
-101,quijorna,Quijorna,Madrid,True,municipio,4044,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.1,False,False
-102,sant-cebria-de-vallalta,Sant Cebrià de Vallalta,Barcelona,True,municipio,3872,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),67.2,False,False
-103,odena,Òdena,Barcelona,True,municipio,3760,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.5,False,False
-104,santa-oliva,Santa Oliva,Tarragona,True,municipio,3711,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),63.1,False,False
+91,valdetorres-de-jarama,Valdetorres de Jarama,Madrid,True,municipio,5175,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),27.2,False,True
+92,gironella,Gironella,Barcelona,True,municipio,5083,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),97.3,False,True
+93,torrejon-de-velasco,Torrejón de Velasco,Madrid,True,municipio,4900,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.2,False,True
+94,collbato,Collbató,Barcelona,True,municipio,4828,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),34.6,False,True
+95,serranillos-del-valle,Serranillos del Valle,Madrid,True,municipio,4670,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),54.9,False,True
+96,cardona,Cardona,Barcelona,True,municipio,4553,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),91.6,False,True
+97,el-papiol,el Papiol,Barcelona,True,municipio,4404,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),13.0,False,True
+98,el-pont-de-vilomara-i-rocafort,el Pont de Vilomara i Rocafort,Barcelona,True,municipio,4193,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),62.5,False,True
+99,sant-climent-de-llobregat,Sant Climent de Llobregat,Barcelona,True,municipio,4187,pueblo (1.000-10.000),False,baja (<600 m),muy cerca (<15 km),12.6,False,False
+100,santa-susanna,Santa Susanna,Barcelona,True,municipio,4099,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),69.9,False,False
+101,quijorna,Quijorna,Madrid,True,municipio,4044,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.3,False,False
+102,sant-cebria-de-vallalta,Sant Cebrià de Vallalta,Barcelona,True,municipio,3872,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),61.2,False,False
+103,odena,Òdena,Barcelona,True,municipio,3760,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.1,False,False
+104,santa-oliva,Santa Oliva,Tarragona,True,municipio,3711,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),62.6,False,False
 105,calaf,Calaf,Barcelona,True,municipio,3644,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),78.1,False,False
-106,caldes-d-estrac,Caldes d'Estrac,Barcelona,True,municipio,3356,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),54.4,False,False
-107,sant-julia-de-vilatorta,Sant Julià de Vilatorta,Barcelona,True,municipio,3323,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),92.9,False,False
-108,valdilecha,Valdilecha,Madrid,True,municipio,3289,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),57.0,False,False
-109,monistrol-de-montserrat,Monistrol de Montserrat,Barcelona,True,municipio,3250,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),42.0,False,False
-110,sant-esteve-de-palautordera,Sant Esteve de Palautordera,Barcelona,True,municipio,3099,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.4,False,False
-111,tielmes,Tielmes,Madrid,True,municipio,2964,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),62.5,False,False
-112,santos-de-la-humosa-los,Los Santos de la Humosa,Madrid,True,municipio,2867,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),42.2,False,False
-113,galapagos,Galápagos,Guadalajara,True,municipio,2802,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),47.1,False,False
-114,torrelles-de-foix,Torrelles de Foix,Barcelona,True,municipio,2746,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.6,False,False
-115,gurb,Gurb,Barcelona,True,municipio,2741,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),84.1,False,False
-116,calldetenes,Calldetenes,Barcelona,True,municipio,2733,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),81.8,False,False
-117,albinyana,Albinyana,Tarragona,True,municipio,2718,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.2,False,False
-118,sant-llorenc-savall,Sant Llorenç Savall,Barcelona,True,municipio,2587,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),59.2,False,False
-119,sant-quinti-de-mediona,Sant Quintí de Mediona,Barcelona,True,municipio,2580,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.5,False,False
-120,fresno-de-torote,Fresno de Torote,Madrid,True,municipio,2561,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),30.7,False,False
-121,bellvei,Bellvei,Tarragona,True,municipio,2460,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.7,True,False
-122,castellgali,Castellgalí,Barcelona,True,municipio,2413,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.1,False,False
-123,santa-eugenia-de-berga,Santa Eugènia de Berga,Barcelona,True,municipio,2348,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),82.9,False,False
-124,avinyo,Avinyó,Barcelona,True,municipio,2322,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),80.1,False,False
-125,folgueroles,Folgueroles,Barcelona,True,municipio,2262,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),92.0,False,False
-126,baga,Bagà,Barcelona,True,municipio,2161,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),131.2,False,False
-127,batres,Batres,Madrid,True,municipio,1976,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.1,False,False
-128,valdeavero,Valdeavero,Madrid,True,municipio,1896,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),55.9,False,False
-129,cabrera-d-anoia,Cabrera d'Anoia,Barcelona,True,municipio,1772,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.0,False,False
-130,gualba,Gualba,Barcelona,True,municipio,1766,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),70.3,False,False
-131,castellvi-de-la-marca,Castellví de la Marca,Barcelona,True,municipio,1721,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.4,False,False
-132,villanueva-de-perales,Villanueva de Perales,Madrid,True,municipio,1715,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.4,False,False
-133,fogars-de-la-selva,Fogars de la Selva,Barcelona,True,municipio,1704,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),78.3,False,False
-134,casserres,Casserres,Barcelona,True,municipio,1660,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),99.5,False,False
-135,torrelavit,Torrelavit,Barcelona,True,municipio,1572,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.6,False,False
-136,orusco-de-tajuna,Orusco de Tajuña,Madrid,True,municipio,1531,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),65.1,False,False
-137,santa-eulalia-de-riuprimer,Santa Eulàlia de Riuprimer,Barcelona,True,municipio,1516,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),85.2,False,False
+106,caldes-d-estrac,Caldes d'Estrac,Barcelona,True,municipio,3356,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),51.8,False,False
+107,sant-julia-de-vilatorta,Sant Julià de Vilatorta,Barcelona,True,municipio,3323,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),90.3,False,False
+108,valdilecha,Valdilecha,Madrid,True,municipio,3289,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),55.1,False,False
+109,monistrol-de-montserrat,Monistrol de Montserrat,Barcelona,True,municipio,3250,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),39.2,False,False
+110,sant-esteve-de-palautordera,Sant Esteve de Palautordera,Barcelona,True,municipio,3099,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),63.8,False,False
+111,tielmes,Tielmes,Madrid,True,municipio,2964,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),58.9,False,False
+112,santos-de-la-humosa-los,Los Santos de la Humosa,Madrid,True,municipio,2867,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),41.3,False,False
+113,galapagos,Galápagos,Guadalajara,True,municipio,2802,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),44.9,False,False
+114,torrelles-de-foix,Torrelles de Foix,Barcelona,True,municipio,2746,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),59.2,False,False
+115,gurb,Gurb,Barcelona,True,municipio,2741,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),81.5,False,False
+116,calldetenes,Calldetenes,Barcelona,True,municipio,2733,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),79.1,False,False
+117,albinyana,Albinyana,Tarragona,True,municipio,2718,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.1,False,False
+118,sant-llorenc-savall,Sant Llorenç Savall,Barcelona,True,municipio,2587,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.1,False,False
+119,sant-quinti-de-mediona,Sant Quintí de Mediona,Barcelona,True,municipio,2580,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.6,False,False
+120,fresno-de-torote,Fresno de Torote,Madrid,True,municipio,2561,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),27.8,False,False
+121,bellvei,Bellvei,Tarragona,True,municipio,2460,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.6,True,False
+122,castellgali,Castellgalí,Barcelona,True,municipio,2413,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.7,False,False
+123,santa-eugenia-de-berga,Santa Eugènia de Berga,Barcelona,True,municipio,2348,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),80.3,False,False
+124,avinyo,Avinyó,Barcelona,True,municipio,2322,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),79.2,False,False
+125,folgueroles,Folgueroles,Barcelona,True,municipio,2262,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),89.4,False,False
+126,baga,Bagà,Barcelona,True,municipio,2161,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),123.6,False,False
+127,batres,Batres,Madrid,True,municipio,1976,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.5,False,False
+128,valdeavero,Valdeavero,Madrid,True,municipio,1896,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),54.8,False,False
+129,cabrera-d-anoia,Cabrera d'Anoia,Barcelona,True,municipio,1772,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.1,False,False
+130,gualba,Gualba,Barcelona,True,municipio,1766,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.5,False,False
+131,castellvi-de-la-marca,Castellví de la Marca,Barcelona,True,municipio,1721,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.5,False,False
+132,villanueva-de-perales,Villanueva de Perales,Madrid,True,municipio,1715,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.5,False,False
+133,fogars-de-la-selva,Fogars de la Selva,Barcelona,True,municipio,1704,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),74.9,False,False
+134,casserres,Casserres,Barcelona,True,municipio,1660,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),98.7,False,False
+135,torrelavit,Torrelavit,Barcelona,True,municipio,1572,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.7,False,False
+136,orusco-de-tajuna,Orusco de Tajuña,Madrid,True,municipio,1531,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),64.6,False,False
+137,santa-eulalia-de-riuprimer,Santa Eulàlia de Riuprimer,Barcelona,True,municipio,1516,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),82.5,False,False
 138,font-rubi,Font-rubí,Barcelona,True,municipio,1441,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.6,False,False
 139,tortola-de-henares,Tórtola de Henares,Guadalajara,True,municipio,1439,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),65.3,False,False
-140,vallbona-d-anoia,Vallbona d'Anoia,Barcelona,True,municipio,1424,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),47.4,False,False
-141,anchuelo,Anchuelo,Madrid,True,municipio,1414,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),42.3,False,False
+140,vallbona-d-anoia,Vallbona d'Anoia,Barcelona,True,municipio,1424,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),47.5,False,False
+141,anchuelo,Anchuelo,Madrid,True,municipio,1414,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),42.2,False,False
 142,el-pla-del-penedes,el Pla del Penedès,Barcelona,True,municipio,1393,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),45.9,False,False
-143,titulcia,Titulcia,Madrid,True,municipio,1389,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.6,False,False
-144,pozuelo-del-rey,Pozuelo del Rey,Madrid,True,municipio,1302,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),56.4,False,False
-145,cercs,Cercs,Barcelona,True,municipio,1236,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),108.0,False,False
-146,olost,Olost,Barcelona,True,municipio,1209,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),104.8,False,False
-147,montesquiu,Montesquiu,Barcelona,True,municipio,1131,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),105.7,False,False
-148,calders,Calders,Barcelona,True,municipio,1122,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),76.0,False,False
-149,santa-maria-d-olo,Santa Maria d'Oló,Barcelona,True,municipio,1099,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),89.0,False,False
+143,titulcia,Titulcia,Madrid,True,municipio,1389,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.1,False,False
+144,pozuelo-del-rey,Pozuelo del Rey,Madrid,True,municipio,1302,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),55.0,False,False
+145,cercs,Cercs,Barcelona,True,municipio,1236,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),109.6,False,False
+146,olost,Olost,Barcelona,True,municipio,1209,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),102.5,False,False
+147,montesquiu,Montesquiu,Barcelona,True,municipio,1131,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),103.1,False,False
+148,calders,Calders,Barcelona,True,municipio,1122,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),70.7,False,False
+149,santa-maria-d-olo,Santa Maria d'Oló,Barcelona,True,municipio,1099,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),83.3,False,False
 150,quer,Quer,Guadalajara,True,municipio,1080,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),50.2,False,False
 151,santorcaz,Santorcaz,Madrid,True,municipio,1011,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),46.3,False,False
-152,rellinars,Rellinars,Barcelona,True,municipio,926,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),52.8,False,False
-153,ribatejada,Ribatejada,Madrid,True,municipio,905,pueblo pequeño (<1.000),False,montaña (>800 m),cerca (15-40 km),29.1,False,False
-154,santa-maria-de-martorelles,Santa Maria de Martorelles,Barcelona,True,municipio,868,pueblo pequeño (<1.000),False,baja (<600 m),cerca (15-40 km),35.6,False,False
-155,jorba,Jorba,Barcelona,True,municipio,850,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),64.8,False,False
-156,carme,Carme,Barcelona,True,municipio,847,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),63.7,False,False
-157,orrius,Òrrius,Barcelona,True,municipio,812,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),51.5,False,False
-158,castellcir,Castellcir,Barcelona,True,municipio,804,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),67.0,False,False
-159,monistrol-de-calders,Monistrol de Calders,Barcelona,True,municipio,764,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),78.8,False,False
-160,les-masies-de-roda,les Masies de Roda,Barcelona,True,municipio,758,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),93.2,False,False
-161,ambite,Ambite,Madrid,True,municipio,732,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),69.1,False,False
-162,muntanyola,Muntanyola,Barcelona,True,municipio,697,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),88.6,False,False
-163,puigdalber,Puigdàlber,Barcelona,True,municipio,621,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),51.8,False,False
-164,rajadell,Rajadell,Barcelona,True,municipio,597,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),76.5,False,False
-165,campins,Campins,Barcelona,True,municipio,586,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),67.2,False,False
-166,valverde-de-alcala,Valverde de Alcalá,Madrid,True,municipio,565,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),44.0,False,False
-167,orista,Oristà,Barcelona,True,municipio,555,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),109.1,False,False
-168,fogars-de-montclus,Fogars de Montclús,Barcelona,True,municipio,494,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),71.8,False,False
-169,borreda,Borredà,Barcelona,True,municipio,433,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),123.0,False,False
-170,perafita,Perafita,Barcelona,True,municipio,433,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),112.0,False,False
-171,olmeda-de-las-fuentes,Olmeda de las Fuentes,Madrid,True,municipio,429,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),57.6,False,False
+152,rellinars,Rellinars,Barcelona,True,municipio,926,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),48.6,False,False
+153,ribatejada,Ribatejada,Madrid,True,municipio,905,pueblo pequeño (<1.000),False,montaña (>800 m),cerca (15-40 km),36.6,False,False
+154,santa-maria-de-martorelles,Santa Maria de Martorelles,Barcelona,True,municipio,868,pueblo pequeño (<1.000),False,baja (<600 m),cerca (15-40 km),33.0,False,False
+155,jorba,Jorba,Barcelona,True,municipio,850,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),62.2,False,False
+156,carme,Carme,Barcelona,True,municipio,847,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),63.8,False,False
+157,orrius,Òrrius,Barcelona,True,municipio,812,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),48.9,False,False
+158,castellcir,Castellcir,Barcelona,True,municipio,804,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),63.1,False,False
+159,monistrol-de-calders,Monistrol de Calders,Barcelona,True,municipio,764,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),78.0,False,False
+160,les-masies-de-roda,les Masies de Roda,Barcelona,True,municipio,758,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),89.3,False,False
+161,ambite,Ambite,Madrid,True,municipio,732,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),66.3,False,False
+162,muntanyola,Muntanyola,Barcelona,True,municipio,697,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),86.0,False,False
+163,puigdalber,Puigdàlber,Barcelona,True,municipio,621,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),51.9,False,False
+164,rajadell,Rajadell,Barcelona,True,municipio,597,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),75.7,False,False
+165,campins,Campins,Barcelona,True,municipio,586,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),64.6,False,False
+166,valverde-de-alcala,Valverde de Alcalá,Madrid,True,municipio,565,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),43.9,False,False
+167,orista,Oristà,Barcelona,True,municipio,555,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),94.5,False,False
+168,fogars-de-montclus,Fogars de Montclús,Barcelona,True,municipio,494,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),70.4,False,False
+169,borreda,Borredà,Barcelona,True,municipio,433,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),122.1,False,False
+170,perafita,Perafita,Barcelona,True,municipio,433,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),111.2,False,False
+171,olmeda-de-las-fuentes,Olmeda de las Fuentes,Madrid,True,municipio,429,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),54.5,False,False
 172,gargantilla-del-lozoya-y-pinilla-de-buitrago,Gargantilla del Lozoya y Pinilla de Buitrago,Madrid,True,municipio,396,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.0,False,False
-173,oris,Orís,Barcelona,True,municipio,355,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),99.8,False,False
-174,tavernoles,Tavèrnoles,Barcelona,True,municipio,354,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),94.8,False,False
-175,sant-marti-sesgueioles,Sant Martí Sesgueioles,Barcelona,True,municipio,353,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),80.6,False,False
-176,copons,Copons,Barcelona,True,municipio,352,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),67.7,False,False
-177,lluca,Lluçà,Barcelona,True,municipio,281,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),117.1,False,False
-178,alpens,Alpens,Barcelona,True,municipio,267,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),125.0,False,True
-179,l-espunyola,l'Espunyola,Barcelona,True,municipio,260,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),116.7,False,False
-180,vallcebre,Vallcebre,Barcelona,True,municipio,260,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),127.3,False,False
-181,argencola,Argençola,Barcelona,True,municipio,245,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),76.3,False,False
-182,berzosa-del-lozoya,Berzosa del Lozoya,Madrid,True,municipio,242,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),72.4,False,False
-183,mura,Mura,Barcelona,True,municipio,235,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),70.6,False,False
-184,sant-julia-de-cerdanyola,Sant Julià de Cerdanyola,Barcelona,True,municipio,234,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),124.7,False,False
-185,sora,Sora,Barcelona,True,municipio,225,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),109.6,False,False
-186,santa-cecilia-de-voltrega,Santa Cecília de Voltregà,Barcelona,True,municipio,197,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),90.7,False,False
+173,oris,Orís,Barcelona,True,municipio,355,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),97.2,False,False
+174,tavernoles,Tavèrnoles,Barcelona,True,municipio,354,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),89.2,False,False
+175,sant-marti-sesgueioles,Sant Martí Sesgueioles,Barcelona,True,municipio,353,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),80.7,False,False
+176,copons,Copons,Barcelona,True,municipio,352,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),65.6,False,False
+177,lluca,Lluçà,Barcelona,True,municipio,281,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),116.6,False,False
+178,alpens,Alpens,Barcelona,True,municipio,267,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),124.2,False,True
+179,l-espunyola,l'Espunyola,Barcelona,True,municipio,260,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),112.4,False,False
+180,vallcebre,Vallcebre,Barcelona,True,municipio,260,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),127.9,False,False
+181,argencola,Argençola,Barcelona,True,municipio,245,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),74.3,False,False
+182,berzosa-del-lozoya,Berzosa del Lozoya,Madrid,True,municipio,242,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),72.3,False,False
+183,mura,Mura,Barcelona,True,municipio,235,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),59.0,False,False
+184,sant-julia-de-cerdanyola,Sant Julià de Cerdanyola,Barcelona,True,municipio,234,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),123.9,False,False
+185,sora,Sora,Barcelona,True,municipio,225,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),107.0,False,False
+186,santa-cecilia-de-voltrega,Santa Cecília de Voltregà,Barcelona,True,municipio,197,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),85.8,False,False
 187,calonge-de-segarra,Calonge de Segarra,Barcelona,True,municipio,179,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),83.8,False,False
-188,viver-i-serrateix,Viver i Serrateix,Barcelona,True,municipio,178,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),92.7,False,False
-189,orpi,Orpí,Barcelona,True,municipio,175,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),63.3,False,False
-190,veciana,Veciana,Barcelona,True,municipio,168,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),70.6,False,False
-191,castellar-de-n-hug,Castellar de n'Hug,Barcelona,True,municipio,166,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),138.8,False,False
-192,santa-maria-de-besora,Santa Maria de Besora,Barcelona,True,municipio,164,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),108.6,False,False
-193,la-nou-de-bergueda,la Nou de Berguedà,Barcelona,True,municipio,163,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),122.8,False,False
+188,viver-i-serrateix,Viver i Serrateix,Barcelona,True,municipio,178,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),91.9,False,False
+189,orpi,Orpí,Barcelona,True,municipio,175,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),64.3,False,False
+190,veciana,Veciana,Barcelona,True,municipio,168,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),70.7,False,False
+191,castellar-de-n-hug,Castellar de n'Hug,Barcelona,True,municipio,166,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),140.5,False,False
+192,santa-maria-de-besora,Santa Maria de Besora,Barcelona,True,municipio,164,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),106.0,False,False
+193,la-nou-de-bergueda,la Nou de Berguedà,Barcelona,True,municipio,163,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),118.5,False,False
 194,castellfollit-de-riubregos,Castellfollit de Riubregós,Barcelona,True,municipio,153,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),88.9,False,False
-195,castellar-del-riu,Castellar del Riu,Barcelona,True,municipio,151,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),115.2,False,False
-196,santa-maria-de-miralles,Santa Maria de Miralles,Barcelona,True,municipio,144,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),71.4,False,False
-197,atazar-el,El Atazar,Madrid,True,municipio,110,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.7,False,True
-198,sant-agusti-de-llucanes,Sant Agustí de Lluçanès,Barcelona,True,municipio,106,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),110.3,False,False
-199,capolat,Capolat,Barcelona,True,municipio,93,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),118.8,False,False
-200,sobremunt,Sobremunt,Barcelona,True,municipio,90,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),104.8,False,False
-201,granera,Granera,Barcelona,True,municipio,84,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),72.5,False,False
-202,la-quar,la Quar,Barcelona,True,municipio,41,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),117.4,False,False
-203,figols,Fígols,Barcelona,True,municipio,40,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),134.7,False,False
-204,gisclareny,Gisclareny,Barcelona,True,municipio,28,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),134.2,False,False
-205,sant-jaume-de-frontanya,Sant Jaume de Frontanyà,Barcelona,True,municipio,25,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),132.1,False,False
-206,vilaseca,Vilaseca,Barcelona,True,núcleo de población,,núcleo de población,False,baja (<600 m),lejos (80+ km),99.3,False,False
-207,madrid,Madrid,Madrid,True,municipio,3506730,gran ciudad (200.000+),False,interior alto (600-800 m),cerca (15-40 km),20.5,True,True
+195,castellar-del-riu,Castellar del Riu,Barcelona,True,municipio,151,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),114.4,False,False
+196,santa-maria-de-miralles,Santa Maria de Miralles,Barcelona,True,municipio,144,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),66.3,False,False
+197,atazar-el,El Atazar,Madrid,True,municipio,110,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.6,False,True
+198,sant-agusti-de-llucanes,Sant Agustí de Lluçanès,Barcelona,True,municipio,106,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),107.7,False,False
+199,capolat,Capolat,Barcelona,True,municipio,93,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),117.9,False,False
+200,sobremunt,Sobremunt,Barcelona,True,municipio,90,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),100.4,False,False
+201,granera,Granera,Barcelona,True,municipio,84,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),68.6,False,False
+202,la-quar,la Quar,Barcelona,True,municipio,41,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),109.1,False,False
+203,figols,Fígols,Barcelona,True,municipio,40,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),119.0,False,False
+204,gisclareny,Gisclareny,Barcelona,True,municipio,28,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),134.6,False,False
+205,sant-jaume-de-frontanya,Sant Jaume de Frontanyà,Barcelona,True,municipio,25,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),131.2,False,False
+206,vilaseca,Vilaseca,Barcelona,True,núcleo de población,,núcleo de población,False,baja (<600 m),lejos (80+ km),96.7,False,False
+207,madrid,Madrid,Madrid,True,municipio,3506730,gran ciudad (200.000+),False,interior alto (600-800 m),cerca (15-40 km),20.2,True,True
 208,zaragoza,Zaragoza,Zaragoza,True,municipio,693091,gran ciudad (200.000+),False,baja (<600 m),sin taller con dirección,,True,True
-209,terrassa,Terrassa,Barcelona,True,municipio,233270,gran ciudad (200.000+),False,baja (<600 m),cerca (15-40 km),32.3,False,True
-210,badalona,Badalona,Barcelona,True,municipio,231542,gran ciudad (200.000+),True,baja (<600 m),cerca (15-40 km),27.1,True,False
-211,parla,Parla,Madrid,True,municipio,137471,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),42.1,True,False
-212,mataro,Mataró,Barcelona,True,municipio,131683,ciudad (50.000-200.000),True,baja (<600 m),media distancia (40-80 km),44.9,False,False
+209,terrassa,Terrassa,Barcelona,True,municipio,233270,gran ciudad (200.000+),False,baja (<600 m),cerca (15-40 km),31.4,False,True
+210,badalona,Badalona,Barcelona,True,municipio,231542,gran ciudad (200.000+),True,baja (<600 m),cerca (15-40 km),24.5,True,False
+211,parla,Parla,Madrid,True,municipio,137471,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),41.8,True,False
+212,mataro,Mataró,Barcelona,True,municipio,131683,ciudad (50.000-200.000),True,baja (<600 m),media distancia (40-80 km),42.3,False,False
 213,jaen,Jaén,Jaén,True,municipio,112235,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,True,False
-214,reus,Reus,Tarragona,True,municipio,111601,ciudad (50.000-200.000),False,baja (<600 m),lejos (80+ km),99.3,True,False
+214,reus,Reus,Tarragona,True,municipio,111601,ciudad (50.000-200.000),False,baja (<600 m),lejos (80+ km),99.2,True,False
 215,cadiz,Cádiz,Cádiz,True,municipio,109950,ciudad (50.000-200.000),True,baja (<600 m),sin taller con dirección,,True,False
 216,ourense,Ourense,Ourense,True,municipio,105769,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,False,False
-217,rivas-vaciamadrid,Rivas-Vaciamadrid,Madrid,True,municipio,103148,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),35.9,True,False
+217,rivas-vaciamadrid,Rivas-Vaciamadrid,Madrid,True,municipio,103148,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),34.0,True,False
 218,barakaldo,Barakaldo,Bizkaia,True,municipio,102986,ciudad (50.000-200.000),True,baja (<600 m),sin taller con dirección,,False,False
-219,las-rozas-de-madrid,Las Rozas de Madrid,Madrid,True,municipio,99037,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),27.8,True,False
-220,san-sebastian-de-los-reyes,San Sebastián de los Reyes,Madrid,True,municipio,96992,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),2.4,True,False
+219,las-rozas-de-madrid,Las Rozas de Madrid,Madrid,True,municipio,99037,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),27.5,True,False
+220,san-sebastian-de-los-reyes,San Sebastián de los Reyes,Madrid,True,municipio,96992,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),4.5,True,False
 221,guadalajara,Guadalajara,Guadalajara,True,municipio,92834,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),52.5,True,True
-222,cornella-de-llobregat,Cornellà de Llobregat,Barcelona,True,municipio,92237,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),5.4,True,False
-223,pozuelo-de-alarcon,Pozuelo de Alarcón,Madrid,True,municipio,89770,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),25.0,True,False
-224,valdemoro,Valdemoro,Madrid,True,municipio,85972,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),43.8,False,False
-225,sant-boi-de-llobregat,Sant Boi de Llobregat,Barcelona,True,municipio,85610,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),6.2,False,True
+222,cornella-de-llobregat,Cornellà de Llobregat,Barcelona,True,municipio,92237,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),1.5,True,False
+223,pozuelo-de-alarcon,Pozuelo de Alarcón,Madrid,True,municipio,89770,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),24.7,True,False
+224,valdemoro,Valdemoro,Madrid,True,municipio,85972,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),43.5,True,False
+225,sant-boi-de-llobregat,Sant Boi de Llobregat,Barcelona,True,municipio,85610,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),6.1,False,True
 226,orihuela,Orihuela,Alicante,True,municipio,84560,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,True,False
-227,majadahonda,Majadahonda,Madrid,True,municipio,73625,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),27.8,True,False
-228,vilanova-i-la-geltru,Vilanova i la Geltrú,Barcelona,True,municipio,71641,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),39.4,True,False
-229,castelldefels,Castelldefels,Barcelona,True,municipio,70057,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),16.0,False,False
-230,viladecans,Viladecans,Barcelona,True,municipio,67587,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),11.4,True,False
-231,collado-villalba,Collado-Villalba,Madrid,True,municipio,67274,ciudad (50.000-200.000),False,montaña (>800 m),media distancia (40-80 km),49.4,True,False
-232,boadilla-del-monte,Boadilla del Monte,Madrid,True,municipio,66349,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),31.7,False,False
-233,el-prat-de-llobregat,El Prat de Llobregat,Barcelona,True,municipio,66338,ciudad (50.000-200.000),True,baja (<600 m),muy cerca (<15 km),9.3,False,False
-234,arganda-del-rey,Arganda del Rey,Madrid,True,municipio,60419,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),42.2,True,False
-235,arganda,Arganda,Madrid,True,municipio,60419,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),43.2,True,False
-236,colmenar-viejo,Colmenar Viejo,Madrid,True,municipio,58730,ciudad (50.000-200.000),False,montaña (>800 m),cerca (15-40 km),22.4,True,False
-237,cerdanyola-del-valles,Cerdanyola del Vallès,Barcelona,True,municipio,58528,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),26.7,False,False
-238,pinto,Pinto,Madrid,True,municipio,56651,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),38.2,True,False
-239,tres-cantos,Tres Cantos,Madrid,True,municipio,54592,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),12.7,True,False
-240,vic,Vic,Barcelona,True,municipio,50796,ciudad (50.000-200.000),False,baja (<600 m),media distancia (40-80 km),79.7,True,False
-241,gava,Gavà,Barcelona,True,municipio,48243,municipio medio (10.000-50.000),True,baja (<600 m),muy cerca (<15 km),14.2,False,False
-242,ripollet,Ripollet,Barcelona,True,municipio,39897,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),27.0,False,False
-243,sant-adria-de-besos,Sant Adrià de Besòs,Barcelona,True,municipio,39323,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),23.4,False,False
-244,galapagar,Galapagar,Madrid,True,municipio,36758,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),43.5,False,False
-245,azuqueca-de-henares,Azuqueca de Henares,Guadalajara,True,municipio,35924,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),40.6,True,False
-246,navalcarnero,Navalcarnero,Madrid,True,municipio,33331,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),55.2,True,False
-247,calafell,Calafell,Tarragona,True,municipio,32624,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),55.3,False,False
-248,sitges,Sitges,Barcelona,True,municipio,32609,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),32.4,False,False
-249,pineda-de-mar,Pineda de Mar,Barcelona,True,municipio,30108,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),70.1,False,False
-250,paracuellos-de-jarama,Paracuellos de Jarama,Madrid,True,municipio,27650,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),18.4,True,False
-251,sant-andreu-de-la-barca,Sant Andreu de la Barca,Barcelona,True,municipio,27094,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),14.3,True,False
-252,ciempozuelos,Ciempozuelos,Madrid,True,municipio,26350,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),50.0,True,False
-253,santa-perpetua-de-mogoda,Santa Perpètua de Mogoda,Barcelona,True,municipio,26130,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),32.0,True,False
-254,torrelodones,Torrelodones,Madrid,True,municipio,25433,municipio medio (10.000-50.000),False,montaña (>800 m),cerca (15-40 km),38.2,False,False
-255,olesa-de-montserrat,Olesa de Montserrat,Barcelona,True,municipio,24966,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),28.9,False,False
-256,villanueva-de-la-canada,Villanueva de la Cañada,Madrid,True,municipio,24028,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),45.6,False,False
-257,esparreguera,Esparreguera,Barcelona,True,municipio,22665,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),28.5,False,False
-258,manlleu,Manlleu,Barcelona,True,municipio,21425,municipio medio (10.000-50.000),False,baja (<600 m),lejos (80+ km),90.7,False,False
-259,algete,Algete,Madrid,True,municipio,21144,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),18.0,False,False
-260,sant-just-desvern,Sant Just Desvern,Barcelona,True,municipio,21037,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),3.6,True,False
-261,calella,Calella,Barcelona,True,municipio,20864,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),69.4,False,False
-262,humanes-de-madrid,Humanes de Madrid,Madrid,True,municipio,20500,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.1,True,True
-263,sant-quirze-del-valles,Sant Quirze del Vallès,Barcelona,True,municipio,20209,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),28.3,False,False
-264,malgrat-de-mar,Malgrat de Mar,Barcelona,True,municipio,19714,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),75.7,False,False
-265,cardedeu,Cardedeu,Barcelona,True,municipio,19046,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),49.5,False,False
-266,tordera,Tordera,Barcelona,True,municipio,19039,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),78.4,False,False
-267,sant-celoni,Sant Celoni,Barcelona,True,municipio,18977,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),60.4,True,False
-268,parets-del-valles,Parets del Vallès,Barcelona,True,municipio,18885,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),35.8,False,False
-269,san-lorenzo-de-el-escorial,San Lorenzo de El Escorial,Madrid,True,municipio,18872,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),56.4,False,False
-270,villanueva-del-pardillo,Villanueva del Pardillo,Madrid,True,municipio,18466,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),36.7,False,False
-271,piera,Piera,Barcelona,True,municipio,17880,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),39.0,False,False
-272,guadarrama,Guadarrama,Madrid,True,municipio,17547,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),56.9,False,False
-273,berga,Berga,Barcelona,True,municipio,17473,municipio medio (10.000-50.000),False,interior alto (600-800 m),lejos (80+ km),105.3,True,False
-274,canovelles,Canovelles,Barcelona,True,municipio,17473,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),42.8,False,False
-275,la-garriga,la Garriga,Barcelona,True,municipio,17426,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),49.1,False,False
-276,el-escorial,El Escorial,Madrid,True,municipio,17171,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),54.0,False,False
-277,arenys-de-mar,Arenys de Mar,Barcelona,True,municipio,17042,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),57.1,False,False
-278,llica-d-amunt,Lliçà d'Amunt,Barcelona,True,municipio,16540,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),46.4,False,False
-279,meco,Meco,Madrid,True,municipio,15922,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),35.8,False,False
-280,alpedrete,Alpedrete,Madrid,True,municipio,15686,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),51.8,False,False
-281,palau-solita-i-plegamans,Palau-solità i Plegamans,Barcelona,True,municipio,15614,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),37.6,False,False
-282,cuarte-de-huerva,Cuarte de Huerva,Zaragoza,True,municipio,15408,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,False,False
-283,canet-de-mar,Canet de Mar,Barcelona,True,municipio,15198,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),59.6,False,False
-284,moralzarzal,Moralzarzal,Madrid,True,municipio,14772,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),42.8,False,False
-285,alovera,Alovera,Guadalajara,True,municipio,14526,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.3,False,False
-286,velilla-de-san-antonio,Velilla de San Antonio,Madrid,True,municipio,14468,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),34.7,False,False
-287,valdemorillo,Valdemorillo,Madrid,True,municipio,14420,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),50.0,False,False
-288,casar-el,El Casar,Guadalajara,True,municipio,13962,municipio medio (10.000-50.000),False,montaña (>800 m),cerca (15-40 km),37.5,True,False
-289,san-agustin-del-guadalix,San Agustín del Guadalix,Madrid,True,municipio,13825,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),21.2,False,False
-290,abrera,Abrera,Barcelona,True,municipio,13227,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),25.4,False,False
-291,castellbisbal,Castellbisbal,Barcelona,True,municipio,13061,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),17.0,False,False
-292,badia-del-valles,Badia del Vallès,Barcelona,True,municipio,13060,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),29.1,False,False
-293,vilanova-del-cami,Vilanova del Camí,Barcelona,True,municipio,12936,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),53.8,False,False
-294,sant-andreu-de-llavaneres,Sant Andreu de Llavaneres,Barcelona,True,municipio,11938,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),51.3,False,False
-295,cabanillas-del-campo,Cabanillas del Campo,Guadalajara,True,municipio,11572,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.7,False,False
-296,brunete,Brunete,Madrid,True,municipio,11287,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),42.3,False,False
-297,sant-joan-de-vilatorrada,Sant Joan de Vilatorrada,Barcelona,True,municipio,11133,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),65.5,False,False
-298,daganzo-de-arriba,Daganzo de Arriba,Madrid,True,municipio,10764,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),24.0,False,False
-299,premia-de-dalt,Premià de Dalt,Barcelona,True,municipio,10632,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),38.3,False,False
-300,santa-margarida-de-montbui,Santa Margarida de Montbui,Barcelona,True,municipio,10631,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),61.0,False,False
-301,alamo-el,El Álamo,Madrid,True,municipio,10594,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),61.8,False,False
-302,sant-vicenc-de-castellet,Sant Vicenç de Castellet,Barcelona,True,municipio,10164,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),57.3,False,False
-303,masquefa,Masquefa,Barcelona,True,municipio,10120,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),32.8,False,False
-304,palafolls,Palafolls,Barcelona,True,municipio,10038,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),76.8,False,False
-305,molar-el,"Molar, El",Madrid,True,municipio,9999,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),26.2,True,False
-306,sevilla-la-nueva,Sevilla la Nueva,Madrid,True,municipio,9802,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),54.9,False,False
-307,manzanares-el-real,Manzanares el Real,Madrid,True,municipio,9648,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),43.8,False,False
-308,colmenarejo,Colmenarejo,Madrid,True,municipio,9640,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),48.6,False,False
-309,sentmenat,Sentmenat,Barcelona,True,municipio,9548,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),42.1,False,True
-310,soto-del-real,Soto del Real,Madrid,True,municipio,9400,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),33.7,False,False
-311,sant-fruitos-de-bages,Sant Fruitós de Bages,Barcelona,True,municipio,9333,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),62.9,True,False
-312,hoyo-de-manzanares,Hoyo de Manzanares,Madrid,True,municipio,9310,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),44.4,False,False
-313,montmelo,Montmeló,Barcelona,True,municipio,8886,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),41.7,False,False
-314,el-boalo,El Boalo,Madrid,True,municipio,8770,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),37.8,False,False
-315,marchamalo,Marchamalo,Guadalajara,True,municipio,8714,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),52.5,False,False
-316,polinya,Polinyà,Barcelona,True,municipio,8581,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),35.3,False,False
-317,tona,Tona,Barcelona,True,municipio,8527,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),70.3,False,False
-318,camarma-de-esteruelas,Camarma de Esteruelas,Madrid,True,municipio,8331,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),37.0,False,True
-319,gelida,Gelida,Barcelona,True,municipio,8198,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.4,False,False
-320,sant-esteve-sesrovires,Sant Esteve Sesrovires,Barcelona,True,municipio,8121,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.7,False,False
-321,almunia-de-dona-godina-la,"Almunia de Doña Godina, La",Zaragoza,True,municipio,8080,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-322,santa-eulalia-de-roncana,Santa Eulàlia de Ronçana,Barcelona,True,municipio,7953,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.1,False,False
-323,centelles,Centelles,Barcelona,True,municipio,7864,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.9,False,False
-324,torres-de-la-alameda,Torres de la Alameda,Madrid,True,municipio,7824,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),39.8,False,False
-325,viladecavalls,Viladecavalls,Barcelona,True,municipio,7817,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),34.1,True,False
-326,santa-margarida-i-els-monjos,Santa Margarida i els Monjos,Barcelona,True,municipio,7806,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),50.7,False,False
-327,cercedilla,Cercedilla,Madrid,True,municipio,7772,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),53.7,False,False
-328,cabrils,Cabrils,Barcelona,True,municipio,7765,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),41.3,False,False
-329,santpedor,Santpedor,Barcelona,True,municipio,7744,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),70.4,False,True
-330,collado-mediano,Collado Mediano,Madrid,True,municipio,7722,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),47.4,False,False
-331,cobena,Cobeña,Madrid,True,municipio,7670,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),17.4,False,False
-332,alagon,Alagón,Zaragoza,True,municipio,7532,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-333,miraflores-de-la-sierra,Miraflores de la Sierra,Madrid,True,municipio,7350,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),46.0,False,False
-334,cubas-de-la-sagra,Cubas de la Sagra,Madrid,True,municipio,7238,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),50.7,False,False
-335,guadalix-de-la-sierra,Guadalix de la Sierra,Madrid,True,municipio,6993,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),47.9,False,False
-336,llica-de-vall,Lliçà de Vall,Barcelona,True,municipio,6903,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),40.3,False,False
-337,teia,Teià,Barcelona,True,municipio,6898,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),34.5,False,False
-338,taradell,Taradell,Barcelona,True,municipio,6854,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),76.4,False,False
-339,moia,Moià,Barcelona,True,municipio,6828,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),82.0,False,False
-340,sant-feliu-de-codines,Sant Feliu de Codines,Barcelona,True,municipio,6827,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.2,False,False
-341,becerril-de-la-sierra,Becerril de la Sierra,Madrid,True,municipio,6737,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),43.9,False,False
-342,sant-antoni-de-vilamajor,Sant Antoni de Vilamajor,Barcelona,True,municipio,6724,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.9,False,False
-343,pedrezuela,Pedrezuela,Madrid,True,municipio,6606,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),33.8,False,False
-344,maria-de-huerva,María de Huerva,Zaragoza,True,municipio,6558,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-345,puebla-de-alfinden-la,"Puebla de Alfindén, La",Zaragoza,True,municipio,6550,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
-346,yeles,Yeles,Toledo,True,municipio,6514,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.5,False,False
-347,torrejon-del-rey,Torrejón del Rey,Guadalajara,True,municipio,6435,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),57.3,False,False
-348,navarcles,Navarcles,Barcelona,True,municipio,6276,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.2,False,False
-349,navas,Navàs,Barcelona,True,municipio,6238,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),79.5,False,False
-350,artes,Artés,Barcelona,True,municipio,6225,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),72.1,False,False
-351,esquivias,Esquivias,Toledo,True,municipio,5833,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),65.3,False,False
-352,chinchon,Chinchón,Madrid,True,municipio,5800,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),63.1,False,False
-353,yebes,Yebes,Guadalajara,True,municipio,5637,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),67.7,False,False
-354,capellades,Capellades,Barcelona,True,municipio,5608,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.5,False,False
-355,moraleja-de-enmedio,Moraleja de Enmedio,Madrid,True,municipio,5580,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),49.7,False,False
-356,canyelles,Canyelles,Barcelona,True,municipio,5505,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.4,False,False
-357,carranque,Carranque,Toledo,True,municipio,5469,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),56.9,False,False
-358,pioz,Pioz,Guadalajara,True,municipio,5261,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),52.2,False,False
-359,real-sitio-de-san-ildefonso,Real Sitio de San Ildefonso,Segovia,True,municipio,5217,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),66.0,False,False
-360,torrelaguna,Torrelaguna,Madrid,True,municipio,5081,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),44.8,False,False
-361,sant-pere-de-vilamajor,Sant Pere de Vilamajor,Barcelona,True,municipio,5074,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.6,False,False
-362,cabrera-de-mar,Cabrera de Mar,Barcelona,True,municipio,5045,pueblo (1.000-10.000),True,baja (<600 m),media distancia (40-80 km),41.4,False,False
-363,martorelles,Martorelles,Barcelona,True,municipio,4992,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),33.0,False,False
-364,ajalvir,Ajalvir,Madrid,True,municipio,4868,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),19.0,False,False
-365,molinos-los,Los Molinos,Madrid,True,municipio,4781,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),55.2,False,False
-366,yunquera-de-henares,Yunquera de Henares,Guadalajara,True,municipio,4706,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),63.9,False,False
-367,valdeolmos-alalpardo,Valdeolmos-Alalpardo,Madrid,True,municipio,4626,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),23.7,False,False
-368,talamanca-de-jarama,Talamanca de Jarama,Madrid,True,municipio,4607,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),35.4,False,False
-369,puig-reig,Puig-reig,Barcelona,True,municipio,4565,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),87.7,False,False
-370,olivella,Olivella,Barcelona,True,municipio,4435,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.2,False,False
-371,casarrubuelos,Casarrubuelos,Madrid,True,municipio,4323,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),52.5,False,False
-372,la-bisbal-del-penedes,la Bisbal del Penedès,Tarragona,True,municipio,4278,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),69.3,False,False
-373,castellbell-i-el-vilar,Castellbell i el Vilar,Barcelona,True,municipio,4159,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.0,False,False
-374,la-torre-de-claramunt,la Torre de Claramunt,Barcelona,True,municipio,4158,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.0,False,False
-375,chiloeches,Chiloeches,Guadalajara,True,municipio,4117,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),46.8,False,False
-376,balenya,Balenyà,Barcelona,True,municipio,4021,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.2,False,False
-377,olerdola,Olèrdola,Barcelona,True,municipio,3945,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),49.4,True,False
-378,seva,Seva,Barcelona,True,municipio,3808,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),76.0,False,False
-379,sant-hipolit-de-voltrega,Sant Hipòlit de Voltregà,Barcelona,True,municipio,3666,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),92.2,False,False
-380,sant-salvador-de-guardiola,Sant Salvador de Guardiola,Barcelona,True,municipio,3612,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.0,False,False
-381,villaconejos,Villaconejos,Madrid,True,municipio,3569,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),66.7,False,False
-382,sant-marti-sarroca,Sant Martí Sarroca,Barcelona,True,municipio,3485,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),59.0,False,False
-383,uceda,Uceda,Guadalajara,True,municipio,3400,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.8,False,False
-384,canoves-i-samalus,Cànoves i Samalús,Barcelona,True,municipio,3399,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.7,False,False
-385,banyeres-del-penedes,Banyeres del Penedès,Tarragona,True,municipio,3395,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.6,False,False
-386,balsareny,Balsareny,Barcelona,True,municipio,3380,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),76.4,False,False
-387,les-masies-de-voltrega,les Masies de Voltregà,Barcelona,True,municipio,3345,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),91.0,False,False
-388,navacerrada,Navacerrada,Madrid,True,municipio,3311,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),55.8,False,False
-389,subirats,Subirats,Barcelona,True,municipio,3288,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),32.8,False,False
-390,vallgorguina,Vallgorguina,Barcelona,True,municipio,3261,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),62.3,False,False
-391,perales-de-tajuna,Perales de Tajuña,Madrid,True,municipio,3260,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.6,False,False
-392,els-hostalets-de-pierola,els Hostalets de Pierola,Barcelona,True,municipio,3258,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),37.2,False,False
-393,navalagamella,Navalagamella,Madrid,True,municipio,3169,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),60.8,False,False
-394,la-palma-de-cervello,la Palma de Cervelló,Barcelona,True,municipio,3056,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),15.9,False,False
-395,mondejar,Mondéjar,Guadalajara,True,municipio,2918,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),74.1,False,False
-396,villamanta,Villamanta,Madrid,True,municipio,2899,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.1,False,False
-397,cabrera-la,La Cabrera,Madrid,True,municipio,2889,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.9,False,False
-398,bustarviejo,Bustarviejo,Madrid,True,municipio,2870,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),49.8,False,False
-399,sant-jaume-dels-domenys,Sant Jaume dels Domenys,Tarragona,True,municipio,2819,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.2,False,False
-400,vallromanes,Vallromanes,Barcelona,True,municipio,2778,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),38.3,False,False
-401,castellet-i-la-gornal,Castellet i la Gornal,Barcelona,True,municipio,2776,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.6,False,False
-402,prats-de-llucanes,Prats de Lluçanès,Barcelona,True,municipio,2761,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),113.4,False,False
-403,castelltercol,Castellterçol,Barcelona,True,municipio,2754,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),67.8,False,False
-404,mediona,Mediona,Barcelona,True,municipio,2658,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.8,False,False
-405,fontanar,Fontanar,Guadalajara,True,municipio,2630,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),61.0,False,False
-406,sant-llorenc-d-hortons,Sant Llorenç d'Hortons,Barcelona,True,municipio,2627,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),30.9,False,False
-407,venturada,Venturada,Madrid,True,municipio,2622,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),37.9,False,False
-408,sant-pere-de-torello,Sant Pere de Torelló,Barcelona,True,municipio,2596,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),104.5,False,False
-409,aiguafreda,Aiguafreda,Barcelona,True,municipio,2569,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.5,False,False
-410,sant-pere-de-riudebitlles,Sant Pere de Riudebitlles,Barcelona,True,municipio,2516,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),45.6,False,False
-411,carabana,Carabaña,Madrid,True,municipio,2451,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),68.9,False,False
-412,llorenc-del-penedes,Llorenç del Penedès,Tarragona,True,municipio,2425,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),72.4,False,False
-413,la-pobla-de-claramunt,la Pobla de Claramunt,Barcelona,True,municipio,2350,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),54.2,False,False
-414,villar-del-olmo,Villar del Olmo,Madrid,True,municipio,2341,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),61.3,False,False
-415,l-esquirol,L'Esquirol,Barcelona,True,municipio,2301,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),100.3,False,False
-416,el-bruc,el Bruc,Barcelona,True,municipio,2290,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.1,False,False
-417,la-granada,la Granada,Barcelona,True,municipio,2287,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),47.0,False,False
-418,vellon-el,El Vellón,Madrid,True,municipio,2281,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),35.5,False,False
-419,avia,Avià,Barcelona,True,municipio,2267,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),109.1,False,False
-420,callus,Callús,Barcelona,True,municipio,2180,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),73.6,False,False
-421,castellvi-de-rosanes,Castellví de Rosanes,Barcelona,True,municipio,2171,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),23.2,False,False
-422,ullastrell,Ullastrell,Barcelona,True,municipio,2171,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),30.6,False,False
-423,sant-quirze-de-besora,Sant Quirze de Besora,Barcelona,True,municipio,2164,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),103.0,False,False
-424,olesa-de-bonesvalls,Olesa de Bonesvalls,Barcelona,True,municipio,2135,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.5,False,False
-425,sant-vicenc-de-torello,Sant Vicenç de Torelló,Barcelona,True,municipio,2117,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),97.7,False,False
-426,colmenar-del-arroyo,Colmenar del Arroyo,Madrid,True,municipio,2044,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),65.5,False,False
-427,buitrago-del-lozoya,Buitrago del Lozoya,Madrid,True,municipio,2034,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),62.6,False,False
-428,el-montmell,el Montmell,Tarragona,True,municipio,1958,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),75.8,False,False
-429,zarzalejo,Zarzalejo,Madrid,True,municipio,1946,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),64.0,False,False
-430,fresnedillas-de-la-oliva,Fresnedillas de la Oliva,Madrid,True,municipio,1883,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),64.6,False,False
-431,avinyonet-del-penedes,Avinyonet del Penedès,Barcelona,True,municipio,1782,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),34.6,False,False
-432,pozo-de-guadalajara,Pozo de Guadalajara,Guadalajara,True,municipio,1739,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),48.3,False,False
-433,rascafria,Rascafría,Madrid,True,municipio,1704,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),73.6,False,False
-434,navalafuente,Navalafuente,Madrid,True,municipio,1693,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.0,False,False
-435,villamantilla,Villamantilla,Madrid,True,municipio,1660,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.3,False,False
-436,loranca-de-tajuna,Loranca de Tajuña,Guadalajara,True,municipio,1624,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),63.9,False,False
-437,fonollosa,Fonollosa,Barcelona,True,municipio,1570,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),80.7,False,False
-438,sant-iscle-de-vallalta,Sant Iscle de Vallalta,Barcelona,True,municipio,1477,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),62.5,False,False
-439,castellnou-de-bages,Castellnou de Bages,Barcelona,True,municipio,1473,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),75.9,False,False
-440,lozoyuela-navas-sieteiglesias,Lozoyuela-Navas-Sieteiglesias,Madrid,True,municipio,1468,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),52.4,True,True
-441,valdeaveruelo,Valdeaveruelo,Guadalajara,True,municipio,1317,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),54.4,False,False
-442,sant-marti-de-tous,Sant Martí de Tous,Barcelona,True,municipio,1269,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.7,False,False
-443,sant-marti-de-centelles,Sant Martí de Centelles,Barcelona,True,municipio,1263,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),60.5,False,False
-444,figaro-montmany,Figaró-Montmany,Barcelona,True,municipio,1195,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.1,False,False
-445,torremocha-de-jarama,Torremocha de Jarama,Madrid,True,municipio,1157,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),49.6,False,False
-446,vilobi-del-penedes,Vilobí del Penedès,Barcelona,True,municipio,1154,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.6,False,False
-447,valdelaguna,Valdelaguna,Madrid,True,municipio,1122,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),60.7,False,False
-448,la-pobla-de-lillet,la Pobla de Lillet,Barcelona,True,municipio,1105,pueblo (1.000-10.000),False,montaña (>800 m),lejos (80+ km),139.3,False,False
-449,valdemanco,Valdemanco,Madrid,True,municipio,1097,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),46.2,False,False
-450,les-cabanyes,les Cabanyes,Barcelona,True,municipio,1060,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.8,False,False
-451,sant-cugat-sesgarrigues,Sant Cugat Sesgarrigues,Barcelona,True,municipio,1038,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),47.9,False,False
-452,pezuela-de-las-torres,Pezuela de las Torres,Madrid,True,municipio,1008,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),58.2,False,False
-453,guardiola-de-bergueda,Guardiola de Berguedà,Barcelona,True,municipio,964,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),129.0,False,False
-454,cabanillas-de-la-sierra,Cabanillas de la Sierra,Madrid,True,municipio,961,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),41.4,False,False
-455,la-llacuna,la Llacuna,Barcelona,True,municipio,959,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),66.7,False,False
-456,sant-bartomeu-del-grau,Sant Bartomeu del Grau,Barcelona,True,municipio,933,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),101.4,False,False
-457,pacs-del-penedes,Pacs del Penedès,Barcelona,True,municipio,932,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),50.6,False,False
-458,olvan,Olvan,Barcelona,True,municipio,924,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),100.8,False,False
-459,corpa,Corpa,Madrid,True,municipio,832,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),46.2,False,False
-460,arroyomolinos,Arroyomolinos,Madrid,True,municipio,816,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),337.7,False,False
-461,berrueco-el,El Berrueco,Madrid,True,municipio,795,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),52.2,False,False
-462,vilalba-sasserra,Vilalba Sasserra,Barcelona,True,municipio,794,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),58.7,False,False
-463,puentes-viejas,Puentes Viejas,Madrid,True,municipio,759,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),71.6,False,False
-464,castelloli,Castellolí,Barcelona,True,municipio,669,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),45.2,False,False
-465,sant-quirze-safaja,Sant Quirze Safaja,Barcelona,True,municipio,663,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),60.8,False,False
-466,sant-mateu-de-bages,Sant Mateu de Bages,Barcelona,True,municipio,641,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),86.0,False,False
-467,sant-feliu-sasserra,Sant Feliu Sasserra,Barcelona,True,municipio,633,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),89.2,False,False
-468,fuentenovilla,Fuentenovilla,Guadalajara,True,municipio,621,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),70.6,False,False
-469,patones,Patones,Madrid,True,municipio,617,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),62.1,False,False
-470,valdepielagos,Valdepiélagos,Madrid,True,municipio,612,pueblo pequeño (<1.000),False,interior alto (600-800 m),cerca (15-40 km),36.9,False,False
-471,sant-boi-de-llucanes,Sant Boi de Lluçanès,Barcelona,True,municipio,602,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),105.9,False,False
-472,lozoya,Lozoya,Madrid,True,municipio,598,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),69.4,False,False
-473,els-prats-de-rei,els Prats de Rei,Barcelona,True,municipio,554,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),74.4,False,False
-474,pontons,Pontons,Barcelona,True,municipio,516,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),67.3,False,False
-475,canencia,Canencia,Madrid,True,municipio,475,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),70.5,False,False
-476,montmajor,Montmajor,Barcelona,True,municipio,473,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),103.8,False,False
-477,castellfollit-del-boix,Castellfollit del Boix,Barcelona,True,municipio,467,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),62.2,False,False
-478,garganta-de-los-montes,Garganta de los Montes,Madrid,True,municipio,441,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),65.0,False,False
-479,vilada,Vilada,Barcelona,True,municipio,432,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),115.4,False,False
-480,aranzueque,Aranzueque,Guadalajara,True,municipio,411,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),58.5,False,False
-481,collsuspina,Collsuspina,Barcelona,True,municipio,391,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),79.3,False,False
-482,l-estany,l'Estany,Barcelona,True,municipio,390,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),95.7,False,False
-483,montseny,Montseny,Barcelona,True,municipio,388,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),79.4,False,False
-484,santa-fe-del-penedes,Santa Fe del Penedès,Barcelona,True,municipio,365,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),49.9,False,False
+227,majadahonda,Majadahonda,Madrid,True,municipio,73625,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),27.5,True,False
+228,vilanova-i-la-geltru,Vilanova i la Geltrú,Barcelona,True,municipio,71641,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),39.3,True,False
+229,castelldefels,Castelldefels,Barcelona,True,municipio,70057,ciudad (50.000-200.000),True,baja (<600 m),cerca (15-40 km),15.9,False,False
+230,viladecans,Viladecans,Barcelona,True,municipio,67587,ciudad (50.000-200.000),False,baja (<600 m),muy cerca (<15 km),11.3,True,False
+231,collado-villalba,Collado-Villalba,Madrid,True,municipio,67274,ciudad (50.000-200.000),False,montaña (>800 m),media distancia (40-80 km),49.1,True,False
+232,boadilla-del-monte,Boadilla del Monte,Madrid,True,municipio,66349,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),31.4,False,False
+233,el-prat-de-llobregat,El Prat de Llobregat,Barcelona,True,municipio,66338,ciudad (50.000-200.000),True,baja (<600 m),muy cerca (<15 km),9.2,False,False
+234,arganda-del-rey,Arganda del Rey,Madrid,True,municipio,60419,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),40.2,True,False
+235,arganda,Arganda,Madrid,True,municipio,60419,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),41.3,True,False
+236,colmenar-viejo,Colmenar Viejo,Madrid,True,municipio,58730,ciudad (50.000-200.000),False,montaña (>800 m),cerca (15-40 km),22.0,True,False
+237,cerdanyola-del-valles,Cerdanyola del Vallès,Barcelona,True,municipio,58528,ciudad (50.000-200.000),False,baja (<600 m),cerca (15-40 km),24.1,False,False
+238,pinto,Pinto,Madrid,True,municipio,56651,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),37.9,True,False
+239,tres-cantos,Tres Cantos,Madrid,True,municipio,54592,ciudad (50.000-200.000),False,interior alto (600-800 m),muy cerca (<15 km),12.4,True,False
+240,vic,Vic,Barcelona,True,municipio,50796,ciudad (50.000-200.000),False,baja (<600 m),media distancia (40-80 km),77.1,True,False
+241,gava,Gavà,Barcelona,True,municipio,48243,municipio medio (10.000-50.000),True,baja (<600 m),muy cerca (<15 km),14.1,False,False
+242,ripollet,Ripollet,Barcelona,True,municipio,39897,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),24.4,False,False
+243,sant-adria-de-besos,Sant Adrià de Besòs,Barcelona,True,municipio,39323,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),20.8,False,False
+244,arroyomolinos,Arroyomolinos,Madrid,True,municipio,38075,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),50.2,True,False
+245,galapagar,Galapagar,Madrid,True,municipio,36758,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),43.2,False,False
+246,azuqueca-de-henares,Azuqueca de Henares,Guadalajara,True,municipio,35924,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),40.5,True,False
+247,navalcarnero,Navalcarnero,Madrid,True,municipio,33331,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),54.9,True,False
+248,calafell,Calafell,Tarragona,True,municipio,32624,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),55.2,False,False
+249,sitges,Sitges,Barcelona,True,municipio,32609,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),32.2,False,False
+250,pineda-de-mar,Pineda de Mar,Barcelona,True,municipio,30108,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),67.5,False,False
+251,paracuellos-de-jarama,Paracuellos de Jarama,Madrid,True,municipio,27650,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),18.4,True,False
+252,sant-andreu-de-la-barca,Sant Andreu de la Barca,Barcelona,True,municipio,27094,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),14.4,True,False
+253,ciempozuelos,Ciempozuelos,Madrid,True,municipio,26350,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),49.7,False,False
+254,santa-perpetua-de-mogoda,Santa Perpètua de Mogoda,Barcelona,True,municipio,26130,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),29.4,True,False
+255,torrelodones,Torrelodones,Madrid,True,municipio,25433,municipio medio (10.000-50.000),False,montaña (>800 m),cerca (15-40 km),37.9,False,False
+256,olesa-de-montserrat,Olesa de Montserrat,Barcelona,True,municipio,24966,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),29.0,False,False
+257,villanueva-de-la-canada,Villanueva de la Cañada,Madrid,True,municipio,24028,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),45.3,False,False
+258,esparreguera,Esparreguera,Barcelona,True,municipio,22665,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),26.9,False,False
+259,manlleu,Manlleu,Barcelona,True,municipio,21425,municipio medio (10.000-50.000),False,baja (<600 m),lejos (80+ km),88.1,False,False
+260,algete,Algete,Madrid,True,municipio,21144,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),18.0,True,False
+261,sant-just-desvern,Sant Just Desvern,Barcelona,True,municipio,21037,municipio medio (10.000-50.000),False,baja (<600 m),muy cerca (<15 km),3.9,True,False
+262,calella,Calella,Barcelona,True,municipio,20864,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),66.8,False,False
+263,humanes-de-madrid,Humanes de Madrid,Madrid,True,municipio,20500,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),45.8,True,True
+264,sant-quirze-del-valles,Sant Quirze del Vallès,Barcelona,True,municipio,20209,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),27.5,False,False
+265,malgrat-de-mar,Malgrat de Mar,Barcelona,True,municipio,19714,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),73.1,False,False
+266,cardedeu,Cardedeu,Barcelona,True,municipio,19046,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),46.9,False,False
+267,tordera,Tordera,Barcelona,True,municipio,19039,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),75.8,False,False
+268,sant-celoni,Sant Celoni,Barcelona,True,municipio,18977,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),57.8,True,False
+269,parets-del-valles,Parets del Vallès,Barcelona,True,municipio,18885,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),33.2,False,False
+270,san-lorenzo-de-el-escorial,San Lorenzo de El Escorial,Madrid,True,municipio,18872,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),56.1,False,False
+271,villanueva-del-pardillo,Villanueva del Pardillo,Madrid,True,municipio,18466,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),36.4,False,False
+272,piera,Piera,Barcelona,True,municipio,17880,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),39.0,False,False
+273,guadarrama,Guadarrama,Madrid,True,municipio,17547,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),56.6,False,False
+274,berga,Berga,Barcelona,True,municipio,17473,municipio medio (10.000-50.000),False,interior alto (600-800 m),lejos (80+ km),104.5,True,False
+275,canovelles,Canovelles,Barcelona,True,municipio,17473,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),40.2,False,False
+276,la-garriga,la Garriga,Barcelona,True,municipio,17426,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),46.5,False,False
+277,el-escorial,El Escorial,Madrid,True,municipio,17171,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),53.7,False,False
+278,arenys-de-mar,Arenys de Mar,Barcelona,True,municipio,17042,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),54.5,False,False
+279,llica-d-amunt,Lliçà d'Amunt,Barcelona,True,municipio,16540,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),43.8,False,False
+280,meco,Meco,Madrid,True,municipio,15922,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),35.8,False,False
+281,alpedrete,Alpedrete,Madrid,True,municipio,15686,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),51.5,False,False
+282,palau-solita-i-plegamans,Palau-solità i Plegamans,Barcelona,True,municipio,15614,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),33.8,False,False
+283,cuarte-de-huerva,Cuarte de Huerva,Zaragoza,True,municipio,15408,municipio medio (10.000-50.000),False,baja (<600 m),sin taller con dirección,,False,False
+284,canet-de-mar,Canet de Mar,Barcelona,True,municipio,15198,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),57.0,False,False
+285,moralzarzal,Moralzarzal,Madrid,True,municipio,14772,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),42.4,False,False
+286,alovera,Alovera,Guadalajara,True,municipio,14526,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.2,False,False
+287,velilla-de-san-antonio,Velilla de San Antonio,Madrid,True,municipio,14468,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),34.2,False,False
+288,valdemorillo,Valdemorillo,Madrid,True,municipio,14420,municipio medio (10.000-50.000),False,montaña (>800 m),media distancia (40-80 km),49.6,False,False
+289,casar-el,El Casar,Guadalajara,True,municipio,13962,municipio medio (10.000-50.000),False,montaña (>800 m),cerca (15-40 km),33.6,True,False
+290,san-agustin-del-guadalix,San Agustín del Guadalix,Madrid,True,municipio,13825,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),21.2,False,False
+291,abrera,Abrera,Barcelona,True,municipio,13227,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),25.5,False,False
+292,castellbisbal,Castellbisbal,Barcelona,True,municipio,13061,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),17.1,False,False
+293,badia-del-valles,Badia del Vallès,Barcelona,True,municipio,13060,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),29.1,False,False
+294,vilanova-del-cami,Vilanova del Camí,Barcelona,True,municipio,12936,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),53.9,False,False
+295,sant-andreu-de-llavaneres,Sant Andreu de Llavaneres,Barcelona,True,municipio,11938,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),48.7,False,False
+296,cabanillas-del-campo,Cabanillas del Campo,Guadalajara,True,municipio,11572,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),46.6,False,False
+297,brunete,Brunete,Madrid,True,municipio,11287,municipio medio (10.000-50.000),False,interior alto (600-800 m),media distancia (40-80 km),42.0,False,False
+298,sant-joan-de-vilatorrada,Sant Joan de Vilatorrada,Barcelona,True,municipio,11133,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),64.7,False,False
+299,daganzo-de-arriba,Daganzo de Arriba,Madrid,True,municipio,10764,municipio medio (10.000-50.000),False,interior alto (600-800 m),cerca (15-40 km),21.4,False,False
+300,premia-de-dalt,Premià de Dalt,Barcelona,True,municipio,10632,municipio medio (10.000-50.000),True,baja (<600 m),cerca (15-40 km),35.7,False,False
+301,santa-margarida-de-montbui,Santa Margarida de Montbui,Barcelona,True,municipio,10631,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),56.3,False,False
+302,alamo-el,El Álamo,Madrid,True,municipio,10594,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),61.5,False,False
+303,sant-vicenc-de-castellet,Sant Vicenç de Castellet,Barcelona,True,municipio,10164,municipio medio (10.000-50.000),False,baja (<600 m),media distancia (40-80 km),51.3,False,False
+304,masquefa,Masquefa,Barcelona,True,municipio,10120,municipio medio (10.000-50.000),False,baja (<600 m),cerca (15-40 km),31.9,False,False
+305,palafolls,Palafolls,Barcelona,True,municipio,10038,municipio medio (10.000-50.000),True,baja (<600 m),media distancia (40-80 km),77.4,False,False
+306,molar-el,"Molar, El",Madrid,True,municipio,9999,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),26.1,True,False
+307,sevilla-la-nueva,Sevilla la Nueva,Madrid,True,municipio,9802,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),53.0,False,False
+308,manzanares-el-real,Manzanares el Real,Madrid,True,municipio,9648,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),38.7,False,False
+309,colmenarejo,Colmenarejo,Madrid,True,municipio,9640,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.7,False,False
+310,sentmenat,Sentmenat,Barcelona,True,municipio,9548,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),42.2,False,True
+311,soto-del-real,Soto del Real,Madrid,True,municipio,9400,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),33.4,False,False
+312,sant-fruitos-de-bages,Sant Fruitós de Bages,Barcelona,True,municipio,9333,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.8,True,False
+313,hoyo-de-manzanares,Hoyo de Manzanares,Madrid,True,municipio,9310,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),44.1,False,False
+314,montmelo,Montmeló,Barcelona,True,municipio,8886,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),39.1,False,False
+315,el-boalo,El Boalo,Madrid,True,municipio,8770,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),41.7,True,False
+316,marchamalo,Marchamalo,Guadalajara,True,municipio,8714,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),53.1,False,False
+317,polinya,Polinyà,Barcelona,True,municipio,8581,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),35.3,False,False
+318,tona,Tona,Barcelona,True,municipio,8527,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),67.7,False,False
+319,camarma-de-esteruelas,Camarma de Esteruelas,Madrid,True,municipio,8331,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),36.2,False,True
+320,gelida,Gelida,Barcelona,True,municipio,8198,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.5,False,False
+321,sant-esteve-sesrovires,Sant Esteve Sesrovires,Barcelona,True,municipio,8121,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.7,False,False
+322,almunia-de-dona-godina-la,"Almunia de Doña Godina, La",Zaragoza,True,municipio,8080,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
+323,santa-eulalia-de-roncana,Santa Eulàlia de Ronçana,Barcelona,True,municipio,7953,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),44.2,False,False
+324,centelles,Centelles,Barcelona,True,municipio,7864,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),64.3,False,False
+325,torres-de-la-alameda,Torres de la Alameda,Madrid,True,municipio,7824,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),40.2,False,False
+326,viladecavalls,Viladecavalls,Barcelona,True,municipio,7817,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),33.3,True,False
+327,santa-margarida-i-els-monjos,Santa Margarida i els Monjos,Barcelona,True,municipio,7806,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),50.7,False,False
+328,cercedilla,Cercedilla,Madrid,True,municipio,7772,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),52.3,False,False
+329,cabrils,Cabrils,Barcelona,True,municipio,7765,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),38.7,False,False
+330,santpedor,Santpedor,Barcelona,True,municipio,7744,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),67.7,False,True
+331,collado-mediano,Collado Mediano,Madrid,True,municipio,7722,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),47.0,False,False
+332,cobena,Cobeña,Madrid,True,municipio,7670,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),17.4,False,False
+333,alagon,Alagón,Zaragoza,True,municipio,7532,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
+334,miraflores-de-la-sierra,Miraflores de la Sierra,Madrid,True,municipio,7350,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),44.0,False,False
+335,cubas-de-la-sagra,Cubas de la Sagra,Madrid,True,municipio,7238,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),50.4,False,False
+336,guadalix-de-la-sierra,Guadalix de la Sierra,Madrid,True,municipio,6993,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),44.4,False,False
+337,llica-de-vall,Lliçà de Vall,Barcelona,True,municipio,6903,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),37.6,False,False
+338,teia,Teià,Barcelona,True,municipio,6898,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),31.9,False,False
+339,taradell,Taradell,Barcelona,True,municipio,6854,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),73.8,False,False
+340,moia,Moià,Barcelona,True,municipio,6828,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),81.2,False,False
+341,sant-feliu-de-codines,Sant Feliu de Codines,Barcelona,True,municipio,6827,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),46.8,False,False
+342,becerril-de-la-sierra,Becerril de la Sierra,Madrid,True,municipio,6737,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),43.1,False,False
+343,sant-antoni-de-vilamajor,Sant Antoni de Vilamajor,Barcelona,True,municipio,6724,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.5,False,False
+344,pedrezuela,Pedrezuela,Madrid,True,municipio,6606,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),30.6,False,False
+345,maria-de-huerva,María de Huerva,Zaragoza,True,municipio,6558,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
+346,puebla-de-alfinden-la,"Puebla de Alfindén, La",Zaragoza,True,municipio,6550,pueblo (1.000-10.000),False,baja (<600 m),sin taller con dirección,,False,False
+347,yeles,Yeles,Toledo,True,municipio,6514,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.8,False,False
+348,torrejon-del-rey,Torrejón del Rey,Guadalajara,True,municipio,6435,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),52.9,False,False
+349,navarcles,Navarcles,Barcelona,True,municipio,6276,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),64.3,False,False
+350,navas,Navàs,Barcelona,True,municipio,6238,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),78.6,False,False
+351,artes,Artés,Barcelona,True,municipio,6225,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),71.2,False,False
+352,esquivias,Esquivias,Toledo,True,municipio,5833,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),62.5,False,False
+353,chinchon,Chinchón,Madrid,True,municipio,5800,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.8,False,False
+354,yebes,Yebes,Guadalajara,True,municipio,5637,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),67.7,False,False
+355,capellades,Capellades,Barcelona,True,municipio,5608,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.6,False,False
+356,moraleja-de-enmedio,Moraleja de Enmedio,Madrid,True,municipio,5580,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),45.5,False,False
+357,canyelles,Canyelles,Barcelona,True,municipio,5505,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.2,False,False
+358,carranque,Carranque,Toledo,True,municipio,5469,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),56.6,False,False
+359,pioz,Pioz,Guadalajara,True,municipio,5261,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),52.2,False,False
+360,real-sitio-de-san-ildefonso,Real Sitio de San Ildefonso,Segovia,True,municipio,5217,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),65.7,False,False
+361,torrelaguna,Torrelaguna,Madrid,True,municipio,5081,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),44.7,False,False
+362,sant-pere-de-vilamajor,Sant Pere de Vilamajor,Barcelona,True,municipio,5074,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.0,False,False
+363,cabrera-de-mar,Cabrera de Mar,Barcelona,True,municipio,5045,pueblo (1.000-10.000),True,baja (<600 m),cerca (15-40 km),38.8,False,False
+364,martorelles,Martorelles,Barcelona,True,municipio,4992,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),30.4,False,False
+365,ajalvir,Ajalvir,Madrid,True,municipio,4868,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),18.9,False,False
+366,molinos-los,Los Molinos,Madrid,True,municipio,4781,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),53.9,False,False
+367,yunquera-de-henares,Yunquera de Henares,Guadalajara,True,municipio,4706,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),67.4,False,False
+368,valdeolmos-alalpardo,Valdeolmos-Alalpardo,Madrid,True,municipio,4626,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),23.6,False,False
+369,talamanca-de-jarama,Talamanca de Jarama,Madrid,True,municipio,4607,pueblo (1.000-10.000),False,interior alto (600-800 m),cerca (15-40 km),32.8,False,False
+370,puig-reig,Puig-reig,Barcelona,True,municipio,4565,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),89.6,False,False
+371,olivella,Olivella,Barcelona,True,municipio,4435,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.8,False,False
+372,casarrubuelos,Casarrubuelos,Madrid,True,municipio,4323,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),52.2,False,False
+373,la-bisbal-del-penedes,la Bisbal del Penedès,Tarragona,True,municipio,4278,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),69.4,False,False
+374,castellbell-i-el-vilar,Castellbell i el Vilar,Barcelona,True,municipio,4159,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),43.0,False,False
+375,la-torre-de-claramunt,la Torre de Claramunt,Barcelona,True,municipio,4158,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),58.0,False,False
+376,chiloeches,Chiloeches,Guadalajara,True,municipio,4117,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),48.7,False,False
+377,balenya,Balenyà,Barcelona,True,municipio,4021,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),63.6,False,False
+378,olerdola,Olèrdola,Barcelona,True,municipio,3945,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),49.5,True,False
+379,seva,Seva,Barcelona,True,municipio,3808,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),73.4,False,False
+380,sant-hipolit-de-voltrega,Sant Hipòlit de Voltregà,Barcelona,True,municipio,3666,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),89.6,False,False
+381,sant-salvador-de-guardiola,Sant Salvador de Guardiola,Barcelona,True,municipio,3612,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.8,False,False
+382,villaconejos,Villaconejos,Madrid,True,municipio,3569,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),65.0,False,False
+383,sant-marti-sarroca,Sant Martí Sarroca,Barcelona,True,municipio,3485,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),55.3,False,False
+384,uceda,Uceda,Guadalajara,True,municipio,3400,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),53.3,False,False
+385,canoves-i-samalus,Cànoves i Samalús,Barcelona,True,municipio,3399,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.1,False,False
+386,banyeres-del-penedes,Banyeres del Penedès,Tarragona,True,municipio,3395,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.8,False,False
+387,balsareny,Balsareny,Barcelona,True,municipio,3380,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),75.6,False,False
+388,les-masies-de-voltrega,les Masies de Voltregà,Barcelona,True,municipio,3345,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),88.4,False,False
+389,navacerrada,Navacerrada,Madrid,True,municipio,3311,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),46.4,False,False
+390,subirats,Subirats,Barcelona,True,municipio,3288,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),32.8,False,False
+391,vallgorguina,Vallgorguina,Barcelona,True,municipio,3261,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.4,False,False
+392,perales-de-tajuna,Perales de Tajuña,Madrid,True,municipio,3260,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),53.7,False,False
+393,els-hostalets-de-pierola,els Hostalets de Pierola,Barcelona,True,municipio,3258,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),42.6,False,False
+394,navalagamella,Navalagamella,Madrid,True,municipio,3169,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),56.5,False,False
+395,la-palma-de-cervello,la Palma de Cervelló,Barcelona,True,municipio,3056,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),16.0,False,False
+396,mondejar,Mondéjar,Guadalajara,True,municipio,2918,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),75.2,False,False
+397,villamanta,Villamanta,Madrid,True,municipio,2899,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),65.7,False,False
+398,cabrera-la,La Cabrera,Madrid,True,municipio,2889,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.8,False,False
+399,bustarviejo,Bustarviejo,Madrid,True,municipio,2870,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),54.9,False,False
+400,sant-jaume-dels-domenys,Sant Jaume dels Domenys,Tarragona,True,municipio,2819,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.2,False,False
+401,vallromanes,Vallromanes,Barcelona,True,municipio,2778,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),35.7,False,False
+402,castellet-i-la-gornal,Castellet i la Gornal,Barcelona,True,municipio,2776,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),56.6,False,False
+403,prats-de-llucanes,Prats de Lluçanès,Barcelona,True,municipio,2761,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),111.0,False,False
+404,castelltercol,Castellterçol,Barcelona,True,municipio,2754,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),60.0,False,False
+405,mediona,Mediona,Barcelona,True,municipio,2658,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.9,False,False
+406,fontanar,Fontanar,Guadalajara,True,municipio,2630,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),60.9,False,False
+407,sant-llorenc-d-hortons,Sant Llorenç d'Hortons,Barcelona,True,municipio,2627,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),32.4,False,False
+408,venturada,Venturada,Madrid,True,municipio,2622,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),37.8,False,False
+409,sant-pere-de-torello,Sant Pere de Torelló,Barcelona,True,municipio,2596,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),96.6,False,False
+410,aiguafreda,Aiguafreda,Barcelona,True,municipio,2569,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.9,False,False
+411,sant-pere-de-riudebitlles,Sant Pere de Riudebitlles,Barcelona,True,municipio,2516,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),45.7,False,False
+412,carabana,Carabaña,Madrid,True,municipio,2451,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),67.0,False,False
+413,llorenc-del-penedes,Llorenç del Penedès,Tarragona,True,municipio,2425,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),72.5,False,False
+414,la-pobla-de-claramunt,la Pobla de Claramunt,Barcelona,True,municipio,2350,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),54.3,False,False
+415,villar-del-olmo,Villar del Olmo,Madrid,True,municipio,2341,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),60.7,False,False
+416,l-esquirol,L'Esquirol,Barcelona,True,municipio,2301,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),97.7,False,False
+417,el-bruc,el Bruc,Barcelona,True,municipio,2290,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),37.9,False,False
+418,la-granada,la Granada,Barcelona,True,municipio,2287,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.9,False,False
+419,vellon-el,El Vellón,Madrid,True,municipio,2281,pueblo (1.000-10.000),False,montaña (>800 m),cerca (15-40 km),33.5,False,False
+420,avia,Avià,Barcelona,True,municipio,2267,pueblo (1.000-10.000),False,interior alto (600-800 m),lejos (80+ km),106.4,False,False
+421,callus,Callús,Barcelona,True,municipio,2180,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),69.2,False,False
+422,castellvi-de-rosanes,Castellví de Rosanes,Barcelona,True,municipio,2171,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.2,False,False
+423,ullastrell,Ullastrell,Barcelona,True,municipio,2171,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),30.7,False,False
+424,sant-quirze-de-besora,Sant Quirze de Besora,Barcelona,True,municipio,2164,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),100.4,False,False
+425,olesa-de-bonesvalls,Olesa de Bonesvalls,Barcelona,True,municipio,2135,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),28.6,False,False
+426,sant-vicenc-de-torello,Sant Vicenç de Torelló,Barcelona,True,municipio,2117,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),95.1,False,False
+427,colmenar-del-arroyo,Colmenar del Arroyo,Madrid,True,municipio,2044,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),71.7,False,False
+428,buitrago-del-lozoya,Buitrago del Lozoya,Madrid,True,municipio,2034,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),62.6,False,False
+429,el-montmell,el Montmell,Tarragona,True,municipio,1958,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),75.9,False,False
+430,zarzalejo,Zarzalejo,Madrid,True,municipio,1946,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),63.7,False,False
+431,fresnedillas-de-la-oliva,Fresnedillas de la Oliva,Madrid,True,municipio,1883,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),62.4,False,False
+432,avinyonet-del-penedes,Avinyonet del Penedès,Barcelona,True,municipio,1782,pueblo (1.000-10.000),False,baja (<600 m),cerca (15-40 km),34.6,False,False
+433,pozo-de-guadalajara,Pozo de Guadalajara,Guadalajara,True,municipio,1739,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),48.3,False,False
+434,rascafria,Rascafría,Madrid,True,municipio,1704,pueblo (1.000-10.000),False,montaña (>800 m),lejos (80+ km),80.4,False,False
+435,navalafuente,Navalafuente,Madrid,True,municipio,1693,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),45.0,False,False
+436,villamantilla,Villamantilla,Madrid,True,municipio,1660,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),61.7,False,False
+437,loranca-de-tajuna,Loranca de Tajuña,Guadalajara,True,municipio,1624,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),63.8,False,False
+438,fonollosa,Fonollosa,Barcelona,True,municipio,1570,pueblo (1.000-10.000),False,baja (<600 m),lejos (80+ km),83.0,False,False
+439,sant-iscle-de-vallalta,Sant Iscle de Vallalta,Barcelona,True,municipio,1477,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),59.9,False,False
+440,castellnou-de-bages,Castellnou de Bages,Barcelona,True,municipio,1473,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),75.0,False,False
+441,lozoyuela-navas-sieteiglesias,Lozoyuela-Navas-Sieteiglesias,Madrid,True,municipio,1468,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),52.3,True,True
+442,valdeaveruelo,Valdeaveruelo,Guadalajara,True,municipio,1317,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),51.6,False,False
+443,sant-marti-de-tous,Sant Martí de Tous,Barcelona,True,municipio,1269,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),66.7,False,False
+444,sant-marti-de-centelles,Sant Martí de Centelles,Barcelona,True,municipio,1263,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),57.9,False,False
+445,figaro-montmany,Figaró-Montmany,Barcelona,True,municipio,1195,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),52.5,False,False
+446,torremocha-de-jarama,Torremocha de Jarama,Madrid,True,municipio,1157,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),49.5,False,False
+447,vilobi-del-penedes,Vilobí del Penedès,Barcelona,True,municipio,1154,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),51.6,False,False
+448,valdelaguna,Valdelaguna,Madrid,True,municipio,1122,pueblo (1.000-10.000),False,interior alto (600-800 m),media distancia (40-80 km),64.0,False,False
+449,la-pobla-de-lillet,la Pobla de Lillet,Barcelona,True,municipio,1105,pueblo (1.000-10.000),False,montaña (>800 m),lejos (80+ km),129.1,False,False
+450,valdemanco,Valdemanco,Madrid,True,municipio,1097,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),50.3,False,False
+451,les-cabanyes,les Cabanyes,Barcelona,True,municipio,1060,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.8,False,False
+452,sant-cugat-sesgarrigues,Sant Cugat Sesgarrigues,Barcelona,True,municipio,1038,pueblo (1.000-10.000),False,baja (<600 m),media distancia (40-80 km),48.0,False,False
+453,pezuela-de-las-torres,Pezuela de las Torres,Madrid,True,municipio,1008,pueblo (1.000-10.000),False,montaña (>800 m),media distancia (40-80 km),56.6,False,False
+454,guardiola-de-bergueda,Guardiola de Berguedà,Barcelona,True,municipio,964,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),120.1,False,False
+455,cabanillas-de-la-sierra,Cabanillas de la Sierra,Madrid,True,municipio,961,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),41.4,False,False
+456,la-llacuna,la Llacuna,Barcelona,True,municipio,959,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),68.4,False,False
+457,sant-bartomeu-del-grau,Sant Bartomeu del Grau,Barcelona,True,municipio,933,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),102.2,False,False
+458,pacs-del-penedes,Pacs del Penedès,Barcelona,True,municipio,932,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),50.6,False,False
+459,olvan,Olvan,Barcelona,True,municipio,924,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),99.9,False,False
+460,corpa,Corpa,Madrid,True,municipio,832,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),44.8,False,False
+461,berrueco-el,El Berrueco,Madrid,True,municipio,795,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),52.1,False,False
+462,vilalba-sasserra,Vilalba Sasserra,Barcelona,True,municipio,794,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),52.1,False,False
+463,puentes-viejas,Puentes Viejas,Madrid,True,municipio,759,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),71.5,False,False
+464,castelloli,Castellolí,Barcelona,True,municipio,669,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),45.8,False,False
+465,sant-quirze-safaja,Sant Quirze Safaja,Barcelona,True,municipio,663,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),56.7,False,False
+466,sant-mateu-de-bages,Sant Mateu de Bages,Barcelona,True,municipio,641,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),76.9,False,False
+467,sant-feliu-sasserra,Sant Feliu Sasserra,Barcelona,True,municipio,633,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),88.8,False,False
+468,fuentenovilla,Fuentenovilla,Guadalajara,True,municipio,621,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.7,False,False
+469,patones,Patones,Madrid,True,municipio,617,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),50.9,False,False
+470,valdepielagos,Valdepiélagos,Madrid,True,municipio,612,pueblo pequeño (<1.000),False,interior alto (600-800 m),cerca (15-40 km),36.8,False,False
+471,sant-boi-de-llucanes,Sant Boi de Lluçanès,Barcelona,True,municipio,602,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),102.4,False,False
+472,lozoya,Lozoya,Madrid,True,municipio,598,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),71.8,False,False
+473,els-prats-de-rei,els Prats de Rei,Barcelona,True,municipio,554,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),74.5,False,False
+474,pontons,Pontons,Barcelona,True,municipio,516,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),67.4,False,False
+475,canencia,Canencia,Madrid,True,municipio,475,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),67.4,False,False
+476,montmajor,Montmajor,Barcelona,True,municipio,473,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),119.1,False,False
+477,castellfollit-del-boix,Castellfollit del Boix,Barcelona,True,municipio,467,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),62.3,False,False
+478,garganta-de-los-montes,Garganta de los Montes,Madrid,True,municipio,441,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),64.9,False,False
+479,vilada,Vilada,Barcelona,True,municipio,432,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),114.6,False,False
+480,aranzueque,Aranzueque,Guadalajara,True,municipio,411,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),58.4,False,False
+481,collsuspina,Collsuspina,Barcelona,True,municipio,391,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),76.7,False,False
+482,l-estany,l'Estany,Barcelona,True,municipio,390,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),94.8,False,False
+483,montseny,Montseny,Barcelona,True,municipio,388,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),71.4,False,False
+484,santa-fe-del-penedes,Santa Fe del Penedès,Barcelona,True,municipio,365,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),50.0,False,False
 485,valdenuno-fernandez,Valdenuño Fernández,Guadalajara,True,municipio,359,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),43.6,False,False
-486,tagamanent,Tagamanent,Barcelona,True,municipio,328,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),56.3,False,False
-487,vilanova-de-sau,Vilanova de Sau,Barcelona,True,municipio,325,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),106.0,False,False
-488,marganell,Marganell,Barcelona,True,municipio,309,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),47.5,False,False
-489,saldes,Saldes,Barcelona,True,municipio,302,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),134.9,False,False
-490,el-brull,el Brull,Barcelona,True,municipio,296,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),80.0,False,False
-491,aguilar-de-segarra,Aguilar de Segarra,Barcelona,True,municipio,292,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),87.1,False,False
-492,reduena,Redueña,Madrid,True,municipio,288,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),40.7,False,False
-493,malla,Malla,Barcelona,True,municipio,285,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),75.7,False,False
-494,rupit-i-pruit,Rupit i Pruit,Barcelona,True,municipio,280,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),119.8,False,False
+486,tagamanent,Tagamanent,Barcelona,True,municipio,328,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),53.7,False,False
+487,vilanova-de-sau,Vilanova de Sau,Barcelona,True,municipio,325,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),99.0,False,False
+488,marganell,Marganell,Barcelona,True,municipio,309,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),51.9,False,False
+489,saldes,Saldes,Barcelona,True,municipio,302,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),134.0,False,False
+490,el-brull,el Brull,Barcelona,True,municipio,296,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),77.4,False,False
+491,aguilar-de-segarra,Aguilar de Segarra,Barcelona,True,municipio,292,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),83.8,False,False
+492,reduena,Redueña,Madrid,True,municipio,288,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),40.6,False,False
+493,malla,Malla,Barcelona,True,municipio,285,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),73.1,False,False
+494,rupit-i-pruit,Rupit i Pruit,Barcelona,True,municipio,280,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),117.2,False,False
 495,alameda-del-valle,Alameda del Valle,Madrid,True,municipio,267,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),77.1,False,False
-496,rubio,Rubió,Barcelona,True,municipio,225,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),64.6,False,False
-497,malaguilla,Malaguilla,Guadalajara,True,municipio,218,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),60.9,False,False
-498,talamanca,Talamanca,Barcelona,True,municipio,209,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),72.6,False,False
-499,pujalt,Pujalt,Barcelona,True,municipio,204,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),84.3,False,False
-500,pinilla-del-valle,Pinilla del Valle,Madrid,True,municipio,200,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),74.8,False,False
-501,robledillo-de-mohernando,Robledillo de Mohernando,Guadalajara,True,municipio,200,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),78.0,False,False
-502,mohernando,Mohernando,Guadalajara,True,municipio,190,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),69.6,False,False
-503,malaga-del-fresno,Málaga del Fresno,Guadalajara,True,municipio,187,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),69.7,False,False
-504,montmaneu,Montmaneu,Barcelona,True,municipio,181,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),76.3,False,False
+496,rubio,Rubió,Barcelona,True,municipio,225,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),69.1,False,False
+497,malaguilla,Malaguilla,Guadalajara,True,municipio,218,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),75.0,False,False
+498,talamanca,Talamanca,Barcelona,True,municipio,209,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),73.9,False,False
+499,pujalt,Pujalt,Barcelona,True,municipio,204,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),89.0,False,False
+500,pinilla-del-valle,Pinilla del Valle,Madrid,True,municipio,200,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),76.2,False,False
+501,robledillo-de-mohernando,Robledillo de Mohernando,Guadalajara,True,municipio,200,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),80.5,False,False
+502,mohernando,Mohernando,Guadalajara,True,municipio,190,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),69.5,False,False
+503,malaga-del-fresno,Málaga del Fresno,Guadalajara,True,municipio,187,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),70.9,False,False
+504,montmaneu,Montmaneu,Barcelona,True,municipio,181,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),74.9,False,False
 505,vinuelas,Viñuelas,Guadalajara,True,municipio,181,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),53.6,False,False
-506,santa-maria-de-merles,Santa Maria de Merlès,Barcelona,True,municipio,179,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),100.5,False,False
-507,sant-pere-sallavinera,Sant Pere Sallavinera,Barcelona,True,municipio,177,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),91.5,False,False
-508,gaia,Gaià,Barcelona,True,municipio,172,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),89.1,False,False
-509,gallifa,Gallifa,Barcelona,True,municipio,171,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),58.1,False,False
-510,cervera-de-buitrago,Cervera de Buitrago,Madrid,True,municipio,165,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),66.3,False,False
-511,sagas,Sagàs,Barcelona,True,municipio,154,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),106.0,False,False
-512,valdepenas-de-la-sierra,Valdepeñas de la Sierra,Guadalajara,True,municipio,151,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),70.4,False,False
-513,sant-marti-d-albars,Sant Martí d'Albars,Barcelona,True,municipio,135,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),111.2,False,False
-514,montclar,Montclar,Barcelona,True,municipio,132,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),107.2,False,False
-515,casa-de-uceda,Casa de Uceda,Guadalajara,True,municipio,128,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),54.5,False,False
-516,tavertet,Tavertet,Barcelona,True,municipio,128,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),110.3,False,False
-517,fuentelahiguera-de-albatages,Fuentelahiguera de Albatages,Guadalajara,True,municipio,121,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.8,False,False
-518,cubillo-de-uceda-el,El Cubillo de Uceda,Guadalajara,True,municipio,120,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),47.2,False,False
-519,robledillo-de-la-jara,Robledillo de la Jara,Madrid,True,municipio,118,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),67.5,False,False
-520,matarrubia,Matarrubia,Guadalajara,True,municipio,99,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),60.0,False,False
-521,sant-sadurni-d-osormort,Sant Sadurní d'Osormort,Barcelona,True,municipio,89,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),100.6,False,False
-522,bellprat,Bellprat,Barcelona,True,municipio,69,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),78.1,False,False
-523,castell-de-l-areny,Castell de l'Areny,Barcelona,True,municipio,68,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),119.8,False,False
+506,santa-maria-de-merles,Santa Maria de Merlès,Barcelona,True,municipio,179,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),101.0,False,False
+507,sant-pere-sallavinera,Sant Pere Sallavinera,Barcelona,True,municipio,177,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),87.6,False,False
+508,gaia,Gaià,Barcelona,True,municipio,172,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),83.8,False,False
+509,gallifa,Gallifa,Barcelona,True,municipio,171,pueblo pequeño (<1.000),False,baja (<600 m),media distancia (40-80 km),54.3,False,False
+510,cervera-de-buitrago,Cervera de Buitrago,Madrid,True,municipio,165,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),64.9,False,False
+511,sagas,Sagàs,Barcelona,True,municipio,154,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),105.9,False,False
+512,valdepenas-de-la-sierra,Valdepeñas de la Sierra,Guadalajara,True,municipio,151,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),66.8,False,False
+513,sant-marti-d-albars,Sant Martí d'Albars,Barcelona,True,municipio,135,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),110.0,False,False
+514,montclar,Montclar,Barcelona,True,municipio,132,pueblo pequeño (<1.000),False,interior alto (600-800 m),lejos (80+ km),106.4,False,False
+515,casa-de-uceda,Casa de Uceda,Guadalajara,True,municipio,128,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),50.9,False,False
+516,tavertet,Tavertet,Barcelona,True,municipio,128,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),107.7,False,False
+517,fuentelahiguera-de-albatages,Fuentelahiguera de Albatages,Guadalajara,True,municipio,121,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),68.1,False,False
+518,cubillo-de-uceda-el,El Cubillo de Uceda,Guadalajara,True,municipio,120,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),46.9,False,False
+519,robledillo-de-la-jara,Robledillo de la Jara,Madrid,True,municipio,118,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),67.4,False,False
+520,matarrubia,Matarrubia,Guadalajara,True,municipio,99,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),59.9,False,False
+521,sant-sadurni-d-osormort,Sant Sadurní d'Osormort,Barcelona,True,municipio,89,pueblo pequeño (<1.000),False,baja (<600 m),lejos (80+ km),98.0,False,False
+522,bellprat,Bellprat,Barcelona,True,municipio,69,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),76.3,False,False
+523,castell-de-l-areny,Castell de l'Areny,Barcelona,True,municipio,68,pueblo pequeño (<1.000),False,montaña (>800 m),lejos (80+ km),118.9,False,False
 524,valdarachas,Valdarachas,Guadalajara,True,municipio,67,pueblo pequeño (<1.000),False,interior alto (600-800 m),media distancia (40-80 km),55.3,False,False
-525,villaseca-de-uceda,Villaseca de Uceda,Guadalajara,True,municipio,59,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),54.4,False,False
-526,ciudad-lineal,Ciudad Lineal,Madrid,True,distrito,,distrito,False,interior alto (600-800 m),muy cerca (<15 km),13.7,False,False
-527,el-goloso,El Goloso,Madrid,True,barrio,,barrio,False,interior alto (600-800 m),muy cerca (<15 km),10.0,False,False
-528,las-matas,Las Matas,Madrid,True,barrio,,barrio,False,interior alto (600-800 m),cerca (15-40 km),35.2,False,False
-529,llefia,Llefià,Barcelona,True,barrio,,barrio,True,baja (<600 m),cerca (15-40 km),22.4,False,False
+525,villaseca-de-uceda,Villaseca de Uceda,Guadalajara,True,municipio,59,pueblo pequeño (<1.000),False,montaña (>800 m),media distancia (40-80 km),54.0,False,False
+526,ciudad-lineal,Ciudad Lineal,Madrid,True,distrito,,distrito,False,interior alto (600-800 m),muy cerca (<15 km),13.4,False,False
+527,el-goloso,El Goloso,Madrid,True,barrio,,barrio,False,interior alto (600-800 m),muy cerca (<15 km),9.6,False,False
+528,las-matas,Las Matas,Madrid,True,barrio,,barrio,False,interior alto (600-800 m),cerca (15-40 km),34.9,False,False
+529,llefia,Llefià,Barcelona,True,barrio,,barrio,True,baja (<600 m),cerca (15-40 km),19.8,False,False
 530,valencia,Valencia,Valencia,False,municipio,840792,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
 531,murcia,Murcia,Murcia,False,municipio,479405,gran ciudad (200.000+),False,baja (<600 m),sin taller con dirección,,True,False
 532,palma,Palma,Islas Baleares,False,municipio,434786,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
 533,alicante,Alicante,Alicante,False,municipio,366221,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
-534,mostoles,Móstoles,Madrid,False,municipio,214817,gran ciudad (200.000+),False,interior alto (600-800 m),media distancia (40-80 km),42.4,True,False
+534,mostoles,Móstoles,Madrid,False,municipio,214817,gran ciudad (200.000+),False,interior alto (600-800 m),media distancia (40-80 km),42.1,True,False
 535,pamplona,Pamplona,Navarra,False,municipio,209094,gran ciudad (200.000+),False,baja (<600 m),sin taller con dirección,,True,False
 536,san-sebastian,Donostia / San Sebastián,Gipuzkoa,False,municipio,189866,ciudad (50.000-200.000),True,baja (<600 m),sin taller con dirección,,False,False
 537,castello-de-la-plana,Castelló de la Plana,Castellón,False,municipio,183711,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,True,False
 538,badajoz,Badajoz,Badajoz,False,municipio,150209,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,True,False
 539,salamanca,Salamanca,Salamanca,False,municipio,146110,ciudad (50.000-200.000),False,montaña (>800 m),sin taller con dirección,,False,False
-540,tarragona,Tarragona,Tarragona,False,municipio,143649,ciudad (50.000-200.000),True,baja (<600 m),lejos (80+ km),88.2,True,False
-541,chamartin,Chamartín,Madrid,False,distrito,,distrito,False,interior alto (600-800 m),muy cerca (<15 km),10.8,False,False
+540,tarragona,Tarragona,Tarragona,False,municipio,143649,ciudad (50.000-200.000),True,baja (<600 m),lejos (80+ km),88.0,True,False
+541,chamartin,Chamartín,Madrid,False,distrito,,distrito,False,interior alto (600-800 m),muy cerca (<15 km),10.4,False,False
 542,sevilla,Sevilla,Sevilla,False,municipio,689423,gran ciudad (200.000+),False,baja (<600 m),sin taller con dirección,,True,False
 543,malaga,Málaga,Málaga,False,municipio,599063,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
 544,las-palmas-de-gran-canaria,Las Palmas de Gran Canaria,Las Palmas,False,municipio,381868,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
@@ -558,11 +558,11 @@ orden,slug,nombre,provincia,activa_panel,tipo,poblacion,tamano,costa,altitud,dis
 557,santa-cruz-de-tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,False,municipio,211957,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,True,False
 558,almeria,Almería,Almería,False,municipio,205468,gran ciudad (200.000+),True,baja (<600 m),sin taller con dirección,,False,False
 559,alcala-de-henares,Alcalá de Henares,Madrid,False,municipio,203208,gran ciudad (200.000+),False,baja (<600 m),cerca (15-40 km),32.6,True,False
-560,leganes,Leganés,Madrid,False,municipio,195734,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),33.9,True,False
-561,getafe,Getafe,Madrid,False,municipio,193238,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),33.8,True,False
-562,fuenlabrada,Fuenlabrada,Madrid,False,municipio,190076,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),40.6,True,False
+560,leganes,Leganés,Madrid,False,municipio,195734,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),33.6,True,False
+561,getafe,Getafe,Madrid,False,municipio,193238,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),33.5,True,False
+562,fuenlabrada,Fuenlabrada,Madrid,False,municipio,190076,ciudad (50.000-200.000),False,interior alto (600-800 m),media distancia (40-80 km),40.2,True,False
 563,burgos,Burgos,Burgos,False,municipio,177402,ciudad (50.000-200.000),False,montaña (>800 m),sin taller con dirección,,False,False
-564,alcorcon,Alcorcón,Madrid,False,municipio,175719,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),37.4,True,False
+564,alcorcon,Alcorcón,Madrid,False,municipio,175719,ciudad (50.000-200.000),False,interior alto (600-800 m),cerca (15-40 km),37.1,True,False
 565,santander,Santander,Cantabria,False,municipio,175425,ciudad (50.000-200.000),True,baja (<600 m),sin taller con dirección,,False,False
 566,albacete,Albacete,Albacete,False,municipio,175400,ciudad (50.000-200.000),False,interior alto (600-800 m),sin taller con dirección,,True,False
 567,la-laguna,La Laguna,Santa Cruz de Tenerife,False,municipio,161108,ciudad (50.000-200.000),False,baja (<600 m),sin taller con dirección,,True,False

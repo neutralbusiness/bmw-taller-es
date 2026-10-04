@@ -46,8 +46,8 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 58.7,
-  "km_linea_recta": 43.1,
+  "km_carretera": 58.6,
+  "km_linea_recta": 43.6,
   "vias_de_la_ruta": [
    "TV-2126",
    "C-32",
@@ -64,7 +64,8 @@
     "municipio": "Bellvei",
     "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "Generalitat (coordenadas de la estación)"
    }
   ],
   "mas_cercana": null
@@ -88,9 +89,14 @@
    "km": 0.1
   },
   {
+   "ref": "TV-2126",
+   "tipo": "secondary",
+   "km": 0.5
+  },
+  {
    "ref": "TP-2125",
    "tipo": "primary",
-   "km": 2.3
+   "km": 2.2
   },
   {
    "ref": "C-51",
@@ -103,12 +109,13 @@
    "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 5.2,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "santa-oliva",

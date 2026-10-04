@@ -46,30 +46,32 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 0.4,
-  "km_linea_recta": 0.3,
+  "km_carretera": 2.5,
+  "km_linea_recta": 1.4,
   "vias_de_la_ruta": [],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [
    {
-    "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2868)",
-    "operador": "APPLUS Iteuve Tecnology, S.L.U",
-    "direccion": "C/ La Maliciosa s/n, Parcela 2",
+    "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2868)",
+    "operador": "APPLUS Iteuve Tecnology, S.L.U",
+    "direccion": "C/ La Maliciosa s/n, Parcela 2",
     "municipio": "Alcobendas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (centro del municipio)"
    },
    {
     "nombre": "ITV TÜV SÜD ATISAE (estación 2814)",
     "operador": "TÜV SÜD ATISAE",
-    "direccion": "C/ Peñalara, 29. Parque Empresarial Valdelacasa",
+    "direccion": "C/ Peñalara, 29. Parque Empresarial Valdelacasa",
     "municipio": "Alcobendas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV Grupo ITEVELESA, S.L (estación 2833)",
@@ -78,7 +80,8 @@
     "municipio": "Alcobendas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    },
    {
     "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2806)",
@@ -87,7 +90,8 @@
     "municipio": "Alcobendas",
     "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
     "oficial": true,
-    "verificar": false
+    "verificar": false,
+    "precision": "CartoCiudad (dirección)"
    }
   ],
   "mas_cercana": null
@@ -108,7 +112,7 @@
   {
    "ref": "M-616",
    "tipo": "trunk",
-   "km": 1.1
+   "km": 1.0
   },
   {
    "ref": "M-603",
@@ -126,12 +130,13 @@
    "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "san-sebastian-de-los-reyes",
@@ -176,8 +181,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Alcobendas — Especialistas sin perder garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 116037
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 123342
  },
  "generado": "2026-10-04",
  "perfil": {

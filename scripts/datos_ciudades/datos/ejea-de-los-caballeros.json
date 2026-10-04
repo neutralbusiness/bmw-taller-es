@@ -75,6 +75,16 @@
  },
  "vias_cercanas": [
   {
+   "ref": "A-125a",
+   "tipo": "secondary",
+   "km": 0.1
+  },
+  {
+   "ref": "A-127a",
+   "tipo": "secondary",
+   "km": 0.4
+  },
+  {
    "ref": "A-125",
    "tipo": "primary",
    "km": 1.0
@@ -88,14 +98,25 @@
    "ref": "ARA-A2",
    "tipo": "trunk",
    "km": 1.1
+  },
+  {
+   "ref": "A-1102",
+   "tipo": "secondary",
+   "km": 2.5
+  },
+  {
+   "ref": "A-127: ARA-A2",
+   "tipo": "trunk",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "tauste",

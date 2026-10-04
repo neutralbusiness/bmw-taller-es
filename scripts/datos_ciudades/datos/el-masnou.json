@@ -46,11 +46,10 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 31.9,
-  "km_linea_recta": 25.1,
+  "km_carretera": 29.3,
+  "km_linea_recta": 24.8,
   "vias_de_la_ruta": [
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -64,7 +63,7 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
+   "precision": "Generalitat (coordenadas de la estación)",
    "km_carretera": 11.9,
    "km_linea": 8.4
   }
@@ -95,12 +94,17 @@
   {
    "ref": "C-32",
    "tipo": "motorway",
-   "km": 0.9
+   "km": 0.8
+  },
+  {
+   "ref": "BP-5002",
+   "tipo": "secondary",
+   "km": 2.0
   },
   {
    "ref": "B-20",
    "tipo": "motorway",
-   "km": 2.4
+   "km": 2.3
   },
   {
    "ref": "BV-5024",
@@ -108,12 +112,13 @@
    "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 0.9,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "teia",
@@ -158,8 +163,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en El Masnou — Especialistas sin perder garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 23340
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 24761
  },
  "generado": "2026-10-04",
  "perfil": {

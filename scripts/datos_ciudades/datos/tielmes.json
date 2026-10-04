@@ -46,13 +46,13 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 62.5,
-  "km_linea_recta": 44.9,
+  "km_carretera": 58.9,
+  "km_linea_recta": 43.2,
   "vias_de_la_ruta": [
    "M-204",
    "A-3",
-   "M-40",
-   "M-12"
+   "M-30",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
@@ -67,8 +67,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (dirección)",
-   "km_carretera": 13.6,
-   "km_linea": 7.0
+   "km_carretera": 12.0,
+   "km_linea": 8.3
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -79,28 +79,48 @@
   "municipio": "Madrid",
   "web": "https://autopremier-madrid.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 40.1,
-  "km_linea": 32.2,
+  "km_carretera": 38.4,
+  "km_linea": 30.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-204",
    "tipo": "primary",
-   "km": 1.3
+   "km": 0.0
+  },
+  {
+   "ref": "M-228",
+   "tipo": "secondary",
+   "km": 0.3
   },
   {
    "ref": "A-3",
    "tipo": "motorway",
-   "km": 3.0
+   "km": 2.9
+  },
+  {
+   "ref": "M-302",
+   "tipo": "secondary",
+   "km": 2.9
+  },
+  {
+   "ref": "N-IIIa",
+   "tipo": "secondary",
+   "km": 2.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.24668,
+  "lng": -3.31182,
+  "que": "centro del núcleo urbano de Tielmes (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "perales-de-tajuna",

@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 55.2,
-  "km_linea_recta": 42.2,
+  "km_carretera": 53.9,
+  "km_linea_recta": 40.7,
   "vias_de_la_ruta": [
    "M-614",
    "M-607",
@@ -58,16 +58,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
+   "nombre": "ITV ITV P-29 Collado Villalba, S.L (estación 2883)",
+   "operador": "ITV P-29 Collado Villalba, S.L",
+   "direccion": "c/ Buril, 10. Pol. Ind. P-29",
    "municipio": "Collado Villalba",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 17.9,
-   "km_linea": 13.0
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 13.8,
+   "km_linea": 10.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,23 +78,33 @@
   "municipio": "Las Rozas",
   "web": "https://movilnorte-lasrozas.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 31.1,
-  "km_linea": 26.6,
+  "km_carretera": 30.1,
+  "km_linea": 25.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "M-614",
    "tipo": "primary",
-   "km": 1.9
+   "km": 0.8
+  },
+  {
+   "ref": "M-621",
+   "tipo": "secondary",
+   "km": 0.9
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.71202,
+  "lng": -4.07537,
+  "que": "centro del núcleo urbano de Los Molinos (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "guadarrama",

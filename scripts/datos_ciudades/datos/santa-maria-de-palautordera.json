@@ -46,14 +46,13 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 62.8,
-  "km_linea_recta": 47.9,
+  "km_carretera": 61.7,
+  "km_linea_recta": 48.4,
   "vias_de_la_ruta": [
    "BV-5301",
    "AP-7",
    "C-33",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
@@ -67,9 +66,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 7.5,
-   "km_linea": 5.0
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 9.1,
+   "km_linea": 5.1
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -80,23 +79,28 @@
   "municipio": "Mataró",
   "web": "https://prunamotor-mataro.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 29.1,
-  "km_linea": 17.8,
+  "km_carretera": 30.7,
+  "km_linea": 19.0,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "C-35",
-   "tipo": "primary",
-   "km": 2.6
+   "ref": "BV-5301",
+   "tipo": "secondary",
+   "km": 0.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.69535,
+  "lng": 2.44407,
+  "que": "centro del núcleo urbano de Santa Maria de Palautordera (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "sant-esteve-de-palautordera",
@@ -141,8 +145,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Santa Maria de Palautordera — Especialistas sin perder garantía",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 9196
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 10080
  },
  "generado": "2026-10-04",
  "perfil": {

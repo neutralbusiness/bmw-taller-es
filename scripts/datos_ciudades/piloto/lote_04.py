@@ -6,8 +6,8 @@ CIUDADES = {}
 
 CIUDADES["el-vendrell"] = {
     "h1": "El Vendrell: BMW junto al mar, ITV a 3 km y taller especialista a 61 km",
-    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller queda a 61,5 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 61.5},
+    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller queda a 61,4 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 61.4},
     "secciones": [
         {"id": "salitre", "h2": "Tres kilómetros de mar: qué hace el salitre a un coche",
          "parrafos": [
@@ -20,7 +20,7 @@ CIUDADES["el-vendrell"] = {
          ]},
         {"id": "c32-hasta-el-taller", "h2": "Por la C-32 hasta Sant Joan Despí",
          "parrafos": [
-             "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,5 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
+             "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,4 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
              "Desde aquí no hay recogida: el servicio del taller solo cubre el área metropolitana. Lo práctico es una llamada previa con el modelo y el síntoma, para bajar con hora y, si hace falta, con la pieza ya pedida."
          ]},
         {"id": "vendrell-crece", "h2": "Un municipio que ha crecido un 12,5 % en diez años",
@@ -34,7 +34,7 @@ CIUDADES["el-vendrell"] = {
         {"q": "¿Afecta la proximidad del mar a mi BMW?",
          "a": "Acelera la corrosión de bajos y anclajes, el óxido en discos de un coche parado y la sulfatación de conectores. Un lavado de bajos con agua dulce ayuda."},
         {"q": "¿A qué distancia está vuestro taller?",
-         "a": "A 61,5 km por la C-32 y la B-25, en Sant Joan Despí."},
+         "a": "A 61,4 km por la C-32 y la B-25, en Sant Joan Despí."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "41.133 habitantes", **F.ine},
@@ -42,7 +42,7 @@ CIUDADES["el-vendrell"] = {
         {"etiqueta": "Turismos (2024)", "valor": "19.239 · 468 por cada 1.000 hab.", **F.idescat("431634")},
         {"etiqueta": "Distancia a la costa", "valor": "unos 3,3 km desde el centro", "fuente": "Natural Earth", "url": "https://www.naturalearthdata.com/"},
         {"etiqueta": "ITV más cercana", "valor": "Baix Penedès (T07), Bellvei · 3 km", **F.itv_cat},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 61,5 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 61,4 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("431634"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -87,7 +87,7 @@ CIUDADES["calatayud"] = {
 CIUDADES["sesena"] = {
     "h1": "Seseña, un 43 % más grande que hace diez años: tu BMW y el taller de Alcobendas",
     "entradilla": "Seseña ha pasado de 21.558 a 30.907 vecinos en diez años. Es provincia de Toledo, pero el taller que la atiende está en Alcobendas, a 58 km por la A-4. Esto es lo que tienes cerca y lo que supone el viaje.",
-    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 58.1},
+    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 57.8},
     "secciones": [
         {"id": "un-43-por-ciento", "h2": "Un 43,4 % más de población desde 2015",
          "parrafos": [
@@ -96,17 +96,17 @@ CIUDADES["sesena"] = {
          ]},
         {"id": "lo-oficial-cerca", "h2": "Lo oficial que tienes más cerca",
          "parrafos": [
-             "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km por carretera. Para la ITV, una estación oficial cercana es la de General de Servicios ITV en el polígono Gonzalo Chacón de Aranjuez, a 14,7 km, que figura en el listado de la Comunidad de Madrid."
+             "El servicio oficial BMW más próximo según el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km por carretera. Para la ITV, una estación oficial cercana es la de ITV Valdemoro, en la calle Vereda de la Solana 43-45 del polígono industrial Las Canteras de Valdemoro, a 13 km, que figura en el listado de la Comunidad de Madrid."
          ]},
         {"id": "a4-hasta-alcobendas", "h2": "58 kilómetros por la A-4, la M-30 y la A-1",
          "parrafos": [
-             "La ruta hasta la calle Valgrande de Alcobendas sube por la R-4 y la A-4, cruza por la M-30 y sale por la A-1: 58,1 km por carretera. Seseña queda fuera del área metropolitana de Madrid, así que la recogida y entrega que ofrece el taller no te sirve; el viaje lo haces tú.",
+             "La ruta hasta la calle Valgrande de Alcobendas sube por la R-4, la M-423 y la A-4, cruza por la M-30 y sale por la A-1: 57,8 km por carretera. Seseña queda fuera del área metropolitana de Madrid, así que la recogida y entrega que ofrece el taller no te sirve; el viaje lo haces tú.",
              "Para que compense, llama antes con modelo, año, kilometraje y bastidor. El presupuesto se entrega por escrito y ningún trabajo empieza sin tu aprobación, de modo que puedes decidir antes de mover el coche."
          ]},
     ],
     "faq": [
         {"q": "¿Por qué os atiende un taller de Madrid si Seseña es de Toledo?",
-         "a": "Porque el taller de la red más cercano es Dasercars Madrid, en Alcobendas, a 58,1 km; no hay otro taller de la red más próximo."},
+         "a": "Porque el taller de la red más cercano es Dasercars Madrid, en Alcobendas, a 57,8 km; no hay otro taller de la red más próximo."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
          "a": "Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 29,4 km según bmw.es."},
         {"q": "¿Recogéis el coche en Seseña?",
@@ -115,16 +115,16 @@ CIUDADES["sesena"] = {
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "30.907 habitantes (+43,4 % desde 2015)", **F.ine},
         {"etiqueta": "Servicio oficial BMW", "valor": "Vehinter (Getafe) · 29,4 km", **F.bmw},
-        {"etiqueta": "ITV oficial cercana", "valor": "Aranjuez, polígono Gonzalo Chacón · 14,7 km", **F.itv_madrid},
-        {"etiqueta": "Taller de la red", "valor": "Alcobendas · 58,1 km", **F.osrm},
+        {"etiqueta": "ITV oficial cercana", "valor": "Valdemoro, polígono Las Canteras · 13 km", **F.itv_madrid},
+        {"etiqueta": "Taller de la red", "valor": "Alcobendas · 57,8 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.bmw_f, F.itv_madrid_f, F.osrm_f, F.r461_f, F.dasercars_madrid_f],
 }
 
 CIUDADES["alpens"] = {
-    "h1": "Alpens, en el Lluçanès: un BMW a 855 metros y a 125 km del taller",
-    "entradilla": "Alpens tiene 267 vecinos y está a 855 metros de altitud. Nuestro taller queda a 125 km, en Sant Joan Despí, y no tiene sentido fingir que está cerca. Esto es lo que te sirve de verdad.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 125.0},
+    "h1": "Alpens, en el Lluçanès: un BMW a 855 metros y a 124 km del taller",
+    "entradilla": "Alpens tiene 267 vecinos y está a 855 metros de altitud. Nuestro taller queda a 124 km, en Sant Joan Despí, y no tiene sentido fingir que está cerca. Esto es lo que te sirve de verdad.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 124.2},
     "secciones": [
         {"id": "montana-y-frio", "h2": "Lo que pide un coche a 855 metros",
          "parrafos": [
@@ -134,7 +134,7 @@ CIUDADES["alpens"] = {
         {"id": "lo-mas-cercano", "h2": "Lo más cercano: Vic y Ripoll",
          "parrafos": [
              "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 41 km por carretera. La estación de ITV más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 36,3 km.",
-             "Para el mantenimiento de rutina, lo razonable es un taller de la comarca o de Osona. El viaje a Sant Joan Despí —125 km por la BV-4341, la C-62, la C-25, la C-16 y la AP-7— solo compensa para una avería concreta de BMW que no se haya resuelto cerca, y siempre después de una llamada con modelo, año y síntomas."
+             "Para el mantenimiento de rutina, lo razonable es un taller de la comarca o de Osona. El viaje a Sant Joan Despí —124,2 km por la BV-4341, la BV-4342, la C-62, la C-25, la C-16 y la B-20— solo compensa para una avería concreta de BMW que no se haya resuelto cerca, y siempre después de una llamada con modelo, año y síntomas."
          ]},
         {"id": "alpens-en-cifras", "h2": "267 vecinos y 153 turismos",
          "parrafos": [
@@ -143,7 +143,7 @@ CIUDADES["alpens"] = {
     ],
     "faq": [
         {"q": "¿Tenéis taller cerca de Alpens?",
-         "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 125 km."},
+         "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 124,2 km."},
         {"q": "¿Dónde paso la ITV?",
          "a": "La estación más cercana por carretera en el registro de la Generalitat es la de Ripoll (G08), a 36,3 km."},
         {"q": "¿Cada cuánto se cambia el líquido de frenos?",
@@ -163,7 +163,7 @@ CIUDADES["alpens"] = {
 CIUDADES["atazar-el"] = {
     "h1": "El Atazar: 110 vecinos, 84 turismos y el taller BMW más cercano a 69 km",
     "entradilla": "El Atazar es uno de los municipios más pequeños de la Comunidad de Madrid. Aquí el coche no es opcional, y el taller especialista más cercano está en Alcobendas. Te contamos la ruta, la ITV que te toca y qué revisar antes del invierno.",
-    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 68.7},
+    "socio": {"id": "dasercars-alcobendas", "kmCarretera": 68.6},
     "secciones": [
         {"id": "un-coche-por-vecino", "h2": "764 turismos por cada mil vecinos",
          "parrafos": [
@@ -171,7 +171,7 @@ CIUDADES["atazar-el"] = {
          ]},
         {"id": "m133-a1", "h2": "De las carreteras de la sierra a la A-1",
          "parrafos": [
-             "La ruta hasta la calle Valgrande de Alcobendas baja por la M-133, la M-131 y la M-127 hasta la A-1: 68,7 km por carretera, 45 en línea recta. Son carreteras autonómicas de montaña en buena parte del recorrido, con curvas y desnivel, donde frenos y neumáticos trabajan más que en autovía.",
+             "La ruta hasta la calle Valgrande de Alcobendas baja por la M-133, la M-131 y la M-127 hasta la A-1: 68,6 km por carretera, 46,1 en línea recta. Son carreteras autonómicas de montaña en buena parte del recorrido, con curvas y desnivel, donde frenos y neumáticos trabajan más que en autovía.",
              "Con esa distancia, el viaje tiene sentido para el mantenimiento por plan de marca o para una avería que no se ha resuelto cerca, y siempre con cita previa: el taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00."
          ]},
         {"id": "itv-lozoyuela", "h2": "La ITV, en la A-1 a la altura de Lozoyuela",
@@ -184,7 +184,7 @@ CIUDADES["atazar-el"] = {
         {"q": "¿Dónde paso la ITV desde El Atazar?",
          "a": "En la estación de la A-1, km 66, en Lozoyuela-Navas-Sieteiglesias, a 27,4 km."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
-         "a": "68,7 km por la M-133, la M-131, la M-127 y la A-1 hasta Alcobendas."},
+         "a": "68,6 km por la M-133, la M-131, la M-127 y la A-1 hasta Alcobendas."},
         {"q": "¿Puedo consultar antes por teléfono?",
          "a": "Sí, y desde aquí es lo recomendable: con modelo, año, kilometraje y el síntoma se puede orientar el problema antes de bajar."},
     ],
@@ -193,7 +193,7 @@ CIUDADES["atazar-el"] = {
         {"etiqueta": "Turismos (2025)", "valor": "84 · 764 por cada 1.000 hab.", **F.cam_parque},
         {"etiqueta": "Superficie del término", "valor": "28,3 km²", **F.cartociudad},
         {"etiqueta": "ITV más cercana", "valor": "A-1 km 66 (Lozoyuela) · 27,4 km", **F.itv_madrid},
-        {"etiqueta": "Taller de la red", "valor": "Alcobendas · 68,7 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Alcobendas · 68,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.cam_parque_f, F.itv_madrid_f, F.bmw_f, F.osrm_f, F.cartociudad_f, F.dasercars_madrid_f],
 }

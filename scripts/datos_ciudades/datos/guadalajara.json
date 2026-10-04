@@ -42,7 +42,7 @@
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
   "km_carretera": 52.5,
-  "km_linea_recta": 41.5,
+  "km_linea_recta": 42.5,
   "vias_de_la_ruta": [
    "A-2",
    "R-2",
@@ -59,7 +59,8 @@
     "municipio": "Guadalajara",
     "fuente": "OpenStreetMap (way/381990031) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "ITV Itevelesa",
@@ -68,7 +69,8 @@
     "municipio": "Guadalajara",
     "fuente": "OpenStreetMap (way/383258840) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -89,12 +91,27 @@
   {
    "ref": "A-2",
    "tipo": "motorway",
-   "km": 0.6
+   "km": 0.7
   },
   {
    "ref": "N-320",
    "tipo": "trunk",
    "km": 0.8
+  },
+  {
+   "ref": "CM-2004",
+   "tipo": "secondary",
+   "km": 1.2
+  },
+  {
+   "ref": "CM-9101",
+   "tipo": "secondary",
+   "km": 1.8
+  },
+  {
+   "ref": "CM-1002",
+   "tipo": "secondary",
+   "km": 2.1
   },
   {
    "ref": "CM-101",
@@ -104,15 +121,21 @@
   {
    "ref": "CM-10",
    "tipo": "motorway",
-   "km": 2.5
+   "km": 2.4
+  },
+  {
+   "ref": "CM-1007",
+   "tipo": "secondary",
+   "km": 2.4
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "chiloeches",

@@ -46,29 +46,30 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 56.9,
-  "km_linea_recta": 40.4,
+  "km_carretera": 56.6,
+  "km_linea_recta": 40.0,
   "vias_de_la_ruta": [
    "N-6",
    "AP-6",
    "A-6",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
+   "nombre": "ITV ITV P-29 Collado Villalba, S.L (estación 2883)",
+   "operador": "ITV P-29 Collado Villalba, S.L",
+   "direccion": "c/ Buril, 10. Pol. Ind. P-29",
    "municipio": "Collado Villalba",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 12.2,
-   "km_linea": 10.2
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 9.0,
+   "km_linea": 8.0
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -95,9 +96,14 @@
    "km": 0.3
   },
   {
+   "ref": "M-623",
+   "tipo": "secondary",
+   "km": 0.7
+  },
+  {
    "ref": "AP-6",
    "tipo": "motorway",
-   "km": 1.3
+   "km": 1.2
   },
   {
    "ref": "M-600",
@@ -105,17 +111,23 @@
    "km": 1.9
   },
   {
+   "ref": "M-527",
+   "tipo": "secondary",
+   "km": 2.4
+  },
+  {
    "ref": "M-619",
    "tipo": "primary",
    "km": 2.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "molinos-los",

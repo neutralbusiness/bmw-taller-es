@@ -47,7 +47,8 @@
     "municipio": "Málaga",
     "fuente": "OpenStreetMap (way/552444556) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "Estación de Inspección Técnica de Vehículos de Guadalhorce",
@@ -56,7 +57,8 @@
     "municipio": "Málaga",
     "fuente": "OpenStreetMap (way/587291724) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    },
    {
     "nombre": "Estación de Inspección Técnica de Vehículos de El Viso",
@@ -65,7 +67,8 @@
     "municipio": "Málaga",
     "fuente": "OpenStreetMap (way/667647322) — NO oficial, verificar",
     "oficial": false,
-    "verificar": true
+    "verificar": true,
+    "precision": null
    }
   ],
   "mas_cercana": null
@@ -84,8 +87,23 @@
  },
  "vias_cercanas": [
   {
+   "ref": "A-7000",
+   "tipo": "secondary",
+   "km": 1.5
+  },
+  {
+   "ref": "1759",
+   "tipo": "secondary",
+   "km": 2.1
+  },
+  {
    "ref": "A-357",
    "tipo": "motorway",
+   "km": 2.6
+  },
+  {
+   "ref": "MA-22",
+   "tipo": "primary",
    "km": 2.6
   },
   {
@@ -94,12 +112,13 @@
    "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 0.0,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "marbella",

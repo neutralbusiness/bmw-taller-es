@@ -46,28 +46,29 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 43.5,
-  "km_linea_recta": 30.9,
+  "km_carretera": 43.2,
+  "km_linea_recta": 30.2,
   "vias_de_la_ruta": [
    "M-505",
    "A-6",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2832)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "A-6, km 37,6",
    "municipio": "Collado Villalba",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 10.1,
-   "km_linea": 6.4
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 6.5,
+   "km_linea": 4.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -92,14 +93,25 @@
    "ref": "M-510",
    "tipo": "primary",
    "km": 0.5
+  },
+  {
+   "ref": "M-525",
+   "tipo": "secondary",
+   "km": 0.7
+  },
+  {
+   "ref": "M-519",
+   "tipo": "secondary",
+   "km": 1.2
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "colmenarejo",

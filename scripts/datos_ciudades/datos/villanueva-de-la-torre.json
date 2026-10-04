@@ -41,8 +41,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 47.7,
-  "km_linea_recta": 29.1,
+  "km_carretera": 47.6,
+  "km_linea_recta": 30.1,
   "vias_de_la_ruta": [
    "CM-1008",
    "A-2",
@@ -83,14 +83,30 @@
    "ref": "R-2",
    "tipo": "motorway",
    "km": 2.4
+  },
+  {
+   "ref": "CM-1008a",
+   "tipo": "secondary",
+   "km": 2.6
+  },
+  {
+   "ref": "N-320a",
+   "tipo": "secondary",
+   "km": 2.7
+  },
+  {
+   "ref": "CM-1008",
+   "tipo": "secondary",
+   "km": 2.8
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "quer",
@@ -135,8 +151,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Villanueva de la Torre | Guadalajara, diagnosis",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 6438
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 6666
  },
  "generado": "2026-10-04",
  "perfil": {

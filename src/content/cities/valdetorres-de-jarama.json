@@ -7,7 +7,7 @@
   "lat": 40.69338,
   "lng": -3.51753,
   "metaTitle": "Taller BMW cerca de Valdetorres de Jarama | Madrid norte",
-  "metaDescription": "BMW en Valdetorres de Jarama: ITV y servicio oficial en Algete y taller especialista de la red en Alcobendas, a 27,3 km por la A-1.",
+  "metaDescription": "BMW en Valdetorres de Jarama: ITV y servicio oficial en Algete y taller especialista de la red en Alcobendas, a 27,2 km por la A-1.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdetorres de Jarama, junto a la A-1.",
   "trustChips": [
     {
@@ -175,14 +175,14 @@
     "entradilla": "Valdetorres ha pasado de 4.234 a 5.175 habitantes en diez años. Para quien tiene aquí un BMW o un MINI, lo útil está en Algete —ITV y servicio oficial— y en Alcobendas, donde está el taller especialista de la red.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 27.3
+      "kmCarretera": 27.2
     },
     "secciones": [
       {
         "id": "algete",
-        "h2": "Algete: la ITV a 10,6 km y el servicio oficial a 14,6",
+        "h2": "Algete: el servicio oficial a 14,6 km y la ITV a 17,5",
         "parrafos": [
-          "La estación oficial más cercana por carretera, según el listado de la Comunidad de Madrid, es la de ITV Barbastro (estación 2818), en la avenida Nicasio Martín 4 del polígono industrial Sector 8 de Algete, a 10,6 km. En el mismo municipio está el punto oficial BMW más próximo según bmw.es, BYmyCAR Madrid, en la calle Tejera 2, junto a la carretera de Algete, a 14,6 km.",
+          "La estación oficial más cercana por carretera, según el listado de la Comunidad de Madrid, es la de ITV Barbastro (estación 2818), en la avenida Nicasio Martín 4 del polígono industrial Sector 8 de Algete, a 17,5 km. En el mismo municipio está el punto oficial BMW más próximo según bmw.es, BYmyCAR Madrid, en la calle Tejera 2, junto a la carretera de Algete, a 14,6 km.",
           "Si toca una reparación cubierta por la garantía de BMW, es ahí. El mantenimiento periódico, en cambio, no tiene por qué: el Reglamento (UE) 461/2010 permite hacerlo en un taller independiente sin que el fabricante pueda negar la garantía, siempre que se respete el plan."
         ]
       },
@@ -190,7 +190,7 @@
         "id": "m103-a1",
         "h2": "Por la M-103, la M-111 y la M-100 hasta la A-1",
         "parrafos": [
-          "La ruta desde el centro de Valdetorres hasta la calle Valgrande de Alcobendas encadena la M-103, la M-111 y la M-100 antes de entrar en la A-1: 27,3 km por carretera, 19,5 en línea recta.",
+          "La ruta desde el centro de Valdetorres hasta la calle Valgrande de Alcobendas encadena la M-103, la M-111 y la M-100 antes de entrar en la A-1: 27,2 km por carretera, 20,7 en línea recta.",
           "Para trabajos de varios días, pregunta al reservar por el vehículo de cortesía y por la recogida: los dos están sujetos a disponibilidad y solo dentro del área metropolitana de Madrid, así que confirma si tu dirección entra."
         ]
       },
@@ -206,11 +206,11 @@
     "faq": [
       {
         "q": "¿A qué distancia está vuestro taller?",
-        "a": "A 27,3 km por carretera, en la calle Valgrande 17 de Alcobendas."
+        "a": "A 27,2 km por carretera, en la calle Valgrande 17 de Alcobendas."
       },
       {
         "q": "¿Dónde paso la ITV desde Valdetorres de Jarama?",
-        "a": "La estación oficial más cercana es la de ITV Barbastro en Algete (estación 2818), a 10,6 km."
+        "a": "La estación oficial más cercana es la de ITV Barbastro en Algete (estación 2818), a 17,5 km."
       },
       {
         "q": "¿Pierdo la garantía si no voy al concesionario?",
@@ -232,7 +232,7 @@
       },
       {
         "etiqueta": "ITV oficial más cercana",
-        "valor": "ITV Barbastro, Algete · 10,6 km",
+        "valor": "ITV Barbastro, Algete · 17,5 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
@@ -244,7 +244,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 27,3 km",
+        "valor": "Alcobendas · 27,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

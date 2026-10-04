@@ -46,8 +46,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 57.6,
-  "km_linea_recta": 41.5,
+  "km_carretera": 54.5,
+  "km_linea_recta": 40.9,
   "vias_de_la_ruta": [
    "M-219",
    "M-204",
@@ -69,8 +69,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 25.8,
-   "km_linea": 17.3
+   "km_carretera": 22.7,
+   "km_linea": 16.6
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -81,17 +81,28 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 29.6,
-  "km_linea": 18.1,
+  "km_carretera": 26.5,
+  "km_linea": 17.5,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-204",
+   "tipo": "secondary",
+   "km": 1.9
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.36898,
+  "lng": -3.22174,
+  "que": "centro del núcleo urbano de Olmeda de las Fuentes (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "nuevo-baztan",

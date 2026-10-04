@@ -177,14 +177,14 @@
     "entradilla": "En Lozoyuela-Navas-Sieteiglesias no tenemos taller. Si tienes un BMW o un MINI y vives en el municipio, esto es lo que te queda cerca y lo que supone bajar hasta Alcobendas por la A-1.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 52.4
+      "kmCarretera": 52.3
     },
     "secciones": [
       {
         "id": "sin-taller-en-el-pueblo",
         "h2": "Por qué esta página no es la de un taller del pueblo",
         "parrafos": [
-          "Quien llega a esta página suele buscar un taller en el propio pueblo, así que lo decimos claro: el taller especialista que atiende esta zona es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 52,4 km por la A-1. Para un pinchazo o una revisión de rutina te conviene un taller del valle; para una avería concreta de BMW, un diagnóstico que otro taller no ha resuelto o el mantenimiento por plan de marca, sí tiene sentido bajar.",
+          "Quien llega a esta página suele buscar un taller en el propio pueblo, así que lo decimos claro: el taller especialista que atiende esta zona es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 52,3 km por la A-1. Para un pinchazo o una revisión de rutina te conviene un taller del valle; para una avería concreta de BMW, un diagnóstico que otro taller no ha resuelto o el mantenimiento por plan de marca, sí tiene sentido bajar.",
           "El municipio, con 1.468 vecinos en el padrón de 2025, ha crecido un 22 % en diez años. En 2025 tenía 809 turismos censados: 551 por cada 1.000 habitantes, bastantes más que en Madrid capital, como es lógico en un sitio donde casi todo queda a varios kilómetros."
         ]
       },
@@ -208,7 +208,7 @@
     "faq": [
       {
         "q": "¿Tenéis taller en Lozoyuela?",
-        "a": "No. El taller que atiende la zona está en Alcobendas, a 52,4 km por la A-1."
+        "a": "No. El taller que atiende la zona está en Alcobendas, a 52,3 km por la A-1."
       },
       {
         "q": "¿Dónde paso la ITV si vivo en Lozoyuela?",
@@ -246,7 +246,7 @@
       },
       {
         "etiqueta": "Distancia al taller (Alcobendas)",
-        "valor": "52,4 km por la A-1",
+        "valor": "52,3 km por la A-1",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

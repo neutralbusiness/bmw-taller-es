@@ -46,9 +46,10 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 35.7,
-  "km_linea_recta": 27.2,
+  "km_carretera": 40.4,
+  "km_linea_recta": 31.9,
   "vias_de_la_ruta": [
+   "M-204",
    "M-300",
    "M-100",
    "R-2",
@@ -67,8 +68,8 @@
    "oficial": true,
    "verificar": false,
    "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 3.9,
-   "km_linea": 2.9
+   "km_carretera": 8.6,
+   "km_linea": 6.9
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -79,23 +80,28 @@
   "municipio": "Alcalá de Henares",
   "web": "https://autopremier.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 7.7,
-  "km_linea": 5.1,
+  "km_carretera": 12.5,
+  "km_linea": 7.8,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
-   "ref": "M-300",
-   "tipo": "primary",
-   "km": 2.6
+   "ref": "M-204",
+   "tipo": "secondary",
+   "km": 0.6
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 40.43488,
+  "lng": -3.29831,
+  "que": "centro del núcleo urbano de Villalbilla (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "alcala-de-henares",
@@ -140,8 +146,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW en Villalbilla | Diagnosis ISTA, cerca de Alcalá",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 13421
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 18687
  },
  "generado": "2026-10-04",
  "perfil": {
@@ -149,7 +155,7 @@
   "capital_provincia": false,
   "costa": false,
   "altitud": "interior alto (600-800 m)",
-  "distancia_taller": "cerca (15-40 km)",
+  "distancia_taller": "media distancia (40-80 km)",
   "itv_en_municipio": false
  }
 }

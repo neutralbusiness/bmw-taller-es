@@ -87,17 +87,43 @@
    "km": 1.7
   },
   {
+   "ref": "PO-371",
+   "tipo": "secondary",
+   "km": 1.9
+  },
+  {
+   "ref": "PO-330",
+   "tipo": "secondary",
+   "km": 2.8
+  },
+  {
+   "ref": "EP-2001",
+   "tipo": "secondary",
+   "km": 2.9
+  },
+  {
+   "ref": "PO-323",
+   "tipo": "secondary",
+   "km": 2.9
+  },
+  {
+   "ref": "PO-A",
+   "tipo": "secondary",
+   "km": 2.9
+  },
+  {
    "ref": "VG-20",
    "tipo": "trunk",
    "km": 3.0
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": 1.6,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "ourense",

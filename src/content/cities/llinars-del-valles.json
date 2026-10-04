@@ -7,7 +7,7 @@
   "lat": 41.63649,
   "lng": 2.39502,
   "metaTitle": "Taller BMW en Llinars del Vallès | BMW Taller",
-  "metaDescription": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 52,2 km por la C-35 y la AP-7.",
+  "metaDescription": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
   "heroSubtitle": "Especialistas BMW para Llinars del Vallès y su entorno",
   "trustChips": [
     {
@@ -174,11 +174,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 52,2 km",
+    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 49,6 km",
     "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Mataró; y el taller especialista de la red, en Sant Joan Despí.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 52.2
+      "kmCarretera": 49.6
     },
     "secciones": [
       {
@@ -199,9 +199,9 @@
       },
       {
         "id": "c35-ap7",
-        "h2": "52,2 kilómetros por la C-35 y la AP-7",
+        "h2": "49,6 kilómetros por la C-35 y la AP-7",
         "parrafos": [
-          "La C-35 pasa a 0,6 km del centro y la AP-7 a 2,3. La ruta hasta Dasercars Barcelona encadena las dos, sigue por la C-33 y la B-20 y termina en la B-23: 52,2 km por carretera, 41,1 en línea recta. La recogida del taller no llega a Llinars, que queda fuera del área metropolitana.",
+          "La C-35 y la AP-7 pasan a 0,5 km del centro. La ruta hasta Dasercars Barcelona encadena las dos, sigue por la C-33 y termina en la B-20: 49,6 km por carretera, 40,8 en línea recta. La recogida del taller no llega a Llinars, que queda fuera del área metropolitana.",
           "Por distancia, el viaje es para lo específico de la marca. Te damos el presupuesto por escrito antes de empezar y nada se toca sin que lo apruebes; la diagnosis también se presupuesta aparte."
         ]
       },
@@ -224,7 +224,7 @@
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
-        "a": "52,2 km por carretera, por la C-35, la AP-7, la C-33, la B-20 y la B-23."
+        "a": "49,6 km por carretera, por la C-35, la AP-7, la C-33 y la B-20."
       }
     ],
     "datos": [
@@ -260,7 +260,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 52,2 km",
+        "valor": "Sant Joan Despí · 49,6 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

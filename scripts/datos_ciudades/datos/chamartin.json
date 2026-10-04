@@ -38,8 +38,8 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 10.8,
-  "km_linea_recta": 9.7,
+  "km_carretera": 10.4,
+  "km_linea_recta": 8.6,
   "vias_de_la_ruta": [
    "A-1"
   ],
@@ -48,16 +48,16 @@
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV APPLUS Iteuve Tecnology, S.L.U (estación 2884)",
-   "operador": "APPLUS Iteuve Tecnology, S.L.U",
-   "direccion": "C/ Aguaviva, 1-3. Pol. Ind. Fin de Semana",
+   "nombre": "ITV ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A (estación 2830)",
+   "operador": "ESTACIÓN DE SERVICIO PINAR DE CHAMARTÍN, S.A",
+   "direccion": "C/ María de Portugal, 15 (Sanchinarro)",
    "municipio": "Madrid",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 6.1,
-   "km_linea": 4.3
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 5.2,
+   "km_linea": 4.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -81,7 +81,7 @@
   {
    "ref": "A-1",
    "tipo": "motorway",
-   "km": 2.2
+   "km": 2.1
   },
   {
    "ref": "A-2",
@@ -96,15 +96,16 @@
   {
    "ref": "M-607",
    "tipo": "motorway",
-   "km": 2.8
+   "km": 2.7
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "ciudad-lineal",

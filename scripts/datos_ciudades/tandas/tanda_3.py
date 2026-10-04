@@ -22,13 +22,13 @@ REVISADO = "2026-10-04"
 CIUDADES = {}
 
 CIUDADES["caldes-de-montbui"] = {
-    "h1": "Caldes de Montbui: taller BMW a 44,5 km por la C-59 y la AP-7",
+    "h1": "Caldes de Montbui: taller BMW a 40,6 km por la C-59 y la C-33",
     "entradilla": "Desde Caldes, la C-59 pasa a medio kilómetro del centro y es la salida natural hacia cualquier taller. El especialista BMW de la red está en Sant Joan Despí; el servicio autorizado más próximo, en Castellar del Vallès.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 44.5},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 40.6},
     "secciones": [
         {"id": "c59-ap7", "h2": "La C-59 como punto de partida",
          "parrafos": [
-             "La ruta que calcula OpenStreetMap desde el centro de Caldes de Montbui hasta Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, encadena la C-59, la AP-7 y la B-23: 44,5 km de carretera para 31 km en línea recta.",
+             "La ruta que calcula OpenStreetMap desde el centro de Caldes de Montbui hasta Dasercars Barcelona, en el carrer del Tambor del Bruc de Sant Joan Despí, encadena la C-59, la C-33 y la B-20: 40,6 km de carretera para 30,9 km en línea recta.",
              "Caldes no forma parte del Área Metropolitana de Barcelona, y el servicio de recogida del taller no llega hasta aquí: el coche lo traes tú. Lo razonable es reservar el viaje para trabajos que piden conocer la marca —una distribución ruidosa en un diésel N47, una avería eléctrica que nadie ha localizado, poner al día el mantenimiento según el plan de BMW— y resolver cerca lo genérico.",
          ]},
         {"id": "tallcar-castellar", "h2": "Un taller autorizado BMW a 11,5 km, en Castellar",
@@ -48,7 +48,7 @@ CIUDADES["caldes-de-montbui"] = {
     ],
     "faq": [
         {"q": "¿Dónde está el taller BMW que atiende Caldes de Montbui?",
-         "a": "En Sant Joan Despí: Dasercars Barcelona, carrer del Tambor del Bruc 3, a 44,5 km por la C-59, la AP-7 y la B-23."},
+         "a": "En Sant Joan Despí: Dasercars Barcelona, carrer del Tambor del Bruc 3, a 40,6 km por la C-59, la C-33 y la B-20."},
         {"q": "¿Hay algún taller autorizado BMW cerca?",
          "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 11,5 km según bmw.es."},
         {"q": "¿Dónde paso la ITV?",
@@ -60,15 +60,15 @@ CIUDADES["caldes-de-montbui"] = {
         {"etiqueta": "Turismos (2024)", "valor": "9.746 · 525 por cada 1.000 hab.", **F.idescat("080333")},
         {"etiqueta": "ITV más cercana", "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 13,6 km", **F.itv_cat},
         {"etiqueta": "Taller autorizado BMW", "valor": "Tallcar, Castellar del Vallès · 11,5 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 44,5 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 40,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080333"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.r461_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["cubelles"] = {
-    "h1": "BMW en Cubelles: a medio kilómetro del mar y a 43,8 km del taller especialista",
+    "h1": "BMW en Cubelles: a medio kilómetro del mar y a 43,7 km del taller especialista",
     "entradilla": "En Cubelles el mar queda a medio kilómetro del centro urbano, y eso pesa en el cuidado de un coche más que la distancia al taller. Lo que tienes a mano está en Vilanova i la Geltrú; el especialista BMW de la red, en Sant Joan Despí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 43.8},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 43.7},
     "secciones": [
         {"id": "humedad-salina", "h2": "Lo que el aire del mar le hace a un BMW aparcado en la calle",
          "parrafos": [
@@ -80,9 +80,9 @@ CIUDADES["cubelles"] = {
              "En el localizador de BMW España, el punto oficial más próximo es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 7,8 km por carretera. La ITV que el registro de la Generalitat sitúa más cerca también está allí: la estación B17 de Applus, en la Ronda Europa, a 8,7 km.",
              "Para la inspección y para cualquier asunto que tenga que pasar por la marca, no hace falta salir del Garraf.",
          ]},
-        {"id": "c32-b25", "h2": "43,8 kilómetros por la C-32 hasta el Baix Llobregat",
+        {"id": "c32-b25", "h2": "43,7 kilómetros por la C-32 hasta el Baix Llobregat",
          "parrafos": [
-             "La C-31 atraviesa el propio municipio y la C-32 pasa a un kilómetro del centro. Desde ahí, la ruta hasta Dasercars Barcelona sigue por la C-32 y la B-25 hasta Sant Joan Despí: 43,8 km por carretera, 36,7 en línea recta.",
+             "La C-31 atraviesa el propio municipio y la C-32 pasa a un kilómetro del centro. La ruta hasta Dasercars Barcelona encadena la C-31, la C-32 y la B-25 hasta Sant Joan Despí: 43,7 km por carretera, 37,1 en línea recta.",
              "Cubelles no pertenece al Área Metropolitana de Barcelona, así que la recogida del coche que hace el taller queda fuera de su alcance. El viaje compensa para una avería que pide un especialista en la marca o para un fallo que se resiste; para cambiar unas escobillas, no.",
          ]},
         {"id": "cubelles-crece", "h2": "Un 22,6 % más de vecinos que en 2015",
@@ -112,9 +112,9 @@ CIUDADES["cubelles"] = {
 }
 
 CIUDADES["montornes-del-valles"] = {
-    "h1": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers, especialista a 37 km",
+    "h1": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers, especialista a 35 km",
     "entradilla": "Para un coche de Montornès, casi todo lo oficial está en Granollers, a menos de ocho kilómetros. El taller especialista BMW de la red queda más lejos, en Sant Joan Despí: te contamos por dónde se va y cuándo merece la pena.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 37.3},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 34.7},
     "secciones": [
         {"id": "granollers", "h2": "Granollers: la ITV a 7 km y Pruna Motor a 7,8",
          "parrafos": [
@@ -123,12 +123,12 @@ CIUDADES["montornes-del-valles"] = {
          ]},
         {"id": "ruta-montornes", "h2": "Hacia Sant Joan Despí por la C-33 y la B-20",
          "parrafos": [
-             "La ruta hasta Dasercars Barcelona sale por la BV-5001, toma la C-33 y cruza por la B-20 hasta enlazar con la B-23: 37,3 km por carretera, 26,2 en línea recta.",
+             "La ruta hasta Dasercars Barcelona sale por la BV-5001, toma la C-33 y cruza por la B-20 hasta Sant Joan Despí: 34,7 km por carretera, 25,9 en línea recta.",
              "Montornès no está en el Área Metropolitana de Barcelona, y la recogida que ofrece el taller no llega. Para un trabajo de un día, lo cómodo es dejar el coche a primera hora y volver a por él al cierre.",
          ]},
         {"id": "diesel-autopista", "h2": "Un diésel con la autopista a dos kilómetros",
          "parrafos": [
-             "Los diésel de BMW de las familias N47, N57, B47 y B57 necesitan, de vez en cuando, un tramo a régimen sostenido para quemar el hollín del filtro de partículas. Desde Montornès es fácil: la AP-7 pasa a unos dos kilómetros del centro y la C-33 a 2,6. Lo que no le sienta bien es el uso contrario: arrancar, recorrer cuatro calles y apagar, semana tras semana.",
+             "Los diésel de BMW de las familias N47, N57, B47 y B57 necesitan, de vez en cuando, un tramo a régimen sostenido para quemar el hollín del filtro de partículas. Desde Montornès es fácil: la AP-7 pasa a unos dos kilómetros del centro y la C-33 a 2,4. Lo que no le sienta bien es el uso contrario: arrancar, recorrer cuatro calles y apagar, semana tras semana.",
              "Si el aviso del filtro aparece a menudo, conviene mirar también el sensor de presión diferencial y la válvula EGR antes de dar el filtro por perdido.",
          ]},
         {"id": "montornes-en-cifras", "h2": "17.102 habitantes en 10,23 km²",
@@ -142,7 +142,7 @@ CIUDADES["montornes-del-valles"] = {
         {"q": "¿Qué servicio oficial BMW tengo más cerca?",
          "a": "Pruna Motor, en la C-17 a su paso por Granollers, a 7,8 km."},
         {"q": "¿Cuántos kilómetros hay hasta vuestro taller?",
-         "a": "37,3 por carretera, por la C-33, la B-20 y la B-23 hasta Sant Joan Despí."},
+         "a": "34,7 por carretera, por la BV-5001, la C-33 y la B-20 hasta Sant Joan Despí."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "17.102 habitantes (+5,8 % desde 2015)", **F.ine},
@@ -150,15 +150,15 @@ CIUDADES["montornes-del-valles"] = {
         {"etiqueta": "Turismos (2024)", "valor": "8.562 · 501 por cada 1.000 hab.", **F.idescat("081363")},
         {"etiqueta": "ITV más cercana", "valor": "Granollers (B18) · 7 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 7,8 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 37,3 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 34,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081363"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["cunit"] = {
-    "h1": "Cunit: un BMW en el Baix Penedès, con lo oficial en Vilanova y el taller a 49,7 km",
+    "h1": "Cunit: un BMW en el Baix Penedès, con lo oficial en Vilanova y el taller a 49,6 km",
     "entradilla": "Cunit es provincia de Tarragona, pero lo que un dueño de BMW necesita a mano está en el Garraf: el servicio oficial y la ITV más próximos, en Vilanova i la Geltrú. El taller especialista de la red queda en Sant Joan Despí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 49.7},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 49.6},
     "secciones": [
         {"id": "cunit-crece", "h2": "De 11.883 a 16.385 vecinos en diez años",
          "parrafos": [
@@ -176,7 +176,7 @@ CIUDADES["cunit"] = {
          ]},
         {"id": "c32-hasta-sant-joan-despi", "h2": "Por la C-32 y la B-25 hasta el taller",
          "parrafos": [
-             "Con la C-31 pasando por el municipio y la C-32 a 1,4 km, la salida es directa. La ruta hasta Dasercars Barcelona, en Sant Joan Despí, suma 49,7 km por carretera (39,9 en línea recta) por la C-32 y la B-25. La recogida del taller no llega a Cunit, que queda fuera del área metropolitana.",
+             "Con la C-31 pasando por el municipio y la C-32 a 1,4 km, la salida es directa. La ruta hasta Dasercars Barcelona, en Sant Joan Despí, suma 49,6 km por carretera (40,3 en línea recta) por la C-32 y la B-25. La recogida del taller no llega a Cunit, que queda fuera del área metropolitana.",
              "Antes de hacer el viaje, una llamada con el modelo, el año y los kilómetros del coche permite saber si el problema es para un especialista o se arregla cerca.",
          ]},
     ],
@@ -200,13 +200,13 @@ CIUDADES["cunit"] = {
 }
 
 CIUDADES["vallirana"] = {
-    "h1": "Vallirana: el taller BMW de la red a 17,6 km, más cerca que el concesionario",
-    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,6 km por la B-24 y la A-2 frente a 19,8 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 17.6},
+    "h1": "Vallirana: el taller BMW de la red a 17,7 km, más cerca que el concesionario",
+    "entradilla": "Desde Vallirana, el taller especialista BMW de la red queda más cerca que el servicio oficial de la marca: 17,7 km por la B-24 y la A-2 frente a 19,8 km hasta Sant Boi. Hay un matiz: Vallirana no está en el área metropolitana, y eso cambia algunas cosas.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 17.7},
     "secciones": [
         {"id": "b24-a2", "h2": "La B-24 hasta la A-2",
          "parrafos": [
-             "La B-24 pasa a medio kilómetro del centro de Vallirana y es el camino al taller: se sigue hasta la A-2 y de ahí a Sant Joan Despí, donde está Dasercars Barcelona, en el carrer del Tambor del Bruc 3. Son 17,6 km por carretera y 10,7 en línea recta. La N-340 queda a 1,2 km del centro.",
+             "La B-24 pasa a medio kilómetro del centro de Vallirana y es el camino al taller: se sigue hasta la A-2 y de ahí a Sant Joan Despí, donde está Dasercars Barcelona, en el carrer del Tambor del Bruc 3. Son 17,7 km por carretera y 11,2 en línea recta. La N-340 queda a 1,2 km del centro.",
              "Con esa distancia, dejar el coche por la mañana y volver a por él por la tarde es perfectamente viable.",
          ]},
         {"id": "fuera-del-amb", "h2": "Fuera del área metropolitana por muy poco",
@@ -229,7 +229,7 @@ CIUDADES["vallirana"] = {
         {"q": "¿Recogéis el coche en Vallirana?",
          "a": "No: Vallirana no está en el Área Metropolitana de Barcelona, y la recogida solo cubre esa área."},
         {"q": "¿Qué está más cerca, vuestro taller o el concesionario?",
-         "a": "El taller: 17,6 km hasta Sant Joan Despí, frente a 19,8 km hasta Barcelona Premium, en Sant Boi."},
+         "a": "El taller: 17,7 km hasta Sant Joan Despí, frente a 19,8 km hasta Barcelona Premium, en Sant Boi."},
         {"q": "¿Dónde paso la ITV?",
          "a": "En Sant Andreu de la Barca (B21), a 16,2 km por carretera, según el registro de la Generalitat."},
     ],
@@ -239,20 +239,20 @@ CIUDADES["vallirana"] = {
         {"etiqueta": "Turismos (2024)", "valor": "8.636 · 532 por cada 1.000 hab.", **F.idescat("082956")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 16,2 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Barcelona Premium, Sant Boi · 19,8 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 17,6 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 17,7 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082956"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["corbera-de-llobregat"] = {
-    "h1": "Corbera de Llobregat: taller BMW a 19,8 km y recogida dentro del área metropolitana",
+    "h1": "Corbera de Llobregat: taller BMW a 19,9 km y recogida dentro del área metropolitana",
     "entradilla": "Corbera está en alto, a 342 metros, y forma parte del Área Metropolitana de Barcelona. Eso abre una opción que no tienen todos los pueblos de la zona: que el taller recoja el coche, si hay disponibilidad.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 19.8},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 19.9},
     "secciones": [
         {"id": "recogida-corbera", "h2": "Recogida, entrega y coche de cortesía, si hay hueco",
          "parrafos": [
              "Dasercars Barcelona ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana, y Corbera de Llobregat está dentro. Las dos cosas dependen de la disponibilidad del día, así que lo sensato es pedirlas al cerrar la cita y no la víspera.",
-             "Si prefieres llevarlo tú, la ruta baja por la BV-2421 hasta la B-24 y sigue por la A-2 hasta Sant Joan Despí: 19,8 km por carretera, 12,8 en línea recta.",
+             "Si prefieres llevarlo tú, la ruta baja por la BV-2421 hasta la B-24 y sigue por la A-2 hasta Sant Joan Despí: 19,9 km por carretera, 13,3 en línea recta.",
          ]},
         {"id": "frenos-en-bajada", "h2": "Frenos y una carretera de bajada",
          "parrafos": [
@@ -283,29 +283,29 @@ CIUDADES["corbera-de-llobregat"] = {
         {"etiqueta": "Altitud", "valor": "342 m", **F.idescat("080728")},
         {"etiqueta": "Turismos (2024)", "valor": "8.002 · 500 por cada 1.000 hab.", **F.idescat("080728")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Andreu de la Barca (B21) · 10,4 km", **F.itv_cat},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 19,8 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 19,9 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080728"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["torello"] = {
-    "h1": "Torelló, en Osona: cuándo merece la pena llevar el BMW a 95,8 km",
-    "entradilla": "Entre Torelló y nuestro taller de Sant Joan Despí hay 95,8 km de carretera. Es una distancia que no se hace por una revisión, y conviene decirlo antes que nada. Lo que sí tienes cerca está en Vic.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 95.8},
+    "h1": "Torelló, en Osona: cuándo merece la pena llevar el BMW a 93,2 km",
+    "entradilla": "Entre Torelló y nuestro taller de Sant Joan Despí hay 93,2 km de carretera. Es una distancia que no se hace por una revisión, y conviene decirlo antes que nada. Lo que sí tienes cerca está en Vic.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 93.2},
     "secciones": [
         {"id": "vic-a-17-km", "h2": "En Vic, a 17 km: el concesionario y la ITV",
          "parrafos": [
              "El servicio oficial BMW más próximo en el buscador de bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 17,6 km por carretera. En la misma ciudad está la estación ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 17 km: es la más próxima a Torelló en el registro de la Generalitat.",
              "Para el mantenimiento rutinario, la inspección o cualquier cosa que pueda hacer un buen taller de la comarca, no hay motivo para salir de Osona.",
          ]},
-        {"id": "lo-que-justifica-el-viaje", "h2": "Qué justifica casi cien kilómetros",
+        {"id": "lo-que-justifica-el-viaje", "h2": "Qué justifica más de noventa kilómetros",
          "parrafos": [
              "El desplazamiento tiene sentido cuando hace falta alguien que trabaje solo con BMW y MINI: un fallo electrónico intermitente que ya ha pasado por otro taller sin solución, la cadena de distribución de un diésel M47, N47 o N57 que empieza a sonar, o un problema de escape y emisiones, para el que el taller cuenta con homologación REDISTA.",
              "Antes de coger el coche, llama y cuenta el síntoma con el modelo, el año y los kilómetros. El presupuesto llega por escrito y no se empieza nada sin tu visto bueno, de modo que decides con el número delante.",
          ]},
         {"id": "c37-c17", "h2": "La ruta: C-37, C-17 y entrada por la B-20",
          "parrafos": [
-             "Desde el centro de Torelló, la ruta sale por la BV-5224 hacia la C-37 y baja por la C-17 y la C-33 hasta enlazar con la B-20 y la B-23: 95,8 km por carretera para 77,5 en línea recta. La C-37 pasa a 1,5 km del centro y la C-17 a 2,5.",
+             "Desde el centro de Torelló, la ruta sale por la BV-5224 hacia la C-37 y baja por la C-17 y la C-33 hasta enlazar con la B-20: 93,2 km por carretera para 77,5 en línea recta. La C-37 pasa a 1,5 km del centro y la C-17 a 2,5.",
              "Torelló queda lejos del área metropolitana y la recogida del taller no llega. Si el coche tiene que pasar la noche en el taller, organiza la vuelta antes de salir.",
          ]},
         {"id": "torello-en-cifras", "h2": "15.334 vecinos a 508 metros",
@@ -315,7 +315,7 @@ CIUDADES["torello"] = {
     ],
     "faq": [
         {"q": "¿Tenéis taller en Osona?",
-         "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 95,8 km de Torelló."},
+         "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 93,2 km de Torelló."},
         {"q": "¿Dónde está el servicio oficial BMW más cercano?",
          "a": "Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 17,6 km."},
         {"q": "¿Dónde paso la ITV?",
@@ -327,29 +327,29 @@ CIUDADES["torello"] = {
         {"etiqueta": "Turismos (2024)", "valor": "7.913 · 516 por cada 1.000 hab.", **F.idescat("082858")},
         {"etiqueta": "ITV más cercana", "valor": "Osona (B04), Vic · 17 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Vic · 17,6 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 95,8 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 93,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("082858"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["la-llagosta"] = {
-    "h1": "La Llagosta: ITV a 4,6 km y taller especialista BMW a 31,8 km",
+    "h1": "La Llagosta: ITV a 4,6 km y taller especialista BMW a 29,2 km",
     "entradilla": "En poco más de tres kilómetros cuadrados, La Llagosta reúne 13.280 vecinos y queda rodeada de carreteras. Para quien tiene aquí un BMW, la ITV está casi al lado, en Santa Perpètua de Mogoda, y el taller especialista de la red, en Sant Joan Despí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 31.8},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 29.2},
     "secciones": [
         {"id": "itv-santa-perpetua", "h2": "La ITV más próxima: CIM Vallès, en Santa Perpètua",
          "parrafos": [
              "La estación que el registro de la Generalitat sitúa más cerca por carretera es la ITV CIM Vallès (B20), de TÜV Rheinland, en Santa Perpètua de Mogoda: 4,6 km desde el centro de La Llagosta, 2,6 en línea recta.",
              "Con la inspección tan a mano, si el coche no tiene nada más pendiente basta con una pre-ITV cerca de casa; si va a pasar por el taller por otro motivo, aprovecha esa visita para revisar luces, frenos y emisiones.",
          ]},
-        {"id": "cinco-carreteras", "h2": "Cinco carreteras a menos de tres kilómetros",
+        {"id": "cinco-carreteras", "h2": "Carreteras a menos de tres kilómetros",
          "parrafos": [
-             "OpenStreetMap registra cinco carreteras con referencia a menos de tres kilómetros del centro: la C-17 a 0,9 km, la C-33 a 1 km, la C-59 a 1,9, la AP-7 a 2,5 y la B-140 a 2,9.",
+             "Entre las carreteras que OpenStreetMap registra a menos de tres kilómetros del centro están la C-17 a 0,9 km, la C-33 a 1 km, la C-59 a 1,9, la AP-7 a 2,5 y la B-140 a 2,8.",
              "Para un BMW diésel es buena noticia: rodar un rato a régimen constante, que es lo que el filtro de partículas necesita para quemar el hollín acumulado, está a la vuelta de la esquina. Si en cambio el coche solo se mueve entre retenciones, con muchas paradas, el desgaste se concentra en embrague, frenos y caja automática.",
          ]},
-        {"id": "ruta-c58", "h2": "31,8 km por la C-58, la B-20 y la B-23",
+        {"id": "ruta-c33", "h2": "29,2 km por la C-33 y la B-20",
          "parrafos": [
-             "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-58 y cruza por la B-20 hasta la B-23: 31,8 km por carretera, 19,9 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
+             "La ruta hasta Dasercars Barcelona, en el carrer del Tambor del Bruc 3 de Sant Joan Despí, toma la C-33 y cruza por la B-20 hasta Sant Joan Despí: 29,2 km por carretera, 19,7 en línea recta. La Llagosta no forma parte del Área Metropolitana de Barcelona, y la recogida del taller no llega hasta aquí.",
              "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en el carrer Costa i Deu 133 de Sabadell, a 14,3 km por carretera.",
          ]},
         {"id": "la-llagosta-en-cifras", "h2": "4.383 habitantes por kilómetro cuadrado",
@@ -372,7 +372,7 @@ CIUDADES["la-llagosta"] = {
         {"etiqueta": "Turismos (2024)", "valor": "5.629 · 424 por cada 1.000 hab.", **F.idescat("081056")},
         {"etiqueta": "ITV más cercana", "valor": "CIM Vallès (B20), Santa Perpètua de Mogoda · 4,6 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Quadis Munich, Sabadell · 14,3 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 31,8 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 29,2 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081056"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -384,7 +384,7 @@ CIUDADES["sant-sadurni-d-anoia"] = {
     "secciones": [
         {"id": "ap7-b23", "h2": "De la AP-7 a la B-23",
          "parrafos": [
-             "La ruta que traza OpenStreetMap hasta Dasercars Barcelona solo usa dos vías principales: la AP-7, que pasa a 1,1 km del centro, y la B-23 hasta Sant Joan Despí. En total, 37 km por carretera y 23,6 en línea recta.",
+             "La ruta que traza OpenStreetMap hasta Dasercars Barcelona solo usa dos vías principales: la AP-7, que pasa a 1,1 km del centro, y la B-23 hasta Sant Joan Despí. En total, 37 km por carretera y 24,1 en línea recta.",
              "Sant Sadurní no está en el Área Metropolitana de Barcelona, así que la recogida del taller no llega. Con una ruta tan directa, si el trabajo es de un día, lo práctico es dejar el coche al abrir y llevártelo al cierre.",
          ]},
         {"id": "oficial-a-30-km", "h2": "El concesionario más cercano, a 30,5 km en Vilanova",
@@ -425,8 +425,8 @@ CIUDADES["sant-sadurni-d-anoia"] = {
 
 CIUDADES["argentona"] = {
     "h1": "Argentona: ITV en el propio municipio y servicio oficial BMW a 5 km, en Mataró",
-    "entradilla": "En Argentona tienes la ITV dentro del término municipal y el concesionario BMW de Mataró a 5 km. El taller especialista de la red queda más lejos, a 45,2 km en Sant Joan Despí; te explicamos para qué compensa.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 45.2},
+    "entradilla": "En Argentona tienes la ITV dentro del término municipal y el concesionario BMW de Mataró a 5 km. El taller especialista de la red queda más lejos, a 42,6 km en Sant Joan Despí; te explicamos para qué compensa.",
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 42.6},
     "secciones": [
         {"id": "itv-el-cros", "h2": "La ITV del polígono El Cros",
          "parrafos": [
@@ -440,7 +440,7 @@ CIUDADES["argentona"] = {
          ]},
         {"id": "ruta-maresme", "h2": "Por la C-32 hacia el Baix Llobregat",
          "parrafos": [
-             "Desde el centro de Argentona, la ruta hasta Dasercars Barcelona coge la C-32, cruza por la B-20 y termina en la B-23: 45,2 km por carretera y 35,3 en línea recta. A menos de tres kilómetros pasan, además, la C-60, la B-40 y la N-II.",
+             "Desde el centro de Argentona, la ruta hasta Dasercars Barcelona coge la C-32 y cruza por la B-20 hasta Sant Joan Despí: 42,6 km por carretera y 35 en línea recta. A menos de tres kilómetros pasan, además, la C-60, la B-40 y la N-II.",
              "Argentona no forma parte del Área Metropolitana de Barcelona y la recogida del taller no llega. Para que el viaje no sea en balde, llama antes y explica el síntoma con el modelo y el año del coche.",
          ]},
         {"id": "argentona-en-cifras", "h2": "12.891 vecinos a 4,3 km del mar",
@@ -454,7 +454,7 @@ CIUDADES["argentona"] = {
         {"q": "¿Dónde está el concesionario BMW más cercano?",
          "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 5 km."},
         {"q": "¿A qué distancia está vuestro taller?",
-         "a": "A 45,2 km por la C-32, la B-20 y la B-23, en Sant Joan Despí."},
+         "a": "A 42,6 km por la C-32 y la B-20, en Sant Joan Despí."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "12.891 habitantes (+7,6 % desde 2015)", **F.ine},
@@ -462,19 +462,19 @@ CIUDADES["argentona"] = {
         {"etiqueta": "Turismos (2024)", "valor": "6.722 · 521 por cada 1.000 hab.", **F.idescat("080095")},
         {"etiqueta": "ITV en el municipio", "valor": "Argentona (B08), polígono El Cros", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 5 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 45,2 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 42,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("080095"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["montgat"] = {
-    "h1": "Montgat: recogida del BMW dentro del área metropolitana y taller a 27,9 km",
+    "h1": "Montgat: recogida del BMW dentro del área metropolitana y taller a 25,3 km",
     "entradilla": "Montgat forma parte del Área Metropolitana de Barcelona, y es lo primero que debe saber quien tiene aquí un BMW o un MINI: el taller de Sant Joan Despí puede recoger y devolver el coche, siempre que haya disponibilidad.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 27.9},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 25.3},
     "secciones": [
         {"id": "recoger-en-montgat", "h2": "Que el coche vaya solo al taller",
          "parrafos": [
-             "Dasercars Barcelona ofrece recogida y entrega del coche dentro del área metropolitana, y vehículo de cortesía para los trabajos largos; ambos, sujetos a disponibilidad. Desde Montgat el taller queda a 27,9 km por la B-20 y la B-23, así que es la opción que más trayecto te ahorra.",
+             "Dasercars Barcelona ofrece recogida y entrega del coche dentro del área metropolitana, y vehículo de cortesía para los trabajos largos; ambos, sujetos a disponibilidad. Desde Montgat el taller queda a 25,3 km por la B-20, así que es la opción que más trayecto te ahorra.",
              "Pídelo al reservar e indica dónde estará el coche. Si prefieres llevarlo tú, la B-20 pasa a 0,3 km del centro.",
          ]},
         {"id": "entre-la-playa-y-la-c32", "h2": "Un municipio entre la playa y la C-32",
@@ -518,7 +518,7 @@ CIUDADES["palleja"] = {
     "secciones": [
         {"id": "a2-diez-km", "h2": "La A-2 a medio kilómetro, el taller a 10,8",
          "parrafos": [
-             "La A-2 pasa a 0,5 km del centro de Pallejà y es, prácticamente, el único tramo de la ruta: 10,8 km por carretera, 8,2 en línea recta, hasta la nave de Dasercars Barcelona en el carrer del Tambor del Bruc 3.",
+             "La A-2 pasa a 0,5 km del centro de Pallejà y es, prácticamente, el único tramo de la ruta: 10,8 km por carretera, 8,6 en línea recta, hasta la nave de Dasercars Barcelona en el carrer del Tambor del Bruc 3.",
              "El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Con esta cercanía, puedes dejar el coche antes de ir a trabajar y pasar a por él a la salida.",
          ]},
         {"id": "recogida-palleja", "h2": "Si no puedes acercarlo, el taller lo recoge",
@@ -529,9 +529,9 @@ CIUDADES["palleja"] = {
          "parrafos": [
              "El servicio oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 12,9 km: algo más lejos que el especialista independiente. La ITV que el registro de la Generalitat sitúa más cerca por carretera es Sant Andreu de la Barca (B21), en la N-II, a 8,4 km.",
          ]},
-        {"id": "nudo-de-carreteras", "h2": "Ocho carreteras a menos de tres kilómetros",
+        {"id": "nudo-de-carreteras", "h2": "Diez carreteras a menos de tres kilómetros",
          "parrafos": [
-             "OpenStreetMap cuenta a menos de tres kilómetros del centro la A-2, la N-IIa, la B-23, la B-24, la C-1413a, la N-340, la BV-2002 y la AP-7. Para un diésel con filtro de partículas es una ventaja: las ocasiones de rodar a ritmo sostenido, que es lo que el filtro necesita para limpiarse, sobran.",
+             "OpenStreetMap cuenta a menos de tres kilómetros del centro la N-IIa, la A-2, la B-23, la C-1413a, la B-24, la BV-1468, la N-340, la BV-2002, la BV-2421 y la AP-7. Para un diésel con filtro de partículas es una ventaja: las ocasiones de rodar a ritmo sostenido, que es lo que el filtro necesita para limpiarse, sobran.",
              "Pallejà tenía 12.006 habitantes en 2025, un 6,3 % más que en 2015, y 5.579 turismos en 2024 según Idescat: 465 por cada 1.000 vecinos.",
          ]},
     ],
@@ -555,9 +555,9 @@ CIUDADES["palleja"] = {
 }
 
 CIUDADES["la-roca-del-valles"] = {
-    "h1": "La Roca del Vallès: 563 turismos por cada mil vecinos y el taller BMW a 48,1 km",
+    "h1": "La Roca del Vallès: 563 turismos por cada mil vecinos y el taller BMW a 45,5 km",
     "entradilla": "En La Roca del Vallès hay 563 turismos por cada 1.000 habitantes: más de un coche por cada dos vecinos, en un término amplio y poco denso. Lo que tienes cerca está en Granollers; el taller especialista BMW de la red, en Sant Joan Despí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 48.1},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 45.5},
     "secciones": [
         {"id": "termino-disperso", "h2": "36,9 km² y 298 habitantes por kilómetro cuadrado",
          "parrafos": [
@@ -569,9 +569,9 @@ CIUDADES["la-roca-del-valles"] = {
              "Para la inspección, la referencia es la estación B18 de Applus en Granollers, a 8,9 km por carretera según los datos abiertos de la Generalitat. Para el concesionario BMW, Pruna Motor, también en Granollers, a 9,4 km por la C-17.",
              "Ni para la ITV ni para lo que tenga que pasar por la red de la marca hace falta ir más lejos.",
          ]},
-        {"id": "ruta-la-roca", "h2": "De la AP-7 a Sant Joan Despí: 48,1 km",
+        {"id": "ruta-la-roca", "h2": "De la AP-7 a Sant Joan Despí: 45,5 km",
          "parrafos": [
-             "La AP-7 pasa a 1,8 km del centro, y por ella empieza la ruta al taller; después, C-33, B-20 y B-23 hasta Dasercars Barcelona. Son 48,1 km por carretera, 33,3 en línea recta.",
+             "La AP-7 pasa a 1,8 km del centro, y por ella empieza la ruta al taller; después, C-33 y B-20 hasta Dasercars Barcelona. Son 45,5 km por carretera, 33 en línea recta.",
              "La recogida del taller no llega hasta aquí, porque La Roca queda fuera del área metropolitana. Con ese trayecto, compensa para trabajos que piden un especialista en la marca: averías electrónicas sin diagnosticar, ruidos de distribución en los diésel N47 y N57, o el sistema de escape y gases, para el que el taller tiene homologación REDISTA.",
          ]},
         {"id": "si-es-un-mini", "h2": "Si tu coche es un MINI",
@@ -585,7 +585,7 @@ CIUDADES["la-roca-del-valles"] = {
         {"q": "¿Venís a por el coche a La Roca?",
          "a": "No. La recogida cubre solo el área metropolitana de Barcelona, y La Roca del Vallès queda fuera."},
         {"q": "¿Qué distancia hay hasta el taller?",
-         "a": "48,1 km por la AP-7, la C-33, la B-20 y la B-23."},
+         "a": "45,5 km por la AP-7, la C-33 y la B-20."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "11.014 habitantes (+4,9 % desde 2015)", **F.ine},
@@ -593,15 +593,15 @@ CIUDADES["la-roca-del-valles"] = {
         {"etiqueta": "Turismos (2024)", "valor": "6.206 · 563 por cada 1.000 hab.", **F.idescat("081810")},
         {"etiqueta": "ITV más cercana", "valor": "Granollers (B18) · 8,9 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Granollers · 9,4 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 48,1 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 45,5 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081810"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
 
 CIUDADES["llinars-del-valles"] = {
-    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 52,2 km",
+    "h1": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 49,6 km",
     "entradilla": "Llinars del Vallès ha ganado un 14,5 % de población en diez años. Para el dueño de un BMW, sus referencias están repartidas: la ITV más próxima, en Sant Celoni; el concesionario de la marca, en Mataró; y el taller especialista de la red, en Sant Joan Despí.",
-    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 52.2},
+    "socio": {"id": "dasercars-sant-joan-despi", "kmCarretera": 49.6},
     "secciones": [
         {"id": "itv-sant-celoni", "h2": "La ITV de la carretera de Gualba",
          "parrafos": [
@@ -613,9 +613,9 @@ CIUDADES["llinars-del-valles"] = {
              "El punto oficial BMW que el localizador de bmw.es da como más próximo a Llinars es Pruna Motor, en la Via Sergia 2 de Mataró, a 20,8 km por carretera. Allí van las campañas de revisión de BMW y lo que cubra la garantía de la marca.",
              "Lo demás —mantenimiento, desgaste, averías fuera de garantía— puede hacerse en un taller independiente.",
          ]},
-        {"id": "c35-ap7", "h2": "52,2 kilómetros por la C-35 y la AP-7",
+        {"id": "c35-ap7", "h2": "49,6 kilómetros por la C-35 y la AP-7",
          "parrafos": [
-             "La C-35 pasa a 0,6 km del centro y la AP-7 a 2,3. La ruta hasta Dasercars Barcelona encadena las dos, sigue por la C-33 y la B-20 y termina en la B-23: 52,2 km por carretera, 41,1 en línea recta. La recogida del taller no llega a Llinars, que queda fuera del área metropolitana.",
+             "La C-35 y la AP-7 pasan a 0,5 km del centro. La ruta hasta Dasercars Barcelona encadena las dos, sigue por la C-33 y termina en la B-20: 49,6 km por carretera, 40,8 en línea recta. La recogida del taller no llega a Llinars, que queda fuera del área metropolitana.",
              "Por distancia, el viaje es para lo específico de la marca. Te damos el presupuesto por escrito antes de empezar y nada se toca sin que lo apruebes; la diagnosis también se presupuesta aparte.",
          ]},
         {"id": "llinars-crece", "h2": "De 9.570 a 10.956 vecinos",
@@ -629,7 +629,7 @@ CIUDADES["llinars-del-valles"] = {
         {"q": "¿Por qué el concesionario BMW más cercano está en Mataró?",
          "a": "Porque es el punto oficial que el localizador de bmw.es sitúa más próximo: Pruna Motor, a 20,8 km por carretera."},
         {"q": "¿Cuánto hay hasta vuestro taller?",
-         "a": "52,2 km por carretera, por la C-35, la AP-7, la C-33, la B-20 y la B-23."},
+         "a": "49,6 km por carretera, por la C-35, la AP-7, la C-33 y la B-20."},
     ],
     "datos": [
         {"etiqueta": "Población (padrón 2025)", "valor": "10.956 habitantes (+14,5 % desde 2015)", **F.ine},
@@ -637,7 +637,7 @@ CIUDADES["llinars-del-valles"] = {
         {"etiqueta": "Turismos (2024)", "valor": "5.667 · 517 por cada 1.000 hab.", **F.idescat("081069")},
         {"etiqueta": "ITV más cercana", "valor": "Sant Celoni (B26) · 13,3 km", **F.itv_cat},
         {"etiqueta": "Servicio oficial BMW", "valor": "Pruna Motor, Mataró · 20,8 km", **F.bmw},
-        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 52,2 km", **F.osrm},
+        {"etiqueta": "Taller de la red", "valor": "Sant Joan Despí · 49,6 km", **F.osrm},
     ],
     "fuentes": [F.ine_f, F.idescat_f("081069"), F.itv_cat_f, F.bmw_f, F.osrm_f, F.dasercars_bcn_f],
 }
@@ -646,19 +646,19 @@ CIUDADES["llinars-del-valles"] = {
 # tanda) cuya descripción anterior prometía ahorro, «diagnóstico oficial» o ISTA.
 # Cunit no se toca (su descripción no contiene promesas). Los metaTitle no se tocan.
 META = {
-    "caldes-de-montbui": "Taller especialista BMW y MINI para Caldes de Montbui: Dasercars Barcelona, a 44,5 km por la C-59 y la AP-7. Servicio autorizado e ITV más próximos.",
-    "cubelles": "Cubelles, a medio kilómetro del mar: qué vigilar en tu BMW, servicio oficial e ITV en Vilanova i la Geltrú y taller especialista a 43,8 km.",
-    "montornes-del-valles": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 37,3 km, en Sant Joan Despí.",
-    "vallirana": "Vallirana: el taller especialista BMW de la red está a 17,6 km por la B-24 y la A-2, más cerca que el concesionario. ITV y presupuesto por escrito.",
-    "corbera-de-llobregat": "Corbera de Llobregat: taller especialista BMW a 19,8 km y recogida en el área metropolitana, sujeta a disponibilidad. ITV en Sant Andreu de la Barca.",
-    "torello": "Torelló: concesionario BMW e ITV en Vic, y cuándo compensa llevar el coche al taller especialista de Sant Joan Despí, a 95,8 km.",
-    "la-llagosta": "La Llagosta: ITV a 4,6 km en Santa Perpètua de Mogoda y taller especialista BMW y MINI a 31,8 km por la C-58 y la B-23.",
+    "caldes-de-montbui": "Taller especialista BMW y MINI para Caldes de Montbui: Dasercars Barcelona, a 40,6 km por la C-59 y la C-33. Servicio autorizado e ITV más próximos.",
+    "cubelles": "Cubelles, a medio kilómetro del mar: qué vigilar en tu BMW, servicio oficial e ITV en Vilanova i la Geltrú y taller especialista a 43,7 km.",
+    "montornes-del-valles": "Montornès del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 34,7 km, en Sant Joan Despí.",
+    "vallirana": "Vallirana: el taller especialista BMW de la red está a 17,7 km por la B-24 y la A-2, más cerca que el concesionario. ITV y presupuesto por escrito.",
+    "corbera-de-llobregat": "Corbera de Llobregat: taller especialista BMW a 19,9 km y recogida en el área metropolitana, sujeta a disponibilidad. ITV en Sant Andreu de la Barca.",
+    "torello": "Torelló: concesionario BMW e ITV en Vic, y cuándo compensa llevar el coche al taller especialista de Sant Joan Despí, a 93,2 km.",
+    "la-llagosta": "La Llagosta: ITV a 4,6 km en Santa Perpètua de Mogoda y taller especialista BMW y MINI a 29,2 km por la C-33 y la B-20.",
     "sant-sadurni-d-anoia": "Sant Sadurní d'Anoia: taller especialista BMW a 37 km por la AP-7, servicio oficial en Vilanova i la Geltrú e ITV en Olèrdola.",
-    "argentona": "Argentona: ITV en el propio municipio, concesionario BMW en Mataró a 5 km y taller especialista independiente a 45,2 km en Sant Joan Despí.",
-    "montgat": "Montgat: recogida del coche en el área metropolitana (sujeta a disponibilidad) y taller especialista BMW a 27,9 km. ITV en Badalona.",
+    "argentona": "Argentona: ITV en el propio municipio, concesionario BMW en Mataró a 5 km y taller especialista independiente a 42,6 km en Sant Joan Despí.",
+    "montgat": "Montgat: recogida del coche en el área metropolitana (sujeta a disponibilidad) y taller especialista BMW a 25,3 km. ITV en Badalona.",
     "palleja": "Pallejà: taller especialista BMW y MINI a 10,8 km por la A-2, recogida en el área metropolitana sujeta a disponibilidad e ITV en Sant Andreu de la Barca.",
-    "la-roca-del-valles": "La Roca del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 48,1 km en Sant Joan Despí.",
-    "llinars-del-valles": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 52,2 km por la C-35 y la AP-7.",
+    "la-roca-del-valles": "La Roca del Vallès: ITV y servicio oficial BMW en Granollers y taller especialista independiente a 45,5 km en Sant Joan Despí.",
+    "llinars-del-valles": "Llinars del Vallès: ITV en Sant Celoni, concesionario BMW en Mataró y taller especialista independiente a 49,6 km por la C-35 y la AP-7.",
 }
 
 

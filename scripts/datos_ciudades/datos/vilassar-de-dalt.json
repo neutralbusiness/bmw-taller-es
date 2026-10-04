@@ -46,28 +46,27 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 41.5,
-  "km_linea_recta": 29.9,
+  "km_carretera": 35.9,
+  "km_linea_recta": 29.8,
   "vias_de_la_ruta": [
    "C-32",
-   "B-20",
-   "B-23"
+   "B-20"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV Granollers (B18)",
+   "nombre": "ITV Argentona (B08)",
    "operador": "APPLUS ITV",
-   "direccion": "Avinguda SANT JULIÀ - POL. IND. EL CONGOST 253-255",
-   "municipio": "Granollers",
+   "direccion": "Polígon EL CROS - ZONA INDUSTRIAL SECTOR SUD S/N",
+   "municipio": "Argentona",
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 11.5,
-   "km_linea": 8.4
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 9.4,
+   "km_linea": 5.2
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,23 +77,38 @@
   "municipio": "Mataró",
   "web": "https://prunamotor-mataro.concesionariobmw.es",
   "solo_taller": false,
-  "km_carretera": 11.5,
-  "km_linea": 6.8,
+  "km_carretera": 8.5,
+  "km_linea": 5.7,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
  "vias_cercanas": [
   {
    "ref": "C-32",
    "tipo": "motorway",
-   "km": 2.6
+   "km": 1.0
+  },
+  {
+   "ref": "N-2",
+   "tipo": "primary",
+   "km": 2.5
+  },
+  {
+   "ref": "N-II",
+   "tipo": "primary",
+   "km": 2.5
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
-  "km": 4.6,
+  "km": 2.8,
   "a_menos_de_5km": true
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.51472,
+  "lng": 2.36125,
+  "que": "centro del núcleo urbano de Vilassar de Dalt (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "cabrils",
@@ -139,8 +153,8 @@
  ],
  "pagina_actual": {
   "metaTitle": "Taller BMW Vilassar de Dalt — Mantenimiento oficial sin coste de concesionario",
-  "tiene_contenido_v3": false,
-  "poblacion_en_json": 8865
+  "tiene_contenido_v3": true,
+  "poblacion_en_json": 9404
  },
  "generado": "2026-10-04",
  "perfil": {
@@ -148,7 +162,7 @@
   "capital_provincia": false,
   "costa": true,
   "altitud": "baja (<600 m)",
-  "distancia_taller": "media distancia (40-80 km)",
+  "distancia_taller": "cerca (15-40 km)",
   "itv_en_municipio": false
  }
 }

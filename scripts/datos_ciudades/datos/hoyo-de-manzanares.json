@@ -46,28 +46,29 @@
   "cp": "28108",
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 44.4,
-  "km_linea_recta": 24.2,
+  "km_carretera": 44.1,
+  "km_linea_recta": 23.7,
   "vias_de_la_ruta": [
    "M-618",
    "A-6",
-   "M-40"
+   "M-40",
+   "A-1"
   ],
   "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
  },
  "itv": {
   "en_el_municipio": [],
   "mas_cercana": {
-   "nombre": "ITV TÜV SÜD ATISAE (estación 2813)",
-   "operador": "TÜV SÜD ATISAE",
-   "direccion": "C/ Escofina, 3. Pol. Ind. P-29",
+   "nombre": "ITV Grupo ITEVELESA, S.L (estación 2832)",
+   "operador": "Grupo ITEVELESA, S.L",
+   "direccion": "A-6, km 37,6",
    "municipio": "Collado Villalba",
    "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
    "oficial": true,
    "verificar": false,
-   "precision": "CartoCiudad (centro del municipio)",
-   "km_carretera": 21.1,
-   "km_linea": 6.2
+   "precision": "CartoCiudad (punto kilométrico)",
+   "km_carretera": 14.7,
+   "km_linea": 6.5
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -82,13 +83,20 @@
   "km_linea": 10.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "M-618",
+   "tipo": "secondary",
+   "km": 0.1
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "torrelodones",

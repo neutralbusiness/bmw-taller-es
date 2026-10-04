@@ -47,7 +47,7 @@
   "municipio": "Alcobendas",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
   "km_carretera": 35.8,
-  "km_linea_recta": 26.4,
+  "km_linea_recta": 27.3,
   "vias_de_la_ruta": [
    "R-2",
    "M-50"
@@ -85,15 +85,16 @@
   {
    "ref": "R-2",
    "tipo": "motorway",
-   "km": 2.0
+   "km": 2.1
   }
  ],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": null,
  "cercanas_red": [
   {
    "slug": "camarma-de-esteruelas",

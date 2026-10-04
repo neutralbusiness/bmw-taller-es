@@ -7,7 +7,7 @@
   "lat": 40.17809,
   "lng": -3.74984,
   "metaTitle": "Taller BMW en Torrejón de Velasco | Especialistas al sur de Madrid",
-  "metaDescription": "BMW en Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller especialista de la red en Alcobendas, a 48,7 km.",
+  "metaDescription": "BMW en Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller especialista de la red en Alcobendas, a 48,2 km.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Torrejón de Velasco",
   "trustChips": [
     {
@@ -178,11 +178,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller BMW a 48,7 km",
-    "entradilla": "No confundas Torrejón de Velasco con Torrejón de Ardoz: este está al sur, con la R-4 a 2,4 km, y el taller de la red le queda a 48,7 km. Te dejamos lo que hay cerca y lo que implica cruzar Madrid.",
+    "h1": "Torrejón de Velasco: ITV en Parla, servicio oficial en Getafe y taller BMW a 48,2 km",
+    "entradilla": "No confundas Torrejón de Velasco con Torrejón de Ardoz: este está al sur, con la A-42 a 1,4 km, y el taller de la red le queda a 48,2 km. Te dejamos lo que hay cerca y lo que implica cruzar Madrid.",
     "socio": {
       "id": "dasercars-alcobendas",
-      "kmCarretera": 48.7
+      "kmCarretera": 48.2
     },
     "secciones": [
       {
@@ -196,15 +196,15 @@
         "id": "parla-y-getafe",
         "h2": "ITV en Parla y servicio oficial en Getafe",
         "parrafos": [
-          "La estación oficial más cercana por carretera es la de TÜV Rheinland Ibérica (estación 2841), en la calle Berlín 1 del polígono industrial de Parla, a 10,1 km según el listado de la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 17,5 km.",
+          "La estación oficial más cercana por carretera es la de DEKRA ITV España (estación 2897), en la calle Roma 9 de Parla, a 10,5 km según el listado de la Comunidad de Madrid. El punto oficial BMW más próximo según bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 13,6 km.",
           "Si BMW te convoca para una campaña de revisión, la cita es en la red oficial; eso no lo hace un taller independiente. Lo demás —mantenimiento, averías, diagnosis— lo eliges tú."
         ]
       },
       {
         "id": "cruzar-madrid",
-        "h2": "48,7 km por la A-4, la M-30 y la A-1",
+        "h2": "48,2 km por la A-42, la M-40 y la M-30",
         "parrafos": [
-          "La ruta hasta la calle Valgrande de Alcobendas va por la M-404, que pasa a menos de un kilómetro del centro, y la M-423 hasta la A-4; cruza por la M-30 y sale por la A-1: 48,7 km por carretera, 41,8 en línea recta.",
+          "La ruta hasta la calle Valgrande de Alcobendas toma la A-42, que pasa a 1,4 km del centro; rodea Madrid por la M-40 y la M-30 y sale por la A-1: 48,2 km por carretera, 40,5 en línea recta.",
           "La recogida del taller se limita al área metropolitana de Madrid y está sujeta a disponibilidad: confirma al reservar si tu dirección entra. Si vas a llevarlo tú, apunta antes cuándo aparece el problema —en frío o en caliente, a qué velocidad, con qué testigo— porque ayuda más al diagnóstico que cualquier descripción vaga."
         ]
       }
@@ -212,11 +212,11 @@
     "faq": [
       {
         "q": "¿Dónde paso la ITV desde Torrejón de Velasco?",
-        "a": "En la estación 2841 de TÜV Rheinland Ibérica, en el polígono industrial de Parla, a 10,1 km."
+        "a": "En la estación 2897 de DEKRA ITV España, en la calle Roma 9 de Parla, a 10,5 km."
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
-        "a": "48,7 km por carretera hasta la calle Valgrande 17 de Alcobendas."
+        "a": "48,2 km por carretera hasta la calle Valgrande 17 de Alcobendas."
       },
       {
         "q": "¿Trabajáis MINI?",
@@ -244,19 +244,19 @@
       },
       {
         "etiqueta": "ITV oficial más cercana",
-        "valor": "TÜV Rheinland, Parla · 10,1 km",
+        "valor": "DEKRA, Parla · 10,5 km",
         "fuente": "Comunidad de Madrid",
         "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
       },
       {
         "etiqueta": "Servicio oficial BMW",
-        "valor": "Vehinter (Getafe) · 17,5 km",
+        "valor": "Vehinter (Getafe) · 13,6 km",
         "fuente": "Localizador de bmw.es",
         "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Alcobendas · 48,7 km",
+        "valor": "Alcobendas · 48,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

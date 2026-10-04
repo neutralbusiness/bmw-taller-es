@@ -46,10 +46,10 @@
   "cp": "08970",
   "municipio": "Sant Joan Despí",
   "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
-  "km_carretera": 84.3,
-  "km_linea_recta": 62.6,
+  "km_carretera": 89.0,
+  "km_linea_recta": 66.0,
   "vias_de_la_ruta": [
-   "BV-1001",
+   "N-141a",
    "C-1412a",
    "A-2"
   ],
@@ -65,9 +65,9 @@
    "fuente": "Generalitat de Catalunya, dades obertes 7dyp-y4dd",
    "oficial": true,
    "verificar": false,
-   "precision": null,
-   "km_carretera": 27.7,
-   "km_linea": 21.7
+   "precision": "Generalitat (coordenadas de la estación)",
+   "km_carretera": 24.0,
+   "km_linea": 19.4
   }
  },
  "bmw_servicio_oficial_mas_cercano": {
@@ -78,17 +78,28 @@
   "municipio": "Tárrega",
   "web": "http://red.bmw.es/unicars/es_ES/home.html",
   "solo_taller": false,
-  "km_carretera": 31.3,
-  "km_linea": 25.5,
+  "km_carretera": 27.6,
+  "km_linea": 23.2,
   "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
  },
- "vias_cercanas": [],
- "vias_fuente": "Vías: OpenStreetMap (Overpass API), tramos con referencia a < 3 km del centro. Costa: Natural Earth 10m",
+ "vias_cercanas": [
+  {
+   "ref": "C-25",
+   "tipo": "motorway",
+   "km": 2.3
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
  "costa": {
   "km": null,
   "a_menos_de_5km": false
  },
  "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap",
+ "distancias_desde": {
+  "lat": 41.71564,
+  "lng": 1.42339,
+  "que": "centro del núcleo urbano de Pujalt (CartoCiudad)"
+ },
  "cercanas_red": [
   {
    "slug": "sant-marti-sesgueioles",

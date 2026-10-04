@@ -7,7 +7,7 @@
   "lat": 41.61262,
   "lng": 2.5295,
   "metaTitle": "Taller BMW en Arenys de Munt | Maresme interior",
-  "metaDescription": "Arenys de Munt: servicio oficial BMW en Mataró, ITV en Sant Celoni y taller especialista independiente BMW y MINI en Sant Joan Despí, a 59,2 km.",
+  "metaDescription": "Arenys de Munt: servicio oficial BMW en Mataró, ITV en Sant Celoni y taller especialista independiente BMW y MINI en Sant Joan Despí, a 56,6 km.",
   "heroSubtitle": "Atención especializada BMW para Arenys de Munt, en el interior del Maresme.",
   "trustChips": [
     {
@@ -173,18 +173,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Arenys de Munt: BMW en el Maresme interior, con el taller a 59 km",
+    "h1": "Arenys de Munt: BMW en el Maresme interior, con el taller a 57 km",
     "entradilla": "La C-61 une Arenys de Munt con la C-32, que pasa a menos de tres kilómetros del centro. Por ahí empieza cualquier viaje con el coche: a Mataró, donde está el concesionario, o a Sant Joan Despí, donde está nuestro taller.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 59.2
+      "kmCarretera": 56.6
     },
     "secciones": [
       {
         "id": "c61-c32",
-        "h2": "C-61, C-32 y rondas: 59,2 km",
+        "h2": "C-61, C-32 y B-20: 56,6 km",
         "parrafos": [
-          "La ruta hasta el taller baja por la C-61 hasta la C-32 y sigue por la B-20 y la B-23: 59,2 km por carretera, 47,9 en línea recta. El municipio no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no lo cubre.",
+          "La ruta hasta el taller baja por la C-61 hasta la C-32 y sigue por la B-20: 56,6 km por carretera, 47,5 en línea recta. El municipio no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no lo cubre.",
           "Antes de hacer ese trayecto, una llamada ayuda: con el modelo, el año, los kilómetros y el síntoma se puede orientar la avería y saber si hay que pedir alguna pieza."
         ]
       },
@@ -192,7 +192,7 @@
         "id": "pruna-mataro",
         "h2": "El concesionario, en la Via Sèrgia de Mataró",
         "parrafos": [
-          "El localizador de bmw.es sitúa el punto oficial más cercano en Pruna Motor, Via Sèrgia 2, Mataró, a 19,4 km. Para lo que cubre la garantía, esa es la dirección. Para un especialista independiente en BMW y MINI, la nuestra queda tres veces más lejos, y conviene que el trabajo lo justifique: un fallo que no se ha encontrado, una distribución ruidosa, un sistema de AdBlue que da guerra."
+          "El localizador de bmw.es sitúa el punto oficial más cercano en Pruna Motor, Via Sèrgia 2, Mataró, a 19,4 km. Para lo que cubre la garantía, esa es la dirección. Para un especialista independiente en BMW y MINI, la nuestra queda casi tres veces más lejos, y conviene que el trabajo lo justifique: un fallo que no se ha encontrado, una distribución ruidosa, un sistema de AdBlue que da guerra."
         ]
       },
       {
@@ -213,7 +213,7 @@
     "faq": [
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
-        "a": "59,2 km por carretera hasta Sant Joan Despí, por la C-61, la C-32, la B-20 y la B-23."
+        "a": "56,6 km por carretera hasta Sant Joan Despí, por la C-61, la C-32 y la B-20."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -257,7 +257,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 59,2 km",
+        "valor": "Sant Joan Despí · 56,6 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }

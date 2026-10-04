@@ -204,7 +204,7 @@
     "entradilla": "Si vives en Sant Boi de Llobregat, el taller especialista BMW de la red está en el municipio de al lado. Te contamos cómo llegar, qué ofrece dentro del área metropolitana y en qué se diferencia del concesionario que tienes en la carretera del Prat.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 6.2
+      "kmCarretera": 6.1
     },
     "secciones": [
       {
@@ -219,7 +219,7 @@
         "id": "seis-kilometros",
         "h2": "Seis kilómetros hasta el Tambor del Bruc",
         "parrafos": [
-          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 6,2 km por carretera desde el centro de Sant Boi, 3,2 km en línea recta. Es, de toda la red, una de las ciudades con el taller más a mano.",
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3, en Sant Joan Despí: 6,1 km por carretera desde el centro de Sant Boi, 3,4 km en línea recta. Es, de toda la red, una de las ciudades con el taller más a mano.",
           "Sant Boi forma parte del Área Metropolitana de Barcelona, y el taller ofrece recogida y entrega del coche dentro del área metropolitana y vehículo de cortesía, ambos sujetos a disponibilidad. Pídelo al reservar la cita, no a última hora."
         ]
       },
@@ -227,7 +227,7 @@
         "id": "itv-cornella",
         "h2": "La ITV más cercana está en Viladecans",
         "parrafos": [
-          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Sant Boi es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 6,7 km. La de Cornellà (B11), en el passeig de la Campsa, queda más a mano si vienes del taller de Sant Joan Despí después de una pre-ITV."
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera al centro de Sant Boi es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 6,7 km."
         ]
       },
       {
@@ -273,7 +273,7 @@
       },
       {
         "etiqueta": "Distancia al taller (Sant Joan Despí)",
-        "valor": "6,2 km por carretera",
+        "valor": "6,1 km por carretera",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       },
