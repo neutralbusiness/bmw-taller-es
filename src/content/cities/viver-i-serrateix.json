@@ -7,7 +7,7 @@
   "lat": 41.9502,
   "lng": 1.7986,
   "metaTitle": "Taller BMW en Viver i Serrateix | Cuidamos tu BMW al Detalle",
-  "metaDescription": "Taller BMW de confianza cerca de Viver i Serrateix. Mantenimiento preventivo, reparación de motor y electrónica. Recogida incluida. Pide cita hoy.",
+  "metaDescription": "Viver i Serrateix: ITV en Berga, servicio oficial en Sant Fruitós de Bages y taller especialista BMW a 91,9 km por la C-16.",
   "heroSubtitle": "En la puerta sur del Berguedà, donde la comarca se funde con la Catalunya central, tu BMW merece atención profesional sin ir lejos.",
   "trustChips": [
     {
@@ -185,5 +185,128 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Viver i Serrateix: 66,8 km² para 178 vecinos y un BMW a 91,9 km del taller",
+    "entradilla": "Tres habitantes por kilómetro cuadrado: en Viver i Serrateix todo queda lejos. La ITV de Berga y el servicio oficial de Sant Fruitós de Bages están a 32,1 y 30,7 km; el taller especialista de la red, a 91,9 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 91.9
+    },
+    "secciones": [
+      {
+        "id": "tres-por-km2",
+        "h2": "Tres habitantes por km²",
+        "parrafos": [
+          "El término mide 66,8 km² y el padrón de 2025 da 178 habitantes (168 en 2015). Idescat, a partir de la DGT, contaba 127 turismos en 2024: 713 por cada 1.000 vecinos. Ninguna carretera principal pasa a menos de tres kilómetros del núcleo, que está a 729 metros.",
+          "En un sitio así, buena parte de los kilómetros diarios son de carretera local hasta llegar a la C-16. Es un uso que gasta suspensión, neumáticos y frenos más deprisa que la autovía, y que conviene tener en cuenta al decidir cuándo cambiarlos."
+        ]
+      },
+      {
+        "id": "norte-o-sur",
+        "h2": "Berga o Sant Fruitós: a una distancia parecida",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono La Valldan, a 32,1 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 30,7 km. Uno hacia el norte y otro hacia el sur por la misma C-16."
+        ]
+      },
+      {
+        "id": "bv4235-c16",
+        "h2": "91,9 km por la BV-4235 y la C-16",
+        "parrafos": [
+          "Hasta Dasercars Barcelona, la ruta sale por la BV-4235, baja por la C-16 y entra por la B-20: 91,9 km por carretera, 68,6 en línea recta. La recogida que ofrece el taller se limita al área metropolitana de Barcelona y no llega aquí.",
+          "Si el coche aún está en garantía, hacer el mantenimiento en un taller independiente no la anula siempre que se cumpla el plan del fabricante: lo establece el Reglamento (UE) 461/2010. Desde esta distancia, lo que sí conviene es bajar con cita y con el trabajo hablado."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Viver i Serrateix?",
+        "a": "En Berga (B13), a 32,1 km por carretera, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Pierdo la garantía si no voy al concesionario?",
+        "a": "No, si se respetan los intervalos y especificaciones del plan de mantenimiento de BMW."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "91,9 km, por la BV-4235, la C-16 y la B-20, hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "178 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083089&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "66,8 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083089&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "127 · 713 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=083089&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 32,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 30,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 91,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=083089&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,11 +3,11 @@
   "name": "Copons",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 324,
+  "population": 352,
   "lat": 41.649,
   "lng": 1.5134,
   "metaTitle": "Taller BMW en Copons | Valle del Anoia, mecánica experta",
-  "metaDescription": "Servicio BMW en Copons, valle del Anoia. Especialistas en motores turbo, mantenimiento preventivo y clima continental. Presupuesto gratis. 622 552 992.",
+  "metaDescription": "Copons, con la A-2 al lado: taller especialista BMW a 65,6 km en Sant Joan Despí, ITV en Igualada a 14,8 km y servicio oficial en Tàrrega.",
   "heroSubtitle": "Mecánica BMW especializada en el valle del río Anoia. Diagnóstico preciso y reparaciones de calidad cerca de Copons.",
   "trustChips": [
     {
@@ -183,5 +183,129 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Copons y la A-2: tu BMW a 65,6 km del taller especialista de Sant Joan Despí",
+    "entradilla": "La A-2 pasa a menos de tres kilómetros de Copons, y eso simplifica mucho llevar un BMW o un MINI al taller: casi todo el trayecto hasta Sant Joan Despí es autovía. Lo que no está tan cerca es el servicio oficial.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 65.6
+    },
+    "secciones": [
+      {
+        "id": "casi-todo-autovia",
+        "h2": "65,6 kilómetros, casi todos de autovía",
+        "parrafos": [
+          "Desde el núcleo urbano de Copons, la ruta sale por la C-1412a y enlaza enseguida con la A-2, que lleva hasta el Baix Llobregat: 65,6 km por carretera y 54,4 en línea recta hasta la nave de Dasercars Barcelona, en el carrer del Tambor del Bruc 3.",
+          "Es una distancia media. Compensa para lo que exige conocer bien la marca —un fallo eléctrico que va y viene, una fuga de aceite en un diésel de la familia N47 o B47, un coche que alguien ha intentado arreglar sin éxito— y no tanto para cambiar unas pastillas. Copons no está en el área metropolitana de Barcelona: la recogida del taller no llega aquí."
+        ]
+      },
+      {
+        "id": "itv-igualada",
+        "h2": "La inspección, a 14,8 km en Igualada",
+        "parrafos": [
+          "La estación más próxima por carretera según la Generalitat es la de Igualada (B12), en el polígono Les Comes. Con menos de quince kilómetros hasta allí, no hace falta combinarla con nada: se pasa cuando toque."
+        ]
+      },
+      {
+        "id": "oficial-lejos",
+        "h2": "El servicio oficial, a 41,5 km en Tàrrega",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto oficial más cercano en Tàrrega: Unicars Ponent, a 41,5 km por carretera. Es algo menos de lo que hay hasta nuestro taller, pero no mucho menos.",
+          "Para el mantenimiento, el Reglamento (UE) 461/2010 deja elegir taller sin perder la garantía del fabricante, con una condición: que se sigan los intervalos y las especificaciones del plan de mantenimiento. Las campañas que convoque BMW, eso sí, van por la red oficial."
+        ]
+      },
+      {
+        "id": "copons-crece",
+        "h2": "Un 14,7 % más de vecinos que en 2015",
+        "parrafos": [
+          "Copons tenía 307 habitantes en 2015 y 352 en 2025. En 2024 había 187 turismos según Idescat, a partir de la DGT: 531 por cada 1.000 vecinos, en un término de 18,66 km² con el pueblo a 432 metros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué distancia hay de Copons a vuestro taller?",
+        "a": "65,6 km por la C-1412a y la A-2 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Puedo hacer las revisiones fuera del concesionario sin perder la garantía?",
+        "a": "Sí, si se cumplen los intervalos y las especificaciones del plan de mantenimiento del fabricante."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. Comparte motores y electrónica con BMW y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "352 habitantes (+14,7 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080713&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "187 · 531 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080713&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 14,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 41,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 65,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080713&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

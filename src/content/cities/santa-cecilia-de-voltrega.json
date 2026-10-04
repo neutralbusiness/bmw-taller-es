@@ -3,11 +3,11 @@
   "name": "Santa Cecília de Voltregà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 178,
+  "population": 197,
   "lat": 42.0055,
   "lng": 2.2059,
   "metaTitle": "Taller BMW en Santa Cecília de Voltregà | Valle del Ter",
-  "metaDescription": "Taller BMW para Santa Cecília de Voltregà y el valle del Ter. Recogida a domicilio, diagnosis avanzada y piezas originales. Sin desplazarte a Vic.",
+  "metaDescription": "Santa Cecília de Voltregà: ITV y servicio oficial BMW en Vic, a unos 10 km, y taller especialista independiente a 85,8 km por la C-17.",
   "heroSubtitle": "Servicio BMW completo en el corazón del valle del Ter. Recogemos tu vehículo en Santa Cecília de Voltregà y lo cuidamos como merece.",
   "trustChips": [
     {
@@ -180,5 +180,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Santa Cecília de Voltregà: BMW a 10 km de Vic y a 85,8 km del taller especialista",
+    "entradilla": "Con la C-17 a menos de tres kilómetros, desde Santa Cecília de Voltregà se llega sin complicaciones a Vic, donde están la ITV y el servicio oficial BMW, y la misma carretera baja hacia Barcelona. Nuestro taller está al final de ese recorrido, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 85.8
+    },
+    "secciones": [
+      {
+        "id": "c17-de-punta-a-punta",
+        "h2": "La C-17, de punta a punta",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona es casi entera por la C-17, después la C-33 y al final la B-20: 85,8 km por carretera, 70,9 en línea recta. A menos de tres kilómetros del pueblo pasan la C-17 y la C-37.",
+          "Es un recorrido de vía rápida, cómodo para bajar el coche cuando hace falta un especialista. Lo que no hay desde aquí es recogida: el taller la ofrece solo dentro del área metropolitana de Barcelona."
+        ]
+      },
+      {
+        "id": "dos-citas-en-vic",
+        "h2": "Las dos citas del calendario, en Vic",
+        "parrafos": [
+          "Vic reúne las dos visitas obligadas de un coche: la inspección, en la estación ITV Osona (B04) del carrer Sant Llorenç Desmunts 22, a 9,7 km según la Generalitat, y el concesionario de la marca, Quadis Munich, en la calle Perot Rocaguinarda 1, a 10,3 km según bmw.es.",
+          "Con el servicio oficial tan cerca, la pregunta razonable es para qué bajar 85,8 km. Para una segunda diagnosis independiente, para una reparación fuera de garantía en la que quieres otro presupuesto, o para el mantenimiento de un coche ya mayor que pide a alguien centrado en la marca."
+        ]
+      },
+      {
+        "id": "voltrega-en-cifras",
+        "h2": "197 vecinos en 8,63 km²",
+        "parrafos": [
+          "El padrón da a Santa Cecília 197 habitantes en 2025, frente a 179 en 2015 (un 10,1 % más). Idescat contaba 133 turismos en 2024 a partir de la DGT: 675 por cada 1.000 vecinos. El núcleo está a 519 metros.",
+          "Si el coche pasa la mayor parte del tiempo en recorridos cortos hasta Vic, el aceite trabaja en frío buena parte del trayecto. El intervalo que marca el indicador de servicio es un máximo, no un objetivo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Para qué ir a vuestro taller si tengo el oficial en Vic?",
+        "a": "Para el mantenimiento y las reparaciones fuera de garantía puedes elegir taller. Nosotros somos un taller independiente especializado en BMW y MINI, en Sant Joan Despí, a 85,8 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Osona (B04), en Vic, a 9,7 km por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Santa Cecília?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "197 habitantes (+10,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082439&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "133 · 675 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082439&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "ITV Osona (B04), Vic · 9,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 10,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 85,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082439&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

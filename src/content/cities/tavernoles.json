@@ -3,11 +3,11 @@
   "name": "Tavèrnoles",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 312,
+  "population": 354,
   "lat": 41.9581,
   "lng": 2.354,
   "metaTitle": "Taller BMW en Tavèrnoles | Tranquilidad Rural, Servicio Pro",
-  "metaDescription": "Taller BMW cerca de Tavèrnoles. Mantenimiento para masías y vida rural en Osona. Diagnóstico profesional, recogida a domicilio y precios competitivos.",
+  "metaDescription": "BMW en Tavèrnoles: ITV y servicio oficial en Vic, a menos de 10 km, y el taller especialista de la red en Sant Joan Despí, a 89,2 km. Cuándo compensa.",
   "heroSubtitle": "La vida tranquila de Tavèrnoles merece un BMW siempre a punto. Servicio técnico con recogida a domicilio y sin desplazamientos.",
   "trustChips": [
     {
@@ -180,5 +180,120 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Tavèrnoles: ITV y servicio oficial BMW en Vic, taller especialista a 89 km",
+    "entradilla": "Para un BMW o un MINI de Tavèrnoles, casi todo lo cotidiano se resuelve en Vic. El taller especialista de la red queda mucho más abajo, en Sant Joan Despí; aquí explicamos cuándo merece la pena ese viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 89.2
+    },
+    "secciones": [
+      {
+        "id": "vic-al-lado",
+        "h2": "Vic, la referencia para la inspección y para la marca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic: 6 km desde el núcleo urbano de Tavèrnoles. En la misma ciudad está el punto de servicio oficial que da el localizador de bmw.es, Quadis Munich, en la calle Perot Rocaguinarda 1, a 9,8 km.",
+          "Para la inspección o una campaña de revisión que convoque BMW, no tiene sentido bajar a Barcelona."
+        ]
+      },
+      {
+        "id": "c25-c17-b20",
+        "h2": "De la C-25 a la B-20: 89,2 km hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta que calcula OpenStreetMap sale por la BV-5213, toma la C-25 —cuyo trazado pasa a unos 3 km del pueblo—, baja por la C-17 y la C-33 y termina en la B-20, junto a la nave del carrer del Tambor del Bruc. En total, 89,2 km por carretera para 69,3 en línea recta.",
+          "Es un viaje para algo concreto: una avería electrónica que nadie en la comarca ha cerrado, un diésel con problemas en la recirculación de gases o un segundo diagnóstico antes de aceptar un cambio de motor.",
+          "Tavèrnoles no forma parte del área metropolitana de Barcelona, de modo que la recogida del coche que ofrece el taller no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "pueblo-y-coches",
+        "h2": "354 vecinos y 242 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Tavèrnoles 354 habitantes, frente a 319 en 2015 (un 11 % más). Idescat, con datos de la DGT, contaba 242 turismos en 2024: 684 por cada 1.000 vecinos. En un término de 18,78 km² con el casco a 537 metros, sin coche se hace poco.",
+          "Un coche que hace a diario los kilómetros justos hasta Vic sufre arranques en frío y una batería que casi nunca termina de cargarse; en los BMW con arranque y parada automático, es lo primero que conviene revisar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Tavèrnoles?",
+        "a": "En ITV Osona (B04), en Vic, a 6 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 9,8 km según bmw.es."
+      },
+      {
+        "q": "¿Hay recogida del coche en Tavèrnoles?",
+        "a": "No. Ese servicio se limita al área metropolitana de Barcelona y, además, está sujeto a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "354 habitantes (+11 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082750&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "242 · 684 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082750&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "ITV Osona (B04), Vic · 6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 9,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 89,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082750&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

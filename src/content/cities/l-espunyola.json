@@ -3,11 +3,11 @@
   "name": "l'Espunyola",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 255,
+  "population": 260,
   "lat": 42.0417,
   "lng": 1.7529,
   "metaTitle": "Taller BMW en l'Espunyola | Servicio a Domicilio Rural BMW",
-  "metaDescription": "Servicio BMW especializado para l'Espunyola y masías del Berguedà. Recogida a domicilio, diagnóstico profesional y mantenimiento adaptado al entorno rural. Llámanos.",
+  "metaDescription": "L'Espunyola: ITV en Berga a 8,9 km, servicio oficial en Sant Fruitós de Bages y taller especialista BMW a 112,4 km. Un BMW a 803 metros.",
   "heroSubtitle": "Vivir en una masía no significa renunciar a un servicio BMW de primer nivel. Llegamos hasta tu puerta en l'Espunyola.",
   "trustChips": [
     {
@@ -189,5 +189,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "L'Espunyola: un BMW a 803 metros, con la ITV a 8,9 km y el taller a 112,4",
+    "entradilla": "En l'Espunyola hay casi ocho turismos por cada diez vecinos, una proporción que casi triplica la de Barcelona ciudad (281 por cada 1.000). La ITV de Berga queda cerca; nuestro taller, en Sant Joan Despí, bastante lejos.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 112.4
+    },
+    "secciones": [
+      {
+        "id": "coche-imprescindible",
+        "h2": "203 turismos para 260 vecinos",
+        "parrafos": [
+          "Idescat, a partir de la DGT, contaba 203 turismos en l'Espunyola en 2024; el padrón de 2025 da 260 habitantes, ocho más que en 2015, cuando eran 252. Son 781 turismos por cada 1.000 vecinos en un término de 35,46 km²: sin coche no se llega a casi nada."
+        ]
+      },
+      {
+        "id": "803-metros",
+        "h2": "Por encima de los 800 metros",
+        "parrafos": [
+          "El núcleo está a 803 metros según Idescat. En invierno, lo primero que acusa el frío en un BMW moderno es la batería: entre el arranque y parada, la calefacción de asientos y lunas y la electrónica, la demanda es alta, y una batería al final de su vida avisa poco. Cuando se cambia, hay que registrarla en la centralita para que el alternador la cargue como corresponde.",
+          "El anticongelante se comprueba por concentración, no solo por nivel. Y si el diésel tarda en arrancar las mañanas frías, los calentadores son los primeros sospechosos."
+        ]
+      },
+      {
+        "id": "c26-berga",
+        "h2": "La C-26 lleva a Berga y a la C-16",
+        "parrafos": [
+          "La C-26 pasa a menos de tres kilómetros del pueblo y es el inicio de la ruta al taller: C-26 hasta la C-16 y después la B-20, 112,4 km por carretera (80,1 en línea recta) hasta Sant Joan Despí. Por el camino queda Berga, con la estación de ITV (B13) del polígono La Valldan a 8,9 km, la más próxima por carretera en el registro de la Generalitat.",
+          "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 51,2 km. Nuestro taller compensa cuando se trata de una avería que no se ha resuelto en el Berguedà; para la rutina, no. Y la recogida del taller no llega a l'Espunyola: se limita al área metropolitana."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Berga (B13), en el polígono La Valldan, a 8,9 km por carretera."
+      },
+      {
+        "q": "¿Qué conviene revisar antes del invierno?",
+        "a": "La batería, la concentración del anticongelante y, en los diésel, los calentadores. Si cambias la batería, hay que registrarla en el coche."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 112,4 km, en Sant Joan Despí, por la C-26, la C-16 y la B-20."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "260 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080787&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "803 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080787&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "203 · 781 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080787&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 8,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 51,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 112,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080787&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

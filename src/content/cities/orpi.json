@@ -3,11 +3,11 @@
   "name": "Orpí",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 160,
+  "population": 175,
   "lat": 41.5281,
   "lng": 1.57848,
   "metaTitle": "Taller BMW cerca de Orpí | Especialistas en l'Anoia",
-  "metaDescription": "Diagnóstico y reparación BMW para Orpí y la comarca de l'Anoia. Recogida disponible, presupuesto cerrado y garantía por escrito. Pide cita.",
+  "metaDescription": "Orpí: ITV en Igualada a 18,3 km, servicio oficial BMW en Sant Fruitós de Bages a 50,5 km y taller especialista a 64,3 km por la A-2.",
   "heroSubtitle": "Mecánica BMW especializada para los vecinos de Orpí, en plena Anoia.",
   "trustChips": [
     {
@@ -162,5 +162,118 @@
   "zoneAccessRoutes": [
     "C-15 hacia Igualada",
     "BV-2136"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Orpí: un 25,9 % más de vecinos y un BMW a 64,3 km del taller especialista",
+    "entradilla": "De 139 a 175 vecinos en diez años. Orpí está a 6,7 km de Igualada en línea recta, tiene la C-37 a menos de tres kilómetros y nuestro taller de Sant Joan Despí queda a 64,3 km, no mucho más lejos que el servicio oficial BMW.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 64.3
+    },
+    "secciones": [
+      {
+        "id": "oficial-o-especialista",
+        "h2": "Servicio oficial a 50,5 km, especialista a 64,3",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es está en Sant Fruitós de Bages: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 50,5 km. Dasercars Barcelona, en Sant Joan Despí, está a 64,3 km por la BV-2132, la BV-2131, la C-244 y la A-2 (44,1 km en línea recta).",
+          "Con distancias tan parecidas, la elección no es de kilómetros. Para el mantenimiento y las averías fuera de garantía, un taller independiente especializado hace el trabajo siguiendo el plan de BMW; el presupuesto se entrega por escrito y nada empieza sin tu aprobación."
+        ]
+      },
+      {
+        "id": "itv-igualada-orpi",
+        "h2": "La ITV, en Igualada: 18,3 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Igualada (B12), en el polígono Les Comes, carrer dels Països Baixos 18, a 18,3 km. Orpí está fuera del área metropolitana de Barcelona, y la recogida del taller no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "orpi-en-cifras",
+        "h2": "175 vecinos y 100 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Orpí 175 habitantes, un 25,9 % más que en 2015. Idescat, a partir de la DGT, contaba 100 turismos en 2024: 571 por cada 1.000 vecinos. El término mide 15,23 km² y el núcleo está a 375 metros.",
+          "Hasta la A-2 se va por carreteras comarcales con curvas y bajadas. Si el volante vibra al frenar en ellas, lo habitual es que los discos se hayan deformado por calor; y un chirrido metálico suele ser el testigo de desgaste de las pastillas, que en los BMW además avisa en el cuadro."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué me queda más cerca, el servicio oficial o vuestro taller?",
+        "a": "El oficial, en Sant Fruitós de Bages, a 50,5 km; nuestro taller, en Sant Joan Despí, a 64,3 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV si vivo en Orpí?",
+        "a": "En Igualada (B12), a 18,3 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Recogéis el coche en Orpí?",
+        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "175 habitantes (+25,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081521&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "100 · 571 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081521&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 18,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 50,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 64,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081521&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

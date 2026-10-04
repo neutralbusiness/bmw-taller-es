@@ -3,7 +3,7 @@
   "name": "Calonge de Segarra",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 201,
+  "population": 179,
   "lat": 41.7569,
   "lng": 1.4832,
   "metaTitle": "Taller BMW en Calonge de Segarra | Frontera Anoia-Segarra",
@@ -183,5 +183,124 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Calonge de Segarra: un BMW a 33 km de la ITV y a 83,8 del taller especialista",
+    "entradilla": "En Calonge de Segarra hay 179 vecinos y 131 turismos. Todo lo que tiene que ver con el coche queda a más de treinta kilómetros: la ITV en Igualada, el servicio oficial en Tàrrega y nuestro taller, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 83.8
+    },
+    "secciones": [
+      {
+        "id": "lejos-de-todo",
+        "h2": "Ninguna gestión a menos de treinta kilómetros",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Igualada (B12), en el polígono Les Comes, a 33,1 km. El servicio oficial BMW más cercano según bmw.es es Unicars Ponent, en Tàrrega, a 37,8 km. Y el taller de la red, Dasercars Barcelona, a 83,8 km por la C-1412a y la A-2 (65 km en línea recta).",
+          "Con esas distancias, cada viaje cuenta. Si el coche tiene que bajar al taller por una avería, aprovecha para hacer allí la pre-ITV y pasa la inspección en Igualada a la vuelta: queda en la misma ruta."
+        ]
+      },
+      {
+        "id": "c25-c1412a",
+        "h2": "La C-25 y la C-1412a, a menos de tres kilómetros",
+        "parrafos": [
+          "Dos carreteras pasan cerca del pueblo: la C-1412a, que es la de la ruta hacia la A-2, y la C-25. Cuando un coche hace más carretera abierta que ciudad, lo que más se desgasta son neumáticos y amortiguadores, y el frontal recibe gravilla. En los motores con muchos kilómetros, además, conviene mirar el nivel de aceite entre revisiones y no fiarlo todo al aviso del cuadro."
+        ]
+      },
+      {
+        "id": "calonge-pierde",
+        "h2": "Un 9,1 % menos de vecinos",
+        "parrafos": [
+          "El padrón pasó de 197 habitantes en 2015 a 179 en 2025. El término, de 37,15 km², tiene 5 habitantes por km², y el núcleo está a 688 metros. Idescat, con datos de la DGT, registraba 131 turismos en 2024: 732 por cada 1.000 vecinos, más del doble que en Barcelona ciudad (281)."
+        ]
+      },
+      {
+        "id": "antes-de-bajar",
+        "h2": "Antes de bajar, el presupuesto",
+        "parrafos": [
+          "Desde aquí no tiene sentido llevar el coche a ciegas. En Dasercars la diagnosis se presupuesta antes de empezar, el trabajo se presupuesta por escrito y no se toca nada sin tu visto bueno. La recogida del taller no llega a Calonge: solo cubre el área metropolitana de Barcelona."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Calonge de Segarra?",
+        "a": "En Igualada (B12), a 33,1 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Unicars Ponent, en Tàrrega, a 37,8 km según bmw.es."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 83,8 km por la C-1412a y la A-2, en Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "179 habitantes (−9,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080364&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "131 · 732 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080364&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 33,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Unicars Ponent (Tàrrega) · 37,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 83,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080364&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

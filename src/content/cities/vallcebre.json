@@ -3,11 +3,11 @@
   "name": "Vallcebre",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 274,
+  "population": 260,
   "lat": 42.2157,
   "lng": 1.8171,
   "metaTitle": "Taller BMW en Vallcebre | Servicio BMW Montaña Berguedà",
-  "metaDescription": "Servicio técnico BMW en Vallcebre, pueblo de montaña del Berguedà. Suspensión, motor diésel y electrónica BMW para carreteras sinuosas y clima extremo. Presupuesto gratis.",
+  "metaDescription": "Vallcebre, a 1.123 metros: qué revisar en tu BMW, ITV en Berga a 28,7 km y taller especialista de la red a 127,9 km en Sant Joan Despí.",
   "heroSubtitle": "En Vallcebre, donde la carretera serpentea entre dinosaurios de piedra y bosques de pino, tu BMW necesita un especialista que conozca cada curva.",
   "trustChips": [
     {
@@ -189,5 +189,131 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vallcebre, a 1.123 metros: lo que pide un BMW en la montaña del Berguedà",
+    "entradilla": "El núcleo de Vallcebre está a 1.123 metros y el taller especialista de la red, a 127,9 km. Con esas dos cifras, esta página va de lo que puedes prevenir aquí arriba y de cuándo tiene sentido bajar hasta Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 127.9
+    },
+    "secciones": [
+      {
+        "id": "frio-y-bajadas",
+        "h2": "Frío y bajadas largas",
+        "parrafos": [
+          "A más de mil metros, las heladas forman parte del invierno. Las comprobaciones que más rinden antes de que lleguen: batería (en un BMW, la nueva se registra en la centralita), anticongelante con la mezcla adecuada y neumáticos con dibujo suficiente.",
+          "Para salir del pueblo hacia la C-16 se baja por la B-400 y la B-401, carreteras de montaña con desnivel. En un descenso largo los frenos se calientan, y un líquido viejo, cargado de humedad, hierve antes: el pedal se vuelve esponjoso justo cuando más falta hace. Bajar con una marcha corta alivia discos y pastillas."
+        ]
+      },
+      {
+        "id": "berga-28-km",
+        "h2": "ITV en Berga, a 28,7 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Berga (B13), en el polígono La Valldan, a 28,7 km. El servicio oficial BMW más cercano según bmw.es está más abajo, en Sant Fruitós de Bages: Quadis Munich, en la carretera de Manresa a Berga, km 34,5, a 66,7 km."
+        ]
+      },
+      {
+        "id": "bajar-a-barcelona",
+        "h2": "127,9 km hasta el taller: solo para lo que lo merece",
+        "parrafos": [
+          "La ruta completa va por la B-401, la B-400, la C-16 y la B-20: 127,9 km por carretera y 95,4 en línea recta hasta el carrer del Tambor del Bruc. Es demasiado para una revisión; tiene sentido cuando el BMW arrastra una avería que no se ha resuelto en la comarca y necesita diagnosis específica de la marca.",
+          "En esos casos, lo que más ahorra es una llamada previa con el modelo, el año y el síntoma: cuándo aparece y qué testigos se encienden. La recogida del taller no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "vallcebre-en-cifras",
+        "h2": "260 vecinos y 187 turismos",
+        "parrafos": [
+          "El padrón da 260 habitantes en 2025 (255 en 2015). Idescat, con datos de la DGT, contaba 187 turismos en 2024: 719 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Vallcebre?",
+        "a": "En Berga (B13), a 28,7 km por carretera."
+      },
+      {
+        "q": "¿Por qué se cambia el líquido de frenos aunque el coche haga pocos kilómetros?",
+        "a": "Porque absorbe humedad con el tiempo y pierde eficacia cuando se calienta en bajadas largas; el plan de mantenimiento lo cambia por fecha."
+      },
+      {
+        "q": "¿Tenéis taller en el Berguedà?",
+        "a": "No. El de la red más cercano está en Sant Joan Despí, a 127,9 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "260 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082938&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "1.123 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082938&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "187 · 719 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082938&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 28,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Sant Fruitós de Bages) · 66,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 127,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082938&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "Sant Julià de Cerdanyola",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 257,
+  "population": 234,
   "lat": 42.2251,
   "lng": 1.8936,
   "metaTitle": "Taller BMW en Sant Julià de Cerdanyola | Expertos en Alta Montaña",
@@ -185,5 +185,121 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Julià de Cerdanyola: tu BMW junto a la C-16, a 123,9 km del taller",
+    "entradilla": "La C-16 pasa a menos de tres kilómetros de Sant Julià de Cerdanyola y es la carretera que lleva, casi sin desvíos, hasta nuestro taller de Sant Joan Despí. Son 123,9 km: aquí tienes qué conviene hacer cerca y qué justifica el viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 123.9
+    },
+    "secciones": [
+      {
+        "id": "c16-directa",
+        "h2": "Por la BV-4021 y la C-16",
+        "parrafos": [
+          "La ruta sale por la BV-4021, enlaza con la C-16 y la sigue hasta la B-20: 123,9 km por carretera para 96,6 en línea recta. Además de la C-16, a menos de tres kilómetros del pueblo pasan la B-400 y la B-402.",
+          "Con esa distancia, el viaje se reserva para lo específico de BMW: una avería electrónica sin diagnosticar, un problema de inyección o de turbo en un diésel, o una reparación grande que quieres que vea un especialista antes de decidir. Para la rutina, mejor un taller del Berguedà. Tampoco hay recogida: el taller solo la ofrece dentro del área metropolitana de Barcelona, que queda fuera de alcance desde aquí."
+        ]
+      },
+      {
+        "id": "itv-berga-c16",
+        "h2": "La ITV, a 24,6 km en Berga",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Berga (B13), en el polígono La Valldan, a 24,6 km bajando por la C-16.",
+          "Si el coche tiene más de diez años y pasa inspección cada año, repasar antes luces, frenos y emisiones evita tener que repetir el viaje."
+        ]
+      },
+      {
+        "id": "954-metros",
+        "h2": "A 954 metros de altitud",
+        "parrafos": [
+          "El núcleo está a 954 metros según Idescat, y a esa altura el invierno es largo. Un BMW que duerme en la calle agradece una batería en buen estado y bien registrada, un refrigerante con la proporción correcta y, si es diésel, unos calentadores que funcionen. En las bajadas de la C-16 hacia Berga, mejor con el líquido de frenos al día."
+        ]
+      },
+      {
+        "id": "sant-julia-en-cifras",
+        "h2": "234 vecinos y 142 turismos",
+        "parrafos": [
+          "El padrón contaba 242 habitantes en 2015 y 234 en 2025, un 3,3 % menos, en un término de 11,79 km². Idescat registraba 142 turismos en 2024 a partir de la DGT: 607 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay algún taller vuestro cerca de Sant Julià?",
+        "a": "No. El más cercano de la red está en Sant Joan Despí, a 123,9 km por la C-16."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En Berga (B13), a 24,6 km: es la estación más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Trabajáis también MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "234 habitantes (−3,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Berguedà",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089030&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "954 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089030&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "142 · 607 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089030&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Berga (B13) · 24,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 123,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=089030&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
