@@ -3,11 +3,11 @@
   "name": "Nuevo Baztán",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 6239,
+  "population": 7429,
   "lat": 40.37525,
   "lng": -3.24755,
   "metaTitle": "Taller BMW en Nuevo Baztán | Mecánica especializada Sureste",
-  "metaDescription": "Diagnóstico y reparación BMW en Nuevo Baztán y el Sureste de Madrid. Presupuesto cerrado, recambio de calidad y garantía por escrito. Solicita cita.",
+  "metaDescription": "Nuevo Baztán, a 838 m: batería, precalentamiento y anticongelante en un BMW. ITV y servicio oficial en Alcalá; taller especialista en Alcobendas, a 49,4 km.",
   "heroSubtitle": "El taller BMW de confianza para Nuevo Baztán, entre el barroco de Goyeneche y la carretera hacia Madrid.",
   "trustChips": [
     {
@@ -169,5 +169,125 @@
     "A-3",
     "M-224",
     "R-3"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Nuevo Baztán, a 838 metros: invierno, batería y el taller BMW de Alcobendas",
+    "entradilla": "A 838 metros de altitud y con 653 turismos por cada mil vecinos, en Nuevo Baztán el coche trabaja en frío buena parte del año. Lo que conviene vigilar y dónde tienes cada servicio.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 49.4
+    },
+    "secciones": [
+      {
+        "id": "frio-838",
+        "h2": "Lo que el frío pide a un BMW",
+        "parrafos": [
+          "Las mañanas de helada son las que descubren una batería cansada. En un BMW reciente, además, cambiarla no es solo montar otra: hay que registrarla para que la gestión de carga sepa qué capacidad tiene. Sin ese paso, el alternador la carga mal y se acorta su vida.",
+          "En los diésel, las bujías de precalentamiento son la otra pieza que avisa con el frío: un arranque largo o humo blanco al encender suelen ser el primer síntoma. Y el anticongelante se comprueba por concentración, no solo mirando el nivel del depósito."
+        ]
+      },
+      {
+        "id": "todo-en-alcala",
+        "h2": "ITV y servicio oficial, en Alcalá de Henares",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena de Alcalá, a 17,6 km según la Comunidad de Madrid. El servicio oficial BMW más cercano en bmw.es también está en Alcalá: AutoPremier, en la Vía Complutense 131, a 21,4 km."
+        ]
+      },
+      {
+        "id": "m100-r2-nuevo-baztan",
+        "h2": "Hacia Alcobendas por la M-100 y la R-2",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 sale por la M-204 y la M-300, sigue por la M-100 y enlaza con la R-2 y la M-50: 49,4 km por carretera, 38,3 en línea recta. No hay ninguna vía principal a menos de tres kilómetros del centro, así que el primer tramo es siempre secundario.",
+          "Si el trabajo es de varios días, pregunta por el vehículo de cortesía y confirma si la recogida del área metropolitana llega a tu calle; ambos dependen de disponibilidad."
+        ]
+      },
+      {
+        "id": "nuevo-baztan-crece",
+        "h2": "Un 21,8 % más de vecinos que en 2015",
+        "parrafos": [
+          "El padrón pasó de 6.098 habitantes en 2015 a 7.429 en 2025. La Comunidad de Madrid, con datos de la DGT, contaba 4.853 turismos en 2025: 653 por cada mil vecinos, frente a 388 en Madrid capital."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Nuevo Baztán?",
+        "a": "La estación oficial más próxima es la de TÜV SÜD ATISAE en la avenida Juan Carlos I de Alcalá de Henares, a 17,6 km."
+      },
+      {
+        "q": "¿Por qué hay que registrar la batería nueva?",
+        "a": "Porque la gestión de carga del BMW trabaja con la capacidad registrada; si no se actualiza, la batería nueva se carga mal."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 49,4 km por carretera, en la calle Valgrande 17 de Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "7.429 habitantes (+21,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "838 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "4.853 · 653 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "TÜV SÜD ATISAE, Alcalá de Henares · 17,6 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Vía Complutense 131 · 21,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 49,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

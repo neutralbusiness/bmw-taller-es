@@ -3,11 +3,11 @@
   "name": "Santa Coloma de Cervelló",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 7964,
+  "population": 8273,
   "lat": 41.36718,
   "lng": 2.02121,
   "metaTitle": "Taller especializado BMW en Santa Coloma de Cervelló — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Santa Coloma de Cervelló? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "Taller independiente especializado en BMW y MINI a 9,1 km de Santa Coloma de Cervelló, en Sant Joan Despí. Recogida en el área metropolitana, sujeta a disponibilidad.",
   "heroSubtitle": "Taller especialista BMW para Santa Coloma de Cervelló y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -180,5 +180,133 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Santa Coloma de Cervelló: el taller especialista, a 3 km en línea recta",
+    "entradilla": "Pocas páginas de la red pueden decir esto: desde Santa Coloma de Cervelló, la nave de Dasercars Barcelona queda a 3 km en línea recta. Lo que hay que saber para usarla bien.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 9.1
+    },
+    "secciones": [
+      {
+        "id": "cruzar-el-rio",
+        "h2": "Nueve kilómetros por carretera, tres a vuelo de pájaro",
+        "parrafos": [
+          "El taller está en el carrer del Tambor del Bruc 3, en Sant Joan Despí. La distancia en línea recta es de 3 km, pero por carretera sube a 9,1: la ruta más corta da la vuelta por la A-2.",
+          "Con la BV-2002 a medio kilómetro del centro y la A-2 y la B-23 a menos de un kilómetro y medio, no hace falta atravesar ningún casco urbano para llegar."
+        ]
+      },
+      {
+        "id": "recogida-amb",
+        "h2": "Dentro del área metropolitana: recogida y coche de cortesía",
+        "parrafos": [
+          "Santa Coloma de Cervelló es uno de los 36 municipios del Área Metropolitana de Barcelona. Eso le da acceso a la recogida y entrega del coche y al vehículo de cortesía que el taller ofrece dentro del área, ambos sujetos a disponibilidad: mejor pedirlos al reservar que la víspera."
+        ]
+      },
+      {
+        "id": "concesionario-sant-boi",
+        "h2": "El concesionario está en Sant Boi",
+        "parrafos": [
+          "El punto oficial BMW más próximo en el localizador de bmw.es es Barcelona Premium, en la carretera del Prat 15 de Sant Boi de Llobregat, a 6,8 km. Para una reparación cubierta por la garantía de BMW, es allí.",
+          "Para el mantenimiento periódico, no: el Reglamento (UE) 461/2010 protege tu derecho a revisar el coche fuera de la red oficial sin perder la garantía, mientras se respeten los intervalos y las especificaciones del fabricante."
+        ]
+      },
+      {
+        "id": "itv-sant-just",
+        "h2": "La ITV, en el polígono de Sant Just Desvern",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Just Desvern (B05), en la avinguda de la Riera 19-21, a 10,4 km. El municipio tenía 8.273 habitantes en 2025, en un término de solo 7,49 km², y 4.022 turismos en 2024 según Idescat a partir de la DGT: 486 por cada mil vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "9,1 km por carretera, por la A-2, hasta el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Santa Coloma de Cervelló?",
+        "a": "Sí, el municipio está en el Área Metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Sois el concesionario de Sant Boi?",
+        "a": "No. Ese es Barcelona Premium, servicio oficial BMW. Nosotros somos Dasercars, taller independiente especializado en BMW y MINI."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Sant Just Desvern (B05), a 10,4 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "8.273 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat (AMB)",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082444&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "4.022 · 486 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082444&lang=es"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 9,1 km (3 km en línea recta)",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Just Desvern (B05) · 10,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium (Sant Boi) · 6,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082444&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

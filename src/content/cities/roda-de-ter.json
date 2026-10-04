@@ -3,11 +3,11 @@
   "name": "Roda de Ter",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 6172,
+  "population": 6937,
   "lat": 41.98523,
   "lng": 2.3127,
   "metaTitle": "Taller especializado BMW en Roda de Ter — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Roda de Ter? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaDescription": "Roda de Ter: servicio oficial BMW e ITV en Vic; taller independiente especializado en BMW y MINI en Sant Joan Despí, a 91,3 km. Para qué compensa el viaje.",
   "heroSubtitle": "Taller especialista BMW para Roda de Ter y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -177,5 +177,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Roda de Ter: servicio oficial BMW a 9 km en Vic, especialista a 91 km",
+    "entradilla": "Con el servicio oficial y la ITV en Vic, a menos de diez kilómetros, el día a día de un BMW de Roda de Ter se resuelve en Osona. Nuestro taller está a 91,3 km: te explicamos para qué tiene sentido.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 91.3
+    },
+    "secciones": [
+      {
+        "id": "vic-al-lado",
+        "h2": "Vic lo tiene casi todo a mano",
+        "parrafos": [
+          "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, a 5,6 km. El servicio oficial BMW más cercano según bmw.es, Quadis Munich, está en el carrer Perot Rocaguinarda 1, también en Vic, a 9,3 km.",
+          "Con esas dos referencias tan cerca, nadie debería hacer 91 km para una revisión o una inspección."
+        ]
+      },
+      {
+        "id": "noventa-y-un-km",
+        "h2": "Cuándo sí: 91,3 km por la C-17",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc encadena la C-153, la C-25, la C-17, la C-33, la B-20 y la B-23. Es largo, y solo compensa para trabajos de especialista: una distribución que hace ruido en un diésel N47, un fallo del SCR con la cuenta atrás de AdBlue en el cuadro o una avería eléctrica que ya ha pasado por otros talleres.",
+          "Antes de que salgas, se presupuesta. Recibes el presupuesto por escrito y no se toca el coche sin tu conformidad, de modo que el viaje no es a ciegas."
+        ]
+      },
+      {
+        "id": "termino-pequeno",
+        "h2": "Un término de 2,23 km²",
+        "parrafos": [
+          "Roda de Ter es un municipio de término muy pequeño: 2,23 km² para 6.937 habitantes en 2025, lo que da una densidad de 3.111 habitantes por km². Aun así, Idescat contaba 3.908 turismos en 2024, 563 por cada mil vecinos: el doble que en Barcelona ciudad.",
+          "En un término tan pequeño, cualquier recorrido dentro del pueblo es corto. Un diésel que solo hace eso acumula hollín en el filtro de partículas; una salida por carretera de vez en cuando le ayuda a regenerar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en el carrer Perot Rocaguinarda 1 de Vic, a 9,3 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me corresponde?",
+        "a": "La más próxima por carretera es la de Osona (B04), en Vic, a 5,6 km."
+      },
+      {
+        "q": "¿Tenéis taller en Osona?",
+        "a": "No. El taller de la red está en Sant Joan Despí, a 91,3 km de Roda de Ter."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "6.937 habitantes (+13,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081831&lang=es"
+      },
+      {
+        "etiqueta": "Superficie",
+        "valor": "2,23 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081831&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "3.908 · 563 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081831&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 5,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Vic) · 9,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081831&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

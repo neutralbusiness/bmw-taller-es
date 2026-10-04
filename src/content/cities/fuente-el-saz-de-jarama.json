@@ -3,11 +3,11 @@
   "name": "Fuente el Saz de Jarama",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 6379,
+  "population": 7413,
   "lat": 40.63868,
   "lng": -3.52123,
   "metaTitle": "Taller BMW en Fuente el Saz de Jarama | Especialista ISTA",
-  "metaDescription": "Taller especialista BMW en Fuente el Saz. Diagnóstico ISTA para compra de segunda mano, revisiones y averías. Ahorra hasta un 50 % vs. concesionario. Pide presupuesto.",
+  "metaDescription": "Fuente el Saz de Jarama: taller independiente especializado en BMW y MINI en Alcobendas, a 24,4 km. Servicio oficial en Algete y estación ITV de referencia.",
   "heroSubtitle": "Acabas de comprar tu BMW de segunda mano y ahora empieza la duda. ¿Está tan bien como parece? Te lo decimos con un diagnóstico ISTA en Fuente el Saz.",
   "trustChips": [
     {
@@ -193,5 +193,123 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Fuente el Saz de Jarama: taller especialista BMW a 24 km, servicio oficial en Algete",
+    "entradilla": "Entre Algete y la A-1, Fuente el Saz queda a 24,4 km de nuestro taller de Alcobendas. Tienes el concesionario más cerca todavía, y conviene saber qué se hace en cada sitio.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 24.4
+    },
+    "secciones": [
+      {
+        "id": "m111-m100-a1",
+        "h2": "Por la M-111, la M-100 y la A-1",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande 17 de Alcobendas usa la M-111, la M-100 y la A-1: 24,4 km por carretera, 14,5 en línea recta. La M-111 pasa a 2,1 km del centro, así que la salida es directa.",
+          "A esta distancia, la recogida y entrega del coche dentro del área metropolitana de Madrid puede ser una opción; está sujeta a disponibilidad y conviene confirmarla al pedir cita."
+        ]
+      },
+      {
+        "id": "bymycar-algete",
+        "h2": "El servicio oficial, a 8,6 km en Algete",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo es BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete km 3, a 8,6 km. Es donde se tramitan las reparaciones en garantía que cubre BMW.",
+          "El mantenimiento es otra cosa. Revisarlo en un taller independiente no anula la garantía del fabricante mientras se sigan los intervalos y se usen piezas y aceites con la especificación correcta: lo garantiza el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "itv-nicasio-martin",
+        "h2": "Una estación ITV oficial en la avenida Nicasio Martín",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye la estación 2818, de ITV Barbastro, en la avenida Nicasio Martín 4, en el polígono industrial del sector 8. Si vas a pasar la inspección poco después de una visita al taller, pide la pre-ITV en esa misma cita."
+        ]
+      },
+      {
+        "id": "fuente-el-saz-parque",
+        "h2": "596 turismos por cada mil vecinos",
+        "parrafos": [
+          "Fuente el Saz tenía 7.413 habitantes en 2025, un 15,1 % más que en 2015. En 2025 había 4.418 turismos censados según la Comunidad de Madrid a partir de la DGT: 596 por cada mil habitantes, por encima de los 388 de Madrid capital, en un término de 33 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Algete?",
+        "a": "No. El servicio oficial de Algete es BYmyCAR Madrid. Nosotros somos Dasercars, taller independiente especializado en BMW y MINI, en Alcobendas."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "24,4 km por carretera, por la M-111, la M-100 y la A-1."
+      },
+      {
+        "q": "¿Pierdo la garantía si hago aquí las revisiones?",
+        "a": "No, si se respetan los intervalos y especificaciones del plan de mantenimiento de BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "7.413 habitantes (+15,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "4.418 · 596 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estación ITV",
+        "valor": "ITV Barbastro, av. Nicasio Martín 4 (estación 2818)",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Algete) · 8,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 24,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

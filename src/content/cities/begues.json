@@ -3,11 +3,11 @@
   "name": "Begues",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 6520,
+  "population": 7561,
   "lat": 41.3269,
   "lng": 1.89649,
   "metaTitle": "Taller BMW en Begues — Especialistas con diagnóstico ISTA",
-  "metaDescription": "Taller especialista BMW en Begues. Ahorra hasta un 50 % en revisiones CBS, cadena de distribución N47/B47 y electrónica. Pide tu presupuesto cerrado.",
+  "metaDescription": "Begues está en el área metropolitana: el taller especialista BMW de Sant Joan Despí, a 27,3 km, ofrece recogida sujeta a disponibilidad. ITV en Viladecans.",
   "heroSubtitle": "Te han dado un presupuesto desorbitado por la cadena o el turbo de tu BMW en el concesionario? En Begues hay una alternativa honesta.",
   "trustChips": [
     {
@@ -192,5 +192,125 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Begues: sin autovía cerca, pero con recogida del taller BMW a 27 km",
+    "entradilla": "Begues pertenece al Área Metropolitana de Barcelona aunque ninguna autovía pase cerca del pueblo. Eso tiene una ventaja práctica: el taller de Sant Joan Despí puede recoger el coche, sujeto a disponibilidad.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 27.3
+    },
+    "secciones": [
+      {
+        "id": "bv-2041",
+        "h2": "Primero la BV-2041, luego la C-32",
+        "parrafos": [
+          "En un radio de tres kilómetros desde el centro no hay ninguna carretera con referencia de red principal. Para salir, la ruta hasta Dasercars Barcelona toma la BV-2041, enlaza con la C-32 y termina por la B-25: 27,3 km por carretera, 14,2 en línea recta.",
+          "Es un pueblo a 399 metros, y la bajada hacia el llano se hace con el freno trabajando. El líquido de frenos absorbe humedad con el tiempo y pierde capacidad aunque el coche haga pocos kilómetros: el plan de BMW lo cambia por fecha, y conviene no saltárselo."
+        ]
+      },
+      {
+        "id": "recogida-begues",
+        "h2": "Recogida dentro del área metropolitana",
+        "parrafos": [
+          "Al ser uno de los 36 municipios del AMB, Begues entra en la zona donde el taller ofrece recogida y entrega del coche y vehículo de cortesía. Las dos cosas están sujetas a disponibilidad, así que lo razonable es pedirlas al reservar.",
+          "El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; sábados y domingos está cerrado."
+        ]
+      },
+      {
+        "id": "itv-y-oficial",
+        "h2": "ITV en Viladecans, concesionario en Sant Boi",
+        "parrafos": [
+          "La estación más próxima por carretera según la Generalitat es la de Viladecans (B07), en el carrer Jocelyn Bell 16, a 18,9 km. El servicio oficial BMW más cercano, Barcelona Premium, está en la carretera del Prat 15 de Sant Boi de Llobregat, a 23,5 km según bmw.es."
+        ]
+      },
+      {
+        "id": "begues-en-cifras",
+        "h2": "Un término de 50 km² para 7.561 vecinos",
+        "parrafos": [
+          "Begues tenía 7.561 habitantes en 2025, un 13,4 % más que en 2015, repartidos en 50,44 km². Idescat contaba 3.747 turismos en 2024: 496 por cada mil vecinos. Con tanta superficie y sin vía rápida a mano, casi todos los desplazamientos empiezan con unos kilómetros de carretera secundaria."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Llega la recogida del taller hasta Begues?",
+        "a": "Sí, Begues está en el Área Metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Cuánto hay hasta Sant Joan Despí?",
+        "a": "27,3 km por carretera, por la BV-2041, la C-32 y la B-25."
+      },
+      {
+        "q": "¿Por qué el líquido de frenos se cambia por tiempo?",
+        "a": "Porque absorbe humedad aunque el coche no se mueva, y con ella baja su punto de ebullición."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "7.561 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat (AMB)",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080207&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "3.747 · 496 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080207&lang=es"
+      },
+      {
+        "etiqueta": "Superficie",
+        "valor": "50,44 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080207&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecans (B07) · 18,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 27,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080207&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
