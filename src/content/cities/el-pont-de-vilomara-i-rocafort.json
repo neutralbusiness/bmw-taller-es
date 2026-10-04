@@ -3,11 +3,11 @@
   "name": "el Pont de Vilomara i Rocafort",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 3775,
+  "population": 4193,
   "lat": 41.70726,
   "lng": 1.90889,
   "metaTitle": "Taller BMW en El Pont de Vilomara i Rocafort | Bages",
-  "metaDescription": "Taller BMW especializado en El Pont de Vilomara i Rocafort, comarca del Bages. Diagnosis oficial, turbo, caja automática y frenos. Presupuesto sin compromiso.",
+  "metaDescription": "BMW en el Pont de Vilomara i Rocafort: ITV en Manresa a 9,1 km, servicio oficial en Sant Fruitós y taller especialista a 63,3 km.",
   "heroSubtitle": "Taller BMW junto al Llobregat, para El Pont de Vilomara i Rocafort y el Bages",
   "trustChips": [
     {
@@ -174,5 +174,125 @@
     "C-55 hacia Manresa",
     "C-16 hacia Terrassa",
     "BV-1224 como acceso local"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "El Pont de Vilomara i Rocafort: ITV a 9 km en Manresa, taller BMW a 63",
+    "entradilla": "Con Manresa a 7,4 km en línea recta, el Pont de Vilomara i Rocafort tiene cerca la ITV y el concesionario del Bages. El taller especialista de la red, en cambio, queda a 63,3 km. Así encaja cada cosa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 63.3
+    },
+    "secciones": [
+      {
+        "id": "itv-bufalvent",
+        "h2": "La ITV de Manresa, a 9,1 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Manresa (B06), de TÜV Rheinland, en el carrer Esteve Terrades del polígono Bufalvent, a 9,1 km. Para una inspección no tiene sentido ir más lejos."
+        ]
+      },
+      {
+        "id": "quadis-sant-fruitos",
+        "h2": "El servicio oficial, a 15,2 km en Sant Fruitós",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más cercano es Quadis Munich, en la carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages, a 15,2 km. Allí van las reparaciones en garantía de BMW.",
+          "Nosotros somos un taller independiente especializado en BMW y MINI. Encajamos cuando quieres una alternativa al concesionario para mantenimiento y averías, o cuando un problema concreto de la marca no se ha resuelto en la comarca."
+        ]
+      },
+      {
+        "id": "bv1224-c16",
+        "h2": "Por la BV-1224 y la C-16 hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona sale por la BV-1224 hasta la C-16 y sigue por la B-30, la AP-7 y la B-23: 63,3 km por carretera, 39,8 en línea recta.",
+          "El municipio no está en el área metropolitana de Barcelona y la recogida del taller no llega aquí. Con 63 km por delante, lo que más ahorra es contar bien el problema por teléfono: síntomas, cuándo aparecen y si hay algún testigo encendido."
+        ]
+      },
+      {
+        "id": "pont-en-cifras",
+        "h2": "Un 12,9 % más de vecinos en diez años",
+        "parrafos": [
+          "El padrón pasó de 3.715 habitantes en 2015 a 4.193 en 2025, en un término de 27,41 km² a 202 metros de altitud. Idescat contaba 2.226 turismos en 2024 a partir de la DGT: 531 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Manresa (B06), en el polígono Bufalvent, a 9,1 km: es la más próxima por carretera en el registro de la Generalitat."
+      },
+      {
+        "q": "¿A cuánto queda vuestro taller?",
+        "a": "A 63,3 km por carretera, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Reparáis también MINI?",
+        "a": "Sí. Comparten electrónica y motores con BMW y se trabajan con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "4.193 habitantes (+12,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081825&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "2.226 · 531 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081825&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Manresa (B06) · 9,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 15,2 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 63,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081825&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
