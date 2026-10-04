@@ -3,11 +3,11 @@
   "name": "Cabrera d'Anoia",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1376,
+  "population": 1772,
   "lat": 41.49068,
   "lng": 1.72016,
   "metaTitle": "Taller BMW en Cabrera d'Anoia | Comarca de l'Anoia",
-  "metaDescription": "Taller especializado BMW cerca de Cabrera d'Anoia. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de Piera e Igualada.",
+  "metaDescription": "BMW en Cabrera d'Anoia: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista independiente en Sant Joan Despí, a 48,1 km.",
   "heroSubtitle": "El taller BMW de confianza entre viñas y masías, a un paso de Piera e Igualada.",
   "trustChips": [
     {
@@ -170,5 +170,119 @@
   "zoneAccessRoutes": [
     "C-15",
     "BV-2247"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Cabrera d'Anoia: un pueblo que crece y su BMW, a 48 km del taller especialista",
+    "entradilla": "Un 31,5 % más de vecinos en diez años: pocos municipios de la red han crecido tanto. Para quien tiene aquí un BMW o un MINI, lo útil es saber que la ITV y el concesionario quedan hacia el Penedès y el Garraf, y el taller de la red, en el Baix Llobregat.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 48.1
+    },
+    "secciones": [
+      {
+        "id": "de-1348-a-1772",
+        "h2": "De 1.348 a 1.772 habitantes",
+        "parrafos": [
+          "El padrón del INE contaba 1.348 vecinos en Cabrera d'Anoia en 2015 y 1.772 en 2025. En un término de 17 km², a 299 metros de altitud, eso son 104 habitantes por kilómetro cuadrado. Idescat, a partir de la DGT, registraba 983 turismos en 2024: 555 por cada 1.000 vecinos.",
+          "Más de un coche por cada dos personas es la norma en los pueblos del Anoia y del Penedès, donde casi cualquier gestión obliga a coger el coche. Lo que eso supone para un BMW es uso mixto: tramos cortos por carreteras locales y, de vez en cuando, autopista."
+        ]
+      },
+      {
+        "id": "hacia-el-baix-llobregat",
+        "h2": "Por la BV-2242 y la AP-7 hasta Sant Joan Despí",
+        "parrafos": [
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3. Desde Cabrera, la ruta enlaza la BV-2242 y la BV-2244, toma la AP-7 y termina por la B-23: 48,1 km por carretera, 31,8 en línea recta.",
+          "Cabrera no está entre los 36 municipios del Área Metropolitana de Barcelona, así que la recogida de coches del taller, que se limita a esa área, no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "itv-y-oficial-al-sur",
+        "h2": "La ITV y el servicio oficial, hacia el sur",
+        "parrafos": [
+          "Aunque el municipio es del Anoia, la estación más próxima por carretera en el registro de la Generalitat no es la de Igualada sino la de Olèrdola (B09), en la avinguda de l'Hostal Nou, a 24,1 km. El servicio oficial BMW más cercano según el localizador de bmw.es está todavía más al sur: Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 38,7 km.",
+          "Si el coche está en garantía y te llega una carta de la marca, esa cita es en Vilanova. Para una avería que no se ha resuelto o un diésel con problemas de filtro de partículas, el viaje al especialista tiene más sentido."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué ITV me toca desde Cabrera d'Anoia?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Olèrdola (B09), a 24,1 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en Vilanova i la Geltrú, a 38,7 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Cabrera?",
+        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona, y Cabrera queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.772 habitantes (+31,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080288&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "983 · 555 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080288&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 24,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 38,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 48,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080288&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

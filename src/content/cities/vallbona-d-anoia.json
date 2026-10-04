@@ -3,11 +3,11 @@
   "name": "Vallbona d'Anoia",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1432,
+  "population": 1424,
   "lat": 41.5308,
   "lng": 1.70912,
   "metaTitle": "Taller BMW cerca de Vallbona d'Anoia | Comarca de l'Anoia",
-  "metaDescription": "Servicio BMW para Vallbona d'Anoia: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "BMW en Vallbona d'Anoia: ITV en Igualada, servicio oficial en Terrassa y taller especialista de la red en Sant Joan Despí, a 47,5 km por la A-2.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Vallbona d'Anoia, en la comarca de l'Anoia.",
   "trustChips": [
     {
@@ -167,5 +167,119 @@
     "C-15",
     "N-II",
     "Carretera de Igualada"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Vallbona d'Anoia: tu BMW por la A-2 hasta el taller especialista, a 47,5 km",
+    "entradilla": "A diferencia de los pueblos del Penedès vecinos, desde Vallbona d'Anoia al taller se va por la A-2. La ITV está en Igualada y el servicio oficial BMW más próximo, en Terrassa, en una calle que se llama precisamente Anoia.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 47.5
+    },
+    "secciones": [
+      {
+        "id": "por-la-a2",
+        "h2": "B-224, B-231 y A-2",
+        "parrafos": [
+          "Desde el centro del núcleo urbano, la ruta hasta Dasercars Barcelona toma la B-224, enlaza con la B-231 y sigue por la A-2 hasta Sant Joan Despí: 47,5 km por carretera, 34,2 en línea recta. El taller está en el carrer del Tambor del Bruc 3, cerca de la salida.",
+          "Vallbona no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no llega hasta aquí."
+        ]
+      },
+      {
+        "id": "igualada-y-terrassa",
+        "h2": "La ITV en Igualada, el concesionario en Terrassa",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es ITV Igualada (B12), en el carrer Països Baixos 18, polígono industrial Les Comes, a 15,5 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 38 km.",
+          "Si te llega una llamada a revisión de BMW, la cita es en la red oficial. Para lo demás, el mantenimiento y las averías, la elección de taller es tuya."
+        ]
+      },
+      {
+        "id": "pueblo-compacto",
+        "h2": "Un pueblo compacto que no ha cambiado de tamaño",
+        "parrafos": [
+          "Vallbona d'Anoia tenía 1.417 habitantes en 2015 y 1.424 en 2025: un 0,5 % de variación, prácticamente estable. Su término es pequeño, 6,45 km², con 221 habitantes por kilómetro cuadrado, el doble que la vecina Cabrera d'Anoia (104). Idescat, con datos de la DGT, contaba 806 turismos en 2024: 566 por cada 1.000.",
+          "La B-224 y la C-15 pasan a menos de tres kilómetros. Un coche que hace a diario el trayecto corto hacia Capellades o Piera y solo de vez en cuando sale a la A-2 agradece revisiones a tiempo de batería, frenos y aceite."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por dónde se va a vuestro taller desde Vallbona?",
+        "a": "Por la B-224, la B-231 y la A-2: 47,5 km hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En ITV Igualada (B12), polígono Les Comes, a 15,5 km: la más próxima por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en el carrer Anoia 9 de Terrassa, a 38 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.424 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Anoia",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082922&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "806 · 566 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082922&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Igualada (B12) · 15,5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Terrassa · 38 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 47,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082922&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

@@ -3,11 +3,11 @@
   "name": "Titulcia",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 1304,
+  "population": 1389,
   "lat": 40.14833,
   "lng": -3.56103,
   "metaTitle": "Taller BMW en Titulcia | Especialistas en las Vegas de Madrid",
-  "metaDescription": "Taller BMW para Titulcia y la comarca de las Vegas. Diagnosis original, reparación de motor, turbo y transmisión ZF. Presupuesto claro y garantía escrita.",
+  "metaDescription": "BMW en Titulcia: ITV en Valdemoro, servicio oficial en Getafe y taller especialista independiente en Alcobendas, a 56,1 km por la A-4.",
   "heroSubtitle": "Mecánica BMW de confianza para los vecinos de Titulcia",
   "trustChips": [
     {
@@ -174,5 +174,120 @@
     "M-404 hacia Aranjuez",
     "Carretera M-311 de conexión comarcal",
     "Acceso desde Chinchón"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Titulcia: de las Vegas al norte de Madrid, 56 km hasta el taller especialista BMW",
+    "entradilla": "Desde Titulcia, el taller especialista BMW de la red queda en la otra punta de la región. Antes de cruzar Madrid por la A-4 y la M-30, conviene saber que la ITV la tienes en Valdemoro y el servicio oficial en Getafe.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 56.1
+    },
+    "secciones": [
+      {
+        "id": "cruzar-madrid",
+        "h2": "M-404, A-4, M-30 y A-1",
+        "parrafos": [
+          "La ruta desde el centro del núcleo urbano hasta Dasercars Madrid sale por la M-404, sube por la A-4, cruza por la M-30 y termina en la A-1: 56,1 km por carretera, 44,8 en línea recta, hasta la calle Valgrande 17 de Alcobendas.",
+          "Con esa distancia, la recogida del taller —limitada al área metropolitana de Madrid y sujeta a disponibilidad— no es algo con lo que contar. Llama con el modelo, el año y el síntoma y decide después si el viaje compensa."
+        ]
+      },
+      {
+        "id": "valdemoro-y-getafe",
+        "h2": "Valdemoro y Getafe, a mitad de camino",
+        "parrafos": [
+          "Para la inspección, el listado de la Comunidad de Madrid sitúa a 12 km por carretera la estación 2863, ITV Valdemoro, en la calle Vereda de la Solana 43-45 del polígono Las Canteras.",
+          "El servicio oficial BMW más próximo en el localizador de bmw.es es Vehinter, en la carretera de Madrid a Toledo, en Getafe, a 28,6 km. Para las campañas que convoque BMW, esa es la dirección."
+        ]
+      },
+      {
+        "id": "que-justifica",
+        "h2": "Qué justifica los 56 kilómetros",
+        "parrafos": [
+          "Una avería que otro taller no ha resuelto, un diésel N57 o B57 con pérdida de potencia, un problema de emisiones (el taller tiene homologación REDISTA) o el mantenimiento de un MINI con el mismo equipo de diagnosis que un BMW. Para frenos o neumáticos, mejor algo más cerca."
+        ]
+      },
+      {
+        "id": "titulcia-en-cifras",
+        "h2": "Un pueblo pequeño con un coche para casi cada dos vecinos",
+        "parrafos": [
+          "Son 1.389 personas empadronadas en 2025 —en 2015 eran 1.234— y 812 turismos censados ese mismo año según el Instituto de Estadística de la Comunidad de Madrid, que toma el dato de la DGT. Sale a 585 coches por cada millar de habitantes en apenas 10,1 km² de término.",
+          "Las dos carreteras que dan servicio al pueblo, la M-404 y la M-320, son también las que más kilómetros cortos acumulan en un coche de aquí: arranques en frío y poco tramo a régimen constante, justo lo contrario de lo que pide un diésel moderno."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Vivo en Titulcia, ¿qué estación de ITV me conviene?",
+        "a": "La oficial que queda más a mano por carretera es la de Valdemoro, en el polígono Las Canteras, a 12 km."
+      },
+      {
+        "q": "¿Hay concesionario BMW cerca de las Vegas?",
+        "a": "El punto oficial más próximo que da bmw.es es Vehinter, en Getafe, a 28,6 km de Titulcia."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que usamos para BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.389 habitantes (+12,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "812 · 585 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "Valdemoro, polígono Las Canteras · 12 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Getafe) · 28,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 56,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

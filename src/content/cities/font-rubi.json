@@ -3,11 +3,11 @@
   "name": "Font-rubí",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1437,
+  "population": 1441,
   "lat": 41.42068,
   "lng": 1.65004,
   "metaTitle": "Taller BMW en Font-rubí | Mecánica especializada Penedès",
-  "metaDescription": "Taller BMW en Font-rubí, Alt Penedès, zona vitivinícola. Diagnosis oficial, turbo, Valvetronic y caja automática. Presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "BMW en Font-rubí: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista independiente en Sant Joan Despí, a 55,6 km.",
   "heroSubtitle": "Taller BMW en Font-rubí, entre viñedos del Alt Penedès",
   "trustChips": [
     {
@@ -174,5 +174,123 @@
     "BP-2121 hacia Vilafranca",
     "BV-2127 hacia Igualada",
     "C-15 como enlace regional"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Font-rubí: un término de 37 km² donde el BMW no descansa",
+    "entradilla": "Con 39 habitantes por kilómetro cuadrado, en Font-rubí casi nada queda a pie. El taller especialista de la red está a 55,6 km, en Sant Joan Despí; la ITV y el concesionario, hacia la costa.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 55.6
+    },
+    "secciones": [
+      {
+        "id": "termino-disperso",
+        "h2": "1.441 vecinos en 37,42 km²",
+        "parrafos": [
+          "El término de Font-rubí mide 37,42 km², casi cuatro veces el del Pla del Penedès (9,56), para 1.441 habitantes en 2025 (un 6,9 % más que en 2015). Idescat, con datos de la DGT, registraba 957 turismos en 2024: 664 por cada 1.000 vecinos.",
+          "Ese reparto tiene una consecuencia mecánica. Muchos trayectos son cortos y por carreteras de curvas, con el motor sin llegar a temperatura: el aceite se contamina antes y el diésel no completa las regeneraciones del filtro de partículas. Respetar el indicador de servicio, y no estirarlo, compensa."
+        ]
+      },
+      {
+        "id": "bv2127-ap7",
+        "h2": "BV-2127 y AP-7 hasta el taller",
+        "parrafos": [
+          "Desde Font-rubí, la ruta hasta Dasercars Barcelona baja por la BV-2127, sigue por la AP-7 y termina por la B-23: 55,6 km por carretera, 35 en línea recta. La recogida del taller no llega: se limita al área metropolitana de Barcelona.",
+          "Para que el viaje sirva, el taller entrega el presupuesto por escrito y no empieza nada sin tu conformidad; la diagnosis también se presupuesta antes."
+        ]
+      },
+      {
+        "id": "itv-oficial-font-rubi",
+        "h2": "Olèrdola para la ITV, Vilanova para la marca",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es Olèrdola (B09), en la avinguda de l'Hostal Nou, a 16,4 km. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en Vilanova i la Geltrú, a 28,6 km.",
+          "La C-15 pasa a menos de tres kilómetros del centro y es la salida natural hacia los dos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 55,6 km por la BV-2127, la AP-7 y la B-23, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Por qué mi diésel avisa a menudo del filtro de partículas?",
+        "a": "Suele pasar con trayectos cortos en los que el motor no llega a la temperatura de regeneración. Si el aviso es frecuente, hay que revisarlo."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Font-rubí?",
+        "a": "La más próxima por carretera es Olèrdola (B09), a 16,4 km, según la Generalitat."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.441 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "37,42 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "957 · 664 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080850&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 16,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 28,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 55,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080850&lang=es"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

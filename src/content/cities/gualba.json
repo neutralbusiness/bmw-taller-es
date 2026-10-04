@@ -3,11 +3,11 @@
   "name": "Gualba",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1359,
+  "population": 1766,
   "lat": 41.7418,
   "lng": 2.504,
   "metaTitle": "Taller BMW en Gualba | Piedemonte Montseny, AP-7 y C-35",
-  "metaDescription": "Taller BMW para Gualba, al pie del Montseny. Especialistas en suspensión de montaña, humedad boscosa y uso mixto AP-7/carreteras locales. 622 552 992.",
+  "metaDescription": "BMW y MINI en Gualba: ITV a 6,9 km en Sant Celoni, servicio oficial en Mataró y taller especialista de la red en Sant Joan Despí, a 65,5 km.",
   "heroSubtitle": "En la puerta del Montseny y junto a la AP-7, tu BMW necesita un servicio técnico que entienda ambos mundos.",
   "trustChips": [
     {
@@ -183,5 +183,122 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Gualba: la ITV en la carretera de Gualba y el taller especialista a 65,5 km",
+    "entradilla": "La estación de ITV que le toca a Gualba está en Sant Celoni, en una calle que lleva el nombre del pueblo. El servicio oficial BMW queda en Mataró y el taller de la red, en Sant Joan Despí. Esto es lo que te conviene resolver cerca y lo que no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 65.5
+    },
+    "secciones": [
+      {
+        "id": "itv-sant-celoni",
+        "h2": "Sant Celoni (B26), a 6,9 km",
+        "parrafos": [
+          "En el registro de estaciones de la Generalitat, la más próxima por carretera es ITV Sant Celoni (B26), en la carretera de Gualba 41-43, a 6,9 km del centro del pueblo. Es tan accesible que no tiene sentido mezclarla con el viaje al taller: la pre-ITV la puede hacer cualquier taller de la zona, y la inspección, en la misma mañana."
+        ]
+      },
+      {
+        "id": "mataro-o-sant-joan",
+        "h2": "Mataró para lo de la marca, Sant Joan Despí para lo difícil",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más cercano es Pruna Motor, en la Via Sergia 2 de Mataró, a 38,4 km por carretera. Allí se tramitan las reparaciones cubiertas por la garantía de BMW.",
+          "Dasercars Barcelona, el taller independiente de la red, está a 65,5 km: BV-5115, C-35, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc. Es mucha carretera para un cambio de pastillas y poca para una avería que lleva meses sin diagnóstico, un diésel N47 o B47 con ruido de distribución o un escape que no pasa las emisiones (el taller tiene homologación REDISTA)."
+        ]
+      },
+      {
+        "id": "gualba-en-cifras",
+        "h2": "1.766 vecinos repartidos en 23 km²",
+        "parrafos": [
+          "Gualba, en el Vallès Oriental, tenía 1.766 habitantes en 2025, un 24,9 % más que en 2015, en un término de 23,29 km² a 177 metros. En 2024 había 933 turismos (Idescat, con datos de la DGT): 528 por cada 1.000 habitantes.",
+          "La C-35 pasa a menos de tres kilómetros del centro. Para un diésel que hace sobre todo trayectos cortos por el pueblo, salir de vez en cuando por ella o por la AP-7 a régimen constante ayuda a que el filtro de partículas complete su regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es la ITV más cercana a Gualba?",
+        "a": "Según el registro de la Generalitat, la de Sant Celoni (B26), en la carretera de Gualba 41-43, a 6,9 km."
+      },
+      {
+        "q": "¿Tenéis taller en el Vallès Oriental?",
+        "a": "No. El taller de la red es Dasercars Barcelona, en Sant Joan Despí, a 65,5 km por carretera."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte motores y electrónica con BMW y se diagnostica con el mismo equipo."
+      },
+      {
+        "q": "¿Llega la recogida del taller hasta Gualba?",
+        "a": "No: solo cubre el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.766 habitantes (+24,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080977&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "933 · 528 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080977&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 6,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 38,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 65,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080977&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

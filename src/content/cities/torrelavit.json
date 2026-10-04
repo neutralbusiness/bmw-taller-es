@@ -3,11 +3,11 @@
   "name": "Torrelavit",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 1509,
+  "population": 1572,
   "lat": 41.45,
   "lng": 1.73333,
   "metaTitle": "Taller BMW en Torrelavit | Especialistas en el Alt Penedès",
-  "metaDescription": "Taller BMW para Torrelavit y el Alt Penedès. Diagnosis con equipo original, motor, turbo y caja ZF 8HP. Presupuesto cerrado y garantía escrita.",
+  "metaDescription": "BMW en Torrelavit: ITV en Olèrdola, servicio oficial en Vilanova i la Geltrú y taller especialista de la red en Sant Joan Despí, a 43,7 km por la AP-7.",
   "heroSubtitle": "Mecánica BMW especializada para los vecinos de Torrelavit",
   "trustChips": [
     {
@@ -174,5 +174,119 @@
     "C-15 hacia Vilafranca del Penedès",
     "BV-2242 de conexión comarcal",
     "Acceso desde Sant Sadurní d'Anoia"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Torrelavit: tres direcciones para tu BMW, con el taller especialista a 43,7 km",
+    "entradilla": "Desde Torrelavit, cada cosa está en un sitio distinto: la ITV en Olèrdola, el concesionario en Vilanova i la Geltrú y el taller especialista de la red en Sant Joan Despí. Así se reparte el trabajo con cabeza.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 43.7
+    },
+    "secciones": [
+      {
+        "id": "al-este-el-taller",
+        "h2": "Al este, por la AP-7: el taller",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona sale por la BP-2151, sigue por la BV-2244, coge la AP-7 y entra por la B-23: 43,7 km por carretera, 29,1 en línea recta. Es algo menos que desde el Pla del Penedès (45,9 km) y bastante menos que desde Font-rubí (55,6).",
+          "Aun así, Torrelavit no pertenece al Área Metropolitana de Barcelona, y la recogida del taller no llega aquí. Lo práctico es reservar día y dejar el coche por la mañana."
+        ]
+      },
+      {
+        "id": "al-sur-itv-y-marca",
+        "h2": "Al sur: la ITV y la red oficial",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Olèrdola (B09), a 20 km. Según el localizador de bmw.es, el servicio oficial BMW más cercano es Quadis Munich, en Vilanova i la Geltrú, a 34,6 km.",
+          "Curiosamente, en línea recta el concesionario (24,6 km) y el taller (29,1 km) están a una distancia parecida: lo que decide no es tanto el kilometraje como el tipo de trabajo. Garantía de fábrica, en la red oficial; diagnosis de averías, mantenimiento y diésel —la especialidad del taller son los N47, N57, B47 y B57—, con el especialista."
+        ]
+      },
+      {
+        "id": "torrelavit-en-cifras",
+        "h2": "1.572 vecinos y 930 turismos",
+        "parrafos": [
+          "El padrón de 2025 da a Torrelavit 1.572 habitantes, un 12,2 % más que en 2015, en 23,65 km² a 202 metros de altitud. Idescat, con datos de la DGT, registraba 930 turismos en 2024: 592 por cada 1.000 vecinos.",
+          "Un parque así, con mucho trayecto corto por carreteras locales como la BP-2151, desgasta más frenos y embrague que kilómetros de autopista. Si notas vibración al frenar después de unos días sin usar el coche, suele ser óxido superficial en los discos y se va con el uso; si persiste, hay que mirarlo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué distancia hay hasta el taller?",
+        "a": "43,7 km por carretera, por la AP-7 y la B-23, hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está la ITV más próxima?",
+        "a": "En Olèrdola (B09), a 20 km por carretera, según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Trabajáis diésel?",
+        "a": "Sí: los motores diésel N47, N57, B47 y B57 son la especialidad del taller."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "1.572 habitantes (+12,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082877&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "930 · 592 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082877&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 20 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vilanova i la Geltrú · 34,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 43,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082877&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }
