@@ -3,7 +3,7 @@
   "name": "Canet de Mar",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 14123,
+  "population": 15198,
   "lat": 41.59054,
   "lng": 2.58116,
   "metaTitle": "Especialistas BMW en Canet de Mar — Revisión y reparación con garantía",
@@ -178,5 +178,136 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Revisión de un BMW en Canet de Mar: el salitre, la ITV de Argentona y el taller a 57 km",
+    "entradilla": "A poco más de un kilómetro del mar, un coche de Canet de Mar envejece de forma distinta que uno de interior. Qué conviene revisar por eso, dónde queda lo oficial en el Maresme y qué supone llevarlo a Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 57.0
+    },
+    "secciones": [
+      {
+        "id": "revision-junto-al-mar",
+        "h2": "Qué mirar en una revisión cuando el coche vive junto al mar",
+        "parrafos": [
+          "El centro de Canet queda a 1,1 km de la costa. El aire con sal no estropea nada de un día para otro, pero trabaja sin descanso sobre lo que está al descubierto: los bajos, los soportes y abrazaderas del escape, los anclajes de la suspensión y los conectores eléctricos expuestos.",
+          "En la revisión de un coche del litoral conviene añadir tres puntos a la lista: mirar los bajos con el coche elevado, comprobar los discos si ha pasado temporadas parado —se oxidan en superficie y luego vibran al frenar— y repasar conectores ante cualquier fallo eléctrico intermitente. Un aclarado de bajos con agua dulce al acabar el verano ayuda."
+        ]
+      },
+      {
+        "id": "lo-oficial-en-el-maresme",
+        "h2": "Lo oficial, en Mataró y Argentona",
+        "parrafos": [
+          "Según el localizador de bmw.es, el servicio oficial más próximo es Pruna Motor, en la Via Sergia 2 de Mataró: 16 km por la ruta más corta; por la más rápida son 19,8. La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 19,4 km.",
+          "Para el mantenimiento periódico no hace falta pasar por el concesionario: el Reglamento (UE) 461/2010 permite revisar el coche fuera de la red oficial sin perder la garantía, siempre que se cumplan los intervalos y especificaciones del fabricante."
+        ]
+      },
+      {
+        "id": "c32-b20",
+        "h2": "57 kilómetros por la C-32",
+        "parrafos": [
+          "Desde Canet, la N-II pasa a 0,4 km y la C-32 a 1 km. La ruta al taller va por la C-32 y la B-20 hasta el carrer del Tambor del Bruc: 57 km por carretera, 49,8 en línea recta. La recogida del taller solo cubre el área metropolitana de Barcelona, y Canet queda fuera.",
+          "A esa distancia, lo razonable es dejar las revisiones de rutina para un taller del Maresme y reservar el viaje para una avería propia de BMW. Antes, llama con el modelo, el año, los kilómetros y lo que notas: así llegas con hora y, si hace falta, con el recambio pedido."
+        ]
+      },
+      {
+        "id": "canet-en-cifras",
+        "h2": "15.198 vecinos en 5,56 km²",
+        "parrafos": [
+          "Canet de Mar tenía 15.198 habitantes en 2025, un 7,2 % más que en 2015, en un término de 5,56 km². Idescat, a partir de la DGT, contaba 6.523 turismos en 2024: 429 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hacéis revisiones a coches de Canet de Mar?",
+        "a": "Sí, en el taller de Sant Joan Despí, a 57 km. Desde aquí no hay recogida: el coche lo traes tú."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Argentona (B08), en el polígono El Cros, a 19,4 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sergia 2 de Mataró, a 16 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "15.198 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080403&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "6.523 · 429 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080403&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "1,1 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Argentona (B08) · 19,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 16 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 57 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080403&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "Castellbisbal",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 11977,
+  "population": 13061,
   "lat": 41.47534,
   "lng": 1.98174,
   "metaTitle": "Taller Especialista BMW en Castellbisbal | Revisión Compra ISTA",
@@ -187,5 +187,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Castellbisbal: taller BMW a 17,1 km y recogida dentro del área metropolitana",
+    "entradilla": "Castellbisbal forma parte del Área Metropolitana de Barcelona, y eso cambia las cosas: el taller de Sant Joan Despí queda a 17,1 km y puede ir a buscar el coche, según disponibilidad. Aquí van la ruta, la ITV y el servicio oficial más cercano.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 17.1
+    },
+    "secciones": [
+      {
+        "id": "si-no-puedes-acercarlo",
+        "h2": "Si no puedes acercar el coche",
+        "parrafos": [
+          "Al estar dentro del área metropolitana, el taller ofrece recogida y entrega del coche, y vehículo de cortesía para los trabajos que se alargan, siempre sujetos a disponibilidad. Pídelo al reservar la cita, no el mismo día.",
+          "Si prefieres traerlo tú, no vas a ciegas: recibes el presupuesto por escrito y nada se empieza sin tu visto bueno."
+        ]
+      },
+      {
+        "id": "b150-c1413a-b23",
+        "h2": "Por la B-150, la C-1413a y la B-23",
+        "parrafos": [
+          "La ruta más corta desde el centro sale por la B-150, sigue por la C-1413a y entra en la B-23 hasta el carrer del Tambor del Bruc: 17,1 km por carretera, 13,9 en línea recta. A menos de tres kilómetros del casco pasan también la AP-7, a 0,9 km, y la A-2, a 1,5.",
+          "Castellbisbal tenía 13.061 habitantes en 2025, un 5,6 % más que en 2015, y 7.514 turismos en 2024 según Idescat a partir de la DGT: 575 por cada 1.000 habitantes, en un término de 31,03 km²."
+        ]
+      },
+      {
+        "id": "itv-b21",
+        "h2": "La ITV, a 5 km en Sant Andreu de la Barca",
+        "parrafos": [
+          "En el registro de la Generalitat, la estación más próxima por carretera es la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5: 5 km desde el centro de Castellbisbal, 2,5 en línea recta."
+        ]
+      },
+      {
+        "id": "quadis-sant-cugat",
+        "h2": "El servicio oficial, en Sant Cugat",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial BMW más cercano es Quadis Munich, en el carrer Vallespir 19 de Sant Cugat del Vallès: 12,1 km por la ruta más corta y 13,3 por la más rápida. Allí corresponden las reparaciones en garantía de BMW; el mantenimiento puedes hacerlo donde quieras.",
+          "Con la AP-7 y la A-2 tan cerca, es fácil darle a un diésel el tramo de autopista que necesita para limpiar el filtro de partículas. Si aun así el aviso del filtro vuelve, el origen suele estar en un sensor de presión diferencial o en la válvula EGR, y conviene diagnosticarlo antes de forzar una regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Castellbisbal?",
+        "a": "Sí: está dentro del área metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad; pídela al reservar."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 17,1 km por carretera, en el carrer del Tambor del Bruc 3 de Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima por carretera es la de Sant Andreu de la Barca (B21), en la N-II, a 5 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.061 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080543&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "7.514 · 575 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080543&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu de la Barca (B21) · 5 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Cugat del Vallès · 12,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 17,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080543&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

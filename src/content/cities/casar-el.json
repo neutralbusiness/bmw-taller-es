@@ -3,7 +3,7 @@
   "name": "El Casar",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 11622,
+  "population": 13962,
   "lat": 40.73418,
   "lng": -3.41777,
   "metaTitle": "Taller BMW en El Casar | Guadalajara | Cita previa",
@@ -169,5 +169,116 @@
     "A-1 (Madrid-Burgos)",
     "CM-1004 hacia Guadalajara",
     "GU-172 comarcal"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "El Casar: especialista BMW a 33,6 km por la A-1 y servicio oficial en Algete",
+    "entradilla": "El Casar es provincia de Guadalajara, pero lo que tiene más cerca en BMW está en la Comunidad de Madrid: el servicio oficial en Algete y el taller especialista de la red en Alcobendas. Las distancias de esta página se miden desde el centro del casco urbano.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 33.6
+    },
+    "secciones": [
+      {
+        "id": "guadalajara-o-algete",
+        "h2": "Provincia de Guadalajara, servicio oficial en Algete",
+        "parrafos": [
+          "Aunque el municipio es de Guadalajara, el punto oficial BMW más cercano por carretera según bmw.es no está en la capital de la provincia sino en Algete: BYmyCAR Madrid, en la calle Tejera 2, carretera de Algete km 3, a 18,6 km. Para una reparación en garantía, esa es la referencia.",
+          "Nosotros no somos un concesionario: Dasercars es un taller independiente especializado en BMW y MINI, con nave en la calle Valgrande 17 de Alcobendas."
+        ]
+      },
+      {
+        "id": "gu193-a1",
+        "h2": "De la GU-193 a la A-1",
+        "parrafos": [
+          "El término mide 52 km², así que importa desde dónde se mide. Desde el centro del casco urbano, la ruta más corta sale por la GU-193, pasa por la M-117, la M-111 y la M-100 y entra en la A-1: 33,6 km hasta la calle Valgrande, 26,2 en línea recta.",
+          "El Casar no está en el área metropolitana de Madrid, y la recogida y entrega del taller no llega hasta aquí: el coche lo traes tú. Para que el viaje no sea en balde, describe el síntoma por teléfono antes de venir."
+        ]
+      },
+      {
+        "id": "a-849-metros",
+        "h2": "A 849 metros: invierno, batería y carretera abierta",
+        "parrafos": [
+          "El centro urbano está a 849 metros de altitud. Una batería con años encima suele fallar la primera mañana fría, y en los BMW con mucho consumo eléctrico se nota antes. Merece la pena medirla en otoño; si se cambia, hay que registrarla en la centralita para que la carga se ajuste a la nueva.",
+          "Con la N-320 a 0,4 km y la CM-1009 a 0,8, el coche sale enseguida a carretera abierta, que es donde un diésel completa la regeneración del filtro de partículas."
+        ]
+      },
+      {
+        "id": "el-casar-crece",
+        "h2": "13.962 vecinos, un 20,3 % más que en 2015",
+        "parrafos": [
+          "El padrón del INE pasó de 11.606 habitantes en 2015 a 13.962 en 2025. Son 2.356 vecinos más en diez años."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Guadalajara?",
+        "a": "No. Somos Dasercars, taller independiente especializado en BMW, en Alcobendas. El servicio oficial más cercano a El Casar es BYmyCAR Madrid, en Algete."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "33,6 km desde el centro del casco urbano, por la GU-193, la M-117, la M-111, la M-100 y la A-1."
+      },
+      {
+        "q": "¿Recogéis el coche en El Casar?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid, y El Casar queda fuera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.962 habitantes (+20,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "52 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "849 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid, Algete · 18,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 33,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

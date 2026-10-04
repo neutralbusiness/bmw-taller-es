@@ -3,7 +3,7 @@
   "name": "Moralzarzal",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 11582,
+  "population": 14772,
   "lat": 40.67816,
   "lng": -3.9707,
   "metaTitle": "Taller BMW en Moralzarzal | Sierra de Madrid",
@@ -169,5 +169,122 @@
   "zoneAccessRoutes": [
     "M-608",
     "M-600"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Moralzarzal: taller especialista BMW a 42,4 km y la ITV de Cerceda a 5,8",
+    "entradilla": "Quien busca taller en Moralzarzal suele querer uno en el pueblo, y conviene decirlo pronto: el nuestro está en Alcobendas. Te contamos cuándo compensa el viaje, qué tienes cerca en la sierra y dónde está el servicio oficial de Las Rozas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 42.4
+    },
+    "secciones": [
+      {
+        "id": "no-es-un-taller-del-pueblo",
+        "h2": "No es un taller del pueblo, y por qué puede interesarte igual",
+        "parrafos": [
+          "Dasercars Madrid está en la calle Valgrande 17 de Alcobendas, a 42,4 km de Moralzarzal por carretera. No tenemos nave en la sierra. Para cambiar una rueda o unas escobillas, un taller de la zona te lo resuelve antes; para un BMW o un MINI con una avería que nadie ha encontrado, un ruido de distribución en un diésel N47 o un fallo del sistema de AdBlue, la especialización sí pesa.",
+          "El presupuesto se da por escrito y el coche no se toca hasta que lo apruebas; la diagnosis también se presupuesta. Así puedes decidir si el viaje merece la pena antes de hacerlo."
+        ]
+      },
+      {
+        "id": "m608-m607-m616",
+        "h2": "Por la M-608, la M-607 y la M-616",
+        "parrafos": [
+          "La ruta más corta desde el centro sale por la M-608, que pasa a 0,3 km, sigue por la M-607 y enlaza con la M-616 hasta Alcobendas: 42,4 km por carretera y 31,2 en línea recta.",
+          "La recogida y entrega del taller funciona en el área metropolitana de Madrid y está sujeta a disponibilidad; desde la sierra, confírmala al reservar antes de contar con ella."
+        ]
+      },
+      {
+        "id": "itv-cerceda",
+        "h2": "La ITV, en la M-607 a la altura de Cerceda",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de I.T.V. Cerceda (la 2866 del listado de la Comunidad de Madrid), en la M-607, km 48,2: 5,8 km desde el centro de Moralzarzal."
+        ]
+      },
+      {
+        "id": "movilnorte-las-rozas",
+        "h2": "El servicio oficial, en Las Rozas",
+        "parrafos": [
+          "Si lo que buscas es el concesionario de Las Rozas, el punto oficial BMW más cercano según bmw.es es Movilnorte, en la A-6, km 23,100, a 22,7 km. Las campañas de revisión que convoque la marca y las reparaciones en garantía de BMW se hacen allí."
+        ]
+      },
+      {
+        "id": "a-974-metros",
+        "h2": "974 metros y un pueblo que ha crecido un 21 %",
+        "parrafos": [
+          "Moralzarzal tenía 12.213 habitantes en 2015 y 14.772 en 2025. A 974 metros, el invierno pide revisar la batería antes de las primeras heladas y, en un diésel, también los calentadores: un arranque largo en frío suele ser el primer aviso de que alguno ha dejado de funcionar."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en Moralzarzal?",
+        "a": "No. El taller de la red es Dasercars Madrid, en la calle Valgrande 17 de Alcobendas, a 42,4 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de I.T.V. Cerceda, en la M-607, km 48,2, a 5,8 km del centro."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Movilnorte, en la A-6, km 23,100 de Las Rozas, a 22,7 km según el localizador de bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "14.772 habitantes (+21 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "974 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "I.T.V. Cerceda, M-607 km 48,2 · 5,8 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte, Las Rozas · 22,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 42,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

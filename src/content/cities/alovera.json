@@ -3,7 +3,7 @@
   "name": "Alovera",
   "province": "Guadalajara",
   "ccaa": "Castilla-La Mancha",
-  "population": 10734,
+  "population": 14526,
   "lat": 40.59368,
   "lng": -3.24529,
   "metaTitle": "Taller BMW en Alovera | Corredor del Henares Guadalajara",
@@ -170,5 +170,113 @@
     "A-2",
     "GU-141",
     "N-320"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Alovera y el concesionario BMW de Guadalajara: quién es quién y dónde está el taller",
+    "entradilla": "Si has llegado buscando un taller BMW en Guadalajara, te aclaramos antes de nada quién es quién: el concesionario está en la capital, a 10,1 km de Alovera, y nosotros somos un taller independiente con nave en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 46.2
+    },
+    "secciones": [
+      {
+        "id": "el-concesionario-de-guadalajara",
+        "h2": "El concesionario de Guadalajara no somos nosotros",
+        "parrafos": [
+          "El servicio oficial BMW más próximo a Alovera según bmw.es es AutoPremier, en el Paseo de la Estación 23 de Guadalajara, a 10,1 km por carretera. Es concesionario con taller propio: si te llega una carta de BMW para una campaña de revisión, la cita es allí.",
+          "Dasercars es otra cosa: un taller especializado en BMW y MINI que no pertenece a la red oficial, con nave en la calle Valgrande 17 de Alcobendas. Lo decimos claro para que no llames creyendo que hablas con el concesionario."
+        ]
+      },
+      {
+        "id": "a2-r2-m50",
+        "h2": "46,2 km por la A-2, la R-2 y la M-50",
+        "parrafos": [
+          "La A-2 pasa a 1,5 km del centro de Alovera y la R-2 a 1,6. Por ellas, y luego por la M-50, se llega al taller: 46,2 km por carretera, 34,8 en línea recta. Alovera es provincia de Guadalajara y queda fuera del área metropolitana de Madrid, donde el taller ofrece recogida, así que el coche lo traes tú.",
+          "Compensa para trabajos en los que se nota la especialización: un filtro de partículas que se satura una y otra vez, un fallo de inyectores en un N57, un problema eléctrico intermitente o un ruido que ya han mirado sin éxito en otro sitio."
+        ]
+      },
+      {
+        "id": "de-12247-a-14526",
+        "h2": "De 12.247 a 14.526 vecinos en diez años",
+        "parrafos": [
+          "El padrón del INE da a Alovera 14.526 habitantes en 2025, un 18,6 % más que en 2015. El término mide 13,7 km² y tiene siete carreteras con número a menos de tres kilómetros del centro —la A-2, la R-2, la N-320 o la CM-1008, entre otras—: la autovía queda a un paso.",
+          "Para un diésel, alternar los trayectos cortos con un tramo de autovía a ritmo constante es lo que le permite regenerar el filtro de partículas sin ayuda. Si el testigo del filtro aparece a menudo, suele ser señal de que el coche hace casi solo recorridos cortos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Guadalajara?",
+        "a": "No. El concesionario es AutoPremier, en el Paseo de la Estación 23. Nosotros somos Dasercars, taller independiente especializado en BMW, en Alcobendas."
+      },
+      {
+        "q": "¿Tenéis taller en Alovera?",
+        "a": "No. El taller de la red más cercano está en Alcobendas, a 46,2 km de Alovera por carretera."
+      },
+      {
+        "q": "¿Recogéis el coche en Alovera?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid, y Alovera queda fuera."
+      },
+      {
+        "q": "¿Trabajáis también MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "14.526 habitantes (+18,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "13,7 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "641 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Guadalajara · 10,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 46,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

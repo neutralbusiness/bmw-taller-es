@@ -3,7 +3,7 @@
   "name": "Badia del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 13563,
+  "population": 13060,
   "lat": 41.50993,
   "lng": 2.11648,
   "metaTitle": "Taller BMW en Badia del Vallès — Especialistas sin perder garantía",
@@ -181,5 +181,126 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Badia del Vallès: dos servicios oficiales BMW a 4 km y el especialista a 29,1",
+    "entradilla": "Badia del Vallès cabe en 0,93 km², y la ITV y el servicio oficial BMW los tiene en Sabadell, a pocos kilómetros. Nuestro taller está más lejos, en Sant Joan Despí, pero Badia es área metropolitana y eso permite pedir la recogida del coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 29.1
+    },
+    "secciones": [
+      {
+        "id": "sitjas-y-quadis",
+        "h2": "Sitjas y Quadis, los dos en Sabadell y casi a la par",
+        "parrafos": [
+          "El localizador de bmw.es da dos puntos oficiales casi a la misma distancia del centro de Badia: Sitjas Motor, taller autorizado BMW en la calle Quintana 64 de Sabadell, a 3,7 km por carretera, y Quadis Munich, también en Sabadell, a 4 km. Para lo que cubra la garantía del fabricante, cualquiera de los dos.",
+          "Dasercars no es ninguno de ellos: somos un taller independiente especializado en BMW y MINI. Lo nuestro es el mantenimiento y las reparaciones fuera de garantía, que puedes llevar al taller que elijas."
+        ]
+      },
+      {
+        "id": "itv-can-roqueta",
+        "h2": "La ITV de Sabadell, a 6,7 km",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Sabadell (B24), en el carrer Can Camps del polígono Can Roqueta, a 6,7 km del centro de Badia (3 en línea recta)."
+        ]
+      },
+      {
+        "id": "ruta-ap7",
+        "h2": "29,1 km por carretera para 16,6 en línea recta",
+        "parrafos": [
+          "La diferencia entre las dos cifras la marca la ruta: desde Badia hay que salir por la B-30, tomar la AP-7 y bajar por la B-23 hasta Sant Joan Despí. No hay un camino directo.",
+          "Badia es uno de los municipios del Área Metropolitana de Barcelona, así que el taller puede recoger el coche y devolverlo, y prestarte uno de cortesía si la reparación dura días; las dos cosas, sujetas a disponibilidad."
+        ]
+      },
+      {
+        "id": "badia-en-cifras",
+        "h2": "14.043 habitantes por kilómetro cuadrado",
+        "parrafos": [
+          "Con 13.060 vecinos en 2025 y 0,93 km² de término, Badia tiene una densidad de 14.043 habitantes por km². Y ha perdido población: tenía 13.502 vecinos en 2015, de modo que hoy son un 3,3 % menos.",
+          "El parque de 2024, según Idescat a partir de la DGT, era de 5.748 turismos: 440 por cada 1.000 habitantes. Con la C-58, la AP-7, la B-30 y la N-150 a un kilómetro o menos del centro, la autovía queda literalmente a la salida de casa. Aun así, si el coche pasa días aparcado sin moverse, la batería es lo primero que lo nota."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano a Badia?",
+        "a": "Sitjas Motor, en la calle Quintana 64 de Sabadell, a 3,7 km, y Quadis Munich, también en Sabadell, a 4 km, según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Badia del Vallès?",
+        "a": "Sí, dentro del área metropolitana de Barcelona hay recogida y entrega, sujeta a disponibilidad."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de Sabadell (B24), polígono Can Roqueta, a 6,7 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.060 habitantes (−3,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "0,93 km² · 14.043 hab./km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089045&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.748 · 440 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=089045&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 6,7 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Sitjas Motor, Sabadell · 3,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 29,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=089045&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

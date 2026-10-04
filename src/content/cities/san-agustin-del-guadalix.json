@@ -3,7 +3,7 @@
   "name": "San Agustín del Guadalix",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 13273,
+  "population": 13825,
   "lat": 40.67882,
   "lng": -3.61639,
   "metaTitle": "Taller BMW en San Agustín del Guadalix — Especialistas CBS",
@@ -189,5 +189,120 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "San Agustín del Guadalix: el taller BMW de la red, a 21,2 km bajando por la A-1",
+    "entradilla": "Con la A-1 a 0,4 km del centro, desde San Agustín del Guadalix el taller especialista queda a una sola autovía de distancia, en Alcobendas. La ITV, en cambio, la tienes en El Molar, y el servicio oficial, en Algete.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 21.2
+    },
+    "secciones": [
+      {
+        "id": "solo-la-a1",
+        "h2": "21,2 kilómetros sin salir de la A-1",
+        "parrafos": [
+          "La ruta al taller es la más sencilla posible: A-1 hacia Madrid hasta Alcobendas y desvío a la calle Valgrande. Son 21,2 km por carretera y 16 en línea recta. La M-104 también pasa junto al casco, a 0,3 km.",
+          "El taller trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. A esta distancia, dejar el coche a primera hora y recogerlo por la tarde es perfectamente viable para un trabajo de un día.",
+          "Recogida y entrega, y vehículo de cortesía para trabajos de varios días: existen dentro del área metropolitana de Madrid y están sujetos a disponibilidad. Si los necesitas, pídelos al reservar y confirma que tu dirección entra."
+        ]
+      },
+      {
+        "id": "itv-el-molar",
+        "h2": "La ITV, en la A-1 a la altura de El Molar",
+        "parrafos": [
+          "La estación oficial más cercana por carretera es la de ITEVELESA en la A-1, km 40,200, en el término de El Molar: 6,7 km desde el centro de San Agustín, según el listado de la Comunidad de Madrid. Está en la misma A-1 que lleva al taller."
+        ]
+      },
+      {
+        "id": "bymycar-algete",
+        "h2": "El servicio oficial, en Algete",
+        "parrafos": [
+          "El punto oficial BMW más próximo según bmw.es es BYmyCAR Madrid, en la calle Tejera 2 de Algete, a 19,1 km por carretera: casi la misma distancia que nuestro taller.",
+          "La diferencia no está en los kilómetros sino en lo que hace cada uno: en el concesionario, la garantía de BMW; en un taller independiente especializado, el mantenimiento y las reparaciones de un BMW o un MINI, con la diagnosis presupuestada antes de empezar."
+        ]
+      },
+      {
+        "id": "san-agustin-en-cifras",
+        "h2": "556 turismos por cada mil habitantes",
+        "parrafos": [
+          "El padrón de 2025 da a San Agustín del Guadalix 13.825 habitantes, un 6,5 % más que diez años antes (12.982). En 2025 había 7.689 turismos censados, según la Comunidad de Madrid a partir de la DGT. El casco está a 675 metros de altitud y el término ocupa 38,1 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 21,2 km por la A-1, en la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación de ITEVELESA en la A-1, km 40,200 (El Molar), a 6,7 km."
+      },
+      {
+        "q": "¿Hay un servicio oficial BMW cerca?",
+        "a": "BYmyCAR Madrid, en la calle Tejera 2 de Algete, a 19,1 km según bmw.es."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "13.825 habitantes (+6,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "7.689 · 556 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "ITEVELESA, A-1 km 40,200 (El Molar) · 6,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid, Algete · 19,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 21,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

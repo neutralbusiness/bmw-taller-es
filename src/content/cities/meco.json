@@ -3,7 +3,7 @@
   "name": "Meco",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 12419,
+  "population": 15922,
   "lat": 40.55274,
   "lng": -3.32894,
   "metaTitle": "Taller BMW en Meco | Corredor del Henares",
@@ -173,5 +173,117 @@
   "zoneAccessRoutes": [
     "A-2",
     "M-119"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Meco: ITV y concesionario BMW en Alcalá, taller especialista a 35,8 km por la R-2",
+    "entradilla": "A 8,3 km de Alcalá de Henares en línea recta, Meco ha ganado un 20 % de población en diez años. Si tienes aquí un BMW o un MINI, lo oficial te queda en la Vía Complutense y el especialista independiente, en Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 35.8
+    },
+    "secciones": [
+      {
+        "id": "via-complutense",
+        "h2": "Dos direcciones en la misma avenida de Alcalá",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 11 km por carretera. En la misma vía, en el número 105, está la estación de ITV de ITVERSIA (la 2891 del listado de la Comunidad de Madrid), a 11,9 km. Quedan tan cerca una de otra que una misma mañana puede dar para las dos visitas.",
+          "Al concesionario le corresponde lo que cubra la garantía de BMW. Para lo demás —aceite, frenos, distribución, diagnosis— puedes acudir al taller que prefieras."
+        ]
+      },
+      {
+        "id": "r2-m50",
+        "h2": "Por la R-2 y la M-50 hasta la calle Valgrande",
+        "parrafos": [
+          "La R-2 pasa a 2,1 km del centro de Meco y es la carretera que lleva al taller: R-2 y M-50 hasta Alcobendas, 35,8 km por carretera, 27,3 en línea recta. Es un recorrido de autopista casi entero, de los que un diésel agradece para quemar el hollín acumulado en el filtro de partículas.",
+          "Si el trabajo va a durar más de un día, pregunta por el vehículo de cortesía al pedir la cita. Igual que la recogida y entrega dentro del área metropolitana de Madrid, está sujeto a disponibilidad, y conviene confirmar si tu dirección entra."
+        ]
+      },
+      {
+        "id": "parque-meco",
+        "h2": "629 turismos por cada mil habitantes",
+        "parrafos": [
+          "En 2025 había en Meco 10.009 turismos censados, según el Instituto de Estadística de la Comunidad de Madrid a partir de la DGT, para 15.922 vecinos: 629 por cada 1.000. Es prácticamente la proporción de Camarma de Esteruelas (630), el municipio de al lado, y mucho más que la de Madrid capital (388).",
+          "El padrón ha pasado de 13.269 habitantes en 2015 a 15.922 en 2025. Si tu coche todavía está en garantía, revisarlo fuera del concesionario no la anula mientras se sigan los intervalos del plan de mantenimiento y se usen recambios y aceites con la especificación que pide BMW."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Meco?",
+        "a": "La estación oficial más cercana es la de ITVERSIA, en la Vía Complutense 105 de Alcalá de Henares, a 11,9 km."
+      },
+      {
+        "q": "¿Cuál es el concesionario BMW más cercano?",
+        "a": "AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 11 km según el localizador de bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "35,8 km por la R-2 y la M-50, hasta la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí. MINI comparte electrónica y buena parte de los motores con BMW y se diagnostica con el mismo equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "15.922 habitantes (+20 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "10.009 · 629 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV oficial más cercana",
+        "valor": "ITVERSIA, Alcalá de Henares · 11,9 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 11 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 35,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
