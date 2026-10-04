@@ -3,11 +3,11 @@
   "name": "Muntanyola",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 600,
+  "population": 697,
   "lat": 41.8984,
   "lng": 2.1664,
   "metaTitle": "Taller BMW en Muntanyola | Servicio Técnico de Confianza",
-  "metaDescription": "Taller BMW en Muntanyola, sur de Osona. Mantenimiento para commuters de la C-17, diagnóstico profesional y recogida a domicilio. Pide cita hoy.",
+  "metaDescription": "BMW en Muntanyola, a 807 m: qué revisar antes del invierno, ITV y servicio oficial en Vic y taller especialista independiente a 86 km, en Sant Joan Despí.",
   "heroSubtitle": "A medio camino entre Vic y el Vallès, los commuters de Muntanyola necesitan un BMW impecable. Te lo garantizamos.",
   "trustChips": [
     {
@@ -185,5 +185,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Un BMW en Muntanyola, a 807 metros: frío, batería y el taller a 86 km",
+    "entradilla": "A 807 metros de altitud, el invierno de Muntanyola se nota en el coche antes que en ningún otro sitio de la comarca baja. Aquí tienes lo que conviene vigilar, dónde están la ITV y el servicio oficial en Vic, y qué supone bajar a nuestro taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 86.0
+    },
+    "secciones": [
+      {
+        "id": "ochocientos-siete",
+        "h2": "Lo que el frío le hace a un BMW a esta altitud",
+        "parrafos": [
+          "La batería es lo primero. Con temperaturas bajo cero pierde capacidad, y en un BMW con muchos consumidores eléctricos y arranque y parada automático va más justa que en un coche básico. Si ya tiene años, la primera helada lo destapa. Al cambiarla, recuerda que hay que registrarla en la centralita para que la carga se ajuste a la batería nueva.",
+          "El anticongelante se comprueba por concentración, no solo por nivel: un circuito rellenado con agua durante el verano puede quedarse corto en enero. Y en bajadas largas, unos frenos con el líquido envejecido pierden eficacia antes; ese líquido se cambia por tiempo, aunque el coche ande poco."
+        ]
+      },
+      {
+        "id": "vic-a-diez",
+        "h2": "Servicio oficial a 10,7 km, ITV a 15,1",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 10,7 km por carretera. La ITV de referencia, la estación Osona (B04) del registro de la Generalitat, también en Vic, queda a 15,1 km.",
+          "Las campañas de llamada a revisión las gestiona la red oficial. Lo demás —mantenimiento, diagnosis, reparaciones fuera de garantía— puedes hacerlo donde prefieras."
+        ]
+      },
+      {
+        "id": "bv4316-c17",
+        "h2": "De la BV-4316 a la C-17 y la B-20",
+        "parrafos": [
+          "Para llegar a Dasercars Barcelona se baja por la BV-4316 hasta la C-17, y luego la C-33 y la B-20 hasta Sant Joan Despí: 86 km por carretera, 59,8 en línea recta. El servicio de recogida del taller no llega a Osona.",
+          "Con esa distancia, el viaje se justifica para lo que es propio de la marca y no ha encontrado solución cerca. Muntanyola, con 40,3 km² de término, tenía 697 vecinos en 2025 —un 15 % más que en 2015— y 409 turismos en 2024 según Idescat: 587 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué revisar en el coche antes del invierno en Muntanyola?",
+        "a": "Batería, concentración del anticongelante, neumáticos y estado del líquido de frenos."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La estación más próxima en el registro de la Generalitat es la de Osona (B04), en Vic, a 15,1 km."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "86 km por la BV-4316, la C-17, la C-33 y la B-20 hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "697 habitantes (+15 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081290&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "807 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081290&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "409 · 587 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081290&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 15,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 10,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081290&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

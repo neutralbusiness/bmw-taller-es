@@ -3,11 +3,11 @@
   "name": "Rajadell",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 543,
+  "population": 597,
   "lat": 41.7279,
   "lng": 1.7023,
   "metaTitle": "Taller BMW cerca de Rajadell | Comarca del Bages, Manresa",
-  "metaDescription": "Servicio BMW para Rajadell: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Bages, muy cerca de Manresa.",
+  "metaDescription": "BMW en Rajadell (Bages): ITV y servicio oficial en Sant Fruitós de Bages y taller especialista independiente en Sant Joan Despí, a 75,7 km por la C-55 y la C-16.",
   "heroSubtitle": "El Bages rural también tiene su taller BMW de confianza",
   "trustChips": [
     {
@@ -170,5 +170,120 @@
     "BV-1225 hacia Manresa",
     "C-37 hacia Igualada",
     "C-16 hacia Barcelona vía Manresa"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Rajadell, junto a la C-25: tu BMW entre Manresa y Sant Joan Despí",
+    "entradilla": "Con la C-25 a menos de tres kilómetros, Rajadell tiene buena salida hacia todas partes. La ITV y el servicio oficial BMW están en Sant Fruitós de Bages; el taller especialista de la red, a 75,7 km. Lo que te sirve para decidir dónde llevar el coche.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 75.7
+    },
+    "secciones": [
+      {
+        "id": "el-eje-al-lado",
+        "h2": "El Eix Transversal a la puerta",
+        "parrafos": [
+          "La C-25, el Eix Transversal, pasa a menos de tres kilómetros del centro. Para un BMW diésel es una ventaja real: el filtro de partículas necesita de vez en cuando un tramo a régimen estable para quemar el hollín acumulado, y aquí no hace falta buscarlo.",
+          "Si aun así el aviso del filtro aparece con frecuencia, el problema suele estar en otra parte —un sensor de presión diferencial, una válvula EGR sucia, un termostato que no deja calentar el motor— y merece diagnóstico antes de pensar en cambiar el filtro."
+        ]
+      },
+      {
+        "id": "sant-fruitos",
+        "h2": "ITV a 18,1 km y servicio oficial a 22,4",
+        "parrafos": [
+          "La estación de ITV más próxima por carretera en el registro de la Generalitat es la de Sant Fruitós (B25), en el polígono El Grau, a 18,1 km. En la misma localidad, en la carretera de Manresa a Berga km 34,5, está Quadis Munich, el punto oficial BMW más cercano según bmw.es, a 22,4 km.",
+          "Las llamadas a revisión que convoque la marca se atienden allí. Para mantenimiento y averías, la elección del taller es tuya."
+        ]
+      },
+      {
+        "id": "bajar-a-barcelona",
+        "h2": "75,7 km por la C-55 y la C-16",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona toma la C-25, baja por la C-55 y la C-16 y termina en la B-20: 75,7 km por carretera, 50,2 en línea recta. No hay recogida desde el Bages; el servicio del taller no llega fuera del área metropolitana.",
+          "Merece el viaje cuando el problema pide un especialista en BMW y no se ha resuelto en la comarca. En Dasercars nada se toca sin tu aprobación previa sobre un presupuesto escrito.",
+          "Rajadell tenía 597 habitantes en 2025, frente a 524 en 2015, repartidos en un término de 45,53 km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Rajadell?",
+        "a": "En la estación de Sant Fruitós (B25), polígono El Grau, a 18,1 km por carretera."
+      },
+      {
+        "q": "¿Por qué se enciende tan a menudo el testigo del filtro de partículas?",
+        "a": "Puede ser por trayectos demasiado cortos, pero también por un sensor, la EGR o el termostato. Conviene diagnosticarlo."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "75,7 km por la C-25, la C-55, la C-16 y la B-20 hasta Sant Joan Despí."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "597 habitantes (+13,9 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Bages",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081786&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "45,53 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081786&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 18,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 22,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 75,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081786&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

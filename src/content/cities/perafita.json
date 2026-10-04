@@ -3,11 +3,11 @@
   "name": "Perafita",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 407,
+  "population": 433,
   "lat": 42.0505,
   "lng": 2.1033,
   "metaTitle": "Taller BMW en Perafita | Mecánica alemana en el Lluçanès",
-  "metaDescription": "Servicio técnico BMW en Perafita. Diagnóstico profesional, mantenimiento preventivo y reparación integral para tu BMW en pleno altiplano del Lluçanès.",
+  "metaDescription": "BMW en Perafita (Lluçanès): servicio oficial en Vic e ITV en Ripoll, ambos a 28 km, y taller especialista independiente en Sant Joan Despí, a 111,2 km.",
   "heroSubtitle": "Tu BMW merece atención experta sin bajar del altiplano. Servicio profesional alemán en Perafita, a tu alcance.",
   "trustChips": [
     {
@@ -180,5 +180,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Perafita: Vic y Ripoll a 28 km cada uno, el especialista BMW a 111",
+    "entradilla": "Desde Perafita, el concesionario BMW y la ITV quedan a la misma distancia, 28 km, pero en direcciones opuestas: uno en Vic y la otra en Ripoll. Nuestro taller está mucho más lejos. Te explicamos cómo organizarte.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 111.2
+    },
+    "secciones": [
+      {
+        "id": "vic-o-ripoll",
+        "h2": "Al sur, el concesionario; al norte, la ITV",
+        "parrafos": [
+          "El localizador de bmw.es da como punto oficial más próximo Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic: 28 km por carretera. La ITV más cercana por carretera en el registro de la Generalitat no está en Vic sino en Ripoll: la estación G08, en el passeig d'Ordina, también a 28 km.",
+          "No se pueden juntar en un mismo viaje como en otros pueblos, así que conviene planificar. Una pre-ITV en tu taller habitual antes de subir a Ripoll evita volver por una bombilla o un aviso del cuadro."
+        ]
+      },
+      {
+        "id": "ciento-once-km",
+        "h2": "111,2 km hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona sale por la BP-4653, enlaza con la C-62 y la C-25 y baja por la C-16 y la B-20: 111,2 km por carretera, 76,2 en línea recta. No hay ninguna carretera principal a menos de tres kilómetros del centro, y la recogida del taller, limitada al área metropolitana, no llega al Lluçanès.",
+          "Con esa distancia, lo honesto es decirlo: para revisiones y reparaciones corrientes, mejor cerca. El viaje encaja con averías de BMW que no han tenido solución en la comarca, y siempre con una llamada previa en la que expliques qué le pasa al coche."
+        ]
+      },
+      {
+        "id": "perafita-754",
+        "h2": "433 vecinos a 754 metros",
+        "parrafos": [
+          "Perafita tenía 433 habitantes en el padrón de 2025, 14 más que en 2015, en un término de 19,59 km². Está a 754 metros de altitud según Idescat, suficiente para que las mañanas de invierno pongan a prueba una batería que ya no está al cien por cien.",
+          "Si el coche tarda en arrancar en frío o el sistema de arranque y parada deja de actuar, suele ser la batería avisando. En un BMW, la nueva se registra en la centralita al montarla."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Perafita?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Ripoll (G08), en el passeig d'Ordina, a 28 km."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en la calle Perot Rocaguinarda 1 de Vic, a 28 km según bmw.es."
+      },
+      {
+        "q": "¿Por qué el arranque y parada deja de funcionar en invierno?",
+        "a": "Normalmente porque la batería no tiene carga suficiente; el sistema se desactiva para proteger el arranque."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "433 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081607&lang=es"
+      },
+      {
+        "etiqueta": "Altitud",
+        "valor": "754 m",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081607&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Ripoll (G08) · 28 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 28 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 111,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081607&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

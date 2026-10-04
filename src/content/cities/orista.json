@@ -3,11 +3,11 @@
   "name": "Oristà",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 566,
+  "population": 555,
   "lat": 41.9512,
   "lng": 2.0707,
   "metaTitle": "Taller BMW en Oristà | Expertos en entorno forestal",
-  "metaDescription": "Servicio técnico BMW en Oristà. Especialistas en vehículos expuestos a caminos forestales, humedad y fauna salvaje. Diagnóstico profesional sin desplazarte.",
+  "metaDescription": "BMW en Oristà (Lluçanès): ITV y servicio oficial en Vic y taller especialista independiente en Sant Joan Despí, a 94,5 km. Cuándo compensa el viaje.",
   "heroSubtitle": "Tu BMW merece un taller que entienda los retos de la conducción entre bosques y masías del norte del Bages",
   "trustChips": [
     {
@@ -184,5 +184,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Oristà: 68 km² de término, la C-670 al lado y el especialista BMW a 94,5 km",
+    "entradilla": "El término de Oristà es amplio y está poco poblado: 8 habitantes por km². Aquí el coche hace muchos kilómetros por carretera secundaria. Esto es lo que tienes en Vic y lo que supone llevarlo a nuestro taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 94.5
+    },
+    "secciones": [
+      {
+        "id": "termino-extenso",
+        "h2": "555 vecinos en 68,49 km²",
+        "parrafos": [
+          "Según Idescat, el término mide 68,49 km², y el padrón de 2025 da 555 habitantes, prácticamente los mismos que en 2015 (559). En 2024 había 359 turismos: 647 por cada 1.000 vecinos, más del doble que en Barcelona ciudad.",
+          "Mucho kilómetro por carreteras de curvas desgasta antes frenos, neumáticos y silentblocks de suspensión que la autovía. Si notas que el coche se va hacia un lado al frenar o que la dirección ha perdido precisión, no lo dejes para la siguiente revisión."
+        ]
+      },
+      {
+        "id": "vic-para-todo",
+        "h2": "Concesionario a 22,1 km y la ITV de Osona a 28,4",
+        "parrafos": [
+          "El punto oficial BMW más próximo en el localizador de bmw.es es Quadis Munich, calle Perot Rocaguinarda 1 de Vic, a 22,1 km del núcleo urbano. La ITV más cercana por carretera en el registro de la Generalitat también está en Vic: Osona (B04), en el carrer Sant Llorenç Desmunts 22, a 28,4 km.",
+          "Si vas a Vic por una cosa, aprovecha para la otra. La ITV se hace allí; el viaje a Barcelona queda para lo que no tenga solución en la comarca."
+        ]
+      },
+      {
+        "id": "c670-c16",
+        "h2": "94,5 km por la C-670, la C-25 y la C-16",
+        "parrafos": [
+          "La ruta desde el núcleo de Oristà hasta Sant Joan Despí sale por la C-670, que pasa a menos de tres kilómetros, sigue por la C-25 y baja por la C-16 y la B-20: 94,5 km por carretera, 63,1 en línea recta. La recogida del taller es solo para el área metropolitana y no llega aquí.",
+          "Para que el viaje compense, conviene haberlo hablado antes: el modelo, el año y qué hace exactamente el coche bastan para orientar si es algo que merece bajar o se puede resolver cerca."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Tenéis taller en el Lluçanès?",
+        "a": "No. El taller de la red más próximo es Dasercars Barcelona, en Sant Joan Despí, a 94,5 km de Oristà."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Vic: la estación Osona (B04), a 28,4 km por carretera según la Generalitat."
+      },
+      {
+        "q": "¿Qué se desgasta más por carreteras de curvas?",
+        "a": "Frenos, neumáticos y los silentblocks de la suspensión y la dirección."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "555 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Lluçanès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081516&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "68,49 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081516&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "359 · 647 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081516&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 28,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 22,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081516&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

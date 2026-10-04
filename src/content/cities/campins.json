@@ -3,11 +3,11 @@
   "name": "Campins",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 496,
+  "population": 586,
   "lat": 41.7242,
   "lng": 2.4742,
   "metaTitle": "Taller BMW en Campins | Corazón del Montseny, BV-5301",
-  "metaDescription": "Taller BMW para Campins, en el corazón del Parque del Montseny. Frenos de montaña, suspensión reforzada y mantenimiento de altitud. 622 552 992.",
+  "metaDescription": "BMW en Campins (Vallès Oriental): ITV en Sant Celoni a 8,8 km, servicio oficial en Mataró y taller especialista independiente a 64,6 km por la AP-7.",
   "heroSubtitle": "En el corazón del Montseny, tu BMW afronta las carreteras más exigentes de la provincia. Contamos con la experiencia que necesitas.",
   "trustChips": [
     {
@@ -183,5 +183,119 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Campins: ITV en Sant Celoni, concesionario BMW en Mataró y taller a 64,6 km",
+    "entradilla": "Con 586 vecinos y casi un 20 % más que hace diez años, Campins depende de Sant Celoni para la ITV y de Mataró para el servicio oficial BMW. Nuestro taller queda en Sant Joan Despí. Estas son las distancias y lo que te conviene hacer en cada sitio.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 64.6
+    },
+    "secciones": [
+      {
+        "id": "itv-sant-celoni",
+        "h2": "Sant Celoni: 4,1 km en recta, 8,8 por carretera",
+        "parrafos": [
+          "La estación de ITV más próxima según el registro de la Generalitat es la de Sant Celoni (B26), de TÜV SÜD, en la carretera de Gualba 41-43. En línea recta está a 4,1 km; por carretera, a 8,8. Para la inspección no tiene sentido ir a ningún otro sitio.",
+          "Si el BMW ya pasa la ITV cada año, merece la pena revisar antes luces, testigos del cuadro y holguras: son comprobaciones rápidas que se pueden hacer antes de pedir cita."
+        ]
+      },
+      {
+        "id": "mataro-y-sant-joan",
+        "h2": "Dos direcciones distintas: Mataró o el Baix Llobregat",
+        "parrafos": [
+          "El punto oficial BMW más cercano en el localizador de bmw.es es Pruna Motor, en la Via Sèrgia 2 de Mataró, a 37,5 km. Es la referencia para las llamadas a revisión de la marca y lo que cubre su garantía.",
+          "Nuestro taller, Dasercars Barcelona, está a 64,6 km: BV-5114, AP-7, C-33 y B-20 hasta el carrer del Tambor del Bruc, 52,5 km en línea recta. Campins no forma parte del área metropolitana y la recogida del taller no llega. Para una revisión rutinaria es mucho camino; para una avería de BMW que nadie ha resuelto cerca, es otra cuenta."
+        ]
+      },
+      {
+        "id": "campins-crece",
+        "h2": "Un pueblo pequeño que gana vecinos",
+        "parrafos": [
+          "El padrón pasó de 491 habitantes en 2015 a 586 en 2025, un 19,3 % más, en un término de 7,29 km². Idescat, con datos de la DGT, contaba 344 turismos en 2024: 587 por cada 1.000 habitantes.",
+          "Ninguna carretera principal pasa a menos de tres kilómetros del centro, así que el coche hace sobre todo recorridos cortos hasta enlazar con la AP-7. En un diésel, eso pide atención al filtro de partículas; en cualquier BMW, a la batería, que con trayectos breves no llega a recargarse del todo."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Campins?",
+        "a": "En la estación de Sant Celoni (B26), carretera de Gualba 41-43, a 8,8 km por carretera."
+      },
+      {
+        "q": "¿Dónde está el servicio oficial BMW más cercano?",
+        "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 37,5 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Campins?",
+        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "586 habitantes (+19,3 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080399&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "344 · 587 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080399&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Celoni (B26) · 8,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor, Mataró · 37,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 64,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080399&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

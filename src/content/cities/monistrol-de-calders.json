@@ -3,11 +3,11 @@
   "name": "Monistrol de Calders",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 700,
+  "population": 764,
   "lat": 41.75638,
   "lng": 2.01397,
   "metaTitle": "Taller BMW cerca de Monistrol de Calders | Bages",
-  "metaDescription": "Servicio BMW para vecinos de Monistrol de Calders, Bages. Diagnosis oficial, mecánica y mantenimiento con trato cercano y presupuesto claro.",
+  "metaDescription": "BMW en Monistrol de Calders (Moianès): servicio oficial e ITV en Sant Fruitós de Bages y taller especialista independiente a 78 km, en Sant Joan Despí.",
   "heroSubtitle": "Atención especializada en BMW para Monistrol de Calders.",
   "trustChips": [
     {
@@ -163,5 +163,123 @@
   "zoneAccessRoutes": [
     "C-25",
     "C-59"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Monistrol de Calders: ITV y servicio oficial BMW en Sant Fruitós, especialista a 78 km",
+    "entradilla": "Para un BMW o un MINI matriculado en Monistrol de Calders, casi todo lo oficial queda en el mismo polígono de Sant Fruitós de Bages. El taller especialista de la red está bastante más lejos, en Sant Joan Despí, y aquí te explicamos cuándo merece la pena.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 78.0
+    },
+    "secciones": [
+      {
+        "id": "todo-en-sant-fruitos",
+        "h2": "Una sola salida para la ITV y el concesionario",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto de servicio oficial más próximo en Quadis Munich, carretera de Manresa a Berga, km 34,5, en Sant Fruitós de Bages: 19,7 km por carretera. La estación de ITV que el registro de la Generalitat da como más próxima por carretera también está allí, la B25 del polígono El Grau, a 23 km.",
+          "Juntar las dos visitas en la misma mañana es razonable. Para el mantenimiento, no estás obligado a pasar por el concesionario: el Reglamento (UE) 461/2010 protege la garantía del fabricante cuando las revisiones se hacen fuera de la red con los intervalos y recambios que marca BMW."
+        ]
+      },
+      {
+        "id": "cuarenta-y-tres-en-recta",
+        "h2": "43,6 km en línea recta, 78 por carretera",
+        "parrafos": [
+          "La diferencia entre las dos cifras dice mucho del trayecto. Desde Monistrol, la ruta hasta el carrer del Tambor del Bruc sale por la B-124, enlaza con la N-141c y baja por la C-16 y la B-20: 78 km para salvar 43,6 en línea recta. Recogida no hay: el servicio del taller cubre solo el área metropolitana de Barcelona.",
+          "Por eso el viaje encaja con averías que requieren un especialista en la marca —electrónica que nadie ha localizado, un diésel N47 con ruido de distribución, un fallo de AdBlue— y no con un cambio de pastillas."
+        ]
+      },
+      {
+        "id": "sin-via-rapida",
+        "h2": "Sin autovía a tres kilómetros: el filtro de partículas lo nota",
+        "parrafos": [
+          "Ninguna carretera principal pasa a menos de tres kilómetros del centro del pueblo. Un diésel que solo hace trayectos cortos por la zona difícilmente completa la regeneración del filtro de partículas, que necesita un rato de marcha constante.",
+          "El municipio, de 21,97 km², tenía 764 vecinos en 2025, 67 más que en 2015, y 454 turismos en 2024 según Idescat: 594 por cada 1.000 habitantes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Monistrol de Calders?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la B25, en el polígono El Grau de Sant Fruitós de Bages, a 23 km."
+      },
+      {
+        "q": "¿Qué distancia hay hasta vuestro taller?",
+        "a": "78 km por la B-124, la N-141c, la C-16 y la B-20 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Pierdo la garantía si no reviso el coche en el concesionario?",
+        "a": "No, mientras se cumplan los intervalos y especificaciones del plan de mantenimiento de BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "764 habitantes (+9,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Moianès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081287&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "454 · 594 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081287&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Fruitós (B25) · 23 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Sant Fruitós de Bages · 19,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 78 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081287&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

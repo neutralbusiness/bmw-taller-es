@@ -3,11 +3,11 @@
   "name": "Valverde de Alcalá",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 464,
+  "population": 565,
   "lat": 40.40906,
   "lng": -3.29984,
   "metaTitle": "Taller BMW cerca de Valverde de Alcalá | Este de Madrid",
-  "metaDescription": "Servicio BMW para Valverde de Alcalá: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "BMW en Valverde de Alcalá: ITV y servicio oficial en Alcalá de Henares y taller especialista independiente en Alcobendas, a 43,9 km por la R-2 y la M-50.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Valverde de Alcalá, junto a Alcalá de Henares.",
   "trustChips": [
     {
@@ -167,5 +167,117 @@
     "A-2",
     "M-119",
     "Carretera de Alcalá"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Valverde de Alcalá: 722 turismos por cada mil vecinos y el taller BMW a 43,9 km",
+    "entradilla": "En Valverde de Alcalá hay más de dos turismos por cada tres habitantes, y todo lo relacionado con el coche está fuera del pueblo. Te contamos qué tienes en Alcalá de Henares y cómo se llega a nuestro taller de Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 43.9
+    },
+    "secciones": [
+      {
+        "id": "parque-valverde",
+        "h2": "Un 28,1 % más de vecinos y casi el doble de coches por persona que Madrid",
+        "parrafos": [
+          "El padrón del INE da a Valverde de Alcalá 565 habitantes en 2025, frente a 441 en 2015. La Comunidad de Madrid, con datos de la DGT, contaba 408 turismos en 2025: 722 por cada 1.000 vecinos, casi el doble que en Madrid capital, donde la proporción es de 388.",
+          "El término mide 13,7 km² y la M-204 es la única carretera principal a menos de tres kilómetros."
+        ]
+      },
+      {
+        "id": "alcala-concesionario-itv",
+        "h2": "En Alcalá de Henares, el concesionario y la ITV",
+        "parrafos": [
+          "El servicio oficial BMW más próximo según bmw.es es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 15,9 km por carretera. La estación de ITV oficial de referencia, también en Alcalá, es la de TÜV SÜD ATISAE (estación 2878), en la avenida Juan Carlos I, junto al centro comercial La Garena: unos 12 km contando hasta el centro de Alcalá, porque la ubicación disponible de esa estación es la del municipio.",
+          "Tener el concesionario tan cerca no te ata a él para las revisiones. La normativa europea (Reglamento UE 461/2010) permite mantener el coche en un taller independiente sin perder la garantía, siempre que se siga el plan de BMW."
+        ]
+      },
+      {
+        "id": "r2-alcobendas",
+        "h2": "M-300, M-100 y R-2 hasta la calle Valgrande",
+        "parrafos": [
+          "La ruta hasta Dasercars Madrid sale por la M-204, enlaza con la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 43,9 km por carretera, 32,9 en línea recta. La recogida y entrega del taller se ciñe al área metropolitana de Madrid y está sujeta a disponibilidad; pregunta al reservar si tu dirección entra.",
+          "A 802 metros de altitud, en invierno conviene vigilar la batería y el anticongelante."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Valverde de Alcalá?",
+        "a": "La estación oficial de referencia es la de TÜV SÜD ATISAE (2878), en la avenida Juan Carlos I de Alcalá de Henares, a unos 12 km."
+      },
+      {
+        "q": "¿Puedo revisar el coche fuera del concesionario sin perder la garantía?",
+        "a": "Sí, si se respetan los intervalos y especificaciones del plan de mantenimiento de BMW."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "43,9 km por la M-300, la M-100, la R-2 y la M-50 hasta Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "565 habitantes (+28,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "408 · 722 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 802 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 15,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 43,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

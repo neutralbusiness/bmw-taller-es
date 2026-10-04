@@ -3,11 +3,11 @@
   "name": "Puigdàlber",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 535,
+  "population": 621,
   "lat": 41.40565,
   "lng": 1.69918,
   "metaTitle": "Taller BMW cerca de Puigdàlber | Alt Penedès, Vilafranca",
-  "metaDescription": "Servicio BMW para Puigdàlber: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Alt Penedès, cerca de Vilafranca.",
+  "metaDescription": "BMW en Puigdàlber (Alt Penedès): ITV en Olèrdola a 8,9 km, servicio oficial en Vilanova i la Geltrú y taller especialista independiente a 51,9 km por la AP-7.",
   "heroSubtitle": "El Penedès vitivinícola también tiene su taller BMW cerca",
   "trustChips": [
     {
@@ -170,5 +170,119 @@
     "BP-2121 hacia Vilafranca del Penedès",
     "C-15 hacia Igualada",
     "AP-7 vía Vilafranca hacia Barcelona"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Puigdàlber, 0,4 km² de término: tu BMW, la C-15 y el taller a 51,9 km",
+    "entradilla": "Puigdàlber cabe en menos de medio kilómetro cuadrado. Para el coche, lo que importa es lo que hay alrededor: la ITV en Olèrdola, el servicio oficial BMW en Vilanova i la Geltrú y nuestro taller en Sant Joan Despí, a 51,9 km.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 51.9
+    },
+    "secciones": [
+      {
+        "id": "medio-kilometro",
+        "h2": "Un término de 0,4 km² con 1.552 vecinos por km²",
+        "parrafos": [
+          "Según Idescat, el término municipal de Puigdàlber mide 0,4 km². Con 621 habitantes en el padrón de 2025 —539 en 2015, un 15,2 % más—, la densidad es de 1.552 por km². En 2024 había 337 turismos censados, 543 por cada 1.000 vecinos.",
+          "Todo lo que el coche necesita está fuera del término, empezando por la carretera: la C-15 pasa a menos de tres kilómetros y es la puerta de salida hacia la AP-7."
+        ]
+      },
+      {
+        "id": "itv-olerdola",
+        "h2": "La ITV, a 8,9 km en la avinguda de l'Hostal Nou",
+        "parrafos": [
+          "El registro de la Generalitat da como estación más próxima por carretera la de Olèrdola (B09), de Applus, en la avinguda de l'Hostal Nou: 8,9 km. El servicio oficial BMW que marca el localizador de bmw.es queda más lejos, en Vilanova i la Geltrú: Quadis Munich, avinguda d'Eduard Toldrà 69, a 23,5 km."
+        ]
+      },
+      {
+        "id": "c15-ap7-b23",
+        "h2": "C-15, AP-7 y B-23: vía rápida casi todo el camino",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc sale por la C-15, sigue por la AP-7 y entra al Baix Llobregat por la B-23: 51,9 km por carretera, 30,7 en línea recta. Son vías rápidas casi todo el camino, lo que hace razonable bajar el coche y recogerlo en el día. Puigdàlber queda fuera del área metropolitana, de modo que la recogida del taller no cubre el pueblo.",
+          "Para que el día cunda, conviene llamar antes con el modelo y el síntoma. La diagnosis y la reparación se presupuestan antes de autorizar nada.",
+          "Un detalle para diésel: el recorrido por la AP-7 a velocidad constante es justo el que necesita el filtro de partículas para regenerarse, algo que los trayectos cortos entre pueblos del Penedès no consiguen."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Puigdàlber?",
+        "a": "La más próxima por carretera en el registro de la Generalitat es la de Olèrdola (B09), a 8,9 km."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 23,5 km según bmw.es."
+      },
+      {
+        "q": "¿Recogéis el coche en Puigdàlber?",
+        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "621 habitantes (+15,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Alt Penedès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081748&lang=es"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "0,4 km²",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081748&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "337 · 543 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081748&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Olèrdola (B09) · 8,9 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 51,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081748&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

@@ -3,11 +3,11 @@
   "name": "les Masies de Roda",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 760,
+  "population": 758,
   "lat": 41.9864,
   "lng": 2.3228,
   "metaTitle": "Taller BMW en les Masies de Roda | Ribera del Ter",
-  "metaDescription": "Taller BMW en les Masies de Roda, junto al río Ter. Mantenimiento preventivo, reparación de motor y diagnóstico electrónico para tu BMW. Presupuesto gratis.",
+  "metaDescription": "BMW en les Masies de Roda: ITV de Osona a 6,1 km y servicio oficial en Vic, a 9,9 km. El taller especialista independiente está en Sant Joan Despí, a 89,3 km.",
   "heroSubtitle": "Junto al Ter y a un paso de Roda, tu BMW merece un mantenimiento a la altura de su ingeniería. Consulta sin compromiso.",
   "trustChips": [
     {
@@ -180,5 +180,123 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Les Masies de Roda: Vic a diez kilómetros y el especialista BMW a 89",
+    "entradilla": "Desde el núcleo de les Masies de Roda, la ITV y el concesionario BMW quedan en Vic, a menos de diez kilómetros. Nuestro taller está a 89,3 km. Te contamos qué tiene sentido resolver en Osona y para qué conviene hacer el viaje.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 89.3
+    },
+    "secciones": [
+      {
+        "id": "vic-cerca",
+        "h2": "Osona te lo pone fácil: ITV a 6,1 km",
+        "parrafos": [
+          "La estación ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, es la más próxima por carretera según el registro de la Generalitat: 6,1 km desde el centro del núcleo urbano. El servicio oficial BMW también está en Vic, Quadis Munich en la calle Perot Rocaguinarda 1, a 9,9 km según el localizador de bmw.es.",
+          "Con las dos cosas tan a mano, el mantenimiento corriente y las campañas de la marca no justifican un viaje a Barcelona. Si el coche está en garantía, puedes revisarlo en un taller independiente sin perderla siempre que se respete el plan del fabricante; es lo que dice el Reglamento (UE) 461/2010."
+        ]
+      },
+      {
+        "id": "eje-c17",
+        "h2": "Bajar por la C-17: cinco carreteras y 89,3 km",
+        "parrafos": [
+          "La ruta hasta Dasercars Barcelona encadena la C-153, la C-25, la C-17, la C-33 y la B-20 hasta Sant Joan Despí. En línea recta son 72,3 km. La recogida del taller no llega a Osona: solo cubre el área metropolitana.",
+          "Compensa cuando el problema es de BMW y no se ha resuelto en la comarca: un testigo que vuelve una y otra vez, una avería eléctrica intermitente o una cadena que suena en frío."
+        ]
+      },
+      {
+        "id": "pueblo-junto-a-roda",
+        "h2": "758 vecinos y más de un coche por cada dos",
+        "parrafos": [
+          "Les Masies de Roda tenía 758 habitantes en el padrón de 2025, frente a 715 en 2015. Idescat, con datos de la DGT, contaba 480 turismos en 2024: 633 por cada 1.000 habitantes, más del doble que en Barcelona ciudad (281). Roda de Ter, el municipio vecino, queda a menos de un kilómetro en línea recta.",
+          "Para un BMW que hace sobre todo recorridos cortos entre pueblos, la batería sufre más que en un coche de autovía. En los modelos de la marca, una batería nueva se registra en la centralita; si no, la carga no se ajusta a ella."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde está la ITV más cercana a les Masies de Roda?",
+        "a": "La ITV Osona (B04), en el carrer Sant Llorenç Desmunts 22 de Vic, a 6,1 km por carretera."
+      },
+      {
+        "q": "¿Y el servicio oficial BMW?",
+        "a": "Quadis Munich, calle Perot Rocaguinarda 1 de Vic, a 9,9 km según bmw.es."
+      },
+      {
+        "q": "¿Tenéis taller en Osona?",
+        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 89,3 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "758 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Osona",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081167&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "480 · 633 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081167&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Osona (B04), Vic · 6,1 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Vic · 9,9 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 89,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081167&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
