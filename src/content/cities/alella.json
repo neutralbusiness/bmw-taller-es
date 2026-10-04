@@ -3,11 +3,11 @@
   "name": "Alella",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 9610,
+  "population": 10262,
   "lat": 41.49451,
   "lng": 2.29322,
   "metaTitle": "Taller BMW en Alella | Maresme especialistas",
-  "metaDescription": "Taller BMW especializado cerca de Alella, en el Maresme. Diagnóstico ISTA, presupuesto cerrado y técnicos formados en la marca. Pide cita.",
+  "metaDescription": "Alella, en el Maresme: ruta por la B-20 al taller especialista BMW de Sant Joan Despí, ITV en Badalona y servicio oficial en Sant Adrià.",
   "heroSubtitle": "Atención especializada BMW para Alella y la comarca del Maresme, junto a la costa.",
   "trustChips": [
     {
@@ -171,5 +171,123 @@
     "C-32",
     "B-500",
     "N-II"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Alella: un BMW a 3 km del mar y a 31,7 km del taller especialista",
+    "entradilla": "A tres kilómetros de la costa del Maresme, Alella tiene la B-20 y la C-32 casi en la puerta. Eso acerca Barcelona y también nuestro taller de Sant Joan Despí. Aquí tienes los datos para decidir.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 31.7
+    },
+    "secciones": [
+      {
+        "id": "b20-b23",
+        "h2": "Por la B-20 y la B-23, sin cruzar Barcelona",
+        "parrafos": [
+          "La ruta hasta el carrer del Tambor del Bruc de Sant Joan Despí va entera por rondas: B-20 y B-23, 31,7 km por carretera, 24,2 en línea recta. Con la C-32 a menos de un kilómetro del centro y la B-20 a menos de dos, la salida es inmediata.",
+          "Alella no forma parte del Área Metropolitana de Barcelona, que es el ámbito de la recogida del taller, así que esa opción no cubre el municipio: cuenta con traer el coche."
+        ]
+      },
+      {
+        "id": "aire-salino",
+        "h2": "El mar a 3,1 km: dónde se nota",
+        "parrafos": [
+          "La costa queda a unos 3,1 km del centro del municipio. No es primera línea, pero la humedad salina llega y trabaja despacio: en los tornillos y soportes del escape, en las tuberías de freno que van por los bajos y en los discos de un coche que pasa varios días sin moverse, que amanecen con una capa de óxido.",
+          "Si notas vibración al frenar las primeras veces después de un fin de semana parado, suele ser eso y se va sola. Si no se va, toca revisar discos y pastillas."
+        ]
+      },
+      {
+        "id": "sant-adria-y-badalona",
+        "h2": "Concesionario en Sant Adrià, ITV en Badalona",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más cercano es Barcelona Premium en la calle Juan de Austria 1 de Sant Adrià de Besòs, junto a la Ronda Litoral, a 12,6 km. Es la referencia para todo lo que dependa de la garantía de BMW.",
+          "En el registro de la Generalitat, la estación de ITV más próxima por carretera es la de Badalona (B02), en el carrer Indústria 427-449, a 11,6 km."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Alella?",
+        "a": "No. La recogida del taller cubre solo el Área Metropolitana de Barcelona, y Alella queda fuera."
+      },
+      {
+        "q": "¿Qué distancia hay hasta el taller?",
+        "a": "31,7 km por la B-20 y la B-23 hasta Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde está la ITV más cercana?",
+        "a": "En Badalona, estación B02 del carrer Indústria, a 11,6 km según el registro de la Generalitat."
+      },
+      {
+        "q": "¿Afecta el aire del mar a los frenos?",
+        "a": "Un coche parado varios días cerca de la costa acumula óxido superficial en los discos; con el uso desaparece, y si no, hay que revisarlos."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "10.262 habitantes (+6,2 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Maresme",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080039&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.193 · 506 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080039&lang=es"
+      },
+      {
+        "etiqueta": "Distancia a la costa",
+        "valor": "unos 3,1 km desde el centro",
+        "fuente": "Natural Earth",
+        "url": "https://www.naturalearthdata.com/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Badalona (B02) · 11,6 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 31,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080039&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

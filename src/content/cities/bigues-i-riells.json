@@ -3,11 +3,11 @@
   "name": "Bigues i Riells",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 8781,
+  "population": 10139,
   "lat": 41.68586,
   "lng": 2.20357,
   "metaTitle": "Taller BMW en Bigues i Riells | Vallès Oriental",
-  "metaDescription": "Taller especializado BMW en Bigues i Riells del Fai. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de Granollers y Sabadell.",
+  "metaDescription": "Bigues i Riells: concesionario BMW e ITV en Granollers y taller especialista independiente en Sant Joan Despí, a 54,2 km. Cuándo compensa el viaje.",
   "heroSubtitle": "El taller BMW de confianza en el Vallès Oriental, entre Granollers y el parque del Montseny.",
   "trustChips": [
     {
@@ -171,5 +171,118 @@
     "C-59",
     "C-17",
     "BV-1247"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Bigues i Riells: un BMW lejos de las autovías y a 54 km del taller",
+    "entradilla": "Ninguna carretera principal pasa a menos de tres kilómetros del centro de Bigues i Riells. Todo queda a cierta distancia: el concesionario a 17,6 km, la ITV a 20,3 y nuestro taller a 54,2. Te contamos qué conviene resolver cerca y qué no.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 54.2
+    },
+    "secciones": [
+      {
+        "id": "municipio-disperso",
+        "h2": "28,6 km² y 581 turismos por cada mil vecinos",
+        "parrafos": [
+          "Con 10.139 habitantes en 2025 (un 14,5 % más que en 2015) repartidos en 28,64 km², la densidad es de unos 354 por km². Idescat, con datos de la DGT, contaba 5.888 turismos en 2024: 581 por cada 1.000 vecinos, el doble que en Barcelona ciudad (281).",
+          "Sin autovía al lado, los trayectos cortos por carretera local son habituales hasta llegar a la C-17. Un diésel con ese uso tiene difícil completar la regeneración del filtro de partículas, y la batería no siempre llega a cargarse del todo entre arranques."
+        ]
+      },
+      {
+        "id": "granollers",
+        "h2": "Lo oficial, en Granollers",
+        "parrafos": [
+          "El localizador de bmw.es sitúa el punto oficial más próximo en Pruna Motor, en la C-17, km 19,060, en Granollers, a 17,6 km. La ITV más cercana por carretera en el registro de la Generalitat también está allí: Granollers (B18), en la avinguda Sant Julià del polígono El Congost, a 20,3 km."
+        ]
+      },
+      {
+        "id": "cuando-bajar",
+        "h2": "Cuándo merece la pena hacer 54 km",
+        "parrafos": [
+          "La ruta hasta Sant Joan Despí va por la BP-1432 hasta la C-17, sigue por la C-33 y entra en las rondas: B-20 y B-23. Son 54,2 km, y no tiene sentido recorrerlos por un cambio de neumáticos.",
+          "Sí lo tiene para una avería concreta de BMW que no se ha resuelto cerca, un problema de distribución en un diésel N47 o B47, o un fallo eléctrico intermitente. El presupuesto llega por escrito y nada se empieza sin que lo apruebes, así que puedes decidir antes de mover el coche."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Recogéis el coche en Bigues i Riells?",
+        "a": "No. La recogida cubre solo el Área Metropolitana de Barcelona y el municipio queda fuera."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más cercano?",
+        "a": "Pruna Motor, en la C-17, km 19,060, en Granollers, a 17,6 km según bmw.es."
+      },
+      {
+        "q": "¿Qué ITV me queda más cerca?",
+        "a": "La de Granollers (B18), en el polígono El Congost, a 20,3 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "10.139 habitantes (+14,5 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Oriental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080235&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.888 · 581 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=080235&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Pruna Motor (Granollers) · 17,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Granollers (B18) · 20,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 54,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=080235&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
+  }
 }

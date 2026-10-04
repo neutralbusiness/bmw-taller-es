@@ -3,11 +3,11 @@
   "name": "Matadepera",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 8669,
+  "population": 9776,
   "lat": 41.63171,
   "lng": 2.01558,
   "metaTitle": "Especialistas BMW en Matadepera — Revisión y reparación con garantía",
-  "metaDescription": "Especialistas BMW en Matadepera. Diagnóstico ISTA/Rheingold, aceite LL-04 y recambios OE. Tu garantía BMW intacta y hasta un 50% de ahorro.",
+  "metaDescription": "Matadepera: servicio oficial BMW en Terrassa, ITV en Viladecavalls y taller especialista independiente BMW y MINI en Sant Joan Despí, a 44,6 km.",
   "heroSubtitle": "¿Revisión, reparación o diagnóstico para tu BMW en Matadepera? Somos especialistas independientes con la misma tecnología que el concesionario.",
   "trustChips": [
     {
@@ -179,5 +179,122 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Matadepera: de la BV-1221 a la B-40, camino del especialista BMW",
+    "entradilla": "Para salir de Matadepera hacia cualquier sitio se pasa por Terrassa. Allí está el concesionario BMW más cercano y, un poco más allá, la ITV de Viladecavalls. Nuestro taller queda a 44,6 km, en Sant Joan Despí.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 44.6
+    },
+    "secciones": [
+      {
+        "id": "salir-por-terrassa",
+        "h2": "Seis carreteras hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta baja por la BV-1221 hasta Terrassa, enlaza con la B-40 y la C-16, y sigue por la B-30, la AP-7 y la B-23: 44,6 km por carretera para 29,6 en línea recta. La diferencia entre ambas cifras se explica por el rodeo obligado por Terrassa.",
+          "Ninguna vía principal pasa a menos de tres kilómetros del centro del pueblo, y eso tiene una consecuencia mecánica: los primeros kilómetros de cada trayecto se hacen con el motor frío y en carretera local. Para un diésel, conviene que de vez en cuando el viaje siga por autovía."
+        ]
+      },
+      {
+        "id": "anoia-9",
+        "h2": "Quadis Munich, en el carrer Anoia de Terrassa",
+        "parrafos": [
+          "El punto oficial más próximo según bmw.es es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 12,7 km. Si tu BMW está en garantía y tiene una avería cubierta, la reparación se tramita allí.",
+          "Si buscas un taller independiente especializado para el mantenimiento o un segundo diagnóstico, esa es nuestra parte. Trabajamos también MINI, que comparte electrónica y buena parte de los motores con BMW."
+        ]
+      },
+      {
+        "id": "itv-can-trias",
+        "h2": "ITV en el polígono Can Trias",
+        "parrafos": [
+          "La estación más próxima por carretera en el registro de la Generalitat es la de Viladecavalls (B03), en el carrer Joan Lluís Vives del polígono Can Trias, a 12,3 km. Matadepera tenía 9.776 habitantes en 2025, un 9,8 % más que diez años antes, y 5.047 turismos en 2024 según Idescat: 516 por cada 1.000."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿A qué distancia está el taller desde Matadepera?",
+        "a": "A 44,6 km por carretera, pasando por Terrassa, la C-16 y la AP-7."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "La más próxima en el registro de la Generalitat es Viladecavalls (B03), a 12,3 km."
+      },
+      {
+        "q": "¿Recogéis el coche en Matadepera?",
+        "a": "No. La recogida del taller cubre solo el Área Metropolitana de Barcelona y Matadepera queda fuera."
+      },
+      {
+        "q": "¿Reparáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "9.776 habitantes (+9,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081206&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "5.047 · 516 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081206&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich (Terrassa) · 12,7 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Viladecavalls (B03) · 12,3 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 44,6 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081206&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

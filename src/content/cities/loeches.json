@@ -3,11 +3,11 @@
   "name": "Loeches",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 8673,
+  "population": 9261,
   "lat": 40.38285,
   "lng": -3.42061,
   "metaTitle": "Taller BMW en Loeches | Mecánica Especializada Madrid Este",
-  "metaDescription": "Taller especializado en BMW en Loeches. Diagnóstico oficial, mantenimiento, turbo, caja ZF y Vanos. Presupuesto claro antes de reparar tu BMW.",
+  "metaDescription": "Loeches: ITV en Torrejón de Ardoz, servicio oficial BMW en Alcalá de Henares y taller especialista independiente en Alcobendas, a 40,5 km.",
   "heroSubtitle": "Especialistas BMW para Loeches y el corredor del Henares",
   "trustChips": [
     {
@@ -170,5 +170,127 @@
     "A-2",
     "R-2",
     "M-206"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Loeches: 641 turismos por cada mil vecinos y el taller BMW a 40,5 km",
+    "entradilla": "En Loeches hay 641 turismos por cada 1.000 vecinos, muchos más que en Madrid capital. Lo que necesitas cerca está en Torrejón de Ardoz y Alcalá; el taller especialista de la red, en Alcobendas, por la M-50.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 40.5
+    },
+    "secciones": [
+      {
+        "id": "parque-loeches",
+        "h2": "Un término de 44 km² y 5.936 turismos",
+        "parrafos": [
+          "Loeches tenía 9.261 habitantes en el padrón de 2025, un 12,8 % más que en 2015, repartidos en un término de 44,1 km². La Comunidad de Madrid, a partir de la DGT, contaba 5.936 turismos ese año: 641 por cada 1.000 vecinos, frente a 388 en Madrid capital.",
+          "Con la M-300 y la M-206 como vías más próximas, el uso típico es carretera convencional. Ahí el desgaste se reparte entre frenos, neumáticos y amortiguación, y conviene no alargar los intervalos que marca el indicador de servicio del coche."
+        ]
+      },
+      {
+        "id": "torrejon-y-alcala",
+        "h2": "ITV en Torrejón, oficial en Alcalá",
+        "parrafos": [
+          "La estación oficial de ITV más próxima es la de Itversia Gestión (estación 2861), en la calle Jacinto Benavente 6 del polígono Casablanca Este de Torrejón de Ardoz, a 12,4 km.",
+          "Para la red de la marca, el localizador de bmw.es remite a Alcalá de Henares: AutoPremier tiene su punto de servicio en la calle Argentina 7, a 17,4 km de Loeches por carretera. Pasar las revisiones en otro sitio no deja el coche sin garantía; el Reglamento (UE) 461/2010 lo ampara mientras se siga el plan de mantenimiento con piezas y aceites de la especificación correcta."
+        ]
+      },
+      {
+        "id": "m206-m50-r2",
+        "h2": "Por la M-206, la M-50 y la R-2",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande de Alcobendas sale por la M-206, toma la M-50 y termina por la R-2: 40,5 km por carretera, 25,9 en línea recta. Si el trabajo va a llevar varios días, pregunta por el vehículo de cortesía al reservar; depende de disponibilidad.",
+          "Un término tan amplio tiene otra lectura: buena parte de los desplazamientos empiezan y terminan con el motor frío. Si tu BMW es diésel y apenas sale de la M-206, una vuelta larga por la M-50 cada pocas semanas ayuda a que el filtro de partículas complete su regeneración."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV desde Loeches?",
+        "a": "En Itversia, calle Jacinto Benavente 6 (polígono Casablanca Este, Torrejón de Ardoz), a 12,4 km."
+      },
+      {
+        "q": "Si llevo el coche a revisar con vosotros, ¿mantengo la garantía de BMW?",
+        "a": "Sí, mientras se cumplan los intervalos y especificaciones del plan de mantenimiento."
+      },
+      {
+        "q": "¿Qué carreteras se cogen desde Loeches hasta el taller?",
+        "a": "La M-206, la M-50 y la R-2 hasta la calle Valgrande 17 de Alcobendas: 40,5 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "9.261 habitantes (+12,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "44,1 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "5.936 · 641 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Itversia, Torrejón de Ardoz · 12,4 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, c. Argentina 7 (Alcalá) · 17,4 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 40,5 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }
