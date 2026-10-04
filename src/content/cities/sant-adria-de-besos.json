@@ -3,7 +3,7 @@
   "name": "Sant Adrià de Besòs",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 36669,
+  "population": 39323,
   "lat": 41.43073,
   "lng": 2.21855,
   "metaTitle": "Taller BMW en Sant Adrià de Besòs | Mantenemos tu Garantía",
@@ -191,5 +191,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Pre-ITV y taller BMW para Sant Adrià de Besòs",
+    "entradilla": "En Sant Adrià está uno de los servicios oficiales BMW de Barcelona Premium, y la ITV de Badalona queda a 2,4 km. Nuestro taller, especialista independiente, está en Sant Joan Despí. Lo que necesitas saber para la pre-ITV, el horario y la ruta.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 20.8
+    },
+    "secciones": [
+      {
+        "id": "pre-itv",
+        "h2": "Qué se mira en una pre-ITV",
+        "parrafos": [
+          "La ITV más próxima por carretera en el registro de la Generalitat es la de Badalona (B02), en el carrer Indústria 427-449, a 2,4 km del centro de Sant Adrià. Antes de ir, una pre-ITV repasa lo que la estación va a mirar: luces y reglaje, holguras de dirección y suspensión, frenos, neumáticos y emisiones.",
+          "En las emisiones el taller tiene algo que aportar: Dasercars cuenta con homologación REDISTA para trabajos de escape y gases, que es justo donde un diésel con el filtro de partículas o el EGR tocados se queda en la inspección."
+        ]
+      },
+      {
+        "id": "ronda-litoral",
+        "h2": "El servicio oficial de la Ronda Litoral no somos nosotros",
+        "parrafos": [
+          "Según bmw.es, en el propio municipio está Barcelona Premium, en la calle Juan de Austria 1, junto a la Ronda Litoral: 1,6 km. Esta página es la de Dasercars, un taller independiente de BMW y MINI que no forma parte de esa red."
+        ]
+      },
+      {
+        "id": "horario-sant-joan",
+        "h2": "Horario y ruta hasta Sant Joan Despí",
+        "parrafos": [
+          "El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00, y cierra los fines de semana. Está a 20,8 km por la B-10 y la B-20, 14,8 en línea recta: se cruza Barcelona por las rondas de punta a punta.",
+          "Precisamente por eso, para quien vive en Sant Adrià tiene interés la recogida y entrega dentro del área metropolitana, sujeta a disponibilidad: pídela al reservar."
+        ]
+      },
+      {
+        "id": "junto-al-mar",
+        "h2": "A dos kilómetros del mar",
+        "parrafos": [
+          "El centro está a unos 2,1 km de la costa. El aire húmedo y salino acelera el óxido en bajos y anclajes del escape y deja marcados los discos de un coche que no se mueve en días. En un municipio tan denso —10.294 habitantes por km², en 3,82 km²— muchos coches duermen en la calle, y lo notan antes.",
+          "Sant Adrià tenía 39.323 habitantes en 2025 y 12.322 turismos en 2024 (Idescat): 313 por cada 1.000, no muy lejos de los 281 de Barcelona ciudad."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hacéis pre-ITV?",
+        "a": "Sí. Y la ITV más próxima a Sant Adrià es la de Badalona (B02), a 2,4 km."
+      },
+      {
+        "q": "¿Qué horario tenéis?",
+        "a": "De lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00."
+      },
+      {
+        "q": "¿Sois el BMW de la Ronda Litoral?",
+        "a": "No. Ese es Barcelona Premium, servicio oficial en la calle Juan de Austria 1. Nosotros somos Dasercars, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Recogéis el coche en Sant Adrià?",
+        "a": "Sí, dentro del área metropolitana de Barcelona y sujeto a disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "39.323 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Barcelonès",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081944&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "12.322 · 313 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081944&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Badalona (B02) · 2,4 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Barcelona Premium, c. Juan de Austria 1 · 1,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 20,8 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081944&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

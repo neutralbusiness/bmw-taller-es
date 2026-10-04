@@ -3,7 +3,7 @@
   "name": "Colmenar Viejo",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 43700,
+  "population": 58730,
   "lat": 40.65909,
   "lng": -3.76762,
   "metaTitle": "Taller BMW M en Colmenar Viejo — Especialistas en Rendimiento",
@@ -191,5 +191,135 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Colmenar Viejo: el especialista BMW queda más cerca que el concesionario",
+    "entradilla": "Una curiosidad útil: desde Colmenar Viejo, nuestro taller de Alcobendas está a 22 km y el servicio oficial BMW más próximo, a 24,1. Te contamos la ruta, la ITV del polígono La Mina y qué pide un coche a casi 900 metros.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 22.0
+    },
+    "secciones": [
+      {
+        "id": "m607-m616",
+        "h2": "Por la M-607 y la M-616, sin entrar en Madrid",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande baja por la M-607 y cruza por la M-616 hacia Alcobendas: 22 km por carretera, 16,8 en línea recta. No hace falta pisar la M-40 ni la M-30.",
+          "El taller ofrece recogida y entrega dentro del área metropolitana de Madrid y vehículo de cortesía para reparaciones largas, sujetos ambos a disponibilidad; pregunta al reservar si cubren tu calle."
+        ]
+      },
+      {
+        "id": "las-tablas-o-cuzco",
+        "h2": "El servicio oficial, en el norte de Madrid",
+        "parrafos": [
+          "Según el localizador de bmw.es, los puntos oficiales más próximos están en la capital y casi empatados: BYmyCAR Madrid, en la avenida de Burgos 133 (Las Tablas), a 24,1 km, y Caetano Cuzco, en Salvatierra, a 24,4 km.",
+          "Para el mantenimiento puedes elegir taller. Desde Colmenar, además, el especialista independiente te ahorra unos kilómetros."
+        ]
+      },
+      {
+        "id": "itv-la-mina",
+        "h2": "La ITV, en la calle Perfumería",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid sitúa una estación dentro del municipio: la de Applus Iteuve (2890), en la calle Perfumería 1 del polígono industrial La Mina. Para la inspección no hace falta salir de Colmenar."
+        ]
+      },
+      {
+        "id": "892-metros",
+        "h2": "Un término de 182 km² a 892 metros de altitud",
+        "parrafos": [
+          "El centro urbano está a 892 m, y en invierno se nota. El líquido de frenos merece atención aparte: absorbe humedad con el tiempo y pierde capacidad, por eso BMW lo cambia por años y no por kilómetros. En las bajadas de las carreteras de la sierra, un líquido viejo es lo último que quieres.",
+          "La batería es el otro clásico de las mañanas frías. Si la cambias, que la registren en la centralita: sin ese paso, el sistema de carga sigue tratándola como la antigua. Y si subes a menudo hacia los puertos, piensa en neumáticos de invierno o cadenas homologadas para tu medida: un BMW de propulsión trasera lo agradece especialmente en una rampa helada.",
+          "Colmenar ha pasado de 47.601 habitantes en 2015 a 58.730 en 2025, un 23,4 % más, y tenía 28.162 turismos censados en 2025: 480 por cada 1.000 vecinos. Con un término tan extenso, la densidad es de solo 323 habitantes por km²."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué queda más cerca de Colmenar, vuestro taller o el concesionario?",
+        "a": "Nuestro taller, a 22 km en Alcobendas. El servicio oficial más próximo, BYmyCAR Madrid en Las Tablas, está a 24,1 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Colmenar Viejo?",
+        "a": "En la calle Perfumería 1, polígono La Mina (estación 2890), dentro del municipio."
+      },
+      {
+        "q": "¿Recogéis el coche en Colmenar?",
+        "a": "Hay recogida en el área metropolitana de Madrid, sujeta a disponibilidad. Confirma al reservar si tu dirección entra."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis y los mismos planes de mantenimiento que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "58.730 habitantes (+23,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "28.162 · 480 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "182 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Applus Iteuve, c/ Perfumería 1",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Las Tablas) · 24,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 22 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }

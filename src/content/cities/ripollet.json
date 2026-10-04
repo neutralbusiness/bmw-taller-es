@@ -3,7 +3,7 @@
   "name": "Ripollet",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 38347,
+  "population": 39897,
   "lat": 41.49686,
   "lng": 2.15739,
   "metaTitle": "Taller BMW en Ripollet – Especialista sin perder garantía",
@@ -194,5 +194,130 @@
     "whatsapp": "34622552992",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Ripollet: el BMW oficial en Sabadell y el especialista a 24 km",
+    "entradilla": "Hay quien busca el «BMW oficial» más cercano pensando que solo allí se puede mantener el coche sin perder la garantía. No es así, y te explicamos por qué, además de dónde tienes el servicio oficial, la ITV y nuestro taller.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 24.4
+    },
+    "secciones": [
+      {
+        "id": "garantia-fuera-de-la-red",
+        "h2": "Mantenimiento fuera del concesionario, garantía intacta",
+        "parrafos": [
+          "La normativa europea de distribución de vehículos, el Reglamento (UE) 461/2010, permite hacer las revisiones en un taller independiente sin que el fabricante pueda negar la garantía por ello. La condición es seguir el plan: intervalos, piezas de calidad equivalente y aceites con la especificación correcta, con la factura como prueba.",
+          "Lo que sí queda en la red oficial son las reparaciones que paga la marca y las campañas de revisión que convoca."
+        ]
+      },
+      {
+        "id": "sabadell-oficial",
+        "h2": "Los puntos oficiales, en Sabadell",
+        "parrafos": [
+          "Según bmw.es, los dos más próximos a Ripollet están en Sabadell y casi a la misma distancia: el taller autorizado Sitjas Motor, en la calle Quintana 64, a 9,5 km por carretera, y Quadis Munich, a 9,6 km.",
+          "La ITV también te queda hacia allí: la estación de Sabadell (B24), en el polígono Can Roqueta, es la más próxima por carretera en el registro de la Generalitat, a 6,8 km."
+        ]
+      },
+      {
+        "id": "c58-b20-ripollet",
+        "h2": "24 kilómetros hasta Sant Joan Despí",
+        "parrafos": [
+          "La ruta hasta la nave de Dasercars Barcelona va por la C-58 y la B-20: 24,4 km por carretera, 16,5 en línea recta. Ripollet forma parte del Área Metropolitana de Barcelona, de modo que puedes pedir recogida y entrega del coche o un vehículo de cortesía, ambos sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "ripollet-denso",
+        "h2": "39.897 vecinos en 4,33 km²",
+        "parrafos": [
+          "Ripollet es un término muy pequeño y muy poblado: 9.214 habitantes por km² en 2025. Tenía 17.224 turismos en 2024 según Idescat, 432 por cada 1.000 vecinos, y una red de vías rápidas alrededor: la C-58, la AP-7, la C-17 y la C-33 pasan a menos de tres kilómetros del centro.",
+          "Es una ventaja para un diésel: el filtro de partículas necesita de vez en cuando un rato a velocidad constante para regenerarse, y aquí basta con salir a cualquiera de ellas."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Pierdo la garantía si no voy al concesionario?",
+        "a": "No, si se respeta el plan de mantenimiento del fabricante. Lo ampara el Reglamento (UE) 461/2010."
+      },
+      {
+        "q": "¿Cuál es el taller autorizado BMW más cercano a Ripollet?",
+        "a": "Sitjas Motor, calle Quintana 64 de Sabadell, a 9,5 km; Quadis Munich, también en Sabadell, queda a 9,6."
+      },
+      {
+        "q": "¿Recogéis el coche en Ripollet?",
+        "a": "Sí, dentro del área metropolitana de Barcelona y según disponibilidad."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "39.897 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081803&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "17.224 · 432 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081803&lang=es"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sabadell (B24) · 6,8 km",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Sitjas Motor (Sabadell) · 9,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 24,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081803&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

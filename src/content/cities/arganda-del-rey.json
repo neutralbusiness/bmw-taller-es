@@ -3,7 +3,7 @@
   "name": "Arganda del Rey",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 55506,
+  "population": 60419,
   "lat": 40.29637,
   "lng": -3.44945,
   "metaTitle": "Taller BMW en Arganda del Rey | Sureste de Madrid",
@@ -171,5 +171,129 @@
     "A-3",
     "M-311",
     "M-203"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Arganda del Rey: horario, ruta por la A-3 y dos ITV para tu BMW",
+    "entradilla": "Antes de llevar el coche a ningún sitio, lo primero que se pregunta desde Arganda es cuándo abre el taller y si es el servicio técnico de BMW. Lo aclaramos, junto con las dos estaciones de ITV del municipio y la ruta hasta Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 40.2
+    },
+    "secciones": [
+      {
+        "id": "horario-y-cita",
+        "h2": "Cuándo abre el taller y cómo se pide cita",
+        "parrafos": [
+          "Dasercars Madrid trabaja de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; sábados y domingos, cerrado. Desde Arganda, lo práctico es dejar el coche por la mañana y volver a recogerlo al final de la jornada, o al día siguiente si el trabajo es largo.",
+          "Antes de tocar nada recibes un presupuesto por escrito, y el trabajo no empieza hasta que lo apruebas. La diagnosis también se presupuesta: conectar el equipo y buscar una avería es trabajo técnico."
+        ]
+      },
+      {
+        "id": "servicio-tecnico-oficial",
+        "h2": "Si buscas el servicio técnico oficial",
+        "parrafos": [
+          "No lo somos. Según bmw.es, el punto oficial con taller más próximo es AutoPremier, en la carretera de Valencia, km 7,3, ya en Madrid: 19,8 km por carretera. Si lo que necesitas es el fabricante, es esa dirección.",
+          "Dasercars es un taller independiente dedicado a BMW y MINI. Hacemos mantenimiento, diagnosis y reparación, con especial experiencia en los diésel N47, N57, B47 y B57."
+        ]
+      },
+      {
+        "id": "dos-itv-arganda",
+        "h2": "Dos estaciones ITV dentro del término",
+        "parrafos": [
+          "El listado de la Comunidad de Madrid incluye dos en Arganda del Rey: la de General de Servicios ITV (2852), en el camino del Puente Viejo, y la de Laboratorio e Inspección de Vehículos (2807), en el camino de San Martín de la Vega 8.",
+          "Con dos estaciones a mano, la inspección se resuelve en el propio municipio. Si el coche va antes al taller, pide que repasen holguras de dirección, frenos y luces: son puntos que la inspección mira siempre."
+        ]
+      },
+      {
+        "id": "a3-hasta-alcobendas",
+        "h2": "40 kilómetros por la A-3, la M-30 y la A-1",
+        "parrafos": [
+          "La ruta desde el centro de Arganda entra en Madrid por la A-3, cruza por la M-30 y sale por la A-1 hasta la calle Valgrande: 40,2 km por carretera, 31,8 en línea recta. La R-3 pasa también a menos de tres kilómetros del casco.",
+          "Para trabajos de varios días, pregunta por la recogida y el vehículo de cortesía: solo se ofrecen dentro del área metropolitana de Madrid y sujetos a disponibilidad, así que confirma si tu dirección entra. Arganda tenía 60.419 habitantes en 2025 y 30.786 turismos censados: 510 por cada 1.000."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Qué horario tiene el taller?",
+        "a": "De lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00. Fines de semana, cerrado."
+      },
+      {
+        "q": "¿Sois el servicio técnico oficial de BMW?",
+        "a": "No. Somos taller independiente especialista. El oficial más próximo a Arganda es AutoPremier, carretera de Valencia km 7,3 (Madrid), a 19,8 km."
+      },
+      {
+        "q": "¿Qué ITV hay en Arganda del Rey?",
+        "a": "Dos: camino del Puente Viejo (2852) y camino de San Martín de la Vega 8 (2807), según la Comunidad de Madrid."
+      },
+      {
+        "q": "¿Cuánto hay hasta Alcobendas?",
+        "a": "40,2 km por la A-3, la M-30 y la A-1."
+      },
+      {
+        "q": "¿La diagnosis se paga aparte?",
+        "a": "Se presupuesta antes, como cualquier otro trabajo: sabes el importe antes de que se conecte el equipo."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "60.419 habitantes (+10,8 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "30.786 · 510 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "2",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, ctra. de Valencia km 7,3 · 19,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 40,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

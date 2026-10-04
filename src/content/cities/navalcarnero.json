@@ -3,7 +3,7 @@
   "name": "Navalcarnero",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 21584,
+  "population": 33331,
   "lat": 40.28908,
   "lng": -4.01197,
   "metaTitle": "Taller BMW en Navalcarnero | Diagnóstico y mecánica",
@@ -180,5 +180,119 @@
     "A-5",
     "M-506",
     "M-600 hacia Villaviciosa de Odón"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Navalcarnero: tu BMW a 55 km del especialista y a 20 del servicio oficial",
+    "entradilla": "Desde Navalcarnero hasta el taller de Alcobendas hay casi 55 km. Antes de decidir dónde llevar el coche, mira lo que tienes cerca: ITV en el propio municipio y servicio oficial BMW en Alcorcón.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 54.9
+    },
+    "secciones": [
+      {
+        "id": "itv-alparrache",
+        "h2": "La ITV, en el polígono El Alparrache",
+        "parrafos": [
+          "El listado de la Comunidad de Madrid incluye una estación en el término: la de TÜV Rheinland Ibérica (2845), en el paseo de Alparrache 26, dentro del polígono industrial El Alparrache. No hace falta salir del municipio para la inspección."
+        ]
+      },
+      {
+        "id": "vehinter-alcorcon",
+        "h2": "El servicio oficial, a 20 km en Alcorcón",
+        "parrafos": [
+          "Según bmw.es, el punto oficial más próximo es Vehinter, en la avenida de San Martín de Valdeiglesias 14-16 de Alcorcón: 20,1 km por carretera. Queda bastante más cerca que nuestro taller, y conviene tenerlo en cuenta."
+        ]
+      },
+      {
+        "id": "a5-hasta-alcobendas",
+        "h2": "55 kilómetros cruzando Madrid",
+        "parrafos": [
+          "La ruta hasta la calle Valgrande sale por la A-5, toma la M-40 y la M-30 y termina en la A-1: 54,9 km por carretera, 41,2 en línea recta. Es un trayecto largo, y no tiene sentido hacerlo para un cambio de aceite si tienes un taller de confianza cerca.",
+          "Sí lo tiene para lo que pide un especialista en la marca: una avería que vuelve, un fallo del sistema SCR, una cadena de distribución ruidosa o un diagnóstico que nadie ha cerrado. En esos casos, cuéntanos primero el síntoma por teléfono y valoramos juntos si el viaje merece la pena. La recogida del taller está limitada al área metropolitana y sujeta a disponibilidad: pregunta si Navalcarnero entra."
+        ]
+      },
+      {
+        "id": "navalcarnero-crece",
+        "h2": "Un 25 % más de vecinos en diez años",
+        "parrafos": [
+          "Navalcarnero ha pasado de 26.672 habitantes en 2015 a 33.331 en 2025. Tenía 15.832 turismos censados en 2025, según la Comunidad de Madrid a partir de la DGT: 475 por cada 1.000 vecinos, en un término de 100,4 km².",
+          "Con la A-5 y la R-5 a menos de tres kilómetros del centro, un diésel tiene fácil hacer el rato de carretera que necesita el filtro de partículas para limpiarse."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV en Navalcarnero?",
+        "a": "En la estación de TÜV Rheinland, paseo de Alparrache 26, polígono El Alparrache."
+      },
+      {
+        "q": "¿Cuál es el servicio oficial BMW más cercano?",
+        "a": "Vehinter, en Alcorcón, a 20,1 km según bmw.es."
+      },
+      {
+        "q": "¿Cuánto hay hasta vuestro taller?",
+        "a": "54,9 km por la A-5, la M-40, la M-30 y la A-1 hasta Alcobendas."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "33.331 habitantes (+25 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "15.832 · 475 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "TÜV Rheinland, P.º de Alparrache 26",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Vehinter (Alcorcón) · 20,1 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 54,9 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

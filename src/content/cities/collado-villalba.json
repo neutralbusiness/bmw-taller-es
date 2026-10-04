@@ -3,7 +3,7 @@
   "name": "Collado-Villalba",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 63074,
+  "population": 67274,
   "lat": 40.63506,
   "lng": -4.00486,
   "metaTitle": "Taller BMW en Collado Villalba | Especialistas en la Sierra de Madrid",
@@ -183,5 +183,135 @@
     "M-601",
     "M-607",
     "M-618"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Collado-Villalba: tres ITV en el municipio y el especialista a 49 km",
+    "entradilla": "Quien busca «BMW Villalba» suele querer el concesionario, y en el localizador de la marca no aparece ninguno dentro del municipio. Aquí tienes qué hay cerca, dónde pasar la ITV sin salir de Villalba y qué supone llevar el coche a nuestro taller de Alcobendas.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 49.1
+    },
+    "secciones": [
+      {
+        "id": "concesionario-las-rozas",
+        "h2": "El punto oficial de BMW más cercano está en Las Rozas",
+        "parrafos": [
+          "Según bmw.es, el servicio oficial con taller más próximo a Collado-Villalba es Movilnorte, en el kilómetro 23,100 de la A-6, en Las Rozas: 17,8 km por carretera. Si te llega una carta de la marca para una llamada a revisión, esa cita se pide allí.",
+          "Nosotros somos otra cosa: Dasercars, un taller independiente que solo trabaja BMW y MINI. Lo que cambia es quién hace el mantenimiento, no la garantía: el Reglamento (UE) 461/2010 impide que el fabricante la condicione a pasar por su red, siempre que se sigan los intervalos y se usen piezas y aceites con su especificación."
+        ]
+      },
+      {
+        "id": "tres-estaciones-itv",
+        "h2": "Tres estaciones de ITV, dos de ellas en el polígono P-29",
+        "parrafos": [
+          "El listado de la Comunidad de Madrid recoge tres estaciones dentro del término: la de TÜV SÜD ATISAE (2813) en la calle Escofina 3 y la de ITV P-29 Collado Villalba (2883) en la calle Buril 10, ambas en el polígono industrial P-29, y la de Itevelesa (2832), junto a la A-6 en el kilómetro 37,6.",
+          "Si te toca la inspección, no hace falta bajar a Madrid: lo que sí conviene es revisar antes luces, escobillas y el nivel de emisiones si el coche es diésel y ha hecho mucho trayecto corto."
+        ]
+      },
+      {
+        "id": "883-metros",
+        "h2": "A 883 metros, el invierno empieza por la batería",
+        "parrafos": [
+          "El centro urbano está a 883 m de altitud. Las mañanas de helada son las que descubren una batería floja, sobre todo en los BMW con arranque y parada automático, que piden más a la batería que un coche sin ese sistema. Cuando se cambia, hay que registrarla en la centralita para que la carga se ajuste a la nueva.",
+          "El otro punto es el refrigerante: no basta con que esté a nivel, tiene que tener la concentración de anticongelante correcta. Se mide en un momento y evita un susto en enero."
+        ]
+      },
+      {
+        "id": "a6-m40-a1",
+        "h2": "49 kilómetros por la A-6, la M-40 y la A-1",
+        "parrafos": [
+          "Desde el centro de Collado-Villalba hasta la nave de la calle Valgrande, en Alcobendas, la ruta baja por la A-6, rodea Madrid por la M-40 y sube por la A-1: 49,1 km por carretera, 31,8 en línea recta. Con la A-6 y la AP-6 pasando junto al casco urbano, la salida es directa.",
+          "Esa distancia pesa. Tiene sentido para lo que pide un especialista —un fallo de inyección en un diésel N57, un aviso de AdBlue que vuelve, una avería eléctrica que no se ha encontrado— más que para un cambio de neumáticos. La recogida y el vehículo de cortesía existen dentro del área metropolitana de Madrid y están sujetos a disponibilidad: pregunta al reservar si tu dirección entra."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Hay concesionario BMW en Collado-Villalba?",
+        "a": "El localizador de bmw.es no muestra ninguno con taller en el municipio. El más próximo es Movilnorte, en la A-6, km 23,100, en Las Rozas, a 17,8 km."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Collado-Villalba?",
+        "a": "Hay tres estaciones en el término: dos en el polígono P-29 (calle Escofina 3 y calle Buril 10) y una en la A-6, km 37,6."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 49,1 km por carretera, en la calle Valgrande 17 de Alcobendas."
+      },
+      {
+        "q": "¿Trabajáis MINI?",
+        "a": "Sí, con el mismo equipo de diagnosis que los BMW."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "67.274 habitantes (+8,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "34.592 · 514 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Estaciones ITV en el municipio",
+        "valor": "3",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "883 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Movilnorte (Las Rozas) · 17,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 49,1 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Reglamento (UE) 461/2010",
+        "url": "https://eur-lex.europa.eu/eli/reg/2010/461/oj"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

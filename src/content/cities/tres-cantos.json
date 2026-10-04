@@ -3,7 +3,7 @@
   "name": "Tres Cantos",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 41896,
+  "population": 54592,
   "lat": 40.60092,
   "lng": -3.70806,
   "metaTitle": "Taller BMW en Tres Cantos — Especialistas N47 y Diagnóstico ISTA",
@@ -193,5 +193,128 @@
     "whatsapp": "34665245143",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "BMW en Tres Cantos: el taller especialista, a 12 km en Alcobendas",
+    "entradilla": "Desde Tres Cantos, el taller de la red está a 12,4 km: los que separan el municipio de la calle Valgrande de Alcobendas. Te contamos también dónde está la ITV del municipio y qué servicio oficial te queda más cerca.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 12.4
+    },
+    "secciones": [
+      {
+        "id": "doce-kilometros",
+        "h2": "12,4 kilómetros por la M-607 y la M-616",
+        "parrafos": [
+          "Desde el centro de Tres Cantos, la ruta a Dasercars Madrid toma la M-607 y enlaza con la M-616 hasta Alcobendas: 12,4 km por carretera, 8,6 en línea recta. Con esa distancia, dejar el coche de camino al trabajo y recogerlo a la vuelta es realista.",
+          "Si no puedes acercarte, el taller ofrece recogida y entrega dentro del área metropolitana de Madrid, y vehículo de cortesía cuando la reparación se alarga, siempre sujetos a disponibilidad."
+        ]
+      },
+      {
+        "id": "no-somos-el-concesionario",
+        "h2": "Lo que somos y lo que no",
+        "parrafos": [
+          "Dasercars no es concesionario ni servicio oficial de la marca: es un taller independiente dedicado a BMW y MINI, con especial experiencia en los diésel de cuatro y seis cilindros (N47, N57, B47, B57) y homologación REDISTA para escape y gases.",
+          "Los puntos oficiales más próximos según bmw.es están en Madrid y casi empatados: BYmyCAR, en la avenida de Burgos 133 (Las Tablas), a 14,5 km, y Caetano Cuzco, en Salvatierra, a 14,7. Ojo a un detalle: nuestro taller te queda incluso un poco más cerca."
+        ]
+      },
+      {
+        "id": "itv-san-isidro",
+        "h2": "La ITV de la calle San Isidro Labrador",
+        "parrafos": [
+          "El listado oficial de la Comunidad de Madrid incluye una estación en el municipio: la de TÜV SÜD ATISAE (2811), en la calle San Isidro Labrador 6. Si el coche pasa antes por el taller por otra cosa, aprovecha para una revisión de luces, frenos y emisiones y ve a la inspección con todo en orden."
+        ]
+      },
+      {
+        "id": "tres-cantos-crece",
+        "h2": "Un 26,1 % más de vecinos que en 2015",
+        "parrafos": [
+          "Tres Cantos ha pasado de 43.309 a 54.592 habitantes en diez años. En 2025 tenía 28.323 turismos censados según la Comunidad de Madrid a partir de la DGT: 519 por cada 1.000 vecinos, frente a los 388 de Madrid capital.",
+          "Una ciudad de trayectos cortos tiene un enemigo para los diésel: el filtro de partículas necesita kilómetros seguidos para regenerarse. Si tu BMW apenas sale del casco, una salida por la M-607 de vez en cuando le viene bien."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de Tres Cantos?",
+        "a": "No. Somos Dasercars, taller independiente especialista en Alcobendas. Los oficiales más próximos están en Las Tablas y en Salvatierra (Madrid)."
+      },
+      {
+        "q": "¿A qué distancia está el taller?",
+        "a": "A 12,4 km por la M-607 y la M-616."
+      },
+      {
+        "q": "¿Puedo dejar el coche por la mañana y recogerlo por la tarde?",
+        "a": "Sí, para trabajos de un día es lo habitual. El taller trabaja de lunes a viernes en jornada partida."
+      },
+      {
+        "q": "¿Dónde paso la ITV en Tres Cantos?",
+        "a": "En la estación de la calle San Isidro Labrador 6, dentro del municipio."
+      },
+      {
+        "q": "¿Recogéis el coche en Tres Cantos?",
+        "a": "Sí, dentro del área metropolitana de Madrid y sujeto a disponibilidad. Pídelo al reservar."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "54.592 habitantes (+26,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "28.323 · 519 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "TÜV SÜD ATISAE, c/ San Isidro Labrador 6",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "BYmyCAR Madrid (Las Tablas) · 14,5 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 12,4 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
   }
 }
