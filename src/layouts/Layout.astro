@@ -1,5 +1,6 @@
 ---
 import { NETWORK } from "../lib/network.ts";
+import { heroMovil } from "../lib/heroMovil.ts";
 
 interface Props {
   title: string;
@@ -10,9 +11,13 @@ interface Props {
   ogImage?: string;
   /** true → emite <meta name="robots" content="noindex"> (páginas de error, etc.). */
   noindex?: boolean;
+  /** Imagen del hero de la página (para precargar la que de verdad se pinta). */
+  heroImage?: string;
 }
 
 const { title, description, canonical, schema, noindex = false, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
+const heroImg = Astro.props.heroImage ?? NETWORK.heroImage;
+const heroSm = heroMovil(heroImg);
 ---
 
 <!DOCTYPE html>
@@ -38,7 +43,14 @@ const { title, description, canonical, schema, noindex = false, ogImage = `https
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png" />
-    <link rel="preload" as="image" href={NETWORK.heroImage} fetchpriority="high" />
+    {heroSm ? (
+      <>
+        <link rel="preload" as="image" href={heroSm} media="(max-width: 799px)" fetchpriority="high" type="image/webp" />
+        <link rel="preload" as="image" href={heroImg} media="(min-width: 800px)" fetchpriority="high" type="image/webp" />
+      </>
+    ) : (
+      <link rel="preload" as="image" href={heroImg} fetchpriority="high" />
+    )}
     {NETWORK.gtmId && <link rel="dns-prefetch" href="https://www.googletagmanager.com" />}
 
     {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
@@ -912,17 +924,9 @@ h1{max-width:961px}
   <script async src="https://panel.neutralb.es/track.js"></script>
   <!-- GTM: carga diferida para no bloquear LCP/FCP -->
   {NETWORK.gtmId && (
-    <script define:vars={{ gtmId: NETWORK.gtmId }}>
-      addEventListener('DOMContentLoaded', () => {
-        requestIdleCallback(() => {
-          const s = document.createElement('script');
-          s.src = `https://www.googletagmanager.com/gtm.js?id=${gtmId}`;
-          s.async = true;
-          window.dataLayer = window.dataLayer || [];
-          window.dataLayer.push({ 'gtm.start': Date.now(), event: 'gtm.js' });
-          document.head.appendChild(s);
-        }, { timeout: 3000 });
-      });
+    <script is:inline define:vars={{ gtmId: NETWORK.gtmId }}>
+      // GTM con la primera interacción o 7 s después de `load` (estándar de la flota).
+      window.dataLayer=window.dataLayer||[];window.dataLayer.push({"gtm.start":new Date().getTime(),event:"gtm.js"});(function(w,d,i){var c=0;function l(){if(c)return;c=1;var s=d.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtm.js?id="+i;d.head.appendChild(s)}["pointerdown","keydown","touchstart","scroll"].forEach(function(e){w.addEventListener(e,l,{once:true,passive:true})});w.addEventListener("load",function(){setTimeout(l,7000)})})(window,document,gtmId);
     </script>
   )}
   </head>
