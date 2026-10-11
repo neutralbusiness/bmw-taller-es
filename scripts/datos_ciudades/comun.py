@@ -54,7 +54,7 @@ SOCIOS = {
         "provincia": "Madrid",
         "lat": 40.53717,
         "lng": -3.65107,
-        "telefono": "+34665245143",
+        "telefono": "+34673506793",
         "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
         "horario_schema": [["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "09:00", "14:00", "15:00", "18:00"],
         "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/",
@@ -96,7 +96,7 @@ def socio_para(ciudad: dict) -> str | None:
     prov = ciudad.get("province")
     if tel.endswith("647503521"):
         return "socio-zaragoza"
-    if tel.endswith("665245143") or prov in PROV_CENTRO:
+    if tel.endswith("673506793") or prov in PROV_CENTRO:
         return "dasercars-alcobendas"
     if prov in PROV_CATALUNYA:
         return "dasercars-sant-joan-despi"
