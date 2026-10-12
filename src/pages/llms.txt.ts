@@ -47,6 +47,7 @@ export const GET: APIRoute = () => {
   lines.push(`- Nombre comercial: ${CONTACT.businessName}`);
   lines.push(`- Web principal: ${base}/`);
   lines.push(`- Directorio de zonas: ${base}/zonas/`);
+  lines.push(`- Contacto y cita previa (Madrid y Barcelona, llamada o WhatsApp): ${base}/contacto/`);
   lines.push(`- Sector: talleres de reparación y mantenimiento especializados en BMW`);
   lines.push(`- País: España`);
   lines.push("");
