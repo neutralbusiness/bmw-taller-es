@@ -22,8 +22,8 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityRef };
-// Llamada según la comunidad de la ciudad (el 622 no se usa como llamada fuera de Cataluña).
-const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa);
+// Llamada: la delegación que atiende la ciudad (Madrid o Barcelona).
+const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng);
 
 const all = await getCollection("blog");
 

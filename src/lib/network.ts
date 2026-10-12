@@ -10,9 +10,11 @@ export const NETWORK = {
   brand: "BMW Taller",
   sector: "taller-bmw",
   tagline: "Especialistas BMW en toda España — hasta un 50 % menos que el oficial",
-  phone: "+34622552992",
-  phoneDisplay: "622 552 992",
-  whatsapp: "34622552992",
+  // Teléfono por defecto (sin comunidad conocida): delegación de Madrid.
+  // Los únicos teléfonos de la web son los de las dos delegaciones (12-oct-2026).
+  phone: "+34679176858",
+  phoneDisplay: "679 176 858",
+  whatsapp: "34679176858",
   email: "info@bmw-taller.es",
   heroImage: "/img/hero.webp",
   gtmId: "GTM-MXDJ2V5T",
@@ -88,64 +90,78 @@ export const FAQ_BASE = [
 
 
 /**
- * Fijo de LLAMADA que acompaña a un móvil (07-oct-2026). El WhatsApp sigue siendo
- * el móvil: aquí solo se decide qué se marca y qué se muestra al llamar.
- * Clave = móvil en E.164. Vale para el NETWORK y para cualquier tenant de ciudad.
+ * Las DOS delegaciones (12-oct-2026, orden de Martin): son los ÚNICOS teléfonos
+ * de la web, para llamada y para WhatsApp. Nada de fijos 930/919, ni 622, 673,
+ * 641 ni 647: cualquier teléfono que llegue de la ficha de una ciudad (bloque
+ * `tenant` del JSON, que escribe el panel) se sustituye por el de su delegación.
  */
-export const PHONE_LANDLINE: Record<string, { phone: string; phoneDisplay: string }> = {
-  "+34622552992": { phone: "+34930454510", phoneDisplay: "930 454 510" }, // Barcelona
-  "+34673506793": { phone: "+34919583601", phoneDisplay: "919 583 601" }, // Madrid
-};
+export const DELEGACIONES = {
+  madrid: {
+    nombre: "Madrid",
+    phone: "+34679176858",
+    phoneDisplay: "679 176 858",
+    whatsapp: "34679176858",
+    lat: 40.5373,
+    lng: -3.6511, // Alcobendas, C/ Valgrande 17
+  },
+  barcelona: {
+    nombre: "Barcelona",
+    phone: "+34631687779",
+    phoneDisplay: "631 687 779",
+    whatsapp: "34631687779",
+    lat: 41.3655,
+    lng: 2.0577, // Sant Joan Despí, C/ Tambor del Bruc 3
+  },
+} as const;
+export type Delegacion = (typeof DELEGACIONES)[keyof typeof DELEGACIONES];
+
+function distKm(aLat: number, aLng: number, bLat: number, bLng: number): number {
+  const r = Math.PI / 180;
+  const dLat = (bLat - aLat) * r;
+  const dLng = (bLng - aLng) * r;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(aLat * r) * Math.cos(bLat * r) * Math.sin(dLng / 2) ** 2;
+  return 12742 * Math.asin(Math.sqrt(h));
+}
 
 /**
- * El 622 552 992 (Barcelona) solo se usa en Cataluña. Cuando es el teléfono que
- * tiene la ficha (el general de la red), se sustituye según la comunidad:
- *   · Cataluña            → 622 552 992 (llamada 930 454 510 - 622 552 992)
- *   · Comunidad de Madrid → 673 506 793 (llamada 919 583 601 - 673 506 793)
- *   · resto de España     → 641 161 771 (llamada y WhatsApp, sin fijo)
- * Los teléfonos propios de un taller asociado (cualquier otro número) no se tocan.
+ * Delegación que atiende una ciudad:
+ *   · Cataluña            → Barcelona
+ *   · Comunidad de Madrid → Madrid
+ *   · Aragón              → Barcelona (Zaragoza capital está más cerca de Sant Joan
+ *                           Despí; así las 15 ciudades de Zaragoza no se reparten
+ *                           entre dos números, como tampoco lo estaban antes)
+ *   · resto de España     → la más cercana en línea recta (si hay coordenadas)
+ *   · sin datos           → Madrid
  */
-const PHONE_622 = "+34622552992";
-function phoneForCcaa(phone: string, ccaa?: string): string | undefined {
-  if (!ccaa || phone !== PHONE_622 || ccaa === "Cataluña") return undefined;
-  return ccaa === "Comunidad de Madrid" ? "+34673506793" : "+34641161771";
-}
-
-/** Misma agrupación que `display` ("622 552 992" / "622 55 29 92") con los dígitos de `e164`. */
-function sameFormat(display: string, e164: string): string {
-  const dd = display.replace(/\D/g, "");
-  const nd = e164.replace(/\D/g, "");
-  const src = nd.slice(Math.max(0, nd.length - dd.length));
-  let i = 0;
-  return display.replace(/\d/g, () => src[i++] ?? "");
-}
-
-/** Datos de llamada: fijo + móvil si el móvil tiene fijo asociado; si no, el móvil tal cual. */
-export function callPhones(phone: string, phoneDisplay: string, ccaa?: string) {
-  let mobile = { phone, phoneDisplay };
-  const norm = (phone || "").replace(/[^\d+]/g, "");
-  const otro = phoneForCcaa(norm, ccaa);
-  if (otro) mobile = { phone: otro, phoneDisplay: sameFormat(phoneDisplay, otro) };
-  const fijo = PHONE_LANDLINE[mobile.phone.replace(/[^\d+]/g, "")];
-  if (!fijo) {
-    return { tel: mobile.phone, display: mobile.phoneDisplay, mobile, landline: null as null | { phone: string; phoneDisplay: string }, telephone: mobile.phone as string | string[] };
+export function delegacionPara(ccaa?: string, lat?: number, lng?: number): Delegacion {
+  if (ccaa === "Cataluña" || ccaa === "Aragón") return DELEGACIONES.barcelona;
+  if (ccaa === "Comunidad de Madrid") return DELEGACIONES.madrid;
+  if (typeof lat === "number" && typeof lng === "number" && isFinite(lat) && isFinite(lng)) {
+    const m = distKm(lat, lng, DELEGACIONES.madrid.lat, DELEGACIONES.madrid.lng);
+    const b = distKm(lat, lng, DELEGACIONES.barcelona.lat, DELEGACIONES.barcelona.lng);
+    return b < m ? DELEGACIONES.barcelona : DELEGACIONES.madrid;
   }
-  const landline = { phone: fijo.phone, phoneDisplay: sameFormat(mobile.phoneDisplay, fijo.phone) };
+  return DELEGACIONES.madrid;
+}
+
+/**
+ * Datos de llamada de una ciudad. Se conserva la firma antigua (phone,
+ * phoneDisplay) para no tocar las plantillas, pero el número que manda es el de
+ * la delegación: ya no hay fijo asociado (`landline` siempre null).
+ */
+export function callPhones(_phone: string, _phoneDisplay: string, ccaa?: string, lat?: number, lng?: number) {
+  const d = delegacionPara(ccaa, lat, lng);
+  const mobile = { phone: d.phone as string, phoneDisplay: d.phoneDisplay as string };
   return {
-    tel: fijo.phone,
-    display: `${landline.phoneDisplay} - ${mobile.phoneDisplay}`,
+    tel: mobile.phone,
+    display: mobile.phoneDisplay,
     mobile,
-    landline,
-    telephone: [fijo.phone, mobile.phone] as string | string[],
+    landline: null as null | { phone: string; phoneDisplay: string },
+    telephone: mobile.phone as string | string[],
   };
 }
 
-
-/**
- * WhatsApp por comunidad, con la misma regla que la llamada (ver phoneForCcaa).
- */
-export function waFor(whatsapp: string, ccaa?: string): string {
-  const n = (whatsapp || "").replace(/\D/g, "");
-  const otro = phoneForCcaa(n.length === 9 ? "+34" + n : "+" + n, ccaa);
-  return otro ? otro.replace(/\D/g, "") : whatsapp;
+/** WhatsApp de una ciudad: el de su delegación. */
+export function waFor(_whatsapp: string, ccaa?: string, lat?: number, lng?: number): string {
+  return delegacionPara(ccaa, lat, lng).whatsapp;
 }

@@ -49,8 +49,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
-  // Llamada según la comunidad de la ciudad (el 622 no se usa como llamada fuera de Cataluña).
-  const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa);
+  // Llamada: la delegación que atiende la ciudad (Madrid o Barcelona).
+  const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
 
@@ -102,7 +102,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(`- Email: ${NETWORK.email}`);
   lines.push(`- Teléfono: ${callC.display} (${[callC.landline?.phone, callC.mobile.phone].filter(Boolean).join(" - ")})`);
-  lines.push(`- WhatsApp: +${waFor(NETWORK.whatsapp, city.ccaa)}`);
+  lines.push(`- WhatsApp: +${waFor(NETWORK.whatsapp, city.ccaa, (city as any).lat, (city as any).lng)}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
   lines.push(
     `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando marca, modelo, año y descripción del problema o servicio buscado.`,

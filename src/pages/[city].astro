@@ -129,14 +129,14 @@ const heroSmCity = heroMovil(heroImage);
 /* ──────────────────────────────────────────────────────────
    Tenant resolution: si el subdominio está contratado por un
    taller real, sus datos sobreescriben los del NETWORK central.
-   Vacante por defecto → 641 16 17 71 / info@redtalleres.es.
+   Teléfono y WhatsApp: SIEMPRE los de la delegación de la zona (network.ts).
    ────────────────────────────────────────────────────────── */
 const t = city.tenant && city.tenant.active ? city.tenant : null;
 const phone = t?.phone ?? NETWORK.phone;
 const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
-// Llamada: fijo + móvil cuando el móvil tiene fijo asociado (el WhatsApp sigue siendo el móvil).
-const call = callPhones(phone, phoneDisplay, city.ccaa);
-const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa);
+// Llamada y WhatsApp: los de la delegación que atiende la ciudad (Madrid o Barcelona).
+const call = callPhones(phone, phoneDisplay, city.ccaa, city.lat, city.lng);
+const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa, city.lat, city.lng);
 const email = t?.email ?? NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
 const hours = t?.hours ?? "Lunes a Sábado · 08:00–20:00";

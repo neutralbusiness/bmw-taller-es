@@ -7,9 +7,7 @@
  * /llms.txt con el detalle local (src/pages/[city]/llms.txt.ts).
  */
 import type { APIRoute } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, callPhones } from "../lib/network.ts";
-// Llamada: fijo + móvil (el WhatsApp sigue siendo el móvil).
-const callN = callPhones(NETWORK.phone, NETWORK.phoneDisplay);
+import { NETWORK, SERVICES, FAQ_BASE, DELEGACIONES } from "../lib/network.ts";
 
 interface CityRef { slug: string; name: string; province: string; ccaa: string; }
 
@@ -55,8 +53,10 @@ export const GET: APIRoute = () => {
 
   lines.push("## Contacto");
   lines.push("");
-  lines.push(`- Teléfono: ${callN.display} (${[callN.landline?.phone, CONTACT.phone].filter(Boolean).join(" - ")})`);
-  lines.push(`- WhatsApp: +${CONTACT.whatsapp}`);
+  // Dos delegaciones: son los únicos teléfonos (llamada y WhatsApp).
+  for (const d of [DELEGACIONES.madrid, DELEGACIONES.barcelona]) {
+    lines.push(`- Teléfono y WhatsApp ${d.nombre}: ${d.phoneDisplay} (${d.phone})`);
+  }
   lines.push(`- Email: ${CONTACT.email}`);
   lines.push(`- Horario (talleres Dasercars de Alcobendas y Sant Joan Despí): De lunes a viernes de 09:00h a 14:00h y de 15:00h a 18:00h (sábado cerrado)`);
   lines.push("");
