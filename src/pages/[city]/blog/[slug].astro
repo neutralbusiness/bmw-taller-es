@@ -1,7 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import { NETWORK, callPhones } from "../../../lib/network.ts";
-import ContactForm from "../../../components/ContactForm.astro";
 import { getCollection, render } from "astro:content";
 
 interface CityRef {
@@ -126,8 +125,6 @@ function formatDate(d: Date): string {
       </div>
     )}
   </article>
-
-  <ContactForm city={city.slug} cityName={city.name} networkDomain={NETWORK.domain} />
 
   <style>
     .post { padding: 0 0 3rem; }

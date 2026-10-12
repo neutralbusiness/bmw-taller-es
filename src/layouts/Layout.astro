@@ -28,6 +28,8 @@ const heroSm = heroMovil(heroImg);
     <title>{title}</title>
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex" />}
+    {/* Sin formularios en bmw-taller.es por decisión de Martin (12-oct-2026): veto para formulario.js/track.js. */}
+    <meta name="nb-form" content="off" />
     {canonical && <link rel="canonical" href={canonical} />}
 
     <meta property="og:title" content={title} />
