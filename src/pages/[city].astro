@@ -135,8 +135,8 @@ const t = city.tenant && city.tenant.active ? city.tenant : null;
 const phone = t?.phone ?? NETWORK.phone;
 const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
 // Llamada y WhatsApp: los de la delegación que atiende la ciudad (Madrid o Barcelona).
-const call = callPhones(phone, phoneDisplay, city.ccaa, city.lat, city.lng);
-const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa, city.lat, city.lng);
+const call = callPhones(phone, phoneDisplay, city.ccaa, city.lat, city.lng, (city as any).province);
+const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa, city.lat, city.lng, (city as any).province);
 const email = t?.email ?? NETWORK.email;
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
 const hours = t?.hours ?? "Lunes a Sábado · 08:00–20:00";

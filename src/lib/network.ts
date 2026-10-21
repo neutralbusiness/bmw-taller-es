@@ -12,9 +12,9 @@ export const NETWORK = {
   tagline: "Especialistas BMW en toda España — hasta un 50 % menos que el oficial",
   // Teléfono por defecto (sin comunidad conocida): delegación de Madrid.
   // Los únicos teléfonos de la web son los de las dos delegaciones (12-oct-2026).
-  phone: "+34679176858",
-  phoneDisplay: "679 176 858",
-  whatsapp: "34679176858",
+  phone: "+34641161771",
+  phoneDisplay: "641 161 771",
+  whatsapp: "34641161771",
   email: "info@bmw-taller.es",
   heroImage: "/img/hero.webp",
   gtmId: "GTM-MXDJ2V5T",
@@ -113,6 +113,18 @@ export const DELEGACIONES = {
     lng: 2.0577, // Sant Joan Despí, C/ Tambor del Bruc 3
   },
 } as const;
+/**
+ * Teléfono NACIONAL (21-oct-2026, orden de Martin): fuera de la Comunidad de Madrid
+ * y de la provincia de Barcelona se muestra SIEMPRE el 641 161 771. Los teléfonos
+ * de Madrid y Barcelona provincia no pueden aparecer en webs de otras zonas.
+ */
+export const NACIONAL = {
+  nombre: "España",
+  phone: "+34641161771",
+  phoneDisplay: "641 161 771",
+  whatsapp: "34641161771",
+} as const;
+
 export type Delegacion = (typeof DELEGACIONES)[keyof typeof DELEGACIONES];
 
 function distKm(aLat: number, aLng: number, bLat: number, bLng: number): number {
@@ -124,24 +136,15 @@ function distKm(aLat: number, aLng: number, bLat: number, bLng: number): number 
 }
 
 /**
- * Delegación que atiende una ciudad:
- *   · Cataluña            → Barcelona
- *   · Comunidad de Madrid → Madrid
- *   · Aragón              → Barcelona (Zaragoza capital está más cerca de Sant Joan
- *                           Despí; así las 15 ciudades de Zaragoza no se reparten
- *                           entre dos números, como tampoco lo estaban antes)
- *   · resto de España     → la más cercana en línea recta (si hay coordenadas)
- *   · sin datos           → Madrid
+ * Contacto que atiende una ciudad (21-oct-2026):
+ *   · Comunidad de Madrid         → Madrid (679 176 858)
+ *   · provincia de Barcelona      → Barcelona (631 687 779)
+ *   · cualquier otro sitio / sin datos → NACIONAL (641 161 771)
  */
-export function delegacionPara(ccaa?: string, lat?: number, lng?: number): Delegacion {
-  if (ccaa === "Cataluña" || ccaa === "Aragón") return DELEGACIONES.barcelona;
-  if (ccaa === "Comunidad de Madrid") return DELEGACIONES.madrid;
-  if (typeof lat === "number" && typeof lng === "number" && isFinite(lat) && isFinite(lng)) {
-    const m = distKm(lat, lng, DELEGACIONES.madrid.lat, DELEGACIONES.madrid.lng);
-    const b = distKm(lat, lng, DELEGACIONES.barcelona.lat, DELEGACIONES.barcelona.lng);
-    return b < m ? DELEGACIONES.barcelona : DELEGACIONES.madrid;
-  }
-  return DELEGACIONES.madrid;
+export function delegacionPara(ccaa?: string, _lat?: number, _lng?: number, provincia?: string): Delegacion | typeof NACIONAL {
+  if (ccaa === "Comunidad de Madrid" || provincia === "Madrid") return DELEGACIONES.madrid;
+  if (provincia === "Barcelona") return DELEGACIONES.barcelona;
+  return NACIONAL;
 }
 
 /**
@@ -149,8 +152,8 @@ export function delegacionPara(ccaa?: string, lat?: number, lng?: number): Deleg
  * phoneDisplay) para no tocar las plantillas, pero el número que manda es el de
  * la delegación: ya no hay fijo asociado (`landline` siempre null).
  */
-export function callPhones(_phone: string, _phoneDisplay: string, ccaa?: string, lat?: number, lng?: number) {
-  const d = delegacionPara(ccaa, lat, lng);
+export function callPhones(_phone: string, _phoneDisplay: string, ccaa?: string, lat?: number, lng?: number, provincia?: string) {
+  const d = delegacionPara(ccaa, lat, lng, provincia);
   const mobile = { phone: d.phone as string, phoneDisplay: d.phoneDisplay as string };
   return {
     tel: mobile.phone,
@@ -162,6 +165,6 @@ export function callPhones(_phone: string, _phoneDisplay: string, ccaa?: string,
 }
 
 /** WhatsApp de una ciudad: el de su delegación. */
-export function waFor(_whatsapp: string, ccaa?: string, lat?: number, lng?: number): string {
-  return delegacionPara(ccaa, lat, lng).whatsapp;
+export function waFor(_whatsapp: string, ccaa?: string, lat?: number, lng?: number, provincia?: string): string {
+  return delegacionPara(ccaa, lat, lng, provincia).whatsapp;
 }

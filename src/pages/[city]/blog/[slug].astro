@@ -38,7 +38,7 @@ export async function getStaticPaths() {
 
 const { city, post } = Astro.props;
 // Llamada: la delegación que atiende la ciudad (Madrid o Barcelona).
-const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng);
+const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng, (city as any).province);
 const { Content } = await render(post);
 
 const slug = post.id.split("/").pop()!;
