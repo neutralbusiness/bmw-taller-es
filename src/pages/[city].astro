@@ -11,7 +11,6 @@ interface TrustChip { icon: string; text: string; }
 interface ProcessStep { title: string; body: string; }
 interface CommonIssue { title: string; body: string; }
 interface WhyUsItem { title: string; body: string; }
-interface Testimonial { name: string; neighborhood?: string; car?: string; body: string; rating?: number; }
 interface FaqItem { q: string; a: string; }
 
 interface TenantConfig {
@@ -74,8 +73,6 @@ interface CityContent {
   commonIssuesIntro?: string;
   commonIssues?: CommonIssue[];
   whyUs: WhyUsItem[];
-  testimonialsIntro?: string;
-  testimonials?: Testimonial[];
   zoneText: string;
   zoneNeighborhoods?: string[];
   zoneAccessRoutes?: string[];
@@ -309,11 +306,6 @@ const autoRepair = {
     })),
   },
   ...(gbpUrl ? { sameAs: [gbpUrl] } : {}),
-  /* Nota SEO: NO emitimos aggregateRating ni Review en el JSON-LD.
-     Las opiniones visibles en #opiniones son testimonios editoriales, no
-     reseñas verificadas de una plataforma; marcar cientos de LocalBusiness
-     con reseñas autoservidas (y teléfono compartido) es structured data
-     spam y riesgo de acción manual. Los testimonios siguen en el HTML. */
 };
 
 const organization = {
@@ -437,8 +429,6 @@ const introParagraphs = (Array.isArray(city.introLocal)
   : city.introLocal.split("\n\n")
 ).filter(Boolean);
 
-/* Initials del primer nombre para el avatar de los testimonios. */
-const initial = (name: string) => (name || "").trim().charAt(0).toUpperCase();
 ---
 
 <Layout title={city.metaTitle} description={city.metaDescription} canonical={canonical} schema={schemaGraph}>
