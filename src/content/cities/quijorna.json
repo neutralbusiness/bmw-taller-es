@@ -7,7 +7,7 @@
   "lat": 40.4154,
   "lng": -4.05938,
   "metaTitle": "Taller BMW cerca de Quijorna | Zona oeste de Madrid",
-  "metaDescription": "Servicio BMW para Quijorna: recogida a domicilio, diagnosis con equipo original y reparación en el taller de referencia de la zona oeste de Madrid.",
+  "metaDescription": "Servicio BMW para Quijorna: diagnosis con equipo original y reparación en el taller de referencia de la zona oeste de Madrid.",
   "heroSubtitle": "Zona oeste de Madrid, mecánica BMW sin desplazarte a la capital",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Quijorna es un municipio de poco más de 4.000 habitantes en la zona oeste de la Comunidad de Madrid, entre Boadilla del Monte y Villaviciosa de Odón, con un crecimiento residencial notable en la última década que ha traído consigo un parque de BMW nada desdeñable.\n\nNo hay taller especializado en BMW dentro de Quijorna, así que damos servicio desde el taller de referencia más próximo de la zona oeste, con recogida disponible tanto en las urbanizaciones como en el casco antiguo.\n\nEl perfil habitual que atendemos aquí combina uso familiar y trayectos diarios hacia Madrid capital por la M-513 o la A-5, con series 3, X1 y X3 como los modelos más repetidos.",
+  "introLocal": "Quijorna es un municipio de poco más de 4.000 habitantes en la zona oeste de la Comunidad de Madrid, entre Boadilla del Monte y Villaviciosa de Odón, con un crecimiento residencial notable en la última década que ha traído consigo un parque de BMW nada desdeñable.\n\nNo hay taller especializado en BMW dentro de Quijorna, así que damos servicio desde el taller de referencia más próximo de la zona oeste.\n\nEl perfil habitual que atendemos aquí combina uso familiar y trayectos diarios hacia Madrid capital por la M-513 o la A-5, con series 3, X1 y X3 como los modelos más repetidos.",
   "servicesIntro": "Mantenimiento programado, frenos, distribución, cajas automáticas y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso simple, pensado para no perder tiempo entre semana.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el problema y valoramos recogida o traer el coche directamente."
-    },
-    {
-      "title": "Recogida en Quijorna",
-      "body": "Coordinamos el punto de recogida en tu urbanización o en el centro."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos memoria de averías real antes de proponer reparación."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega revisada",
-      "body": "El coche vuelve probado en carretera al mismo punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de la zona oeste de Madrid.",
@@ -95,21 +83,13 @@
     {
       "title": "Piezas originales o equivalentes homologadas",
       "body": "Tú decides con información clara."
-    },
-    {
-      "title": "Recogida en urbanizaciones residenciales",
-      "body": "Sin que tengas que salir de casa."
     }
   ],
   "zoneText": "Cubrimos Quijorna entero, del casco antiguo a las urbanizaciones residenciales de la zona oeste de Madrid.",
   "faqLocal": [
     {
       "q": "¿Hay taller BMW en Quijorna?",
-      "a": "No especializado; damos servicio desde el taller de referencia de la zona oeste con recogida en el municipio."
-    },
-    {
-      "q": "¿Podéis recoger en urbanizaciones residenciales?",
-      "a": "Sí, es la zona donde más recogidas hacemos en este municipio."
+      "a": "No especializado; damos servicio desde el taller de referencia de la zona oeste."
     },
     {
       "q": "¿Cuánto tarda una revisión estándar?",
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "La zona oeste de Madrid también tiene su taller BMW de confianza",
-  "closingCta": "Reserva recogida en Quijorna esta semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Clientes de Quijorna que ya han confiado en nosotros.",
   "testimonials": [
-    {
-      "name": "Nicolás Bermúdez",
-      "neighborhood": "Quijorna",
-      "body": "Recogieron el X3 en la urbanización sin ningún inconveniente.",
-      "rating": 5
-    },
     {
       "name": "Yolanda Cifuentes",
       "neighborhood": "Quijorna",

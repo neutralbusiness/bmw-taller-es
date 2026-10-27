@@ -23,10 +23,6 @@
       "text": "Diagnóstico profesional con equipo oficial"
     },
     {
-      "icon": "🚗",
-      "text": "Servicio de recogida y entrega a domicilio"
-    },
-    {
       "icon": "💬",
       "text": "Presupuesto previo sin compromiso"
     },
@@ -41,7 +37,7 @@
   "processSteps": [
     {
       "title": "Recepción y diagnóstico inicial",
-      "body": "Recogemos tu BMW en Casserres o lo recibes en nuestras instalaciones. Realizamos una inspección visual completa y conectamos el equipo de diagnóstico oficial para leer todos los códigos de error y el estado real de cada sistema del vehículo."
+      "body": "Realizamos una inspección visual completa y conectamos el equipo de diagnóstico oficial para leer todos los códigos de error y el estado real de cada sistema del vehículo."
     },
     {
       "title": "Presupuesto detallado y aprobación",
@@ -93,23 +89,12 @@
       "body": "Ya no necesitas desplazarte a Manresa o Barcelona para encontrar un especialista en BMW. Ofrecemos el mismo nivel de diagnóstico y reparación que un concesionario oficial, pero con la cercanía, la flexibilidad y el trato personal de un taller de proximidad."
     },
     {
-      "title": "Servicio de recogida y entrega",
-      "body": "Entendemos que en el entorno rural quedarse sin coche es un problema serio. Por eso ofrecemos servicio de recogida y entrega de tu BMW en Casserres y localidades cercanas, para que no tengas que reorganizar tu día ni depender de nadie."
-    },
-    {
       "title": "Transparencia total en cada reparación",
       "body": "Antes de tocar tu coche, recibes un presupuesto detallado con cada pieza y cada operación. Sin costes ocultos, sin sorpresas al recoger el vehículo. Y si durante la reparación detectamos algo adicional, te consultamos antes de actuar."
     }
   ],
   "testimonialsIntro": "Los conductores de BMW en Casserres y el sur del Berguedà ya confían en nosotros para el mantenimiento y la reparación de sus vehículos. Estas son algunas de sus experiencias.",
   "testimonials": [
-    {
-      "name": "Jordi M.",
-      "neighborhood": "Casserres",
-      "car": "BMW X3 xDrive20d",
-      "body": "Tengo una explotación agrícola y mi X3 se come los caminos de tierra a diario. Antes iba a Manresa para las revisiones y perdía medio día. Ahora me lo recogen en la masía y me lo devuelven revisado. La última vez me trataron los bajos contra la corrosión y la diferencia se nota. Por fin un taller que entiende lo que es usar un BMW en el campo.",
-      "rating": 5
-    },
     {
       "name": "Montse R.",
       "neighborhood": "Gironella",
@@ -132,7 +117,7 @@
       "rating": 5
     }
   ],
-  "zoneText": "Damos cobertura a todo el sur de la comarca del Berguedà y las poblaciones limítrofes del Bages y el Solsonès. Si vives en Casserres o en cualquiera de las localidades cercanas, tu BMW está a nuestro alcance con servicio de recogida y entrega incluido.",
+  "zoneText": "Damos cobertura a todo el sur de la comarca del Berguedà y las poblaciones limítrofes del Bages y el Solsonès. Si vives en Casserres o en cualquiera de las localidades cercanas, tu BMW está a nuestro alcance.",
   "zoneNeighborhoods": [
     "Gironella",
     "Puig-reig",
@@ -150,10 +135,6 @@
     "BV-4131"
   ],
   "faqLocal": [
-    {
-      "q": "¿Ofrecéis servicio de recogida del coche en Casserres?",
-      "a": "Sí, recogemos y entregamos tu BMW en Casserres y en todas las localidades del sur del Berguedà. Solo tienes que llamarnos o escribirnos por WhatsApp para coordinar la recogida en el día y hora que te convenga."
-    },
     {
       "q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos rurales?",
       "a": "Si utilizas tu BMW habitualmente por pistas sin asfaltar, caminos agrícolas o carreteras secundarias en mal estado, recomendamos revisar la suspensión cada 20.000 km o una vez al año, en lugar de los 40.000 km habituales en conducción por asfalto."
@@ -176,7 +157,7 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un especialista que conozca los caminos de Casserres",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita en la misma semana. Recogemos tu BMW en Casserres y alrededores sin coste adicional.",
+  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita en la misma semana.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

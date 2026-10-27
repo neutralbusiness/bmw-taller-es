@@ -7,7 +7,7 @@
   "lat": 40.60458,
   "lng": -3.40403,
   "metaTitle": "Taller BMW en Fresno de Torote | Mecánica especializada",
-  "metaDescription": "Taller BMW en Fresno de Torote, corredor del Henares, Madrid. Diagnosis oficial, turbo y caja automática. Servicio con recogida. Presupuesto sin compromiso.",
+  "metaDescription": "Taller BMW en Fresno de Torote, corredor del Henares, Madrid. Diagnosis oficial, turbo y caja automática. Presupuesto sin compromiso.",
   "heroSubtitle": "Taller BMW en Fresno de Torote, en el corredor del Henares",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Fresno de Torote es un municipio muy pequeño, de apenas 600 habitantes, situado en el corredor del Henares, cerca de Daganzo y Cobeña, con buena conexión hacia Madrid y hacia Alcalá de Henares. Su tamaño reducido hace que el parque BMW no sea numeroso, pero sí presente entre vecinos que se desplazan a diario por trabajo hacia la capital o hacia los polígonos industriales cercanos.\n\nTrabajamos con diagnosis oficial BMW y coordinamos recogidas cuando es necesario, entendiendo que en un municipio de este tamaño no siempre resulta práctico desplazarse hasta un taller especializado.",
+  "introLocal": "Fresno de Torote es un municipio muy pequeño, de apenas 600 habitantes, situado en el corredor del Henares, cerca de Daganzo y Cobeña, con buena conexión hacia Madrid y hacia Alcalá de Henares. Su tamaño reducido hace que el parque BMW no sea numeroso, pero sí presente entre vecinos que se desplazan a diario por trabajo hacia la capital o hacia los polígonos industriales cercanos.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada a las distancias reales de un municipio pequeño del corredor del Henares.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto más cómodo para ti."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por el corredor del Henares.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Facilitamos el acceso al taller para quien vive en un municipio pequeño."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,12 +89,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Cubrimos Fresno de Torote y su entorno en el corredor del Henares, con servicio de recogida para quienes viven en municipios cercanos como Daganzo o Cobeña.",
+  "zoneText": "Cubrimos Fresno de Torote y su entorno en el corredor del Henares.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Fresno de Torote?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Hay coste adicional por la distancia?",
       "a": "Para trayectos habituales dentro del corredor del Henares no aplicamos recargo."
@@ -133,7 +117,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW cerca, aunque vivas en un pueblo pequeño del Henares",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin complicaciones.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de Fresno de Torote.",
   "testimonials": [
-    {
-      "name": "Anselmo V.",
-      "neighborhood": "Fresno de Torote",
-      "body": "Coordinaron la recogida sin problema, muy práctico viviendo en un pueblo tan pequeño.",
-      "rating": 5
-    },
     {
       "name": "Concepción M.",
       "neighborhood": "Fresno de Torote",

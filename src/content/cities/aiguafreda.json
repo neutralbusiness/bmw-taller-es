@@ -7,7 +7,7 @@
   "lat": 41.76657,
   "lng": 2.25228,
   "metaTitle": "Taller BMW en Aiguafreda | Vallès Oriental",
-  "metaDescription": "Taller especializado en BMW cerca de Aiguafreda, al pie del Montseny. Diagnóstico ISTA y técnicos formados en la marca. Servicio también con recogida.",
+  "metaDescription": "Taller especializado en BMW cerca de Aiguafreda, al pie del Montseny. Diagnóstico ISTA y técnicos formados en la marca.",
   "heroSubtitle": "Atención especializada en BMW para Aiguafreda y los pueblos al pie del Montseny.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Aiguafreda es un municipio pequeño del Vallès Oriental, con poco más de 2.600 habitantes, situado justo donde la C-17 empieza a subir hacia el Montseny y hacia Vic. Muchos de los BMW que vemos de esta zona son de propietarios que combinan una segunda residencia o casa de montaña con desplazamientos frecuentes a Barcelona o Granollers por trabajo, así que el coche pasa temporadas paradas y luego hace tiradas largas de carretera de forma intensa.\n\nEse patrón de uso -parado varias semanas y luego autovía seguida- es justo el que más penaliza a componentes como la batería, el sistema de frenos por óxido en los discos y el turbo en los diésel. No hace falta un taller a pie de calle en Aiguafreda para dar un buen servicio: coordinamos la recogida del vehículo en el pueblo o en localidades cercanas como Centelles o Tona, y devolvemos el coche revisado sin que el cliente tenga que perder el día.",
-  "servicesIntro": "Diagnóstico, mantenimiento y reparación de BMW con recogida disponible para Aiguafreda y alrededores.",
+  "introLocal": "Aiguafreda es un municipio pequeño del Vallès Oriental, con poco más de 2.600 habitantes, situado justo donde la C-17 empieza a subir hacia el Montseny y hacia Vic. Muchos de los BMW que vemos de esta zona son de propietarios que combinan una segunda residencia o casa de montaña con desplazamientos frecuentes a Barcelona o Granollers por trabajo, así que el coche pasa temporadas paradas y luego hace tiradas largas de carretera de forma intensa.\n\nEse patrón de uso -parado varias semanas y luego autovía seguida- es justo el que más penaliza a componentes como la batería, el sistema de frenos por óxido en los discos y el turbo en los diésel.",
+  "servicesIntro": "Diagnóstico, mantenimiento y reparación de BMW.",
   "processIntro": "Un proceso simple, pensado para quien vive fuera del área metropolitana pero no quiere renunciar a un taller especializado.",
   "processSteps": [
     {
@@ -50,10 +50,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados específicamente en la mecánica BMW se encargan del trabajo."
-    },
-    {
-      "title": "Entrega coordinada",
-      "body": "Acordamos contigo el punto y la hora de entrega más cómodos, incluida recogida en Aiguafreda si lo necesitas."
     }
   ],
   "commonIssuesIntro": "Problemas típicos en BMW que pasan temporadas parados y luego hacen carretera larga.",
@@ -81,10 +77,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Aiguafreda",
-      "body": "No hace falta que te desplaces, coordinamos la recogida del vehículo."
-    },
-    {
       "title": "Especialización BMW",
       "body": "Sin rodeos: solo trabajamos con esta marca y sus particularidades."
     },
@@ -101,12 +93,8 @@
       "body": "Te explicamos cada avería con calma y sin prisas por teléfono o WhatsApp."
     }
   ],
-  "zoneText": "Damos servicio a Aiguafreda y a los pueblos del entorno del Montseny y el Vallès Oriental, con recogida coordinada cuando el desplazamiento no es práctico.",
+  "zoneText": "Damos servicio a Aiguafreda y a los pueblos del entorno del Montseny y el Vallès Oriental.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Aiguafreda?",
-      "a": "Sí, coordinamos recogida y entrega para quien no pueda desplazarse."
-    },
     {
       "q": "¿Trabajáis con coches que solo se usan en vacaciones?",
       "a": "Sí, es un caso muy habitual en la zona y sabemos qué revisar tras meses parados."
@@ -114,10 +102,6 @@
     {
       "q": "¿Cuánto tarda una revisión completa?",
       "a": "Normalmente un día, salvo que aparezca algo que requiera pieza específica."
-    },
-    {
-      "q": "¿Puedo pedir cita por WhatsApp?",
-      "a": "Sí, es la vía más rápida para coordinar recogida y presupuesto."
     },
     {
       "q": "¿Revisáis la batería antes de un viaje largo?",
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW, aunque vivas lejos del taller",
-  "closingCta": "Contáctanos desde Aiguafreda y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opiniones de propietarios de la comarca que confían en nuestro taller.",
   "testimonials": [
-    {
-      "name": "Enric Vila",
-      "neighborhood": "Aiguafreda",
-      "body": "Mi Serie 5 pasa temporadas en la casa del pueblo. Me recogieron el coche y me explicaron por qué la batería no aguantaba.",
-      "rating": 5
-    },
     {
       "name": "Núria Prat",
       "neighborhood": "Centelles",

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llámanos o escríbenos por WhatsApp. Si tienes dificultades de acceso por nieve o hielo, podemos coordinar la recogida."
+      "body": "Llámanos o escríbenos por WhatsApp."
     },
     {
       "title": "Diagnóstico de alta montaña",
@@ -93,10 +93,6 @@
       "body": "Verificamos el rendimiento del turbocompresor y del sistema de refrigeración en condiciones de altitud real."
     },
     {
-      "title": "Recogida en condiciones difíciles",
-      "body": "Si la nieve o el hielo impiden bajar tu BMW, podemos coordinarnos para recogerlo con medios adecuados."
-    },
-    {
       "title": "Diagnóstico completo BMW",
       "body": "Leemos todos los módulos electrónicos con equipos profesionales para un diagnóstico sin puntos ciegos."
     }
@@ -118,13 +114,6 @@
       "rating": 5
     },
     {
-      "name": "Sergi J.",
-      "neighborhood": "Fogars de Montclús",
-      "car": "BMW 320d F31",
-      "body": "Me recogieron el BMW cuando no podía sacarlo por la nieve de enero. Servicio que no encuentras en ningún concesionario de ciudad.",
-      "rating": 5
-    },
-    {
       "name": "Meritxell D.",
       "neighborhood": "Montaña del Montseny",
       "car": "BMW 220d F22",
@@ -132,7 +121,7 @@
       "rating": 4
     }
   ],
-  "zoneText": "Atendemos BMW en Fogars de Montclús, Santa Fe del Montseny y toda la zona de alta montaña del macizo, con servicio de recogida cuando las condiciones lo requieran.",
+  "zoneText": "Atendemos BMW en Fogars de Montclús, Santa Fe del Montseny y toda la zona de alta montaña del macizo.",
   "zoneNeighborhoods": [
     "Campins",
     "Montseny",
@@ -159,10 +148,6 @@
     {
       "q": "¿Puedo subir a Santa Fe con un BMW de tracción trasera?",
       "a": "En condiciones secas, sí. En invierno con hielo o nieve, es arriesgado sin neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en estas condiciones."
-    },
-    {
-      "q": "¿Recogéis BMW en zonas con nieve?",
-      "a": "Sí. Disponemos de medios para acceder en condiciones invernales y recoger tu vehículo cuando tú no puedas circular."
     },
     {
       "q": "¿La altitud afecta al turbo de mi BMW?",

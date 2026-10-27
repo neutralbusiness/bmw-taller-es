@@ -7,7 +7,7 @@
   "lat": 40.84408,
   "lng": -3.21036,
   "metaTitle": "Taller BMW en Robledillo de Mohernando | Mecánicos especialistas",
-  "metaDescription": "Taller especializado en BMW cerca de Robledillo de Mohernando, Guadalajara. Diagnosis oficial, mantenimiento y reparación con recogida del vehículo si lo necesitas.",
+  "metaDescription": "Taller especializado en BMW cerca de Robledillo de Mohernando, Guadalajara. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "Mecánica especializada BMW a un trayecto corto desde Robledillo de Mohernando",
   "trustChips": [
     {
@@ -31,7 +31,7 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Robledillo de Mohernando es un municipio pequeño de la comarca de la Campiña del Henares, en Guadalajara, y como en la mayoría de núcleos de este tamaño, no cuenta con un taller especializado en BMW dentro del propio pueblo. Quien tiene un Serie 1, un X1 o un 320d matriculado en Robledillo suele acabar llevándolo a Guadalajara capital o directamente a Madrid para según qué reparaciones, sobre todo cuando entra en juego electrónica de la marca.\n\nDesde nuestra red trabajamos con clientes de esta zona ofreciendo recogida del vehículo en el propio pueblo o en Mohernando, y devolución una vez terminado el trabajo. No pretendemos vender que hay un taller BMW puerta a puerta en Robledillo: lo que ofrecemos es que la distancia deje de ser el obstáculo para mantener el coche como corresponde.",
+  "introLocal": "Robledillo de Mohernando es un municipio pequeño de la comarca de la Campiña del Henares, en Guadalajara, y como en la mayoría de núcleos de este tamaño, no cuenta con un taller especializado en BMW dentro del propio pueblo. Quien tiene un Serie 1, un X1 o un 320d matriculado en Robledillo suele acabar llevándolo a Guadalajara capital o directamente a Madrid para según qué reparaciones, sobre todo cuando entra en juego electrónica de la marca.\n\nDesde nuestra red trabajamos con clientes de esta zona.",
   "servicesIntro": "Cubrimos desde el mantenimiento programado hasta averías de mayor calado, con diagnosis por software oficial BMW.",
   "processIntro": "El proceso está pensado para minimizar los desplazamientos de quien vive en un núcleo rural como este.",
   "processSteps": [
@@ -40,20 +40,12 @@
       "body": "Nos cuentas la avería o el servicio que necesitas y te damos una primera orientación antes de mover el coche."
     },
     {
-      "title": "Recogida en Robledillo o Mohernando",
-      "body": "Coordinamos la recogida del vehículo en tu domicilio o en un punto cercano, sin que tengas que conducir hasta el taller."
-    },
-    {
       "title": "Diagnosis con equipo oficial",
       "body": "Conectamos el software de diagnosis BMW para identificar el origen real del problema, no solo el síntoma."
     },
     {
       "title": "Presupuesto cerrado antes de tocar nada",
       "body": "Te llamamos con el presupuesto desglosado y no avanzamos hasta que lo apruebas."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche en el punto acordado, con el informe de lo realizado y las piezas sustituidas si las hay."
     }
   ],
   "commonIssuesIntro": "En vehículos BMW que circulan por carreteras comarcales y zonas de campo, vemos con frecuencia estas averías.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida sin coste añadido oculto",
-      "body": "Sabemos que venir desde Robledillo no es trivial, así que lo resolvemos nosotros yendo a buscar el coche."
-    },
-    {
       "title": "Presupuesto cerrado",
       "body": "Nada de sorpresas en la factura: lo que se aprueba por teléfono es lo que se paga."
     },
@@ -105,19 +93,11 @@
   "faqLocal": [
     {
       "q": "¿Hay algún taller BMW especializado en Robledillo de Mohernando?",
-      "a": "No, el municipio es demasiado pequeño para sostener un taller especializado en la marca. Por eso ofrecemos recogida del vehículo desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar yo el coche hasta el taller?",
-      "a": "No necesariamente. Recogemos el vehículo en Robledillo o en Mohernando y lo devolvemos una vez reparado."
+      "a": "No, el municipio es demasiado pequeño para sostener un taller especializado en la marca."
     },
     {
       "q": "¿Trabajáis con diagnosis oficial BMW?",
       "a": "Sí, usamos el software de diagnosis oficial de la marca para identificar averías con precisión."
-    },
-    {
-      "q": "¿Cuánto tarda una recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según la carga de trabajo del taller."
     },
     {
       "q": "¿Los presupuestos son orientativos o cerrados?",
@@ -128,8 +108,7 @@
       "a": "Sí, es habitual en esta zona. Adaptamos el tipo de pieza (original o equivalente) según el uso real del vehículo."
     }
   ],
-  "closingHeadline": "Tu BMW, cuidado sin salir de Robledillo de Mohernando",
-  "closingCta": "Solicita la recogida de tu vehículo y déjanos el resto",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Clientes de Robledillo de Mohernando y alrededores que ya han confiado en nosotros.",
   "testimonials": [
-    {
-      "name": "Fernando A.",
-      "neighborhood": "Robledillo de Mohernando",
-      "body": "Vinieron a buscar mi X1 al pueblo y me lo devolvieron el mismo día. Un lujo no tener que ir hasta Guadalajara.",
-      "rating": 5
-    },
     {
       "name": "Mª Ángeles R.",
       "neighborhood": "Mohernando",

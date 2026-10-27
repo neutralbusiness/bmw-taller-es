@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Les Cabanyes es un municipio pequeño del Alt Penedès, de apenas unos cientos de habitantes, rodeado de viñedos y con un ritmo de vida muy distinto al de Vilafranca o Barcelona. No hay talleres especializados en BMW en el propio pueblo, así que los vecinos que tienen un BMW -normalmente para desplazarse a diario hacia Vilafranca del Penedès o hacia la AP-7- terminan buscando un especialista fuera del municipio.\n\nNuestro taller trabaja con varios clientes de la zona del Penedès que prefieren no depender del concesionario más cercano por precio o por tiempos de espera. Ofrecemos diagnóstico con el mismo software que usa la red oficial y recogida del vehículo si el desplazamiento resulta complicado.",
+  "introLocal": "Les Cabanyes es un municipio pequeño del Alt Penedès, de apenas unos cientos de habitantes, rodeado de viñedos y con un ritmo de vida muy distinto al de Vilafranca o Barcelona. No hay talleres especializados en BMW en el propio pueblo, así que los vecinos que tienen un BMW -normalmente para desplazarse a diario hacia Vilafranca del Penedès o hacia la AP-7- terminan buscando un especialista fuera del municipio.\n\nNuestro taller trabaja con varios clientes de la zona del Penedès que prefieren no depender del concesionario más cercano por precio o por tiempos de espera. Ofrecemos diagnóstico con el mismo software que usa la red oficial.",
   "servicesIntro": "Mantenimiento programado, diagnosis avanzada, reparación de motor, caja de cambios y sistemas electrónicos para cualquier BMW.",
   "processIntro": "El proceso es sencillo, especialmente pensado para clientes que no viven cerca del taller.",
   "processSteps": [
-    {
-      "title": "Contacto inicial",
-      "body": "Nos cuentas el problema por teléfono o WhatsApp y valoramos si hace falta recoger el coche."
-    },
     {
       "title": "Diagnóstico",
       "body": "Con el software oficial ISTA identificamos con precisión el origen del fallo."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Ejecutamos el trabajo con recambio original o equivalente homologado, según prefieras."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto que más te convenga."
     }
   ],
   "commonIssuesIntro": "En los BMW que llegan desde Les Cabanyes y el Penedès vemos sobre todo:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Si vivir en un pueblo pequeño complica el desplazamiento, vamos nosotros a por el coche."
-    },
-    {
       "title": "Diagnóstico oficial",
       "body": "Mismo nivel de precisión que un concesionario, sin depender de uno."
     },
@@ -101,12 +89,8 @@
       "body": "Mano de obra y pieza con garantía documentada."
     }
   ],
-  "zoneText": "Atendemos Les Cabanyes y los municipios cercanos del Alt Penedès, con recogida y entrega a domicilio si es necesario.",
+  "zoneText": "Atendemos Les Cabanyes y los municipios cercanos del Alt Penedès.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Les Cabanyes?",
-      "a": "Sí, ofrecemos recogida a domicilio para clientes de la zona del Penedès."
-    },
     {
       "q": "¿Hay que ir hasta el taller obligatoriamente?",
       "a": "No siempre, en muchos casos podemos gestionar todo sin que te desplaces."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Les Cabanyes",
-  "closingCta": "Contáctanos y te decimos si podemos recoger tu BMW sin que te muevas de casa.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opinión de clientes del Alt Penedès:",
   "testimonials": [
-    {
-      "name": "Jordi C.",
-      "neighborhood": "Les Cabanyes",
-      "body": "Vinieron a recoger el coche a casa porque no podía desplazarme. Un servicio que no esperaba encontrar tan cerca.",
-      "rating": 5
-    },
     {
       "name": "Meritxell B.",
       "neighborhood": "Les Cabanyes",

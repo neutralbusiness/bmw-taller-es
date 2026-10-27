@@ -19,10 +19,6 @@
       "text": "Adaptados al entorno rural"
     },
     {
-      "icon": "🚗",
-      "text": "Recogida a domicilio"
-    },
-    {
       "icon": "📍",
       "text": "Cobertura todos los núcleos"
     },
@@ -35,10 +31,6 @@
   "processIntro": "Nuestro proceso de trabajo está diseñado para que los propietarios de BMW en Fonollosa reciban un servicio completo sin necesidad de desplazarse hasta la ciudad, minimizando los inconvenientes de la distancia.",
   "processSteps": [
     {
-      "title": "Contacto y recogida",
-      "body": "Llámanos o escríbenos por WhatsApp. Coordinamos la recogida de tu BMW en cualquier núcleo de Fonollosa: Canet de Fals, Fals, Camps o el propio pueblo. También puedes dejarlo en un punto acordado junto a la BV-3003."
-    },
-    {
       "title": "Diagnóstico especializado",
       "body": "Realizamos un diagnóstico exhaustivo con equipos específicos para BMW, prestando especial atención a los elementos más castigados por los caminos rurales: suspensión, bajos, filtros y sistema de refrigeración."
     },
@@ -48,7 +40,7 @@
     },
     {
       "title": "Reparación y entrega",
-      "body": "Ejecutamos el trabajo con recambios originales o equivalentes homologados. Una vez terminado, te devolvemos el BMW a tu domicilio o al punto que prefieras dentro del municipio."
+      "body": "Ejecutamos el trabajo con recambios originales o equivalentes homologados."
     }
   ],
   "commonIssuesIntro": "Los BMW que circulan por Fonollosa y sus núcleos dispersos se enfrentan a condiciones muy distintas a las de un entorno urbano. Los caminos agrícolas, el polvo, las distancias largas y los cambios bruscos de temperatura generan averías y desgastes específicos que conocemos bien.",
@@ -80,10 +72,6 @@
       "body": "Sabemos que entre Canet de Fals y Camps hay kilómetros de pista, que la BV-3003 es la única vía asfaltada principal y que llegar a cualquier servicio supone un desplazamiento considerable. Nuestro servicio está pensado para solucionar esto."
     },
     {
-      "title": "Recogida y entrega en todos los núcleos",
-      "body": "No importa si vives en Fonollosa pueblo, en Canet de Fals, en Fals o en las masías dispersas de Camps. Recogemos tu BMW donde estés y te lo devolvemos una vez reparado, sin que tengas que perder media jornada en desplazamientos."
-    },
-    {
       "title": "Revisiones reforzadas para uso rural",
       "body": "Aplicamos un protocolo de revisión adaptado a las condiciones rurales: intervalos más cortos en filtros, inspección extra de bajos y suspensión, y control del sistema de refrigeración. Tu BMW durará más y circulará más seguro."
     },
@@ -93,37 +81,16 @@
     },
     {
       "title": "Presupuestos claros y sin desplazamientos inútiles",
-      "body": "Te enviamos el presupuesto con fotos por WhatsApp para que puedas decidir sin prisas desde casa. Si no apruebas la reparación, te devolvemos el coche sin coste de diagnóstico. Así de simple."
+      "body": "Te enviamos el presupuesto con fotos por WhatsApp para que puedas decidir sin prisas desde casa."
     }
   ],
   "testimonialsIntro": "Propietarios de BMW en Fonollosa y sus alrededores ya confían en nosotros para mantener sus vehículos en perfecto estado a pesar de las exigencias del entorno rural.",
   "testimonials": [
     {
-      "name": "Jordi Pallarès",
-      "neighborhood": "Canet de Fals",
-      "car": "BMW X3 xDrive20d",
-      "body": "Vivir en Canet de Fals con un X3 implica caminos de tierra a diario. Me recogen el coche en casa y me lo devuelven revisado. Los amortiguadores me duraban la mitad que el manual de BMW, pero con el mantenimiento preventivo que me hacen ahora aguantan mucho más.",
-      "rating": 5
-    },
-    {
-      "name": "Montserrat Vilanova",
-      "neighborhood": "Fals",
-      "car": "BMW Serie 3 320d",
-      "body": "Desde Fals hasta el taller más cercano hay un buen trecho. Que vengan a buscar el coche y me lo traigan arreglado es un alivio enorme. Me cambiaron los filtros y la diferencia de rendimiento fue inmediata. Muy profesionales y transparentes con los precios.",
-      "rating": 5
-    },
-    {
       "name": "Ramon Soldevila",
       "neighborhood": "Camps",
       "car": "BMW X1 sDrive18d",
       "body": "Tengo finca agrícola en Camps y el X1 va por pistas todos los días. Me destrozaba las protecciones de los bajos cada pocos meses. Me pusieron unas reforzadas y revisaron toda la suspensión. Llevo un año sin problemas y eso que el camino no ha mejorado nada.",
-      "rating": 5
-    },
-    {
-      "name": "Carme Puigdomènech",
-      "neighborhood": "Fonollosa",
-      "car": "BMW Serie 1 118i",
-      "body": "Mi 118i es mi único coche y no puedo estar días sin él. Me lo recogieron a primera hora, me mandaron el presupuesto por WhatsApp con fotos y a última hora del día siguiente ya lo tenía en casa. Rapidez y seriedad, que es lo que hace falta cuando vives tan lejos de todo.",
       "rating": 5
     }
   ],
@@ -145,10 +112,6 @@
   ],
   "faqLocal": [
     {
-      "q": "¿Recogéis el BMW a domicilio en los núcleos dispersos de Fonollosa?",
-      "a": "Sí, recogemos y entregamos tu BMW en cualquier núcleo del municipio: Fonollosa, Canet de Fals, Fals, Camps y también en masías aisladas accesibles por pista. Coordinamos la hora por teléfono o WhatsApp."
-    },
-    {
       "q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos sin asfaltar?",
       "a": "Si circulas habitualmente por pistas y caminos agrícolas, recomendamos revisar la suspensión cada 15.000 km en lugar de los 30.000 km que indica BMW para uso en carretera. Las piedras y los baches aceleran mucho el desgaste de amortiguadores y silentblocks."
     },
@@ -162,7 +125,7 @@
     },
     {
       "q": "¿Qué hago si mi BMW se avería en una pista agrícola lejos del pueblo?",
-      "a": "Llámanos al 631 687 779 o escríbenos por WhatsApp. Coordinamos la asistencia lo antes posible. Si el coche puede rodar, te guiaremos hasta un punto accesible para la grúa. Si no puede moverse, organizamos la recogida directamente en la ubicación."
+      "a": "Llámanos al 631 687 779 o escríbenos por WhatsApp. Coordinamos la asistencia lo antes posible. Si el coche puede rodar, te guiaremos hasta un punto accesible para la grúa."
     },
     {
       "q": "¿Las temperaturas extremas del Bages central afectan a la batería de mi BMW?",
@@ -170,8 +133,8 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda Fonollosa",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y nos encargamos de todo: recogemos tu BMW en cualquier núcleo del municipio, lo revisamos o reparamos y te lo devolvemos a casa.",
-  "introLocal": "Fonollosa es uno de esos municipios del Bages que solo se entienden recorriéndolos. Situado en el sur de la comarca, entre colinas suaves cubiertas de cereal y viñedos de secano, el término municipal se extiende a lo largo de varios kilómetros sin un núcleo urbano dominante. Fonollosa pueblo, Canet de Fals, Fals y Camps forman un mosaico de pequeñas agrupaciones de casas y masías dispersas conectadas por caminos que, en muchos tramos, siguen siendo de tierra compactada o grava. Para quien conduce un BMW aquí, la realidad es muy distinta a la de cualquier ciudad.\n\nLa BV-3003 es la columna vertebral del municipio, pero en cuanto te desvías hacia las fincas, los caminos pierden el asfalto rápidamente. Las pistas agrícolas que unen Canet de Fals con Camps o que dan acceso a las parcelas de cereal y los viñedos están llenas de piedras sueltas, baches y resaltos que castigan la suspensión, los bajos y los neumáticos de cualquier vehículo, y más aún de un BMW diseñado para carreteras en buen estado. El polvo que levantan los tractores y la maquinaria agrícola durante la cosecha del cereal se cuela en cada rincón del motor y satura los filtros de aire y de habitáculo en una fracción del tiempo previsto por el fabricante.\n\nA esto se suma el clima del Bages central, que no tiene medias tintas. Los veranos superan con frecuencia los 35 grados y el sol cae sin piedad sobre el asfalto y los caminos, sometiendo al sistema de refrigeración del BMW a un esfuerzo constante. En invierno, las heladas son habituales y las temperaturas bajo cero de madrugada exigen que la batería, el aceite y los manguitos estén en perfecto estado para arrancar sin problemas. Estos ciclos térmicos extremos fatigan los componentes de goma y plástico mucho más deprisa que en zonas costeras o templadas.\n\nEl aislamiento es otro factor determinante. Fonollosa está lejos de todo: el concesionario BMW más próximo queda en Manresa o más allá, y llegar supone un desplazamiento considerable por carreteras secundarias. Rajadell es el pueblo vecino más cercano con algunos servicios, pero tampoco cuenta con taller especializado en BMW. Esto significa que muchos propietarios de BMW en la zona retrasan revisiones y reparaciones por la incomodidad del viaje, lo que acaba generando averías mayores y más costosas. Un problema de suspensión que se detectaría en una revisión rutinaria puede convertirse en un fallo grave si se deja pasar meses por no querer hacer el trayecto hasta la ciudad.\n\nPor eso, contar con un taller especializado en BMW que conozca las condiciones reales de Fonollosa y que ofrezca recogida y entrega a domicilio en todos los núcleos del municipio no es un lujo, sino una necesidad práctica. Nosotros sabemos lo que significa circular cada día por las pistas entre Fals y Camps, compartir la calzada con maquinaria agrícola que levanta nubes de polvo, y aparcar el coche a la intemperie bajo el sol abrasador de julio o la escarcha de enero. Adaptamos los intervalos de mantenimiento, reforzamos las revisiones de los componentes más expuestos y nos desplazamos hasta donde estés para que tu BMW reciba la atención que merece sin que tú tengas que reorganizar tu jornada.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "introLocal": "Fonollosa es uno de esos municipios del Bages que solo se entienden recorriéndolos. Situado en el sur de la comarca, entre colinas suaves cubiertas de cereal y viñedos de secano, el término municipal se extiende a lo largo de varios kilómetros sin un núcleo urbano dominante. Fonollosa pueblo, Canet de Fals, Fals y Camps forman un mosaico de pequeñas agrupaciones de casas y masías dispersas conectadas por caminos que, en muchos tramos, siguen siendo de tierra compactada o grava. Para quien conduce un BMW aquí, la realidad es muy distinta a la de cualquier ciudad.\n\nLa BV-3003 es la columna vertebral del municipio, pero en cuanto te desvías hacia las fincas, los caminos pierden el asfalto rápidamente. Las pistas agrícolas que unen Canet de Fals con Camps o que dan acceso a las parcelas de cereal y los viñedos están llenas de piedras sueltas, baches y resaltos que castigan la suspensión, los bajos y los neumáticos de cualquier vehículo, y más aún de un BMW diseñado para carreteras en buen estado. El polvo que levantan los tractores y la maquinaria agrícola durante la cosecha del cereal se cuela en cada rincón del motor y satura los filtros de aire y de habitáculo en una fracción del tiempo previsto por el fabricante.\n\nA esto se suma el clima del Bages central, que no tiene medias tintas. Los veranos superan con frecuencia los 35 grados y el sol cae sin piedad sobre el asfalto y los caminos, sometiendo al sistema de refrigeración del BMW a un esfuerzo constante. En invierno, las heladas son habituales y las temperaturas bajo cero de madrugada exigen que la batería, el aceite y los manguitos estén en perfecto estado para arrancar sin problemas. Estos ciclos térmicos extremos fatigan los componentes de goma y plástico mucho más deprisa que en zonas costeras o templadas.\n\nEl aislamiento es otro factor determinante. Fonollosa está lejos de todo: el concesionario BMW más próximo queda en Manresa o más allá, y llegar supone un desplazamiento considerable por carreteras secundarias. Rajadell es el pueblo vecino más cercano con algunos servicios, pero tampoco cuenta con taller especializado en BMW. Esto significa que muchos propietarios de BMW en la zona retrasan revisiones y reparaciones por la incomodidad del viaje, lo que acaba generando averías mayores y más costosas. Un problema de suspensión que se detectaría en una revisión rutinaria puede convertirse en un fallo grave si se deja pasar meses por no querer hacer el trayecto hasta la ciudad.\n\nNosotros sabemos lo que significa circular cada día por las pistas entre Fals y Camps, compartir la calzada con maquinaria agrícola que levanta nubes de polvo, y aparcar el coche a la intemperie bajo el sol abrasador de julio o la escarcha de enero.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

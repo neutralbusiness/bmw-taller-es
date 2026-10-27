@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración inicial",
-      "body": "Cuéntanos tu situación por teléfono o WhatsApp. Si no puedes bajar por nieve o hielo, organizamos la recogida."
+      "body": "Cuéntanos tu situación por teléfono o WhatsApp."
     },
     {
       "title": "Diagnóstico alpino completo",
@@ -93,10 +93,6 @@
       "body": "Componentes seleccionados para soportar la temperatura de los descensos continuos desde las cotas altas del Montseny."
     },
     {
-      "title": "Recogida en montaña",
-      "body": "Si la nieve o el hielo te impiden mover tu BMW, nosotros vamos a buscarlo."
-    },
-    {
       "title": "Diagnóstico electrónico BMW completo",
       "body": "Todos los módulos del vehículo escaneados con equipos profesionales."
     }
@@ -132,7 +128,7 @@
       "rating": 4
     }
   ],
-  "zoneText": "Atendemos BMW en el pueblo de Montseny y todas las cotas altas del macizo, con servicio de recogida invernal y preparación para altitud.",
+  "zoneText": "Atendemos BMW en el pueblo de Montseny y todas las cotas altas del macizo.",
   "zoneNeighborhoods": [
     "Fogars de Montclús",
     "Campins",
@@ -164,10 +160,6 @@
     {
       "q": "¿Qué aceite necesita mi BMW a esta altitud?",
       "a": "Utilizamos aceites 0W-30 o 0W-40 con especificación BMW Longlife, que fluyen correctamente incluso a -15 °C y protegen el motor en todo el rango de temperaturas del Montseny."
-    },
-    {
-      "q": "¿Venís a buscar mi BMW si está nevado?",
-      "a": "Sí. Disponemos de medios para acceder en condiciones invernales y trasladar tu vehículo al taller."
     },
     {
       "q": "¿Cada cuánto cambiar el líquido de frenos en montaña?",

@@ -7,7 +7,7 @@
   "lat": 40.86421,
   "lng": -3.60828,
   "metaTitle": "Taller BMW en La Cabrera | Sierra Norte, salida A-1",
-  "metaDescription": "Taller especializado BMW cerca de La Cabrera, junto a la A-1. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio.",
+  "metaDescription": "Taller especializado BMW cerca de La Cabrera, junto a la A-1. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "El taller BMW de confianza en La Cabrera, la puerta de la Sierra Norte junto a la A-1.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "La Cabrera es un municipio de algo más de 2.700 habitantes en la Sierra Norte de Madrid, conocido por su peña y sus zonas de escalada, situado justo en la salida de la A-1, lo que lo convierte en un punto de referencia para quien vive en la sierra pero necesita el acceso rápido a Madrid, a unos 45 minutos de trayecto.\n\nEl propietario de BMW en La Cabrera combina el trayecto diario hacia Madrid por la A-1 con un uso muy local del pueblo y sus urbanizaciones cercanas, junto a Venturada, en carreteras de curva y pendiente moderada.\n\nNo hay taller especializado BMW en La Cabrera, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Madrid para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en La Cabrera.",
+  "introLocal": "La Cabrera es un municipio de algo más de 2.700 habitantes en la Sierra Norte de Madrid, conocido por su peña y sus zonas de escalada, situado justo en la salida de la A-1, lo que lo convierte en un punto de referencia para quien vive en la sierra pero necesita el acceso rápido a Madrid, a unos 45 minutos de trayecto.\n\nEl propietario de BMW en La Cabrera combina el trayecto diario hacia Madrid por la A-1 con un uso muy local del pueblo y sus urbanizaciones cercanas, junto a Venturada, en carreteras de curva y pendiente moderada.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien hace a diario el trayecto hacia Madrid por la A-1.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en La Cabrera",
-      "body": "Vamos a buscar el coche a tu domicilio o urbanización."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para volver a la A-1."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso diario en autovía, como el de La Cabrera.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en La Cabrera",
-      "body": "No hace falta que te desplaces hasta Madrid para el mantenimiento."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué desgastes son típicos del uso diario de autovía y los revisamos primero."
     }
   ],
-  "zoneText": "Damos servicio a La Cabrera y a los municipios cercanos de la Sierra Norte como Venturada y Cabanillas de la Sierra, con recogida a domicilio para quienes hacen a diario el trayecto hacia Madrid por la A-1.",
+  "zoneText": "Damos servicio a La Cabrera y a los municipios cercanos de la Sierra Norte como Venturada y Cabanillas de la Sierra.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en La Cabrera?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso diario en autovía?",
       "a": "Es el perfil más habitual entre nuestros clientes de la zona, con mucha experiencia."
@@ -114,10 +98,6 @@
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
       "a": "El mismo día que hacemos la diagnosis."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
-      "a": "Sí, coordinamos la recogida a primera hora de la mañana."
     },
     {
       "q": "¿Usáis piezas originales BMW?",
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado en la puerta de la sierra",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de La Cabrera y alrededores.",
   "testimonials": [
-    {
-      "name": "Casimiro Venturada",
-      "neighborhood": "La Cabrera",
-      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Madrid.",
-      "rating": 5
-    },
     {
       "name": "Piedad Somosierra",
       "neighborhood": "La Cabrera",

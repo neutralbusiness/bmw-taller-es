@@ -7,7 +7,7 @@
   "lat": 41.45653,
   "lng": 1.69783,
   "metaTitle": "Taller BMW cerca de Sant Pere de Riudebitlles | Alt Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Pere de Riudebitlles, Alt Penedès. Diagnosis oficial y mantenimiento con recogida.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Pere de Riudebitlles, Alt Penedès. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Pere de Riudebitlles",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Pere de Riudebitlles es un municipio pequeño del Alt Penedès, de tradición papelera e industrial, situado entre Vilafranca del Penedès y Igualada. No cuenta con taller BMW especializado propio, así que los vecinos suelen desplazarse a alguna de esas dos ciudades para el mantenimiento de la marca.\n\nOfrecemos recogida del vehículo en Sant Pere de Riudebitlles, con diagnosis realizada siempre con el software oficial de BMW y devolución del coche una vez terminado el trabajo.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Pere de Riudebitlles es un municipio pequeño del Alt Penedès, de tradición papelera e industrial, situado entre Vilafranca del Penedès y Igualada. No cuenta con taller BMW especializado propio, así que los vecinos suelen desplazarse a alguna de esas dos ciudades para el mantenimiento de la marca.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Pere de Riudebitlles",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona industrial del Alt Penedès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Pere de Riudebitlles se sitúa en el Alt Penedès, entre Vilafranca y Igualada, con tradición industrial papelera y un carácter más recogido que otros municipios de la comarca.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Pere de Riudebitlles?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Vilafranca del Penedès?",
       "a": "Sí, recibimos habitualmente clientes de Vilafranca y de toda la comarca del Alt Penedès."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Pere de Riudebitlles",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Pere de Riudebitlles que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Vicenç A.",
-      "neighborhood": "Sant Pere de Riudebitlles",
-      "body": "Recogieron el coche en el pueblo y me lo devolvieron reparado sin que tuviera que moverme.",
-      "rating": 5
-    },
     {
       "name": "Dolors M.",
       "neighborhood": "Sant Pere de Riudebitlles",

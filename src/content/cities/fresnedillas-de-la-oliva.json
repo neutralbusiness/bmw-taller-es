@@ -7,7 +7,7 @@
   "lat": 40.47483,
   "lng": -4.1788,
   "metaTitle": "Taller BMW en Fresnedillas de la Oliva | Sierra Oeste Madrid",
-  "metaDescription": "Taller BMW en Fresnedillas de la Oliva, Sierra Oeste de Madrid. Diagnosis oficial, turbo, caja ZF y frenos. Servicio cercano con recogida. Presupuesto gratis.",
+  "metaDescription": "Taller BMW en Fresnedillas de la Oliva, Sierra Oeste de Madrid. Diagnosis oficial, turbo, caja ZF y frenos. Presupuesto gratis.",
   "heroSubtitle": "Taller BMW en Fresnedillas de la Oliva, en la Sierra Oeste de Madrid",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Fresnedillas de la Oliva es un municipio pequeño de la Sierra Oeste madrileña, con un entorno rural muy marcado y una conexión hacia Madrid a través de la M-501 y la M-600 que muchos vecinos recorren a diario. El parque BMW local, aunque reducido en número, incluye Series 3 y X1 que combinan uso urbano ocasional con carreteras de sierra de curvas cerradas y pendientes.\n\nTrabajamos con diagnosis oficial BMW y coordinamos recogidas para quienes viven en este tipo de municipios pequeños, donde desplazarse hasta un taller especializado no siempre resulta cómodo.",
+  "introLocal": "Fresnedillas de la Oliva es un municipio pequeño de la Sierra Oeste madrileña, con un entorno rural muy marcado y una conexión hacia Madrid a través de la M-501 y la M-600 que muchos vecinos recorren a diario. El parque BMW local, aunque reducido en número, incluye Series 3 y X1 que combinan uso urbano ocasional con carreteras de sierra de curvas cerradas y pendientes.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada al uso de carretera de sierra en la Sierra Oeste de Madrid.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto más cómodo para ti."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por la Sierra Oeste de Madrid.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Facilitamos el acceso al taller para quien vive en la Sierra Oeste."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,12 +89,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Cubrimos Fresnedillas de la Oliva y su entorno en la Sierra Oeste de Madrid, con servicio de recogida para quienes viven en municipios cercanos como Navalagamella o Zarzalejo.",
+  "zoneText": "Cubrimos Fresnedillas de la Oliva y su entorno en la Sierra Oeste de Madrid.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Fresnedillas de la Oliva?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Hay coste adicional por la distancia?",
       "a": "Para trayectos habituales dentro de la Sierra Oeste no aplicamos recargo."
@@ -133,7 +117,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW cerca, aunque vivas en la Sierra Oeste de Madrid",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin complicaciones.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de Fresnedillas de la Oliva.",
   "testimonials": [
-    {
-      "name": "Casimiro L.",
-      "neighborhood": "Fresnedillas de la Oliva",
-      "body": "Coordinaron la recogida sin problema, muy de agradecer viviendo donde vivo.",
-      "rating": 5
-    },
     {
       "name": "Yolanda P.",
       "neighborhood": "Fresnedillas de la Oliva",

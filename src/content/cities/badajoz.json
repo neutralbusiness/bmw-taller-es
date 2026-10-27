@@ -7,7 +7,7 @@
   "lat": 38.87789,
   "lng": -6.97061,
   "metaTitle": "Taller BMW en Badajoz | Especialistas en BMW",
-  "metaDescription": "Taller especializado BMW en Badajoz. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja. Recogida en toda la ciudad y provincia.",
+  "metaDescription": "Taller especializado BMW en Badajoz. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja.",
   "heroSubtitle": "El taller BMW de referencia en Badajoz, con la experiencia técnica que exige una ciudad donde el coche recorre a diario la frontera con Portugal.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Badajoz es la ciudad más poblada de Extremadura, con más de 150.000 habitantes, y su posición fronteriza con Portugal marca de forma directa el tipo de uso que se le da al coche: trayectos frecuentes hacia Elvas y el Alentejo, desplazamientos largos por la EX-A1 y la N-432 hacia Mérida y Córdoba, y un tráfico urbano que combina el centro histórico con barrios en plena expansión como Guadiana o Valdepasillas.\n\nEl parque de BMW en Badajoz refleja esa diversidad: berlinas y SUV de profesionales que cruzan la frontera a diario por temas laborales, coches de familias asentadas en las zonas residenciales del sur de la ciudad, y vehículos de quienes recorren largas distancias de forma habitual hacia Madrid o Sevilla por la A-5 y la A-66.\n\nEl clima extremeño, con veranos muy largos y temperaturas que superan con facilidad los 40 grados, es un factor que no se puede ignorar: el sistema de refrigeración, el aire acondicionado y la batería sufren un desgaste distinto al de otras zonas de España, y lo tenemos en cuenta en cada revisión.\n\nAdemás, muchos de nuestros clientes en Badajoz combinan uso urbano intenso —con el tráfico del centro y los puentes sobre el Guadiana— con trayectos de carretera larga, lo que exige un enfoque de mantenimiento que cubra ambos escenarios sin descuidar ninguno.\n\nNuestro taller trabaja con el equipo de diagnosis oficial BMW y ofrece recogida en cualquier punto de la ciudad, desde el centro hasta las zonas más alejadas como Cerro de Reyes o Pardaleras, así como en los municipios cercanos de la provincia.",
+  "introLocal": "Badajoz es la ciudad más poblada de Extremadura, con más de 150.000 habitantes, y su posición fronteriza con Portugal marca de forma directa el tipo de uso que se le da al coche: trayectos frecuentes hacia Elvas y el Alentejo, desplazamientos largos por la EX-A1 y la N-432 hacia Mérida y Córdoba, y un tráfico urbano que combina el centro histórico con barrios en plena expansión como Guadiana o Valdepasillas.\n\nEl parque de BMW en Badajoz refleja esa diversidad: berlinas y SUV de profesionales que cruzan la frontera a diario por temas laborales, coches de familias asentadas en las zonas residenciales del sur de la ciudad, y vehículos de quienes recorren largas distancias de forma habitual hacia Madrid o Sevilla por la A-5 y la A-66.\n\nEl clima extremeño, con veranos muy largos y temperaturas que superan con facilidad los 40 grados, es un factor que no se puede ignorar: el sistema de refrigeración, el aire acondicionado y la batería sufren un desgaste distinto al de otras zonas de España, y lo tenemos en cuenta en cada revisión.\n\nAdemás, muchos de nuestros clientes en Badajoz combinan uso urbano intenso —con el tráfico del centro y los puentes sobre el Guadiana— con trayectos de carretera larga, lo que exige un enfoque de mantenimiento que cubra ambos escenarios sin descuidar ninguno.",
   "servicesIntro": "Mantenimiento integral, diagnosis con equipo oficial y reparación de motor, caja de cambios y electrónica para toda la gama BMW.",
   "processIntro": "Un proceso claro pensado tanto para el uso urbano diario como para quien recorre largas distancias por carretera desde Badajoz.",
   "processSteps": [
     {
       "title": "Cita y primera valoración",
       "body": "Nos cuentas el problema por teléfono o WhatsApp y programamos la cita según urgencia."
-    },
-    {
-      "title": "Recogida en Badajoz o la provincia",
-      "body": "Recogemos el coche en tu barrio o municipio cercano si lo necesitas."
     },
     {
       "title": "Diagnosis con equipo oficial BMW",
@@ -85,10 +81,6 @@
       "body": "El mismo nivel técnico que un concesionario, con presupuestos más competitivos."
     },
     {
-      "title": "Recogida en toda la ciudad y provincia",
-      "body": "Desde el centro de Badajoz hasta municipios cercanos como Talavera la Real o Montijo."
-    },
-    {
       "title": "Presupuesto cerrado por escrito",
       "body": "Sabes el coste final antes de autorizar la reparación."
     },
@@ -101,12 +93,8 @@
       "body": "Tú decides el nivel de gasto según la antigüedad y el uso del vehículo."
     }
   ],
-  "zoneText": "Damos servicio a toda la ciudad de Badajoz, desde el centro histórico hasta los barrios más recientes, y a los municipios cercanos de la provincia como Talavera la Real, Montijo o Puebla de la Calzada, con recogida a domicilio.",
+  "zoneText": "Damos servicio a toda la ciudad de Badajoz, desde el centro histórico hasta los barrios más recientes, y a los municipios cercanos de la provincia como Talavera la Real, Montijo o Puebla de la Calzada.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en toda la ciudad de Badajoz?",
-      "a": "Sí, en cualquier barrio, sin coste adicional."
-    },
     {
       "q": "¿También dais servicio a municipios de la provincia?",
       "a": "Sí, a Talavera la Real, Montijo, Puebla de la Calzada y otros cercanos."
@@ -133,7 +121,7 @@
     }
   ],
   "closingHeadline": "El taller BMW que Badajoz necesita",
-  "closingCta": "Pide cita y te recogemos el coche en cualquier punto de Badajoz o la provincia.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "testimonialsIntro": "Opiniones de clientes de Badajoz capital y la provincia.",
   "testimonials": [
     {
@@ -152,12 +140,6 @@
       "name": "Ignacio Barragán",
       "neighborhood": "Cerro de Reyes",
       "body": "Cruzo la frontera a Elvas cada semana por trabajo y aquí me cuidan el coche como se merece.",
-      "rating": 5
-    },
-    {
-      "name": "Pilar Nogales",
-      "neighborhood": "Pardaleras",
-      "body": "Presupuesto claro y sin sorpresas, y me recogieron el coche en casa sin coste extra.",
       "rating": 5
     }
   ],

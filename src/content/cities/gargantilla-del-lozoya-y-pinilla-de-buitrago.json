@@ -7,7 +7,7 @@
   "lat": 40.96481,
   "lng": -3.69683,
   "metaTitle": "Taller BMW en Gargantilla del Lozoya | Sierra Norte Madrid",
-  "metaDescription": "Servicio BMW para Gargantilla del Lozoya y Pinilla de Buitrago, Sierra Norte de Madrid. Diagnosis oficial y caja automática, con recogida coordinada.",
+  "metaDescription": "Servicio BMW para Gargantilla del Lozoya y Pinilla de Buitrago, Sierra Norte de Madrid. Diagnosis oficial y caja automática.",
   "heroSubtitle": "Servicio BMW especializado para Gargantilla del Lozoya y Pinilla de Buitrago",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Gargantilla del Lozoya y Pinilla de Buitrago es un municipio doble de la Sierra Norte de Madrid, cerca del embalse de Riosequillo y de Buitrago del Lozoya, con un entorno serrano marcado por curvas, pendientes y un uso del vehículo muy distinto al urbano. Con apenas 400 habitantes repartidos entre sus dos núcleos, atendemos con regularidad a vecinos y propietarios de segunda residencia que valoran no tener que bajar hasta Madrid para una revisión especializada.\n\nCoordinamos siempre la recogida del vehículo y prestamos especial atención a frenos y suspensión, los sistemas que más sufren en las carreteras de esta parte de la sierra.",
-  "servicesIntro": "Mecánica y electrónica BMW con recogida coordinada para quienes viven en la Sierra Norte de Madrid.",
+  "introLocal": "Gargantilla del Lozoya y Pinilla de Buitrago es un municipio doble de la Sierra Norte de Madrid, cerca del embalse de Riosequillo y de Buitrago del Lozoya, con un entorno serrano marcado por curvas, pendientes y un uso del vehículo muy distinto al urbano. Con apenas 400 habitantes repartidos entre sus dos núcleos, atendemos con regularidad a vecinos y propietarios de segunda residencia que valoran no tener que bajar hasta Madrid para una revisión especializada.",
+  "servicesIntro": "Mecánica y electrónica BMW.",
   "processIntro": "Un proceso pensado específicamente para minimizar el desplazamiento desde pueblos pequeños de montaña.",
   "processSteps": [
-    {
-      "title": "Contacto telefónico",
-      "body": "Nos cuentas el síntoma y acordamos el punto y la fecha de recogida."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Trasladamos el vehículo hasta nuestras instalaciones."
-    },
     {
       "title": "Diagnosis oficial",
       "body": "Escaneo completo con software original BMW."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto y autorización",
       "body": "Te llamamos con el diagnóstico antes de reparar nada."
-    },
-    {
-      "title": "Reparación y devolución",
-      "body": "Ejecutamos el trabajo y coordinamos la devolución del vehículo."
     }
   ],
   "commonIssuesIntro": "Averías habituales en los BMW que atendemos de esta zona de la Sierra Norte.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida garantizada",
-      "body": "Nunca te pedimos que asumas tú el desplazamiento a nuestras instalaciones."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,16 +85,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos Gargantilla del Lozoya, Pinilla de Buitrago y los municipios cercanos de la Sierra Norte, con recogida coordinada dado el tamaño y la orografía de la zona.",
+  "zoneText": "Atendemos Gargantilla del Lozoya, Pinilla de Buitrago y los municipios cercanos de la Sierra Norte.",
   "faqLocal": [
-    {
-      "q": "¿Podéis venir a recoger el coche a Gargantilla del Lozoya?",
-      "a": "Sí, coordinamos siempre la recogida dado el tamaño y la orografía del municipio."
-    },
-    {
-      "q": "¿Tiene coste la recogida?",
-      "a": "Depende de la distancia; te lo indicamos con claridad antes de confirmar la cita."
-    },
     {
       "q": "¿Revisáis frenos por las bajadas de montaña?",
       "a": "Sí, es una revisión habitual en vehículos de la Sierra Norte."
@@ -118,10 +94,6 @@
     {
       "q": "¿Puedo dejar el coche varias semanas?",
       "a": "Sí, disponemos de aparcamiento vigilado si necesitas dejarlo un tiempo prolongado."
-    },
-    {
-      "q": "¿Cuánto tardáis en dar presupuesto?",
-      "a": "Normalmente el mismo día en que recogemos el vehículo."
     },
     {
       "q": "¿Hacéis revisiones antes de la ITV?",
@@ -133,7 +105,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW especializada, aunque estés en la Sierra Norte de Madrid",
-  "closingCta": "Llámanos y coordinamos la recogida de tu BMW en Gargantilla del Lozoya y Pinilla de Buitrago.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -146,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Gargantilla del Lozoya y Pinilla de Buitrago.",
   "testimonials": [
     {
-      "name": "Eusebio N.",
-      "neighborhood": "Gargantilla del Lozoya",
-      "body": "Coordinaron la recogida sin ningún problema, algo muy de agradecer en un pueblo de montaña como el nuestro.",
-      "rating": 5
-    },
-    {
       "name": "Visitación O.",
       "neighborhood": "Pinilla de Buitrago",
       "body": "Detectaron un desgaste de frenos por las bajadas hacia Buitrago antes de que fuera un problema mayor.",
-      "rating": 5
-    },
-    {
-      "name": "Anastasio Q.",
-      "neighborhood": "Gargantilla del Lozoya",
-      "body": "Coordinaron la recogida junto al embalse sin ningún contratiempo. Muy de agradecer.",
       "rating": 5
     }
   ],

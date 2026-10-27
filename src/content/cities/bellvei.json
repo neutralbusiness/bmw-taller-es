@@ -7,7 +7,7 @@
   "lat": 41.23638,
   "lng": 1.57155,
   "metaTitle": "Taller BMW en Bellvei | Baix Penedès",
-  "metaDescription": "Taller especializado BMW cerca de Bellvei, entre el Vendrell y Calafell. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio.",
+  "metaDescription": "Taller especializado BMW cerca de Bellvei, entre el Vendrell y Calafell. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "El taller BMW de confianza para quienes viven entre el Vendrell y la costa del Baix Penedès.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Bellvei es un municipio pequeño del Baix Penedès, de poco más de 2.500 habitantes, situado a pocos minutos del Vendrell y de la costa de Calafell, en una zona que combina agricultura tradicional con el crecimiento residencial propio de la proximidad al litoral y a la AP-7.\n\nEl propietario de BMW en Bellvei suele trabajar en el Vendrell, Tarragona o incluso Barcelona, con trayectos diarios de autopista combinados con desplazamientos cortos por las carreteras comarcales de la zona, un uso mixto que exige un mantenimiento equilibrado entre lo urbano y lo intensivo.\n\nNo hay taller especializado BMW en Bellvei, así que ofrecemos recogida a domicilio en el propio municipio, evitando el desplazamiento hasta el Vendrell o Tarragona para cualquier revisión o avería.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Bellvei.",
+  "introLocal": "Bellvei es un municipio pequeño del Baix Penedès, de poco más de 2.500 habitantes, situado a pocos minutos del Vendrell y de la costa de Calafell, en una zona que combina agricultura tradicional con el crecimiento residencial propio de la proximidad al litoral y a la AP-7.\n\nEl propietario de BMW en Bellvei suele trabajar en el Vendrell, Tarragona o incluso Barcelona, con trayectos diarios de autopista combinados con desplazamientos cortos por las carreteras comarcales de la zona, un uso mixto que exige un mantenimiento equilibrado entre lo urbano y lo intensivo.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo para quien combina trayectos de autopista con uso comarcal diario.",
   "processSteps": [
     {
       "title": "Contacto inicial",
       "body": "Nos cuentas la avería o el mantenimiento pendiente y te orientamos sin compromiso."
-    },
-    {
-      "title": "Recogida en Bellvei",
-      "body": "Vamos a buscar el coche a tu domicilio en el municipio."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega en Bellvei",
-      "body": "Devolvemos el vehículo en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso mixto autopista-comarcal, como el de Bellvei.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Bellvei",
-      "body": "No hace falta desplazarse hasta el Vendrell o Tarragona."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué desgastes buscar primero en este tipo de trayecto."
     }
   ],
-  "zoneText": "Damos servicio a Bellvei y su entorno cercano del Baix Penedès, entre el Vendrell y la costa de Calafell, con recogida a domicilio para evitar desplazamientos innecesarios.",
+  "zoneText": "Damos servicio a Bellvei y su entorno cercano del Baix Penedès, entre el Vendrell y la costa de Calafell.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Bellvei?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso mixto autopista-comarcal?",
       "a": "Es el perfil más habitual en la zona, con mucha experiencia."
@@ -128,8 +112,7 @@
       "a": "Sí, a todo el entorno cercano de Bellvei."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir de Bellvei",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +124,6 @@
   },
   "testimonialsIntro": "Lo que dicen los vecinos de Bellvei.",
   "testimonials": [
-    {
-      "name": "Jordi Ferrando",
-      "neighborhood": "Bellvei",
-      "body": "Recogieron el coche en casa y me lo devolvieron el mismo día con el turbo revisado.",
-      "rating": 5
-    },
     {
       "name": "Anna Miret",
       "neighborhood": "Bellvei",

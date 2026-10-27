@@ -7,7 +7,7 @@
   "lat": 40.90398,
   "lng": -3.40229,
   "metaTitle": "Taller BMW cerca de Valdepeñas de la Sierra | Guadalajara",
-  "metaDescription": "Servicio BMW para Valdepeñas de la Sierra: diagnosis original, revisión de turbo, Vanos y refrigeración. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "Servicio BMW para Valdepeñas de la Sierra: diagnosis original, revisión de turbo, Vanos y refrigeración.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Valdepeñas de la Sierra, en el Alto Henares de Guadalajara.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdepeñas de la Sierra es un municipio pequeño de la sierra guadalajareña, con carreteras de curvas y desniveles que exigen más a la suspensión y a los frenos del BMW que un uso puramente urbano. Los vecinos que trabajan en Guadalajara capital o Madrid suman a eso trayectos largos de autovía que desgastan turbo y caja de cambios.\n\nNo tenemos taller en el pueblo, pero coordinamos la recogida del coche para no obligarte a bajar hasta la ciudad con el mismo diagnóstico que emplea la red oficial BMW.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valdepeñas de la Sierra y la sierra guadalajareña.",
+  "introLocal": "Valdepeñas de la Sierra es un municipio pequeño de la sierra guadalajareña, con carreteras de curvas y desniveles que exigen más a la suspensión y a los frenos del BMW que un uso puramente urbano. Los vecinos que trabajan en Guadalajara capital o Madrid suman a eso trayectos largos de autovía que desgastan turbo y caja de cambios.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valdepeñas de la Sierra y la sierra guadalajareña.",
   "processIntro": "Un proceso pensado para quien vive en una zona de montaña alejada del taller.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si el coche puede circular hasta el taller o si conviene recogerlo."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión de motor, caja, frenos y suspensión con el software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución coordinada",
-      "body": "Al pueblo o punto de recogida acordado."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que circulan por la sierra guadalajareña.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en la sierra guadalajareña",
-      "body": "Coordinamos la recogida en Valdepeñas de la Sierra y alrededores."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que en el concesionario."
     },
@@ -101,19 +89,11 @@
       "body": "Por escrito en cada reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdepeñas de la Sierra y los municipios cercanos del Alto Henares en Guadalajara.",
+  "zoneText": "Servicio para Valdepeñas de la Sierra y los municipios cercanos del Alto Henares en Guadalajara.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdepeñas de la Sierra?",
-      "a": "No, pero recogemos el coche en el pueblo o en municipios cercanos."
-    },
     {
       "q": "¿Revisáis frenos y suspensión por la carretera de montaña?",
       "a": "Sí, en cada mantenimiento comprobamos su desgaste."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
     },
     {
       "q": "¿Dais presupuesto antes de reparar?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Qué garantía tiene la reparación?",
       "a": "12 meses por escrito."
-    },
-    {
-      "q": "¿Puedo bajar el coche yo mismo?",
-      "a": "Sí, si prefieres no esperar a la recogida."
     }
   ],
   "closingHeadline": "Tu BMW, preparado para la sierra guadalajareña",
-  "closingCta": "Contacta y organizamos la recogida en Valdepeñas de la Sierra.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -151,12 +127,6 @@
       "name": "Almudena Retiendas",
       "neighborhood": "Valdepeñas de la Sierra",
       "body": "Buena comunicación durante toda la reparación del turbo, con presupuesto claro desde el inicio.",
-      "rating": 5
-    },
-    {
-      "name": "Fructuoso Cogolludo",
-      "neighborhood": "Valdepeñas de la Sierra",
-      "body": "Recogieron el coche y devolvieron el presupuesto por WhatsApp en pocas horas.",
       "rating": 5
     }
   ],

@@ -7,7 +7,7 @@
   "lat": 41.72552,
   "lng": 2.18233,
   "metaTitle": "Taller BMW cerca de Sant Quirze Safaja | Vallès Oriental / Moianès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Quirze Safaja. Diagnosis oficial y mantenimiento con recogida del vehículo en la zona.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Quirze Safaja. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Quirze Safaja",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Quirze Safaja es uno de los municipios más pequeños de la frontera entre el Vallès Oriental y el Moianès, con un entorno muy rural y de montaña baja. No hay taller BMW especializado en el municipio, así que los pocos vecinos con vehículo de la marca suelen desplazarse a Caldes de Montbui o Granollers.\n\nOfrecemos recogida del vehículo en Sant Quirze Safaja, con diagnosis realizada siempre con el software oficial de BMW, sin que tengas que asumir tú el desplazamiento.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Quirze Safaja es uno de los municipios más pequeños de la frontera entre el Vallès Oriental y el Moianès, con un entorno muy rural y de montaña baja. No hay taller BMW especializado en el municipio, así que los pocos vecinos con vehículo de la marca suelen desplazarse a Caldes de Montbui o Granollers.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño y rural sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Quirze Safaja",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona rural entre el Vallès y el Moianès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Quirze Safaja se encuentra en la frontera entre el Vallès Oriental y el Moianès, con un entorno muy rural y carreteras de montaña baja que condicionan el tipo de mantenimiento que recomendamos.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Quirze Safaja?",
-      "a": "No, es un municipio muy pequeño y rural sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Sant Feliu de Codines y Caldes de Montbui?",
       "a": "Sí, recibimos habitualmente clientes de estos municipios cercanos."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Quirze Safaja",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Quirze Safaja que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Jaume C.",
-      "neighborhood": "Sant Quirze Safaja",
-      "body": "Recogieron el coche en el pueblo, algo que no imaginaba que fuera posible desde aquí. Muy satisfecho.",
-      "rating": 5
-    },
     {
       "name": "Roser P.",
       "neighborhood": "Sant Quirze Safaja",

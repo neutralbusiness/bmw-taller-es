@@ -7,7 +7,7 @@
   "lat": 41.68879,
   "lng": 1.97473,
   "metaTitle": "Taller BMW en Mura | Diagnóstico y reparación especializada",
-  "metaDescription": "Reparación especializada de BMW cerca de Mura (Bages, Barcelona). Diagnóstico ISTA, mecánica y electrónica BMW. Recogida disponible. Presupuesto sin compromiso.",
+  "metaDescription": "Reparación especializada de BMW cerca de Mura (Bages, Barcelona). Diagnóstico ISTA, mecánica y electrónica BMW. Presupuesto sin compromiso.",
   "heroSubtitle": "El taller BMW de confianza para los vecinos de Mura y el entorno del Parc de Sant Llorenç del Munt.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Mura es de esos pueblos del Bages donde encontrar un mecánico realmente especializado en BMW a la vuelta de la esquina es, sencillamente, imposible: apenas 600 vecinos rodeados de montaña no dan para sostener un taller de marca. Por eso trabajamos con los propietarios de BMW de Mura desde nuestras instalaciones, a un trayecto corto por la carretera que baja hacia Sant Llorenç Savall o Talamanca.\n\nLa mayoría de consultas que recibimos de la zona vienen de gente que usa el coche a diario para bajar a Manresa o Terrassa a trabajar, con lo que la fiabilidad no es un capricho sino una necesidad. Ofrecemos recogida del vehículo en Mura para quien no pueda desplazarse, y nos coordinamos por WhatsApp para no hacer perder tiempo a nadie con un desplazamiento innecesario.",
-  "servicesIntro": "Diagnóstico, mecánica, electrónica y mantenimiento programado para cualquier BMW, con recogida disponible para clientes de Mura.",
+  "introLocal": "Mura es de esos pueblos del Bages donde encontrar un mecánico realmente especializado en BMW a la vuelta de la esquina es, sencillamente, imposible: apenas 600 vecinos rodeados de montaña no dan para sostener un taller de marca. Por eso trabajamos con los propietarios de BMW de Mura desde nuestras instalaciones, a un trayecto corto por la carretera que baja hacia Sant Llorenç Savall o Talamanca.\n\nLa mayoría de consultas que recibimos de la zona vienen de gente que usa el coche a diario para bajar a Manresa o Terrassa a trabajar, con lo que la fiabilidad no es un capricho sino una necesidad.",
+  "servicesIntro": "Diagnóstico, mecánica, electrónica y mantenimiento programado para cualquier BMW.",
   "processIntro": "Así trabajamos con cada BMW que llega desde Mura, paso a paso y sin letra pequeña.",
   "processSteps": [
     {
@@ -108,10 +108,6 @@
       "a": "Depende de la avería. Un diagnóstico suele resolverse en unas horas; te avisamos antes de dejarlo si va a ser más largo."
     },
     {
-      "q": "¿Recogéis el coche en Mura?",
-      "a": "Sí, coordinamos recogida y entrega para clientes de Mura y núcleos cercanos, normalmente sin coste añadido según distancia."
-    },
-    {
       "q": "¿Trabajáis con BMW diésel de montaña con muchos kilómetros?",
       "a": "Sí, es habitual en la zona. Revisamos especialmente turbo y cadena de distribución en coches con uso de puertos de montaña."
     },
@@ -129,7 +125,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado como se merece, aunque vivas en Mura",
-  "closingCta": "Escríbenos y coordinamos recogida o cita en taller sin desplazamientos inútiles.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +141,6 @@
       "name": "Jordi Puigverd",
       "neighborhood": "Mura",
       "body": "Vivo en Mura y pensaba que tendría que bajar hasta Barcelona para que me tocaran el Vanos del Serie 3. Me ahorré el viaje y el diagnóstico fue impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Marta Solé",
-      "neighborhood": "Talamanca (cerca de Mura)",
-      "body": "Recogieron el coche en Mura sin que yo tuviera que mover un dedo. La caja ZF volvió a cambiar suave.",
       "rating": 5
     },
     {

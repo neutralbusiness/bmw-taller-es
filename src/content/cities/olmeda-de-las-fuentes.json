@@ -7,7 +7,7 @@
   "lat": 40.37112,
   "lng": -3.20757,
   "metaTitle": "Taller BMW cerca de Olmeda de las Fuentes | Sierra Este Madrid",
-  "metaDescription": "Diagnóstico y reparación BMW para Olmeda de las Fuentes y la Sierra Este de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "Diagnóstico y reparación BMW para Olmeda de las Fuentes y la Sierra Este de Madrid.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Olmeda de las Fuentes, uno de los pueblos más pequeños de Madrid.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Olmeda de las Fuentes es el municipio más pequeño de toda la Comunidad de Madrid, con apenas 150 vecinos y un conjunto histórico-artístico que lo hace único. Un pueblo de este tamaño, lógicamente, no tiene ni de lejos un taller especializado en BMW, así que atendemos a sus habitantes desde nuestras instalaciones más cercanas, con recogida disponible para no obligar a nadie a hacer el trayecto si no puede.\n\nLos pocos BMW que recibimos de Olmeda suelen ser coches de uso diario para bajar a trabajar a Nuevo Baztán, Arganda o Madrid, y les damos el mismo trato y diagnóstico riguroso que a cualquier cliente de zonas con más población.",
-  "servicesIntro": "Diagnóstico y reparación BMW con recogida disponible para los vecinos de Olmeda de las Fuentes.",
+  "introLocal": "Olmeda de las Fuentes es el municipio más pequeño de toda la Comunidad de Madrid, con apenas 150 vecinos y un conjunto histórico-artístico que lo hace único. Un pueblo de este tamaño, lógicamente, no tiene ni de lejos un taller especializado en BMW, así que atendemos a sus habitantes desde nuestras instalaciones más cercanas.\n\nLos pocos BMW que recibimos de Olmeda suelen ser coches de uso diario para bajar a trabajar a Nuevo Baztán, Arganda o Madrid, y les damos el mismo trato y diagnóstico riguroso que a cualquier cliente de zonas con más población.",
+  "servicesIntro": "Diagnóstico y reparación BMW.",
   "processIntro": "Cómo organizamos la visita cuando el cliente viene desde un pueblo tan pequeño como Olmeda de las Fuentes.",
   "processSteps": [
     {
@@ -104,14 +104,6 @@
   "zoneText": "Damos servicio a Olmeda de las Fuentes y a los pequeños municipios de la Sierra Este de Madrid, una zona con muy poca oferta de talleres especializados en marcas premium.",
   "faqLocal": [
     {
-      "q": "¿Merece la pena traer el coche desde un pueblo tan pequeño?",
-      "a": "Sí, precisamente porque en Olmeda de las Fuentes no hay taller especializado en BMW, ofrecemos recogida para que la distancia no sea un problema."
-    },
-    {
-      "q": "¿Cobráis más por la recogida en pueblos pequeños?",
-      "a": "Depende de la distancia exacta, pero intentamos que no suponga un coste desproporcionado."
-    },
-    {
       "q": "¿Tenéis experiencia con coches de zonas rurales poco transitadas?",
       "a": "Sí, es habitual en la Sierra Este de Madrid y sabemos qué desgaste esperar en ese tipo de uso."
     },
@@ -120,16 +112,12 @@
       "a": "Damos una orientación inicial, aunque el presupuesto cerrado siempre llega tras el diagnóstico en taller."
     },
     {
-      "q": "¿Cuánto puede tardar la recogida desde Olmeda de las Fuentes?",
-      "a": "Solemos coordinarlo el mismo día o el siguiente, según agenda."
-    },
-    {
       "q": "¿Trabajáis con BMW antiguos con pocos kilómetros al año?",
       "a": "Sí, es un perfil habitual en pueblos pequeños: coches que no acumulan muchos km pero sí sufren por el tiempo parado."
     }
   ],
   "closingHeadline": "Ningún pueblo es demasiado pequeño para un buen diagnóstico",
-  "closingCta": "Escríbenos desde Olmeda de las Fuentes y coordinamos la recogida de tu BMW.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +129,6 @@
   },
   "testimonialsIntro": "Testimonio de un vecino de Olmeda de las Fuentes.",
   "testimonials": [
-    {
-      "name": "Cirilo Marchena",
-      "neighborhood": "Olmeda de las Fuentes",
-      "body": "Vivo en uno de los pueblos más pequeños de Madrid y pensaba que nadie me iba a dar el mismo trato que a un cliente de ciudad. Me equivoqué: recogieron el coche y me lo devolvieron con un diagnóstico impecable del turbo.",
-      "rating": 5
-    },
     {
       "name": "Fermina Alcocer",
       "neighborhood": "Villar del Olmo (cerca de Olmeda)",

@@ -7,7 +7,7 @@
   "lat": 41.64712,
   "lng": 1.91521,
   "metaTitle": "Taller BMW cerca de Rellinars | Vallès Occidental, Terrassa",
-  "metaDescription": "Servicio BMW para Rellinars: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Vallès Occidental, cerca de Terrassa.",
+  "metaDescription": "Servicio BMW para Rellinars: diagnosis original y reparación en el taller de referencia del Vallès Occidental, cerca de Terrassa.",
   "heroSubtitle": "Sant Llorenç del Munt, mecánica BMW cerca de Terrassa",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Rellinars es un municipio pequeño del Vallès Occidental, con apenas 500 habitantes, encajado en el entorno del parque natural de Sant Llorenç del Munt i l'Obac, muy cerca de Terrassa. Un pueblo de este tamaño no puede sostener un taller especializado en BMW, así que no vamos a fingirlo.\n\nLo que ofrecemos es recogida coordinada desde Rellinars hasta el taller de referencia del Vallès, generalmente en Terrassa, con devolución del vehículo en el mismo punto una vez reparado.\n\nEl entorno de montaña y las carreteras estrechas de acceso al parque natural exigen una atención especial a frenos y suspensión, más allá del mantenimiento básico que suele bastar en zonas llanas.",
+  "introLocal": "Rellinars es un municipio pequeño del Vallès Occidental, con apenas 500 habitantes, encajado en el entorno del parque natural de Sant Llorenç del Munt i l'Obac, muy cerca de Terrassa. Un pueblo de este tamaño no puede sostener un taller especializado en BMW, así que no vamos a fingirlo.\n\nEl entorno de montaña y las carreteras estrechas de acceso al parque natural exigen una atención especial a frenos y suspensión, más allá del mantenimiento básico que suele bastar en zonas llanas.",
   "servicesIntro": "Mantenimiento adaptado a carretera de montaña, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso pensado para un pueblo pequeño de montaña.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el problema y valoramos si conviene recogida o traer el coche a Terrassa."
-    },
-    {
-      "title": "Recogida en Rellinars",
-      "body": "Acordamos un punto fijo accesible en el pueblo para la recogida."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos la memoria de averías real antes de proponer nada."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto acordado en Rellinars."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW usados en el entorno de montaña de Sant Llorenç del Munt.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida adaptada a carretera de montaña",
-      "body": "Sabemos organizar la logística en zonas de difícil acceso como Rellinars."
-    },
-    {
       "title": "Atención específica a frenos y suspensión",
       "body": "Componentes clave para quien conduce a diario por curvas de montaña."
     },
@@ -104,32 +88,16 @@
   "zoneText": "Cubrimos Rellinars y las masías dispersas de su término municipal, con conexión hacia Terrassa por carreteras de montaña.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Rellinars?",
-      "a": "No, el pueblo es demasiado pequeño; ofrecemos recogida hasta el taller de referencia en Terrassa."
-    },
-    {
-      "q": "¿Podéis recoger en una masía alejada del núcleo?",
-      "a": "Sí, coordinamos un punto de encuentro accesible según la ubicación exacta."
-    },
-    {
       "q": "¿Las carreteras de montaña afectan al mantenimiento?",
       "a": "Sí, prestamos especial atención a frenos, suspensión y turbo por el tipo de uso."
     },
     {
-      "q": "¿Qué pasa si nieva o hay hielo el día de la recogida?",
-      "a": "Reprogramamos por seguridad y te avisamos con antelación."
-    },
-    {
       "q": "¿Trabajáis con vehículos xDrive?",
       "a": "Sí, es habitual en zonas de montaña y tenemos experiencia específica."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso."
     }
   ],
   "closingHeadline": "Mecánica BMW seria, aunque tu pueblo esté junto al parque natural",
-  "closingCta": "Llámanos y organizamos la recogida en Rellinars.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +109,6 @@
   },
   "testimonialsIntro": "Testimonios de vecinos de Rellinars y el entorno de Sant Llorenç del Munt.",
   "testimonials": [
-    {
-      "name": "Damià Fontanet",
-      "neighborhood": "Rellinars",
-      "body": "Vivo cerca del parque natural y aun así vinieron a buscar el coche sin problema.",
-      "rating": 5
-    },
     {
       "name": "Assumpta Vilaró",
       "neighborhood": "Rellinars",

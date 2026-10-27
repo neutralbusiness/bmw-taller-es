@@ -7,7 +7,7 @@
   "lat": 40.29475,
   "lng": -3.29717,
   "metaTitle": "Taller BMW cerca de Valdilecha | Sureste de Madrid",
-  "metaDescription": "Servicio BMW para Valdilecha: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible. Pide cita.",
+  "metaDescription": "Servicio BMW para Valdilecha: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Pide cita.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdilecha, en el sureste de la Comunidad de Madrid.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdilecha combina un núcleo tranquilo con trayectos largos hacia Madrid capital o Arganda del Rey, habituales entre los vecinos que trabajan fuera del municipio. Ese uso de carretera y autovía combinado desgasta el turbo y la caja automática antes de lo que marcaría el manual del fabricante.\n\nNo tenemos taller en Valdilecha, pero organizamos la recogida del coche con el mismo protocolo de diagnosis que emplea la red oficial BMW.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valdilecha y el sureste de Madrid.",
+  "introLocal": "Valdilecha combina un núcleo tranquilo con trayectos largos hacia Madrid capital o Arganda del Rey, habituales entre los vecinos que trabajan fuera del municipio. Ese uso de carretera y autovía combinado desgasta el turbo y la caja automática antes de lo que marcaría el manual del fabricante.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valdilecha y el sureste de Madrid.",
   "processIntro": "Un proceso claro que no te exige perder tu jornada.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Valdilecha",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen trayectos combinados de carretera y autovía desde Valdilecha.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdilecha",
-      "body": "No hace falta que interrumpas tu jornada."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdilecha y los municipios cercanos del sureste de Madrid.",
+  "zoneText": "Servicio para Valdilecha y los municipios cercanos del sureste de Madrid.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdilecha?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,11 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
-  "closingHeadline": "Tu BMW bien cuidado, sin salir de Valdilecha",
-  "closingCta": "Contacta y organizamos la recogida.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdilecha que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Segundo Loeches",
-      "neighborhood": "Valdilecha",
-      "body": "Recogieron el coche y el presupuesto llegó por WhatsApp en un par de horas, tal cual dijeron.",
-      "rating": 5
-    },
     {
       "name": "Concha Tielmes",
       "neighborhood": "Valdilecha",

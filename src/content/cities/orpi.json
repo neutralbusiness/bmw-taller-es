@@ -7,7 +7,7 @@
   "lat": 41.5281,
   "lng": 1.57848,
   "metaTitle": "Taller BMW cerca de Orpí | Especialistas en l'Anoia",
-  "metaDescription": "Diagnóstico y reparación BMW para Orpí y la comarca de l'Anoia. Recogida disponible, presupuesto cerrado y garantía por escrito. Pide cita.",
+  "metaDescription": "Diagnóstico y reparación BMW para Orpí y la comarca de l'Anoia. Pide cita.",
   "heroSubtitle": "Mecánica BMW especializada para los vecinos de Orpí, en plena Anoia.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Orpí es un municipio pequeño de la Anoia, de apenas 350 habitantes, donde encontrar un taller especializado en BMW en el propio pueblo es sencillamente inviable. Atendemos a sus vecinos desde nuestras instalaciones cercanas a Igualada, con la posibilidad de recogida para quien no quiera hacer el trayecto por carretera de montaña con el coche averiado.\n\nLos BMW que recibimos de la zona suelen tener un uso mixto entre carretera secundaria y desplazamientos hacia Igualada o Vilanova del Camí, así que revisamos con atención suspensión y frenos, componentes que en este tipo de terreno sufren más de lo habitual.",
-  "servicesIntro": "Diagnóstico, mecánica y electrónica BMW con recogida disponible para clientes de Orpí.",
+  "introLocal": "Orpí es un municipio pequeño de la Anoia, de apenas 350 habitantes, donde encontrar un taller especializado en BMW en el propio pueblo es sencillamente inviable. Atendemos a sus vecinos desde nuestras instalaciones cercanas a Igualada.\n\nLos BMW que recibimos de la zona suelen tener un uso mixto entre carretera secundaria y desplazamientos hacia Igualada o Vilanova del Camí, así que revisamos con atención suspensión y frenos, componentes que en este tipo de terreno sufren más de lo habitual.",
+  "servicesIntro": "Diagnóstico, mecánica y electrónica BMW.",
   "processIntro": "Cómo organizamos la cita cuando el cliente viene de un pueblo pequeño como Orpí.",
   "processSteps": [
     {
@@ -101,12 +101,8 @@
       "body": "Formamos parte del tejido de talleres de confianza de Orpí, y eso nos obliga a hacer bien las cosas cada día."
     }
   ],
-  "zoneText": "Damos servicio a Orpí y a los pequeños municipios de la comarca de l'Anoia, con recogida disponible para quien viva algo apartado.",
+  "zoneText": "Damos servicio a Orpí y a los pequeños municipios de la comarca de l'Anoia.",
   "faqLocal": [
-    {
-      "q": "¿Es viable traer el coche desde un pueblo tan pequeño como Orpí?",
-      "a": "Sí, precisamente por eso ofrecemos recogida, para que la distancia no sea un impedimento."
-    },
     {
       "q": "¿Trabajáis con coches de carretera secundaria y montaña baja?",
       "a": "Sí, es habitual en la zona de Orpí y prestamos atención especial a suspensión y frenos."
@@ -114,10 +110,6 @@
     {
       "q": "¿Dais presupuesto por teléfono?",
       "a": "Una primera orientación sí, el presupuesto cerrado llega tras el diagnóstico en taller."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde Orpí?",
-      "a": "Normalmente lo coordinamos el mismo día o al siguiente."
     },
     {
       "q": "¿Reparáis BMW antiguos de zona rural?",
@@ -129,7 +121,7 @@
     }
   ],
   "closingHeadline": "También cuidamos los BMW de los pueblos más pequeños de la Anoia",
-  "closingCta": "Contáctanos desde Orpí y organizamos la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +133,6 @@
   },
   "testimonialsIntro": "Testimonio de un cliente de Orpí.",
   "testimonials": [
-    {
-      "name": "Salvador Torroella",
-      "neighborhood": "Orpí",
-      "body": "Vivo en un pueblo muy pequeño y pensaba que nadie me iba a atender con calma. Me recogieron el coche y el diagnóstico de la suspensión fue impecable.",
-      "rating": 5
-    },
     {
       "name": "Roser Padrós",
       "neighborhood": "Vilanova del Camí (cerca de Orpí)",

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Llámanos o escríbenos por WhatsApp. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad. Si tu BMW no arranca, organizamos la recogida."
+      "body": "Llámanos o escríbenos por WhatsApp. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad."
     },
     {
       "title": "Diagnóstico con equipo BMW",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Desgaste prematuro de suspensión por caminos rurales",
-      "body": "Las pistas de tierra, los baches y los pasos de ganado castigan amortiguadores, muelles, silentblocks y rótulas mucho antes de lo que marca el plan de mantenimiento estándar. Revisamos todo el tren de rodaje y sustituimos los componentes desgastados para devolver el confort y la seguridad a tu BMW."
+      "body": "Las pistas de tierra, los baches y los pasos de ganado castigan amortiguadores, muelles, silentblocks y rótulas mucho antes de lo que marca el plan de mantenimiento estándar."
     },
     {
       "title": "Batería descargada por frío extremo y paradas prolongadas",
@@ -82,11 +82,11 @@
     },
     {
       "title": "Diagnóstico de nivel concesionario",
-      "body": "Trabajamos con ISTA, el mismo sistema de diagnóstico que utilizan los concesionarios oficiales BMW. Podemos leer y programar todos los módulos electrónicos, actualizar software y codificar nuevos componentes sin que tengas que ir a Manresa o Barcelona."
+      "body": "Trabajamos con ISTA, el mismo sistema de diagnóstico que utilizan los concesionarios oficiales BMW."
     },
     {
       "title": "Ahorro de tiempo real",
-      "body": "Un viaje al concesionario más cercano te cuesta medio día. Con nosotros, tu BMW está atendido sin salir de la comarca. Ofrecemos cita rápida y, para reparaciones programadas, servicio de recogida y entrega."
+      "body": "Un viaje al concesionario más cercano te cuesta medio día."
     },
     {
       "title": "Presupuesto cerrado y sin sorpresas",
@@ -111,13 +111,6 @@
       "neighborhood": "Montmajor",
       "car": "BMW 520d Touring",
       "body": "Llevaba semanas con un ruido en la suspensión delantera que me ponía nerviosa cada vez que cogía el camino de la finca. Resultó ser un silentblock partido. Me lo cambiaron el mismo día y el coche volvió a rodar como nuevo. Muy profesionales y cercanos.",
-      "rating": 5
-    },
-    {
-      "name": "Francesc Ribera",
-      "neighborhood": "Serrateix",
-      "car": "BMW 318d",
-      "body": "Una mañana de enero el coche no arrancó. Batería muerta por el frío. Vinieron a buscarlo, me pusieron una batería nueva registrada correctamente en el sistema del coche y me lo devolvieron a casa. Precio justo y sin complicaciones.",
       "rating": 5
     },
     {
@@ -151,10 +144,6 @@
       "a": "No necesitas bajar a Manresa. Ofrecemos servicio técnico especializado en BMW con cobertura en Montmajor y todo el sur del Berguedà. Diagnóstico con equipo oficial, recambios de calidad y garantía en cada reparación."
     },
     {
-      "q": "¿Pueden recoger mi BMW en la masía si no arranca?",
-      "a": "Sí. Disponemos de servicio de recogida en Montmajor, Capolat, Serrateix, L'Espunyola y municipios cercanos. Llámanos o escríbenos por WhatsApp y organizamos el traslado del vehículo."
-    },
-    {
       "q": "¿Cada cuánto debo revisar la suspensión si circulo por caminos de tierra?",
       "a": "En condiciones de uso rural intenso, recomendamos una inspección visual de amortiguadores, silentblocks y rótulas cada 15.000 kilómetros o una vez al año, lo que ocurra antes. Los caminos sin asfaltar del Berguedà aceleran el desgaste significativamente respecto a la conducción en asfalto."
     },
@@ -172,7 +161,7 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que conozca Montmajor",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y danos los datos de tu BMW. Te daremos cita rápida y un presupuesto sin compromiso, sin que tengas que salir de la comarca.",
+  "closingCta": "Llámanos o escríbenos por WhatsApp y danos los datos de tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

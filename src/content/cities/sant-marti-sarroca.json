@@ -7,7 +7,7 @@
   "lat": 41.3674,
   "lng": 1.6181,
   "metaTitle": "Taller BMW en Sant Martí Sarroca | Alt Penedès",
-  "metaDescription": "Taller especializado en BMW en Sant Martí Sarroca, Alt Penedès. Diagnosis oficial, mantenimiento y reparación con recogida disponible.",
+  "metaDescription": "Taller especializado en BMW en Sant Martí Sarroca, Alt Penedès. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "Mecánica BMW especializada en Sant Martí Sarroca",
   "trustChips": [
     {
@@ -31,17 +31,12 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Martí Sarroca es uno de los municipios más extensos del Alt Penedès, con un núcleo urbano propio y varias urbanizaciones dispersas por el término, muchas de ellas habitadas por familias que se han trasladado desde Barcelona o Vilafranca buscando vivienda unifamiliar. Eso se traduce en un parque de BMW considerable, sobre todo SUV como X1 y X3.\n\nEl municipio no tiene taller especializado en la marca propio, así que ofrecemos recogida del vehículo tanto en el núcleo de Sant Martí Sarroca como en las urbanizaciones del término, con diagnosis siempre realizada con el software oficial de BMW.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en todo el término municipal.",
-  "processIntro": "Pensado para llegar a las urbanizaciones dispersas del municipio sin que tengas que desplazarte.",
+  "introLocal": "Eso se traduce en un parque de BMW considerable, sobre todo SUV como X1 y X3.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en el núcleo o la urbanización",
-      "body": "Coordinamos la recogida allí donde tengas el vehículo."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +45,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de Sant Martí Sarroca y sus urbanizaciones.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en todo el término municipal",
-      "body": "No importa si vives en el núcleo o en una urbanización dispersa."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -101,16 +88,8 @@
       "body": "Hablas con quien repara el coche, sin intermediarios."
     }
   ],
-  "zoneText": "Sant Martí Sarroca es un municipio extenso del Alt Penedès, con un núcleo urbano histórico y numerosas urbanizaciones residenciales dispersas por el término, lo que hace especialmente útil el servicio de recogida a domicilio para los vecinos de la marca.",
+  "zoneText": "Sant Martí Sarroca es un municipio extenso del Alt Penedès, con un núcleo urbano histórico y numerosas urbanizaciones residenciales dispersas por el término.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche también en las urbanizaciones?",
-      "a": "Sí, cubrimos todo el término municipal, no solo el núcleo urbano."
-    },
-    {
-      "q": "¿Hay taller BMW en Sant Martí Sarroca?",
-      "a": "No hay taller especializado propio en el municipio, por eso ofrecemos recogida desde allí."
-    },
     {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
@@ -129,7 +108,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado, vivas en el pueblo o en la urbanización",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Martí Sarroca que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Genís V.",
-      "neighborhood": "Sant Martí Sarroca",
-      "body": "Vivo en una urbanización algo apartada y recogieron el coche sin problema. Muy cómodo.",
-      "rating": 5
-    },
     {
       "name": "Laura F.",
       "neighborhood": "Urbanització Can Rossell",

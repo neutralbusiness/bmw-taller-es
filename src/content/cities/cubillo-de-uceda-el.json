@@ -7,7 +7,7 @@
   "lat": 40.81179,
   "lng": -3.40885,
   "metaTitle": "Taller BMW cerca de El Cubillo de Uceda | Guadalajara",
-  "metaDescription": "Taller BMW especializado que atiende El Cubillo de Uceda y la comarca de Uceda, Guadalajara. Diagnóstico y reparación con recogida disponible.",
+  "metaDescription": "Taller BMW especializado que atiende El Cubillo de Uceda y la comarca de Uceda, Guadalajara.",
   "heroSubtitle": "Mecánica BMW especializada para los pueblos de la comarca de Uceda.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "El Cubillo de Uceda es un pueblo pequeño de la provincia de Guadalajara, cerca de Uceda y de la frontera con la Comunidad de Madrid, con una vida tranquila y sin comercio especializado en automoción en el propio término.\n\nLos vecinos de El Cubillo de Uceda que tienen un BMW suelen resolver sus averías desplazándose hacia Torrelaguna, ya en Madrid, o hacia Guadalajara capital. Nuestro taller da servicio a esta zona con recogida disponible cuando el desplazamiento no es sencillo.",
-  "servicesIntro": "Diagnóstico y reparación con posibilidad de recogida para pueblos de la comarca de Uceda.",
+  "introLocal": "El Cubillo de Uceda es un pueblo pequeño de la provincia de Guadalajara, cerca de Uceda y de la frontera con la Comunidad de Madrid, con una vida tranquila y sin comercio especializado en automoción en el propio término.\n\nLos vecinos de El Cubillo de Uceda que tienen un BMW suelen resolver sus averías desplazándose hacia Torrelaguna, ya en Madrid, o hacia Guadalajara capital. Nuestro taller da servicio a esta zona.",
+  "servicesIntro": "Diagnóstico y reparación para pueblos de la comarca de Uceda.",
   "processIntro": "Adaptamos la logística a la distancia sin renunciar al rigor técnico.",
   "processSteps": [
     {
@@ -56,7 +56,6 @@
       "body": "Antes de entregarlo probamos el coche en carretera real y revisamos que el aviso o el ruido haya desaparecido."
     }
   ],
-  "commonIssuesIntro": "Fallos habituales en los BMW que recogemos en la comarca de Uceda.",
   "commonIssues": [
     {
       "title": "Sobrecalentamiento por bomba de agua eléctrica",
@@ -101,23 +100,11 @@
       "body": "Si algo no queda como esperabas, te atendemos de nuevo sin más coste, dentro del periodo de garantía."
     }
   ],
-  "zoneText": "Damos servicio a El Cubillo de Uceda y a los pueblos cercanos de la comarca: Uceda, Torrelaguna y El Casar, con recogida disponible por la distancia.",
+  "zoneText": "Damos servicio a El Cubillo de Uceda y a los pueblos cercanos de la comarca: Uceda, Torrelaguna y El Casar.",
   "faqLocal": [
-    {
-      "q": "Vivo en El Cubillo de Uceda y no tengo forma fácil de bajar el coche, ¿qué puedo hacer?",
-      "a": "Ofrecemos recogida en la zona; solo tienes que decirnos dónde está el vehículo y coordinamos el traslado."
-    },
     {
       "q": "¿Compensa reparar un BMW antiguo en un pueblo tan pequeño?",
       "a": "Depende del estado general; te damos una valoración honesta antes de invertir en la reparación."
-    },
-    {
-      "q": "¿Cuánto tarda el traslado desde la comarca de Uceda hasta el taller?",
-      "a": "Normalmente lo coordinamos en el mismo día o el siguiente, según disponibilidad."
-    },
-    {
-      "q": "¿Tiene coste adicional la recogida?",
-      "a": "Depende de la distancia exacta; te lo indicamos antes de confirmar el servicio."
     },
     {
       "q": "¿Puedo pedir solo un diagnóstico sin comprometerme a reparar?",
@@ -129,7 +116,7 @@
     }
   ],
   "closingHeadline": "La distancia no es excusa para un mal diagnóstico",
-  "closingCta": "Llámanos desde El Cubillo de Uceda y organizamos la recogida de tu BMW.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +128,6 @@
   },
   "testimonialsIntro": "Clientes de la comarca de Uceda que confían en nuestro servicio.",
   "testimonials": [
-    {
-      "name": "Casimiro Ñ.",
-      "neighborhood": "El Cubillo de Uceda",
-      "body": "Vinieron a recoger el coche porque desde aquí no tenía forma fácil de bajarlo. Servicio que se agradece.",
-      "rating": 5
-    },
     {
       "name": "Purificación V.",
       "neighborhood": "Uceda",

@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdemorillo es uno de los municipios con más crecimiento residencial de la sierra oeste de Madrid, con muchos vecinos que combinan trayectos diarios a Madrid por la M-600 y la A-6 con carreteras secundarias de curvas hacia Valdemaqueda o Robledo de Chavela.\n\nEsa combinación de autovía y carretera de montaña es exigente para el turbo, los frenos y la caja automática, así que en el pueblo vemos con frecuencia BMW con avisos de motor que aparecen precisamente después de un trayecto largo y una bajada continuada.\n\nOfrecemos recogida para quienes prefieren no bajar hasta la ciudad, con diagnosis realizada con el mismo equipo que usaría el concesionario oficial.",
-  "servicesIntro": "Mantenimiento, mecánica y diagnosis de averías BMW, con recogida para clientes de Valdemorillo y la sierra oeste.",
+  "introLocal": "Valdemorillo es uno de los municipios con más crecimiento residencial de la sierra oeste de Madrid, con muchos vecinos que combinan trayectos diarios a Madrid por la M-600 y la A-6 con carreteras secundarias de curvas hacia Valdemaqueda o Robledo de Chavela.\n\nEsa combinación de autovía y carretera de montaña es exigente para el turbo, los frenos y la caja automática, así que en el pueblo vemos con frecuencia BMW con avisos de motor que aparecen precisamente después de un trayecto largo y una bajada continuada.",
+  "servicesIntro": "Mantenimiento, mecánica y diagnosis de averías BMW, para clientes de Valdemorillo y la sierra oeste.",
   "processIntro": "Un proceso claro, sin necesidad de que pierdas la mañana desplazándote.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos explicas el síntoma y valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original BMW",
       "body": "Revisión completa de todos los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE homologadas."
-    },
-    {
-      "title": "Entrega o devolución a Valdemorillo",
-      "body": "Según lo que prefieras."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW de Valdemorillo por el uso combinado de autovía y carretera de sierra.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdemorillo",
-      "body": "No hace falta que bajes a Madrid para el mantenimiento."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que en el concesionario."
     },
@@ -101,12 +89,8 @@
       "body": "Por escrito en cada reparación."
     }
   ],
-  "zoneText": "Damos servicio con recogida a Valdemorillo y a los municipios de la sierra oeste que conectan por la M-600 y la A-6.",
+  "zoneText": "Damos servicio a Valdemorillo y a los municipios de la sierra oeste que conectan por la M-600 y la A-6.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdemorillo?",
-      "a": "No, pero ofrecemos recogida en el municipio y en la sierra oeste."
-    },
     {
       "q": "¿Revisáis los frenos por las bajadas de la sierra?",
       "a": "Sí, en cada mantenimiento comprobamos su desgaste específicamente."
@@ -122,14 +106,10 @@
     {
       "q": "¿Qué garantía tiene la reparación?",
       "a": "12 meses en mano de obra y piezas."
-    },
-    {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
     }
   ],
   "closingHeadline": "Tu BMW listo para la sierra oeste de Madrid",
-  "closingCta": "Contacta y organizamos la recogida en Valdemorillo.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdemorillo que ya confían en el servicio.",
   "testimonials": [
-    {
-      "name": "Gonzalo Maqueda",
-      "neighborhood": "Valdemorillo",
-      "body": "Recogieron mi X3 y detectaron un fallo de turbo que llevaba semanas dando la lata.",
-      "rating": 5
-    },
     {
       "name": "Silvia Robledo",
       "neighborhood": "Valdemorillo",

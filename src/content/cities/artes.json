@@ -7,7 +7,7 @@
   "lat": 41.80039,
   "lng": 1.95467,
   "metaTitle": "Taller BMW en Artés | Bages, cerca de Manresa",
-  "metaDescription": "Taller BMW especializado cerca de Artés, en el Bages junto a Manresa. Diagnóstico ISTA, presupuesto cerrado y recogida disponible.",
+  "metaDescription": "Taller BMW especializado cerca de Artés, en el Bages junto a Manresa. Diagnóstico ISTA, presupuesto cerrado.",
   "heroSubtitle": "Atención especializada BMW para Artés y el Bages, junto a Manresa.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Artés es un municipio de unos 6.000 habitantes en la comarca del Bages, a pocos kilómetros de Manresa, con la C-16 y la C-37 como principales vías de conexión. El entorno combina zona residencial con actividad agrícola e industrial ligera, y el BMW típico de la zona es un coche familiar, X1 o Serie 3, usado a diario para llegar a Manresa por trabajo o estudios.\n\nAl no estar en el área metropolitana de Barcelona, muchos propietarios de Artés han tenido que optar por talleres generalistas por falta de opciones especializadas cerca de casa. Nuestro servicio cubre esa necesidad: coordinamos recogida del vehículo en Artés o en Manresa, con un diagnóstico tan riguroso como el de un concesionario pero sin el desplazamiento hasta Barcelona.\n\nEl uso combinado de carretera comarcal y algún camino rural cercano a las masías de la zona desgasta la suspensión de forma distinta a un coche puramente urbano, algo que tenemos en cuenta al revisar cualquier vehículo que llega desde Artés.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida disponible en Artés y Manresa.",
+  "introLocal": "Artés es un municipio de unos 6.000 habitantes en la comarca del Bages, a pocos kilómetros de Manresa, con la C-16 y la C-37 como principales vías de conexión. El entorno combina zona residencial con actividad agrícola e industrial ligera, y el BMW típico de la zona es un coche familiar, X1 o Serie 3, usado a diario para llegar a Manresa por trabajo o estudios.\n\nAl no estar en el área metropolitana de Barcelona, muchos propietarios de Artés han tenido que optar por talleres generalistas por falta de opciones especializadas cerca de casa.\n\nEl uso combinado de carretera comarcal y algún camino rural cercano a las masías de la zona desgasta la suspensión de forma distinta a un coche puramente urbano, algo que tenemos en cuenta al revisar cualquier vehículo que llega desde Artés.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processIntro": "Un proceso claro para quien vive en el Bages y no quiere desplazarse hasta Barcelona para un buen mantenimiento.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Artés o Manresa según tu disponibilidad."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Conectamos el software oficial de BMW para revisar todos los módulos del coche."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW ejecutan la reparación con las herramientas adecuadas."
-    },
-    {
-      "title": "Entrega de vuelta a la zona",
-      "body": "Devolvemos el coche en el punto acordado, listo para rodar."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW que combinan carretera comarcal con algún camino rural del Bages.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Artés y Manresa",
-      "body": "No hace falta desplazarte hasta Barcelona, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Especialización BMW",
       "body": "Trabajamos solo con esta marca y conocemos bien sus particularidades."
     },
@@ -101,19 +89,11 @@
       "body": "Te explicamos cada avería con calma por teléfono o WhatsApp."
     }
   ],
-  "zoneText": "Damos servicio a Artés y a los municipios del Bages, con recogida coordinada en la zona.",
+  "zoneText": "Damos servicio a Artés y a los municipios del Bages.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Artés?",
-      "a": "Sí, coordinamos recogida en el municipio o en Manresa."
-    },
     {
       "q": "¿Atendéis coches usados en caminos cercanos a masías?",
       "a": "Sí, es habitual en la zona y revisamos suspensión con atención."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp antes de mover el coche?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, gestionamos partes de las principales compañías."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso completo con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería y la logística del traslado."
     }
   ],
   "closingHeadline": "Especialistas BMW para el Bages",
-  "closingCta": "Contáctanos desde Artés y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Opiniones de propietarios de Artés y el Bages.",
   "testimonials": [
-    {
-      "name": "Sergi Torra",
-      "neighborhood": "Artés",
-      "body": "Me recogieron el coche en el pueblo sin ningún problema. Diagnóstico claro para mi X1.",
-      "rating": 5
-    },
     {
       "name": "Montse Oller",
       "neighborhood": "Manresa",

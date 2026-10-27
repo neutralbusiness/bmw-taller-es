@@ -7,8 +7,8 @@
   "lat": 40.9736,
   "lng": -3.53246,
   "metaTitle": "Taller BMW en Berzosa del Lozoya | Sierra Norte",
-  "metaDescription": "Servicio especializado BMW para Berzosa del Lozoya y el entorno de Buitrago. Recogida a domicilio, diagnosis oficial y reparación mecánica.",
-  "heroSubtitle": "El taller BMW que llega hasta Berzosa del Lozoya, junto al río, sin que tengas que bajar a Madrid.",
+  "metaDescription": "Servicio especializado BMW para Berzosa del Lozoya y el entorno de Buitrago.",
+  "heroSubtitle": "Especialistas en BMW para Berzosa del Lozoya y el valle del Lozoya.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Berzosa del Lozoya es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas un centenar de vecinos, situado junto al río Lozoya y a pocos minutos de Buitrago del Lozoya, en una zona de segundas residencias y algún vecino que vive allí todo el año.\n\nAl no existir taller alguno en el municipio ni en los pueblos vecinos, quien tiene un BMW en Berzosa del Lozoya suele desplazarse hasta Madrid capital o hasta talleres de Buitrago, un trayecto de aproximadamente una hora por la M-127 y la A-1 que muchos prefieren evitar, sobre todo si solo suben al pueblo los fines de semana.\n\nOfrecemos recogida directa en Berzosa del Lozoya, coordinando el desplazamiento para que el mantenimiento no dependa de que bajes tú el coche.",
-  "servicesIntro": "Mantenimiento, diagnosis y reparación mecánica completa para BMW, con recogida adaptada a la distancia real desde Berzosa del Lozoya.",
+  "introLocal": "Berzosa del Lozoya es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas un centenar de vecinos, situado junto al río Lozoya y a pocos minutos de Buitrago del Lozoya, en una zona de segundas residencias y algún vecino que vive allí todo el año.\n\nAl no existir taller alguno en el municipio ni en los pueblos vecinos, quien tiene un BMW en Berzosa del Lozoya suele desplazarse hasta Madrid capital o hasta talleres de Buitrago, un trayecto de aproximadamente una hora por la M-127 y la A-1 que muchos prefieren evitar, sobre todo si solo suben al pueblo los fines de semana.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso pensado para minimizar los desplazamientos de quien vive en un pueblo tan pequeño y alejado.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos recogida en Berzosa del Lozoya o en Buitrago si te resulta más cómodo."
     },
     {
       "title": "Diagnosis con equipo BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega en el pueblo",
-      "body": "Devolvemos el coche en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan poco pero por carreteras de montaña exigentes, como en Berzosa del Lozoya.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida adaptada a pueblos pequeños",
-      "body": "Sabemos que Berzosa del Lozoya está lejos de todo y organizamos la logística por ti."
-    },
-    {
       "title": "Experiencia con coches de segunda residencia",
       "body": "Sabemos qué revisar en coches que pasan semanas parados entre visitas."
     },
@@ -103,10 +91,6 @@
   ],
   "zoneText": "Damos servicio a Berzosa del Lozoya y su entorno junto al río Lozoya, cerca de Buitrago, una zona donde predomina la segunda residencia y los coches pasan largas temporadas sin moverse.",
   "faqLocal": [
-    {
-      "q": "¿Hay que bajar el coche hasta Madrid?",
-      "a": "No, coordinamos la recogida en Berzosa del Lozoya o en Buitrago."
-    },
     {
       "q": "¿Qué hacéis si el coche lleva semanas parado?",
       "a": "Revisamos batería y frenos, que son los componentes que más sufren por la inactividad."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado aunque pase semanas parado",
-  "closingCta": "Escríbenos y coordinamos la recogida en Berzosa del Lozoya.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
       "name": "Aurelio Manzanares",
       "neighborhood": "Berzosa del Lozoya",
       "body": "Vengo cada quince días desde Madrid y siempre me revisan la batería, que es lo que más falla por el poco uso.",
-      "rating": 5
-    },
-    {
-      "name": "Lourdes Cantalapiedra",
-      "neighborhood": "Buitrago del Lozoya",
-      "body": "Muy buen trato y recogida sin complicaciones.",
       "rating": 5
     },
     {

@@ -41,7 +41,7 @@
   "processSteps": [
     {
       "title": "Contacto y evaluación inicial",
-      "body": "Descríbenos el problema por teléfono o WhatsApp. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita. Si el vehículo está inmovilizado en Saldes o alrededores, coordinamos la recogida."
+      "body": "Descríbenos el problema por teléfono o WhatsApp. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita."
     },
     {
       "title": "Diagnóstico de alta montaña",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Prueba de carretera en condiciones reales",
-      "body": "No nos conformamos con que el motor suene bien en el taller. Probamos tu BMW en los tramos de montaña que tú mismo recorres: subida al collado, descenso prolongado, arranque en frío. Solo te devolvemos el coche cuando se comporta exactamente como debe."
+      "body": "No nos conformamos con que el motor suene bien en el taller. Probamos tu BMW en los tramos de montaña que tú mismo recorres: subida al collado, descenso prolongado, arranque en frío."
     },
     {
       "title": "Entrega y plan de mantenimiento adaptado",
@@ -95,10 +95,6 @@
     {
       "title": "Equipo de diagnóstico BMW completo",
       "body": "Disponemos de ISTA para diagnóstico, codificación y programación de todos los módulos electrónicos BMW. Podemos actualizar el software del motor, calibrar sensores y registrar componentes nuevos exactamente igual que un concesionario oficial."
-    },
-    {
-      "title": "Servicio de recogida en zona Pedraforca",
-      "body": "Si tu BMW se queda tirado en Saldes, Gósol, Gisclareny o cualquier punto de la zona del Pedraforca, organizamos la recogida. No tienes que preocuparte de buscar grúa ni de esperar horas en un aparcamiento de montaña."
     },
     {
       "title": "Intervalos de mantenimiento adaptados",
@@ -166,10 +162,6 @@
       "a": "Sí, la carretera está asfaltada hasta el aparcamiento principal. Sin embargo, en invierno pueden formarse placas de hielo en los tramos de sombra. Si conduces un BMW de tracción trasera, es imprescindible llevar neumáticos de invierno o cadenas homologadas. Los modelos xDrive ofrecen mayor tracción en estas condiciones."
     },
     {
-      "q": "¿Recogéis coches averiados en la zona del Pedraforca?",
-      "a": "Sí. Organizamos la recogida de vehículos BMW averiados en Saldes, Gósol, Gisclareny y toda la zona del Pedraforca. Llámanos o envíanos un WhatsApp con tu ubicación y coordinaremos el traslado."
-    },
-    {
       "q": "¿El AdBlue de mi BMW puede congelarse en Saldes?",
       "a": "Sí. El AdBlue se congela a aproximadamente menos once grados centígrados, una temperatura habitual en las noches de invierno en Saldes. Los BMW diésel modernos tienen un calefactor en el depósito de AdBlue para evitarlo, pero si este calefactor falla, la solución cristaliza y el sistema SCR se bloquea. Verificamos este componente en nuestra revisión invernal."
     },
@@ -179,7 +171,7 @@
     }
   ],
   "closingHeadline": "Tu BMW y el Pedraforca: los dos merecen lo mejor",
-  "closingCta": "Contacta con nosotros por teléfono o WhatsApp. Te damos presupuesto adaptado a las condiciones reales de alta montaña en las que rueda tu BMW, sin compromiso y sin que tengas que bajar al llano.",
+  "closingCta": "Contacta con nosotros por teléfono o WhatsApp.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

@@ -7,7 +7,7 @@
   "lat": 40.92778,
   "lng": -3.689,
   "metaTitle": "Taller BMW en Garganta de los Montes | Sierra Norte Madrid",
-  "metaDescription": "Servicio BMW para Garganta de los Montes, Sierra Norte de Madrid. Diagnosis oficial, turbo y caja automática, con recogida coordinada. Presupuesto gratis.",
+  "metaDescription": "Servicio BMW para Garganta de los Montes, Sierra Norte de Madrid. Diagnosis oficial, turbo y caja automática. Presupuesto gratis.",
   "heroSubtitle": "Servicio BMW especializado para Garganta de los Montes, en plena Sierra Norte de Madrid",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Garganta de los Montes es un municipio pequeño de la Sierra Norte de Madrid, cerca de Lozoya y Buitrago del Lozoya, con un entorno de montaña muy marcado y carreteras de curvas cerradas y pendientes pronunciadas. Un pueblo de apenas 250 habitantes no genera un parque BMW numeroso, pero sí atendemos con regularidad a vecinos y propietarios de segunda residencia que buscan un especialista sin tener que bajar hasta Madrid capital.\n\nCoordinamos siempre la recogida del vehículo, conscientes de que las carreteras de la Sierra Norte someten al coche a un desgaste particular en frenos y suspensión que conviene vigilar de cerca.",
-  "servicesIntro": "Mecánica y electrónica BMW con recogida coordinada para quienes viven en la Sierra Norte de Madrid.",
+  "introLocal": "Garganta de los Montes es un municipio pequeño de la Sierra Norte de Madrid, cerca de Lozoya y Buitrago del Lozoya, con un entorno de montaña muy marcado y carreteras de curvas cerradas y pendientes pronunciadas. Un pueblo de apenas 250 habitantes no genera un parque BMW numeroso, pero sí atendemos con regularidad a vecinos y propietarios de segunda residencia que buscan un especialista sin tener que bajar hasta Madrid capital.",
+  "servicesIntro": "Mecánica y electrónica BMW.",
   "processIntro": "Un proceso pensado específicamente para minimizar el desplazamiento desde pueblos pequeños de montaña.",
   "processSteps": [
-    {
-      "title": "Contacto telefónico",
-      "body": "Nos cuentas el síntoma y acordamos el punto y la fecha de recogida."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Trasladamos el vehículo hasta nuestras instalaciones."
-    },
     {
       "title": "Diagnosis oficial",
       "body": "Escaneo completo con software original BMW."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto y autorización",
       "body": "Te llamamos con el diagnóstico antes de reparar nada."
-    },
-    {
-      "title": "Reparación y devolución",
-      "body": "Ejecutamos el trabajo y coordinamos la devolución del vehículo."
     }
   ],
   "commonIssuesIntro": "Averías habituales en los BMW que atendemos de la Sierra Norte de Madrid.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida garantizada",
-      "body": "Nunca te pedimos que asumas tú el desplazamiento a nuestras instalaciones."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,16 +85,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos Garganta de los Montes y los municipios cercanos de la Sierra Norte, con recogida coordinada dado el tamaño y la orografía de la zona.",
+  "zoneText": "Atendemos Garganta de los Montes y los municipios cercanos de la Sierra Norte.",
   "faqLocal": [
-    {
-      "q": "¿Podéis venir a recoger el coche a Garganta de los Montes?",
-      "a": "Sí, coordinamos siempre la recogida dado el tamaño y la orografía del municipio."
-    },
-    {
-      "q": "¿Tiene coste la recogida?",
-      "a": "Depende de la distancia; te lo indicamos con claridad antes de confirmar la cita."
-    },
     {
       "q": "¿Revisáis frenos por las bajadas de montaña?",
       "a": "Sí, es una revisión habitual en vehículos de la Sierra Norte."
@@ -118,10 +94,6 @@
     {
       "q": "¿Puedo dejar el coche varias semanas?",
       "a": "Sí, disponemos de aparcamiento vigilado si necesitas dejarlo un tiempo prolongado."
-    },
-    {
-      "q": "¿Cuánto tardáis en dar presupuesto?",
-      "a": "Normalmente el mismo día en que recogemos el vehículo."
     },
     {
       "q": "¿Hacéis revisiones antes de la ITV?",
@@ -133,7 +105,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW especializada, aunque estés en la Sierra Norte de Madrid",
-  "closingCta": "Llámanos y coordinamos la recogida de tu BMW en Garganta de los Montes.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +117,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de Garganta de los Montes.",
   "testimonials": [
-    {
-      "name": "Wenceslao P.",
-      "neighborhood": "Garganta de los Montes",
-      "body": "Coordinaron la recogida sin ningún problema, algo muy de agradecer en un pueblo de montaña como el nuestro.",
-      "rating": 5
-    },
     {
       "name": "Remedios C.",
       "neighborhood": "Garganta de los Montes",

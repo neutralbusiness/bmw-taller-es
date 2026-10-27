@@ -7,7 +7,7 @@
   "lat": 40.56566,
   "lng": -3.26753,
   "metaTitle": "Taller BMW en Azuqueca de Henares | Corredor Henares",
-  "metaDescription": "Taller especializado BMW en Azuqueca de Henares. Diagnosis oficial, mantenimiento y reparación con recogida en polígonos y barrios. Presupuesto cerrado.",
+  "metaDescription": "Taller especializado BMW en Azuqueca de Henares. Diagnosis oficial, mantenimiento y reparación. Presupuesto cerrado.",
   "heroSubtitle": "El taller BMW que conoce el ritmo de commuters diarios del corredor del Henares entre Azuqueca, Guadalajara y Madrid.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Azuqueca de Henares es, con más de 35.000 habitantes, uno de los municipios más dinámicos del corredor del Henares, impulsado por el enorme desarrollo logístico e industrial de la zona y por su cercanía a la A-2, que la conecta con Guadalajara capital en diez minutos y con Madrid en menos de una hora.\n\nEsa combinación de trabajadores del polígono, familias que se han mudado buscando vivienda más asequible que en Madrid, y perfiles que hacen a diario el trayecto por la A-2 hace que el parque de BMW en Azuqueca sea muy variado: desde berlinas de empresa con muchos kilómetros de autovía hasta SUV familiares de las urbanizaciones más recientes junto al Henares.\n\nEl uso intensivo de autovía a velocidad constante desgasta el coche de forma distinta a un uso urbano: más kilómetros pero con menos paradas, lo que exige un seguimiento de aceite, filtros y neumáticos más estricto del que mucha gente asume.\n\nNuestro taller da servicio a todo Azuqueca, con recogida en los polígonos industriales y en los barrios residenciales, para que el mantenimiento no interfiera con la rutina diaria de ir a trabajar.\n\nConocemos también las particularidades del clima de la zona, con inviernos fríos y veranos muy calurosos que exigen prestar atención especial al sistema de refrigeración y a la batería.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en polígonos y barrios de Azuqueca.",
+  "introLocal": "Azuqueca de Henares es, con más de 35.000 habitantes, uno de los municipios más dinámicos del corredor del Henares, impulsado por el enorme desarrollo logístico e industrial de la zona y por su cercanía a la A-2, que la conecta con Guadalajara capital en diez minutos y con Madrid en menos de una hora.\n\nEsa combinación de trabajadores del polígono, familias que se han mudado buscando vivienda más asequible que en Madrid, y perfiles que hacen a diario el trayecto por la A-2 hace que el parque de BMW en Azuqueca sea muy variado: desde berlinas de empresa con muchos kilómetros de autovía hasta SUV familiares de las urbanizaciones más recientes junto al Henares.\n\nEl uso intensivo de autovía a velocidad constante desgasta el coche de forma distinta a un uso urbano: más kilómetros pero con menos paradas, lo que exige un seguimiento de aceite, filtros y neumáticos más estricto del que mucha gente asume.\n\nNuestro taller da servicio a todo Azuqueca.\n\nConocemos también las particularidades del clima de la zona, con inviernos fríos y veranos muy calurosos que exigen prestar atención especial al sistema de refrigeración y a la batería.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso ágil pensado para quien hace a diario el trayecto por la A-2 y no puede permitirse perder tiempo.",
   "processSteps": [
     {
       "title": "Contacto y cita",
       "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
-    },
-    {
-      "title": "Recogida en tu zona",
-      "body": "Pasamos a buscar el coche en tu polígono o barrio de Azuqueca."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio exacto antes de intervenir."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el coche en el punto acordado, listo para volver a la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW de uso intensivo en autovía, como el que hace la mayoría en Azuqueca.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en polígonos y barrios",
-      "body": "No pierdes horas de trabajo llevando el coche al taller."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,16 +89,8 @@
       "body": "Sabemos que muchos clientes necesitan el coche para ir a trabajar y priorizamos esos casos."
     }
   ],
-  "zoneText": "Damos servicio a todo Azuqueca de Henares, desde los polígonos industriales junto a la A-2 hasta los barrios residenciales más nuevos junto al Henares, con recogida sin coste adicional en el propio municipio.",
+  "zoneText": "Damos servicio a todo Azuqueca de Henares, desde los polígonos industriales junto a la A-2 hasta los barrios residenciales más nuevos junto al Henares.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en los polígonos industriales?",
-      "a": "Sí, pasamos a buscarlo en cualquier polígono o barrio de Azuqueca."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de entrar a trabajar?",
-      "a": "Sí, muchos clientes coordinan la recogida a primera hora de la mañana."
-    },
     {
       "q": "¿Trabajáis con BMW de uso intensivo en autovía?",
       "a": "Es el perfil más habitual entre nuestros clientes de Azuqueca, así que sí, con mucha experiencia."
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW listo sin perder horas de trabajo",
-  "closingCta": "Escríbenos y coordinamos la recogida en tu polígono o barrio de Azuqueca.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Lo que dicen los clientes de Azuqueca de Henares.",
   "testimonials": [
-    {
-      "name": "Roberto Illán",
-      "neighborhood": "Polígono El Trigo",
-      "body": "Recogieron el coche en el polígono y me lo devolvieron por la tarde. Muy práctico para quien trabaja en turnos.",
-      "rating": 5
-    },
     {
       "name": "Silvia Manzano",
       "neighborhood": "Azuqueca de Henares",

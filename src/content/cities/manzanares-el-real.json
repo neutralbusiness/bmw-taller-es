@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Manzanares el Real, a los pies de La Pedriza, es uno de los municipios más visitados de la Sierra de Guadarrama, con un uso del coche que combina desplazamientos diarios hacia Madrid con trayectos de montaña por carreteras estrechas y con curvas. Aquí el desgaste de frenos, suspensión y embrague es distinto al de una conducción puramente urbana.\n\nNo hay taller especializado en BMW dentro del municipio, así que muchos vecinos se desplazan hasta Madrid capital o Collado Villalba para cualquier revisión seria. Ofrecemos recogida a domicilio para facilitar el mantenimiento sin necesidad de bajar hasta la capital.",
+  "introLocal": "Manzanares el Real, a los pies de La Pedriza, es uno de los municipios más visitados de la Sierra de Guadarrama, con un uso del coche que combina desplazamientos diarios hacia Madrid con trayectos de montaña por carreteras estrechas y con curvas. Aquí el desgaste de frenos, suspensión y embrague es distinto al de una conducción puramente urbana.\n\nNo hay taller especializado en BMW dentro del municipio, así que muchos vecinos se desplazan hasta Madrid capital o Collado Villalba para cualquier revisión seria.",
   "servicesIntro": "Diagnosis oficial, mantenimiento programado y reparación de motor, frenos y suspensión para cualquier BMW.",
   "processIntro": "Facilitamos el proceso para quienes viven en la sierra y prefieren no desplazarse hasta Madrid.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos cuentas el síntoma y valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnóstico",
       "body": "Identificamos el problema con el software oficial de BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Ejecutamos el trabajo con el recambio que prefieras."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el coche en el punto que más te convenga."
     }
   ],
   "commonIssuesIntro": "En los BMW de Manzanares el Real, con carreteras de montaña, vemos con frecuencia:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Evita el desplazamiento hasta Madrid para revisiones rutinarias."
-    },
-    {
       "title": "Conocemos las carreteras de sierra",
       "body": "Ajustamos el mantenimiento al desgaste real de este entorno."
     },
@@ -101,12 +89,8 @@
       "body": "En mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos Manzanares el Real y su entorno serrano, con recogida a domicilio para evitar el desplazamiento hasta Madrid.",
+  "zoneText": "Atendemos Manzanares el Real y su entorno serrano.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Manzanares el Real?",
-      "a": "Sí, ofrecemos recogida a domicilio en todo este entorno serrano."
-    },
     {
       "q": "¿Las carreteras de montaña desgastan más el coche?",
       "a": "Sí, especialmente frenos y suspensión; lo tenemos en cuenta al revisar."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Manzanares el Real",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW en la Sierra de Guadarrama.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opinión de vecinos de Manzanares el Real:",
   "testimonials": [
-    {
-      "name": "David P.",
-      "neighborhood": "Manzanares el Real",
-      "body": "Con las cuestas de La Pedriza los frenos se desgastan rápido. Me lo explicaron bien y vinieron a recoger el coche.",
-      "rating": 5
-    },
     {
       "name": "Nuria A.",
       "neighborhood": "Manzanares el Real",

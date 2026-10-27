@@ -7,8 +7,8 @@
   "lat": 40.92046,
   "lng": -3.84824,
   "metaTitle": "Taller BMW cerca de Alameda del Valle | Lozoya",
-  "metaDescription": "Servicio especializado BMW para Alameda del Valle y el Valle del Lozoya, con recogida del vehículo. Diagnóstico ISTA y técnicos formados en la marca.",
-  "heroSubtitle": "Atención especializada BMW para el Valle del Lozoya, con recogida hasta tu puerta.",
+  "metaDescription": "Servicio especializado BMW para Alameda del Valle y el Valle del Lozoya. Diagnóstico ISTA y técnicos formados en la marca.",
+  "heroSubtitle": "Atención especializada BMW para el Valle del Lozoya.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Alameda del Valle es uno de los pueblos más pequeños de la Sierra Norte de Madrid, con apenas 200 habitantes censados, en pleno Valle del Lozoya y junto al embalse de Riosequillo. No tiene sentido hablar de barrios aquí: es un núcleo compacto rodeado de prados y montaña, a poco más de 80 kilómetros de Madrid capital por la M-604 y la A-1.\n\nEl BMW típico que nos llega de esta zona pertenece a familias con segunda residencia en el valle, algún ganadero o agricultor con un X3 o X5 usado a diario en pistas y caminos de tierra, y madrileños que suben los fines de semana desde la capital. Es un uso muy distinto al urbano: más polvo, más pendiente, más frío en invierno y arranques en frío frecuentes.\n\nComo no tenemos instalación en el propio pueblo, ofrecemos recogida del vehículo en Alameda del Valle o en Rascafría, el municipio más cercano con más servicios, y devolvemos el coche una vez terminado el trabajo. Es la fórmula que mejor funciona para quien vive en un entorno rural pequeño y no quiere perder medio día bajando a Madrid.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida en el Valle del Lozoya para quien no pueda bajar a Madrid.",
+  "introLocal": "Alameda del Valle es uno de los pueblos más pequeños de la Sierra Norte de Madrid, con apenas 200 habitantes censados, en pleno Valle del Lozoya y junto al embalse de Riosequillo. No tiene sentido hablar de barrios aquí: es un núcleo compacto rodeado de prados y montaña, a poco más de 80 kilómetros de Madrid capital por la M-604 y la A-1.\n\nEl BMW típico que nos llega de esta zona pertenece a familias con segunda residencia en el valle, algún ganadero o agricultor con un X3 o X5 usado a diario en pistas y caminos de tierra, y madrileños que suben los fines de semana desde la capital. Es un uso muy distinto al urbano: más polvo, más pendiente, más frío en invierno y arranques en frío frecuentes.\n\nEs la fórmula que mejor funciona para quien vive en un entorno rural pequeño y no quiere perder medio día bajando a Madrid.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processIntro": "Adaptamos el proceso habitual a la distancia real del valle, sin renunciar a un diagnóstico serio.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos contigo el punto de recogida en Alameda del Valle o Rascafría."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Ya en el taller, conectamos el software oficial de BMW para revisar todos los sistemas."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW se encargan de la mecánica, incluyendo el desgaste propio de uso en pista y montaña."
-    },
-    {
-      "title": "Entrega de vuelta al valle",
-      "body": "Devolvemos el coche en el punto acordado, sin que tengas que bajar tú a por él."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan por caminos y pistas del Valle del Lozoya.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el propio valle",
-      "body": "No hace falta bajar a Madrid, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Conocemos el uso rural del BMW",
       "body": "Sabemos qué desgasta un coche que hace pistas y pendiente a diario."
     },
@@ -101,16 +89,8 @@
       "body": "Te explicamos todo con calma, sabiendo que no vas a poder pasarte a preguntar en persona."
     }
   ],
-  "zoneText": "Damos servicio al Valle del Lozoya completo mediante recogida coordinada, sin necesidad de bajar hasta Madrid capital.",
+  "zoneText": "Damos servicio al Valle del Lozoya completo.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche hasta Alameda del Valle?",
-      "a": "Sí, coordinamos la recogida en el pueblo o en Rascafría según disponibilidad."
-    },
-    {
-      "q": "¿Es caro el desplazamiento de recogida?",
-      "a": "Depende de la distancia exacta, te lo indicamos al pedir cita sin compromiso."
-    },
     {
       "q": "¿Atendéis coches usados en pistas de tierra?",
       "a": "Sí, es habitual en la zona y revisamos suspensión y filtros con especial atención."
@@ -120,16 +100,12 @@
       "a": "Sí, si prefieres bajar por la A-1 puedes esperar la revisión in situ."
     },
     {
-      "q": "¿Cuánto tarda el proceso completo con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería y la logística del traslado."
-    },
-    {
       "q": "¿Trabajáis también con quads o solo BMW turismo?",
       "a": "Nos centramos en turismos y SUV de la marca BMW."
     }
   ],
   "closingHeadline": "El taller BMW para quien vive en el Valle del Lozoya",
-  "closingCta": "Llámanos desde Alameda del Valle y te explicamos cómo coordinar la recogida sin que tengas que bajar a Madrid.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Así valoran nuestro servicio los propietarios del Valle del Lozoya.",
   "testimonials": [
-    {
-      "name": "Fernando Casado",
-      "neighborhood": "Alameda del Valle",
-      "body": "Uso mi X3 a diario en la finca. Me recogieron el coche en el pueblo y me lo devolvieron con la suspensión como nueva.",
-      "rating": 5
-    },
     {
       "name": "Isabel Moreno",
       "neighborhood": "Rascafría",

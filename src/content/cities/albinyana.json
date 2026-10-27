@@ -7,7 +7,7 @@
   "lat": 41.24188,
   "lng": 1.49536,
   "metaTitle": "Taller BMW en Albinyanà | Baix Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Albinyanà, junto a El Vendrell. Diagnóstico ISTA, presupuesto cerrado y recogida disponible en el Baix Penedès.",
+  "metaDescription": "Taller especializado en BMW cerca de Albinyanà, junto a El Vendrell. Diagnóstico ISTA, presupuesto cerrado.",
   "heroSubtitle": "Atención especializada BMW para Albinyanà y el Baix Penedès, cerca de la C-51.",
   "trustChips": [
     {
@@ -31,14 +31,9 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Albinyanà es un municipio pequeño del Baix Penedès, de poco más de 2.200 habitantes, situado entre El Vendrell y el interior de la comarca, con la C-51 como principal vía de conexión. El propietario de BMW habitual aquí combina una vivienda unifamiliar o de urbanización con desplazamientos frecuentes a El Vendrell, Tarragona o incluso Barcelona por trabajo, así que el coche acumula tanto uso urbano corto como tramos largos de autovía.\n\nTambién es una zona con presencia de segundas residencias vinculadas a la costa del Baix Penedès, lo que significa coches que pasan temporadas paradas entre semanas de uso intenso en verano. Ese patrón de uso -parón y luego actividad concentrada- es el que más vigilamos: batería, neumáticos con deformación por reposo prolongado y frenos con óxido superficial.\n\nNo contamos con instalación física en el propio Albinyanà, pero ofrecemos recogida del vehículo en el municipio o en El Vendrell, con entrega de vuelta una vez terminado el trabajo, para que no tengas que desplazarte hasta Tarragona o Barcelona para un mantenimiento serio.",
-  "servicesIntro": "Diagnóstico, mantenimiento y reparación BMW con recogida disponible en Albinyanà y El Vendrell.",
-  "processIntro": "Un proceso pensado para el Baix Penedès, con logística de recogida incluida cuando hace falta.",
+  "introLocal": "Albinyanà es un municipio pequeño del Baix Penedès, de poco más de 2.200 habitantes, situado entre El Vendrell y el interior de la comarca, con la C-51 como principal vía de conexión. El propietario de BMW habitual aquí combina una vivienda unifamiliar o de urbanización con desplazamientos frecuentes a El Vendrell, Tarragona o incluso Barcelona por trabajo, así que el coche acumula tanto uso urbano corto como tramos largos de autovía.\n\nTambién es una zona con presencia de segundas residencias vinculadas a la costa del Baix Penedès, lo que significa coches que pasan temporadas paradas entre semanas de uso intenso en verano. Ese patrón de uso -parón y luego actividad concentrada- es el que más vigilamos: batería, neumáticos con deformación por reposo prolongado y frenos con óxido superficial.",
+  "servicesIntro": "Diagnóstico, mantenimiento y reparación BMW.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Albinyanà o El Vendrell según tu disponibilidad."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Conectamos el software oficial de BMW para revisar todos los módulos del coche."
@@ -50,10 +45,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW ejecutan la reparación con las herramientas adecuadas."
-    },
-    {
-      "title": "Entrega de vuelta a la zona",
-      "body": "Devolvemos el coche en el punto acordado, listo para rodar."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW que combinan uso de segunda residencia con carretera hacia Tarragona o Barcelona.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Albinyanà y El Vendrell",
-      "body": "No hace falta desplazarte, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Especialización BMW",
       "body": "Trabajamos solo con esta marca y conocemos bien sus particularidades."
     },
@@ -101,19 +88,11 @@
       "body": "Sabemos qué revisar en un coche que pasa temporadas parado."
     }
   ],
-  "zoneText": "Damos servicio a Albinyanà y a los municipios del Baix Penedès, con recogida coordinada en la zona.",
+  "zoneText": "Damos servicio a Albinyanà y a los municipios del Baix Penedès.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Albinyanà?",
-      "a": "Sí, coordinamos recogida en el municipio o en El Vendrell."
-    },
     {
       "q": "¿Atendéis coches de segunda residencia que se usan solo en verano?",
       "a": "Sí, es un caso muy habitual en la zona."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp antes de mover el coche?",
@@ -129,7 +108,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW para el Baix Penedès",
-  "closingCta": "Contáctanos desde Albinyanà y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +124,6 @@
       "name": "Jaume Ferré",
       "neighborhood": "Albinyanà",
       "body": "Coche de fin de semana que pasa temporadas parado. Me explicaron muy bien el tema de la batería y los neumáticos.",
-      "rating": 5
-    },
-    {
-      "name": "Cristina Solà",
-      "neighborhood": "El Vendrell",
-      "body": "Recogida sin complicaciones y presupuesto cerrado real para mi X1.",
       "rating": 5
     },
     {

@@ -7,7 +7,7 @@
   "lat": 40.63744,
   "lng": -3.24802,
   "metaTitle": "Taller BMW en Cabanillas del Campo | Guadalajara",
-  "metaDescription": "Taller especializado BMW en Cabanillas del Campo. Diagnosis oficial, mantenimiento y reparación con recogida en polígonos y urbanizaciones.",
+  "metaDescription": "Taller especializado BMW en Cabanillas del Campo. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "El taller BMW de confianza en Cabanillas del Campo, el gran polo logístico del corredor del Henares.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cabanillas del Campo es uno de los municipios de mayor crecimiento de Guadalajara en las últimas dos décadas, con más de 12.000 habitantes y uno de los polígonos logísticos más grandes de España, con centros de distribución de grandes empresas junto a la A-2, lo que atrae tanto a trabajadores del sector logístico como a familias jóvenes que se han mudado buscando vivienda de obra nueva más asequible que en Madrid.\n\nEl perfil de propietario de BMW en Cabanillas del Campo combina a quienes trabajan en el propio polígono con quienes hacen a diario el trayecto hacia Guadalajara capital o Madrid por la A-2, un uso de autovía constante que desgasta el motor y la caja de cambios de forma distinta al uso puramente urbano.\n\nNuestro taller da servicio a todo Cabanillas del Campo, con recogida tanto en las urbanizaciones residenciales como en los polígonos industriales, para que el mantenimiento no interfiera con la actividad logística que marca el ritmo del municipio.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en polígonos y urbanizaciones de Cabanillas del Campo.",
+  "introLocal": "Cabanillas del Campo es uno de los municipios de mayor crecimiento de Guadalajara en las últimas dos décadas, con más de 12.000 habitantes y uno de los polígonos logísticos más grandes de España, con centros de distribución de grandes empresas junto a la A-2, lo que atrae tanto a trabajadores del sector logístico como a familias jóvenes que se han mudado buscando vivienda de obra nueva más asequible que en Madrid.\n\nEl perfil de propietario de BMW en Cabanillas del Campo combina a quienes trabajan en el propio polígono con quienes hacen a diario el trayecto hacia Guadalajara capital o Madrid por la A-2, un uso de autovía constante que desgasta el motor y la caja de cambios de forma distinta al uso puramente urbano.\n\nNuestro taller da servicio a todo Cabanillas del Campo.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso ágil pensado para el ritmo logístico e industrial que caracteriza a Cabanillas del Campo.",
   "processSteps": [
     {
       "title": "Contacto y cita",
       "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
-    },
-    {
-      "title": "Recogida en tu zona",
-      "body": "Pasamos a buscar el coche en tu polígono o urbanización de Cabanillas."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio exacto antes de intervenir."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el coche en el punto acordado, listo para volver a la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW de uso intensivo en autovía, muy habitual en Cabanillas del Campo.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en polígonos y urbanizaciones",
-      "body": "No pierdes horas de trabajo llevando el coche al taller."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,16 +89,8 @@
       "body": "Sabemos que muchos clientes necesitan el coche para ir a trabajar y priorizamos esos casos."
     }
   ],
-  "zoneText": "Damos servicio a todo Cabanillas del Campo, desde el gran polígono logístico junto a la A-2 hasta las urbanizaciones residenciales más recientes, con recogida sin coste adicional en el propio municipio.",
+  "zoneText": "Damos servicio a todo Cabanillas del Campo, desde el gran polígono logístico junto a la A-2 hasta las urbanizaciones residenciales más recientes.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en los polígonos logísticos?",
-      "a": "Sí, pasamos a buscarlo en cualquier polígono o urbanización de Cabanillas del Campo."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de entrar a trabajar?",
-      "a": "Sí, muchos clientes coordinan la recogida a primera hora de la mañana."
-    },
     {
       "q": "¿Trabajáis con BMW de uso intensivo en autovía?",
       "a": "Es el perfil más habitual entre nuestros clientes de Cabanillas, así que sí, con mucha experiencia."
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW listo sin perder horas de trabajo",
-  "closingCta": "Escríbenos y coordinamos la recogida en tu polígono o urbanización de Cabanillas.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Lo que dicen los clientes de Cabanillas del Campo.",
   "testimonials": [
-    {
-      "name": "Sergio Trébol",
-      "neighborhood": "Polígono Cabanillas Park",
-      "body": "Recogieron el coche en el polígono y me lo devolvieron por la tarde. Muy práctico para quien trabaja en turnos.",
-      "rating": 5
-    },
     {
       "name": "Vanesa Olalla",
       "neighborhood": "Cabanillas del Campo",

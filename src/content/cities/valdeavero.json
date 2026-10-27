@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdeavero es un pueblo pequeño de la Campiña del Henares donde el coche es imprescindible para llegar a Alcalá de Henares o a Madrid capital por trabajo. Muchos de nuestros clientes de la zona conducen a diario 30 o 40 kilómetros por autovía, un uso que exige un mantenimiento más estricto del que necesitaría el mismo BMW en ciudad.\n\nNo prometemos tener un taller en cada pueblo: lo que ofrecemos es un servicio de recogida y diagnosis con el mismo equipo original BMW que usaría el concesionario, de forma que no tengas que perder media mañana desplazándote si el coche puede seguir circulando con seguridad hasta que lo recogemos.",
-  "servicesIntro": "Mantenimiento, mecánica y diagnosis de averías BMW con recogida para clientes de Valdeavero y alrededores.",
+  "introLocal": "Valdeavero es un pueblo pequeño de la Campiña del Henares donde el coche es imprescindible para llegar a Alcalá de Henares o a Madrid capital por trabajo. Muchos de nuestros clientes de la zona conducen a diario 30 o 40 kilómetros por autovía, un uso que exige un mantenimiento más estricto del que necesitaría el mismo BMW en ciudad.",
+  "servicesIntro": "Mantenimiento, mecánica y diagnosis de averías BMW para clientes de Valdeavero y alrededores.",
   "processIntro": "Un proceso simple pensado para quien vive lejos de un taller especializado.",
   "processSteps": [
-    {
-      "title": "Nos cuentas la avería por teléfono",
-      "body": "Valoramos si el coche puede circular hasta el taller o si conviene organizar la recogida."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisamos todos los módulos del coche con el mismo software que el concesionario oficial."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Montamos piezas originales o equivalentes OE según lo que decidas."
-    },
-    {
-      "title": "Entrega o devolución a domicilio",
-      "body": "Coordinamos contigo cómo recuperar el coche según la distancia desde Valdeavero."
     }
   ],
   "commonIssuesIntro": "Las averías que más vemos en los BMW que hacen trayectos largos por autovía desde pueblos como Valdeavero.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida para pueblos de la Campiña del Henares",
-      "body": "No hace falta que dejes tu día laboral para traer el coche."
-    },
-    {
       "title": "Diagnosis igual que en el concesionario",
       "body": "El software original BMW no deja averías sin detectar."
     },
@@ -101,20 +89,8 @@
       "body": "12 meses en toda reparación."
     }
   ],
-  "zoneText": "Damos servicio con recogida a Valdeavero y a los pueblos cercanos de la Campiña del Henares que conectan con Alcalá de Henares.",
+  "zoneText": "Damos servicio a Valdeavero y a los pueblos cercanos de la Campiña del Henares que conectan con Alcalá de Henares.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdeavero?",
-      "a": "No, pero ofrecemos recogida del coche en el pueblo para que no tengas que desplazarte."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas según agenda."
-    },
-    {
-      "q": "¿Puedo llevar el coche yo mismo?",
-      "a": "Sí, si prefieres evitar esperar a la recogida, puedes traerlo tú directamente."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito y antes de tocar el coche."
@@ -128,8 +104,7 @@
       "a": "12 meses por escrito en mano de obra y piezas."
     }
   ],
-  "closingHeadline": "Tu BMW, atendido sin salir de la Campiña del Henares",
-  "closingCta": "Llama y coordinamos la recogida en Valdeavero.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdeavero que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Pedro Alcalde",
-      "neighborhood": "Valdeavero",
-      "body": "Recogieron el coche en el pueblo y me avisaron con el presupuesto antes de tocarlo. Muy cómodo para quien vive lejos de la ciudad.",
-      "rating": 5
-    },
     {
       "name": "Rosa Manzano",
       "neighborhood": "Valdeavero",

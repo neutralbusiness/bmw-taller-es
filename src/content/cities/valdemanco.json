@@ -7,7 +7,7 @@
   "lat": 40.86038,
   "lng": -3.66322,
   "metaTitle": "Taller BMW cerca de Valdemanco | Sierra Norte de Madrid",
-  "metaDescription": "Servicio BMW para Valdemanco y la Sierra Norte: diagnosis original, revisión de turbo, Vanos, refrigeración y caja ZF 8HP. Recogida disponible.",
+  "metaDescription": "Servicio BMW para Valdemanco y la Sierra Norte: diagnosis original, revisión de turbo, Vanos, refrigeración y caja ZF 8HP.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdemanco, en plena Sierra Norte de Madrid.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdemanco está en la Sierra Norte de Madrid, con carreteras de montaña, curvas constantes y cambios de temperatura bruscos entre el día y la noche que exigen mucho a la suspensión y al sistema de refrigeración del BMW. El uso en pendiente y con frenadas frecuentes también desgasta antes los frenos y la caja de cambios que un uso urbano equivalente.\n\nNo tenemos taller físico en el pueblo, pero organizamos recogidas para la comarca, de forma que el mantenimiento de tu BMW no dependa de bajar hasta Madrid con tráfico.",
-  "servicesIntro": "Mantenimiento y mecánica BMW adaptados al uso de montaña, con recogida para clientes de la Sierra Norte.",
+  "introLocal": "Valdemanco está en la Sierra Norte de Madrid, con carreteras de montaña, curvas constantes y cambios de temperatura bruscos entre el día y la noche que exigen mucho a la suspensión y al sistema de refrigeración del BMW. El uso en pendiente y con frenadas frecuentes también desgasta antes los frenos y la caja de cambios que un uso urbano equivalente.",
+  "servicesIntro": "Mantenimiento y mecánica BMW adaptados al uso de montaña, para clientes de la Sierra Norte.",
   "processIntro": "Un proceso que tiene en cuenta las exigencias de conducir a diario por carretera de montaña.",
   "processSteps": [
-    {
-      "title": "Consulta y valoración",
-      "body": "Analizamos si el coche puede bajar hasta el taller o si conviene recogerlo."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisamos motor, caja, frenos y suspensión con el software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes homologados."
-    },
-    {
-      "title": "Entrega coordinada en Valdemanco",
-      "body": "Si lo necesitas, devolvemos el coche al pueblo."
     }
   ],
   "commonIssuesIntro": "Averías que vemos con frecuencia en los BMW que circulan por la Sierra Norte.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en la Sierra Norte",
-      "body": "Coordinamos la recogida en Valdemanco y pueblos cercanos."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "Detectamos averías reales, no solo el testigo que se enciende."
     },
@@ -101,19 +89,11 @@
       "body": "En toda reparación mecánica."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdemanco y los pueblos de la Sierra Norte de Madrid.",
+  "zoneText": "Servicio para Valdemanco y los pueblos de la Sierra Norte de Madrid.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdemanco?",
-      "a": "No, pero recogemos el coche en el pueblo o en municipios cercanos de la sierra."
-    },
     {
       "q": "¿Revisáis los frenos por el uso en montaña?",
       "a": "Sí, en cada visita comprobamos el estado de frenos y suspensión, especialmente exigidos en carretera de sierra."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
     },
     {
       "q": "¿Dais presupuesto antes de reparar?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Qué garantía tiene la reparación?",
       "a": "12 meses por escrito."
-    },
-    {
-      "q": "¿Puedo bajar el coche yo mismo?",
-      "a": "Sí, si prefieres no esperar a la recogida."
     }
   ],
   "closingHeadline": "Tu BMW, preparado para las carreteras de la Sierra Norte",
-  "closingCta": "Contacta y organizamos la recogida en Valdemanco.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +121,6 @@
       "name": "Álvaro Serranillos",
       "neighborhood": "Valdemanco",
       "body": "Revisaron los frenos de mi X3 antes de que fuera un problema serio en las bajadas de la sierra.",
-      "rating": 5
-    },
-    {
-      "name": "Cristina Buitrago",
-      "neighborhood": "Valdemanco",
-      "body": "Recogieron el coche y me lo devolvieron el mismo día con el turbo reparado.",
       "rating": 5
     },
     {

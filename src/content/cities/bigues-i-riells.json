@@ -7,7 +7,7 @@
   "lat": 41.68586,
   "lng": 2.20357,
   "metaTitle": "Taller BMW en Bigues i Riells | Vallès Oriental",
-  "metaDescription": "Taller especializado BMW en Bigues i Riells del Fai. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de Granollers y Sabadell.",
+  "metaDescription": "Taller especializado BMW en Bigues i Riells del Fai. Diagnosis oficial, mantenimiento y reparación. Cerca de Granollers y Sabadell.",
   "heroSubtitle": "El taller BMW de confianza en el Vallès Oriental, entre Granollers y el parque del Montseny.",
   "trustChips": [
     {
@@ -31,17 +31,12 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Bigues i Riells del Fai es un municipio de algo más de 8.000 habitantes en el Vallès Oriental, formado por varios núcleos (Bigues, Riells del Fai, Mura de Dalt), que ha crecido en las últimas décadas como zona residencial de urbanizaciones para quienes trabajan en Granollers, Sabadell o Barcelona y buscan más espacio y tranquilidad.\n\nLa carretera C-59 conecta el municipio con Barcelona en poco más de media hora, lo que hace que buena parte del parque de BMW en Bigues i Riells corresponda a commuters diarios, combinados con familias que usan el coche sobre todo para trayectos cortos hacia Granollers o hacia el entorno natural del Montseny los fines de semana.\n\nNo hay taller especializado BMW en el propio municipio, así que ofrecemos recogida a domicilio en cualquiera de sus núcleos, evitando el desplazamiento hasta Granollers o Barcelona para el mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en los distintos núcleos de Bigues i Riells.",
-  "processIntro": "Coordinamos la logística para adaptarnos a la dispersión del municipio en varios núcleos.",
+  "introLocal": "Bigues i Riells del Fai es un municipio de algo más de 8.000 habitantes en el Vallès Oriental, formado por varios núcleos (Bigues, Riells del Fai, Mura de Dalt), que ha crecido en las últimas décadas como zona residencial de urbanizaciones para quienes trabajan en Granollers, Sabadell o Barcelona y buscan más espacio y tranquilidad.\n\nLa carretera C-59 conecta el municipio con Barcelona en poco más de media hora, lo que hace que buena parte del parque de BMW en Bigues i Riells corresponda a commuters diarios, combinados con familias que usan el coche sobre todo para trayectos cortos hacia Granollers o hacia el entorno natural del Montseny los fines de semana.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processSteps": [
     {
       "title": "Contacto y cita",
       "body": "Nos cuentas la avería o el mantenimiento pendiente y te damos cita."
-    },
-    {
-      "title": "Recogida en tu núcleo",
-      "body": "Vamos a buscar el coche a Bigues, Riells del Fai o donde te venga mejor."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +45,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega en el mismo punto",
-      "body": "Devolvemos el vehículo donde lo recogimos."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de commuters diarios hacia Barcelona por la C-59, como en Bigues i Riells.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en cualquier núcleo del municipio",
-      "body": "No importa si vives en Bigues o en Riells del Fai, vamos a buscar el coche."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -104,20 +91,12 @@
   "zoneText": "Damos servicio a todo el municipio de Bigues i Riells del Fai, con sus distintos núcleos, en el Vallès Oriental, entre Granollers y el parque natural del Montseny.",
   "faqLocal": [
     {
-      "q": "¿Recogéis el coche en cualquier núcleo del municipio?",
-      "a": "Sí, en Bigues, Riells del Fai o donde vivas."
-    },
-    {
       "q": "¿Trabajáis con BMW de uso diario en carretera?",
       "a": "Es el perfil más habitual entre nuestros clientes de la zona."
     },
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
       "a": "El mismo día que hacemos la diagnosis."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
-      "a": "Sí, coordinamos la recogida a primera hora."
     },
     {
       "q": "¿Usáis piezas originales BMW?",
@@ -128,8 +107,7 @@
       "a": "Sí, a todo el entorno cercano de Bigues i Riells."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir del Vallès Oriental",
-  "closingCta": "Escríbenos y coordinamos la recogida en tu núcleo del municipio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +119,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Bigues i Riells del Fai.",
   "testimonials": [
-    {
-      "name": "Pau Cardona",
-      "neighborhood": "Bigues",
-      "body": "Recogieron el coche en casa un martes por la mañana y me lo devolvieron por la tarde, listo para trabajar.",
-      "rating": 5
-    },
     {
       "name": "Laia Rierola",
       "neighborhood": "Riells del Fai",

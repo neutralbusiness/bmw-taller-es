@@ -7,7 +7,7 @@
   "lat": 40.8257,
   "lng": -3.63678,
   "metaTitle": "Taller BMW en Cabanillas de la Sierra | Guadalix",
-  "metaDescription": "Taller especializado BMW cerca de Cabanillas de la Sierra. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de Guadalix de la Sierra.",
+  "metaDescription": "Taller especializado BMW cerca de Cabanillas de la Sierra. Diagnosis oficial, mantenimiento y reparación. Cerca de Guadalix de la Sierra.",
   "heroSubtitle": "El taller BMW de confianza en Cabanillas de la Sierra, un pueblo pequeño entre pinares al norte de Madrid.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cabanillas de la Sierra es un municipio pequeño de la Sierra Norte de Madrid, de poco más de 700 habitantes, situado muy cerca de Guadalix de la Sierra, en una zona de pinares y urbanizaciones de baja densidad que ha atraído a familias que buscan tranquilidad sin alejarse demasiado de Madrid, a algo menos de una hora por la M-127 y la A-1.\n\nEl propietario de BMW en Cabanillas suele combinar el trayecto diario hacia Madrid con un uso muy local dentro del pueblo y sus urbanizaciones cercanas, en carreteras de curva y pendiente moderada que desgastan frenos y suspensión más que un uso urbano llano.\n\nNo hay taller especializado BMW en Cabanillas de la Sierra, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Madrid para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Cabanillas de la Sierra.",
+  "introLocal": "Cabanillas de la Sierra es un municipio pequeño de la Sierra Norte de Madrid, de poco más de 700 habitantes, situado muy cerca de Guadalix de la Sierra, en una zona de pinares y urbanizaciones de baja densidad que ha atraído a familias que buscan tranquilidad sin alejarse demasiado de Madrid, a algo menos de una hora por la M-127 y la A-1.\n\nEl propietario de BMW en Cabanillas suele combinar el trayecto diario hacia Madrid con un uso muy local dentro del pueblo y sus urbanizaciones cercanas, en carreteras de curva y pendiente moderada que desgastan frenos y suspensión más que un uso urbano llano.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien combina trayecto diario a Madrid con uso local en carreteras de sierra.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Cabanillas",
-      "body": "Vamos a buscar el coche a tu domicilio en el municipio."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso mixto sierra-autovía, como el de Cabanillas de la Sierra.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Cabanillas",
-      "body": "No hace falta que te desplaces hasta Madrid para el mantenimiento."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué componentes revisar primero en coches de la Sierra Norte."
     }
   ],
-  "zoneText": "Damos servicio a Cabanillas de la Sierra y su entorno cercano en la Sierra Norte de Madrid, junto a Guadalix de la Sierra, con recogida a domicilio para evitar desplazamientos innecesarios.",
+  "zoneText": "Damos servicio a Cabanillas de la Sierra y su entorno cercano en la Sierra Norte de Madrid, junto a Guadalix de la Sierra.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Cabanillas de la Sierra?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso mixto sierra-autovía?",
       "a": "Es el perfil más habitual en la zona, con mucha experiencia."
@@ -128,8 +112,7 @@
       "a": "Sí, a todo el entorno cercano de Cabanillas."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir de Cabanillas",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +124,6 @@
   },
   "testimonialsIntro": "Lo que dicen los vecinos de Cabanillas de la Sierra.",
   "testimonials": [
-    {
-      "name": "Anselmo Guadalix",
-      "neighborhood": "Cabanillas de la Sierra",
-      "body": "Recogieron el coche en casa y me lo devolvieron el mismo día. Muy cómodo para un pueblo tan pequeño.",
-      "rating": 5
-    },
     {
       "name": "Remedios Talavante",
       "neighborhood": "Cabanillas de la Sierra",

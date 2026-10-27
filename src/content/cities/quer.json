@@ -7,7 +7,7 @@
   "lat": 40.6148,
   "lng": -3.28117,
   "metaTitle": "Taller BMW cerca de Quer | Corredor del Henares, Guadalajara",
-  "metaDescription": "Servicio BMW para Quer: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Corredor del Henares, cerca de Guadalajara.",
+  "metaDescription": "Servicio BMW para Quer: diagnosis original y reparación en el taller de referencia del Corredor del Henares, cerca de Guadalajara.",
   "heroSubtitle": "Corredor del Henares, mecánica BMW cerca de Guadalajara",
   "trustChips": [
     {
@@ -31,7 +31,7 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Quer es un municipio de unos 1.300 habitantes en la provincia de Guadalajara, dentro del Corredor del Henares, a un paso de la propia capital y bien conectado con Madrid por la A-2. Su crecimiento residencial en los últimos años ha traído un parque de vehículos cada vez más amplio, con BMW entre los modelos habituales.\n\nNo hay taller especializado en BMW dentro de Quer, así que damos servicio desde el taller de referencia del corredor, con recogida disponible en las urbanizaciones y en el casco urbano.\n\nEl perfil habitual que vemos aquí combina trayectos diarios hacia Guadalajara o Madrid con un uso familiar del vehículo, lo que se traduce en revisiones que conviene no espaciar demasiado.",
+  "introLocal": "Quer es un municipio de unos 1.300 habitantes en la provincia de Guadalajara, dentro del Corredor del Henares, a un paso de la propia capital y bien conectado con Madrid por la A-2. Su crecimiento residencial en los últimos años ha traído un parque de vehículos cada vez más amplio, con BMW entre los modelos habituales.\n\nNo hay taller especializado en BMW dentro de Quer, así que damos servicio desde el taller de referencia del corredor.\n\nEl perfil habitual que vemos aquí combina trayectos diarios hacia Guadalajara o Madrid con un uso familiar del vehículo, lo que se traduce en revisiones que conviene no espaciar demasiado.",
   "servicesIntro": "Mantenimiento programado, frenos, distribución y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Pensado para quien se mueve a diario entre Quer, Guadalajara y Madrid.",
   "processSteps": [
@@ -40,20 +40,12 @@
       "body": "Nos cuentas el síntoma y te orientamos antes de mover el coche."
     },
     {
-      "title": "Recogida en Quer",
-      "body": "Coordinamos recogida en urbanización o casco urbano según te venga mejor."
-    },
-    {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos memoria de averías real antes de proponer cualquier reparación."
     },
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "Devolvemos el coche al punto acordado en Quer, probado y revisado."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de uso diario en el Corredor del Henares.",
@@ -85,10 +77,6 @@
       "body": "Sabemos qué revisar en coches que hacen kilómetros largos cada día."
     },
     {
-      "title": "Recogida en todo Quer",
-      "body": "Urbanizaciones y casco urbano cubiertos por igual."
-    },
-    {
       "title": "Diagnosis con equipo original",
       "body": "Precisión de concesionario sin necesidad de cruzar a Madrid."
     },
@@ -105,23 +93,15 @@
   "faqLocal": [
     {
       "q": "¿Hay taller BMW en Quer mismo?",
-      "a": "No especializado; damos servicio desde el taller de referencia del corredor con recogida en Quer."
+      "a": "No especializado; damos servicio desde el taller de referencia del corredor."
     },
     {
       "q": "¿Trabajáis con coches usados para trayectos largos diarios?",
       "a": "Es nuestro caso más habitual en esta zona; sabemos qué revisar específicamente."
     },
     {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, salvo urgencias que gestionamos antes."
-    },
-    {
       "q": "¿Emitís factura para empresas?",
       "a": "Sí, factura completa con desglose de piezas y mano de obra."
-    },
-    {
-      "q": "¿Puedo llevar el coche yo mismo?",
-      "a": "Claro, la recogida es opcional; te damos la dirección exacta del taller."
     },
     {
       "q": "¿Trabajáis con coches de más de 10 años?",
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Guadalajara y el Corredor del Henares, con un solo taller de confianza",
-  "closingCta": "Escríbenos y organizamos la recogida en Quer.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +125,6 @@
       "name": "Leandro Casas",
       "neighborhood": "Quer",
       "body": "Hago el trayecto a Guadalajara cada día y el turbo empezaba a fallar. Ahora va perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Purificación Nieto",
-      "neighborhood": "Quer",
-      "body": "Recogieron el coche en la urbanización sin ningún problema, muy cómodo.",
       "rating": 5
     },
     {

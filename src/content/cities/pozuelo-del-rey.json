@@ -6,8 +6,8 @@
   "population": 1019,
   "lat": 40.36454,
   "lng": -3.30569,
-  "metaTitle": "Mecánico BMW en Pozuelo del Rey | Recogida a domicilio",
-  "metaDescription": "Servicio BMW para Pozuelo del Rey: recogida en el pueblo, diagnosis original y reparación en el taller de referencia de la comarca del Nordeste de Madrid.",
+  "metaTitle": "Mecánico BMW en Pozuelo del Rey",
+  "metaDescription": "Servicio BMW para Pozuelo del Rey: diagnosis original y reparación en el taller de referencia de la comarca del Nordeste de Madrid.",
   "heroSubtitle": "Pozuelo del Rey, pequeño en tamaño, grande en atención",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Pozuelo del Rey es uno de los pueblos más pequeños de la comarca del Nordeste de Madrid, con apenas 500 habitantes y rodeado de campos de cultivo entre Arganda del Rey y Loeches. No hay ningún taller especializado en BMW en el municipio, ni tendría sentido económico que lo hubiera.\n\nLo que hacemos es sencillo: recogemos el coche en el propio pueblo, generalmente junto a la plaza mayor, y lo llevamos hasta el taller de la red más cercano. La devolución se hace en el mismo punto, normalmente el mismo día si la reparación no es compleja.\n\nPreferimos ser claros: no fingimos tener un taller a la vuelta de la esquina en Pozuelo del Rey. Lo que sí tenemos es un sistema de recogida que funciona semana tras semana.",
-  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica con recogida programada desde Pozuelo del Rey.",
+  "introLocal": "Pozuelo del Rey es uno de los pueblos más pequeños de la comarca del Nordeste de Madrid, con apenas 500 habitantes y rodeado de campos de cultivo entre Arganda del Rey y Loeches. No hay ningún taller especializado en BMW en el municipio, ni tendría sentido económico que lo hubiera.\n\nPreferimos ser claros: no fingimos tener un taller a la vuelta de la esquina en Pozuelo del Rey.",
+  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica.",
   "processIntro": "Un proceso pensado para no perder ni media jornada.",
   "processSteps": [
-    {
-      "title": "Llamada inicial",
-      "body": "Nos cuentas el problema y valoramos si hace falta grúa o basta con recogida normal."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Acordamos hora y punto fijo en Pozuelo del Rey."
-    },
     {
       "title": "Diagnosis en taller",
       "body": "Escáner original BMW para revisar códigos de avería reales."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto de recogida, listo para usar."
     }
   ],
   "commonIssuesIntro": "Averías más habituales en BMW de propietarios de esta zona rural del Nordeste madrileño.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida acordada en el pueblo",
-      "body": "Punto fijo en Pozuelo del Rey, sin vaguedades."
-    },
-    {
       "title": "Diagnosis con equipo BMW original",
       "body": "Nada de lectores universales imprecisos."
     },
@@ -104,14 +88,6 @@
   "zoneText": "Cubrimos todo el término municipal de Pozuelo del Rey y las fincas dispersas de su entorno agrícola.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Pozuelo del Rey?",
-      "a": "No, hacemos recogida y entrega en el pueblo hasta el taller de la red más cercano."
-    },
-    {
-      "q": "¿Es de pago la recogida?",
-      "a": "Está incluida en el servicio si finalmente reparas con nosotros."
-    },
-    {
       "q": "¿Cuánto tardáis en dar el presupuesto?",
       "a": "Normalmente en menos de 24 horas desde que el coche llega al taller."
     },
@@ -129,7 +105,7 @@
     }
   ],
   "closingHeadline": "El taller viene hasta Pozuelo del Rey, no al revés",
-  "closingCta": "Escríbenos y acordamos la recogida esta semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Pozuelo del Rey.",
   "testimonials": [
     {
-      "name": "Restituto Campos",
-      "neighborhood": "Pozuelo del Rey",
-      "body": "Pensé que en un pueblo tan pequeño nadie vendría a buscar el coche. Vinieron sin problema.",
-      "rating": 5
-    },
-    {
       "name": "Encarna Robledo",
       "neighborhood": "Pozuelo del Rey",
       "body": "El presupuesto llegó por WhatsApp con fotos claras de la avería.",
-      "rating": 5
-    },
-    {
-      "name": "Baldomero Aznar",
-      "neighborhood": "Pozuelo del Rey",
-      "body": "Recogieron a las 9 y a las 5 lo tenía en la plaza otra vez. Muy serios.",
       "rating": 5
     }
   ],

@@ -95,18 +95,10 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Precio confirmado antes de empezar, sin cambios de última hora."
-    },
-    {
-      "title": "Recogida en urbanizaciones",
-      "body": "Coordinamos recogida para quien vive en zonas alejadas del núcleo urbano."
     }
   ],
-  "zoneText": "Atendemos El Álamo, Navalcarnero y los municipios cercanos del suroeste de Madrid, con recogida disponible en urbanizaciones.",
+  "zoneText": "Atendemos El Álamo, Navalcarnero y los municipios cercanos del suroeste de Madrid.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en urbanizaciones a las afueras de El Álamo?",
-      "a": "Sí, coordinamos recogida en la mayoría de urbanizaciones de la zona."
-    },
     {
       "q": "¿Trabajáis con coches con muchos km de autovía a Madrid?",
       "a": "Sí, es el perfil más habitual que recibimos de esta zona."
@@ -118,10 +110,6 @@
     {
       "q": "¿Cuánto tarda un diagnóstico ISTA?",
       "a": "Normalmente entre 30 y 60 minutos."
-    },
-    {
-      "q": "¿Puedo dejar el coche por la mañana y recogerlo por la tarde?",
-      "a": "Depende de la avería, pero en revisiones y mantenimiento suele ser posible."
     },
     {
       "q": "¿Trabajáis con seguros de vehículo?",
@@ -141,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de propietarios de El Álamo y Navalcarnero.",
   "testimonials": [
-    {
-      "name": "Rubén Alcázar",
-      "neighborhood": "El Álamo",
-      "body": "Vivo en una urbanización a las afueras y me recogieron el coche sin problema. Diagnóstico claro para mi X1.",
-      "rating": 5
-    },
     {
       "name": "Patricia Núñez",
       "neighborhood": "Navalcarnero",

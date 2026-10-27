@@ -123,13 +123,6 @@
       "car": "BMW 530e Hybrid",
       "body": "Tenía miedo de llevar un híbrido a un taller que no fuese oficial, pero me demostraron que dominan la tecnología perfectamente. Diagnóstico preciso del sistema eléctrico y actualización del software en la misma visita. Muy profesionales.",
       "rating": 5
-    },
-    {
-      "name": "Anna G.",
-      "neighborhood": "El Verdaguer",
-      "car": "BMW 118i",
-      "body": "Mi BMW no arrancaba una mañana de enero con la helada. Vinieron a buscar el coche, lo repararon el mismo día y me lo trajeron de vuelta. Era la batería y un relé del sistema Start/Stop. Servicio impecable y cercano, como debe ser en un pueblo.",
-      "rating": 5
     }
   ],
   "zoneText": "Nuestro servicio técnico BMW cubre toda la zona norte de Osona y el acceso al Ripollès, ofreciendo asistencia a conductores de Montesquiu y las poblaciones vecinas del valle del Ter. Si necesitas que recojamos tu vehículo, organizamos el transporte sin coste adicional en un radio de 15 kilómetros.",
@@ -153,10 +146,6 @@
       "a": "Absolutamente. Conocemos las exigencias mecánicas de esta ruta: pendientes sostenidas, curvas cerradas y cambios bruscos de altitud. Adaptamos los intervalos de mantenimiento y las revisiones de frenos y suspensión al uso real que hacen nuestros clientes de sus BMW en estas carreteras."
     },
     {
-      "q": "¿Ofrecen servicio de recogida de vehículo en Montesquiu?",
-      "a": "Sí. Si tu BMW no puede circular o prefieres no desplazarte, recogemos el vehículo en tu domicilio de Montesquiu o alrededores y lo devolvemos una vez reparado. Este servicio no tiene coste adicional en un radio de 15 km."
-    },
-    {
       "q": "¿Qué modelos BMW pueden reparar?",
       "a": "Trabajamos con toda la gama BMW: desde los Serie 1 hasta los X7 y los modelos eléctricos e híbridos como el iX3 o el 330e. Nuestro equipo de diagnóstico es compatible con todos los sistemas electrónicos BMW de cualquier generación."
     },
@@ -166,7 +155,7 @@
     },
     {
       "q": "¿Cuánto tarda una revisión completa de BMW?",
-      "a": "Una revisión estándar con cambio de aceite, filtros y diagnóstico electrónico se completa en 2-3 horas. Si se detectan reparaciones adicionales, te informamos antes de proceder y ajustamos el plazo. Siempre intentamos devolverte el coche el mismo día."
+      "a": "Una revisión estándar con cambio de aceite, filtros y diagnóstico electrónico se completa en 2-3 horas. Si se detectan reparaciones adicionales, te informamos antes de proceder y ajustamos el plazo."
     },
     {
       "q": "¿Hacen preparación de BMW para pasar la ITV?",
@@ -174,7 +163,7 @@
     }
   ],
   "closingHeadline": "Tu BMW merece el mejor taller en la puerta del Ripollès",
-  "closingCta": "Contacta con nosotros hoy y descubre por qué los conductores de BMW de Montesquiu confían en nuestro equipo. Presupuesto sin compromiso y recogida gratuita del vehículo.",
+  "closingCta": "Contacta con nosotros hoy y descubre por qué los conductores de BMW de Montesquiu confían en nuestro equipo.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

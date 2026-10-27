@@ -7,7 +7,7 @@
   "lat": 42.34106,
   "lng": -3.70184,
   "metaTitle": "Taller BMW en Burgos | Especialistas en BMW",
-  "metaDescription": "Taller especializado BMW en Burgos. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja. Recogida en toda la ciudad y provincia.",
+  "metaDescription": "Taller especializado BMW en Burgos. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja.",
   "heroSubtitle": "El taller BMW de referencia en Burgos, preparado para el frío castellano y los largos trayectos de la A-1 y la AP-1.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Burgos es una ciudad de más de 175.000 habitantes en el corazón de Castilla y León, cruzada por el Camino de Santiago y situada en un nudo de comunicaciones estratégico entre la A-1 hacia Madrid, la AP-1 hacia Vitoria y Bilbao, y la A-231 hacia León, lo que hace que buena parte de sus habitantes recorran distancias largas con frecuencia.\n\nEl clima de Burgos es uno de los más fríos de España en invierno, con heladas frecuentes y nieve algunos años, un factor que afecta directamente a la batería, al sistema de refrigeración y a los neumáticos de cualquier BMW que circule por la ciudad, especialmente en barrios más altos o expuestos como Fuentecillas o Villímar.\n\nEl parque de BMW en Burgos combina perfiles muy distintos: profesionales del sector de automoción y logística, muy presente en la ciudad por la fábrica de Michelin y el polígono industrial de Villalonquéjar, familias de barrios como Gamonal o Río Vena que usan el coche a diario, y quienes hacen trayectos frecuentes de larga distancia por trabajo hacia Madrid, Bilbao o Valladolid.\n\nEsa combinación de frío extremo en invierno y trayectos largos de autovía genera un desgaste característico: baterías que fallan antes de lo esperado, sistemas de refrigeración exigidos por los cambios bruscos de temperatura, y motores y cajas de cambios que acumulan muchos kilómetros de carretera en poco tiempo.\n\nNuestro taller trabaja con el equipo de diagnosis oficial BMW y ofrece recogida en toda la ciudad de Burgos, desde el centro histórico hasta Gamonal o Villímar, así como en los municipios cercanos de la provincia.",
+  "introLocal": "Burgos es una ciudad de más de 175.000 habitantes en el corazón de Castilla y León, cruzada por el Camino de Santiago y situada en un nudo de comunicaciones estratégico entre la A-1 hacia Madrid, la AP-1 hacia Vitoria y Bilbao, y la A-231 hacia León, lo que hace que buena parte de sus habitantes recorran distancias largas con frecuencia.\n\nEl clima de Burgos es uno de los más fríos de España en invierno, con heladas frecuentes y nieve algunos años, un factor que afecta directamente a la batería, al sistema de refrigeración y a los neumáticos de cualquier BMW que circule por la ciudad, especialmente en barrios más altos o expuestos como Fuentecillas o Villímar.\n\nEl parque de BMW en Burgos combina perfiles muy distintos: profesionales del sector de automoción y logística, muy presente en la ciudad por la fábrica de Michelin y el polígono industrial de Villalonquéjar, familias de barrios como Gamonal o Río Vena que usan el coche a diario, y quienes hacen trayectos frecuentes de larga distancia por trabajo hacia Madrid, Bilbao o Valladolid.\n\nEsa combinación de frío extremo en invierno y trayectos largos de autovía genera un desgaste característico: baterías que fallan antes de lo esperado, sistemas de refrigeración exigidos por los cambios bruscos de temperatura, y motores y cajas de cambios que acumulan muchos kilómetros de carretera en poco tiempo.",
   "servicesIntro": "Mantenimiento integral, diagnosis con equipo oficial y reparación de motor, caja de cambios y electrónica para toda la gama BMW.",
   "processIntro": "Un proceso claro pensado para el frío castellano y los largos trayectos de autovía que caracterizan a Burgos.",
   "processSteps": [
     {
       "title": "Cita y primera valoración",
       "body": "Nos cuentas el problema por teléfono o WhatsApp y programamos la cita según urgencia."
-    },
-    {
-      "title": "Recogida en Burgos o la provincia",
-      "body": "Recogemos el coche en tu barrio o municipio cercano si lo necesitas."
     },
     {
       "title": "Diagnosis con equipo oficial BMW",
@@ -85,10 +81,6 @@
       "body": "El mismo nivel técnico que un concesionario, con presupuestos más competitivos."
     },
     {
-      "title": "Recogida en toda la ciudad y provincia",
-      "body": "Desde el centro de Burgos hasta municipios cercanos como Villalonquéjar o Villagonzalo Pedernales."
-    },
-    {
       "title": "Presupuesto cerrado por escrito",
       "body": "Sabes el coste final antes de autorizar la reparación."
     },
@@ -101,12 +93,8 @@
       "body": "Tú decides el nivel de gasto según la antigüedad y el uso del vehículo."
     }
   ],
-  "zoneText": "Damos servicio a toda la ciudad de Burgos, desde el centro histórico hasta los barrios más recientes, y a los municipios cercanos de la provincia como Villalonquéjar, Villagonzalo Pedernales o Cardeñajimeno, con recogida a domicilio.",
+  "zoneText": "Damos servicio a toda la ciudad de Burgos, desde el centro histórico hasta los barrios más recientes, y a los municipios cercanos de la provincia como Villalonquéjar, Villagonzalo Pedernales o Cardeñajimeno.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en toda la ciudad de Burgos?",
-      "a": "Sí, en cualquier barrio, sin coste adicional."
-    },
     {
       "q": "¿También dais servicio a municipios de la provincia?",
       "a": "Sí, a Villalonquéjar, Villagonzalo Pedernales y otros cercanos."
@@ -133,7 +121,7 @@
     }
   ],
   "closingHeadline": "El taller BMW que Burgos necesita",
-  "closingCta": "Pide cita y te recogemos el coche en cualquier punto de Burgos o la provincia.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "testimonialsIntro": "Opiniones de clientes de Burgos capital y la provincia.",
   "testimonials": [
     {
@@ -146,18 +134,6 @@
       "name": "Teresa Ontoria",
       "neighborhood": "Villímar",
       "body": "Detectaron un problema de batería antes de que me dejara tirada en pleno enero. Se lo agradezco mucho.",
-      "rating": 5
-    },
-    {
-      "name": "Raúl Peñaranda",
-      "neighborhood": "Villalonquéjar",
-      "body": "Trabajo en el polígono y me recogieron el coche allí mismo sin tener que desplazarme.",
-      "rating": 5
-    },
-    {
-      "name": "Yolanda Grijalba",
-      "neighborhood": "Río Vena",
-      "body": "Presupuesto claro y sin sorpresas, y me recogieron el coche en casa sin coste extra.",
       "rating": 5
     }
   ],

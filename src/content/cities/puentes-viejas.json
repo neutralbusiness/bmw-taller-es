@@ -7,7 +7,7 @@
   "lat": 40.97806,
   "lng": -3.56085,
   "metaTitle": "Taller BMW cerca de Puentes Viejas | Sierra Norte Madrid",
-  "metaDescription": "Servicio BMW para Puentes Viejas: recogida a domicilio, diagnosis original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
+  "metaDescription": "Servicio BMW para Puentes Viejas: diagnosis original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
   "heroSubtitle": "El embalse de Pinilla también tiene su taller BMW de confianza",
   "trustChips": [
     {
@@ -31,17 +31,12 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Puentes Viejas es un municipio singular de la Sierra Norte de Madrid, formado por la unión de varios núcleos pequeños -Cervera, Manjirón, Paredes de Buitrago y Robledillo de la Jara entre otros- en torno al embalse de Pinilla. En conjunto no llega a los 500 habitantes, repartidos en pedanías con carácter propio.\n\nNo hay taller especializado en BMW en ninguno de estos núcleos, así que damos servicio desde el taller de referencia de la Sierra Norte, con recogida coordinada según la pedanía concreta donde te encuentres.\n\nEl entorno del embalse trae un uso particular del vehículo: pistas y carreteras estrechas, cambios bruscos de altitud y un invierno duro que exige atención especial a frenos, suspensión y refrigeración.",
+  "introLocal": "Puentes Viejas es un municipio singular de la Sierra Norte de Madrid, formado por la unión de varios núcleos pequeños -Cervera, Manjirón, Paredes de Buitrago y Robledillo de la Jara entre otros- en torno al embalse de Pinilla. En conjunto no llega a los 500 habitantes, repartidos en pedanías con carácter propio.\n\nNo hay taller especializado en BMW en ninguno de estos núcleos, así que damos servicio desde el taller de referencia de la Sierra Norte.\n\nEl entorno del embalse trae un uso particular del vehículo: pistas y carreteras estrechas, cambios bruscos de altitud y un invierno duro que exige atención especial a frenos, suspensión y refrigeración.",
   "servicesIntro": "Mantenimiento adaptado a entorno de embalse y montaña, frenos, suspensión y diagnosis electrónica.",
-  "processIntro": "Coordinamos la recogida según la pedanía exacta donde vivas.",
   "processSteps": [
     {
       "title": "Consulta telefónica",
       "body": "Nos indicas en qué pedanía de Puentes Viejas te encuentras y valoramos el problema."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Fijamos un punto accesible según la pedanía, Cervera, Manjirón, Paredes o Robledillo."
     },
     {
       "title": "Diagnosis con escáner original",
@@ -50,10 +45,6 @@
     {
       "title": "Presupuesto por teléfono",
       "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "Devolvemos el coche al mismo punto acordado en la pedanía."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW usados en el entorno del embalse de Pinilla y la Sierra Norte.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Conocemos las pedanías de Puentes Viejas",
-      "body": "Coordinamos recogida específica según dónde vivas dentro del municipio."
-    },
-    {
       "title": "Atención a frenos y suspensión",
       "body": "Componentes clave para el uso de pistas y carreteras estrechas."
     },
@@ -104,16 +91,8 @@
   "zoneText": "Damos servicio a todas las pedanías de Puentes Viejas: Cervera de Buitrago, Manjirón, Paredes de Buitrago y Robledillo de la Jara.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en alguna pedanía de Puentes Viejas?",
-      "a": "No, ofrecemos recogida desde cualquier pedanía hasta el taller de referencia de la Sierra Norte."
-    },
-    {
       "q": "¿Cubrís todas las pedanías por igual?",
       "a": "Sí, Cervera, Manjirón, Paredes de Buitrago y Robledillo de la Jara tienen el mismo servicio."
-    },
-    {
-      "q": "¿La recogida cambia según la pedanía?",
-      "a": "Solo el punto de encuentro; el servicio y los tiempos son los mismos."
     },
     {
       "q": "¿Trabajáis en invierno con nieve?",
@@ -122,14 +101,10 @@
     {
       "q": "¿Trabajáis con vehículos xDrive?",
       "a": "Sí, muy habitual en esta zona de montaña y con experiencia específica."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso según tu pedanía."
     }
   ],
   "closingHeadline": "Cada pedanía de Puentes Viejas, con el mismo taller de confianza",
-  "closingCta": "Llámanos e indícanos tu pedanía para coordinar la recogida.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Testimonios de vecinos de las distintas pedanías de Puentes Viejas.",
   "testimonials": [
-    {
-      "name": "Eugenio Mazón",
-      "neighborhood": "Cervera de Buitrago, Puentes Viejas",
-      "body": "Vivo en una pedanía pequeña y pensé que sería complicado. Vinieron sin problema.",
-      "rating": 5
-    },
     {
       "name": "Aurora Salcedo",
       "neighborhood": "Paredes de Buitrago, Puentes Viejas",

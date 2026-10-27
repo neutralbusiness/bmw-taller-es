@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Font-rubí es un municipio pequeño y muy disperso del Alt Penedès, formado por numerosos núcleos como Sant Sebastià de Montmajor o Cal Bofí, rodeado casi por completo de viñedos. Con poco más de mil habitantes, el uso del vehículo aquí implica caminos rurales, distancias considerables hasta Vilafranca para cualquier gestión y un desgaste particular por el polvo y el firme irregular de muchas de sus vías.\n\nTrabajamos con diagnosis oficial BMW y coordinamos recogidas para quienes viven en los núcleos más alejados del municipio, algo habitual dada la dispersión geográfica de Font-rubí.",
+  "introLocal": "Font-rubí es un municipio pequeño y muy disperso del Alt Penedès, formado por numerosos núcleos como Sant Sebastià de Montmajor o Cal Bofí, rodeado casi por completo de viñedos. Con poco más de mil habitantes, el uso del vehículo aquí implica caminos rurales, distancias considerables hasta Vilafranca para cualquier gestión y un desgaste particular por el polvo y el firme irregular de muchas de sus vías.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada a las distancias y caminos rurales del Penedès.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto más cómodo para ti."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por los caminos de Font-rubí.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Facilitamos el acceso al taller para quien vive en núcleos dispersos."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,12 +89,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Cubrimos Font-rubí y sus núcleos dispersos, incluyendo Sant Sebastià de Montmajor y Cal Bofí, con servicio de recogida para quienes viven más alejados.",
+  "zoneText": "Cubrimos Font-rubí y sus núcleos dispersos, incluyendo Sant Sebastià de Montmajor y Cal Bofí.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en núcleos dispersos de Font-rubí?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Hay coste adicional por la distancia?",
       "a": "Para trayectos habituales dentro de la comarca no aplicamos recargo."
@@ -133,7 +117,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW cerca, aunque vivas entre viñedos del Penedès",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin complicaciones.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de Font-rubí y sus núcleos.",
   "testimonials": [
-    {
-      "name": "Salvador N.",
-      "neighborhood": "Sant Sebastià de Montmajor",
-      "body": "Coordinaron la recogida perfectamente, vivo bastante apartado y no fue problema.",
-      "rating": 5
-    },
     {
       "name": "Rosa Maria G.",
       "neighborhood": "Font-rubí",

@@ -7,7 +7,7 @@
   "lat": 40.39957,
   "lng": -3.99753,
   "metaTitle": "Taller BMW en Brunete | Oeste de Madrid",
-  "metaDescription": "Taller especializado BMW en Brunete. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio. Cerca de Villanueva de la Cañada.",
+  "metaDescription": "Taller especializado BMW en Brunete. Diagnosis oficial, mantenimiento y reparación. Cerca de Villanueva de la Cañada.",
   "heroSubtitle": "El taller BMW de confianza en Brunete, entre urbanizaciones y campo abierto al oeste de Madrid.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Brunete es un municipio de algo más de 12.000 habitantes al oeste de Madrid, conocido históricamente por la batalla de la Guerra Civil que le da nombre, y que en las últimas décadas ha crecido con urbanizaciones de vivienda unifamiliar atraídas por la M-600 y su cercanía a Villanueva de la Cañada y Villaviciosa de Odón.\n\nEl propietario habitual de BMW en Brunete combina el trayecto diario hacia Madrid por la M-600 y la A-5 con un uso muy local dentro del municipio, para llevar a los niños al colegio o moverse entre las distintas urbanizaciones, muchas de ellas con calles sin asfaltar en sus tramos más recientes.\n\nNo hay taller especializado BMW en Brunete, así que ofrecemos recogida a domicilio en cualquier zona del municipio, evitando el desplazamiento hasta Madrid o Boadilla del Monte para el mantenimiento habitual.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Brunete.",
+  "introLocal": "Brunete es un municipio de algo más de 12.000 habitantes al oeste de Madrid, conocido históricamente por la batalla de la Guerra Civil que le da nombre, y que en las últimas décadas ha crecido con urbanizaciones de vivienda unifamiliar atraídas por la M-600 y su cercanía a Villanueva de la Cañada y Villaviciosa de Odón.\n\nEl propietario habitual de BMW en Brunete combina el trayecto diario hacia Madrid por la M-600 y la A-5 con un uso muy local dentro del municipio, para llevar a los niños al colegio o moverse entre las distintas urbanizaciones, muchas de ellas con calles sin asfaltar en sus tramos más recientes.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien combina trayectos de vía rápida con calles locales de urbanización.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Brunete",
-      "body": "Vamos a buscar el coche a tu domicilio o urbanización."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso combinado urbanización-autovía, como el de Brunete.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Brunete",
-      "body": "No hace falta que te desplaces hasta Madrid o Boadilla para el mantenimiento."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué componentes revisar primero por el firme irregular de algunas zonas de Brunete."
     }
   ],
-  "zoneText": "Damos servicio a Brunete y a los municipios cercanos del oeste de Madrid como Villanueva de la Cañada y Villaviciosa de Odón, con recogida a domicilio para quienes combinan trayecto diario con uso local.",
+  "zoneText": "Damos servicio a Brunete y a los municipios cercanos del oeste de Madrid como Villanueva de la Cañada y Villaviciosa de Odón.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Brunete?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso en calles sin asfaltar?",
       "a": "Sí, es habitual en algunas zonas de Brunete y tenemos experiencia con ese desgaste."
@@ -114,10 +98,6 @@
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
       "a": "El mismo día que hacemos la diagnosis."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
-      "a": "Sí, coordinamos la recogida a primera hora de la mañana."
     },
     {
       "q": "¿Usáis piezas originales BMW?",
@@ -128,8 +108,7 @@
       "a": "Sí, a todo el entorno cercano de Brunete."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir de Brunete",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Brunete y alrededores.",
   "testimonials": [
-    {
-      "name": "Gonzalo Merino",
-      "neighborhood": "Brunete",
-      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Madrid.",
-      "rating": 5
-    },
     {
       "name": "Inés Cebrián",
       "neighborhood": "Brunete",

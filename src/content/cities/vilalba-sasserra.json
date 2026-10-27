@@ -7,7 +7,7 @@
   "lat": 41.64178,
   "lng": 2.46273,
   "metaTitle": "Taller BMW cerca de Vilalba Sasserra | Vallès Oriental",
-  "metaDescription": "Servicio BMW para Vilalba Sasserra: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "Servicio BMW para Vilalba Sasserra: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Vilalba Sasserra, en el Vallès Oriental.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Vilalba Sasserra es uno de los municipios más pequeños del Vallès Oriental, con vecinos que combinan carreteras comarcales de curvas con trayectos de autovía hacia Granollers o Barcelona por la C-60 y la AP-7. No tenemos taller en el pueblo, pero organizamos la recogida del coche con el mismo protocolo de diagnosis que emplea la red oficial BMW.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Vilalba Sasserra y el Vallès Oriental.",
+  "introLocal": "Vilalba Sasserra es uno de los municipios más pequeños del Vallès Oriental, con vecinos que combinan carreteras comarcales de curvas con trayectos de autovía hacia Granollers o Barcelona por la C-60 y la AP-7.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Vilalba Sasserra y el Vallès Oriental.",
   "processIntro": "Un proceso simple, pensado para quien vive lejos de un taller especializado en BMW.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Vilalba Sasserra",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que circulan por las carreteras comarcales cerca de Vilalba Sasserra.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Vilalba Sasserra",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que en el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Vilalba Sasserra y los municipios cercanos del Vallès Oriental.",
+  "zoneText": "Servicio para Vilalba Sasserra y los municipios cercanos del Vallès Oriental.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Vilalba Sasserra?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,11 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
-  "closingHeadline": "Tu BMW bien cuidado, sin salir del Vallès Oriental",
-  "closingCta": "Contacta y organizamos la recogida en Vilalba Sasserra.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Vilalba Sasserra que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Genís Cardedeu",
-      "neighborhood": "Vilalba Sasserra",
-      "body": "Recogieron el coche y el presupuesto llegó claro, sin sorpresas al final.",
-      "rating": 5
-    },
     {
       "name": "Nàdia Llinars",
       "neighborhood": "Vilalba Sasserra",

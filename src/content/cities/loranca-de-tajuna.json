@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Loranca de Tajuña es un municipio muy pequeño de la Alcarria, en Guadalajara, con apenas un puñado de vecinos. No existe ningún taller de coches, y mucho menos especializado en BMW, dentro del propio pueblo. Los pocos vecinos que tienen un BMW suelen desplazarse hacia Guadalajara capital o incluso Madrid para cualquier revisión.\n\nOfrecemos recogida a domicilio para este tipo de localidades pequeñas, de forma que no haga falta recorrer kilómetros de carretera solo para un mantenimiento rutinario. El diagnóstico y la reparación se hacen con el mismo nivel técnico que en cualquiera de nuestras zonas de mayor tamaño.",
-  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW, con recogida a domicilio.",
+  "introLocal": "Loranca de Tajuña es un municipio muy pequeño de la Alcarria, en Guadalajara, con apenas un puñado de vecinos. No existe ningún taller de coches, y mucho menos especializado en BMW, dentro del propio pueblo. Los pocos vecinos que tienen un BMW suelen desplazarse hacia Guadalajara capital o incluso Madrid para cualquier revisión.\n\nEl diagnóstico y la reparación se hacen con el mismo nivel técnico que en cualquiera de nuestras zonas de mayor tamaño.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW.",
   "processIntro": "Un proceso simplificado para quienes viven en localidades pequeñas y alejadas de un taller especializado.",
   "processSteps": [
     {
       "title": "Contacto",
       "body": "Nos llamas o escribes contándonos el síntoma del coche."
-    },
-    {
-      "title": "Recogida",
-      "body": "Coordinamos la recogida del vehículo en Loranca de Tajuña o alrededores."
     },
     {
       "title": "Diagnóstico",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto",
       "body": "Te llamamos con el coste detallado antes de reparar nada."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el vehículo en el punto acordado contigo."
     }
   ],
   "commonIssuesIntro": "En los pocos BMW que atendemos de esta zona, lo más frecuente es:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Fundamental en localidades pequeñas sin taller especializado cercano."
-    },
-    {
       "title": "Mismo nivel técnico",
       "body": "Diagnóstico oficial igual que en cualquiera de nuestras zonas grandes."
     },
@@ -101,12 +89,8 @@
       "body": "En mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos Loranca de Tajuña y municipios cercanos de la Alcarria, con recogida a domicilio como servicio habitual.",
+  "zoneText": "Atendemos Loranca de Tajuña y municipios cercanos de la Alcarria.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Loranca de Tajuña?",
-      "a": "Sí, es nuestro servicio habitual para localidades pequeñas de la zona."
-    },
     {
       "q": "¿Hay que desplazarse hasta el taller?",
       "a": "No necesariamente, podemos gestionar todo sin que te muevas."
@@ -114,10 +98,6 @@
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Sí, siempre por escrito y detallado."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida y devolución?",
-      "a": "Depende de la reparación; te damos plazo estimado al confirmar el diagnóstico."
     },
     {
       "q": "¿Trabajáis con seguros?",
@@ -128,8 +108,7 @@
       "a": "12 meses en mano de obra, según la pieza utilizada."
     }
   ],
-  "closingHeadline": "El taller BMW llega hasta Loranca de Tajuña",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que tengas que desplazarte.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Opinión de un vecino de la zona:",
   "testimonials": [
-    {
-      "name": "Andrés G.",
-      "neighborhood": "Loranca de Tajuña",
-      "body": "Vivo en un pueblo pequeño sin ningún taller cerca y vinieron a recoger el coche sin problema. Muy agradecido.",
-      "rating": 5
-    },
     {
       "name": "Teresa L.",
       "neighborhood": "Loranca de Tajuña",

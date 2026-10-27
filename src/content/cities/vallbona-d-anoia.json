@@ -7,7 +7,7 @@
   "lat": 41.5308,
   "lng": 1.70912,
   "metaTitle": "Taller BMW cerca de Vallbona d'Anoia | Comarca de l'Anoia",
-  "metaDescription": "Servicio BMW para Vallbona d'Anoia: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "Servicio BMW para Vallbona d'Anoia: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Vallbona d'Anoia, en la comarca de l'Anoia.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Vallbona d'Anoia es un municipio pequeño de la comarca de l'Anoia donde el coche es imprescindible para llegar a Igualada o a Martorell por trabajo, con trayectos de carretera comarcal que alternan curvas con tramos de autovía. No tenemos taller en el pueblo, pero recogemos el coche para que el mantenimiento no dependa de que puedas desplazarte hasta la ciudad.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Vallbona d'Anoia y la comarca.",
+  "introLocal": "Vallbona d'Anoia es un municipio pequeño de la comarca de l'Anoia donde el coche es imprescindible para llegar a Igualada o a Martorell por trabajo, con trayectos de carretera comarcal que alternan curvas con tramos de autovía.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Vallbona d'Anoia y la comarca.",
   "processIntro": "Un proceso simple, pensado para quien vive lejos de un taller especializado en BMW.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche o si puede circular hasta el taller."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos del coche."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Vallbona d'Anoia",
-      "body": "Coordinamos la entrega según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que circulan por la comarca de l'Anoia.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Vallbona d'Anoia",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que en el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Vallbona d'Anoia y los municipios cercanos de la comarca de l'Anoia.",
+  "zoneText": "Servicio para Vallbona d'Anoia y los municipios cercanos de la comarca de l'Anoia.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Vallbona d'Anoia?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,11 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
-  "closingHeadline": "Tu BMW bien cuidado, sin salir de l'Anoia",
-  "closingCta": "Contacta y organizamos la recogida en Vallbona d'Anoia.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Vallbona d'Anoia que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Jordi Capellades",
-      "neighborhood": "Vallbona d'Anoia",
-      "body": "Recogieron el coche y el presupuesto llegó claro en un par de horas, sin sorpresas.",
-      "rating": 5
-    },
     {
       "name": "Meritxell Piera",
       "neighborhood": "Vallbona d'Anoia",

@@ -7,7 +7,7 @@
   "lat": 40.84372,
   "lng": -3.73084,
   "metaTitle": "Taller BMW en Bustarviejo | Sierra Norte de Madrid",
-  "metaDescription": "Taller especializado BMW cerca de Bustarviejo. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio. Cerca de Miraflores de la Sierra.",
+  "metaDescription": "Taller especializado BMW cerca de Bustarviejo. Diagnosis oficial, mantenimiento y reparación. Cerca de Miraflores de la Sierra.",
   "heroSubtitle": "El taller BMW de confianza en Bustarviejo, entre pinares y antiguas minas de la Sierra Norte de Madrid.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Bustarviejo es un municipio de algo más de 2.500 habitantes en la Sierra Norte de Madrid, conocido por su entorno natural, sus antiguas minas de wolframio y su cercanía a Miraflores de la Sierra, que combina población fija con muchas segundas residencias que se llenan los fines de semana.\n\nEl BMW típico de Bustarviejo recorre a diario la M-629 hacia Miraflores o la M-611 hacia Soto del Real, carreteras de curva constante que exigen más atención a frenos y suspensión que la conducción urbana llana, además del frío intenso del invierno serrano que también afecta a la batería.\n\nNo hay taller especializado BMW en Bustarviejo, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Madrid para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en Bustarviejo y alrededores.",
+  "introLocal": "Bustarviejo es un municipio de algo más de 2.500 habitantes en la Sierra Norte de Madrid, conocido por su entorno natural, sus antiguas minas de wolframio y su cercanía a Miraflores de la Sierra, que combina población fija con muchas segundas residencias que se llenan los fines de semana.\n\nEl BMW típico de Bustarviejo recorre a diario la M-629 hacia Miraflores o la M-611 hacia Soto del Real, carreteras de curva constante que exigen más atención a frenos y suspensión que la conducción urbana llana, además del frío intenso del invierno serrano que también afecta a la batería.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso pensado para el uso de carretera de montaña, muy distinto al desgaste típico de ciudad.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente y te orientamos sin compromiso."
-    },
-    {
-      "title": "Recogida en Bustarviejo",
-      "body": "Vamos a buscar el coche a tu domicilio en el municipio."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para volver a la carretera de montaña."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan por carreteras de montaña como las de Bustarviejo.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en toda la sierra",
-      "body": "No hace falta bajar el coche hasta Madrid para un mantenimiento."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Tú eliges el nivel de gasto según la antigüedad del vehículo."
     }
   ],
-  "zoneText": "Damos servicio a Bustarviejo y a todo su entorno en la Sierra Norte de Madrid, incluyendo Miraflores de la Sierra y Soto del Real, con recogida a domicilio adaptada a la orografía de la zona.",
+  "zoneText": "Damos servicio a Bustarviejo y a todo su entorno en la Sierra Norte de Madrid, incluyendo Miraflores de la Sierra y Soto del Real.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Bustarviejo?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso en carretera de montaña?",
       "a": "Es el perfil más habitual en esta zona, con mucha experiencia."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado en la Sierra Norte de Madrid",
-  "closingCta": "Escríbenos y coordinamos la recogida en Bustarviejo.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
       "name": "Marcelino Horcajuelo",
       "neighborhood": "Bustarviejo",
       "body": "Detectaron un desgaste de frenos que no había notado y me lo cambiaron antes de que fuera peligroso.",
-      "rating": 5
-    },
-    {
-      "name": "Elvira Sopeña",
-      "neighborhood": "Bustarviejo",
-      "body": "Recogieron el coche en casa un sábado, muy cómodo para quien solo sube los fines de semana.",
       "rating": 5
     },
     {

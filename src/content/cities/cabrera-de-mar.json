@@ -7,7 +7,7 @@
   "lat": 41.52959,
   "lng": 2.39905,
   "metaTitle": "Taller BMW en Cabrera de Mar | Maresme",
-  "metaDescription": "Taller especializado BMW en Cabrera de Mar. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio. Cerca de Mataró y Vilassar de Mar.",
+  "metaDescription": "Taller especializado BMW en Cabrera de Mar. Diagnosis oficial, mantenimiento y reparación. Cerca de Mataró y Vilassar de Mar.",
   "heroSubtitle": "El taller BMW de confianza en Cabrera de Mar, entre viñedos del Maresme y la costa.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cabrera de Mar es un municipio de algo más de 4.500 habitantes en el Maresme, situado en las colinas que separan la costa de las primeras viñas de la Denominación de Origen Alella, muy cerca de Vilassar de Mar y Mataró, con la C-32 como principal vía de acceso hacia Barcelona.\n\nEl propietario de BMW en Cabrera de Mar suele trabajar en Barcelona o en el propio corredor del Maresme, con trayectos diarios de autopista combinados con calles empinadas y estrechas del casco antiguo y las urbanizaciones en pendiente típicas de la zona.\n\nNo hay taller especializado BMW en Cabrera de Mar, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Mataró o Barcelona para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Cabrera de Mar.",
+  "introLocal": "Cabrera de Mar es un municipio de algo más de 4.500 habitantes en el Maresme, situado en las colinas que separan la costa de las primeras viñas de la Denominación de Origen Alella, muy cerca de Vilassar de Mar y Mataró, con la C-32 como principal vía de acceso hacia Barcelona.\n\nEl propietario de BMW en Cabrera de Mar suele trabajar en Barcelona o en el propio corredor del Maresme, con trayectos diarios de autopista combinados con calles empinadas y estrechas del casco antiguo y las urbanizaciones en pendiente típicas de la zona.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien combina trayectos de autopista con calles en pendiente del Maresme.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Cabrera de Mar",
-      "body": "Vamos a buscar el coche a tu domicilio en el municipio."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso combinado autopista-pendiente, como el de Cabrera de Mar.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Cabrera de Mar",
-      "body": "No hace falta que te desplaces hasta Mataró o Barcelona."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué componentes revisar primero por la combinación de sal marina y pendientes."
     }
   ],
-  "zoneText": "Damos servicio a Cabrera de Mar y a los municipios cercanos del Maresme como Vilassar de Mar y Mataró, con recogida a domicilio para quienes combinan trayecto diario por la C-32 con calles en pendiente.",
+  "zoneText": "Damos servicio a Cabrera de Mar y a los municipios cercanos del Maresme como Vilassar de Mar y Mataró.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Cabrera de Mar?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso en cuestas y autopista?",
       "a": "Es el perfil más habitual en la zona, con mucha experiencia."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado entre viñas y costa",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Cabrera de Mar y alrededores.",
   "testimonials": [
-    {
-      "name": "Martí Argemí",
-      "neighborhood": "Cabrera de Mar",
-      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Barcelona.",
-      "rating": 5
-    },
     {
       "name": "Judit Canyelles",
       "neighborhood": "Cabrera de Mar",

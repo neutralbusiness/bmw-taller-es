@@ -7,7 +7,7 @@
   "lat": 40.99419,
   "lng": -3.63538,
   "metaTitle": "Taller BMW en Buitrago del Lozoya | Sierra Norte",
-  "metaDescription": "Taller especializado BMW cerca de Buitrago del Lozoya, junto a la A-1. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio.",
+  "metaDescription": "Taller especializado BMW cerca de Buitrago del Lozoya, junto a la A-1. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "El taller BMW de confianza en Buitrago del Lozoya, la villa amurallada junto al río Lozoya y la A-1.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Buitrago del Lozoya es una pequeña villa histórica de la Sierra Norte de Madrid, con poco más de 2.000 habitantes, conocida por su recinto amurallado medieval, su castillo y el museo de dibujos que Picasso regaló a su barbero, situada junto a la A-1, lo que la convierte en el núcleo de referencia de toda la comarca.\n\nA diferencia de los pueblos más pequeños de alrededor, Buitrago tiene algo de comercio y servicios propios, pero sigue sin taller especializado BMW, así que muchos vecinos y propietarios de segunda residencia de la zona bajan hasta Madrid capital, a unos 60 minutos por la A-1, para cualquier mantenimiento serio.\n\nOfrecemos recogida directa en Buitrago del Lozoya y en los pueblos cercanos de la comarca, evitando ese desplazamiento y adaptándonos a quien solo pasa los fines de semana en la zona.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en Buitrago del Lozoya y la comarca.",
+  "introLocal": "Buitrago del Lozoya es una pequeña villa histórica de la Sierra Norte de Madrid, con poco más de 2.000 habitantes, conocida por su recinto amurallado medieval, su castillo y el museo de dibujos que Picasso regaló a su barbero, situada junto a la A-1, lo que la convierte en el núcleo de referencia de toda la comarca.\n\nA diferencia de los pueblos más pequeños de alrededor, Buitrago tiene algo de comercio y servicios propios, pero sigue sin taller especializado BMW, así que muchos vecinos y propietarios de segunda residencia de la zona bajan hasta Madrid capital, a unos 60 minutos por la A-1, para cualquier mantenimiento serio.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso pensado para la Sierra Norte, aprovechando que Buitrago es el núcleo de referencia de la zona.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Buitrago",
-      "body": "Vamos a buscar el coche en el propio Buitrago o en un pueblo cercano de la comarca."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan por la A-1 y las carreteras de la Sierra Norte, como en Buitrago.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Buitrago y toda la comarca",
-      "body": "Aprovechamos que Buitrago es el núcleo de referencia para cubrir toda la Sierra Norte."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,16 +89,8 @@
       "body": "Tú eliges el nivel de gasto según la antigüedad del vehículo."
     }
   ],
-  "zoneText": "Damos servicio a Buitrago del Lozoya y a toda la comarca de la Sierra Norte que gravita en torno a esta villa histórica, con recogida en el propio Buitrago y en los pueblos cercanos.",
+  "zoneText": "Damos servicio a Buitrago del Lozoya y a toda la comarca de la Sierra Norte que gravita en torno a esta villa histórica.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Buitrago del Lozoya?",
-      "a": "Sí, en el propio Buitrago y en los pueblos cercanos de la comarca."
-    },
-    {
-      "q": "¿Cuánto se tarda desde Buitrago hasta el taller?",
-      "a": "Alrededor de 60 minutos por la A-1, por eso organizamos siempre la recogida."
-    },
     {
       "q": "¿Trabajáis con BMW de segunda residencia que pasan semanas parados?",
       "a": "Sí, revisamos batería y frenos, los componentes que más sufren por la inactividad."
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado en la villa amurallada de la sierra",
-  "closingCta": "Escríbenos y coordinamos la recogida en Buitrago del Lozoya.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +125,6 @@
       "name": "Damián Escolar",
       "neighborhood": "Buitrago del Lozoya",
       "body": "Vivo en el pueblo y me han hecho el mantenimiento del coche sin tener que bajar a Madrid. Muy cómodo.",
-      "rating": 5
-    },
-    {
-      "name": "Rocío Villalba",
-      "neighborhood": "Gascones",
-      "body": "Recogieron el coche en Buitrago y me lo devolvieron el mismo día con la avería del turbo resuelta.",
       "rating": 5
     },
     {

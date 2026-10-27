@@ -7,7 +7,7 @@
   "lat": 41.55702,
   "lng": 1.51498,
   "metaTitle": "Taller BMW cerca de Sant Martí de Tous | Anoia",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Martí de Tous, Anoia. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Martí de Tous, Anoia. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Martí de Tous",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Martí de Tous es un municipio pequeño de la comarca de l'Anoia, entre Igualada y Montserrat, con un carácter marcadamente rural. No hay taller BMW especializado en el municipio, así que los vecinos suelen desplazarse a Igualada para el mantenimiento de la marca.\n\nOfrecemos recogida del vehículo en Sant Martí de Tous, con diagnosis realizada con el software oficial de BMW, para evitar ese desplazamiento innecesario.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Martí de Tous es un municipio pequeño de la comarca de l'Anoia, entre Igualada y Montserrat, con un carácter marcadamente rural. No hay taller BMW especializado en el municipio, así que los vecinos suelen desplazarse a Igualada para el mantenimiento de la marca.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Martí de Tous",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona rural de l'Anoia.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Martí de Tous se encuentra en la comarca de l'Anoia, entre Igualada y Montserrat, con un carácter rural marcado y predominio de trayectos cortos por carretera comarcal.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Martí de Tous?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Igualada?",
       "a": "Sí, recibimos habitualmente clientes de Igualada y de toda la comarca de l'Anoia."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Martí de Tous",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Martí de Tous que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Isidre P.",
-      "neighborhood": "Sant Martí de Tous",
-      "body": "Recogieron el coche en el pueblo sin que tuviera que moverme y quedó bien resuelto en un par de días.",
-      "rating": 5
-    },
     {
       "name": "Carme LL.",
       "neighborhood": "Sant Martí de Tous",

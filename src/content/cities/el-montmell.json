@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "El Montmell es un municipio pequeño y muy disperso, formado por núcleos como Marmellar y numerosas masías repartidas por el macizo del mismo nombre. Con apenas medio millar de habitantes, no hay aquí un parque BMW masivo, pero sí un uso del vehículo muy exigente: caminos rurales, pendientes pronunciadas y distancias largas hasta El Vendrell o Vilafranca para cualquier gestión cotidiana.\n\nPara quienes viven en El Montmell, tener un taller especializado en BMW cerca supone no depender de desplazarse hasta Tarragona o Barcelona por cada revisión. Trabajamos con diagnosis oficial y coordinamos recogidas para minimizar los kilómetros que tienes que hacer tú.",
+  "introLocal": "El Montmell es un municipio pequeño y muy disperso, formado por núcleos como Marmellar y numerosas masías repartidas por el macizo del mismo nombre. Con apenas medio millar de habitantes, no hay aquí un parque BMW masivo, pero sí un uso del vehículo muy exigente: caminos rurales, pendientes pronunciadas y distancias largas hasta El Vendrell o Vilafranca para cualquier gestión cotidiana.\n\nPara quienes viven en El Montmell, tener un taller especializado en BMW cerca supone no depender de desplazarse hasta Tarragona o Barcelona por cada revisión.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada a las distancias reales de un municipio rural como El Montmell.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW en nuestras instalaciones."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Trabajo con piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto que te resulte más cómodo."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por caminos rurales del Baix Penedès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Sabemos que llegar hasta un taller especializado desde El Montmell no siempre es fácil."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,12 +89,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Cubrimos El Montmell y sus núcleos dispersos, incluyendo Marmellar y las masías del macizo, con servicio de recogida para quienes viven más alejados.",
+  "zoneText": "Cubrimos El Montmell y sus núcleos dispersos, incluyendo Marmellar y las masías del macizo.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en masías apartadas?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Hay coste adicional por la distancia?",
       "a": "Para trayectos habituales dentro de la comarca no aplicamos recargo."
@@ -133,7 +117,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW cerca, aunque vivas en una masía de El Montmell",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin complicaciones.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de El Montmell y Marmellar.",
   "testimonials": [
-    {
-      "name": "Enric S.",
-      "neighborhood": "Marmellar",
-      "body": "Vivo bastante aislado y coordinaron la recogida sin problema. Muy de agradecer.",
-      "rating": 5
-    },
     {
       "name": "Dolors P.",
       "neighborhood": "El Montmell",

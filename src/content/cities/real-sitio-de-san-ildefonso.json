@@ -7,7 +7,7 @@
   "lat": 40.85611,
   "lng": -4.03385,
   "metaTitle": "Taller BMW en La Granja - San Ildefonso | Segovia sierra",
-  "metaDescription": "Servicio BMW para Real Sitio de San Ildefonso (La Granja): recogida a domicilio, diagnosis original y reparación en el taller de referencia de Segovia.",
+  "metaDescription": "Servicio BMW para Real Sitio de San Ildefonso (La Granja): diagnosis original y reparación en el taller de referencia de Segovia.",
   "heroSubtitle": "La Granja de San Ildefonso, mecánica BMW cerca de Segovia",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Real Sitio de San Ildefonso, más conocido como La Granja, es un municipio de la provincia de Segovia de unos 5.600 habitantes, a los pies de la sierra de Guadarrama y a apenas 11 kilómetros de Segovia capital. Su carácter histórico, ligado al Palacio Real, convive con un uso cotidiano del vehículo marcado por la altitud y las temperaturas extremas de la sierra.\n\nNo hay taller especializado en BMW dentro del municipio, así que damos servicio desde el taller de referencia en Segovia capital, con recogida disponible en La Granja y en las pedanías cercanas como Valsaín.\n\nLa combinación de altitud, frío intenso en invierno y trayectos de montaña hacia Segovia o Madrid por el puerto de Navacerrada exige una atención especial a determinados componentes que en zonas más llanas apenas dan problemas.",
+  "introLocal": "Real Sitio de San Ildefonso, más conocido como La Granja, es un municipio de la provincia de Segovia de unos 5.600 habitantes, a los pies de la sierra de Guadarrama y a apenas 11 kilómetros de Segovia capital. Su carácter histórico, ligado al Palacio Real, convive con un uso cotidiano del vehículo marcado por la altitud y las temperaturas extremas de la sierra.\n\nNo hay taller especializado en BMW dentro del municipio, así que damos servicio desde el taller de referencia en Segovia capital.\n\nLa combinación de altitud, frío intenso en invierno y trayectos de montaña hacia Segovia o Madrid por el puerto de Navacerrada exige una atención especial a determinados componentes que en zonas más llanas apenas dan problemas.",
   "servicesIntro": "Mantenimiento adaptado a clima de sierra, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso pensado para la altitud y el clima de la sierra segoviana.",
   "processSteps": [
-    {
-      "title": "Consulta telefónica",
-      "body": "Valoramos el problema y organizamos la recogida en La Granja o Valsaín."
-    },
-    {
-      "title": "Recogida en el municipio",
-      "body": "Coordinamos un punto de encuentro accesible según dónde vivas."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos la memoria de averías real antes de proponer nada."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "Devolvemos el vehículo al mismo punto acordado en el municipio."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW usados en la sierra de Guadarrama y el entorno de Segovia.",
@@ -95,41 +83,25 @@
     {
       "title": "Presupuesto cerrado antes de reparar",
       "body": "Sin sorpresas al recoger el coche."
-    },
-    {
-      "title": "Recogida en pedanías cercanas",
-      "body": "Valsaín y otras zonas próximas cubiertas por igual."
     }
   ],
   "zoneText": "Cubrimos Real Sitio de San Ildefonso y sus pedanías, incluida Valsaín, con conexión directa a Segovia capital.",
   "faqLocal": [
     {
       "q": "¿Hay taller BMW en La Granja mismo?",
-      "a": "No, damos servicio desde el taller de referencia en Segovia capital con recogida en el municipio."
-    },
-    {
-      "q": "¿Cubrís también Valsaín?",
-      "a": "Sí, Valsaín está dentro de nuestra zona habitual de recogida."
+      "a": "No, damos servicio desde el taller de referencia en Segovia capital."
     },
     {
       "q": "¿El clima de sierra afecta al mantenimiento?",
       "a": "Sí, prestamos especial atención a refrigeración, frenos y turbo por el uso de montaña."
     },
     {
-      "q": "¿Qué pasa si nieva el día de la recogida?",
-      "a": "Reprogramamos por seguridad y te avisamos con antelación."
-    },
-    {
       "q": "¿Trabajáis con vehículos xDrive de tracción total?",
       "a": "Sí, muy habitual en esta zona por el clima y la altitud."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso."
     }
   ],
   "closingHeadline": "Mecánica BMW seria, a los pies del Palacio Real de La Granja",
-  "closingCta": "Llámanos y coordinamos la recogida en San Ildefonso.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +117,6 @@
       "name": "Hermenegildo Yagüe",
       "neighborhood": "Real Sitio de San Ildefonso",
       "body": "El turbo sufría mucho subiendo hacia Navacerrada. Ahora tira perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Visitación Moral",
-      "neighborhood": "Real Sitio de San Ildefonso",
-      "body": "Recogieron el coche cerca del Palacio Real sin ningún problema.",
       "rating": 5
     },
     {

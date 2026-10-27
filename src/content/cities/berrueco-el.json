@@ -7,8 +7,8 @@
   "lat": 40.88823,
   "lng": -3.55323,
   "metaTitle": "Taller BMW en El Berrueco | Sierra Norte de Madrid",
-  "metaDescription": "Servicio especializado BMW para El Berrueco y el entorno del embalse del Atazar. Recogida a domicilio, diagnosis oficial y reparación.",
-  "heroSubtitle": "El taller BMW que llega hasta El Berrueco sin que tengas que bajar a Madrid.",
+  "metaDescription": "Servicio especializado BMW para El Berrueco y el entorno del embalse del Atazar.",
+  "heroSubtitle": "Especialistas en BMW para El Berrueco y la Sierra Norte de Madrid.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "El Berrueco es un pequeño municipio de la Sierra Norte de Madrid, de apenas unos cientos de vecinos, situado junto al embalse del Atazar y muy cerca de Cervera de Buitrago, en una zona donde predominan las segundas residencias y las urbanizaciones de montaña sobre la vivienda habitual.\n\nNo hay ningún taller en el propio pueblo ni en los municipios más cercanos, así que quien tiene un BMW en El Berrueco necesariamente lo lleva a Madrid capital o a algún taller de la zona de Torrelaguna, un trayecto de más de una hora por la M-127 y la A-1 que muchos propietarios prefieren evitar.\n\nPor eso ofrecemos recogida directa en El Berrueco, coordinando el desplazamiento del técnico para que el mantenimiento o la reparación no dependan de que bajes tú el coche hasta la ciudad.",
-  "servicesIntro": "Mantenimiento, diagnosis y reparación mecánica completa para BMW, con recogida adaptada a la distancia real desde El Berrueco.",
+  "introLocal": "El Berrueco es un pequeño municipio de la Sierra Norte de Madrid, de apenas unos cientos de vecinos, situado junto al embalse del Atazar y muy cerca de Cervera de Buitrago, en una zona donde predominan las segundas residencias y las urbanizaciones de montaña sobre la vivienda habitual.\n\nNo hay ningún taller en el propio pueblo ni en los municipios más cercanos, así que quien tiene un BMW en El Berrueco necesariamente lo lleva a Madrid capital o a algún taller de la zona de Torrelaguna, un trayecto de más de una hora por la M-127 y la A-1 que muchos propietarios prefieren evitar.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso pensado para minimizar los desplazamientos de quien vive en un pueblo tan pequeño y alejado como El Berrueco.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos recogida en El Berrueco o en un punto intermedio si te resulta más cómodo."
     },
     {
       "title": "Diagnosis con equipo BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega en el pueblo",
-      "body": "Devolvemos el coche en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías que más vemos en BMW que circulan por el entorno del embalse del Atazar.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida adaptada a pueblos pequeños",
-      "body": "Sabemos que El Berrueco está lejos de todo y organizamos la logística por ti."
-    },
-    {
       "title": "Técnicos formados en BMW",
       "body": "Diagnosis y reparación con el mismo nivel que un concesionario oficial."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Damos servicio a El Berrueco y a todo el entorno del embalse del Atazar, una zona muy poco poblada donde la mayoría de propietarios de BMW son residentes de segunda vivienda o urbanizaciones de montaña.",
   "faqLocal": [
     {
-      "q": "¿Hay que bajar el coche hasta Madrid?",
-      "a": "No, coordinamos la recogida en El Berrueco o en un punto intermedio."
-    },
-    {
-      "q": "¿Cuánto se tarda desde El Berrueco hasta el taller?",
-      "a": "Alrededor de una hora por la M-127 y la A-1, por eso organizamos siempre la recogida."
-    },
-    {
       "q": "¿Trabajáis con BMW antiguos?",
       "a": "Sí, tenemos experiencia con toda la gama, desde modelos con más de 15 años hasta los más recientes."
     },
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado sin bajar de la sierra",
-  "closingCta": "Escríbenos y coordinamos la recogida en El Berrueco.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -151,12 +131,6 @@
       "name": "Covadonga Riaza",
       "neighborhood": "El Berrueco",
       "body": "Muy buen trato y presupuesto claro, algo raro de encontrar cerca de aquí.",
-      "rating": 5
-    },
-    {
-      "name": "Nicolás Cerro",
-      "neighborhood": "Cervera de Buitrago",
-      "body": "Vinieron a recoger el coche sin problema y me lo devolvieron en el plazo acordado.",
       "rating": 5
     }
   ],

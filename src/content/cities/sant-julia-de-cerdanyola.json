@@ -35,10 +35,6 @@
   "processIntro": "Nuestro proceso de trabajo está diseñado para que no tengas que preocuparte de nada. Desde el primer contacto hasta la entrega del vehículo, te mantenemos informado en cada paso, con total transparencia en plazos y costes.",
   "processSteps": [
     {
-      "title": "Contacto y recogida",
-      "body": "Llámanos o escríbenos por WhatsApp. Si lo necesitas, recogemos tu BMW en Sant Julià de Cerdanyola o en cualquier punto entre Guardiola y La Pobla de Lillet."
-    },
-    {
       "title": "Diagnóstico completo",
       "body": "Realizamos una inspección visual y electrónica exhaustiva con equipo específico BMW. Te enviamos un informe detallado con fotos antes de tocar nada."
     },
@@ -89,10 +85,6 @@
       "body": "Utilizamos software de diagnóstico compatible con todos los módulos electrónicos BMW, lo que nos permite leer códigos de avería, realizar adaptaciones de centralita y programar componentes nuevos sin necesidad de acudir a un concesionario."
     },
     {
-      "title": "Recogida y entrega a domicilio",
-      "body": "Sabemos que en un municipio de montaña quedarse sin coche es un problema serio. Ofrecemos servicio de recogida y entrega en Sant Julià y localidades cercanas como Guardiola de Berguedà, La Pobla de Lillet y Bagà."
-    },
-    {
       "title": "Piezas de calidad original con garantía",
       "body": "Trabajamos con proveedores de primer equipo y equivalentes homologados. Cada pieza instalada lleva garantía documentada y queda registrada en el historial de mantenimiento del vehículo."
     },
@@ -111,13 +103,6 @@
       "rating": 5
     },
     {
-      "name": "Marta Casals",
-      "neighborhood": "La Pobla de Lillet",
-      "car": "BMW X1 xDrive18d",
-      "body": "Mi X1 no arrancaba una mañana de enero con –8 grados. Vinieron a recogerlo, cambiaron la batería por una AGM adecuada y de paso revisaron todo el sistema eléctrico. Rapidez y profesionalidad. Este invierno ya no me preocupa.",
-      "rating": 5
-    },
-    {
       "name": "Pere Soldevila",
       "neighborhood": "Sant Julià de Cerdanyola",
       "car": "BMW 520d",
@@ -132,7 +117,7 @@
       "rating": 5
     }
   ],
-  "zoneText": "Damos cobertura a todo el Berguedà septentrional desde Sant Julià de Cerdanyola. Recogemos y entregamos tu BMW en cualquier municipio de la zona, incluyendo las masías y núcleos dispersos accesibles por pista asfaltada. Nuestro radio de servicio abarca desde Bagà hasta La Pobla de Lillet y desde Guardiola de Berguedà hasta Castellar de n'Hug.",
+  "zoneText": "Damos cobertura a todo el Berguedà septentrional desde Sant Julià de Cerdanyola. Nuestro radio de servicio abarca desde Bagà hasta La Pobla de Lillet y desde Guardiola de Berguedà hasta Castellar de n'Hug.",
   "zoneNeighborhoods": [
     "Guardiola de Berguedà",
     "La Pobla de Lillet",
@@ -150,10 +135,6 @@
     "B-400 (hacia Bagà)"
   ],
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Sant Julià de Cerdanyola?",
-      "a": "Sí. Ofrecemos servicio de recogida y entrega a domicilio en Sant Julià de Cerdanyola y en todos los municipios del Berguedà norte, incluidos Guardiola, La Pobla de Lillet y Bagà. Solo tienes que llamarnos o escribirnos por WhatsApp para coordinar día y hora."
-    },
     {
       "q": "¿Cada cuánto debo revisar los frenos si bajo puertos habitualmente?",
       "a": "En conducción de montaña con descensos frecuentes, recomendamos revisar discos y pastillas cada 15.000 km o una vez al año, el doble de frecuencia que en uso urbano. La cristalización de pastillas no siempre se detecta por grosor, así que la inspección visual de la superficie es fundamental."
@@ -176,7 +157,7 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda la montaña",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y te preparamos un presupuesto sin compromiso. Recogemos tu coche en Sant Julià de Cerdanyola y alrededores.",
+  "closingCta": "Llámanos o escríbenos por WhatsApp y te preparamos un presupuesto sin compromiso.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

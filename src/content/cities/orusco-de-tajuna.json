@@ -7,7 +7,7 @@
   "lat": 40.294,
   "lng": -3.2113,
   "metaTitle": "Taller BMW cerca de Orusco de Tajuña | Sureste de Madrid",
-  "metaDescription": "Diagnóstico y reparación BMW para Orusco de Tajuña y el Sureste de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito.",
+  "metaDescription": "Diagnóstico y reparación BMW para Orusco de Tajuña y el Sureste de Madrid.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Orusco de Tajuña, junto al río Tajuña.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Orusco de Tajuña, con poco más de 1.300 habitantes, es uno de esos pueblos del Sureste de Madrid donde la vida gira en torno al valle del Tajuña y a los desplazamientos diarios hacia Arganda o Madrid capital. No hay taller especializado en BMW en el propio pueblo, así que atendemos a sus vecinos desde nuestras instalaciones, con recogida si el coche no está en condiciones de moverse.\n\nEl perfil habitual del cliente de Orusco es alguien que hace bastantes kilómetros de carretera comarcal y de autovía, con lo que prestamos especial atención al desgaste de suspensión, frenos y a la salud general del motor en revisiones periódicas.",
-  "servicesIntro": "Diagnóstico y reparación BMW con recogida disponible para clientes de Orusco de Tajuña.",
+  "introLocal": "Orusco de Tajuña, con poco más de 1.300 habitantes, es uno de esos pueblos del Sureste de Madrid donde la vida gira en torno al valle del Tajuña y a los desplazamientos diarios hacia Arganda o Madrid capital. No hay taller especializado en BMW en el propio pueblo, así que atendemos a sus vecinos desde nuestras instalaciones.\n\nEl perfil habitual del cliente de Orusco es alguien que hace bastantes kilómetros de carretera comarcal y de autovía, con lo que prestamos especial atención al desgaste de suspensión, frenos y a la salud general del motor en revisiones periódicas.",
+  "servicesIntro": "Diagnóstico y reparación BMW.",
   "processIntro": "El proceso que seguimos cuando el cliente viene desde Orusco de Tajuña o el valle del Tajuña.",
   "processSteps": [
     {
@@ -104,20 +104,12 @@
   "zoneText": "Damos servicio a Orusco de Tajuña y a los municipios del valle del Tajuña, una zona con bastante tránsito hacia Arganda y Madrid.",
   "faqLocal": [
     {
-      "q": "¿Ofrecéis recogida desde Orusco de Tajuña?",
-      "a": "Sí, especialmente si el coche no está en condiciones de circular con seguridad."
-    },
-    {
       "q": "¿Trabajáis con coches que hacen trayecto diario hacia Arganda?",
       "a": "Sí, es un perfil habitual entre nuestros clientes de la zona."
     },
     {
       "q": "¿Dais presupuesto por teléfono antes de mover el coche?",
       "a": "Damos una orientación inicial, el presupuesto cerrado llega tras el diagnóstico."
-    },
-    {
-      "q": "¿Cuánto puede tardar la recogida?",
-      "a": "Normalmente el mismo día o al siguiente, según agenda y distancia."
     },
     {
       "q": "¿Reparáis averías de sensores que encienden el testigo de motor?",
@@ -129,7 +121,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, atendido aunque vivas junto al Tajuña",
-  "closingCta": "Escríbenos desde Orusco de Tajuña y coordinamos la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +133,6 @@
   },
   "testimonialsIntro": "Testimonio de un vecino de Orusco de Tajuña.",
   "testimonials": [
-    {
-      "name": "Baldomero Vaquerizo",
-      "neighborhood": "Orusco de Tajuña",
-      "body": "Me recogieron el coche cuando se quedó con el testigo de motor encendido en medio de la carretera. Rapidez y buen diagnóstico del sensor.",
-      "rating": 5
-    },
     {
       "name": "Presentación Mangas",
       "neighborhood": "Ambite (cerca de Orusco)",

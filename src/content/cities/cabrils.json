@@ -7,7 +7,7 @@
   "lat": 41.53058,
   "lng": 2.37118,
   "metaTitle": "Taller BMW en Cabrils | Maresme, sobre la costa",
-  "metaDescription": "Taller especializado BMW en Cabrils. Diagnosis oficial, mantenimiento y reparación con recogida a domicilio. Cerca de Vilassar de Mar y Mataró.",
+  "metaDescription": "Taller especializado BMW en Cabrils. Diagnosis oficial, mantenimiento y reparación. Cerca de Vilassar de Mar y Mataró.",
   "heroSubtitle": "El taller BMW de confianza en Cabrils, en las colinas del Maresme sobre la costa.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cabrils es un municipio de algo más de 7.000 habitantes en el Maresme, situado en las colinas que dominan la costa entre Vilassar de Mar y Mataró, uno de los municipios con mayor renta per cápita de la comarca, con muchas viviendas unifamiliares en pendiente y vistas al mar.\n\nEl propietario de BMW en Cabrils combina el trayecto diario hacia Barcelona por la C-32 con un uso muy local en calles estrechas y con pendiente pronunciada, típicas de un municipio construido sobre una colina, lo que exige un cuidado especial del embrague y los frenos.\n\nNo hay taller especializado BMW en Cabrils, así que ofrecemos recogida a domicilio en el municipio, evitando el desplazamiento hasta Vilassar de Mar o Mataró para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Cabrils.",
+  "introLocal": "Cabrils es un municipio de algo más de 7.000 habitantes en el Maresme, situado en las colinas que dominan la costa entre Vilassar de Mar y Mataró, uno de los municipios con mayor renta per cápita de la comarca, con muchas viviendas unifamiliares en pendiente y vistas al mar.\n\nEl propietario de BMW en Cabrils combina el trayecto diario hacia Barcelona por la C-32 con un uso muy local en calles estrechas y con pendiente pronunciada, típicas de un municipio construido sobre una colina, lo que exige un cuidado especial del embrague y los frenos.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para las cuestas pronunciadas y la proximidad al mar que caracterizan a Cabrils.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Cabrils",
-      "body": "Vamos a buscar el coche a tu domicilio en el municipio."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso en cuestas y proximidad al mar, como en Cabrils.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Cabrils",
-      "body": "No hace falta que te desplaces hasta Vilassar de Mar o Mataró."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué componentes revisar primero por la combinación de pendiente y sal marina."
     }
   ],
-  "zoneText": "Damos servicio a Cabrils y a los municipios cercanos del Maresme como Vilassar de Mar y Mataró, con recogida a domicilio para quienes combinan cuestas pronunciadas con trayecto diario por la C-32.",
+  "zoneText": "Damos servicio a Cabrils y a los municipios cercanos del Maresme como Vilassar de Mar y Mataró.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Cabrils?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso en cuestas pronunciadas?",
       "a": "Es el perfil más habitual en Cabrils, con mucha experiencia."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado sobre la costa del Maresme",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Cabrils y alrededores.",
   "testimonials": [
-    {
-      "name": "Bernat Illa",
-      "neighborhood": "Cabrils",
-      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Barcelona.",
-      "rating": 5
-    },
     {
       "name": "Mariona Bosch",
       "neighborhood": "Cabrils",
