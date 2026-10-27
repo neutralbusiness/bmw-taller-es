@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Velilla de San Antonio está muy próxima a la A-3 y a Rivas-Vaciamadrid, lo que convierte en habitual el trayecto diario hacia Madrid capital o hacia los polígonos de Coslada y San Fernando de Henares. Ese uso constante en autovía desgasta el turbo y la caja automática antes de lo que indicaría el manual del fabricante.\n\nNo tenemos taller en el propio municipio, pero organizamos la recogida del coche con el mismo protocolo de diagnosis que emplea la red oficial BMW.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Velilla de San Antonio.",
+  "introLocal": "Velilla de San Antonio está muy próxima a la A-3 y a Rivas-Vaciamadrid, lo que convierte en habitual el trayecto diario hacia Madrid capital o hacia los polígonos de Coslada y San Fernando de Henares. Ese uso constante en autovía desgasta el turbo y la caja automática antes de lo que indicaría el manual del fabricante.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Velilla de San Antonio.",
   "processIntro": "Un proceso claro que no exige que pierdas tu jornada laboral.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Velilla de San Antonio",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen a diario el trayecto por la A-3.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Velilla de San Antonio",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Velilla de San Antonio y los municipios cercanos que conectan con Madrid por la A-3.",
+  "zoneText": "Servicio para Velilla de San Antonio y los municipios cercanos que conectan con Madrid por la A-3.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Velilla de San Antonio?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,12 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
   "closingHeadline": "Tu BMW bien cuidado, junto al Jarama",
-  "closingCta": "Contacta y organizamos la recogida en Velilla de San Antonio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Vecinos de Velilla de San Antonio que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Aurelio Rivas",
-      "neighborhood": "Velilla de San Antonio",
-      "body": "Recogieron el coche y me devolvieron el presupuesto en un par de horas, tal cual dijeron.",
-      "rating": 5
-    },
     {
       "name": "Yolanda Mejorada",
       "neighborhood": "Velilla de San Antonio",
@@ -190,7 +160,7 @@
         "h2": "M-208, R-3, M-30 y A-1",
         "parrafos": [
           "La M-208 pasa a 0,2 km del centro y la R-3 a 1,8. La ruta hasta la calle Valgrande de Alcobendas encadena las dos, cruza por la M-30 y sale por la A-1: 34,2 km por carretera, 23,7 en línea recta.",
-          "Para trabajos de varios días, el taller tiene vehículo de cortesía y recogida y entrega dentro del área metropolitana de Madrid, ambos sujetos a disponibilidad. Pregunta al reservar si tu calle entra."
+          "Para trabajos de varios días, el taller tiene vehículo de cortesía. Pregunta al reservar si tu calle entra."
         ]
       },
       {
@@ -218,10 +188,6 @@
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
         "a": "34,2 km por la M-208, la R-3, la M-30 y la A-1, hasta la calle Valgrande 17 de Alcobendas."
-      },
-      {
-        "q": "¿Podéis recoger el coche en Velilla?",
-        "a": "La recogida y entrega se ofrece dentro del área metropolitana de Madrid, sujeta a disponibilidad: confírmala al pedir cita."
       },
       {
         "q": "¿Cuál es el concesionario BMW más cercano?",

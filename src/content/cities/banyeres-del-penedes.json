@@ -7,7 +7,7 @@
   "lat": 41.2704,
   "lng": 1.56095,
   "metaTitle": "Taller BMW en Banyeres del Penedès | Baix Penedès",
-  "metaDescription": "Taller especializado BMW cerca de Banyeres del Penedès. Diagnosis oficial, mantenimiento y reparación con recogida. Cerca de l'Arboç y el Vendrell.",
+  "metaDescription": "Taller especializado BMW cerca de Banyeres del Penedès. Diagnosis oficial, mantenimiento y reparación. Cerca de l'Arboç y el Vendrell.",
   "heroSubtitle": "El taller BMW de confianza entre viñedos, a un paso de la AP-7 y del Vendrell.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Banyeres del Penedès es un municipio pequeño del Baix Penedès, de poco más de 2.000 habitantes, situado entre l'Arboç y el Vendrell, en una zona de viñedos y masías que combina población tradicional con quienes han buscado aquí una vivienda más tranquila y asequible que en la costa.\n\nEl acceso a la AP-7 está a pocos minutos, lo que hace que muchos vecinos trabajen en Tarragona, Vilafranca o incluso Barcelona y usen el coche a diario para trayectos largos de autopista, además del uso habitual por las carreteras comarcales de la zona.\n\nNo hay taller especializado BMW en el municipio, así que ofrecemos recogida directa en Banyeres del Penedès, evitando el desplazamiento hasta el Vendrell o Tarragona para cualquier mantenimiento o avería.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en Banyeres del Penedès.",
+  "introLocal": "Banyeres del Penedès es un municipio pequeño del Baix Penedès, de poco más de 2.000 habitantes, situado entre l'Arboç y el Vendrell, en una zona de viñedos y masías que combina población tradicional con quienes han buscado aquí una vivienda más tranquila y asequible que en la costa.\n\nEl acceso a la AP-7 está a pocos minutos, lo que hace que muchos vecinos trabajen en Tarragona, Vilafranca o incluso Barcelona y usen el coche a diario para trayectos largos de autopista, además del uso habitual por las carreteras comarcales de la zona.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien combina carreteras comarcales con trayectos largos de autopista.",
   "processSteps": [
     {
       "title": "Contacto inicial",
       "body": "Nos cuentas la avería o el mantenimiento pendiente y te orientamos sin compromiso."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Vamos a buscar el coche a Banyeres del Penedès en el horario que te convenga."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega en Banyeres",
-      "body": "Devolvemos el vehículo en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso mixto comarcal y autopista, como el de Banyeres del Penedès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida directa en Banyeres",
-      "body": "No hace falta que te desplaces hasta el Vendrell o Tarragona."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué desgastes buscar primero en este tipo de trayecto."
     }
   ],
-  "zoneText": "Damos servicio a Banyeres del Penedès y su entorno rural del Baix Penedès, cerca de l'Arboç y el Vendrell, con recogida directa en el municipio para evitar desplazamientos innecesarios.",
+  "zoneText": "Damos servicio a Banyeres del Penedès y su entorno rural del Baix Penedès, cerca de l'Arboç y el Vendrell.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Banyeres del Penedès?",
-      "a": "Sí, vamos directamente al pueblo sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso mixto autopista-comarcal?",
       "a": "Es el perfil más habitual en Banyeres, así que sí, con mucha experiencia."
@@ -128,8 +112,7 @@
       "a": "Sí, dejamos el coche listo para pasarla en el Vendrell o Tarragona."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir de Banyeres",
-  "closingCta": "Escríbenos y coordinamos la recogida en el pueblo.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +124,6 @@
   },
   "testimonialsIntro": "Lo que dicen los vecinos de Banyeres del Penedès.",
   "testimonials": [
-    {
-      "name": "Enric Balcells",
-      "neighborhood": "Banyeres del Penedès",
-      "body": "Vinieron a buscar el coche al pueblo y me lo devolvieron el mismo día. Muy cómodo para quien trabaja en Tarragona.",
-      "rating": 5
-    },
     {
       "name": "Meritxell Ollé",
       "neighborhood": "Banyeres del Penedès",

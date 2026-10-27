@@ -40,10 +40,6 @@
       "body": "Nos describes la incidencia por teléfono o WhatsApp. Si es posible, te pedimos fotos o vídeos del problema para hacer una primera valoración antes de que muevas el coche."
     },
     {
-      "title": "Recogida o cita coordinada",
-      "body": "Organizamos la recogida del vehículo en Oristà o fijamos una cita que te permita combinar el desplazamiento con otras gestiones, para que no pierdas un día entero."
-    },
-    {
       "title": "Diagnóstico con equipo BMW",
       "body": "Conectamos tu BMW al sistema de diagnóstico oficial para leer todos los códigos de error y verificar el estado real de cada componente, sin conjeturas."
     },
@@ -90,7 +86,7 @@
     },
     {
       "title": "Servicio adaptado al mundo rural",
-      "body": "Entendemos que en Oristà el coche no es un lujo sino una necesidad diaria. Por eso priorizamos tiempos de reparación cortos y coordinamos recogidas para evitar desplazamientos innecesarios."
+      "body": "Entendemos que en Oristà el coche no es un lujo sino una necesidad diaria."
     },
     {
       "title": "Piezas originales y garantía",
@@ -111,24 +107,10 @@
       "rating": 5
     },
     {
-      "name": "Neus Vilardaga",
-      "neighborhood": "El Prat d'Oristà",
-      "car": "BMW 320d Touring",
-      "body": "Hago 70 km diarios entre Oristà y Vic por carreteras de montaña. Los frenos se me gastaban cada 15.000 km. Me recomendaron unas pastillas de alta resistencia y ahora aguantan el doble. Además vinieron a recoger el coche, que para mí fue fundamental.",
-      "rating": 5
-    },
-    {
       "name": "Enric Casadevall",
       "neighborhood": "Sant Andreu de Castellcir",
       "car": "BMW 520d",
       "body": "Un jabalí me destrozó el paragolpes delantero y el radiador una noche volviendo a casa. Me lo repararon con piezas originales y recalibraron todos los sensores. El coche quedó como nuevo y el seguro cubrió todo sin problemas con su presupuesto detallado.",
-      "rating": 5
-    },
-    {
-      "name": "Marta Corominas",
-      "neighborhood": "Oristà centre",
-      "car": "BMW X1 sDrive18d",
-      "body": "Mi X1 no arrancaba una mañana de enero con -4 grados. Me cambiaron la batería a domicilio ese mismo día. Desde entonces hago la revisión preventiva antes del invierno y no he vuelto a tener ningún susto.",
       "rating": 5
     }
   ],
@@ -150,16 +132,12 @@
   ],
   "faqLocal": [
     {
-      "q": "¿Ofrecéis recogida de vehículos en Oristà?",
-      "a": "Sí, coordinamos la recogida de tu BMW en Oristà y las masías del término municipal. Sabemos que las distancias a talleres urbanos son importantes y organizamos el servicio para que no tengas que desplazarte."
-    },
-    {
       "q": "¿Cómo protejo mi BMW de la humedad del bosque?",
       "a": "Recomendamos un tratamiento anticorrosión en los bajos del vehículo, revisión semestral de juntas de faros y sensores, y un plan de mantenimiento con intervalos reducidos para filtros de aire y habitáculo."
     },
     {
       "q": "¿Qué hago si un jabalí impacta contra mi BMW?",
-      "a": "No muevas el vehículo si hay daños estructurales visibles. Llámanos y coordinamos la grúa y la reparación. Preparamos un presupuesto detallado compatible con las aseguradoras para que tramites el parte sin complicaciones."
+      "a": "No muevas el vehículo si hay daños estructurales visibles. Preparamos un presupuesto detallado compatible con las aseguradoras para que tramites el parte sin complicaciones."
     },
     {
       "q": "¿Cada cuánto debo revisar los frenos si conduzco por montaña?",
@@ -175,7 +153,7 @@
     }
   ],
   "closingHeadline": "Tu BMW en Oristà merece un taller que entienda el bosque",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita sin esperas. Recogemos tu BMW en Oristà y alrededores para que no tengas que preocuparte por el desplazamiento.",
+  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita sin esperas.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -215,7 +193,7 @@
         "id": "c670-c16",
         "h2": "94,5 km por la C-670, la C-25 y la C-16",
         "parrafos": [
-          "La ruta desde el núcleo de Oristà hasta Sant Joan Despí sale por la C-670, que pasa a menos de tres kilómetros, sigue por la C-25 y baja por la C-16 y la B-20: 94,5 km por carretera, 63,1 en línea recta. La recogida del taller es solo para el área metropolitana y no llega aquí.",
+          "La ruta desde el núcleo de Oristà hasta Sant Joan Despí sale por la C-670, que pasa a menos de tres kilómetros, sigue por la C-25 y baja por la C-16 y la B-20: 94,5 km por carretera, 63,1 en línea recta.",
           "Para que el viaje compense, conviene haberlo hablado antes: el modelo, el año y qué hace exactamente el coche bastan para orientar si es algo que merece bajar o se puede resolver cerca."
         ]
       }

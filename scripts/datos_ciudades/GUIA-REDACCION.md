@@ -27,8 +27,9 @@ rellena.
     propios (Alcobendas y Sant Joan Despí), horario L-V 9-14 y 15-18, presupuesto
     por escrito y nada se empieza sin aprobación, la diagnosis se presupuesta,
     trabajan MINI, homologación REDISTA (escape y gases), especialidad diésel
-    N47/N57/M47/M57/B47/B57, vehículo de cortesía y recogida/entrega **dentro del
-    área metropolitana de Madrid y de Barcelona, sujeto a disponibilidad**.
+    N47/N57/M47/M57/B47/B57, vehículo de cortesía **sujeto a disponibilidad**. **No hay recogida
+    ni entrega del coche** (ni a domicilio ni dentro del área metropolitana):
+    no se menciona en ningún sitio (27-oct-2026).
   - Mecánica general BMW verdadera (registro de batería, líquido de frenos por
     tiempo, regeneración del filtro de partículas, salitre y corrosión…), sin
     cifras de averías ni estadísticas «del taller».
@@ -102,7 +103,6 @@ servicios», «Zona de cobertura»…).
 | Lo que se busca desde aquí | consultas de Search Console claras (las muestra `resumen.py`, desde `cache/paso_gsc.json`): concesionario, «talleres en X», MINI, precios | aclarar honestamente qué es esto y qué no |
 | Ruta al taller | siempre que haya socio con dirección | `km_carretera`, `km_linea_recta`, `vias_de_la_ruta` |
 | Cuándo compensa el viaje / cuándo no | `distancia_taller` media o lejos (40+ km) | km + servicios del taller |
-| Recogida y cortesía | solo municipios del AMB o del área metropolitana de Madrid, con «sujeto a disponibilidad» | FAQ de la raíz |
 | ITV | estación en el municipio (lista) o la más próxima | `itv.en_el_municipio`, `itv.mas_cercana` |
 | Servicio oficial y taller independiente | siempre útil, sin desprestigiar | `bmw_servicio_oficial_mas_cercano` (+ 461/2010 **solo si no se ha usado ya en tu tanda más de 1 de cada 5 veces**) |
 | El parque de coches / la población | hay turismos o una evolución llamativa | `poblacion`, `turismos` |
@@ -133,8 +133,9 @@ Cifras con punto de miles y coma decimal (3.506.730; 20,5 km).
   muchos clientes de X», «Hecho en X».
 - «Taller oficial»; somos taller independiente. ISTA/Rheingold (no está
   acreditado en la web de Dasercars).
-- Recogida a domicilio fuera del área metropolitana o sin «sujeto a
-  disponibilidad»; coche de sustitución garantizado.
+- Cualquier recogida o entrega del coche (a domicilio, «recogemos tu coche»,
+  «recogida dentro del AMB», «puerta a puerta»): no se hace; coche de
+  sustitución garantizado.
 - Cifras de negocio: años de experiencia, número de clientes, «desde 2009».
 - Superlativos sin dato: «el municipio que más crece», «más coches que en
   ningún sitio». Si quieres comparar, compara con una cifra del fichero de

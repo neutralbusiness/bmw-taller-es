@@ -7,7 +7,7 @@
   "lat": 41.35988,
   "lng": 1.7782,
   "metaTitle": "Taller BMW en Avinyonet del Penedès | Alt Penedès",
-  "metaDescription": "Taller especializado BMW cerca de Avinyonet del Penedès, entre Vilafranca y Sant Sadurní. Diagnosis oficial, mantenimiento y reparación con recogida.",
+  "metaDescription": "Taller especializado BMW cerca de Avinyonet del Penedès, entre Vilafranca y Sant Sadurní. Diagnosis oficial, mantenimiento y reparación.",
   "heroSubtitle": "El taller BMW de confianza para los payeses y viajeros diarios que recorren las carreteras del Penedès entre viñedos.",
   "trustChips": [
     {
@@ -31,17 +31,12 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Avinyonet del Penedès es un municipio pequeño del Alt Penedès formado por varios núcleos dispersos (Sant Sebastià dels Gorgs, Torre-ramona, Els Monjos), rodeado de viñas y bodegas, a un cuarto de hora de Vilafranca del Penedès y otro tanto de Sant Sadurní d'Anoia, capital del cava.\n\nEl perfil de propietario de BMW aquí combina al payés o empresario del sector vitivinícola que recorre a diario las carreteras BV-2249 y la C-15 hacia Vilafranca, con quien trabaja en el corredor de la AP-7 y usa Avinyonet como residencia tranquila fuera de Barcelona.\n\nNo hay taller especializado BMW en el propio municipio, así que damos servicio de recogida en cualquiera de sus núcleos y devolvemos el coche una vez reparado, evitando el viaje a Vilafranca o Barcelona.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en cualquiera de los núcleos de Avinyonet.",
-  "processIntro": "Coordinamos la logística para que la dispersión del municipio en varios núcleos no sea un problema.",
+  "introLocal": "Avinyonet del Penedès es un municipio pequeño del Alt Penedès formado por varios núcleos dispersos (Sant Sebastià dels Gorgs, Torre-ramona, Els Monjos), rodeado de viñas y bodegas, a un cuarto de hora de Vilafranca del Penedès y otro tanto de Sant Sadurní d'Anoia, capital del cava.\n\nEl perfil de propietario de BMW aquí combina al payés o empresario del sector vitivinícola que recorre a diario las carreteras BV-2249 y la C-15 hacia Vilafranca, con quien trabaja en el corredor de la AP-7 y usa Avinyonet como residencia tranquila fuera de Barcelona.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processSteps": [
     {
       "title": "Consulta inicial",
       "body": "Nos cuentas el problema o el mantenimiento que toca y te orientamos por teléfono."
-    },
-    {
-      "title": "Recogida en tu núcleo",
-      "body": "Vamos a buscar el coche a Els Monjos, Sant Sebastià dels Gorgs o donde te venga mejor."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +45,6 @@
     {
       "title": "Presupuesto antes de intervenir",
       "body": "Te llamamos con el precio cerrado antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega en el mismo punto",
-      "body": "Devolvemos el vehículo donde lo recogimos, listo para rodar."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan a diario por las carreteras del Penedès.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en cualquier núcleo del municipio",
-      "body": "No importa si vives en Els Monjos o en Sant Sebastià dels Gorgs, vamos a buscar el coche."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, con presupuestos más ajustados."
     },
@@ -103,10 +90,6 @@
   ],
   "zoneText": "Trabajamos en todo el término de Avinyonet del Penedès y sus núcleos dispersos, en el corazón del Alt Penedès, entre viñedos y a un paso de Vilafranca y Sant Sadurní d'Anoia.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Els Monjos aunque no sea el núcleo principal?",
-      "a": "Sí, recogemos en cualquiera de los núcleos del municipio."
-    },
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
       "a": "Normalmente el mismo día que hacemos la diagnosis."
@@ -129,7 +112,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado entre viñedos sin salir de Avinyonet",
-  "closingCta": "Contacta con nosotros y coordinamos la recogida en tu núcleo del municipio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +124,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Avinyonet y el Alt Penedès.",
   "testimonials": [
-    {
-      "name": "Marta Rovira Puig",
-      "neighborhood": "Els Monjos",
-      "body": "Vinieron a buscar el coche a Els Monjos y me lo devolvieron el mismo día con la avería del turbo resuelta.",
-      "rating": 5
-    },
     {
       "name": "Xavier Solé",
       "neighborhood": "Sant Sebastià dels Gorgs",

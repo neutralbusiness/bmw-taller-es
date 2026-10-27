@@ -7,7 +7,7 @@
   "lat": 40.83947,
   "lng": -3.26577,
   "metaTitle": "Taller BMW cerca de Malaguilla | BMW Taller Guadalajara",
-  "metaDescription": "Servicio especializado en BMW para Malaguilla y la comarca de Guadalajara. Diagnóstico oficial y presupuesto claro, con recogida a domicilio.",
+  "metaDescription": "Servicio especializado en BMW para Malaguilla y la comarca de Guadalajara. Diagnóstico oficial y presupuesto claro.",
   "heroSubtitle": "Atención especializada BMW para Malaguilla",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Malaguilla es un municipio pequeño de la provincia de Guadalajara, con un ritmo de vida tranquilo y sin talleres especializados en BMW en el propio pueblo. Los vecinos que tienen uno suelen desplazarse hacia Guadalajara capital o Madrid para cualquier revisión seria.\n\nOfrecemos recogida a domicilio para facilitar el mantenimiento sin necesidad de recorrer kilómetros de carretera, manteniendo el mismo nivel de diagnóstico oficial que en cualquier otra zona de nuestra red.",
-  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW, con recogida a domicilio.",
+  "introLocal": "Malaguilla es un municipio pequeño de la provincia de Guadalajara, con un ritmo de vida tranquilo y sin talleres especializados en BMW en el propio pueblo. Los vecinos que tienen uno suelen desplazarse hacia Guadalajara capital o Madrid para cualquier revisión seria.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW.",
   "processIntro": "Facilitamos el proceso para quienes viven en un pueblo pequeño sin taller especializado cercano.",
   "processSteps": [
     {
       "title": "Contacto",
       "body": "Nos cuentas el síntoma del coche por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida",
-      "body": "Coordinamos la recogida del vehículo en Malaguilla."
     },
     {
       "title": "Diagnóstico",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto",
       "body": "Coste detallado antes de reparar nada."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el coche en el punto acordado contigo."
     }
   ],
   "commonIssuesIntro": "En los BMW de Malaguilla y alrededores vemos con frecuencia:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Evita el desplazamiento hasta Guadalajara o Madrid."
-    },
-    {
       "title": "Diagnóstico oficial",
       "body": "Mismo nivel técnico que un concesionario BMW."
     },
@@ -101,12 +89,8 @@
       "body": "En cada reparación realizada."
     }
   ],
-  "zoneText": "Atendemos Malaguilla y municipios cercanos de la comarca de Guadalajara, con recogida a domicilio como servicio habitual.",
+  "zoneText": "Atendemos Malaguilla y municipios cercanos de la comarca de Guadalajara.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Malaguilla?",
-      "a": "Sí, es nuestro servicio habitual para localidades pequeñas de la comarca."
-    },
     {
       "q": "¿Hay que desplazarse hasta el taller?",
       "a": "No necesariamente, podemos gestionar todo sin que te muevas."
@@ -122,14 +106,9 @@
     {
       "q": "¿Qué garantía tienen las reparaciones?",
       "a": "12 meses en mano de obra, según la pieza utilizada."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida y devolución?",
-      "a": "Depende de la reparación; te damos plazo estimado al confirmar el diagnóstico."
     }
   ],
-  "closingHeadline": "El taller BMW llega hasta Malaguilla",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que tengas que desplazarte.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Opinión de un vecino de Malaguilla:",
   "testimonials": [
-    {
-      "name": "Javier R.",
-      "neighborhood": "Malaguilla",
-      "body": "Vinieron a recoger el coche sin que tuviera que desplazarme hasta Guadalajara. Presupuesto claro desde el principio.",
-      "rating": 5
-    },
     {
       "name": "Dolors E.",
       "neighborhood": "Malaguilla",

@@ -7,7 +7,7 @@
   "lat": 40.75747,
   "lng": -3.46393,
   "metaTitle": "Taller BMW cerca de Valdepiélagos | Sierra Norte de Madrid",
-  "metaDescription": "Servicio BMW para Valdepiélagos: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible. Pide cita.",
+  "metaDescription": "Servicio BMW para Valdepiélagos: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Pide cita.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdepiélagos, en la Sierra Norte de Madrid.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdepiélagos es un municipio pequeño cerca del Jarama, con acceso rápido a la A-1 que muchos vecinos usan a diario para llegar a Madrid capital. Ese trayecto de autovía repetido es el que más desgasta el turbo y la caja automática en los BMW diésel de la zona.\n\nNo tenemos taller en el propio pueblo, pero recogemos el coche para que no dependas de bajar hasta la ciudad para el mantenimiento habitual.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valdepiélagos y la Sierra Norte.",
+  "introLocal": "Valdepiélagos es un municipio pequeño cerca del Jarama, con acceso rápido a la A-1 que muchos vecinos usan a diario para llegar a Madrid capital. Ese trayecto de autovía repetido es el que más desgasta el turbo y la caja automática en los BMW diésel de la zona.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valdepiélagos y la Sierra Norte.",
   "processIntro": "Un proceso simple, sin necesidad de perder la mañana en desplazamientos.",
   "processSteps": [
-    {
-      "title": "Consulta por teléfono",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Valdepiélagos",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen a diario el trayecto por la A-1.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdepiélagos",
-      "body": "No hace falta que interrumpas tu jornada."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdepiélagos y los municipios cercanos que conectan con Madrid por la A-1.",
+  "zoneText": "Servicio para Valdepiélagos y los municipios cercanos que conectan con Madrid por la A-1.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdepiélagos?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,11 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
-  "closingHeadline": "Tu BMW bien cuidado, sin salir de la Sierra Norte",
-  "closingCta": "Contacta y organizamos la recogida en Valdepiélagos.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdepiélagos que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Ramiro Talamanca",
-      "neighborhood": "Valdepiélagos",
-      "body": "Recogieron el coche y me devolvieron el presupuesto por WhatsApp en un par de horas.",
-      "rating": 5
-    },
     {
       "name": "Elvira Fuentemilanos",
       "neighborhood": "Valdepiélagos",

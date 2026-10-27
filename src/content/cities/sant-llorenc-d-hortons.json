@@ -7,7 +7,7 @@
   "lat": 41.47084,
   "lng": 1.83517,
   "metaTitle": "Taller BMW cerca de Sant Llorenç d'Hortons | Alt Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Llorenç d'Hortons, Alt Penedès. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Llorenç d'Hortons, Alt Penedès. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Llorenç d'Hortons",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Llorenç d'Hortons es un municipio pequeño del Alt Penedès, con varios núcleos de población dispersos (el propio Sant Llorenç, La Beguda Alta, Can Rossell) y buena conexión con Martorell y Igualada. No hay taller BMW especializado en el municipio, así que los propietarios de la marca suelen recurrir a Martorell o Vilafranca.\n\nOfrecemos recogida del vehículo en cualquiera de los núcleos de Sant Llorenç d'Hortons, con diagnosis realizada siempre con el software oficial de BMW.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Llorenç d'Hortons es un municipio pequeño del Alt Penedès, con varios núcleos de población dispersos (el propio Sant Llorenç, La Beguda Alta, Can Rossell) y buena conexión con Martorell y Igualada. No hay taller BMW especializado en el municipio, así que los propietarios de la marca suelen recurrir a Martorell o Vilafranca.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio con núcleos dispersos y sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en cualquier núcleo del municipio",
-      "body": "Coordinamos la recogida en Sant Llorenç, La Beguda Alta o Can Rossell."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona del Alt Penedès cercana a Martorell.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en todos los núcleos del municipio",
-      "body": "No importa si vives en Sant Llorenç, La Beguda Alta o Can Rossell."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -101,16 +89,8 @@
       "body": "Tú decides el nivel de pieza según antigüedad y kilometraje."
     }
   ],
-  "zoneText": "Sant Llorenç d'Hortons agrupa varios núcleos de población en el Alt Penedès, con buena conexión hacia Martorell y la AP-7, algo que facilita la recogida del vehículo desde cualquiera de ellos.",
+  "zoneText": "Sant Llorenç d'Hortons agrupa varios núcleos de población en el Alt Penedès, con buena conexión hacia Martorell y la AP-7.",
   "faqLocal": [
-    {
-      "q": "¿Hay taller BMW en Sant Llorenç d'Hortons?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Recogéis el coche en La Beguda Alta también?",
-      "a": "Sí, recogemos en cualquiera de los núcleos del municipio, no solo en el centro."
-    },
     {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Martorell?",
       "a": "Sí, recibimos habitualmente clientes de Martorell y de toda la comarca."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Llorenç d'Hortons",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Llorenç d'Hortons que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Oriol M.",
-      "neighborhood": "La Beguda Alta",
-      "body": "Recogieron el coche en La Beguda sin problema y me lo devolvieron reparado en el plazo acordado.",
-      "rating": 5
-    },
     {
       "name": "Marta S.",
       "neighborhood": "Sant Llorenç d'Hortons",

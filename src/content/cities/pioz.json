@@ -7,7 +7,7 @@
   "lat": 40.46085,
   "lng": -3.16689,
   "metaTitle": "Taller BMW cerca de Pioz | Corredor del Henares, Guadalajara",
-  "metaDescription": "Servicio BMW para Pioz: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Corredor del Henares, cerca de Guadalajara.",
+  "metaDescription": "Servicio BMW para Pioz: diagnosis original y reparación en el taller de referencia del Corredor del Henares, cerca de Guadalajara.",
   "heroSubtitle": "Corredor del Henares, mecánica BMW sin cruzar a Madrid",
   "trustChips": [
     {
@@ -31,7 +31,7 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Pioz es un municipio de unos 3.000 habitantes en la provincia de Guadalajara, en pleno Corredor del Henares, muy cerca de Azuqueca de Henares y de la propia capital, Guadalajara. Su crecimiento en los últimos años como zona residencial ha traído bastantes BMW, sobre todo entre quienes trabajan en el corredor logístico o se desplazan hacia Madrid por la A-2.\n\nNo hay taller especializado en BMW dentro de Pioz, así que damos servicio desde el taller de referencia más cercano en el corredor, con recogida disponible en las urbanizaciones y en el casco antiguo.\n\nEl uso típico que vemos aquí es de trayectos diarios largos y constantes por autovía, lo que desgasta ciertos componentes de forma distinta a un uso puramente urbano, y así lo enfocamos en cada revisión.",
+  "introLocal": "Pioz es un municipio de unos 3.000 habitantes en la provincia de Guadalajara, en pleno Corredor del Henares, muy cerca de Azuqueca de Henares y de la propia capital, Guadalajara. Su crecimiento en los últimos años como zona residencial ha traído bastantes BMW, sobre todo entre quienes trabajan en el corredor logístico o se desplazan hacia Madrid por la A-2.\n\nNo hay taller especializado en BMW dentro de Pioz, así que damos servicio desde el taller de referencia más cercano en el corredor.\n\nEl uso típico que vemos aquí es de trayectos diarios largos y constantes por autovía, lo que desgasta ciertos componentes de forma distinta a un uso puramente urbano, y así lo enfocamos en cada revisión.",
   "servicesIntro": "Mantenimiento programado, frenos, distribución, cajas automáticas y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Pensado para quien hace kilómetros de autovía cada día y no puede permitirse imprevistos.",
   "processSteps": [
@@ -40,20 +40,12 @@
       "body": "Nos cuentas el síntoma y te orientamos antes de mover el coche."
     },
     {
-      "title": "Recogida en Pioz",
-      "body": "Coordinamos recogida en urbanización o casco urbano según te venga mejor."
-    },
-    {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos memoria de averías real antes de proponer cualquier reparación."
     },
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "Devolvemos el coche al punto acordado en Pioz, probado y revisado."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de uso intensivo en autovía, típicas del Corredor del Henares.",
@@ -85,10 +77,6 @@
       "body": "Sabemos qué revisar en coches que hacen kilómetros largos cada día."
     },
     {
-      "title": "Recogida en todo Pioz",
-      "body": "Urbanizaciones y casco urbano cubiertos por igual."
-    },
-    {
       "title": "Diagnosis con equipo original",
       "body": "Precisión de concesionario sin necesidad de cruzar a Madrid."
     },
@@ -105,31 +93,19 @@
   "faqLocal": [
     {
       "q": "¿Hay taller BMW en Pioz mismo?",
-      "a": "No especializado; damos servicio desde el taller de referencia del corredor con recogida en Pioz."
-    },
-    {
-      "q": "¿Cubrís también Valdeluz?",
-      "a": "Sí, la urbanización Valdeluz está dentro de nuestra zona habitual de recogida."
+      "a": "No especializado; damos servicio desde el taller de referencia del corredor."
     },
     {
       "q": "¿Trabajáis con coches usados para trayectos largos diarios?",
       "a": "Es nuestro caso más habitual en esta zona; sabemos qué revisar específicamente."
     },
     {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, salvo urgencias que gestionamos antes."
-    },
-    {
       "q": "¿Emitís factura para empresas?",
       "a": "Sí, factura completa con desglose de piezas y mano de obra."
-    },
-    {
-      "q": "¿Puedo llevar el coche yo mismo?",
-      "a": "Claro, la recogida es opcional; te damos la dirección exacta del taller."
     }
   ],
   "closingHeadline": "El Corredor del Henares también merece un buen mecánico BMW",
-  "closingCta": "Escríbenos y organizamos la recogida en Pioz.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +121,6 @@
       "name": "Gonzalo Iniesta",
       "neighborhood": "Pioz",
       "body": "Hago 80 km diarios por la A-2 y el turbo empezaba a fallar. Ahora va perfecto.",
-      "rating": 5
-    },
-    {
-      "name": "Almudena Reyes",
-      "neighborhood": "Pioz",
-      "body": "Recogieron el coche en la urbanización sin ningún problema, muy cómodo.",
       "rating": 5
     },
     {

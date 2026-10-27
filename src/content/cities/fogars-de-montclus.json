@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llámanos o escríbenos por WhatsApp. Si tienes dificultades de acceso por nieve o hielo, podemos coordinar la recogida."
+      "body": "Llámanos o escríbenos por WhatsApp."
     },
     {
       "title": "Diagnóstico de alta montaña",
@@ -93,10 +93,6 @@
       "body": "Verificamos el rendimiento del turbocompresor y del sistema de refrigeración en condiciones de altitud real."
     },
     {
-      "title": "Recogida en condiciones difíciles",
-      "body": "Si la nieve o el hielo impiden bajar tu BMW, podemos coordinarnos para recogerlo con medios adecuados."
-    },
-    {
       "title": "Diagnóstico completo BMW",
       "body": "Leemos todos los módulos electrónicos con equipos profesionales para un diagnóstico sin puntos ciegos."
     }
@@ -118,13 +114,6 @@
       "rating": 5
     },
     {
-      "name": "Sergi J.",
-      "neighborhood": "Fogars de Montclús",
-      "car": "BMW 320d F31",
-      "body": "Me recogieron el BMW cuando no podía sacarlo por la nieve de enero. Servicio que no encuentras en ningún concesionario de ciudad.",
-      "rating": 5
-    },
-    {
       "name": "Meritxell D.",
       "neighborhood": "Montaña del Montseny",
       "car": "BMW 220d F22",
@@ -132,7 +121,7 @@
       "rating": 4
     }
   ],
-  "zoneText": "Atendemos BMW en Fogars de Montclús, Santa Fe del Montseny y toda la zona de alta montaña del macizo, con servicio de recogida cuando las condiciones lo requieran.",
+  "zoneText": "Atendemos BMW en Fogars de Montclús, Santa Fe del Montseny y toda la zona de alta montaña del macizo.",
   "zoneNeighborhoods": [
     "Campins",
     "Montseny",
@@ -159,10 +148,6 @@
     {
       "q": "¿Puedo subir a Santa Fe con un BMW de tracción trasera?",
       "a": "En condiciones secas, sí. En invierno con hielo o nieve, es arriesgado sin neumáticos de invierno. Los modelos xDrive ofrecen mayor seguridad en estas condiciones."
-    },
-    {
-      "q": "¿Recogéis BMW en zonas con nieve?",
-      "a": "Sí. Disponemos de medios para acceder en condiciones invernales y recoger tu vehículo cuando tú no puedas circular."
     },
     {
       "q": "¿La altitud afecta al turbo de mi BMW?",
@@ -213,7 +198,7 @@
         "id": "hasta-sant-joan-despi",
         "h2": "70,4 km por la AP-7 y la C-33",
         "parrafos": [
-          "La ruta hasta Dasercars Barcelona baja por la BV-5114, toma la AP-7 y después la C-33 y la B-20: 70,4 km por carretera, 52,5 en línea recta. Fogars queda fuera del área metropolitana, y la recogida del taller no llega.",
+          "La ruta hasta Dasercars Barcelona baja por la BV-5114, toma la AP-7 y después la C-33 y la B-20: 70,4 km por carretera, 52,5 en línea recta. Fogars queda fuera del área metropolitana.",
           "Con esa distancia, tiene sentido para un diagnóstico de especialista o una avería que no se ha resuelto cerca. En el taller se presupuesta todo por escrito antes de empezar, incluida la diagnosis."
         ]
       },

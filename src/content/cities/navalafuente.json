@@ -7,7 +7,7 @@
   "lat": 40.82133,
   "lng": -3.67062,
   "metaTitle": "Taller BMW cerca de Navalafuente | Sierra Norte de Madrid",
-  "metaDescription": "Reparación y diagnóstico BMW para Navalafuente y la Sierra Norte de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito. Pide cita.",
+  "metaDescription": "Reparación y diagnóstico BMW para Navalafuente y la Sierra Norte de Madrid. Pide cita.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Navalafuente, sin tener que bajar hasta Madrid capital.",
   "trustChips": [
     {
@@ -32,7 +32,7 @@
     }
   ],
   "introLocal": "Navalafuente es un pueblo pequeño de la Sierra Norte, y como en tantos municipios de esta zona, el taller de barrio más cercano no siempre está preparado para la electrónica de un BMW moderno. Damos servicio a los vecinos de Navalafuente que no quieren cruzar toda la Comunidad de Madrid solo para una revisión o una avería del cuadro de instrumentos.\n\nLa mayoría de coches que recibimos de la zona hacen trayectos largos a diario hacia Madrid o Colmenar Viejo por carretera de montaña, así que prestamos atención especial a suspensión, frenos y al estado de la correa o cadena de distribución en coches con mucho uso de carretera secundaria.",
-  "servicesIntro": "Diagnóstico, mecánica general y electrónica BMW con posibilidad de recogida para clientes de Navalafuente.",
+  "servicesIntro": "Diagnóstico, mecánica general y electrónica BMW para clientes de Navalafuente.",
   "processIntro": "El proceso que seguimos para no hacerte perder un día entero si vienes desde Navalafuente.",
   "processSteps": [
     {
@@ -104,10 +104,6 @@
   "zoneText": "Damos servicio a Navalafuente y a los pueblos vecinos de la Sierra Norte de Madrid, una zona donde el desplazamiento diario por carretera secundaria exige un coche bien puesto a punto.",
   "faqLocal": [
     {
-      "q": "¿Es muy lejos el taller desde Navalafuente?",
-      "a": "Depende del punto exacto, pero solemos coordinar recogida para que no tengas que preocuparte por la distancia."
-    },
-    {
       "q": "¿Puedo dejar el coche una noche si vengo desde tan lejos?",
       "a": "Sí, tenemos aparcamiento seguro para vehículos que se quedan más de un día."
     },
@@ -120,16 +116,12 @@
       "a": "Sí, es de los modelos más comunes que recibimos de la zona."
     },
     {
-      "q": "¿Dais presupuesto antes de recoger el coche?",
-      "a": "Siempre, por teléfono o WhatsApp en cuanto tenemos el diagnóstico."
-    },
-    {
       "q": "¿Aceptáis pago a plazos en reparaciones grandes?",
       "a": "Consúltanos el caso concreto, valoramos opciones cuando la reparación es importante."
     }
   ],
   "closingHeadline": "No hace falta bajar a Madrid para cuidar tu BMW",
-  "closingCta": "Escríbenos desde Navalafuente y organizamos la recogida o la cita en taller.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +137,6 @@
       "name": "Basilio Yagüe",
       "neighborhood": "Navalafuente",
       "body": "Vivo en Navalafuente y hasta ahora tenía que bajar a Madrid para cualquier cosa seria del BMW. Ahora vengo aquí sin dudarlo.",
-      "rating": 5
-    },
-    {
-      "name": "Encarna Prado",
-      "neighborhood": "Navalafuente",
-      "body": "Me recogieron el coche cuando se quedó parado por una avería del sensor de cigüeñal. Rapidez y buen precio.",
       "rating": 5
     },
     {

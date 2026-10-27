@@ -8,7 +8,7 @@
   "lng": 2.1856,
   "metaTitle": "Taller BMW para Santa Eulàlia de Riuprimer (Osona)",
   "metaDescription": "BMW en Santa Eulàlia de Riuprimer: servicio oficial e ITV en Vic y taller especialista independiente en Sant Joan Despí, a 82,5 km. Cuándo compensa.",
-  "heroSubtitle": "Tu BMW revisado por especialistas, sin tener que renunciar a un día de trabajo en Vic o Manresa: recogida y entrega en Santa Eulàlia de Riuprimer.",
+  "heroSubtitle": "Especialistas en BMW para Santa Eulàlia de Riuprimer y la Plana de Vic.",
   "trustChips": [
     {
       "icon": "🔧",
@@ -17,10 +17,6 @@
     {
       "icon": "📍",
       "text": "A 10 minutos de Vic"
-    },
-    {
-      "icon": "🚗",
-      "text": "Recogida en el Lluçanès"
     },
     {
       "icon": "❄️",
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Nuestros técnicos, formados específicamente en la marca, realizan la intervención con recambios de calidad original, respetando los tiempos y pares de apriete que exige BMW."
-    },
-    {
-      "title": "Entrega y seguimiento",
-      "body": "Te devolvemos el coche revisado y probado en carretera, y si vives en el Lluçanès coordinamos la recogida o entrega para que no pierdas un día entero de trabajo."
     }
   ],
   "commonIssuesIntro": "La combinación de trayectos diarios hacia Vic, carreteras de montaña, niebla y heladas frecuentes genera un patrón de desgaste muy particular en los BMW de Santa Eulàlia de Riuprimer y el resto del Lluçanès.",
@@ -87,10 +79,6 @@
     {
       "title": "Conocimiento real del Lluçanès",
       "body": "Entendemos cómo afecta la altitud, la niebla y las carreteras de montaña al comportamiento y desgaste de tu vehículo, y ajustamos las revisiones en consecuencia."
-    },
-    {
-      "title": "Recogida y entrega en la zona",
-      "body": "Sabemos lo que cuesta bajar hasta el taller cuando vives en un pueblo pequeño, así que facilitamos la logística para que no pierdas tiempo de trabajo."
     },
     {
       "title": "Transparencia total en presupuestos",
@@ -132,7 +120,7 @@
       "rating": 4
     }
   ],
-  "zoneText": "Damos servicio a Santa Eulàlia de Riuprimer y a todo el entorno del Lluçanès y la Plana de Vic, facilitando la recogida y entrega del vehículo para quienes viven a cierta distancia del taller.",
+  "zoneText": "Damos servicio a Santa Eulàlia de Riuprimer y a todo el entorno del Lluçanès y la Plana de Vic.",
   "zoneNeighborhoods": [
     "Vic",
     "Tona",
@@ -150,10 +138,6 @@
   ],
   "faqLocal": [
     {
-      "q": "¿Ofrecéis recogida del vehículo en Santa Eulàlia de Riuprimer?",
-      "a": "Sí, coordinamos la recogida y entrega en el municipio para que no tengas que desplazarte expresamente hasta el taller, especialmente útil si tu día se organiza alrededor de los trayectos a Vic o Manresa."
-    },
-    {
       "q": "¿Por qué mi BMW consume más pastillas de freno viviendo aquí?",
       "a": "Los desniveles constantes entre el altiplano del Lluçanès y la Plana de Vic exigen frenadas más frecuentes e intensas, lo que acelera el desgaste respecto a un uso puramente urbano."
     },
@@ -168,14 +152,10 @@
     {
       "q": "¿Trabajáis con vehículos que circulan a diario por carreteras comarcales como la BV-4316?",
       "a": "Sí, es precisamente el tipo de uso que más conocemos: firmes irregulares, curvas continuas y desniveles que exigen una atención especial a suspensión, dirección y neumáticos."
-    },
-    {
-      "q": "¿Puedo llevar el coche fuera del horario habitual si trabajo en Vic o Manresa?",
-      "a": "Podemos organizar entregas y recogidas flexibles para adaptarnos a quienes hacen jornada completa fuera del pueblo; consúltanos tu caso concreto."
     }
   ],
   "closingHeadline": "Tu BMW, preparado para el Lluçanès y para la carretera de cada día",
-  "closingCta": "Pide cita y nos encargamos de la recogida en Santa Eulàlia de Riuprimer para que tu BMW esté listo sin que pierdas ni un minuto de tu jornada en Vic o Manresa.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -228,10 +208,6 @@
       {
         "q": "¿Dónde paso la ITV?",
         "a": "En ITV Osona (B04), en Vic, a 11,6 km: la más próxima por carretera en el registro de la Generalitat."
-      },
-      {
-        "q": "¿Recogéis el coche en Osona?",
-        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona."
       }
     ],
     "datos": [

@@ -7,7 +7,7 @@
   "lat": 40.23049,
   "lng": -3.35836,
   "metaTitle": "Taller BMW en Perales de Tajuña | Diagnosis y mecánica",
-  "metaDescription": "Reparación y mantenimiento BMW para Perales de Tajuña. Recogida a domicilio, diagnosis con equipo original y taller de referencia en la comarca de Las Vegas.",
+  "metaDescription": "Reparación y mantenimiento BMW para Perales de Tajuña.",
   "heroSubtitle": "Tu BMW, cuidado sin tener que salir de Las Vegas",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Perales de Tajuña es un pueblo de poco menos de 3.000 habitantes en plena comarca de Las Vegas, a unos 50 kilómetros al sureste de Madrid capital. No hay ningún taller especializado en BMW dentro del municipio, y eso es algo que sabemos de sobra: la mayoría de nuestros clientes de aquí conducen hasta Arganda del Rey o directamente hasta Madrid para cualquier revisión que no sea de urgencia.\n\nLo que ofrecemos es justo lo que falta: un punto de recogida acordado en el propio pueblo (normalmente en la zona del Ayuntamiento o la gasolinera de la carretera de Chinchón) y traslado del vehículo al taller de la red más cercano, con el coche de vuelta el mismo día siempre que la reparación lo permita.\n\nNo prometemos un taller BMW en cada esquina de la Vega del Tajuña, porque no existe y sería mentira decirlo. Prometemos resolver el problema real: que vivir en un pueblo agrícola de Madrid no te obligue a perder media jornada laboral por un cambio de aceite.",
-  "servicesIntro": "Desde mantenimiento programado hasta diagnosis de averías eléctricas, cubrimos toda la gama BMW con recogida en Perales de Tajuña incluida en el servicio.",
+  "introLocal": "Perales de Tajuña es un pueblo de poco menos de 3.000 habitantes en plena comarca de Las Vegas, a unos 50 kilómetros al sureste de Madrid capital. No hay ningún taller especializado en BMW dentro del municipio, y eso es algo que sabemos de sobra: la mayoría de nuestros clientes de aquí conducen hasta Arganda del Rey o directamente hasta Madrid para cualquier revisión que no sea de urgencia.\n\nNo prometemos un taller BMW en cada esquina de la Vega del Tajuña, porque no existe y sería mentira decirlo. Prometemos resolver el problema real: que vivir en un pueblo agrícola de Madrid no te obligue a perder media jornada laboral por un cambio de aceite.",
+  "servicesIntro": "Desde mantenimiento programado hasta diagnosis de averías eléctricas, cubrimos toda la gama BMW.",
   "processIntro": "El proceso está pensado para que no tengas que coger la carretera si no quieres.",
   "processSteps": [
     {
       "title": "Llamada y diagnóstico previo",
       "body": "Nos cuentas el síntoma por teléfono o WhatsApp y te damos una primera valoración antes de mover el coche."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Acordamos un punto fijo en Perales de Tajuña y recogemos el vehículo con conductor propio o grúa si no arranca."
     },
     {
       "title": "Diagnosis en taller",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el presupuesto antes de tocar nada; no se factura ni un tornillo sin tu aprobación."
-    },
-    {
-      "title": "Entrega de vuelta en Perales",
-      "body": "Cuando el coche está listo, lo devolvemos al mismo punto de recogida, sin que tengas que desplazarte."
     }
   ],
   "commonIssuesIntro": "Estas son las averías que más repetimos en BMW de propietarios de la zona de Las Vegas.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida real en el pueblo",
-      "body": "No es una promesa de marketing: tenemos punto fijo de recogida en Perales y lo cumplimos cada semana."
-    },
-    {
       "title": "Diagnosis con equipo original",
       "body": "Usamos el mismo software que usaría un concesionario BMW, no un lector genérico OBD."
     },
@@ -104,32 +92,15 @@
   "zoneText": "Cubrimos todo el casco urbano de Perales de Tajuña y las fincas y urbanizaciones diseminadas junto a la carretera de Chinchón y el valle del Tajuña.",
   "faqLocal": [
     {
-      "q": "¿Tenéis taller físico en Perales de Tajuña?",
-      "a": "No, el taller físico está en la red cercana; en Perales solo hacemos recogida y entrega del vehículo."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Normalmente entre 24 y 48 horas, salvo urgencias que gestionamos el mismo día."
-    },
-    {
-      "q": "¿Puedo llevar yo mismo el coche al taller?",
-      "a": "Por supuesto, la recogida es opcional; si prefieres llevarlo tú, te damos la dirección exacta."
-    },
-    {
       "q": "¿Trabajáis con diésel y gasolina por igual?",
       "a": "Sí, tenemos experiencia con toda la gama BMW, tanto motores diésel N47/N57 como gasolina B48/B58."
     },
     {
       "q": "¿El presupuesto tiene coste?",
       "a": "La diagnosis inicial y el presupuesto no tienen coste si finalmente reparas con nosotros."
-    },
-    {
-      "q": "¿Qué pasa si el coche no arranca en Perales?",
-      "a": "Coordinamos grúa hasta el taller sin coste añadido dentro del servicio de recogida."
     }
   ],
-  "closingHeadline": "Tu BMW, recogido en Perales de Tajuña y reparado como merece",
-  "closingCta": "Escríbenos y acordamos la recogida esta misma semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +112,6 @@
   },
   "testimonialsIntro": "Vecinos de Perales de Tajuña que ya han confiado en nosotros.",
   "testimonials": [
-    {
-      "name": "Ángel Serrano",
-      "neighborhood": "Perales de Tajuña",
-      "body": "Recogieron el 320d en la plaza y me lo devolvieron a la tarde con el turbo cambiado. Sin dramas.",
-      "rating": 5
-    },
     {
       "name": "Marisol Peña",
       "neighborhood": "Perales de Tajuña",

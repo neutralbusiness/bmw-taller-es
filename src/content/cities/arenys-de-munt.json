@@ -31,14 +31,9 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Arenys de Munt es un municipio de unos 9.000 habitantes situado en el interior del Maresme, a pocos kilómetros de la costa y de su vecino Arenys de Mar, con la carretera BV-5031 como principal vía de conexión. A diferencia de los pueblos costeros, aquí el BMW típico sufre menos por la corrosión salina y más por el uso combinado de carretera de montaña y desplazamientos frecuentes hacia Barcelona por la C-32.\n\nEl perfil habitual es una familia con casa unifamiliar que usa un X1 o X3 tanto para moverse por el pueblo como para bajar a la costa o subir a Barcelona por trabajo. También hay bastantes segundas residencias vinculadas al entorno rural del Maresme interior, con coches que pasan temporadas paradas entre semanas de uso intenso.\n\nNo contamos con instalación en el propio Arenys de Munt, pero coordinamos la recogida del vehículo en el municipio o en Arenys de Mar, con entrega de vuelta una vez terminado el trabajo.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida disponible en Arenys de Munt y Arenys de Mar.",
-  "processIntro": "Un proceso adaptado al Maresme interior, con logística de recogida cuando hace falta.",
+  "introLocal": "Arenys de Munt es un municipio de unos 9.000 habitantes situado en el interior del Maresme, a pocos kilómetros de la costa y de su vecino Arenys de Mar, con la carretera BV-5031 como principal vía de conexión. A diferencia de los pueblos costeros, aquí el BMW típico sufre menos por la corrosión salina y más por el uso combinado de carretera de montaña y desplazamientos frecuentes hacia Barcelona por la C-32.\n\nEl perfil habitual es una familia con casa unifamiliar que usa un X1 o X3 tanto para moverse por el pueblo como para bajar a la costa o subir a Barcelona por trabajo. También hay bastantes segundas residencias vinculadas al entorno rural del Maresme interior, con coches que pasan temporadas paradas entre semanas de uso intenso.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Arenys de Munt o Arenys de Mar."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Conectamos el software oficial de BMW para revisar todos los módulos del coche."
@@ -50,10 +45,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW ejecutan la reparación con las herramientas adecuadas."
-    },
-    {
-      "title": "Entrega de vuelta a la zona",
-      "body": "Devolvemos el coche en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW que combinan carretera de montaña con trayectos a Barcelona.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Arenys de Munt",
-      "body": "No hace falta desplazarte, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Especialización BMW",
       "body": "Trabajamos solo con esta marca y conocemos bien sus particularidades."
     },
@@ -101,19 +88,11 @@
       "body": "Sabemos qué revisar en un coche que pasa temporadas parado."
     }
   ],
-  "zoneText": "Damos servicio a Arenys de Munt y a los municipios del Maresme interior, con recogida coordinada.",
+  "zoneText": "Damos servicio a Arenys de Munt y a los municipios del Maresme interior.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Arenys de Munt?",
-      "a": "Sí, coordinamos recogida en el municipio o en Arenys de Mar."
-    },
     {
       "q": "¿Atendéis coches de segunda residencia?",
       "a": "Sí, es un caso muy habitual en la zona."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp?",
@@ -122,14 +101,10 @@
     {
       "q": "¿Revisáis la suspensión por las carreteras de montaña?",
       "a": "Sí, lo recomendamos especialmente en esta zona."
-    },
-    {
-      "q": "¿Puedo traer el coche yo mismo hasta Arenys de Mar?",
-      "a": "Sí, si prefieres bajar tú mismo puedes traerlo directamente al taller."
     }
   ],
   "closingHeadline": "Especialistas BMW para el Maresme interior",
-  "closingCta": "Contáctanos desde Arenys de Munt y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +120,6 @@
       "name": "Martí Vives",
       "neighborhood": "Arenys de Munt",
       "body": "Coche de fin de semana en casa del pueblo. Me explicaron muy bien el tema de la batería.",
-      "rating": 5
-    },
-    {
-      "name": "Judit Coll",
-      "neighborhood": "Sant Iscle de Vallalta",
-      "body": "Recogida sin complicaciones y presupuesto cerrado real para mi X1.",
       "rating": 5
     },
     {
@@ -184,7 +153,7 @@
         "id": "c61-c32",
         "h2": "C-61, C-32 y B-20: 56,6 km",
         "parrafos": [
-          "La ruta hasta el taller baja por la C-61 hasta la C-32 y sigue por la B-20: 56,6 km por carretera, 47,5 en línea recta. El municipio no forma parte del Área Metropolitana de Barcelona, de modo que la recogida del taller no lo cubre.",
+          "La ruta hasta el taller baja por la C-61 hasta la C-32 y sigue por la B-20: 56,6 km por carretera, 47,5 en línea recta.",
           "Antes de hacer ese trayecto, una llamada ayuda: con el modelo, el año, los kilómetros y el síntoma se puede orientar la avería y saber si hay que pedir alguna pieza."
         ]
       },
@@ -218,10 +187,6 @@
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
         "a": "Pruna Motor, en la Via Sèrgia 2 de Mataró, a 19,4 km según bmw.es."
-      },
-      {
-        "q": "¿Recogéis el coche en Arenys de Munt?",
-        "a": "No. La recogida cubre solo el Área Metropolitana de Barcelona."
       }
     ],
     "datos": [

@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Puigdàlber es uno de los municipios más pequeños del Alt Penedès, con apenas 450 habitantes, rodeado de viñedos entre Vilafranca del Penedès y Sant Sadurní d'Anoia. Un pueblo tan pequeño no puede sostener un taller especializado en BMW, y no fingimos lo contrario.\n\nLo que ofrecemos es recogida coordinada desde Puigdàlber hasta el taller de referencia del Penedès, generalmente en Vilafranca, a apenas unos minutos en coche pero que preferimos ahorrarte si tienes una avería.\n\nMuchos de nuestros clientes de aquí trabajan en el sector vitivinícola y usan el coche a diario entre viñedos y bodegas, con carreteras estrechas que exigen un mantenimiento de frenos y suspensión especialmente cuidado.",
-  "servicesIntro": "Mantenimiento, frenos, suspensión y diagnosis electrónica para toda la gama BMW, con recogida desde Puigdàlber.",
+  "introLocal": "Puigdàlber es uno de los municipios más pequeños del Alt Penedès, con apenas 450 habitantes, rodeado de viñedos entre Vilafranca del Penedès y Sant Sadurní d'Anoia. Un pueblo tan pequeño no puede sostener un taller especializado en BMW, y no fingimos lo contrario.\n\nMuchos de nuestros clientes de aquí trabajan en el sector vitivinícola y usan el coche a diario entre viñedos y bodegas, con carreteras estrechas que exigen un mantenimiento de frenos y suspensión especialmente cuidado.",
+  "servicesIntro": "Mantenimiento, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso pensado para un pueblo pequeño con necesidades concretas.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el problema y valoramos si conviene recogida o traer el coche a Vilafranca."
-    },
-    {
-      "title": "Recogida en Puigdàlber",
-      "body": "Acordamos un punto fijo en el pueblo para la recogida."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos la memoria de averías real antes de proponer nada."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto acordado en Puigdàlber."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de esta zona vitivinícola del Penedès.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida real en el pueblo",
-      "body": "Punto fijo acordado en Puigdàlber, sin promesas vagas."
-    },
-    {
       "title": "Atención específica a frenos y suspensión",
       "body": "Clave para el uso diario en carreteras rurales del Penedès."
     },
@@ -104,20 +88,8 @@
   "zoneText": "Damos servicio a todo el término municipal de Puigdàlber y las masías dispersas entre viñedos del Alt Penedès.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Puigdàlber?",
-      "a": "No, ofrecemos recogida hasta el taller de referencia del Penedès, generalmente en Vilafranca."
-    },
-    {
-      "q": "¿Cubrís masías alejadas del núcleo urbano?",
-      "a": "Sí, coordinamos un punto de encuentro accesible según la ubicación exacta."
-    },
-    {
       "q": "¿Trabajáis con coches usados en carreteras rurales?",
       "a": "Es habitual en esta zona y sabemos qué revisar específicamente."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas desde que confirmamos la cita."
     },
     {
       "q": "¿La diagnosis tiene coste?",
@@ -129,7 +101,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW seria, cerca de los viñedos del Penedès",
-  "closingCta": "Escríbenos y coordinamos la recogida en Puigdàlber.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +117,6 @@
       "name": "Vicenç Miret",
       "neighborhood": "Puigdàlber",
       "body": "Trabajo entre viñedos y el coche sufre carreteras exigentes. Lo entendieron enseguida.",
-      "rating": 5
-    },
-    {
-      "name": "Roser Batet",
-      "neighborhood": "Puigdàlber",
-      "body": "Recogieron el coche en la plaza y me lo devolvieron el mismo día.",
       "rating": 5
     },
     {
@@ -200,7 +166,7 @@
         "id": "c15-ap7-b23",
         "h2": "C-15, AP-7 y B-23: vía rápida casi todo el camino",
         "parrafos": [
-          "La ruta hasta el carrer del Tambor del Bruc sale por la C-15, sigue por la AP-7 y entra al Baix Llobregat por la B-23: 51,9 km por carretera, 30,7 en línea recta. Son vías rápidas casi todo el camino, lo que hace razonable bajar el coche y recogerlo en el día. Puigdàlber queda fuera del área metropolitana, de modo que la recogida del taller no cubre el pueblo.",
+          "La ruta hasta el carrer del Tambor del Bruc sale por la C-15, sigue por la AP-7 y entra al Baix Llobregat por la B-23: 51,9 km por carretera, 30,7 en línea recta. Son vías rápidas casi todo el camino, lo que hace razonable bajar el coche y recogerlo en el día.",
           "Para que el día cunda, conviene llamar antes con el modelo y el síntoma. La diagnosis y la reparación se presupuestan antes de autorizar nada.",
           "Un detalle para diésel: el recorrido por la AP-7 a velocidad constante es justo el que necesita el filtro de partículas para regenerarse, algo que los trayectos cortos entre pueblos del Penedès no consiguen."
         ]
@@ -214,10 +180,6 @@
       {
         "q": "¿Cuál es el servicio oficial BMW más cercano?",
         "a": "Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 23,5 km según bmw.es."
-      },
-      {
-        "q": "¿Recogéis el coche en Puigdàlber?",
-        "a": "No: la recogida del taller cubre solo el área metropolitana de Barcelona."
       }
     ],
     "datos": [

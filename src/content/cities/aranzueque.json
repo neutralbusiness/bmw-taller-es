@@ -7,8 +7,8 @@
   "lat": 40.48887,
   "lng": -3.07948,
   "metaTitle": "Taller BMW cerca de Aranzueque | La Alcarria",
-  "metaDescription": "Servicio especializado BMW para Aranzueque, en La Alcarria de Guadalajara. Diagnóstico ISTA y recogida disponible en la zona.",
-  "heroSubtitle": "Atención especializada BMW para Aranzueque y La Alcarria, con recogida incluida.",
+  "metaDescription": "Servicio especializado BMW para Aranzueque, en La Alcarria de Guadalajara.",
+  "heroSubtitle": "Atención especializada BMW para Aranzueque y La Alcarria.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Aranzueque es un municipio muy pequeño de La Alcarria, en la provincia de Guadalajara, con poco más de 350 habitantes y un entorno rural tranquilo entre Yunquera de Henares y la capital provincial. No hay zonas ni barrios que distinguir: es un núcleo compacto rodeado de campo, a poco más de 15 kilómetros de Guadalajara y con la A-2 como vía principal de conexión hacia Madrid.\n\nEl BMW habitual en Aranzueque pertenece a familias con segunda residencia en el pueblo o a propietarios que trabajan en Guadalajara o en el Corredor del Henares y disfrutan de la tranquilidad rural para vivir. El uso combina trayectos cortos por el pueblo con salidas frecuentes a la A-2 hacia Madrid o Guadalajara.\n\nNo tenemos instalación en el propio Aranzueque, así que coordinamos la recogida del vehículo en el municipio o en Guadalajara capital, devolviéndolo una vez terminado el trabajo.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida disponible en Aranzueque y Guadalajara.",
+  "introLocal": "Aranzueque es un municipio muy pequeño de La Alcarria, en la provincia de Guadalajara, con poco más de 350 habitantes y un entorno rural tranquilo entre Yunquera de Henares y la capital provincial. No hay zonas ni barrios que distinguir: es un núcleo compacto rodeado de campo, a poco más de 15 kilómetros de Guadalajara y con la A-2 como vía principal de conexión hacia Madrid.\n\nEl BMW habitual en Aranzueque pertenece a familias con segunda residencia en el pueblo o a propietarios que trabajan en Guadalajara o en el Corredor del Henares y disfrutan de la tranquilidad rural para vivir. El uso combina trayectos cortos por el pueblo con salidas frecuentes a la A-2 hacia Madrid o Guadalajara.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processIntro": "Un proceso simple, adaptado a la distancia real de un pueblo pequeño de La Alcarria.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Aranzueque o Guadalajara."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Conectamos el software oficial de BMW en cuanto el coche llega al taller."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW se encargan del trabajo."
-    },
-    {
-      "title": "Entrega coordinada",
-      "body": "Devolvemos el coche en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso rural combinado con trayectos a Guadalajara o Madrid.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Aranzueque",
-      "body": "No hace falta desplazarte, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Formación específica BMW",
       "body": "Trabajamos solo con esta marca y su mecánica particular."
     },
@@ -101,19 +89,11 @@
       "body": "Sabemos qué revisar en vehículos que pasan temporadas parados."
     }
   ],
-  "zoneText": "Damos servicio a Aranzueque y a los pueblos de La Alcarria cercanos, con recogida coordinada.",
+  "zoneText": "Damos servicio a Aranzueque y a los pueblos de La Alcarria cercanos.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Aranzueque?",
-      "a": "Sí, coordinamos recogida en el municipio o en Guadalajara."
-    },
     {
       "q": "¿Atendéis coches de segunda residencia que se usan solo algunos fines de semana?",
       "a": "Sí, es un caso muy habitual en la zona."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp?",
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW para La Alcarria",
-  "closingCta": "Contáctanos desde Aranzueque y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +125,6 @@
       "name": "Gonzalo Peña",
       "neighborhood": "Aranzueque",
       "body": "Casa de fin de semana en el pueblo, coche que se usa poco. Me explicaron bien el tema de la batería.",
-      "rating": 5
-    },
-    {
-      "name": "Lucía Andrés",
-      "neighborhood": "Guadalajara",
-      "body": "Recogida sin complicaciones y presupuesto cerrado real para mi Serie 3.",
       "rating": 5
     },
     {

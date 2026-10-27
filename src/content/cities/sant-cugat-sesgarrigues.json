@@ -7,7 +7,7 @@
   "lat": 41.35564,
   "lng": 1.75574,
   "metaTitle": "Taller BMW cerca de Sant Cugat Sesgarrigues | Alt Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Cugat Sesgarrigues, Alt Penedès. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Cugat Sesgarrigues, Alt Penedès. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Cugat Sesgarrigues",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Cugat Sesgarrigues es un municipio pequeño del Alt Penedès, rodeado de viñedos y con una población que combina residentes de toda la vida con quienes han llegado buscando tranquilidad cerca de Vilafranca del Penedès. No hay taller especializado en BMW en el propio pueblo, así que quien tiene un vehículo de la marca suele desplazarse a Vilafranca o Barcelona.\n\nOfrecemos recogida del vehículo en Sant Cugat Sesgarrigues para evitar ese desplazamiento, con diagnosis realizada siempre con el software oficial de BMW y devolución del coche una vez terminado el trabajo.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Cugat Sesgarrigues es un municipio pequeño del Alt Penedès, rodeado de viñedos y con una población que combina residentes de toda la vida con quienes han llegado buscando tranquilidad cerca de Vilafranca del Penedès. No hay taller especializado en BMW en el propio pueblo, así que quien tiene un vehículo de la marca suele desplazarse a Vilafranca o Barcelona.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Cugat Sesgarrigues",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona vitivinícola del Alt Penedès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Cugat Sesgarrigues está en pleno Alt Penedès, rodeado de viñedos, a pocos minutos de Vilafranca del Penedès. Es un municipio pequeño donde predominan trayectos cortos y caminos rurales, algo que tenemos presente al revisar cada vehículo.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Cugat Sesgarrigues?",
-      "a": "No, es un municipio demasiado pequeño para un taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Vilafranca del Penedès?",
       "a": "Sí, es habitual recibir clientes de Vilafranca y de toda la comarca del Alt Penedès."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Cugat Sesgarrigues",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Cugat Sesgarrigues que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Enric F.",
-      "neighborhood": "Sant Cugat Sesgarrigues",
-      "body": "Recogieron el coche en el pueblo y lo devolvieron reparado sin que tuviera que moverme. Muy práctico.",
-      "rating": 5
-    },
     {
       "name": "Núria G.",
       "neighborhood": "Sant Cugat Sesgarrigues",

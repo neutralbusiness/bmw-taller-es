@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Batres es un municipio pequeño del sur de la Comunidad de Madrid, de apenas unos cientos de vecinos, situado entre Griñón y Casarrubuelos, en una zona de chalets y urbanizaciones que ha crecido en los últimos años atraída por la tranquilidad y la cercanía a Madrid capital a través de la A-42 y la M-404.\n\nEl perfil habitual de propietario de BMW en Batres es el de un profesional que trabaja en Madrid pero ha elegido vivir fuera del ruido de la ciudad, con trayectos diarios de entre 30 y 40 minutos por la A-42 hacia la capital, combinados con desplazamientos cortos por carreteras locales para llevar a los niños al colegio o hacer la compra en Griñón.\n\nNo hay taller especializado BMW en Batres, así que ofrecemos recogida a domicilio en el propio municipio y en las urbanizaciones cercanas, evitando el desplazamiento hasta Madrid para cualquier mantenimiento.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida a domicilio en Batres y alrededores.",
+  "introLocal": "Batres es un municipio pequeño del sur de la Comunidad de Madrid, de apenas unos cientos de vecinos, situado entre Griñón y Casarrubuelos, en una zona de chalets y urbanizaciones que ha crecido en los últimos años atraída por la tranquilidad y la cercanía a Madrid capital a través de la A-42 y la M-404.\n\nEl perfil habitual de propietario de BMW en Batres es el de un profesional que trabaja en Madrid pero ha elegido vivir fuera del ruido de la ciudad, con trayectos diarios de entre 30 y 40 minutos por la A-42 hacia la capital, combinados con desplazamientos cortos por carreteras locales para llevar a los niños al colegio o hacer la compra en Griñón.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien hace a diario el trayecto hacia Madrid por la A-42.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida en Batres",
-      "body": "Vamos a buscar el coche a tu domicilio o urbanización."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de tocar el coche."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el vehículo en tu domicilio, listo para la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de commuters diarios hacia Madrid por la A-42, como en Batres.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio en Batres",
-      "body": "No hace falta que te desplaces hasta Madrid para el mantenimiento."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué desgastes son típicos del uso diario de autovía y los revisamos primero."
     }
   ],
-  "zoneText": "Damos servicio a Batres y a los municipios cercanos del sur de Madrid como Griñón y Casarrubuelos, con recogida a domicilio para quienes hacen a diario el trayecto hacia la capital.",
+  "zoneText": "Damos servicio a Batres y a los municipios cercanos del sur de Madrid como Griñón y Casarrubuelos.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Batres?",
-      "a": "Sí, a domicilio, sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso diario en autovía?",
       "a": "Es el perfil más habitual entre nuestros clientes de la zona, con mucha experiencia."
@@ -114,10 +98,6 @@
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
       "a": "El mismo día que hacemos la diagnosis."
-    },
-    {
-      "q": "¿Puedo dejar el coche antes de ir a trabajar?",
-      "a": "Sí, coordinamos la recogida a primera hora de la mañana."
     },
     {
       "q": "¿Usáis piezas originales BMW?",
@@ -128,8 +108,7 @@
       "a": "Sí, a todo el entorno cercano de Batres."
     }
   ],
-  "closingHeadline": "Tu BMW cuidado sin salir de Batres",
-  "closingCta": "Escríbenos y coordinamos la recogida a domicilio.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Opiniones de clientes de Batres y alrededores.",
   "testimonials": [
-    {
-      "name": "Alberto Fresneda",
-      "neighborhood": "Batres",
-      "body": "Recogieron el coche en casa y me lo devolvieron por la tarde. Muy cómodo para quien trabaja en Madrid.",
-      "rating": 5
-    },
     {
       "name": "Marina Gascón",
       "neighborhood": "Batres",
@@ -200,8 +173,7 @@
         "id": "ap41-r5",
         "h2": "Por la AP-41, la R-5 y la M-30",
         "parrafos": [
-          "Desde el núcleo urbano hasta la calle Valgrande 17 de Alcobendas hay 56,5 km por carretera y 43,1 en línea recta. La ruta sale por la M-404, que pasa a 0,5 km, toma la AP-41 y la R-5, cruza Madrid por la M-30 y termina por la A-1.",
-          "Para trabajos largos, pregunta al reservar por el vehículo de cortesía y por la recogida: los dos se ofrecen solo dentro del área metropolitana de Madrid y sujetos a disponibilidad, así que confirma si Batres entra."
+          "Desde el núcleo urbano hasta la calle Valgrande 17 de Alcobendas hay 56,5 km por carretera y 43,1 en línea recta. La ruta sale por la M-404, que pasa a 0,5 km, toma la AP-41 y la R-5, cruza Madrid por la M-30 y termina por la A-1."
         ]
       },
       {
@@ -221,10 +193,6 @@
       {
         "q": "¿Pierdo la garantía si reviso el BMW con vosotros?",
         "a": "No, si se siguen los intervalos y especificaciones del plan de mantenimiento."
-      },
-      {
-        "q": "¿Recogéis el coche en Batres?",
-        "a": "La recogida existe dentro del área metropolitana de Madrid, sujeta a disponibilidad. Confirma al pedir cita si tu dirección entra."
       }
     ],
     "datos": [

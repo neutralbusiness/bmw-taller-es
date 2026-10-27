@@ -7,7 +7,7 @@
   "lat": 40.94918,
   "lng": -3.52977,
   "metaTitle": "Mecánico BMW en Robledillo de la Jara | Sierra Norte",
-  "metaDescription": "Servicio BMW para Robledillo de la Jara: recogida a domicilio, diagnosis original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
+  "metaDescription": "Servicio BMW para Robledillo de la Jara: diagnosis original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
   "heroSubtitle": "Robledillo de la Jara, el pueblo más pequeño no se queda sin taller",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Robledillo de la Jara es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas 250 habitantes, cerca de La Cabrera y a más de una hora de la capital por carretera de montaña. En un pueblo de este tamaño no existe ni la posibilidad de un taller especializado en BMW, y sería una falta de respeto prometerlo.\n\nLo que hacemos es recoger el coche en el propio pueblo, normalmente en la plaza o junto a la carretera de acceso, y llevarlo hasta el taller de la red más cercano en la Sierra Norte. La devolución se hace en el mismo punto una vez reparado.\n\nEl frío intenso del invierno y las cuestas de acceso al pueblo dejan una huella concreta en los BMW de la zona, algo que tenemos muy presente al revisar cada vehículo que llega desde aquí.",
-  "servicesIntro": "Mantenimiento adaptado a uso de montaña, frenos, suspensión y diagnosis electrónica con recogida desde Robledillo de la Jara.",
+  "introLocal": "Robledillo de la Jara es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas 250 habitantes, cerca de La Cabrera y a más de una hora de la capital por carretera de montaña. En un pueblo de este tamaño no existe ni la posibilidad de un taller especializado en BMW, y sería una falta de respeto prometerlo.\n\nEl frío intenso del invierno y las cuestas de acceso al pueblo dejan una huella concreta en los BMW de la zona, algo que tenemos muy presente al revisar cada vehículo que llega desde aquí.",
+  "servicesIntro": "Mantenimiento adaptado a uso de montaña, frenos, suspensión y diagnosis electrónica.",
   "processIntro": "Un proceso pensado para el pueblo más pequeño de la comarca.",
   "processSteps": [
-    {
-      "title": "Llamada inicial",
-      "body": "Nos cuentas el problema y valoramos si hace falta grúa o basta con recogida normal."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Acordamos hora y punto fijo en Robledillo de la Jara."
-    },
     {
       "title": "Diagnosis en taller",
       "body": "Escáner original BMW para revisar códigos de avería reales."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto de recogida, listo para usar."
     }
   ],
   "commonIssuesIntro": "Averías más habituales en BMW de propietarios de esta zona de la Sierra Norte.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida acordada en el pueblo",
-      "body": "Punto fijo en Robledillo de la Jara, sin vaguedades."
-    },
-    {
       "title": "Diagnosis con equipo BMW original",
       "body": "Nada de lectores universales imprecisos."
     },
@@ -104,14 +88,6 @@
   "zoneText": "Cubrimos todo el término municipal de Robledillo de la Jara, con conexión a La Cabrera y el resto de la Sierra Norte.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Robledillo de la Jara?",
-      "a": "No, hacemos recogida y entrega en el pueblo hasta el taller de la red más cercano."
-    },
-    {
-      "q": "¿Es de pago la recogida?",
-      "a": "Está incluida en el servicio si finalmente reparas con nosotros."
-    },
-    {
       "q": "¿Cuánto tardáis en dar el presupuesto?",
       "a": "Normalmente en menos de 24 horas desde que el coche llega al taller."
     },
@@ -129,7 +105,7 @@
     }
   ],
   "closingHeadline": "El taller viene hasta Robledillo de la Jara, no al revés",
-  "closingCta": "Escríbenos y acordamos la recogida esta semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Robledillo de la Jara.",
   "testimonials": [
     {
-      "name": "Prudencio Rincón",
-      "neighborhood": "Robledillo de la Jara",
-      "body": "Pensé que siendo el pueblo más pequeño de la zona nadie vendría. Vinieron sin problema.",
-      "rating": 5
-    },
-    {
       "name": "Benedicta Sanz",
       "neighborhood": "Robledillo de la Jara",
       "body": "El presupuesto llegó por WhatsApp con fotos claras de la avería.",
-      "rating": 5
-    },
-    {
-      "name": "Cirilo Marchena",
-      "neighborhood": "Robledillo de la Jara",
-      "body": "Recogieron a las 9 y a las 5 lo tenía en la plaza otra vez. Muy serios para un pueblo tan pequeño.",
       "rating": 5
     }
   ],

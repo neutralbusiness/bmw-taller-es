@@ -7,7 +7,7 @@
   "lat": 40.8144,
   "lng": -3.59185,
   "metaTitle": "Mecánico BMW en Redueña | Sierra Norte de Madrid, taller",
-  "metaDescription": "Servicio BMW para Redueña: recogida a domicilio, diagnosis con equipo original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
+  "metaDescription": "Servicio BMW para Redueña: diagnosis con equipo original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
   "heroSubtitle": "Redueña, pequeño pueblo, gran atención a tu BMW",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Redueña es uno de los pueblos más pequeños de la Sierra Norte de Madrid, con apenas 300 habitantes, muy cerca de Torrelaguna y a algo más de una hora de la capital. Aquí no hay ni el más mínimo indicio de taller especializado en BMW, y sería absurdo prometerlo.\n\nLo que hacemos es recoger el coche en el propio pueblo, normalmente junto a la plaza o en la carretera de acceso, y llevarlo hasta el taller de la red más cercano en la Sierra Norte.\n\nPreferimos ser francos: en Redueña no hay taller, pero sí un servicio de recogida que funciona con puntualidad, semana tras semana, sin excusas.",
-  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica con recogida programada desde Redueña.",
+  "introLocal": "Redueña es uno de los pueblos más pequeños de la Sierra Norte de Madrid, con apenas 300 habitantes, muy cerca de Torrelaguna y a algo más de una hora de la capital. Aquí no hay ni el más mínimo indicio de taller especializado en BMW, y sería absurdo prometerlo.",
+  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica.",
   "processIntro": "Cinco pasos, sin necesidad de bajar hasta Madrid.",
   "processSteps": [
-    {
-      "title": "Llamada inicial",
-      "body": "Nos cuentas el problema y valoramos si hace falta grúa o basta con recogida normal."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Acordamos hora y punto fijo en Redueña."
-    },
     {
       "title": "Diagnosis en taller",
       "body": "Escáner original BMW para revisar códigos de avería reales."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto de recogida, listo para usar."
     }
   ],
   "commonIssuesIntro": "Averías más habituales en BMW de propietarios de esta zona de la Sierra Norte.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida acordada en el pueblo",
-      "body": "Punto fijo en Redueña, sin vaguedades."
-    },
-    {
       "title": "Diagnosis con equipo BMW original",
       "body": "Nada de lectores universales imprecisos."
     },
@@ -104,14 +88,6 @@
   "zoneText": "Cubrimos todo el término municipal de Redueña y las fincas dispersas de su entorno serrano.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Redueña?",
-      "a": "No, hacemos recogida y entrega en el pueblo hasta el taller de la red más cercano."
-    },
-    {
-      "q": "¿Es de pago la recogida?",
-      "a": "Está incluida en el servicio si finalmente reparas con nosotros."
-    },
-    {
       "q": "¿Cuánto tardáis en dar el presupuesto?",
       "a": "Normalmente en menos de 24 horas desde que el coche llega al taller."
     },
@@ -129,7 +105,7 @@
     }
   ],
   "closingHeadline": "El taller viene hasta Redueña, no al revés",
-  "closingCta": "Escríbenos y acordamos la recogida esta semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Redueña.",
   "testimonials": [
     {
-      "name": "Zacarías Ontiveros",
-      "neighborhood": "Redueña",
-      "body": "Pensé que en un pueblo tan pequeño no llegaría el servicio. Vinieron sin problema.",
-      "rating": 5
-    },
-    {
       "name": "Petra Villanueva",
       "neighborhood": "Redueña",
       "body": "El presupuesto llegó por WhatsApp con fotos claras de la avería.",
-      "rating": 5
-    },
-    {
-      "name": "Eutimio Cerezo",
-      "neighborhood": "Redueña",
-      "body": "Recogieron a las 9 y a las 5 lo tenía en la plaza otra vez. Muy serios.",
       "rating": 5
     }
   ],

@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Rajadell es un municipio pequeño de la comarca del Bages, con apenas 500 habitantes repartidos entre el núcleo principal y varias masías, muy cerca de Manresa. Un pueblo de este tamaño no puede sostener un taller especializado en BMW, y no vamos a fingir que lo tiene.\n\nLo que hacemos es recoger el vehículo en Rajadell y llevarlo hasta el taller de referencia del Bages, generalmente en Manresa, devolviéndolo al mismo punto una vez reparado.\n\nEl uso agrícola y rural de la zona, combinado con desplazamientos frecuentes hacia Manresa, exige un mantenimiento atento a frenos, suspensión y al estado general del motor en carreteras comarcales exigentes.",
-  "servicesIntro": "Mantenimiento, frenos, suspensión y diagnosis electrónica para toda la gama BMW, con recogida desde Rajadell.",
+  "introLocal": "Rajadell es un municipio pequeño de la comarca del Bages, con apenas 500 habitantes repartidos entre el núcleo principal y varias masías, muy cerca de Manresa. Un pueblo de este tamaño no puede sostener un taller especializado en BMW, y no vamos a fingir que lo tiene.\n\nEl uso agrícola y rural de la zona, combinado con desplazamientos frecuentes hacia Manresa, exige un mantenimiento atento a frenos, suspensión y al estado general del motor en carreteras comarcales exigentes.",
+  "servicesIntro": "Mantenimiento, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso simple para un pueblo pequeño del Bages.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el problema y valoramos si conviene recogida o traer el coche a Manresa."
-    },
-    {
-      "title": "Recogida en Rajadell",
-      "body": "Acordamos un punto fijo en el pueblo para la recogida."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos la memoria de averías real antes de proponer nada."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Confirmamos precio antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto acordado en Rajadell."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de esta zona rural del Bages.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida real en el pueblo",
-      "body": "Punto fijo acordado en Rajadell, sin promesas vagas."
-    },
-    {
       "title": "Atención específica a frenos y suspensión",
       "body": "Clave para el uso diario en carreteras rurales del Bages."
     },
@@ -104,20 +88,8 @@
   "zoneText": "Damos servicio a todo el término municipal de Rajadell, incluidas las masías dispersas de su entorno rural.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Rajadell?",
-      "a": "No, ofrecemos recogida hasta el taller de referencia del Bages, generalmente en Manresa."
-    },
-    {
-      "q": "¿Cubrís masías alejadas del núcleo urbano?",
-      "a": "Sí, coordinamos un punto de encuentro accesible según la ubicación exacta."
-    },
-    {
       "q": "¿Trabajáis con coches usados en carreteras rurales?",
       "a": "Es habitual en esta zona y sabemos qué revisar específicamente."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas desde que confirmamos la cita."
     },
     {
       "q": "¿La diagnosis tiene coste?",
@@ -129,7 +101,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW seria, cerca del Bages rural",
-  "closingCta": "Escríbenos y coordinamos la recogida en Rajadell.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +114,9 @@
   "testimonialsIntro": "Vecinos de Rajadell que ya han confiado en nosotros.",
   "testimonials": [
     {
-      "name": "Salvador Torras",
-      "neighborhood": "Rajadell",
-      "body": "Recogieron el coche en el pueblo y me lo devolvieron el mismo día.",
-      "rating": 5
-    },
-    {
       "name": "Neus Cabestany",
       "neighborhood": "Rajadell",
       "body": "El presupuesto se ajustó exactamente a lo acordado por teléfono.",
-      "rating": 5
-    },
-    {
-      "name": "Domènec Ribera",
-      "neighborhood": "Rajadell",
-      "body": "Vivo en una masía a las afueras y aun así vinieron sin problema.",
       "rating": 5
     }
   ],
@@ -185,7 +145,7 @@
         "id": "el-eje-al-lado",
         "h2": "El Eix Transversal a la puerta",
         "parrafos": [
-          "La C-25, el Eix Transversal, pasa a menos de tres kilómetros del centro. Para un BMW diésel es una ventaja real: el filtro de partículas necesita de vez en cuando un tramo a régimen estable para quemar el hollín acumulado, y aquí no hace falta buscarlo.",
+          "La C-25, el Eix Transversal, pasa a menos de tres kilómetros del centro.",
           "Si aun así el aviso del filtro aparece con frecuencia, el problema suele estar en otra parte —un sensor de presión diferencial, una válvula EGR sucia, un termostato que no deja calentar el motor— y merece diagnóstico antes de pensar en cambiar el filtro."
         ]
       },
@@ -201,7 +161,7 @@
         "id": "bajar-a-barcelona",
         "h2": "75,7 km por la C-55 y la C-16",
         "parrafos": [
-          "La ruta hasta Dasercars Barcelona toma la C-25, baja por la C-55 y la C-16 y termina en la B-20: 75,7 km por carretera, 50,2 en línea recta. No hay recogida desde el Bages; el servicio del taller no llega fuera del área metropolitana.",
+          "La ruta hasta Dasercars Barcelona toma la C-25, baja por la C-55 y la C-16 y termina en la B-20: 75,7 km por carretera, 50,2 en línea recta.",
           "Merece el viaje cuando el problema pide un especialista en BMW y no se ha resuelto en la comarca. En Dasercars nada se toca sin tu aprobación previa sobre un presupuesto escrito.",
           "Rajadell tenía 597 habitantes en 2025, frente a 524 en 2015, repartidos en un término de 45,53 km²."
         ]

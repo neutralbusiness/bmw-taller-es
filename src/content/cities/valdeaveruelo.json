@@ -7,7 +7,7 @@
   "lat": 40.64978,
   "lng": -3.30727,
   "metaTitle": "Taller BMW cerca de Valdeaveruelo | Diagnosis y mecánica",
-  "metaDescription": "Servicio BMW para Valdeaveruelo (Guadalajara): diagnosis original, Vanos, turbo, caja ZF 8HP. Presupuesto cerrado y recogida disponible. Pide cita.",
+  "metaDescription": "Servicio BMW para Valdeaveruelo (Guadalajara): diagnosis original, Vanos, turbo, caja ZF 8HP. Pide cita.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Valdeaveruelo, en el corredor del Henares guadalajareño.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdeaveruelo ha crecido mucho en los últimos años como pueblo dormitorio del corredor del Henares, con muchos vecinos que hacen a diario el trayecto hasta Guadalajara capital o hasta Madrid por la A-2. Ese uso constante en autovía es exactamente el que más desgasta el turbo y la caja de cambios automática en los BMW diésel.\n\nNo tenemos instalaciones en el propio pueblo, pero organizamos la recogida del coche para que el mantenimiento no dependa de que tengas tiempo para desplazarte con el tráfico de entrada y salida de Madrid.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida para clientes de Valdeaveruelo y el corredor del Henares.",
+  "introLocal": "Valdeaveruelo ha crecido mucho en los últimos años como pueblo dormitorio del corredor del Henares, con muchos vecinos que hacen a diario el trayecto hasta Guadalajara capital o hasta Madrid por la A-2. Ese uso constante en autovía es exactamente el que más desgasta el turbo y la caja de cambios automática en los BMW diésel.",
+  "servicesIntro": "Mantenimiento y reparación BMW para clientes de Valdeaveruelo y el corredor del Henares.",
   "processIntro": "Un proceso adaptado a quien hace trayectos largos a diario.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Nos cuentas el síntoma y valoramos si conviene recoger el coche o si puede circular hasta el taller."
-    },
     {
       "title": "Diagnosis original BMW",
       "body": "Revisamos todos los módulos electrónicos con el equipo oficial."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE, según lo acordado."
-    },
-    {
-      "title": "Devolución del coche",
-      "body": "Coordinamos la entrega según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías habituales en los BMW que hacen a diario el trayecto Valdeaveruelo-Madrid.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdeaveruelo",
-      "body": "Coordinamos la recogida sin que tengas que perder tiempo de trabajo."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usa la red de concesionarios."
     },
@@ -101,12 +89,8 @@
       "body": "Por escrito en toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdeaveruelo y el corredor del Henares en Guadalajara, con especial atención a quienes usan la A-2 a diario.",
+  "zoneText": "Servicio para Valdeaveruelo y el corredor del Henares en Guadalajara, con especial atención a quienes usan la A-2 a diario.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Valdeaveruelo?",
-      "a": "Sí, coordinamos la recogida y devolución según tu disponibilidad."
-    },
     {
       "q": "¿Hacéis diagnóstico antes de dar presupuesto?",
       "a": "Siempre, con el equipo original BMW."
@@ -128,8 +112,7 @@
       "a": "12 meses por escrito."
     }
   ],
-  "closingHeadline": "BMW bien cuidado, sin salir del corredor del Henares",
-  "closingCta": "Escríbenos y organizamos la recogida en Valdeaveruelo.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +124,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdeaveruelo que confían en el servicio.",
   "testimonials": [
-    {
-      "name": "Fernando Yagüe",
-      "neighborhood": "Valdeaveruelo",
-      "body": "Recogieron el coche una mañana y me lo devolvieron esa misma tarde con el turbo reparado.",
-      "rating": 5
-    },
     {
       "name": "Beatriz Somolinos",
       "neighborhood": "Valdeaveruelo",

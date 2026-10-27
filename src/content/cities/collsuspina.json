@@ -7,7 +7,7 @@
   "lat": 41.8249,
   "lng": 2.1731,
   "metaTitle": "Taller BMW en Collsuspina | Mecánica para Clima Extremo",
-  "metaDescription": "Servicio técnico BMW en Collsuspina, a 900m de altitud. Mantenimiento especial para frío extremo, hielo y niebla. Recogida gratuita. Llama ahora.",
+  "metaDescription": "Servicio técnico BMW en Collsuspina, a 900m de altitud. Mantenimiento especial para frío extremo, hielo y niebla. Llama ahora.",
   "heroSubtitle": "A 900 metros de altitud y con los inviernos más fríos de la comarca, tu BMW necesita un taller que domine el clima extremo.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y planificación",
-      "body": "Llámanos o escribe por WhatsApp. Te damos una primera orientación sobre el problema y fijamos una cita. Si tu BMW no puede circular, organizamos la recogida con plataforma en Collsuspina sin coste adicional."
+      "body": "Llámanos o escribe por WhatsApp. Te damos una primera orientación sobre el problema y fijamos una cita."
     },
     {
       "title": "Diagnóstico especializado",
@@ -49,7 +49,7 @@
     },
     {
       "title": "Ejecución y pruebas de rendimiento",
-      "body": "Realizamos las intervenciones autorizadas y probamos el vehículo en condiciones reales. Verificamos arranque en frío, respuesta de frenos y comportamiento de la electrónica antes de darte luz verde para la recogida o la entrega a domicilio."
+      "body": "Realizamos las intervenciones autorizadas y probamos el vehículo en condiciones reales."
     }
   ],
   "commonIssuesIntro": "El frío extremo y la altitud de Collsuspina crean un perfil de averías muy específico en los BMW. Estos son los problemas que diagnosticamos con más frecuencia en los vehículos que circulan habitualmente por esta zona.",
@@ -85,10 +85,6 @@
       "body": "Ofrecemos un paquete de preparación invernal diseñado para las condiciones de Collsuspina: test de batería, verificación de anticongelante, revisión de manguitos, montaje de neumáticos de invierno, revisión de iluminación y tratamiento antiescarcha. Un chequeo completo antes de que llegue el frío."
     },
     {
-      "title": "Recogida gratuita en todo el municipio",
-      "body": "No tienes que bajar hasta Vic o Tona para atender tu BMW. Recogemos el vehículo en tu domicilio de Collsuspina y lo devolvemos reparado. Si no arranca por el frío, también nos encargamos del traslado con plataforma."
-    },
-    {
       "title": "Diagnóstico electrónico de concesionario",
       "body": "Nuestro equipo de diagnóstico cubre toda la gama BMW, desde los modelos más clásicos hasta los eléctricos. Leemos todos los módulos de control, programamos llaves, actualizamos software y realizamos adaptaciones sin necesidad de concesionario."
     },
@@ -99,13 +95,6 @@
   ],
   "testimonialsIntro": "Los propietarios de BMW que viven en lo más alto de Osona confían en nuestro taller para mantener su vehículo preparado para las condiciones más duras. Estas son sus experiencias.",
   "testimonials": [
-    {
-      "name": "Josep L.",
-      "neighborhood": "Collsuspina nucli",
-      "car": "BMW 320d xDrive",
-      "body": "A -12 grados me quedé sin batería una madrugada. Me trajeron una batería nueva, arrancaron el coche en el acto y me hicieron una revisión completa del sistema eléctrico al día siguiente. Ahora hago el test de batería cada octubre, como me recomendaron, y cero problemas.",
-      "rating": 5
-    },
     {
       "name": "Carme O.",
       "neighborhood": "Cal Mestre",
@@ -128,7 +117,7 @@
       "rating": 5
     }
   ],
-  "zoneText": "Cubrimos Collsuspina y toda la zona de transición entre Osona y el Moianès, con servicio de recogida y entrega gratuita. Nuestra experiencia con las condiciones climáticas de altitud nos convierte en la referencia para propietarios de BMW de los municipios más elevados de la comarca.",
+  "zoneText": "Cubrimos Collsuspina y toda la zona de transición entre Osona y el Moianès. Nuestra experiencia con las condiciones climáticas de altitud nos convierte en la referencia para propietarios de BMW de los municipios más elevados de la comarca.",
   "zoneNeighborhoods": [
     "Tona",
     "Centelles",
@@ -164,14 +153,10 @@
     {
       "q": "¿Qué aceite recomiendan para BMW en un clima tan frío?",
       "a": "Para las condiciones de Collsuspina recomendamos aceites BMW Long Life de viscosidad 0W-30 o 0W-20 según el modelo, que mantienen una fluidez óptima incluso a temperaturas muy bajas. El aceite 5W-30 estándar puede ser insuficiente para garantizar una lubricación adecuada en los primeros segundos tras un arranque a -10°C."
-    },
-    {
-      "q": "¿Recogen el coche si no arranca por el frío?",
-      "a": "Sí, disponemos de servicio de recogida con plataforma en todo Collsuspina y alrededores. Si tu BMW no arranca por una mañana helada, llámanos y nos encargamos del traslado al taller. En muchos casos podemos solucionar el problema in situ con un arrancador portátil."
     }
   ],
   "closingHeadline": "El taller BMW preparado para el frío más duro de Osona",
-  "closingCta": "No esperes a quedarte tirado en pleno invierno. Contacta con nosotros para la preparación invernal de tu BMW o cualquier otra necesidad mecánica. Presupuesto gratuito y recogida en Collsuspina.",
+  "closingCta": "No esperes a quedarte tirado en pleno invierno. Contacta con nosotros para la preparación invernal de tu BMW o cualquier otra necesidad mecánica.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",

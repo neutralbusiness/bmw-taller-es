@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valverde de Alcalá es uno de los municipios más pequeños de la Comunidad de Madrid, muy cerca de Alcalá de Henares, con vecinos que hacen a diario trayectos cortos pero frecuentes hacia la ciudad universitaria o hacia Madrid capital por la A-2. No tenemos taller en el propio pueblo, así que ofrecemos recogida para que el mantenimiento del BMW no dependa de tu tiempo libre.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valverde de Alcalá y alrededores.",
+  "introLocal": "Valverde de Alcalá es uno de los municipios más pequeños de la Comunidad de Madrid, muy cerca de Alcalá de Henares, con vecinos que hacen a diario trayectos cortos pero frecuentes hacia la ciudad universitaria o hacia Madrid capital por la A-2.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valverde de Alcalá y alrededores.",
   "processIntro": "Un proceso simple para un municipio pequeño sin taller especializado propio.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Valverde de Alcalá",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen trayectos cortos y frecuentes hacia Alcalá de Henares.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valverde de Alcalá",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valverde de Alcalá y los municipios cercanos que conectan con Alcalá de Henares por la A-2.",
+  "zoneText": "Servicio para Valverde de Alcalá y los municipios cercanos que conectan con Alcalá de Henares por la A-2.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valverde de Alcalá?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,12 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
   "closingHeadline": "Tu BMW bien cuidado, junto a Alcalá de Henares",
-  "closingCta": "Contacta y organizamos la recogida en Valverde de Alcalá.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Vecinos de Valverde de Alcalá que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Anselmo Meco",
-      "neighborhood": "Valverde de Alcalá",
-      "body": "Recogieron el coche y el presupuesto llegó claro por WhatsApp en un par de horas.",
-      "rating": 5
-    },
     {
       "name": "Encarna Anchuelo",
       "neighborhood": "Valverde de Alcalá",
@@ -198,7 +168,7 @@
         "id": "r2-alcobendas",
         "h2": "M-300, M-100 y R-2 hasta la calle Valgrande",
         "parrafos": [
-          "La ruta hasta Dasercars Madrid sale por la M-204, enlaza con la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 43,9 km por carretera, 32,9 en línea recta. La recogida y entrega del taller se ciñe al área metropolitana de Madrid y está sujeta a disponibilidad; pregunta al reservar si tu dirección entra.",
+          "La ruta hasta Dasercars Madrid sale por la M-204, enlaza con la M-300 y la M-100, sigue por la R-2 y entra por la M-50: 43,9 km por carretera, 32,9 en línea recta.",
           "A 802 metros de altitud, en invierno conviene vigilar la batería y el anticongelante."
         ]
       }

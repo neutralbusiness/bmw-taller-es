@@ -7,7 +7,7 @@
   "lat": 43.26271,
   "lng": -2.92528,
   "metaTitle": "Taller BMW en Bilbao | Especialistas en BMW",
-  "metaDescription": "Taller especializado BMW en Bilbao. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja. Recogida en toda la villa y el Gran Bilbao.",
+  "metaDescription": "Taller especializado BMW en Bilbao. Diagnosis con equipo oficial, mantenimiento, reparación de motor y caja.",
   "heroSubtitle": "El taller BMW de referencia en Bilbao, con la experiencia técnica que exige el uso intenso de la ría y las cuestas de la villa.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Bilbao es la ciudad más grande del País Vasco, con más de 345.000 habitantes y una área metropolitana, el Gran Bilbao, que multiplica esa cifra varias veces, lo que la convierte en uno de los mercados de BMW más exigentes del norte de España, tanto por volumen como por la variedad de perfiles de propietario.\n\nLa orografía de Bilbao es determinante: barrios como Artxanda, Begoña o Santutxu están construidos sobre cuestas pronunciadas, y el uso constante de primera y segunda marcha en pendiente exige un embrague, unos frenos y una caja de cambios en mejor estado que en una ciudad llana. A eso se suma el clima húmedo del Cantábrico, con lluvia frecuente todo el año, que acelera la corrosión en bajos, escapes y frenos si no se revisa con regularidad.\n\nEl parque de BMW en Bilbao combina ejecutivos que se mueven por el eje financiero de Abandoibarra y Gran Vía, familias de barrios como Deusto o Indautxu con SUV para el uso diario, y quienes hacen trayectos frecuentes hacia Getxo, Santurtzi o el resto de la margen derecha e izquierda de la ría por la autovía del Kadagua o la N-634.\n\nLa combinación de humedad constante, cuestas pronunciadas y tráfico denso en el centro hace que el mantenimiento preventivo sea más importante en Bilbao que en muchas otras ciudades: frenos, embrague y sistema de escape son los primeros en acusar este tipo de uso, y por eso los revisamos con especial atención en cada visita.\n\nNuestro taller trabaja con el equipo de diagnosis oficial BMW y ofrece recogida en toda la villa, desde el Casco Viejo hasta Deusto o Rekalde, así como en los municipios cercanos del Gran Bilbao.",
+  "introLocal": "Bilbao es la ciudad más grande del País Vasco, con más de 345.000 habitantes y una área metropolitana, el Gran Bilbao, que multiplica esa cifra varias veces, lo que la convierte en uno de los mercados de BMW más exigentes del norte de España, tanto por volumen como por la variedad de perfiles de propietario.\n\nLa orografía de Bilbao es determinante: barrios como Artxanda, Begoña o Santutxu están construidos sobre cuestas pronunciadas, y el uso constante de primera y segunda marcha en pendiente exige un embrague, unos frenos y una caja de cambios en mejor estado que en una ciudad llana. A eso se suma el clima húmedo del Cantábrico, con lluvia frecuente todo el año, que acelera la corrosión en bajos, escapes y frenos si no se revisa con regularidad.\n\nEl parque de BMW en Bilbao combina ejecutivos que se mueven por el eje financiero de Abandoibarra y Gran Vía, familias de barrios como Deusto o Indautxu con SUV para el uso diario, y quienes hacen trayectos frecuentes hacia Getxo, Santurtzi o el resto de la margen derecha e izquierda de la ría por la autovía del Kadagua o la N-634.\n\nLa combinación de humedad constante, cuestas pronunciadas y tráfico denso en el centro hace que el mantenimiento preventivo sea más importante en Bilbao que en muchas otras ciudades: frenos, embrague y sistema de escape son los primeros en acusar este tipo de uso, y por eso los revisamos con especial atención en cada visita.",
   "servicesIntro": "Mantenimiento integral, diagnosis con equipo oficial y reparación de motor, caja de cambios y electrónica para toda la gama BMW.",
   "processIntro": "Un proceso claro pensado para el uso de cuestas y humedad constante que caracteriza a Bilbao.",
   "processSteps": [
     {
       "title": "Cita y primera valoración",
       "body": "Nos cuentas el problema por teléfono o WhatsApp y programamos la cita según urgencia."
-    },
-    {
-      "title": "Recogida en Bilbao o el Gran Bilbao",
-      "body": "Recogemos el coche en tu barrio o municipio cercano si lo necesitas."
     },
     {
       "title": "Diagnosis con equipo oficial BMW",
@@ -85,10 +81,6 @@
       "body": "El mismo nivel técnico que un concesionario, con presupuestos más competitivos."
     },
     {
-      "title": "Recogida en toda la villa y el Gran Bilbao",
-      "body": "Desde el Casco Viejo hasta Getxo o Barakaldo."
-    },
-    {
       "title": "Presupuesto cerrado por escrito",
       "body": "Sabes el coste final antes de autorizar la reparación."
     },
@@ -101,12 +93,8 @@
       "body": "Tú decides el nivel de gasto según la antigüedad y el uso del vehículo."
     }
   ],
-  "zoneText": "Damos servicio a toda la villa de Bilbao, desde el Casco Viejo hasta los barrios más altos de la cuesta, y a los municipios del Gran Bilbao como Getxo, Barakaldo o Santurtzi, con recogida a domicilio.",
+  "zoneText": "Damos servicio a toda la villa de Bilbao, desde el Casco Viejo hasta los barrios más altos de la cuesta, y a los municipios del Gran Bilbao como Getxo, Barakaldo o Santurtzi.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en toda la ciudad de Bilbao?",
-      "a": "Sí, en cualquier barrio, sin coste adicional."
-    },
     {
       "q": "¿También dais servicio a Getxo, Barakaldo o Santurtzi?",
       "a": "Sí, a todo el Gran Bilbao."
@@ -133,7 +121,7 @@
     }
   ],
   "closingHeadline": "El taller BMW que Bilbao necesita",
-  "closingCta": "Pide cita y te recogemos el coche en cualquier punto de Bilbao o el Gran Bilbao.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "testimonialsIntro": "Opiniones de clientes de Bilbao y el Gran Bilbao.",
   "testimonials": [
     {
@@ -146,12 +134,6 @@
       "name": "Ainhoa Uribarri",
       "neighborhood": "Indautxu",
       "body": "Detectaron un problema de embrague antes de que fuera a más, típico de tanto subir a Artxanda.",
-      "rating": 5
-    },
-    {
-      "name": "Gorka Zuloaga",
-      "neighborhood": "Santutxu",
-      "body": "Me recogieron el coche en casa y me lo devolvieron el mismo día. Muy cómodo para quien no tiene tiempo.",
       "rating": 5
     },
     {

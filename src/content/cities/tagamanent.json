@@ -7,7 +7,7 @@
   "lat": 41.7401,
   "lng": 2.26649,
   "metaTitle": "Taller BMW en Tagamanent | Diagnosis y reparación especializada",
-  "metaDescription": "Taller especializado BMW cerca de Tagamanent, en el Vallès Oriental. Diagnosis con equipo original, motor, cambio ZF y mantenimiento. Recogida disponible.",
+  "metaDescription": "Taller especializado BMW cerca de Tagamanent, en el Vallès Oriental. Diagnosis con equipo original, motor, cambio ZF y mantenimiento.",
   "heroSubtitle": "El taller BMW de referencia para los vecinos de Tagamanent y las masías del entorno del Montseny",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Tagamanent es uno de los municipios más pequeños del Vallès Oriental, repartido entre masías y el entorno del Montseny, sin apenas comercio propio ni, por supuesto, un taller especializado en BMW. Quien vive aquí y conduce un BMW sabe que para una revisión seria hay que salir del término municipal, normalmente hacia Figaró-Montmany, Aiguafreda o ya directamente hacia la zona de Granollers.\n\nTrabajamos con clientes de Tagamanent desde hace años, sobre todo propietarios de Series 3 y X1 diésel que hacen trayectos largos hacia Barcelona o Vic y necesitan un coche fiable. Al vivir en zona de montaña, con curvas y pendientes constantes, los frenos, la suspensión y el motor sufren de forma distinta a un uso urbano, algo que tenemos en cuenta al revisar cada vehículo.\n\nAl ser un núcleo tan pequeño, no pretendemos tener \"barrios\" que ofrecer: lo que ofrecemos es cercanía real con la comarca y la posibilidad de recoger el coche o coordinarnos por teléfono para minimizar los desplazamientos del cliente.",
+  "introLocal": "Tagamanent es uno de los municipios más pequeños del Vallès Oriental, repartido entre masías y el entorno del Montseny, sin apenas comercio propio ni, por supuesto, un taller especializado en BMW. Quien vive aquí y conduce un BMW sabe que para una revisión seria hay que salir del término municipal, normalmente hacia Figaró-Montmany, Aiguafreda o ya directamente hacia la zona de Granollers.\n\nTrabajamos con clientes de Tagamanent desde hace años, sobre todo propietarios de Series 3 y X1 diésel que hacen trayectos largos hacia Barcelona o Vic y necesitan un coche fiable. Al vivir en zona de montaña, con curvas y pendientes constantes, los frenos, la suspensión y el motor sufren de forma distinta a un uso urbano, algo que tenemos en cuenta al revisar cada vehículo.",
   "servicesIntro": "Servicio técnico BMW completo, pensado para quien vive en zona rural y no puede permitirse sorpresas con el coche.",
   "processIntro": "Un proceso simple, pensado para reducir tus desplazamientos desde Tagamanent:",
   "processSteps": [
-    {
-      "title": "Contacto telefónico o WhatsApp",
-      "body": "Nos cuentas el síntoma y, si hace falta, coordinamos recogida del vehículo en la zona."
-    },
     {
       "title": "Diagnosis con equipo BMW",
       "body": "Lectura de todas las unidades de control con herramienta original ISTA para no dejarnos nada por revisar."
@@ -85,10 +81,6 @@
       "body": "Sabemos cómo afecta el terreno del Montseny a la mecánica de un BMW."
     },
     {
-      "title": "Recogida coordinada",
-      "body": "Para clientes de Tagamanent, facilitamos la logística de traer el coche al taller."
-    },
-    {
       "title": "Diagnosis original",
       "body": "Mismo software que usa la marca, sin adivinar averías."
     },
@@ -104,20 +96,8 @@
   "zoneText": "Damos servicio a los residentes de Tagamanent y las masías del entorno, así como a los municipios vecinos del Vallès Oriental que comparten la misma situación: sin taller BMW propio y con trayectos de montaña que exigen un mantenimiento cuidado.",
   "faqLocal": [
     {
-      "q": "¿Tenéis taller en el propio Tagamanent?",
-      "a": "No, Tagamanent no dispone de talleres especializados; trabajamos con clientes de la zona coordinando la recogida o la entrega del vehículo."
-    },
-    {
-      "q": "¿Puedo dejar el coche sin bajar dos veces?",
-      "a": "Sí, muchos clientes de la zona nos dejan el coche una vez y lo recogen ya reparado, coordinando por teléfono."
-    },
-    {
       "q": "¿Trabajáis con coches de montaña con muchos km?",
       "a": "Sí, es habitual en esta zona; revisamos con especial atención frenos, suspensión y motor por el tipo de trayecto."
-    },
-    {
-      "q": "¿Hacéis diagnosis a domicilio?",
-      "a": "No disponemos de asistencia móvil, pero facilitamos al máximo el traslado del vehículo al taller."
     },
     {
       "q": "¿Trabajáis con seguros?",
@@ -133,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado aunque vivas lejos del taller",
-  "closingCta": "Escríbenos y coordinamos la recogida desde Tagamanent",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +125,6 @@
   },
   "testimonialsIntro": "Lo que dicen los pocos pero fieles clientes que llegan desde la zona del Montseny:",
   "testimonials": [
-    {
-      "name": "Jaume R.",
-      "neighborhood": "Masía cerca de Tagamanent",
-      "body": "Vivo apartado y aun así se organizaron para recoger el X1 sin que tuviera que bajar dos veces.",
-      "rating": 5
-    },
     {
       "name": "Nuria C.",
       "neighborhood": "Zona del Montseny",

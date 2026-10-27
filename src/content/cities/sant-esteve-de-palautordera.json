@@ -31,17 +31,12 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Esteve de Palautordera es un municipio pequeño del Vallès Oriental, en plena entrada al Parc Natural del Montseny, con carreteras estrechas y de curva constante. No cuenta con taller BMW propio, así que quienes viven aquí suelen desplazarse a Sant Celoni o Granollers para el mantenimiento de la marca.\n\nOfrecemos recogida del vehículo en el pueblo, con diagnosis realizada con el software oficial de BMW, prestando especial atención a frenos y suspensión dado el tipo de carretera que rodea el municipio.",
+  "introLocal": "Sant Esteve de Palautordera es un municipio pequeño del Vallès Oriental, en plena entrada al Parc Natural del Montseny, con carreteras estrechas y de curva constante. No cuenta con taller BMW propio, así que quienes viven aquí suelen desplazarse a Sant Celoni o Granollers para el mantenimiento de la marca.",
   "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica, con atención específica a la conducción de montaña.",
-  "processIntro": "Un proceso simple, con recogida incluida para evitar desplazamientos desde el pueblo.",
   "processSteps": [
     {
       "title": "Contacto inicial",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Esteve de Palautordera",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +45,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que circulan por las carreteras de montaña del Montseny.",
@@ -81,10 +72,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Experiencia con carreteras de montaña",
       "body": "Sabemos qué revisar en vehículos que circulan a diario por el Montseny."
     },
@@ -104,10 +91,6 @@
   "zoneText": "Sant Esteve de Palautordera se encuentra en la entrada del Parc Natural del Montseny, con carreteras estrechas y de montaña que condicionan directamente el tipo de desgaste que vemos en los BMW de la zona.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Esteve de Palautordera?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
       "q": "¿Revisáis los frenos pensando en las curvas del Montseny?",
       "a": "Sí, es una de nuestras revisiones prioritarias dado el tipo de carretera de la zona."
     },
@@ -122,14 +105,10 @@
     {
       "q": "¿Atendéis también Sant Celoni y Fogars de Montclús?",
       "a": "Sí, recibimos clientes de toda la comarca del Montseny."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
   "closingHeadline": "Tu BMW preparado para las carreteras del Montseny",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Esteve de Palautordera que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Pere M.",
-      "neighborhood": "Sant Esteve de Palautordera",
-      "body": "Recogieron el coche en el pueblo y me explicaron bien el desgaste de frenos por las curvas del Montseny.",
-      "rating": 5
-    },
     {
       "name": "Sílvia R.",
       "neighborhood": "Sant Esteve de Palautordera",
@@ -196,7 +169,7 @@
         "id": "bv5301-ap7",
         "h2": "63,8 km: BV-5301, AP-7, C-33 y B-20",
         "parrafos": [
-          "La BV-5301 pasa a 1,3 km del centro y lleva a la AP-7; desde ahí, C-33 y B-20 hasta la nave de Dasercars Barcelona en Sant Joan Despí. Son 63,8 km por carretera, 49 en línea recta. No hay recogida: el municipio queda fuera del área metropolitana."
+          "La BV-5301 pasa a 1,3 km del centro y lleva a la AP-7; desde ahí, C-33 y B-20 hasta la nave de Dasercars Barcelona en Sant Joan Despí. Son 63,8 km por carretera, 49 en línea recta."
         ]
       },
       {

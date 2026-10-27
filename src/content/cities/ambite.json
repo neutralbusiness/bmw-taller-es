@@ -8,7 +8,7 @@
   "lng": -3.172,
   "metaTitle": "Taller BMW para Ambite | Especialista BMW, sureste de Madrid",
   "metaDescription": "BMW en Ambite: ITV en Villarejo de Salvanés, servicio oficial en Alcalá de Henares y taller especialista independiente en Alcobendas, a 66,3 km por la R-3.",
-  "heroSubtitle": "Atención especializada BMW para Ambite y la comarca de las Vegas, con recogida incluida.",
+  "heroSubtitle": "Atención especializada BMW para Ambite y la comarca de las Vegas.",
   "trustChips": [
     {
       "icon": "🛡️",
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Ambite es un municipio pequeño de la comarca de las Vegas, al sureste de Madrid, con poco más de 450 habitantes y un entorno marcadamente agrícola junto al río Tajuña. No hay barrios que describir aquí: es un núcleo compacto rodeado de cultivos, a unos 45 kilómetros de Madrid capital y muy cerca de Arganda del Rey, el municipio grande de referencia para casi cualquier gestión.\n\nEl BMW habitual en Ambite pertenece a agricultores y propietarios de finca que usan un X3 o X5 a diario en caminos de tierra, junto con algún vecino que trabaja en Madrid o Arganda y hace la M-204 y la A-3 con regularidad. Es un uso combinado de pista rural y carretera que desgasta la suspensión y los filtros de aire antes que en un coche puramente urbano.\n\nNo tenemos instalación en el propio Ambite, así que ofrecemos recogida del vehículo en el municipio o en Arganda del Rey, devolviéndolo una vez terminado el trabajo, para que no tengas que perder toda una mañana bajando a Madrid.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida disponible en Ambite y Arganda del Rey.",
+  "introLocal": "Ambite es un municipio pequeño de la comarca de las Vegas, al sureste de Madrid, con poco más de 450 habitantes y un entorno marcadamente agrícola junto al río Tajuña. No hay barrios que describir aquí: es un núcleo compacto rodeado de cultivos, a unos 45 kilómetros de Madrid capital y muy cerca de Arganda del Rey, el municipio grande de referencia para casi cualquier gestión.\n\nEl BMW habitual en Ambite pertenece a agricultores y propietarios de finca que usan un X3 o X5 a diario en caminos de tierra, junto con algún vecino que trabaja en Madrid o Arganda y hace la M-204 y la A-3 con regularidad. Es un uso combinado de pista rural y carretera que desgasta la suspensión y los filtros de aire antes que en un coche puramente urbano.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processIntro": "Un proceso adaptado a la distancia real de un pueblo pequeño de las Vegas.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Ambite o Arganda del Rey."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Ya en el taller, conectamos el software oficial de BMW para revisar todos los sistemas."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW se encargan de la mecánica, incluyendo el desgaste de uso rural."
-    },
-    {
-      "title": "Entrega de vuelta a la zona",
-      "body": "Devolvemos el coche en el punto acordado, sin que tengas que bajar tú a por él."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW que combinan caminos rurales con carretera hacia Madrid.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Ambite",
-      "body": "No hace falta bajar a Madrid, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Conocemos el uso rural del BMW",
       "body": "Sabemos qué desgasta un coche que hace caminos y pista a diario."
     },
@@ -101,19 +89,11 @@
       "body": "Te explicamos todo con calma, sabiendo que no vas a poder pasarte a preguntar en persona."
     }
   ],
-  "zoneText": "Damos servicio a Ambite y a los pueblos de la comarca de las Vegas mediante recogida coordinada.",
+  "zoneText": "Damos servicio a Ambite y a los pueblos de la comarca de las Vegas.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Ambite?",
-      "a": "Sí, coordinamos la recogida en el pueblo o en Arganda del Rey."
-    },
     {
       "q": "¿Atendéis coches usados en caminos de tierra?",
       "a": "Sí, es habitual en la zona y revisamos suspensión y filtros con atención."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, gestionamos partes de las principales compañías."
-    },
-    {
-      "q": "¿Cobráis algo por la recogida del vehículo?",
-      "a": "Depende de la distancia exacta, te lo indicamos al pedir cita sin compromiso."
     }
   ],
   "closingHeadline": "El taller BMW para quien vive en la comarca de las Vegas",
-  "closingCta": "Llámanos desde Ambite y te explicamos cómo coordinar la recogida sin que tengas que bajar a Madrid.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Opiniones de propietarios de Ambite y la comarca de las Vegas.",
   "testimonials": [
     {
-      "name": "Emilio Gascón",
-      "neighborhood": "Ambite",
-      "body": "Uso mi X3 a diario en la finca. Me recogieron el coche en el pueblo y me explicaron bien el tema de la suspensión.",
-      "rating": 5
-    },
-    {
       "name": "Teresa Salas",
       "neighborhood": "Arganda del Rey",
       "body": "Buen trato y presupuesto claro para un problema de filtros. Sin viajes innecesarios a Madrid.",
-      "rating": 5
-    },
-    {
-      "name": "Basilio Yagüe",
-      "neighborhood": "Villar del Olmo",
-      "body": "Cambiaron el filtro de aire de mi X5 a tiempo, se notaba el polvo del camino. Recogida puntual y sin líos.",
       "rating": 5
     }
   ],
@@ -192,7 +156,7 @@
         "id": "r3-hasta-alcobendas",
         "h2": "Por la M-204 y la R-3 hasta la A-1",
         "parrafos": [
-          "Hasta Alcobendas son 66,3 km (46 a vuelo de pájaro): primero la M-204 y la M-209, luego la radial R-3 hacia Madrid, un tramo de M-30 y, al final, la A-1 hasta la nave de Valgrande. La recogida que ofrece el taller es para el área metropolitana de Madrid; desde aquí no llega, así que el viaje lo haces tú.",
+          "Hasta Alcobendas son 66,3 km (46 a vuelo de pájaro): primero la M-204 y la M-209, luego la radial R-3 hacia Madrid, un tramo de M-30 y, al final, la A-1 hasta la nave de Valgrande.",
           "Hacia el norte, a 32,6 km, queda Alcalá de Henares: allí tiene AutoPremier el punto oficial que bmw.es da como más cercano. Para una campaña del fabricante es el sitio; para lo demás, compara."
         ]
       },

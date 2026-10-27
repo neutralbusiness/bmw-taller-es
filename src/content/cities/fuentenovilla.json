@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Fuentenovilla es un municipio pequeño del sur de Guadalajara, cercano al embalse de Buendía y con buena conexión hacia Madrid a través de la A-3, un trayecto que muchos vecinos recorren a diario por trabajo. El parque BMW local, sin ser numeroso, incluye Series 3 y X1 de quienes hacen ese desplazamiento con regularidad.\n\nTrabajamos con diagnosis oficial BMW y coordinamos recogidas cuando es necesario, algo habitual en municipios de este tamaño donde el taller especializado más cercano no siempre está a mano.",
+  "introLocal": "Fuentenovilla es un municipio pequeño del sur de Guadalajara, cercano al embalse de Buendía y con buena conexión hacia Madrid a través de la A-3, un trayecto que muchos vecinos recorren a diario por trabajo. El parque BMW local, sin ser numeroso, incluye Series 3 y X1 de quienes hacen ese desplazamiento con regularidad.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada a quien recorre a diario la A-3 hacia Madrid.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto más cómodo para ti."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por la A-3 desde Fuentenovilla.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Facilitamos el acceso al taller para quien vive en un municipio pequeño."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -103,10 +91,6 @@
   ],
   "zoneText": "Damos servicio a Fuentenovilla y su entorno en el sur de Guadalajara, con muchos clientes que se desplazan a diario hacia Madrid por la A-3.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Fuentenovilla?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Trabajáis con BMW Serie 3 y X1?",
       "a": "Sí, son de los modelos más habituales que recibimos en la zona."

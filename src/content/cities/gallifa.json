@@ -7,7 +7,7 @@
   "lat": 41.69269,
   "lng": 2.11421,
   "metaTitle": "Taller BMW en Gallifa | Mecánica especializada Vallès",
-  "metaDescription": "Servicio BMW para Gallifa, Vallès Occidental. Diagnosis oficial, turbo y caja automática, con recogida coordinada para este pequeño municipio de montaña.",
+  "metaDescription": "Servicio BMW para Gallifa, Vallès Occidental. Diagnosis oficial, turbo y caja automática.",
   "heroSubtitle": "Servicio BMW especializado para Gallifa, en la sierra de Sant Llorenç del Munt",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Gallifa es uno de los municipios más pequeños del Vallès Occidental, con apenas 250 habitantes, encajado en la sierra de Sant Llorenç del Munt i l'Obac. Un pueblo de este tamaño no genera un parque BMW propio numeroso, pero sí atendemos con regularidad a vecinos que necesitan un taller especializado sin tener que bajar hasta Sabadell o Barcelona.\n\nPara estos casos coordinamos siempre la recogida del vehículo, conscientes de que la distancia hasta nuestras instalaciones es real y de que los caminos de montaña de la zona someten al coche a un desgaste particular.",
-  "servicesIntro": "Mecánica y electrónica BMW con recogida coordinada para quienes viven en la sierra de Sant Llorenç del Munt.",
+  "introLocal": "Gallifa es uno de los municipios más pequeños del Vallès Occidental, con apenas 250 habitantes, encajado en la sierra de Sant Llorenç del Munt i l'Obac. Un pueblo de este tamaño no genera un parque BMW propio numeroso, pero sí atendemos con regularidad a vecinos que necesitan un taller especializado sin tener que bajar hasta Sabadell o Barcelona.",
+  "servicesIntro": "Mecánica y electrónica BMW.",
   "processIntro": "Un proceso pensado específicamente para minimizar el desplazamiento desde pueblos pequeños de montaña.",
   "processSteps": [
-    {
-      "title": "Contacto telefónico",
-      "body": "Nos cuentas el síntoma y acordamos el punto y la fecha de recogida."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Trasladamos el vehículo hasta nuestras instalaciones."
-    },
     {
       "title": "Diagnosis oficial",
       "body": "Escaneo completo con software original BMW."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto y autorización",
       "body": "Te llamamos con el diagnóstico antes de reparar nada."
-    },
-    {
-      "title": "Reparación y devolución",
-      "body": "Ejecutamos el trabajo y coordinamos la devolución del vehículo."
     }
   ],
   "commonIssuesIntro": "Averías habituales en los BMW que atendemos de la zona de Sant Llorenç del Munt.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida garantizada",
-      "body": "Nunca te pedimos que asumas tú el desplazamiento a nuestras instalaciones."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,16 +85,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Atendemos Gallifa y los municipios cercanos de la sierra de Sant Llorenç del Munt, con recogida coordinada dado el tamaño y la orografía de la zona.",
+  "zoneText": "Atendemos Gallifa y los municipios cercanos de la sierra de Sant Llorenç del Munt.",
   "faqLocal": [
-    {
-      "q": "¿Podéis venir a recoger el coche a Gallifa?",
-      "a": "Sí, coordinamos siempre la recogida dado el tamaño y la orografía del municipio."
-    },
-    {
-      "q": "¿Tiene coste la recogida?",
-      "a": "Depende de la distancia; te lo indicamos con claridad antes de confirmar la cita."
-    },
     {
       "q": "¿Revisáis frenos por las bajadas de montaña?",
       "a": "Sí, es una revisión habitual en vehículos de la zona."
@@ -118,10 +94,6 @@
     {
       "q": "¿Puedo dejar el coche varias semanas?",
       "a": "Sí, disponemos de aparcamiento vigilado si necesitas dejarlo un tiempo prolongado."
-    },
-    {
-      "q": "¿Cuánto tardáis en dar presupuesto?",
-      "a": "Normalmente el mismo día en que recogemos el vehículo."
     },
     {
       "q": "¿Hacéis revisiones antes de la ITV?",
@@ -133,7 +105,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW especializada, aunque estés en un pueblo de montaña como Gallifa",
-  "closingCta": "Llámanos y coordinamos la recogida de tu BMW en Gallifa.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -146,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Gallifa.",
   "testimonials": [
     {
-      "name": "Domènec F.",
-      "neighborhood": "Gallifa",
-      "body": "Coordinaron la recogida sin ningún problema, algo que en un pueblo tan pequeño y de montaña se agradece muchísimo.",
-      "rating": 5
-    },
-    {
       "name": "Assumpta R.",
       "neighborhood": "Gallifa",
       "body": "Detectaron un desgaste de frenos por las bajadas de la sierra que no había notado. Muy meticulosos.",
-      "rating": 5
-    },
-    {
-      "name": "Ferran C.",
-      "neighborhood": "Gallifa",
-      "body": "Pese a lo apartado que vivo, la recogida y entrega fueron puntuales y sin complicaciones.",
       "rating": 5
     }
   ],

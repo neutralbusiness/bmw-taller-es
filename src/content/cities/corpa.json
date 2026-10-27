@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Corpa es un pueblo pequeño del este de Madrid, cerca de Alcalá de Henares, con una vida tranquila ligada al campo y a los municipios vecinos de Pezuela de las Torres y Villalbilla. No hay comercio especializado en automoción en el propio término.\n\nLos vecinos de Corpa que tienen un BMW suelen resolver sus averías desplazándose hasta Alcalá de Henares o hacia Madrid capital. Nuestro taller da servicio a esta zona, con la opción de recogida cuando el desplazamiento no resulta sencillo.",
-  "servicesIntro": "Diagnóstico y reparación con posibilidad de recogida para pueblos del este madrileño.",
+  "introLocal": "Corpa es un pueblo pequeño del este de Madrid, cerca de Alcalá de Henares, con una vida tranquila ligada al campo y a los municipios vecinos de Pezuela de las Torres y Villalbilla. No hay comercio especializado en automoción en el propio término.\n\nLos vecinos de Corpa que tienen un BMW suelen resolver sus averías desplazándose hasta Alcalá de Henares o hacia Madrid capital. Nuestro taller da servicio a esta zona.",
+  "servicesIntro": "Diagnóstico y reparación para pueblos del este madrileño.",
   "processIntro": "Adaptamos la logística a la distancia sin renunciar al rigor del diagnóstico.",
   "processSteps": [
     {
@@ -56,7 +56,6 @@
       "body": "Comprobamos el resultado y te damos garantía por escrito sobre la pieza y la mano de obra."
     }
   ],
-  "commonIssuesIntro": "Fallos habituales en los BMW que recogemos en la zona este de Madrid.",
   "commonIssues": [
     {
       "title": "Bomba de aceite de alta presión con desgaste",
@@ -101,12 +100,8 @@
       "body": "Te explicamos lo que le pasa a tu coche en un lenguaje que entiendes, sin adornos ni presión para vender más de lo necesario."
     }
   ],
-  "zoneText": "Damos servicio a Corpa y a los pueblos cercanos del este de Madrid: Pezuela de las Torres, Villalbilla y Alcalá de Henares, con recogida disponible según distancia.",
+  "zoneText": "Damos servicio a Corpa y a los pueblos cercanos del este de Madrid: Pezuela de las Torres, Villalbilla y Alcalá de Henares.",
   "faqLocal": [
-    {
-      "q": "¿Puedo pedir recogida del coche desde Corpa?",
-      "a": "Sí, coordinamos el traslado según la distancia y la urgencia de la avería."
-    },
     {
       "q": "¿Compensa reparar un BMW antiguo en un pueblo tan pequeño?",
       "a": "Depende del estado general; te damos una valoración honesta antes de invertir en la reparación."
@@ -114,10 +109,6 @@
     {
       "q": "¿Trabajáis con coches usados que se compran para uso agrícola en la zona?",
       "a": "Nos centramos en turismos y todocamino BMW, aunque valoramos cada caso concreto."
-    },
-    {
-      "q": "¿Cuánto tarda el traslado desde Corpa hasta el taller?",
-      "a": "Normalmente lo coordinamos en el mismo día o el siguiente, según disponibilidad."
     },
     {
       "q": "¿Puedo pedir solo un diagnóstico sin comprometerme a reparar?",
@@ -129,7 +120,7 @@
     }
   ],
   "closingHeadline": "La distancia no es excusa para un mal diagnóstico",
-  "closingCta": "Llámanos desde Corpa y organizamos la recogida de tu BMW.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +132,6 @@
   },
   "testimonialsIntro": "Clientes del este de Madrid que confían en nuestro servicio.",
   "testimonials": [
-    {
-      "name": "Basilio H.",
-      "neighborhood": "Corpa",
-      "body": "Me recogieron el coche en el pueblo porque la avería no me dejaba circular con seguridad. Servicio muy útil.",
-      "rating": 5
-    },
     {
       "name": "Encarna Ll.",
       "neighborhood": "Villalbilla",

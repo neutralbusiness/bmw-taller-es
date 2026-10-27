@@ -7,7 +7,7 @@
   "lat": 40.75629,
   "lng": -3.37559,
   "metaTitle": "Taller BMW cerca de Valdenuño Fernández | Guadalajara",
-  "metaDescription": "Servicio BMW para Valdenuño Fernández (Guadalajara): diagnosis original, Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible.",
+  "metaDescription": "Servicio BMW para Valdenuño Fernández (Guadalajara): diagnosis original, Vanos, turbo y caja ZF 8HP.",
   "heroSubtitle": "Servicio especializado en BMW para los vecinos de Valdenuño Fernández, en la comarca de la Campiña.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdenuño Fernández es un municipio pequeño de la provincia de Guadalajara donde el BMW suele usarse para trayectos largos hacia Guadalajara capital o Madrid, con etapas de autovía que exigen bastante al motor y a la caja de cambios. No tenemos taller en el propio pueblo, así que organizamos la recogida del coche para que no dependas de coger un día libre para el mantenimiento.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valdenuño Fernández y la comarca.",
+  "introLocal": "Valdenuño Fernández es un municipio pequeño de la provincia de Guadalajara donde el BMW suele usarse para trayectos largos hacia Guadalajara capital o Madrid, con etapas de autovía que exigen bastante al motor y a la caja de cambios.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valdenuño Fernández y la comarca.",
   "processIntro": "Un proceso simple, pensado para quien vive lejos de un taller especializado en BMW.",
   "processSteps": [
-    {
-      "title": "Consulta por teléfono",
-      "body": "Valoramos si el coche puede circular hasta el taller o si conviene recogerlo."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos del coche."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Valdenuño Fernández",
-      "body": "Coordinamos la entrega según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen trayectos largos desde la comarca de la Campiña.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdenuño Fernández",
-      "body": "No hace falta que interrumpas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En cada reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdenuño Fernández y los municipios cercanos de la Campiña del Henares en Guadalajara.",
+  "zoneText": "Servicio para Valdenuño Fernández y los municipios cercanos de la Campiña del Henares en Guadalajara.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdenuño Fernández?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,11 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, si prefieres no esperar a la recogida."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
-  "closingHeadline": "Tu BMW bien cuidado, sin salir de la comarca",
-  "closingCta": "Contacta y organizamos la recogida en Valdenuño Fernández.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdenuño Fernández que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Basilio Cogolludo",
-      "neighborhood": "Valdenuño Fernández",
-      "body": "Recogieron el coche y me avisaron con el presupuesto antes de tocarlo, todo por WhatsApp.",
-      "rating": 5
-    },
     {
       "name": "Pilar Mohernando",
       "neighborhood": "Valdenuño Fernández",

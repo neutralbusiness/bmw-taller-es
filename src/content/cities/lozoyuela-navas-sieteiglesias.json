@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Lozoyuela-Navas-Sieteiglesias es un municipio formado por tres pequeños núcleos de la Sierra Norte de Madrid, con muy poca población y ningún taller especializado en BMW en la zona. Los vecinos que tienen un BMW suelen bajar hasta Madrid capital para cualquier revisión seria, un desplazamiento largo para un simple mantenimiento.\n\nOfrecemos recogida a domicilio precisamente para evitar ese viaje, con el mismo nivel de diagnóstico oficial que aplicamos en cualquier otra zona de nuestra red.",
-  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW, con recogida a domicilio.",
+  "introLocal": "Lozoyuela-Navas-Sieteiglesias es un municipio formado por tres pequeños núcleos de la Sierra Norte de Madrid, con muy poca población y ningún taller especializado en BMW en la zona. Los vecinos que tienen un BMW suelen bajar hasta Madrid capital para cualquier revisión seria, un desplazamiento largo para un simple mantenimiento.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW.",
   "processIntro": "Un proceso pensado para minimizar el desplazamiento en una zona sin taller especializado cercano.",
   "processSteps": [
     {
       "title": "Contacto",
       "body": "Nos cuentas el síntoma del coche por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida",
-      "body": "Coordinamos la recogida del vehículo en cualquiera de los tres núcleos del municipio."
     },
     {
       "title": "Diagnóstico",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto",
       "body": "Coste detallado antes de reparar nada."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el coche en el punto acordado."
     }
   ],
   "commonIssuesIntro": "En los BMW de esta zona serrana vemos con frecuencia:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Evita el largo desplazamiento hasta Madrid capital."
-    },
-    {
       "title": "Mismo diagnóstico que oficial",
       "body": "Software ISTA equivalente al de la red de concesionarios."
     },
@@ -101,12 +89,8 @@
       "body": "En mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos Lozoyuela, Navas y Sieteiglesias, con recogida a domicilio para evitar el desplazamiento hasta Madrid.",
+  "zoneText": "Atendemos Lozoyuela, Navas y Sieteiglesias.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en cualquiera de los tres núcleos?",
-      "a": "Sí, en Lozoyuela, Navas y Sieteiglesias."
-    },
     {
       "q": "¿Hay que bajar hasta Madrid para diagnosticar?",
       "a": "No, tenemos el mismo software oficial que un concesionario."
@@ -122,14 +106,9 @@
     {
       "q": "¿Qué garantía tienen las reparaciones?",
       "a": "12 meses en mano de obra, según la pieza utilizada."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida y devolución?",
-      "a": "Depende de la reparación; te damos plazo estimado al confirmar el diagnóstico."
     }
   ],
-  "closingHeadline": "El taller BMW llega hasta la Sierra Norte",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que tengas que bajar a Madrid.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +121,9 @@
   "testimonialsIntro": "Opinión de un vecino de la zona:",
   "testimonials": [
     {
-      "name": "Fernando A.",
-      "neighborhood": "Navas",
-      "body": "Vivo lejos de cualquier taller especializado y agradecí mucho que vinieran a buscar el coche.",
-      "rating": 5
-    },
-    {
       "name": "Susana P.",
       "neighborhood": "Lozoyuela",
       "body": "Diagnóstico de un fallo eléctrico en mi Z4 resuelto sin desplazarme hasta Madrid.",
-      "rating": 5
-    },
-    {
-      "name": "Ramón I.",
-      "neighborhood": "Sieteiglesias",
-      "body": "Recogieron el coche en el pueblo y me lo devolvieron con el problema del turbo resuelto.",
       "rating": 5
     }
   ],

@@ -7,7 +7,7 @@
   "lat": 40.79941,
   "lng": -3.62026,
   "metaTitle": "Taller BMW cerca de Venturada | Sierra Norte de Madrid",
-  "metaDescription": "Servicio BMW para Venturada: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible. Pide cita.",
+  "metaDescription": "Servicio BMW para Venturada: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Pide cita.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de Venturada, a pie de la A-1.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Venturada tiene acceso directo a la A-1, lo que hace que sea un punto de paso habitual para quienes viven en la Sierra Norte y trabajan en Madrid capital, con trayectos de autovía largos casi todos los días. No tenemos taller en el propio municipio, así que ofrecemos recogida del coche con el mismo diagnóstico que usaría el concesionario oficial.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Venturada y la Sierra Norte.",
+  "introLocal": "Venturada tiene acceso directo a la A-1, lo que hace que sea un punto de paso habitual para quienes viven en la Sierra Norte y trabajan en Madrid capital, con trayectos de autovía largos casi todos los días.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Venturada y la Sierra Norte.",
   "processIntro": "Un proceso simple para quien hace trayectos largos a diario por la A-1.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Venturada",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen a diario el trayecto por la A-1 desde Venturada.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Venturada",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Venturada y los municipios cercanos que conectan con Madrid por la A-1.",
+  "zoneText": "Servicio para Venturada y los municipios cercanos que conectan con Madrid por la A-1.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Venturada?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,12 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
   "closingHeadline": "Tu BMW bien cuidado, junto a la A-1",
-  "closingCta": "Contacta y organizamos la recogida en Venturada.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Vecinos de Venturada que ya han probado el servicio.",
   "testimonials": [
     {
-      "name": "Wenceslao Guadalix",
-      "neighborhood": "Venturada",
-      "body": "Recogieron el coche y el presupuesto llegó claro en un par de horas, sin sorpresas.",
-      "rating": 5
-    },
-    {
       "name": "Herminia San Agustín",
       "neighborhood": "Venturada",
       "body": "Diagnosticaron bien un fallo de refrigeración que llevaba tiempo dando problemas.",
-      "rating": 5
-    },
-    {
-      "name": "Ceferino San Agustín",
-      "neighborhood": "Venturada",
-      "body": "Recogieron el coche y me lo devolvieron el mismo día con el turbo reparado.",
       "rating": 5
     }
   ],

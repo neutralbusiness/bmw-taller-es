@@ -104,13 +104,6 @@
   "testimonialsIntro": "Vecinos de Olost y de las masías del Lluçanès nos cuentan cómo su BMW responde al uso diario en la comarca.",
   "testimonials": [
     {
-      "name": "Ramon V.",
-      "neighborhood": "El Nucli",
-      "car": "BMW X3 xDrive30d",
-      "body": "Con la explotación lechera necesito el X3 cada día para llevar la leche hasta la cooperativa, llueva o nieve. Desde que llevo el mantenimiento aquí no he tenido ni una avería en plena recogida.",
-      "rating": 5
-    },
-    {
       "name": "Neus F.",
       "neighborhood": "Les Masies de Voltregà",
       "car": "BMW Serie 3 318d",
@@ -158,20 +151,12 @@
       "a": "Sí, antes de la temporada de heladas revisamos batería, líquidos anticongelantes y sistemas de arranque en frío para evitar sorpresas en las madrugadas de montaña."
     },
     {
-      "q": "Vivo en una masía alejada de Olost, ¿puedo dejar el coche igualmente?",
-      "a": "Sí, trabajamos habitualmente con clientes de masías dispersas por la comarca; podemos coordinar la entrega y recogida para minimizar tus desplazamientos."
-    },
-    {
       "q": "¿El uso agrícola con largos periodos de motor al ralentí daña el BMW?",
       "a": "Puede acelerar el desgaste de componentes como la válvula EGR o el filtro de partículas. Lo revisamos específicamente si nos indicas este tipo de uso."
     },
     {
       "q": "¿Tenéis recambios disponibles o hay que esperar mucho por la distancia a Barcelona?",
       "a": "Gestionamos los pedidos con antelación para minimizar tiempos de espera, sabiendo que en Olost no se puede depender de un taller urbano para todo."
-    },
-    {
-      "q": "¿Qué pasa si mi BMW se avería en la BV-4341 o en un camino rural?",
-      "a": "Contáctanos y te orientamos sobre la mejor forma de trasladar el vehículo hasta el taller según la avería y tu ubicación exacta en la comarca."
     }
   ],
   "closingHeadline": "Tu BMW, listo para el Lluçanès en cualquier estación",
@@ -214,7 +199,7 @@
         "h2": "De la C-62 a la B-20: 102,5 kilómetros",
         "parrafos": [
           "La C-62 pasa a menos de un kilómetro del núcleo. Desde ahí, la ruta más corta hasta la nave de Dasercars Barcelona enlaza con la C-25, baja por la C-16 y entra por la B-20 en Sant Joan Despí: 102,5 km por carretera, 69 en línea recta.",
-          "Olost no está en el área metropolitana de Barcelona y la recogida que ofrece el taller no llega hasta aquí. Por eso el viaje se reserva para lo que de verdad pide un especialista en la marca: una avería electrónica sin localizar, un problema del sistema de AdBlue o un segundo diagnóstico antes de aceptar una reparación cara."
+          "Olost no está en el área metropolitana de Barcelona. Por eso el viaje se reserva para lo que de verdad pide un especialista en la marca: una avería electrónica sin localizar, un problema del sistema de AdBlue o un segundo diagnóstico antes de aceptar una reparación cara."
         ]
       },
       {

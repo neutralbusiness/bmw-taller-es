@@ -7,7 +7,7 @@
   "lat": 40.39627,
   "lng": -4.17659,
   "metaTitle": "Taller BMW cerca de Colmenar del Arroyo | Oeste de Madrid",
-  "metaDescription": "Taller BMW especializado que atiende Colmenar del Arroyo y el oeste de Madrid. Diagnóstico, mantenimiento y reparación con recogida disponible.",
+  "metaDescription": "Taller BMW especializado que atiende Colmenar del Arroyo y el oeste de Madrid. Diagnóstico, mantenimiento y reparación.",
   "heroSubtitle": "Mecánica BMW especializada para los pueblos del oeste de Madrid.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Colmenar del Arroyo es un pueblo pequeño del oeste de Madrid, con una vida ligada al campo y a la cercanía de otros municipios como Navalagamella y Villamanta, sin apenas comercio especializado en automoción en el propio término.\n\nLos vecinos de Colmenar del Arroyo que tienen un BMW suelen resolver sus averías desplazándose hacia San Martín de Valdeiglesias o hacia el área metropolitana de Madrid. Nuestro taller da servicio a esta zona con la opción de recogida cuando el desplazamiento no es sencillo.",
-  "servicesIntro": "Diagnóstico y reparación con posibilidad de recogida para pueblos del oeste madrileño.",
+  "introLocal": "Colmenar del Arroyo es un pueblo pequeño del oeste de Madrid, con una vida ligada al campo y a la cercanía de otros municipios como Navalagamella y Villamanta, sin apenas comercio especializado en automoción en el propio término.\n\nLos vecinos de Colmenar del Arroyo que tienen un BMW suelen resolver sus averías desplazándose hacia San Martín de Valdeiglesias o hacia el área metropolitana de Madrid. Nuestro taller da servicio a esta zona.",
+  "servicesIntro": "Diagnóstico y reparación para pueblos del oeste madrileño.",
   "processIntro": "Adaptamos la logística a la distancia sin renunciar al rigor técnico.",
   "processSteps": [
     {
@@ -56,7 +56,6 @@
       "body": "Antes de entregarlo probamos el coche en carretera real y revisamos que el aviso o el ruido haya desaparecido."
     }
   ],
-  "commonIssuesIntro": "Fallos habituales en los BMW que recogemos en la zona oeste de Madrid.",
   "commonIssues": [
     {
       "title": "Sobrecalentamiento por bomba de agua eléctrica",
@@ -101,27 +100,15 @@
       "body": "Si algo no queda como esperabas, te atendemos de nuevo sin más coste, dentro del periodo de garantía."
     }
   ],
-  "zoneText": "Damos servicio a Colmenar del Arroyo y a los pueblos cercanos del oeste de Madrid: Navalagamella, Villamanta y Aldea del Fresno, con recogida disponible según distancia.",
+  "zoneText": "Damos servicio a Colmenar del Arroyo y a los pueblos cercanos del oeste de Madrid: Navalagamella, Villamanta y Aldea del Fresno.",
   "faqLocal": [
-    {
-      "q": "¿Puedo pedir recogida del coche desde Colmenar del Arroyo?",
-      "a": "Sí, coordinamos el traslado según la distancia y la urgencia de la avería."
-    },
     {
       "q": "¿Trabajáis con coches de bastantes años en la zona rural?",
       "a": "Sí, es habitual y tenemos experiencia con generaciones antiguas de BMW bien mantenidas."
     },
     {
-      "q": "¿Tiene coste la recogida?",
-      "a": "Depende de la distancia; te lo indicamos antes de confirmar el servicio."
-    },
-    {
       "q": "¿Puedo pedir solo diagnóstico antes de decidir reparar?",
       "a": "Sí, es la opción más habitual entre nuestros clientes de pueblos pequeños."
-    },
-    {
-      "q": "¿Cuánto tarda el traslado desde Colmenar del Arroyo?",
-      "a": "Normalmente lo coordinamos en el mismo día o el siguiente."
     },
     {
       "q": "¿Dais presupuesto por escrito antes de reparar?",
@@ -129,7 +116,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, atendido aunque vivas en un pueblo pequeño",
-  "closingCta": "Llámanos desde Colmenar del Arroyo y organizamos la recogida.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +128,6 @@
   },
   "testimonialsIntro": "Clientes del oeste de Madrid que confían en nuestro servicio.",
   "testimonials": [
-    {
-      "name": "Emilio V.",
-      "neighborhood": "Colmenar del Arroyo",
-      "body": "Vinieron a recoger el coche a domicilio y me ahorraron un desplazamiento complicado.",
-      "rating": 5
-    },
     {
       "name": "Rosario N.",
       "neighborhood": "Navalagamella",

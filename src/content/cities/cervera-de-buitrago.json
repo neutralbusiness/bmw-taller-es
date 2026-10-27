@@ -7,7 +7,7 @@
   "lat": 40.9134,
   "lng": -3.51893,
   "metaTitle": "Taller BMW cerca de Cervera de Buitrago | Sierra Norte de Madrid",
-  "metaDescription": "Taller BMW especializado que atiende Cervera de Buitrago y la Sierra Norte de Madrid. Diagnóstico y reparación con recogida disponible.",
+  "metaDescription": "Taller BMW especializado que atiende Cervera de Buitrago y la Sierra Norte de Madrid.",
   "heroSubtitle": "Mecánica BMW especializada, con servicio para los pueblos de la Sierra Norte.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cervera de Buitrago es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas un puñado de vecinos censados. Es un pueblo tranquilo, sin comercio especializado en automoción, donde cualquier avería del coche obliga casi siempre a desplazarse hacia Buitrago del Lozoya o hacia la A-1.\n\nSomos conscientes de que un cliente de Cervera de Buitrago no va a encontrar nada especializado en BMW a la vuelta de la esquina, así que facilitamos recogida y gestión del vehículo para no obligar a nadie a organizar un desplazamiento complicado por una avería.",
-  "servicesIntro": "Diagnóstico y reparación con posibilidad de recogida para pueblos pequeños de la Sierra Norte.",
+  "introLocal": "Cervera de Buitrago es uno de los municipios más pequeños de la Sierra Norte de Madrid, con apenas un puñado de vecinos censados. Es un pueblo tranquilo, sin comercio especializado en automoción, donde cualquier avería del coche obliga casi siempre a desplazarse hacia Buitrago del Lozoya o hacia la A-1.",
+  "servicesIntro": "Diagnóstico y reparación para pueblos pequeños de la Sierra Norte.",
   "processIntro": "Adaptamos la logística a la distancia, sin renunciar al rigor del diagnóstico.",
   "processSteps": [
     {
@@ -56,7 +56,6 @@
       "body": "Rodamos el coche en condiciones reales para confirmar que el problema está resuelto, no solo que el testigo se apagó."
     }
   ],
-  "commonIssuesIntro": "Problemas frecuentes en los BMW que recogemos en la Sierra Norte.",
   "commonIssues": [
     {
       "title": "Caja ZF 8HP con testigo de caja iluminado",
@@ -101,23 +100,11 @@
       "body": "Preferimos un cliente que vuelve cada año a uno que paga una vez de más."
     }
   ],
-  "zoneText": "Damos servicio a Cervera de Buitrago y a los pueblos pequeños de la Sierra Norte de Madrid: Buitrago del Lozoya, Robregordo y Bustarviejo, con recogida disponible por la distancia.",
+  "zoneText": "Damos servicio a Cervera de Buitrago y a los pueblos pequeños de la Sierra Norte de Madrid: Buitrago del Lozoya, Robregordo y Bustarviejo.",
   "faqLocal": [
-    {
-      "q": "Vivo en Cervera de Buitrago y no tengo forma fácil de bajar el coche, ¿qué puedo hacer?",
-      "a": "Ofrecemos recogida en la zona; solo tienes que decirnos dónde está el vehículo y coordinamos el traslado."
-    },
     {
       "q": "¿Compensa reparar un BMW antiguo en un pueblo tan pequeño como este?",
       "a": "Depende del estado general; te damos una valoración honesta antes de invertir en la reparación."
-    },
-    {
-      "q": "¿Cuánto tarda el traslado desde la Sierra Norte hasta el taller?",
-      "a": "Normalmente lo coordinamos en el mismo día o el siguiente, según disponibilidad."
-    },
-    {
-      "q": "¿Tiene coste adicional la recogida?",
-      "a": "Depende de la distancia exacta; te lo indicamos antes de confirmar el servicio."
     },
     {
       "q": "¿Puedo pedir solo un diagnóstico sin comprometerme a reparar?",
@@ -129,7 +116,7 @@
     }
   ],
   "closingHeadline": "La distancia no es excusa para un mal diagnóstico",
-  "closingCta": "Llámanos desde Cervera de Buitrago y organizamos la recogida de tu BMW.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +128,6 @@
   },
   "testimonialsIntro": "Clientes de pueblos pequeños de la Sierra Norte que confían en nuestro servicio.",
   "testimonials": [
-    {
-      "name": "Julián R.",
-      "neighborhood": "Cervera de Buitrago",
-      "body": "Vinieron a recoger el coche porque desde aquí no tenía forma fácil de bajarlo. Un servicio que se agradece en un pueblo tan pequeño.",
-      "rating": 5
-    },
     {
       "name": "Pilar M.",
       "neighborhood": "Buitrago del Lozoya",

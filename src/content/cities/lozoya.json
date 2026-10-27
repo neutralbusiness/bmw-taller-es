@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Lozoya es un municipio pequeño de la Sierra Norte de Madrid, con un entorno natural muy marcado por el Valle del Lozoya y el embalse de Pinilla. No hay taller especializado en BMW en el propio pueblo, así que los vecinos que tienen uno suelen desplazarse hacia Madrid capital o Buitrago del Lozoya para cualquier revisión seria.\n\nEl uso del coche aquí suele combinar carreteras de montaña con desplazamientos largos hacia la capital, un tipo de conducción que exige un cuidado especial en frenos y suspensión. Ofrecemos recogida a domicilio para facilitar el mantenimiento sin que haga falta bajar hasta Madrid.",
+  "introLocal": "Lozoya es un municipio pequeño de la Sierra Norte de Madrid, con un entorno natural muy marcado por el Valle del Lozoya y el embalse de Pinilla. No hay taller especializado en BMW en el propio pueblo, así que los vecinos que tienen uno suelen desplazarse hacia Madrid capital o Buitrago del Lozoya para cualquier revisión seria.\n\nEl uso del coche aquí suele combinar carreteras de montaña con desplazamientos largos hacia la capital, un tipo de conducción que exige un cuidado especial en frenos y suspensión.",
   "servicesIntro": "Diagnosis oficial, mantenimiento programado y reparación de motor, frenos y suspensión para cualquier BMW.",
   "processIntro": "Simplificamos el proceso para quienes viven en la sierra, lejos de un especialista BMW.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos cuentas el síntoma y valoramos si conviene recoger el coche."
-    },
     {
       "title": "Diagnóstico",
       "body": "Identificamos el problema con el software oficial de BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Ejecutamos el trabajo con el recambio que prefieras."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el coche en el punto que más te convenga."
     }
   ],
   "commonIssuesIntro": "En los BMW de la zona de Lozoya, con carreteras de montaña, vemos con frecuencia:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Evita el desplazamiento hasta Madrid para revisiones rutinarias."
-    },
-    {
       "title": "Conocemos las carreteras de sierra",
       "body": "Ajustamos el mantenimiento al desgaste real de este entorno."
     },
@@ -101,12 +89,8 @@
       "body": "En mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos Lozoya y el Valle del Lozoya, con recogida a domicilio para evitar el desplazamiento hasta Madrid.",
+  "zoneText": "Atendemos Lozoya y el Valle del Lozoya.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Lozoya?",
-      "a": "Sí, ofrecemos recogida a domicilio en todo el Valle del Lozoya."
-    },
     {
       "q": "¿Las carreteras de montaña desgastan más el coche?",
       "a": "Sí, especialmente frenos y suspensión; lo tenemos en cuenta al revisar."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Lozoya",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW en el Valle del Lozoya.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Opinión de un vecino del Valle del Lozoya:",
   "testimonials": [
-    {
-      "name": "Alberto N.",
-      "neighborhood": "Lozoya",
-      "body": "Con las carreteras de aquí los frenos se desgastan rápido. Me lo explicaron bien y vinieron a recoger el coche.",
-      "rating": 5
-    },
     {
       "name": "Rocío S.",
       "neighborhood": "Lozoya",

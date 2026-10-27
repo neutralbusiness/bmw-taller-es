@@ -7,7 +7,7 @@
   "lat": 41.5159,
   "lng": 2.12457,
   "metaTitle": "Taller especialista BMW y MINI cerca de Barberà del Vallès",
-  "metaDescription": "Especialista independiente BMW y MINI para Barberà del Vallès: taller en Sant Joan Despí a 28,2 km y recogida en el área metropolitana, sujeta a disponibilidad.",
+  "metaDescription": "Especialista independiente BMW y MINI para Barberà del Vallès: taller en Sant Joan Despí a 28,2 km.",
   "heroSubtitle": "Tu BMW tiene más de 150.000 km y merece un mantenimiento preventivo serio, no solo un cambio de aceite. Aquí vamos al grano.",
   "trustChips": [
     {
@@ -162,7 +162,7 @@
     },
     {
       "q": "¿Compensa reparar el sistema Vanos en un gasolina con años o es mejor cambiar de coche?",
-      "a": "Compensa totalmente. Un fallo en el Vanos o Valvetronic hace que el coche vaya mal, consuma mucho y no rinda. Pero la reparación, ya sea cambiando solenoides o el motor, es mucho más económica que cambiar de coche. Un BMW bien mantenido, incluso con 200.000 km, tiene motor para rato. Arreglar el sistema de distribución variable es devolverle la vida y la eficiencia por una fracción del coste de un vehículo nuevo."
+      "a": "Compensa totalmente. Un fallo en el Vanos o Valvetronic hace que el coche vaya mal, consuma mucho y no rinda. Pero la reparación, ya sea cambiando solenoides o el motor, es mucho más económica que cambiar de coche. Un BMW bien mantenido, incluso con 200.000 km, tiene motor para rato."
     },
     {
       "q": "¿Hacéis la pre-ITV pensando en la estación de Sant Cugat o Sabadell?",
@@ -195,7 +195,7 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Barberà del Vallès: taller BMW de la red a 28 km y recogida dentro del AMB",
+    "h1": "Barberà del Vallès: taller BMW de la red a 28 km",
     "entradilla": "Barberà forma parte del Área Metropolitana de Barcelona, y eso cambia las cosas: el taller especialista de la red está en Sant Joan Despí, pero el coche puede viajar sin ti. Además, en Sabadell tienes un taller autorizado BMW y una ITV a pocos kilómetros.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
@@ -203,11 +203,10 @@
     },
     "secciones": [
       {
-        "id": "recogida-desde-barbera",
+        "id": "barbera",
         "h2": "Que el coche haga el viaje solo",
         "parrafos": [
-          "Al estar dentro del área metropolitana, Barberà entra en la zona donde Dasercars Barcelona ofrece recogida y entrega del vehículo y coche de cortesía. Las dos cosas dependen de la disponibilidad de cada día, así que se piden al reservar y no con el coche ya parado en la puerta de casa.",
-          "Si prefieres llevarlo tú, la ruta desde el centro sale a la B-30, toma un tramo de AP-7 y baja por la B-23 hasta el carrer del Tambor del Bruc: 28,2 km por carretera, 17,4 en línea recta."
+          "La ruta desde el centro sale a la B-30, toma un tramo de AP-7 y baja por la B-23 hasta el carrer del Tambor del Bruc: 28,2 km por carretera, 17,4 en línea recta."
         ]
       },
       {
@@ -235,10 +234,6 @@
       }
     ],
     "faq": [
-      {
-        "q": "¿Recogéis el coche en Barberà del Vallès?",
-        "a": "Sí: Barberà está dentro del área metropolitana de Barcelona, donde hay recogida y entrega sujeta a disponibilidad. Pídela al reservar."
-      },
       {
         "q": "¿Cuál es el taller autorizado BMW más cercano?",
         "a": "Hay dos en Sabadell, a 4 km según bmw.es: Sitjas Motor, en la calle Quintana 64, y Quadis Munich, en el carrer Costa i Deu 133."

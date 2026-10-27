@@ -7,7 +7,7 @@
   "lat": 41.3046,
   "lng": 1.55844,
   "metaTitle": "Taller BMW cerca de Sant Jaume dels Domenys | Baix Penedès",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Jaume dels Domenys, Baix Penedès. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Jaume dels Domenys, Baix Penedès. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Jaume dels Domenys",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Jaume dels Domenys es un municipio pequeño del Baix Penedès, en una zona agrícola entre Vilafranca y El Vendrell, sin taller especializado en BMW propio. Quien tiene un vehículo de la marca aquí suele desplazarse a El Vendrell o Vilafranca del Penedès para el mantenimiento.\n\nOfrecemos recogida del vehículo en Sant Jaume dels Domenys, con diagnosis realizada con el software oficial de BMW y devolución del coche una vez terminado el trabajo, sin que tengas que desplazarte.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Jaume dels Domenys es un municipio pequeño del Baix Penedès, en una zona agrícola entre Vilafranca y El Vendrell, sin taller especializado en BMW propio. Quien tiene un vehículo de la marca aquí suele desplazarse a El Vendrell o Vilafranca del Penedès para el mantenimiento.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Jaume dels Domenys",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona agrícola del Baix Penedès.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Jaume dels Domenys se encuentra en el Baix Penedès, en una zona agrícola entre Vilafranca del Penedès y El Vendrell, con predominio de trayectos cortos y caminos rurales.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Jaume dels Domenys?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también El Vendrell?",
       "a": "Sí, recibimos habitualmente clientes de El Vendrell y de toda la comarca del Baix Penedès."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Jaume dels Domenys",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Jaume dels Domenys que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Josep LL.",
-      "neighborhood": "Sant Jaume dels Domenys",
-      "body": "Recogieron el coche en el pueblo y me lo devolvieron reparado sin que tuviera que moverme. Muy cómodo.",
-      "rating": 5
-    },
     {
       "name": "Rosa V.",
       "neighborhood": "Sant Jaume dels Domenys",

@@ -7,7 +7,7 @@
   "lat": 40.92919,
   "lng": -3.4726,
   "metaTitle": "Taller BMW en El Atazar | Sierra Norte de Madrid",
-  "metaDescription": "Servicio especializado BMW para propietarios de El Atazar y el entorno del embalse. Recogida a domicilio, diagnosis oficial y reparación por técnicos BMW.",
+  "metaDescription": "Servicio especializado BMW para propietarios de El Atazar y el entorno del embalse.",
   "heroSubtitle": "El taller BMW de referencia para quienes viven junto al embalse del Atazar y suben cada fin de semana desde Madrid.",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "El Atazar es uno de los municipios más pequeños de la Comunidad de Madrid, con poco más de un centenar de vecinos censados, y eso condiciona por completo cómo se cuida un coche allí: no hay ni un solo taller en el pueblo, y el más cercano con diagnosis específica BMW está en Madrid capital, a unos 75-80 minutos por la M-127 y la A-1.\n\nQuien tiene un BMW en El Atazar suele encajar en dos perfiles: el propietario de segunda residencia que sube los fines de semana a disfrutar del embalse y las rutas de senderismo, y el vecino de toda la vida que usa el coche a diario para bajar a Torrelaguna o Madrid a trabajar. En ambos casos, las carreteras de puerto y las cuestas constantes de la sierra pasan factura a frenos, suspensión y embrague antes que en un uso urbano normal.\n\nPor eso ofrecemos recogida del vehículo en El Atazar o en un punto de encuentro cercano como Patones o Torrelaguna, evitando el desplazamiento innecesario a quien vive en un pueblo tan pequeño y alejado.",
-  "servicesIntro": "Cubrimos mantenimiento, diagnosis y reparación mecánica completa para cualquier BMW, con recogida adaptada a la distancia real desde El Atazar.",
+  "introLocal": "El Atazar es uno de los municipios más pequeños de la Comunidad de Madrid, con poco más de un centenar de vecinos censados, y eso condiciona por completo cómo se cuida un coche allí: no hay ni un solo taller en el pueblo, y el más cercano con diagnosis específica BMW está en Madrid capital, a unos 75-80 minutos por la M-127 y la A-1.\n\nQuien tiene un BMW en El Atazar suele encajar en dos perfiles: el propietario de segunda residencia que sube los fines de semana a disfrutar del embalse y las rutas de senderismo, y el vecino de toda la vida que usa el coche a diario para bajar a Torrelaguna o Madrid a trabajar. En ambos casos, las carreteras de puerto y las cuestas constantes de la sierra pasan factura a frenos, suspensión y embrague antes que en un uso urbano normal.",
+  "servicesIntro": "Cubrimos mantenimiento, diagnosis y reparación mecánica completa para cualquier BMW.",
   "processIntro": "Un proceso pensado para minimizar los desplazamientos de quien vive en un núcleo tan pequeño y apartado.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp y te damos una primera orientación."
-    },
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos recogida en El Atazar o en un punto intermedio como Torrelaguna para no hacerte perder la mañana."
     },
     {
       "title": "Diagnosis con equipo BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio antes de tocar nada, sin sorpresas al final."
-    },
-    {
-      "title": "Entrega en el pueblo",
-      "body": "Devolvemos el coche en el mismo punto de recogida una vez terminada la reparación."
     }
   ],
   "commonIssuesIntro": "Las averías que más vemos en BMW que circulan por zonas de puerto y montaña como El Atazar.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida adaptada a pueblos pequeños",
-      "body": "Sabemos que El Atazar no tiene ni gasolinera; organizamos la logística sin que tengas que bajar tú el coche."
-    },
-    {
       "title": "Técnicos formados en BMW",
       "body": "Diagnosis y reparación con el mismo nivel técnico que en un concesionario oficial, a menor coste."
     },
@@ -104,20 +92,8 @@
   "zoneText": "Damos servicio a El Atazar y a todo el entorno del embalse, un área muy poco poblada donde el coche es la única forma de moverse y donde muchos propietarios de BMW solo pisan el pueblo los fines de semana.",
   "faqLocal": [
     {
-      "q": "¿Hay que bajar el coche hasta Madrid obligatoriamente?",
-      "a": "No, coordinamos la recogida en El Atazar o en un punto intermedio como Torrelaguna."
-    },
-    {
-      "q": "¿Cuánto se tarda desde El Atazar hasta el taller?",
-      "a": "Alrededor de 75-80 minutos por la M-127 y la A-1, por eso organizamos siempre la recogida."
-    },
-    {
       "q": "¿Trabajáis con BMW antiguos, no solo modelos nuevos?",
       "a": "Sí, tenemos experiencia con toda la gama, desde modelos con más de 15 años hasta los más recientes."
-    },
-    {
-      "q": "¿Puedo dejar el coche entre semana si solo vengo el fin de semana?",
-      "a": "Sí, muchos clientes de El Atazar dejan el coche varios días y lo recogen el sábado siguiente."
     },
     {
       "q": "¿Hacéis ITV o solo mecánica?",
@@ -129,7 +105,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado sin bajar de la sierra",
-  "closingCta": "Escríbenos y coordinamos la recogida en El Atazar o en Torrelaguna sin que tengas que mover un dedo.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Lo que cuentan los vecinos de El Atazar y alrededores que confían en nosotros.",
   "testimonials": [
     {
-      "name": "Fernando Salcedo",
-      "neighborhood": "El Atazar",
-      "body": "Vengo los fines de semana desde Madrid y me recogieron el coche en Torrelaguna sin tener que bajar yo. Muy cómodo.",
-      "rating": 5
-    },
-    {
       "name": "Ana Belén Rus",
       "neighborhood": "El Atazar",
       "body": "Mi X1 empezó a dar problemas de frenos en las bajadas al embalse y lo solucionaron sin liarme con piezas que no necesitaba.",
-      "rating": 5
-    },
-    {
-      "name": "Julián Prado",
-      "neighborhood": "Patones",
-      "body": "Vivo cerca y me organizaron la recogida sin problema. Precio claro desde el principio.",
       "rating": 5
     }
   ],

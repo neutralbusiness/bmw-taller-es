@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdetorres de Jarama está a pie de la A-1, lo que hace que muchos vecinos recorran a diario un buen tramo de autovía para llegar a Madrid capital o a los polígonos industriales cercanos. Ese uso repetido a velocidad de autovía es el que más desgasta el turbo, el sistema de refrigeración y la caja automática en los BMW diésel.\n\nNo tenemos instalaciones en el pueblo, así que ofrecemos recogida del coche para que el mantenimiento no dependa de tu tiempo libre.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de Valdetorres de Jarama.",
+  "introLocal": "Valdetorres de Jarama está a pie de la A-1, lo que hace que muchos vecinos recorran a diario un buen tramo de autovía para llegar a Madrid capital o a los polígonos industriales cercanos. Ese uso repetido a velocidad de autovía es el que más desgasta el turbo, el sistema de refrigeración y la caja automática en los BMW diésel.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de Valdetorres de Jarama.",
   "processIntro": "Un proceso simple para quien hace trayectos largos a diario.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si conviene recoger el coche o si puede circular hasta el taller."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión completa de los módulos electrónicos."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución a Valdetorres de Jarama",
-      "body": "Según tu disponibilidad."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que hacen a diario el trayecto por la A-1.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Valdetorres de Jarama",
-      "body": "No hace falta que pierdas tu jornada laboral."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que usaría el concesionario."
     },
@@ -101,16 +89,8 @@
       "body": "En toda reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para Valdetorres de Jarama y los municipios cercanos que conectan con Madrid por la A-1.",
+  "zoneText": "Servicio para Valdetorres de Jarama y los municipios cercanos que conectan con Madrid por la A-1.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en Valdetorres de Jarama?",
-      "a": "No, pero recogemos el coche en el municipio."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
-    },
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Siempre, por escrito."
@@ -120,16 +100,12 @@
       "a": "12 meses por escrito."
     },
     {
-      "q": "¿Puedo traer el coche yo mismo?",
-      "a": "Sí, la recogida es solo una opción."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, si el coche necesita reparación mecánica tras un golpe."
     }
   ],
   "closingHeadline": "Tu BMW bien cuidado, junto a la A-1",
-  "closingCta": "Contacta y organizamos la recogida en Valdetorres de Jarama.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Vecinos de Valdetorres de Jarama que ya han probado el servicio.",
   "testimonials": [
-    {
-      "name": "Custodio Pedrezuela",
-      "neighborhood": "Valdetorres de Jarama",
-      "body": "Recogieron el coche y devolvieron el presupuesto en un par de horas, sin sorpresas.",
-      "rating": 5
-    },
     {
       "name": "Marisol Fuente el Saz",
       "neighborhood": "Valdetorres de Jarama",
@@ -190,8 +160,7 @@
         "id": "m103-a1",
         "h2": "Por la M-103, la M-111 y la M-100 hasta la A-1",
         "parrafos": [
-          "La ruta desde el centro de Valdetorres hasta la calle Valgrande de Alcobendas encadena la M-103, la M-111 y la M-100 antes de entrar en la A-1: 27,2 km por carretera, 20,7 en línea recta.",
-          "Para trabajos de varios días, pregunta al reservar por el vehículo de cortesía y por la recogida: los dos están sujetos a disponibilidad y solo dentro del área metropolitana de Madrid, así que confirma si tu dirección entra."
+          "La ruta desde el centro de Valdetorres hasta la calle Valgrande de Alcobendas encadena la M-103, la M-111 y la M-100 antes de entrar en la A-1: 27,2 km por carretera, 20,7 en línea recta."
         ]
       },
       {

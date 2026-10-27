@@ -9,6 +9,7 @@ No toca slug, name, metaTitle, tenant ni nada más.
 """
 import importlib
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -26,6 +27,11 @@ def main():
             f = CIUDADES_DIR / f"{slug}.json"
             cj = json.loads(f.read_text("utf-8"))
             d = json.loads((DATOS / f"{slug}.json").read_text("utf-8"))
+            # 27-oct-2026: no se hace recogida/entrega del coche. Las tandas antiguas
+            # la mencionan: no se aplican hasta reescribir ese texto.
+            if re.search(r"recogida|recogemos|recogéis|recoger y devolver|a domicilio|puerta a puerta",
+                         json.dumps(contenido, ensure_ascii=False), re.I):
+                sys.exit(f"{lote}/{slug}: el bloque menciona recogida/entrega del coche (no se hace); reescríbelo antes de aplicarlo")
             for sec in contenido["secciones"]:
                 sec["parrafos"] = [x.strip() for x in sec["parrafos"] if x.strip()]
             cj["local"] = {"version": 3, "revisado": m.REVISADO, **contenido}

@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Granera es un municipio pequeño del Moianès, con apenas un puñado de vecinos censados, así que no pretendemos venderte que tenemos un taller a la vuelta de la esquina de tu casa. Lo que sí tenemos es un servicio especializado en BMW pensado para quienes viven en zonas rurales como esta y necesitan desplazarse para encontrar a alguien que entienda su coche de verdad.\n\nMuchos vecinos de Granera y las masías de alrededor usan el coche para trayectos largos hacia Terrassa, Manresa o Barcelona, un uso que combina carretera de montaña con autovía y que exige bastante a la suspensión, al turbo y a la caja de cambios. Coordinamos recogida o facilitamos el desplazamiento para que no tengas que renunciar a un especialista solo por vivir en un pueblo pequeño.",
-  "servicesIntro": "Mantenimiento, diagnosis y reparación especializada en BMW, con opción de recogida para clientes de zonas rurales del Moianès.",
+  "introLocal": "Granera es un municipio pequeño del Moianès, con apenas un puñado de vecinos censados, así que no pretendemos venderte que tenemos un taller a la vuelta de la esquina de tu casa. Lo que sí tenemos es un servicio especializado en BMW pensado para quienes viven en zonas rurales como esta y necesitan desplazarse para encontrar a alguien que entienda su coche de verdad.\n\nMuchos vecinos de Granera y las masías de alrededor usan el coche para trayectos largos hacia Terrassa, Manresa o Barcelona, un uso que combina carretera de montaña con autovía y que exige bastante a la suspensión, al turbo y a la caja de cambios.",
+  "servicesIntro": "Mantenimiento, diagnosis y reparación especializada en BMW.",
   "processIntro": "Cómo trabajamos con clientes que no viven junto al taller.",
   "processSteps": [
-    {
-      "title": "Contacto y valoración inicial",
-      "body": "Nos cuentas por teléfono qué le pasa al coche y valoramos si conviene traerlo o si podemos coordinar recogida."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Una vez en el taller, escaneamos el vehículo completo con el software oficial de la marca."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación y control de calidad",
       "body": "Reparamos siguiendo el procedimiento del fabricante, con piezas trazables."
-    },
-    {
-      "title": "Entrega o devolución coordinada",
-      "body": "Acordamos contigo cómo recoges el coche o si necesitas que te lo acerquemos."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW con uso mixto de carretera de montaña y autovía, como el que hacen muchos vecinos de la zona.",
@@ -104,10 +96,6 @@
   "zoneText": "Damos servicio a Granera y a las masías y núcleos dispersos del Moianès, coordinando el desplazamiento cuando es necesario.",
   "faqLocal": [
     {
-      "q": "¿Es viable llevar el coche desde Granera hasta el taller?",
-      "a": "Sí, muchos clientes de la zona lo hacen, y si el desplazamiento es complicado podemos valorar opciones de recogida."
-    },
-    {
       "q": "¿Hay algún coste extra por venir de un pueblo pequeño?",
       "a": "No, el presupuesto es el mismo independientemente de dónde vengas."
     },
@@ -122,10 +110,6 @@
     {
       "q": "¿Puedo hacer todo el trámite por teléfono antes de venir?",
       "a": "Sí, valoramos primero el caso por teléfono para no hacerte un viaje innecesario si algo se puede resolver de otra forma."
-    },
-    {
-      "q": "¿Trabajáis con seguros de asistencia en carretera?",
-      "a": "Podemos coordinar con tu compañía si necesitas gestionar el traslado del vehículo."
     },
     {
       "q": "¿Dais garantía igual que a clientes de ciudad?",
@@ -149,12 +133,6 @@
       "name": "Pere Vilaseca",
       "neighborhood": "Granera",
       "body": "Vivo en una masía cerca del pueblo y pensé que sería un lío encontrar a alguien especializado en BMW. Aquí me lo pusieron fácil.",
-      "rating": 5
-    },
-    {
-      "name": "Montse Riera",
-      "neighborhood": "Granera",
-      "body": "Coordinaron la recogida del coche sin problema y me lo devolvieron reparado en el plazo que me dijeron.",
       "rating": 5
     },
     {
@@ -196,7 +174,7 @@
         "h2": "Seis carreteras hasta Sant Joan Despí",
         "parrafos": [
           "La ruta más corta que calcula OpenStreetMap enlaza la BV-1245, la C-59, la BV-1341, la C-1413b, la C-33 y la B-20. Son 68,6 km por carretera para 40,2 en línea recta: un rodeo de casi treinta kilómetros que imponen el relieve y el trazado.",
-          "Granera queda fuera del área metropolitana de Barcelona y la recogida del taller no llega. Si bajas, que sea por algo que merezca el viaje; una llamada previa con modelo, año y síntoma lo aclara."
+          "Granera queda fuera del área metropolitana de Barcelona. Si bajas, que sea por algo que merezca el viaje; una llamada previa con modelo, año y síntoma lo aclara."
         ]
       },
       {

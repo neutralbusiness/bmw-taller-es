@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Mura es de esos pueblos del Bages donde encontrar un mecánico realmente especializado en BMW a la vuelta de la esquina es, sencillamente, imposible: apenas 600 vecinos rodeados de montaña no dan para sostener un taller de marca. Por eso trabajamos con los propietarios de BMW de Mura desde nuestras instalaciones, a un trayecto corto por la carretera que baja hacia Sant Llorenç Savall o Talamanca.\n\nLa mayoría de consultas que recibimos de la zona vienen de gente que usa el coche a diario para bajar a Manresa o Terrassa a trabajar, con lo que la fiabilidad no es un capricho sino una necesidad. Ofrecemos recogida del vehículo en Mura para quien no pueda desplazarse, y nos coordinamos por WhatsApp para no hacer perder tiempo a nadie con un desplazamiento innecesario.",
-  "servicesIntro": "Diagnóstico, mecánica, electrónica y mantenimiento programado para cualquier BMW, con recogida disponible para clientes de Mura.",
+  "introLocal": "Mura es de esos pueblos del Bages donde encontrar un mecánico realmente especializado en BMW a la vuelta de la esquina es, sencillamente, imposible: apenas 600 vecinos rodeados de montaña no dan para sostener un taller de marca. Por eso trabajamos con los propietarios de BMW de Mura desde nuestras instalaciones, a un trayecto corto por la carretera que baja hacia Sant Llorenç Savall o Talamanca.\n\nLa mayoría de consultas que recibimos de la zona vienen de gente que usa el coche a diario para bajar a Manresa o Terrassa a trabajar, con lo que la fiabilidad no es un capricho sino una necesidad.",
+  "servicesIntro": "Diagnóstico, mecánica, electrónica y mantenimiento programado para cualquier BMW.",
   "processIntro": "Así trabajamos con cada BMW que llega desde Mura, paso a paso y sin letra pequeña.",
   "processSteps": [
     {
@@ -108,10 +108,6 @@
       "a": "Depende de la avería. Un diagnóstico suele resolverse en unas horas; te avisamos antes de dejarlo si va a ser más largo."
     },
     {
-      "q": "¿Recogéis el coche en Mura?",
-      "a": "Sí, coordinamos recogida y entrega para clientes de Mura y núcleos cercanos, normalmente sin coste añadido según distancia."
-    },
-    {
       "q": "¿Trabajáis con BMW diésel de montaña con muchos kilómetros?",
       "a": "Sí, es habitual en la zona. Revisamos especialmente turbo y cadena de distribución en coches con uso de puertos de montaña."
     },
@@ -129,7 +125,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado como se merece, aunque vivas en Mura",
-  "closingCta": "Escríbenos y coordinamos recogida o cita en taller sin desplazamientos inútiles.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +141,6 @@
       "name": "Jordi Puigverd",
       "neighborhood": "Mura",
       "body": "Vivo en Mura y pensaba que tendría que bajar hasta Barcelona para que me tocaran el Vanos del Serie 3. Me ahorré el viaje y el diagnóstico fue impecable.",
-      "rating": 5
-    },
-    {
-      "name": "Marta Solé",
-      "neighborhood": "Talamanca (cerca de Mura)",
-      "body": "Recogieron el coche en Mura sin que yo tuviera que mover un dedo. La caja ZF volvió a cambiar suave.",
       "rating": 5
     },
     {
@@ -186,7 +176,7 @@
         "h2": "La B-40 acorta el camino",
         "parrafos": [
           "La ruta sale por la BV-1223 y la BV-1221, toma la B-40 y enlaza con la C-16 y la B-20 hasta el carrer del Tambor del Bruc de Sant Joan Despí: 59 km por carretera, 37,9 en línea recta.",
-          "A esa distancia, llevar el coche a un especialista ya es razonable también para el mantenimiento por plan de marca, no solo para averías raras. Mura no forma parte del área metropolitana, de modo que la recogida del taller no llega; el coche lo traes tú."
+          "A esa distancia, llevar el coche a un especialista ya es razonable también para el mantenimiento por plan de marca, no solo para averías raras."
         ]
       },
       {
@@ -213,10 +203,6 @@
       }
     ],
     "faq": [
-      {
-        "q": "¿Recogéis el coche en Mura?",
-        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona, y Mura queda fuera."
-      },
       {
         "q": "¿Dónde está la ITV más cercana?",
         "a": "En Manresa (B06), en el polígono Bufalvent, a 16,8 km por carretera."

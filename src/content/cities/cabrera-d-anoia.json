@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Cabrera d'Anoia es un municipio pequeño de la comarca de l'Anoia, de poco más de 700 habitantes, situado entre Piera e Igualada, en una zona agrícola de viñas y masías que combina población tradicional con quienes buscan una segunda residencia tranquila cerca de Barcelona.\n\nEl acceso a la C-15 está a pocos minutos, lo que hace que muchos vecinos trabajen en Igualada o incluso en Barcelona y usen el coche a diario para trayectos de carretera comarcal y de vía rápida, además del uso local por las pistas y caminos rurales de las masías dispersas.\n\nNo hay taller especializado BMW en Cabrera d'Anoia, así que ofrecemos recogida directa en el municipio, evitando el desplazamiento hasta Igualada o Piera para cualquier mantenimiento o avería.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en Cabrera d'Anoia.",
+  "introLocal": "Cabrera d'Anoia es un municipio pequeño de la comarca de l'Anoia, de poco más de 700 habitantes, situado entre Piera e Igualada, en una zona agrícola de viñas y masías que combina población tradicional con quienes buscan una segunda residencia tranquila cerca de Barcelona.\n\nEl acceso a la C-15 está a pocos minutos, lo que hace que muchos vecinos trabajen en Igualada o incluso en Barcelona y usen el coche a diario para trayectos de carretera comarcal y de vía rápida, además del uso local por las pistas y caminos rurales de las masías dispersas.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso sencillo pensado para quien combina carreteras comarcales con trayectos de vía rápida.",
   "processSteps": [
     {
       "title": "Contacto inicial",
       "body": "Nos cuentas la avería o el mantenimiento pendiente y te orientamos sin compromiso."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Vamos a buscar el coche a Cabrera d'Anoia en el horario que te convenga."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio exacto antes de intervenir en el coche."
-    },
-    {
-      "title": "Entrega en Cabrera d'Anoia",
-      "body": "Devolvemos el vehículo en el mismo punto de recogida."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de uso mixto rural-comarcal, como el de Cabrera d'Anoia.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida directa en Cabrera d'Anoia",
-      "body": "No hace falta que te desplaces hasta Igualada o Piera."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,12 +89,8 @@
       "body": "Sabemos qué desgastes buscar primero en este tipo de trayecto."
     }
   ],
-  "zoneText": "Damos servicio a Cabrera d'Anoia y su entorno rural de la comarca de l'Anoia, entre Piera e Igualada, con recogida directa en el municipio para evitar desplazamientos innecesarios.",
+  "zoneText": "Damos servicio a Cabrera d'Anoia y su entorno rural de la comarca de l'Anoia, entre Piera e Igualada.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Cabrera d'Anoia?",
-      "a": "Sí, vamos directamente al pueblo sin coste adicional."
-    },
     {
       "q": "¿Trabajáis con BMW de uso mixto rural-comarcal?",
       "a": "Es el perfil más habitual en la zona, con mucha experiencia."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado entre viñas y masías",
-  "closingCta": "Escríbenos y coordinamos la recogida en Cabrera d'Anoia.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +125,6 @@
   },
   "testimonialsIntro": "Lo que dicen los vecinos de Cabrera d'Anoia.",
   "testimonials": [
-    {
-      "name": "Domènec Aguiló",
-      "neighborhood": "Cabrera d'Anoia",
-      "body": "Vinieron a buscar el coche al pueblo y me lo devolvieron el mismo día. Muy cómodo para quien trabaja en Igualada.",
-      "rating": 5
-    },
     {
       "name": "Assumpta Vilaseca",
       "neighborhood": "Cabrera d'Anoia",
@@ -193,8 +171,7 @@
         "id": "hacia-el-baix-llobregat",
         "h2": "Por la BV-2242 y la AP-7 hasta Sant Joan Despí",
         "parrafos": [
-          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3. Desde Cabrera, la ruta enlaza la BV-2242 y la BV-2244, toma la AP-7 y termina por la B-23: 48,1 km por carretera, 31,8 en línea recta.",
-          "Cabrera no está entre los 36 municipios del Área Metropolitana de Barcelona, así que la recogida de coches del taller, que se limita a esa área, no llega hasta aquí."
+          "La nave de Dasercars Barcelona está en el carrer del Tambor del Bruc 3. Desde Cabrera, la ruta enlaza la BV-2242 y la BV-2244, toma la AP-7 y termina por la B-23: 48,1 km por carretera, 31,8 en línea recta."
         ]
       },
       {
@@ -214,10 +191,6 @@
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
         "a": "Quadis Munich, en Vilanova i la Geltrú, a 38,7 km según bmw.es."
-      },
-      {
-        "q": "¿Recogéis el coche en Cabrera?",
-        "a": "No. La recogida del taller cubre solo el área metropolitana de Barcelona, y Cabrera queda fuera."
       }
     ],
     "datos": [

@@ -112,10 +112,6 @@
       "a": "Normalmente entre 30 y 60 minutos según la complejidad del síntoma."
     },
     {
-      "q": "¿Podéis recoger el coche en Corró d'Amunt?",
-      "a": "Sí, ofrecemos recogida en toda la zona de Les Franqueses."
-    },
-    {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, gestionamos partes de siniestro con las principales aseguradoras."
     },
@@ -145,12 +141,6 @@
       "name": "Enric M.",
       "neighborhood": "Corró d'Amunt",
       "body": "Uso el X3 para ir a Barcelona cada día. Detectaron la cadena de distribución antes de que diera un problema serio.",
-      "rating": 5
-    },
-    {
-      "name": "Laia F.",
-      "neighborhood": "Bellavista",
-      "body": "Gestioné todo por WhatsApp, desde el diagnóstico hasta la recogida del coche.",
       "rating": 5
     },
     {
@@ -194,7 +184,7 @@
         "id": "c17-c33",
         "h2": "42 km por la C-17, la C-33 y la ronda",
         "parrafos": [
-          "El recorrido hasta Dasercars Barcelona baja por la C-17 y la C-33 y termina por la B-20: 42 km por carretera, 34,4 en línea recta. Les Franqueses queda fuera del Área Metropolitana de Barcelona, así que la recogida del taller no llega.",
+          "El recorrido hasta Dasercars Barcelona baja por la C-17 y la C-33 y termina por la B-20: 42 km por carretera, 34,4 en línea recta.",
           "Para que el viaje rinda, llama antes y cuenta qué le pasa al coche, con el modelo y el año delante. Así se valora si el problema encaja con lo que hacemos —diésel N47, N57 o B47, electrónica, homologaciones de escape y gases con REDISTA— y si conviene tener alguna pieza pedida."
         ]
       },
@@ -222,10 +212,6 @@
       {
         "q": "¿Dónde paso la ITV?",
         "a": "En la estación de Granollers (B18), en el polígono El Congost, a 6,3 km por carretera."
-      },
-      {
-        "q": "¿Recogéis el coche en les Franqueses del Vallès?",
-        "a": "No: la recogida cubre solo el área metropolitana de Barcelona."
       }
     ],
     "datos": [

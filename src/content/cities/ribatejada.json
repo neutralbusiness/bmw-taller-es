@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Ribatejada es un municipio pequeño de la comarca del Nordeste de Madrid, con poco más de 600 habitantes, cerca de Valdeavero y bien conectado con la A-2. No hay taller especializado en BMW en el municipio, y sería absurdo prometer lo contrario en un pueblo de este tamaño.\n\nLo que hacemos es recoger el coche en el propio pueblo, normalmente junto a la plaza o la carretera de acceso, y llevarlo hasta el taller de la red más cercano. La devolución se hace en el mismo punto, normalmente el mismo día si la reparación no es compleja.\n\nTrabajamos con la honestidad que un pueblo de este tamaño merece: sin fingir cercanía física que no existe, pero con una logística de recogida que cumple semana tras semana.",
-  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica con recogida programada desde Ribatejada.",
+  "introLocal": "Ribatejada es un municipio pequeño de la comarca del Nordeste de Madrid, con poco más de 600 habitantes, cerca de Valdeavero y bien conectado con la A-2. No hay taller especializado en BMW en el municipio, y sería absurdo prometer lo contrario en un pueblo de este tamaño.",
+  "servicesIntro": "Mantenimiento, frenos, distribución y diagnosis electrónica.",
   "processIntro": "Un proceso pensado para no perder ni media jornada.",
   "processSteps": [
-    {
-      "title": "Llamada inicial",
-      "body": "Nos cuentas el problema y valoramos si hace falta grúa o basta con recogida normal."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Acordamos hora y punto fijo en Ribatejada."
-    },
     {
       "title": "Diagnosis en taller",
       "body": "Escáner original BMW para revisar códigos de avería reales."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el precio antes de tocar el coche."
-    },
-    {
-      "title": "Entrega de vuelta",
-      "body": "El coche vuelve al mismo punto de recogida, listo para usar."
     }
   ],
   "commonIssuesIntro": "Averías más habituales en BMW de propietarios de esta zona del Nordeste madrileño.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida acordada en el pueblo",
-      "body": "Punto fijo en Ribatejada, sin vaguedades."
-    },
-    {
       "title": "Diagnosis con equipo BMW original",
       "body": "Nada de lectores universales imprecisos."
     },
@@ -104,14 +88,6 @@
   "zoneText": "Cubrimos todo el término municipal de Ribatejada y las fincas dispersas de su entorno agrícola.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Ribatejada?",
-      "a": "No, hacemos recogida y entrega en el pueblo hasta el taller de la red más cercano."
-    },
-    {
-      "q": "¿Es de pago la recogida?",
-      "a": "Está incluida en el servicio si finalmente reparas con nosotros."
-    },
-    {
       "q": "¿Cuánto tardáis en dar el presupuesto?",
       "a": "Normalmente en menos de 24 horas desde que el coche llega al taller."
     },
@@ -129,7 +105,7 @@
     }
   ],
   "closingHeadline": "El taller viene hasta Ribatejada, no al revés",
-  "closingCta": "Escríbenos y acordamos la recogida esta semana.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +118,9 @@
   "testimonialsIntro": "Opiniones de vecinos de Ribatejada.",
   "testimonials": [
     {
-      "name": "Deogracias Palomino",
-      "neighborhood": "Ribatejada",
-      "body": "Pensé que en un pueblo tan pequeño nadie vendría a buscar el coche. Vinieron sin problema.",
-      "rating": 5
-    },
-    {
       "name": "Felisa Montoro",
       "neighborhood": "Ribatejada",
       "body": "El presupuesto llegó por WhatsApp con fotos claras de la avería.",
-      "rating": 5
-    },
-    {
-      "name": "Aquilino Serna",
-      "neighborhood": "Ribatejada",
-      "body": "Recogieron a las 9 y a las 5 lo tenía en la plaza otra vez. Muy serios.",
       "rating": 5
     }
   ],
@@ -201,7 +165,7 @@
         "h2": "Por la M-113 y la R-2: 36,6 km",
         "parrafos": [
           "La ruta hasta la calle Valgrande de Alcobendas sale por la M-113, enlaza con la M-50 y usa la R-2: 36,6 km por carretera, 26,4 en línea recta. La N-320 pasa a menos de dos kilómetros del centro.",
-          "El taller ofrece recogida y entrega del coche y vehículo de cortesía dentro del área metropolitana de Madrid, siempre sujetos a disponibilidad. Si te interesa, pregunta al pedir la cita si Ribatejada entra en la zona; no lo des por hecho."
+          "Si te interesa, pregunta al pedir la cita si Ribatejada entra en la zona; no lo des por hecho."
         ]
       },
       {
@@ -214,10 +178,6 @@
       }
     ],
     "faq": [
-      {
-        "q": "¿Recogéis el coche en Ribatejada?",
-        "a": "La recogida del taller está limitada al área metropolitana de Madrid y sujeta a disponibilidad; confirma al reservar si tu dirección entra."
-      },
       {
         "q": "¿Dónde está la ITV más cercana?",
         "a": "En Algete: estación 2818 (ITV Barbastro), avenida Nicasio Martín 4, a 25,3 km."

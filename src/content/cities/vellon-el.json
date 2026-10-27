@@ -7,7 +7,7 @@
   "lat": 40.76963,
   "lng": -3.55809,
   "metaTitle": "Taller BMW cerca de El Vellón | Sierra Norte de Madrid",
-  "metaDescription": "Servicio BMW para El Vellón: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Presupuesto por escrito y recogida disponible. Pide cita.",
+  "metaDescription": "Servicio BMW para El Vellón: diagnosis original, revisión de Vanos, turbo y caja ZF 8HP. Pide cita.",
   "heroSubtitle": "Atención especializada en BMW para los vecinos de El Vellón, en la Sierra Norte de Madrid.",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "El Vellón combina un núcleo pequeño con carreteras de curvas hacia el embalse de El Vellón y trayectos largos de autovía hacia Madrid por la A-1. Esa combinación de uso exige tanto a los frenos y la suspensión como al turbo y la caja de cambios del BMW.\n\nNo tenemos taller en el pueblo, pero coordinamos la recogida del coche para que el mantenimiento no dependa de bajar hasta la ciudad.",
-  "servicesIntro": "Mantenimiento y mecánica BMW con recogida para clientes de El Vellón y la Sierra Norte.",
+  "introLocal": "El Vellón combina un núcleo pequeño con carreteras de curvas hacia el embalse de El Vellón y trayectos largos de autovía hacia Madrid por la A-1. Esa combinación de uso exige tanto a los frenos y la suspensión como al turbo y la caja de cambios del BMW.",
+  "servicesIntro": "Mantenimiento y mecánica BMW para clientes de El Vellón y la Sierra Norte.",
   "processIntro": "Un proceso pensado para quien vive en una zona de sierra alejada del taller.",
   "processSteps": [
-    {
-      "title": "Consulta inicial",
-      "body": "Valoramos si el coche puede circular hasta el taller o si conviene recogerlo."
-    },
     {
       "title": "Diagnosis con equipo original",
       "body": "Revisión de motor, caja, frenos y suspensión con el software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Con piezas originales o equivalentes OE."
-    },
-    {
-      "title": "Devolución coordinada",
-      "body": "A El Vellón o punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en los BMW que circulan por la Sierra Norte cerca de El Vellón.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en El Vellón",
-      "body": "Coordinamos la recogida en el municipio y alrededores."
-    },
-    {
       "title": "Diagnosis oficial BMW",
       "body": "El mismo equipo que en el concesionario."
     },
@@ -101,19 +89,11 @@
       "body": "Por escrito en cada reparación."
     }
   ],
-  "zoneText": "Servicio con recogida para El Vellón y los pueblos cercanos de la Sierra Norte de Madrid.",
+  "zoneText": "Servicio para El Vellón y los pueblos cercanos de la Sierra Norte de Madrid.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis taller en El Vellón?",
-      "a": "No, pero recogemos el coche en el pueblo o en municipios cercanos."
-    },
     {
       "q": "¿Revisáis frenos por el uso en carretera de montaña?",
       "a": "Sí, en cada mantenimiento comprobamos su desgaste."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida?",
-      "a": "Normalmente 24-48 horas según agenda."
     },
     {
       "q": "¿Dais presupuesto antes de reparar?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Qué garantía tiene la reparación?",
       "a": "12 meses por escrito."
-    },
-    {
-      "q": "¿Puedo bajar el coche yo mismo?",
-      "a": "Sí, si prefieres no esperar a la recogida."
     }
   ],
   "closingHeadline": "Tu BMW, preparado para la Sierra Norte",
-  "closingCta": "Contacta y organizamos la recogida en El Vellón.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +121,6 @@
       "name": "Baldomero Guadalix",
       "neighborhood": "El Vellón",
       "body": "Revisaron los frenos de mi Serie 3 antes de que fuera un problema en las bajadas de la sierra.",
-      "rating": 5
-    },
-    {
-      "name": "Inmaculada Redueña",
-      "neighborhood": "El Vellón",
-      "body": "Recogieron el coche y me lo devolvieron el mismo día con el problema del turbo resuelto.",
       "rating": 5
     },
     {

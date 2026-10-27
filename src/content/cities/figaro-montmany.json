@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Fígaró-Montmany es un municipio pequeño, de apenas 900 habitantes, encajado entre montañas en la cabecera del Vallès Oriental, con acceso directo a la C-17 hacia Barcelona y Vic. Su tamaño reducido no implica un parque BMW pequeño en proporción: muchos vecinos usan el coche a diario para desplazarse a trabajar a Granollers o a Barcelona, con trayectos de autovía que acumulan kilómetros rápidamente.\n\nPara un municipio de este tamaño, contar con un taller especializado en BMW cerca supone no depender de bajar hasta Barcelona por cada revisión. Trabajamos con diagnosis oficial y coordinamos recogidas cuando es necesario.",
+  "introLocal": "Fígaró-Montmany es un municipio pequeño, de apenas 900 habitantes, encajado entre montañas en la cabecera del Vallès Oriental, con acceso directo a la C-17 hacia Barcelona y Vic. Su tamaño reducido no implica un parque BMW pequeño en proporción: muchos vecinos usan el coche a diario para desplazarse a trabajar a Granollers o a Barcelona, con trayectos de autovía que acumulan kilómetros rápidamente.\n\nPara un municipio de este tamaño, contar con un taller especializado en BMW cerca supone no depender de bajar hasta Barcelona por cada revisión.",
   "servicesIntro": "Mecánica y electrónica BMW adaptada a las distancias reales de un municipio pequeño del Vallès Oriental.",
   "processIntro": "Un proceso simple, pensado para minimizar tus desplazamientos.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos llamas o escribes contándonos el síntoma y coordinamos recogida si hace falta."
-    },
     {
       "title": "Diagnosis",
       "body": "Escaneo completo con software oficial BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Piezas homologadas y trazabilidad completa."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del vehículo en el punto más cómodo para ti."
     }
   ],
   "commonIssuesIntro": "Averías típicas en los BMW que circulan por la C-17 desde Fígaró-Montmany.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida coordinada",
-      "body": "Facilitamos el acceso al taller para quien vive en un municipio pequeño."
-    },
-    {
       "title": "Diagnosis oficial",
       "body": "Mismo software que la red BMW."
     },
@@ -101,12 +89,8 @@
       "body": "Hablas con el mecánico, no con un intermediario."
     }
   ],
-  "zoneText": "Cubrimos Fígaró-Montmany y su entorno directo en la cabecera del Vallès Oriental, con servicio de recogida para quienes viven en las zonas más apartadas.",
+  "zoneText": "Cubrimos Fígaró-Montmany y su entorno directo en la cabecera del Vallès Oriental.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Fígaró-Montmany?",
-      "a": "Sí, coordinamos el punto de recogida más práctico según dónde vivas."
-    },
     {
       "q": "¿Hay coste adicional por la distancia?",
       "a": "Para trayectos habituales dentro de la comarca no aplicamos recargo."
@@ -133,7 +117,7 @@
     }
   ],
   "closingHeadline": "Mecánica BMW cerca, aunque vivas en un pueblo pequeño del Vallès",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin complicaciones.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +129,6 @@
   },
   "testimonialsIntro": "Opiniones de vecinos de Fígaró-Montmany.",
   "testimonials": [
-    {
-      "name": "Pere V.",
-      "neighborhood": "Fígaró",
-      "body": "Coordinaron la recogida sin problema, vivo bastante retirado y lo agradecí mucho.",
-      "rating": 5
-    },
     {
       "name": "Marta O.",
       "neighborhood": "Montmany",

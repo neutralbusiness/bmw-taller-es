@@ -7,7 +7,7 @@
   "lat": 40.89454,
   "lng": -3.4811,
   "metaTitle": "Taller BMW cerca de Patones | Sierra Norte de Madrid",
-  "metaDescription": "Diagnóstico y reparación BMW para Patones y la Sierra Norte de Madrid. Recogida disponible, presupuesto cerrado y garantía por escrito. Pide cita.",
+  "metaDescription": "Diagnóstico y reparación BMW para Patones y la Sierra Norte de Madrid. Pide cita.",
   "heroSubtitle": "Mecánica BMW especializada para los vecinos de Patones, entre la arquitectura negra y las carreteras de montaña.",
   "trustChips": [
     {
@@ -31,8 +31,8 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Patones, famoso por la arquitectura de piedra negra de Patones de Arriba, es uno de los pueblos más pequeños y singulares de la Sierra Norte de Madrid, con apenas 450 habitantes repartidos entre Patones de Arriba y Patones de Abajo. Un lugar así, alejado de la ciudad y rodeado de montaña, no tiene ni de lejos un taller especializado en BMW, así que atendemos a sus vecinos con recogida disponible.\n\nLos BMW que recibimos de Patones suelen sufrir el desgaste típico de la carretera de montaña: frenos exigidos en las bajadas hacia Torrelaguna, suspensión castigada por el firme irregular de algunos tramos, y en invierno, batería y sistema de precalentamiento puestos a prueba por el frío serrano.",
-  "servicesIntro": "Diagnóstico, frenos, suspensión y electrónica BMW con recogida disponible para clientes de Patones.",
+  "introLocal": "Patones, famoso por la arquitectura de piedra negra de Patones de Arriba, es uno de los pueblos más pequeños y singulares de la Sierra Norte de Madrid, con apenas 450 habitantes repartidos entre Patones de Arriba y Patones de Abajo. Un lugar así, alejado de la ciudad y rodeado de montaña, no tiene ni de lejos un taller especializado en BMW, así que atendemos a sus vecinos.\n\nLos BMW que recibimos de Patones suelen sufrir el desgaste típico de la carretera de montaña: frenos exigidos en las bajadas hacia Torrelaguna, suspensión castigada por el firme irregular de algunos tramos, y en invierno, batería y sistema de precalentamiento puestos a prueba por el frío serrano.",
+  "servicesIntro": "Diagnóstico, frenos, suspensión y electrónica BMW.",
   "processIntro": "Cómo organizamos la cita cuando el cliente viene desde un pueblo de montaña como Patones.",
   "processSteps": [
     {
@@ -104,20 +104,12 @@
   "zoneText": "Damos servicio a Patones y al resto de la Sierra Norte de Madrid, una zona de carreteras de montaña donde frenos y suspensión sufren un desgaste especial.",
   "faqLocal": [
     {
-      "q": "¿Ofrecéis recogida desde Patones?",
-      "a": "Sí, dado lo apartado del pueblo, coordinamos recogida para no obligarte a hacer el trayecto con el coche averiado."
-    },
-    {
       "q": "¿Los frenos sufren más en carretera de montaña?",
       "a": "Sí, las bajadas hacia Torrelaguna exigen más a los frenos que un trayecto llano, y lo revisamos con especial atención."
     },
     {
       "q": "¿El frío de la Sierra Norte afecta a la batería?",
       "a": "Sí, es una consulta habitual en invierno en la zona de Patones."
-    },
-    {
-      "q": "¿Cuánto puede tardar la recogida desde Patones?",
-      "a": "Normalmente el mismo día o al siguiente, según agenda."
     },
     {
       "q": "¿Dais presupuesto por teléfono antes de mover el coche?",
@@ -129,7 +121,7 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado, aunque vivas en uno de los pueblos más apartados de Madrid",
-  "closingCta": "Escríbenos desde Patones y coordinamos la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +133,6 @@
   },
   "testimonialsIntro": "Testimonio de un vecino de Patones.",
   "testimonials": [
-    {
-      "name": "Torcuato Berlanga",
-      "neighborhood": "Patones de Abajo",
-      "body": "Vivo en Patones y pensaba que tendría que bajar hasta Madrid para cualquier avería seria. Me recogieron el coche y el diagnóstico de los frenos fue impecable.",
-      "rating": 5
-    },
     {
       "name": "Perpetua Vindel",
       "neighborhood": "Torrelaguna (cerca de Patones)",

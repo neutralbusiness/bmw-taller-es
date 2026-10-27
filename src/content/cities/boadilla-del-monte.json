@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Boadilla del Monte es uno de los municipios de más renta per cápita de la Comunidad de Madrid, con más de 50.000 habitantes y un crecimiento urbanístico centrado en urbanizaciones de vivienda unifamiliar como Prado de la Vega, El Encinar o Montepríncipe, lo que hace que la densidad de BMW por habitante sea de las más altas de toda la región.\n\nEl perfil de propietario en Boadilla suele ser el de profesionales que trabajan en Madrid capital o en el propio corredor empresarial de la zona, con trayectos diarios por la M-501 y la M-513 combinados con el uso intensivo de las rotondas y avenidas del municipio para llevar a los hijos al colegio o moverse entre urbanizaciones.\n\nEsa combinación de uso urbano de proximidad y trayectos frecuentes de vía rápida hacia Madrid genera un desgaste particular: frenos y suspensión sufren por las rotondas y badenes constantes de las urbanizaciones, mientras que motor y caja de cambios acumulan kilómetros de autovía.\n\nNuestro taller da servicio a todo Boadilla del Monte, con recogida en cualquier urbanización del municipio, desde el Encinar de los Reyes hasta Siglo XXI, para que el mantenimiento no interfiera con la rutina diaria de una familia con varios coches y agendas apretadas.",
-  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW, con recogida en cualquier urbanización de Boadilla del Monte.",
+  "introLocal": "Boadilla del Monte es uno de los municipios de más renta per cápita de la Comunidad de Madrid, con más de 50.000 habitantes y un crecimiento urbanístico centrado en urbanizaciones de vivienda unifamiliar como Prado de la Vega, El Encinar o Montepríncipe, lo que hace que la densidad de BMW por habitante sea de las más altas de toda la región.\n\nEl perfil de propietario en Boadilla suele ser el de profesionales que trabajan en Madrid capital o en el propio corredor empresarial de la zona, con trayectos diarios por la M-501 y la M-513 combinados con el uso intensivo de las rotondas y avenidas del municipio para llevar a los hijos al colegio o moverse entre urbanizaciones.\n\nEsa combinación de uso urbano de proximidad y trayectos frecuentes de vía rápida hacia Madrid genera un desgaste particular: frenos y suspensión sufren por las rotondas y badenes constantes de las urbanizaciones, mientras que motor y caja de cambios acumulan kilómetros de autovía.\n\nNuestro taller da servicio a todo Boadilla del Monte.",
+  "servicesIntro": "Mantenimiento, diagnosis oficial y reparación mecánica completa para BMW.",
   "processIntro": "Un proceso ágil pensado para quien vive en urbanizaciones y necesita coordinar varios coches a la vez.",
   "processSteps": [
     {
       "title": "Contacto y cita",
       "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
-    },
-    {
-      "title": "Recogida en tu urbanización",
-      "body": "Pasamos a buscar el coche donde vivas, sin que tengas que moverte."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el diagnóstico y el precio exacto antes de intervenir."
-    },
-    {
-      "title": "Entrega puntual",
-      "body": "Devolvemos el coche en el punto acordado, listo para volver a la rutina diaria."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW de uso combinado urbanización-autovía, como el habitual en Boadilla del Monte.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en cualquier urbanización",
-      "body": "No pierdes tiempo llevando el coche al taller, vamos nosotros."
-    },
-    {
       "title": "Diagnosis con equipo oficial BMW",
       "body": "Mismo nivel técnico que un concesionario, precios más ajustados."
     },
@@ -101,16 +89,8 @@
       "body": "Coordinamos revisiones de varios coches de la misma familia en una sola visita."
     }
   ],
-  "zoneText": "Damos servicio a todo Boadilla del Monte, desde las urbanizaciones más antiguas hasta las de reciente construcción, con recogida sin coste adicional en cualquier punto del municipio.",
+  "zoneText": "Damos servicio a todo Boadilla del Monte, desde las urbanizaciones más antiguas hasta las de reciente construcción.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en mi urbanización?",
-      "a": "Sí, en cualquier urbanización de Boadilla del Monte, sin coste adicional."
-    },
-    {
-      "q": "¿Puedo llevar varios coches de la misma familia a la vez?",
-      "a": "Sí, coordinamos la recogida de varios vehículos en una sola visita."
-    },
     {
       "q": "¿Trabajáis con BMW de uso combinado urbanización-autovía?",
       "a": "Es el perfil más habitual entre nuestros clientes de Boadilla, con mucha experiencia."
@@ -129,7 +109,7 @@
     }
   ],
   "closingHeadline": "Tu BMW listo sin salir de Boadilla",
-  "closingCta": "Escríbenos y coordinamos la recogida en tu urbanización.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +121,6 @@
   },
   "testimonialsIntro": "Lo que dicen los clientes de Boadilla del Monte.",
   "testimonials": [
-    {
-      "name": "Fernando Aguirre",
-      "neighborhood": "El Encinar de los Reyes",
-      "body": "Recogieron los dos coches de casa el mismo día y me los devolvieron ambos por la tarde. Muy práctico.",
-      "rating": 5
-    },
     {
       "name": "Paloma Isasi",
       "neighborhood": "Prado de la Vega",
@@ -208,15 +182,14 @@
         "id": "m513-m40",
         "h2": "De la M-513 a la M-40 y la A-1",
         "parrafos": [
-          "Hasta la calle Valgrande de Alcobendas hay 31,4 km por carretera y 24,2 en línea recta: se sale por la M-513, se toma la M-40 por el oeste y el norte y se termina en la A-1. Con la M-50 y la M-501 también a menos de tres kilómetros del centro, hay alternativas si la M-40 está cargada.",
-          "Boadilla forma parte del área metropolitana, donde el taller ofrece recogida y entrega del coche y vehículo de cortesía para reparaciones largas. Los dos dependen de disponibilidad, así que pídelos al reservar y no el mismo día."
+          "Hasta la calle Valgrande de Alcobendas hay 31,4 km por carretera y 24,2 en línea recta: se sale por la M-513, se toma la M-40 por el oeste y el norte y se termina en la A-1. Con la M-50 y la M-501 también a menos de tres kilómetros del centro, hay alternativas si la M-40 está cargada."
         ]
       },
       {
         "id": "boadilla-crece",
         "h2": "De 48.775 a 66.349 vecinos",
         "parrafos": [
-          "Ese es el salto del padrón entre 2015 y 2025. La Comunidad de Madrid, a partir de la DGT, cuenta además 84.524 turismos censados en el municipio en 2025: más turismos que habitantes, lo que indica que la cifra incluye vehículos de empresas con domicilio en Boadilla y no sirve para medir cuántos coches tiene cada familia."
+          "Ese es el salto del padrón entre 2015 y 2025. La Comunidad de Madrid, a partir de la DGT, cuenta además 84."
         ]
       }
     ],
@@ -228,10 +201,6 @@
       {
         "q": "¿Dónde paso la ITV si vivo en Boadilla del Monte?",
         "a": "La más próxima por carretera es la de la calle De la Fresa 12, en el polígono El Carralero de Majadahonda, a 8,2 km; la de Pozuelo queda a 8,9."
-      },
-      {
-        "q": "¿Recogéis el coche en Boadilla?",
-        "a": "Hay recogida y entrega dentro del área metropolitana de Madrid, sujeta a disponibilidad. Confírmalo al pedir cita."
       },
       {
         "q": "¿Qué distancia hay hasta vuestro taller?",

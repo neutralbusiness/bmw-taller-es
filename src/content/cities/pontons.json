@@ -7,7 +7,7 @@
   "lat": 41.40683,
   "lng": 1.51246,
   "metaTitle": "Taller BMW cerca de Pontons | Alt Penedès, Vilafranca",
-  "metaDescription": "Servicio BMW para Pontons: recogida a domicilio, diagnosis original y reparación en el taller de referencia del Alt Penedès, cerca de Vilafranca.",
+  "metaDescription": "Servicio BMW para Pontons: diagnosis original y reparación en el taller de referencia del Alt Penedès, cerca de Vilafranca.",
   "heroSubtitle": "Un pueblo de montaña del Penedès, con mecánica BMW cerca",
   "trustChips": [
     {
@@ -31,18 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Pontons es un municipio pequeño del Alt Penedès, de apenas 500 habitantes, encajado en una zona montañosa junto a la C-15 camino de Vilafranca del Penedès. Aquí no hay ni gasolinera propia en muchos tramos del año, así que hablar de un taller especializado en BMW dentro del pueblo sería directamente falso.\n\nLo que ofrecemos es recogida real desde Pontons hasta el taller de referencia de la comarca, coordinada con antelación porque las carreteras de montaña de la zona no siempre permiten improvisar.\n\nEl uso que hacen los propietarios de BMW en Pontons suele combinar curvas de montaña y trayectos hacia Vilafranca o Barcelona, un uso que exige atención especial a frenos y suspensión, más allá del mantenimiento básico.",
+  "introLocal": "Pontons es un municipio pequeño del Alt Penedès, de apenas 500 habitantes, encajado en una zona montañosa junto a la C-15 camino de Vilafranca del Penedès. Aquí no hay ni gasolinera propia en muchos tramos del año, así que hablar de un taller especializado en BMW dentro del pueblo sería directamente falso.\n\nEl uso que hacen los propietarios de BMW en Pontons suele combinar curvas de montaña y trayectos hacia Vilafranca o Barcelona, un uso que exige atención especial a frenos y suspensión, más allá del mantenimiento básico.",
   "servicesIntro": "Mantenimiento adaptado a carretera de montaña, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Cinco pasos pensados para la orografía del Penedès interior.",
   "processSteps": [
-    {
-      "title": "Consulta telefónica",
-      "body": "Valoramos el problema y organizamos la recogida según el punto de acceso más fácil."
-    },
-    {
-      "title": "Recogida en Pontons",
-      "body": "Coordinamos un punto de encuentro accesible en carretera para la furgoneta o la grúa."
-    },
     {
       "title": "Diagnosis con escáner original",
       "body": "Revisamos la memoria de averías real antes de proponer nada."
@@ -50,10 +42,6 @@
     {
       "title": "Presupuesto por teléfono",
       "body": "Confirmamos precio y plazo antes de empezar cualquier trabajo."
-    },
-    {
-      "title": "Entrega de vuelta en el pueblo",
-      "body": "Devolvemos el coche al mismo punto de recogida acordado."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW usados en carreteras de montaña como las del Alt Penedès interior.",
@@ -81,10 +69,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida adaptada a carretera de montaña",
-      "body": "Sabemos organizar la logística en zonas de difícil acceso como Pontons."
-    },
-    {
       "title": "Atención específica a frenos y suspensión",
       "body": "Componentes clave para quien conduce a diario por curvas."
     },
@@ -104,32 +88,16 @@
   "zoneText": "Cubrimos Pontons y las masías dispersas de su término municipal, con conexión hacia Vilafranca del Penedès por la C-15.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Pontons?",
-      "a": "No, el pueblo es demasiado pequeño; ofrecemos recogida hasta el taller de referencia de la comarca."
-    },
-    {
-      "q": "¿Podéis recoger en una masía alejada del núcleo?",
-      "a": "Sí, coordinamos un punto de encuentro accesible según la ubicación exacta."
-    },
-    {
       "q": "¿Las carreteras de montaña afectan al mantenimiento?",
       "a": "Sí, prestamos especial atención a frenos, suspensión y turbo por el tipo de uso."
     },
     {
-      "q": "¿Qué pasa si nieva o hay hielo el día de la recogida?",
-      "a": "Reprogramamos por seguridad y te avisamos con antelación."
-    },
-    {
       "q": "¿Trabajáis con vehículos xDrive?",
       "a": "Sí, es habitual en zonas de montaña y tenemos experiencia específica."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde que llamo?",
-      "a": "Entre 24 y 48 horas, coordinando el mejor punto de acceso."
     }
   ],
   "closingHeadline": "Mecánica BMW seria, aunque tu pueblo esté en plena montaña del Penedès",
-  "closingCta": "Llámanos y organizamos la recogida en Pontons.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +109,6 @@
   },
   "testimonialsIntro": "Testimonios de vecinos de Pontons y el Penedès interior.",
   "testimonials": [
-    {
-      "name": "Ramon Solsona",
-      "neighborhood": "Pontons",
-      "body": "Vivo en una masía a las afueras y aun así vinieron a buscar el coche sin problema.",
-      "rating": 5
-    },
     {
       "name": "Empar Vidal",
       "neighborhood": "Pontons",

@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Anchuelo es un municipio pequeño de unos 800 habitantes en la comarca del Henares, muy cerca de Alcalá de Henares y de Villalbilla, con la M-219 como principal vía de conexión. El entorno es agrícola y residencial de baja densidad, con algunas viviendas unifamiliares que han atraído a familias que trabajan en Alcalá o en el Corredor del Henares pero prefieren vivir en un pueblo tranquilo.\n\nEl BMW típico de Anchuelo es un coche familiar, X1 o Serie 3, usado a diario para llegar a Alcalá de Henares o Madrid por la A-2, junto con algún vehículo de uso más agrícola en las fincas cercanas. Es un perfil de uso mixto: carretera de conexión combinada con caminos locales de menor tránsito.\n\nNo contamos con instalación en el propio Anchuelo, pero coordinamos recogida del vehículo en el municipio o en Alcalá de Henares, para que el mantenimiento no te suponga perder toda una mañana de desplazamiento.",
-  "servicesIntro": "Mantenimiento y reparación BMW con recogida disponible en Anchuelo y Alcalá de Henares.",
+  "introLocal": "Anchuelo es un municipio pequeño de unos 800 habitantes en la comarca del Henares, muy cerca de Alcalá de Henares y de Villalbilla, con la M-219 como principal vía de conexión. El entorno es agrícola y residencial de baja densidad, con algunas viviendas unifamiliares que han atraído a familias que trabajan en Alcalá o en el Corredor del Henares pero prefieren vivir en un pueblo tranquilo.\n\nEl BMW típico de Anchuelo es un coche familiar, X1 o Serie 3, usado a diario para llegar a Alcalá de Henares o Madrid por la A-2, junto con algún vehículo de uso más agrícola en las fincas cercanas. Es un perfil de uso mixto: carretera de conexión combinada con caminos locales de menor tránsito.",
+  "servicesIntro": "Mantenimiento y reparación BMW.",
   "processIntro": "Un proceso simple, pensado para quien vive en un pueblo pequeño cerca del Corredor del Henares.",
   "processSteps": [
-    {
-      "title": "Recogida coordinada",
-      "body": "Acordamos el punto de recogida en Anchuelo o Alcalá de Henares."
-    },
     {
       "title": "Diagnóstico ISTA",
       "body": "Conectamos el software oficial de BMW en cuanto el coche llega al taller."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación especializada",
       "body": "Técnicos formados en BMW se encargan del trabajo."
-    },
-    {
-      "title": "Entrega coordinada",
-      "body": "Devolvemos el coche en el punto acordado, listo para rodar."
     }
   ],
   "commonIssuesIntro": "Averías frecuentes en BMW de uso mixto entre carretera y caminos locales.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en Anchuelo",
-      "body": "No hace falta desplazarte, coordinamos el traslado del vehículo."
-    },
-    {
       "title": "Formación específica BMW",
       "body": "Trabajamos solo con esta marca y su mecánica particular."
     },
@@ -101,19 +89,11 @@
       "body": "Te explicamos cada avería con calma por teléfono o WhatsApp."
     }
   ],
-  "zoneText": "Damos servicio a Anchuelo y a los municipios cercanos de la comarca del Henares, con recogida coordinada.",
+  "zoneText": "Damos servicio a Anchuelo y a los municipios cercanos de la comarca del Henares.",
   "faqLocal": [
-    {
-      "q": "¿Tenéis que recoger el coche en Anchuelo?",
-      "a": "Sí, coordinamos recogida en el municipio o en Alcalá de Henares."
-    },
     {
       "q": "¿Atendéis coches de uso mixto entre carretera y caminos locales?",
       "a": "Sí, es habitual en la zona."
-    },
-    {
-      "q": "¿Cuánto tarda el proceso con recogida incluida?",
-      "a": "Normalmente entre 1 y 3 días según la avería."
     },
     {
       "q": "¿Puedo pedir presupuesto por WhatsApp?",
@@ -122,14 +102,10 @@
     {
       "q": "¿Trabajáis con seguros?",
       "a": "Sí, gestionamos partes de las principales compañías."
-    },
-    {
-      "q": "¿Puedo esperar el coche si prefiero acercarme yo mismo?",
-      "a": "Sí, puedes traerlo directamente y esperar la revisión en el taller."
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Alcalá de Henares",
-  "closingCta": "Contáctanos desde Anchuelo y te explicamos cómo coordinar la recogida de tu coche.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +117,6 @@
   },
   "testimonialsIntro": "Opiniones de propietarios de Anchuelo y alrededores.",
   "testimonials": [
-    {
-      "name": "Roberto Frías",
-      "neighborhood": "Anchuelo",
-      "body": "Me recogieron el coche en el pueblo sin ningún problema. Diagnóstico claro para mi X1.",
-      "rating": 5
-    },
     {
       "name": "Alicia Redondo",
       "neighborhood": "Villalbilla",
@@ -193,7 +163,7 @@
         "h2": "M-213, M-100 y R-2 hasta Alcobendas",
         "parrafos": [
           "Para llegar a la calle Valgrande 17 se encadenan cinco carreteras: M-213 al salir del pueblo, M-300, M-100, la radial R-2 y, al final, la M-50. Suman 42,2 km (32,6 si se midiera en línea recta).",
-          "La recogida y el vehículo de cortesía, ambos sujetos a disponibilidad, funcionan dentro del área metropolitana de Madrid. Pregunta al pedir cita si tu dirección entra; si no, lo cómodo es dejar el coche a primera hora."
+          "Pregunta al pedir cita si tu dirección entra; si no, lo cómodo es dejar el coche a primera hora."
         ]
       },
       {

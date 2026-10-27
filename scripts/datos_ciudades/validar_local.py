@@ -29,7 +29,7 @@ PROHIBIDAS = [
     (r"años de experiencia|(en activo|trabajamos|abiertos|fundad[oa]s?|nacimos) desde (19|20)\d\d|miles de clientes|cientos de clientes", "cifra de negocio sin fuente"),
     (r"taller oficial|concesionario oficial de la red|servicio oficial bmw de la red", "no somos servicio oficial"),
     (r"nuestro taller (de|en) {ciudad}|en nuestro taller de {ciudad}|estamos en {ciudad}|nuestras instalaciones en {ciudad}", "presencia física falsa en la ciudad"),
-    (r"a domicilio|vamos a buscar|te lo recogemos|coche de sustitución|vehículo de sustitución", "servicio no acreditado (solo existe recogida en el área metropolitana, sujeta a disponibilidad)"),
+    (r"a domicilio|vamos a buscar|te lo recogemos|recogida|recogemos|recogéis|recoger y devolver|puerta a puerta|coche de sustitución|vehículo de sustitución", "recogida/entrega del coche: no se hace (27-oct-2026), ni dentro del área metropolitana"),
     (r"en el corazón de|sin lugar a dudas|no es ningún secreto|en definitiva|cabe destacar|a la vanguardia|amplia experiencia|equipo de profesionales altamente", "muletilla"),
     (r"\bISTA\b|Rheingold", "herramienta no acreditada en la web de Dasercars: no citar"),
 ]
@@ -109,10 +109,10 @@ def validar(slug: str):
         m = re.search(pat.replace("{ciudad}", ciudad), texto, re.I)
         if m:
             errs.append(f"prohibido ({motivo}): «{m.group(0)}»")
-    # La recogida/entrega y el vehículo de cortesía existen (FAQ de la raíz) pero
-    # solo en el área metropolitana de Madrid y de Barcelona y sujetos a disponibilidad.
-    if re.search(r"recogida|cortesía", texto, re.I) and not re.search(r"disponibilidad|solo cubre|cubre solo|no cubre|no llega|queda fuera", texto, re.I):
-        errs.append("recogida/cortesía sin la condición «sujeto a disponibilidad» o sin acotar al área metropolitana")
+    # El vehículo de cortesía existe (FAQ de la raíz), sujeto a disponibilidad.
+    # La recogida/entrega del coche NO se hace (27-oct-2026): la prohíbe PROHIBIDAS.
+    if re.search(r"cortesía", texto, re.I) and not re.search(r"disponibilidad", texto, re.I):
+        errs.append("vehículo de cortesía sin la condición «sujeto a disponibilidad»")
     # cifras trazables
     dat = cifras_datos(datos) | cifras_datos(L.get("datos"))
     sueltas = []

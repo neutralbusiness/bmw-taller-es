@@ -193,7 +193,7 @@
         "h2": "De la GU-193 a la A-1",
         "parrafos": [
           "El término mide 52 km², así que importa desde dónde se mide. Desde el centro del casco urbano, la ruta más corta sale por la GU-193, pasa por la M-117, la M-111 y la M-100 y entra en la A-1: 33,6 km hasta la calle Valgrande, 26,2 en línea recta.",
-          "El Casar no está en el área metropolitana de Madrid, y la recogida y entrega del taller no llega hasta aquí: el coche lo traes tú. Para que el viaje no sea en balde, describe el síntoma por teléfono antes de venir."
+          "El Casar no está en el área metropolitana de Madrid: el coche lo traes tú. Para que el viaje no sea en balde, describe el síntoma por teléfono antes de venir."
         ]
       },
       {
@@ -220,10 +220,6 @@
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
         "a": "33,6 km desde el centro del casco urbano, por la GU-193, la M-117, la M-111, la M-100 y la A-1."
-      },
-      {
-        "q": "¿Recogéis el coche en El Casar?",
-        "a": "No: la recogida del taller cubre solo el área metropolitana de Madrid, y El Casar queda fuera."
       }
     ],
     "datos": [

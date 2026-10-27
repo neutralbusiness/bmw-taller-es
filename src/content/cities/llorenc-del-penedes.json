@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Llorenç del Penedès es un municipio pequeño del Baix Penedès, con un ritmo tranquilo y sin talleres especializados en BMW dentro del propio pueblo. Los vecinos que tienen un BMW suelen desplazarse hacia El Vendrell o Vilafranca para cualquier revisión seria, algo que intentamos evitar ofreciendo recogida a domicilio y un trato directo, sin intermediarios.\n\nTrabajamos con el mismo nivel de diagnóstico que un concesionario, adaptado a un municipio donde el coche recorre sobre todo carreteras comarcales y la AP-7 para llegar a Tarragona o Barcelona.",
+  "introLocal": "Llorenç del Penedès es un municipio pequeño del Baix Penedès, con un ritmo tranquilo y sin talleres especializados en BMW dentro del propio pueblo.\n\nTrabajamos con el mismo nivel de diagnóstico que un concesionario, adaptado a un municipio donde el coche recorre sobre todo carreteras comarcales y la AP-7 para llegar a Tarragona o Barcelona.",
   "servicesIntro": "Diagnosis oficial, mantenimiento programado y reparación de motor y transmisión para cualquier BMW.",
   "processIntro": "Facilitamos el proceso para quienes viven lejos de un taller especializado.",
   "processSteps": [
-    {
-      "title": "Contacto",
-      "body": "Nos cuentas el síntoma y valoramos si conviene recoger el vehículo."
-    },
     {
       "title": "Diagnóstico",
       "body": "Identificamos el origen del problema con el software oficial de BMW."
@@ -50,10 +46,6 @@
     {
       "title": "Reparación",
       "body": "Ejecutamos el trabajo con el recambio que prefieras."
-    },
-    {
-      "title": "Entrega",
-      "body": "Coordinamos la devolución del coche donde te resulte más cómodo."
     }
   ],
   "commonIssuesIntro": "En los BMW de la zona de Llorenç del Penedès vemos habitualmente:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Ideal para quienes viven lejos de un taller especializado."
-    },
-    {
       "title": "Diagnóstico oficial",
       "body": "Mismo nivel técnico que un concesionario BMW."
     },
@@ -101,12 +89,8 @@
       "body": "En cada reparación realizada."
     }
   ],
-  "zoneText": "Atendemos Llorenç del Penedès y el Baix Penedès, con recogida a domicilio para facilitar el desplazamiento.",
+  "zoneText": "Atendemos Llorenç del Penedès y el Baix Penedès.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Llorenç?",
-      "a": "Sí, ofrecemos recogida a domicilio en toda la zona del Baix Penedès."
-    },
     {
       "q": "¿Hay que desplazarse hasta el taller?",
       "a": "No siempre, podemos gestionar todo el proceso sin que te muevas de casa."
@@ -129,7 +113,7 @@
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Llorenç del Penedès",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que te desplaces.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -142,21 +126,9 @@
   "testimonialsIntro": "Opinión de un vecino de Llorenç del Penedès:",
   "testimonials": [
     {
-      "name": "Pere V.",
-      "neighborhood": "Llorenç del Penedès",
-      "body": "No tenía forma de acercarme al taller y vinieron a recoger el coche sin problema. Presupuesto tal cual me lo dijeron.",
-      "rating": 5
-    },
-    {
       "name": "Elena C.",
       "neighborhood": "Llorenç del Penedès",
       "body": "Diagnóstico rápido del turbo de mi 118d, sin la espera que tenía en el concesionario de El Vendrell.",
-      "rating": 5
-    },
-    {
-      "name": "Gonzalo R.",
-      "neighborhood": "Llorenç del Penedès",
-      "body": "Recogieron el coche y me explicaron por teléfono el problema de la caja ZF antes de repararla.",
       "rating": 5
     }
   ],

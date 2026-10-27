@@ -7,7 +7,7 @@
   "lat": 40.78164,
   "lng": -3.23719,
   "metaTitle": "Taller BMW cerca de Málaga del Fresno | BMW Taller Guadalajara",
-  "metaDescription": "Servicio especializado en BMW para Málaga del Fresno y la comarca de Guadalajara. Diagnóstico oficial y presupuesto claro, con recogida a domicilio.",
+  "metaDescription": "Servicio especializado en BMW para Málaga del Fresno y la comarca de Guadalajara. Diagnóstico oficial y presupuesto claro.",
   "heroSubtitle": "Atención especializada BMW para Málaga del Fresno",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Málaga del Fresno es un municipio muy pequeño de la provincia de Guadalajara -nada que ver con la ciudad andaluza del mismo nombre-, con apenas unos pocos vecinos censados. No hay ningún taller de coches en el propio pueblo, así que quien tiene un BMW en la zona suele desplazarse hasta Guadalajara capital o Madrid para cualquier revisión.\n\nOfrecemos recogida a domicilio para este tipo de localidades pequeñas de la Alcarria, con el mismo nivel de diagnóstico oficial que aplicamos en el resto de nuestra red, para que la distancia no sea un motivo para descuidar el mantenimiento del coche.",
-  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW, con recogida a domicilio.",
+  "introLocal": "Málaga del Fresno es un municipio muy pequeño de la provincia de Guadalajara -nada que ver con la ciudad andaluza del mismo nombre-, con apenas unos pocos vecinos censados. No hay ningún taller de coches en el propio pueblo, así que quien tiene un BMW en la zona suele desplazarse hasta Guadalajara capital o Madrid para cualquier revisión.",
+  "servicesIntro": "Diagnosis oficial, mantenimiento y reparación de motor y transmisión para cualquier BMW.",
   "processIntro": "Un proceso simplificado para una localidad sin taller especializado cercano.",
   "processSteps": [
     {
       "title": "Contacto",
       "body": "Nos cuentas el síntoma del coche por teléfono o WhatsApp."
-    },
-    {
-      "title": "Recogida",
-      "body": "Coordinamos la recogida del vehículo en Málaga del Fresno o alrededores."
     },
     {
       "title": "Diagnóstico",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto",
       "body": "Te llamamos con el coste detallado antes de reparar nada."
-    },
-    {
-      "title": "Entrega",
-      "body": "Devolvemos el vehículo en el punto acordado contigo."
     }
   ],
   "commonIssuesIntro": "En los BMW de esta zona de la Alcarria vemos con frecuencia:",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida a domicilio",
-      "body": "Fundamental en una localidad tan pequeña y sin taller especializado cercano."
-    },
-    {
       "title": "Mismo nivel técnico",
       "body": "Diagnóstico oficial igual que en cualquiera de nuestras zonas grandes."
     },
@@ -101,12 +89,8 @@
       "body": "En mano de obra y pieza."
     }
   ],
-  "zoneText": "Atendemos Málaga del Fresno y municipios cercanos de la Alcarria, con recogida a domicilio como servicio habitual.",
+  "zoneText": "Atendemos Málaga del Fresno y municipios cercanos de la Alcarria.",
   "faqLocal": [
-    {
-      "q": "¿Recogéis el coche en Málaga del Fresno?",
-      "a": "Sí, es nuestro servicio habitual para localidades pequeñas de la comarca."
-    },
     {
       "q": "¿Confunde esta localidad con la ciudad de Málaga?",
       "a": "No, Málaga del Fresno es un municipio distinto en la provincia de Guadalajara, y nuestro servicio aquí es específico para esa zona."
@@ -114,10 +98,6 @@
     {
       "q": "¿Dais presupuesto antes de reparar?",
       "a": "Sí, siempre por escrito y detallado."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida y devolución?",
-      "a": "Depende de la reparación; te damos plazo estimado al confirmar el diagnóstico."
     },
     {
       "q": "¿Trabajáis con seguros?",
@@ -128,8 +108,7 @@
       "a": "12 meses en mano de obra, según la pieza utilizada."
     }
   ],
-  "closingHeadline": "El taller BMW llega hasta Málaga del Fresno",
-  "closingCta": "Contáctanos y coordinamos la recogida de tu BMW sin que tengas que desplazarte.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +120,6 @@
   },
   "testimonialsIntro": "Opinión de un vecino de la zona:",
   "testimonials": [
-    {
-      "name": "Ángel M.",
-      "neighborhood": "Málaga del Fresno",
-      "body": "No hay ningún taller cerca y vinieron a recoger el coche sin ningún problema. Muy buen trato por teléfono.",
-      "rating": 5
-    },
     {
       "name": "Yolanda C.",
       "neighborhood": "Málaga del Fresno",

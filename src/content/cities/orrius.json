@@ -31,7 +31,7 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Orrius es un municipio pequeño del Maresme, con poco más de 700 habitantes, situado entre el interior de la comarca y la costa. Muchos de sus vecinos trabajan en Mataró o se desplazan hacia Barcelona por la C-60 o la autopista, así que el coche recorre a diario tramos de carretera de montaña baja combinados con autopista.\n\nAtendemos a los propietarios de BMW de Orrius desde nuestras instalaciones cercanas, con posibilidad de recogida si el vehículo no está en condiciones de circular con seguridad.",
+  "introLocal": "Orrius es un municipio pequeño del Maresme, con poco más de 700 habitantes, situado entre el interior de la comarca y la costa. Muchos de sus vecinos trabajan en Mataró o se desplazan hacia Barcelona por la C-60 o la autopista, así que el coche recorre a diario tramos de carretera de montaña baja combinados con autopista.\n\nAtendemos a los propietarios de BMW de Orrius desde nuestras instalaciones cercanas.",
   "servicesIntro": "Diagnóstico, motor y electrónica BMW para clientes de Orrius y el Maresme interior.",
   "processIntro": "Cómo trabajamos cuando el cliente viene desde un municipio pequeño como Orrius.",
   "processSteps": [
@@ -101,19 +101,11 @@
       "body": "Conocemos a nuestros clientes de Orrius y alrededores por su nombre, no por un número de expediente."
     }
   ],
-  "zoneText": "Damos servicio a Orrius y al resto del Maresme interior, incluyendo Dosrius y Mataró, con recogida disponible para quien lo necesite.",
+  "zoneText": "Damos servicio a Orrius y al resto del Maresme interior, incluyendo Dosrius y Mataró.",
   "faqLocal": [
-    {
-      "q": "¿Dais servicio a un municipio tan pequeño como Orrius?",
-      "a": "Sí, con recogida disponible si el coche no puede circular con normalidad."
-    },
     {
       "q": "¿Trabajáis con coches que combinan carretera de montaña y autopista?",
       "a": "Es habitual en la zona de Orrius y lo tenemos en cuenta al revisar suspensión y turbo."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde Orrius?",
-      "a": "Normalmente el mismo día o al siguiente, según agenda."
     },
     {
       "q": "¿Dais presupuesto cerrado?",
@@ -129,7 +121,7 @@
     }
   ],
   "closingHeadline": "Un taller especializado, aunque vivas en un pueblo pequeño del Maresme",
-  "closingCta": "Escríbenos desde Orrius y organizamos la recogida de tu BMW.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -187,7 +179,7 @@
         "h2": "Por la BV-5106 y la C-32 hasta Sant Joan Despí",
         "parrafos": [
           "En los tres kilómetros alrededor del centro no pasa ninguna autovía ni carretera principal. La ruta hasta la nave de Dasercars Barcelona baja por la BV-5106 y la C-1415c hasta la C-32, y sigue por la B-20: 48,9 km por carretera, 31,7 en línea recta.",
-          "Òrrius está en el Maresme y no en el área metropolitana de Barcelona, así que la recogida del taller no cubre el municipio. Lo práctico es reservar el viaje para lo que pide un especialista: una caja automática que da tirones, un turbo que pierde empuje o un fallo de climatización que nadie ha localizado."
+          "Lo práctico es reservar el viaje para lo que pide un especialista: una caja automática que da tirones, un turbo que pierde empuje o un fallo de climatización que nadie ha localizado."
         ]
       },
       {
@@ -207,10 +199,6 @@
       {
         "q": "¿Qué ITV me queda más cerca?",
         "a": "La de Argentona (B08), en el polígono El Cros, a 11 km por carretera."
-      },
-      {
-        "q": "¿Recogéis el coche en Òrrius?",
-        "a": "No: la recogida del taller solo cubre el área metropolitana de Barcelona."
       }
     ],
     "datos": [

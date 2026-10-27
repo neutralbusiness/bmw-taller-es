@@ -7,7 +7,7 @@
   "lat": 41.3269,
   "lng": 1.89649,
   "metaTitle": "Taller BMW cerca de Begues | Especialista BMW, Baix Llobregat",
-  "metaDescription": "Begues está en el área metropolitana: el taller especialista BMW de Sant Joan Despí, a 24,1 km, ofrece recogida sujeta a disponibilidad. ITV en Viladecans.",
+  "metaDescription": "ITV en Viladecans.",
   "heroSubtitle": "Te han dado un presupuesto desorbitado por la cadena o el turbo de tu BMW en el concesionario? En Begues hay una alternativa honesta.",
   "trustChips": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "title": "Mecatrónica del cambio ZF 8HP",
-      "body": "Tirones al cambiar de marcha o un comportamiento errático de la caja automática de 8 velocidades suelen apuntar a la mecatrónica o a un aceite degradado. Realizamos el mantenimiento completo de la caja ZF con el aceite y filtro específicos, y diagnosticamos posibles fallos en los solenoides para devolverle la suavidad original a tu cambio."
+      "body": "Tirones al cambiar de marcha o un comportamiento errático de la caja automática de 8 velocidades suelen apuntar a la mecatrónica o a un aceite degradado."
     }
   ],
   "whyUs": [
@@ -158,10 +158,6 @@
   ],
   "faqLocal": [
     {
-      "q": "Vivo en Begues Park, ¿es fácil llegar al taller o tenéis servicio de recogida?",
-      "a": "Llegar es muy sencillo, estamos ubicados estratégicamente para ser accesibles desde cualquier punto de Begues y alrededores. Aunque no ofrecemos un servicio de recogida estándar, entendemos las particularidades de la zona. Llámanos y explícanos tu caso; siempre intentamos buscar una solución flexible que te facilite la logística para que el mantenimiento de tu BMW no sea un problema."
-    },
-    {
       "q": "Mi BMW X5 es híbrido y está fuera de garantía, ¿de verdad podéis diagnosticar la parte eléctrica?",
       "a": "Sí, sin ninguna duda. Es una de nuestras especialidades. Contamos con la formación técnica y el equipo de diagnóstico ISTA necesario para trabajar con los sistemas de alto voltaje de los BMW híbridos enchufables (PHEV) y eléctricos (BEV). Podemos diagnosticar desde fallos en el sistema de carga hasta problemas en la gestión de la batería, algo que la mayoría de talleres independientes en la zona no pueden ofrecer."
     },
@@ -196,8 +192,8 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Begues: sin autovía cerca, pero con recogida del taller BMW a 24 km",
-    "entradilla": "Begues pertenece al Área Metropolitana de Barcelona aunque ninguna autovía pase cerca del pueblo. Eso tiene una ventaja práctica: el taller de Sant Joan Despí puede recoger el coche, sujeto a disponibilidad.",
+    "h1": "Begues: sin autovía cerca, con el taller BMW a 24 km",
+    "entradilla": "Begues pertenece al Área Metropolitana de Barcelona aunque ninguna autovía pase cerca del pueblo.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 24.1
@@ -209,14 +205,6 @@
         "parrafos": [
           "En un radio de tres kilómetros desde el centro solo hay carreteras secundarias: la C-535, a unos 200 metros, y la BV-2041, a 1,8 km. Para salir, la ruta hasta Dasercars Barcelona toma la BV-2041, enlaza con la C-32 y termina por la B-25: 24,1 km por carretera, 12,1 en línea recta.",
           "Es un pueblo a 399 metros, y la bajada hacia el llano se hace con el freno trabajando. El líquido de frenos absorbe humedad con el tiempo y pierde capacidad aunque el coche haga pocos kilómetros: el plan de BMW lo cambia por fecha, y conviene no saltárselo."
-        ]
-      },
-      {
-        "id": "recogida-begues",
-        "h2": "Recogida dentro del área metropolitana",
-        "parrafos": [
-          "Al ser uno de los 36 municipios del AMB, Begues entra en la zona donde el taller ofrece recogida y entrega del coche y vehículo de cortesía. Las dos cosas están sujetas a disponibilidad, así que lo razonable es pedirlas al reservar.",
-          "El taller abre de lunes a viernes, de 9:00 a 14:00 y de 15:00 a 18:00; sábados y domingos está cerrado."
         ]
       },
       {
@@ -235,10 +223,6 @@
       }
     ],
     "faq": [
-      {
-        "q": "¿Llega la recogida del taller hasta Begues?",
-        "a": "Sí, Begues está en el Área Metropolitana de Barcelona. La recogida y entrega está sujeta a disponibilidad."
-      },
       {
         "q": "¿Cuánto hay hasta Sant Joan Despí?",
         "a": "24,1 km por carretera, por la BV-2041, la C-32 y la B-25."

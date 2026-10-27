@@ -7,7 +7,7 @@
   "lat": 40.51752,
   "lng": -3.12887,
   "metaTitle": "Taller BMW en Valdarachas | Diagnosis y reparación especializada",
-  "metaDescription": "Taller especializado BMW cerca de Valdarachas, Guadalajara. Diagnosis con equipo original, motor, cambio ZF y mantenimiento. Recogida disponible.",
+  "metaDescription": "Taller especializado BMW cerca de Valdarachas, Guadalajara. Diagnosis con equipo original, motor, cambio ZF y mantenimiento.",
   "heroSubtitle": "El taller BMW de referencia para los vecinos de Valdarachas y la comarca",
   "trustChips": [
     {
@@ -31,14 +31,10 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Valdarachas es uno de los municipios más pequeños de Guadalajara, con un núcleo urbano modesto y muy poca población, sin comercio propio ni, evidentemente, taller especializado en BMW. Quien vive aquí y conduce un BMW sabe que para cualquier revisión seria hay que desplazarse hacia Guadalajara capital o hacia el corredor del Henares.\n\nRecibimos con cierta frecuencia clientes de Valdarachas y de la comarca cercana, casi siempre con vehículos de uso mixto entre carretera comarcal y trayectos ocasionales largos hacia Madrid. Al ser un núcleo tan pequeño, no pretendemos ofrecer barrios ni zonas específicas: lo que ofrecemos es cercanía real con la comarca y la posibilidad de coordinar la entrega y recogida del vehículo para minimizar tus desplazamientos.",
+  "introLocal": "Valdarachas es uno de los municipios más pequeños de Guadalajara, con un núcleo urbano modesto y muy poca población, sin comercio propio ni, evidentemente, taller especializado en BMW. Quien vive aquí y conduce un BMW sabe que para cualquier revisión seria hay que desplazarse hacia Guadalajara capital o hacia el corredor del Henares.\n\nRecibimos con cierta frecuencia clientes de Valdarachas y de la comarca cercana, casi siempre con vehículos de uso mixto entre carretera comarcal y trayectos ocasionales largos hacia Madrid.",
   "servicesIntro": "Servicio técnico BMW completo, pensado para quien vive en zona rural y no puede permitirse sorpresas con el coche.",
   "processIntro": "Un proceso simple, pensado para reducir tus desplazamientos desde Valdarachas:",
   "processSteps": [
-    {
-      "title": "Contacto telefónico o WhatsApp",
-      "body": "Nos cuentas el síntoma y, si hace falta, coordinamos recogida del vehículo en la zona."
-    },
     {
       "title": "Diagnosis con equipo BMW",
       "body": "Lectura de todas las unidades de control con herramienta original ISTA."
@@ -85,10 +81,6 @@
       "body": "Sabemos cómo afecta la carretera comarcal a la mecánica de un BMW."
     },
     {
-      "title": "Recogida coordinada",
-      "body": "Para clientes de Valdarachas, facilitamos la logística de traer el coche al taller."
-    },
-    {
       "title": "Diagnosis original",
       "body": "Mismo software que usa la marca, sin adivinar averías."
     },
@@ -104,20 +96,8 @@
   "zoneText": "Damos servicio a los residentes de Valdarachas y la comarca cercana de Guadalajara, sin taller BMW especializado propio y con trayectos comarcales que exigen un mantenimiento cuidado.",
   "faqLocal": [
     {
-      "q": "¿Tenéis taller en el propio Valdarachas?",
-      "a": "No, Valdarachas no dispone de talleres especializados; trabajamos con clientes de la zona coordinando la recogida o entrega del vehículo."
-    },
-    {
-      "q": "¿Puedo dejar el coche sin bajar dos veces?",
-      "a": "Sí, muchos clientes de la zona nos dejan el coche una vez y lo recogen ya reparado, coordinando por teléfono."
-    },
-    {
       "q": "¿Trabajáis con coches de uso rural con muchos km?",
       "a": "Sí, es habitual en esta zona; revisamos con especial atención frenos, suspensión y motor."
-    },
-    {
-      "q": "¿Hacéis diagnosis a domicilio?",
-      "a": "No disponemos de asistencia móvil, pero facilitamos al máximo el traslado del vehículo al taller."
     },
     {
       "q": "¿Trabajáis con seguros?",
@@ -133,7 +113,7 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado aunque vivas lejos del taller",
-  "closingCta": "Escríbenos y coordinamos la recogida desde Valdarachas",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -145,12 +125,6 @@
   },
   "testimonialsIntro": "Lo que dicen los clientes que llegan desde la zona de Valdarachas:",
   "testimonials": [
-    {
-      "name": "Ceferino M.",
-      "neighborhood": "Valdarachas",
-      "body": "Vivo apartado y aun así se organizaron para recoger el coche sin que tuviera que bajar dos veces.",
-      "rating": 5
-    },
     {
       "name": "Purificación L.",
       "neighborhood": "Comarca de Guadalajara",

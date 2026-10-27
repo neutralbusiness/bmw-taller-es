@@ -7,7 +7,7 @@
   "lat": 40.86211,
   "lng": -3.90268,
   "metaTitle": "Taller BMW cerca de Rascafría | Valle del Lozoya, Madrid",
-  "metaDescription": "Servicio BMW para Rascafría: recogida a domicilio, diagnosis con equipo original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
+  "metaDescription": "Servicio BMW para Rascafría: diagnosis con equipo original y reparación en el taller de referencia de la Sierra Norte de Madrid.",
   "heroSubtitle": "El valle del Lozoya, con mecánica BMW de confianza cerca",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Rascafría es uno de los municipios más conocidos de la Sierra Norte de Madrid, con cerca de 1.900 habitantes y un fuerte atractivo turístico gracias al valle del Lozoya y el Monasterio de El Paular. Eso también significa mucho tráfico de fin de semana y un uso del vehículo que combina residentes habituales con visitantes recurrentes.\n\nNo hay taller especializado en BMW en Rascafría, así que damos servicio desde el taller de referencia de la Sierra Norte, con recogida coordinada en el propio pueblo, a más de una hora de Madrid por carretera de montaña.\n\nLas cuestas del puerto de Cotos y Navacerrada, combinadas con el frío intenso del invierno serrano, dejan una huella específica en los BMW de la zona: turbo exigido, frenos desgastados y sistemas de refrigeración sometidos a temperaturas extremas.",
+  "introLocal": "Rascafría es uno de los municipios más conocidos de la Sierra Norte de Madrid, con cerca de 1.900 habitantes y un fuerte atractivo turístico gracias al valle del Lozoya y el Monasterio de El Paular. Eso también significa mucho tráfico de fin de semana y un uso del vehículo que combina residentes habituales con visitantes recurrentes.\n\nNo hay taller especializado en BMW en Rascafría, así que damos servicio desde el taller de referencia de la Sierra Norte.\n\nLas cuestas del puerto de Cotos y Navacerrada, combinadas con el frío intenso del invierno serrano, dejan una huella específica en los BMW de la zona: turbo exigido, frenos desgastados y sistemas de refrigeración sometidos a temperaturas extremas.",
   "servicesIntro": "Mantenimiento adaptado a uso de montaña, frenos, suspensión y diagnosis electrónica para toda la gama BMW.",
   "processIntro": "Un proceso pensado para quien vive en el corazón del Parque Nacional.",
   "processSteps": [
     {
       "title": "Consulta telefónica",
-      "body": "Valoramos el problema y organizamos la logística de recogida en Rascafría."
-    },
-    {
-      "title": "Recogida en el pueblo",
-      "body": "Coordinamos un punto de encuentro accesible en el propio Rascafría."
+      "body": "Valoramos el problema y organizamos la logística en Rascafría."
     },
     {
       "title": "Diagnosis con escáner original",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto por teléfono",
       "body": "Confirmamos precio y plazo antes de empezar."
-    },
-    {
-      "title": "Entrega de vuelta en el pueblo",
-      "body": "Devolvemos el vehículo al punto acordado en Rascafría."
     }
   ],
   "commonIssuesIntro": "Averías típicas en BMW usados en el valle del Lozoya y los puertos de montaña cercanos.",
@@ -85,10 +77,6 @@
       "body": "Un BMW en Rascafría sufre un desgaste distinto al de ciudad."
     },
     {
-      "title": "Recogida coordinada en el pueblo",
-      "body": "Punto fijo acordado, sin depender de que bajes hasta Madrid."
-    },
-    {
       "title": "Diagnosis con equipo original",
       "body": "Precisión de concesionario, sin necesidad de bajar a la capital."
     },
@@ -105,11 +93,7 @@
   "faqLocal": [
     {
       "q": "¿Hay taller BMW en Rascafría?",
-      "a": "No, damos servicio desde el taller de referencia de la Sierra Norte con recogida coordinada en el pueblo."
-    },
-    {
-      "q": "¿Podéis recoger el coche en fin de semana?",
-      "a": "Es posible coordinarlo, especialmente por la afluencia turística de la zona; consúltanos con antelación."
+      "a": "No, damos servicio desde el taller de referencia de la Sierra Norte."
     },
     {
       "q": "¿El uso de montaña afecta a la garantía?",
@@ -118,22 +102,10 @@
     {
       "q": "¿Trabajáis con vehículos xDrive de tracción total?",
       "a": "Sí, muy habitual en esta zona y con experiencia específica."
-    },
-    {
-      "q": "¿Qué pasa si nieva el día de la recogida?",
-      "a": "Reprogramamos por seguridad y te avisamos con antelación."
-    },
-    {
-      "q": "¿Cuánto se tarda en llegar hasta el taller desde Rascafría?",
-      "a": "Más de una hora en coche, aunque nosotros nos encargamos del trayecto con la recogida."
-    },
-    {
-      "q": "¿Atendéis también a visitantes con avería puntual?",
-      "a": "Sí, aunque el servicio de recogida programada está pensado sobre todo para residentes habituales."
     }
   ],
   "closingHeadline": "Mecánica BMW seria, en el corazón del valle del Lozoya",
-  "closingCta": "Llámanos y coordinamos la recogida en Rascafría.",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -149,12 +121,6 @@
       "name": "Feliciano Corral",
       "neighborhood": "Rascafría",
       "body": "El turbo del diésel sufría mucho subiendo hacia Cotos. Quedó como nuevo.",
-      "rating": 5
-    },
-    {
-      "name": "Presentación Vega",
-      "neighborhood": "Rascafría",
-      "body": "Vivo cerca del Paular y aun así vinieron a buscar el coche sin problema.",
       "rating": 5
     },
     {

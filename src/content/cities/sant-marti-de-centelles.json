@@ -7,7 +7,7 @@
   "lat": 41.76107,
   "lng": 2.24859,
   "metaTitle": "Taller BMW cerca de Sant Martí de Centelles | Osona",
-  "metaDescription": "Taller especializado en BMW cerca de Sant Martí de Centelles, Osona. Diagnosis oficial y mantenimiento con recogida del vehículo.",
+  "metaDescription": "Taller especializado en BMW cerca de Sant Martí de Centelles, Osona. Diagnosis oficial y mantenimiento.",
   "heroSubtitle": "Mecánica BMW especializada cerca de Sant Martí de Centelles",
   "trustChips": [
     {
@@ -31,17 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Sant Martí de Centelles es un municipio pequeño de la comarca de Osona, junto a Centelles y con buena conexión hacia Barcelona por la C-17. No cuenta con taller BMW propio, así que los vecinos suelen desplazarse a Vic o a la propia Centelles para el mantenimiento de la marca.\n\nOfrecemos recogida del vehículo en Sant Martí de Centelles, con diagnosis realizada siempre con el software oficial de BMW y devolución del coche una vez terminado el trabajo.",
-  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica, con recogida disponible en la zona.",
+  "introLocal": "Sant Martí de Centelles es un municipio pequeño de la comarca de Osona, junto a Centelles y con buena conexión hacia Barcelona por la C-17. No cuenta con taller BMW propio, así que los vecinos suelen desplazarse a Vic o a la propia Centelles para el mantenimiento de la marca.",
+  "servicesIntro": "Mantenimiento, diagnosis electrónica y reparación mecánica.",
   "processIntro": "Pensado para minimizar desplazamientos desde un municipio pequeño sin taller BMW propio.",
   "processSteps": [
     {
       "title": "Contacto y valoración",
       "body": "Nos cuentas el problema o servicio necesario antes de mover el coche."
-    },
-    {
-      "title": "Recogida en Sant Martí de Centelles",
-      "body": "Coordinamos la recogida en el pueblo o en un punto cercano."
     },
     {
       "title": "Diagnosis oficial BMW",
@@ -50,10 +46,6 @@
     {
       "title": "Presupuesto cerrado",
       "body": "Te llamamos con el desglose antes de intervenir."
-    },
-    {
-      "title": "Entrega del vehículo",
-      "body": "Devolvemos el coche reparado en el punto acordado."
     }
   ],
   "commonIssuesIntro": "Averías habituales en BMW de esta zona de Osona con trayecto habitual hacia Barcelona.",
@@ -81,10 +73,6 @@
   ],
   "whyUs": [
     {
-      "title": "Recogida en el pueblo",
-      "body": "No hace falta desplazarse para revisar tu BMW."
-    },
-    {
       "title": "Diagnosis oficial de la marca",
       "body": "Identificamos el fallo real antes de proponer cualquier reparación."
     },
@@ -104,14 +92,6 @@
   "zoneText": "Sant Martí de Centelles se sitúa en la comarca de Osona, junto a Centelles, con buena conexión hacia Barcelona por la C-17. El clima algo más frío que en el llano condiciona parte del mantenimiento que recomendamos.",
   "faqLocal": [
     {
-      "q": "¿Hay taller BMW en Sant Martí de Centelles?",
-      "a": "No, es un municipio pequeño sin taller especializado propio, por eso ofrecemos recogida desde allí."
-    },
-    {
-      "q": "¿Tengo que llevar el coche yo mismo?",
-      "a": "No, coordinamos la recogida en el pueblo y la entrega una vez reparado."
-    },
-    {
       "q": "¿Usáis diagnosis oficial BMW?",
       "a": "Sí, el software de la marca nos permite identificar averías con precisión."
     },
@@ -122,14 +102,9 @@
     {
       "q": "¿Atendéis también Centelles y Vic?",
       "a": "Sí, recibimos habitualmente clientes de ambos municipios y de toda la comarca de Osona."
-    },
-    {
-      "q": "¿Cuánto tarda la recogida desde el pueblo?",
-      "a": "Normalmente coordinamos la recogida en 24-48 horas, según disponibilidad."
     }
   ],
-  "closingHeadline": "Tu BMW, sin moverte de Sant Martí de Centelles",
-  "closingCta": "Solicita la recogida de tu vehículo",
+  "closingCta": "Escríbenos o llámanos y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
@@ -141,12 +116,6 @@
   },
   "testimonialsIntro": "Vecinos de Sant Martí de Centelles que ya confían en nosotros.",
   "testimonials": [
-    {
-      "name": "Jaume R.",
-      "neighborhood": "Sant Martí de Centelles",
-      "body": "Recogieron el coche en el pueblo y me lo devolvieron reparado sin que tuviera que moverme.",
-      "rating": 5
-    },
     {
       "name": "Meritxell O.",
       "neighborhood": "Sant Martí de Centelles",
