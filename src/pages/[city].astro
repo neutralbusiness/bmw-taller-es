@@ -2,6 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK, SERVICES, callPhones, waFor } from "../lib/network.ts";
+import { tituloVeraz, descripcionVeraz, chipsVeraces } from "../lib/veraz.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -71,6 +72,9 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityContent };
+const metaTitulo = tituloVeraz(city);
+const metaDesc = descripcionVeraz(city);
+const chips = chipsVeraces(city.trustChips);
 const canonical = `https://${city.slug}.${NETWORK.domain}/`;
 
 /* ──────────────────────────────────────────────────────────
@@ -214,7 +218,7 @@ const autoRepair = {
   "@id": businessId,
   name: t ? t.businessName : `Taller BMW en ${city.name}`,
   alternateName: t ? `${t.businessName} · ${city.name}` : undefined,
-  description: city.metaDescription,
+  description: metaDesc,
   url: canonical,
   telephone: call.telephone,
   email: email,
@@ -326,8 +330,8 @@ const webPage = {
   "@type": "WebPage",
   "@id": webpageId,
   url: canonical,
-  name: city.metaTitle,
-  description: city.metaDescription,
+  name: metaTitulo,
+  description: metaDesc,
   inLanguage: "es-ES",
   isPartOf: { "@id": networkOrgId },
   about: { "@id": businessId },
@@ -357,7 +361,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
 
 ---
 
-<Layout heroImage={heroImage} title={city.metaTitle} description={city.metaDescription} canonical={canonical} schema={schemaGraph}>
+<Layout heroImage={heroImage} title={metaTitulo} description={metaDesc} canonical={canonical} schema={schemaGraph}>
 
   {/* ─────────────────────── NAV ─────────────────────── */}
   <nav class="nav">
@@ -425,11 +429,11 @@ const introParagraphs = (Array.isArray(city.introLocal)
   </header>
 
   {/* ─────────────────────── TRUST STRIP ─────────────────────── */}
-  {city.trustChips && city.trustChips.length > 0 && (
+  {chips.length > 0 && (
     <aside class="trust-strip" aria-label="Garantías del taller">
       <div class="container">
         <ul class="trust-strip-list">
-          {city.trustChips.map(t => (
+          {chips.map(t => (
             <li class="trust-chip">
               <span class="trust-chip-icon" aria-hidden="true" set:html={trustIconFor(t.text)} />
               <span class="trust-chip-text">{t.text}</span>

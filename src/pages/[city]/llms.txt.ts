@@ -9,6 +9,7 @@
  */
 import type { APIRoute, GetStaticPaths } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE, callPhones, waFor } from "../../lib/network.ts";
+import { tituloVeraz, descripcionVeraz } from "../../lib/veraz.ts";
 
 interface CityContent {
   slug: string;
@@ -57,9 +58,9 @@ export const GET: APIRoute = ({ props }) => {
   const lines: string[] = [];
 
   // ───── Bloque superior obligatorio del estándar llmstxt.org ─────
-  lines.push(`# ${city.metaTitle}`);
+  lines.push(`# ${tituloVeraz(city)}`);
   lines.push("");
-  lines.push(`> ${city.metaDescription}`);
+  lines.push(`> ${descripcionVeraz(city)}`);
   lines.push("");
   lines.push(
     `Página de ${NETWORK.brand} (Dasercars, taller especialista BMW y MINI) para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
