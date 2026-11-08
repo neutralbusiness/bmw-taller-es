@@ -152,10 +152,10 @@ async function main() {
 <h1 class="hero__title">Talleres BMW<br><em>por provincia</em></h1>
 <p class="hero__sub">Tenemos página propia en ${total} ciudades, con los precios, los tiempos y las averías más frecuentes de cada zona. Entra en la tuya y pide cita.</p>
 </div></div></section>
-<section class="wrap sec">
+<section class="sec"><div class="wrap">
 <p class="zn__intro">Los dos talleres físicos están en Madrid y Barcelona; desde ahí atendemos al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
 <div class="zn__grid">${bloqueProvincias(grupos)}</div>
-</section>
+</div></section>
 </main>`;
   html = html.replace(/<main id="main">[\s\S]*?<\/main>/, main);
   html = html.replace("</head>", `${ESTILOS}</head>`);
@@ -169,10 +169,10 @@ async function main() {
   const MARCA_INI = "<!-- ciudades:inicio -->";
   const MARCA_FIN = "<!-- ciudades:fin -->";
   const seccion =
-    `${MARCA_INI}<section class="sec"><h2>Talleres por ciudad <span class="zn__n">${total}</span></h2>` +
+    `${MARCA_INI}<section class="sec"><div class="wrap"><h2>Talleres por ciudad <span class="zn__n">${total}</span></h2>` +
     `<p class="zn__intro">Cada ciudad tiene su propia página. Listado completo en ` +
     `<a href="/zonas/">talleres BMW por provincia</a>.</p>` +
-    `<div class="zn__grid">${bloqueProvincias(grupos)}</div></section>${MARCA_FIN}`;
+    `<div class="zn__grid">${bloqueProvincias(grupos)}</div></div></section>${MARCA_FIN}`;
 
   if (mapa.includes(MARCA_INI)) {
     mapa = mapa.replace(new RegExp(`${MARCA_INI}[\\s\\S]*?${MARCA_FIN}`), seccion);

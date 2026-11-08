@@ -69,7 +69,18 @@ h1{max-width:961px}
 .ft .ft__desc{color:#b9c7da}
 :root{--ink-3:#5d6979}
 </style><meta name="nb-form" content="off">
-</head>
+<style id="movil-2026-11-08">
+/* Auditoría 8-nov-2026 (móvil, >80 % del tráfico). */
+html,body{overflow-x:clip}
+/* .crumbs{padding:1.2rem 0 0} anulaba el margen lateral de .wrap: migas pegadas al borde. */
+.crumbs.wrap{padding-inline:clamp(1rem,5vw,6rem)}
+/* Las tablas comparativas ensanchaban 22 páginas hasta 571 px y cortaban el aviso de cookies y el botón de WhatsApp. */
+@media (max-width:700px){
+  .vs-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:.88rem}
+  .vs-table th,.vs-table td{padding:.7rem .75rem}
+  .vs-table tbody th{width:auto;min-width:7rem}
+}
+</style></head>
 <body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXDJ2V5T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a class="skip" href="#main">Saltar al contenido principal</a>
 <header class="hdr"><div class="wrap hdr__in">
