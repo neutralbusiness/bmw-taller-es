@@ -3,11 +3,11 @@
   "name": "Campo Real",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 6075,
+  "population": 6974,
   "lat": 40.32238,
   "lng": -3.37767,
   "metaTitle": "Taller BMW en Campo Real | Comunidad de Madrid",
-  "metaDescription": "Taller BMW especializado cerca de Campo Real. Diagnosis, mantenimiento, motor, turbo y caja automática con garantía escrita y presupuesto claro.",
+  "metaDescription": "Campo Real: ITV en Arganda del Rey a 9,4 km, servicio oficial BMW en Alcalá y taller independiente especializado en BMW y MINI en Alcobendas, a 46,7 km.",
   "heroSubtitle": "Especialistas BMW para Campo Real y el sureste de Madrid.",
   "trustChips": [
     {
@@ -133,9 +133,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
+    "phone": "+34673506793",
+    "phoneDisplay": "673 506 793",
+    "whatsapp": "34673506793",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
   },
@@ -148,5 +148,125 @@
     "M-300 hacia Arganda del Rey",
     "R-3 (Radial de Madrid)",
     "M-219 hacia Loeches"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Campo Real y tu BMW: ITV en Arganda, taller especialista a 47 km",
+    "entradilla": "Campo Real ha sumado más de mil vecinos en diez años. Si tienes un BMW o un MINI, la ITV te queda a unos 9 km, en Arganda, y el taller de la red en Alcobendas, cruzando Madrid por la R-3 y la M-30.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 46.7
+    },
+    "secciones": [
+      {
+        "id": "itv-san-martin",
+        "h2": "Una ITV en el camino de San Martín de la Vega",
+        "parrafos": [
+          "La estación oficial más próxima por carretera es la de Laboratorio e Inspección de Vehículos (estación 2807), en el Camino de San Martín de la Vega 8, en Arganda del Rey: 9,4 km desde el centro de Campo Real, según la Comunidad de Madrid."
+        ]
+      },
+      {
+        "id": "r3-m30",
+        "h2": "46,7 km por la R-3, la M-30 y la A-1",
+        "parrafos": [
+          "Desde Campo Real, la ruta hasta la calle Valgrande de Alcobendas sale por la M-209, que pasa a 0,4 km del centro, toma la R-3, cruza por la M-30 y termina por la A-1: 46,7 km por carretera, 31,9 en línea recta.",
+          "No es un viaje para una escobilla. Sí lo es para un diagnóstico que nadie ha cerrado o para el mantenimiento por plan de marca. Antes de mover el coche recibes un presupuesto por escrito, y el trabajo no empieza hasta que das el visto bueno; la diagnosis también se presupuesta."
+        ]
+      },
+      {
+        "id": "oficial-via-complutense",
+        "h2": "El servicio oficial, en la Vía Complutense",
+        "parrafos": [
+          "En el localizador de bmw.es, el punto oficial más cercano es AutoPremier, en la Vía Complutense 131 de Alcalá de Henares, a 23 km por carretera."
+        ]
+      },
+      {
+        "id": "campo-real-crece",
+        "h2": "De 5.854 a 6.974 vecinos",
+        "parrafos": [
+          "El padrón registraba 5.854 habitantes en 2015 y 6.974 en 2025: un 19,1 % más. En 2025 había 3.820 turismos censados según la Comunidad de Madrid a partir de la DGT, 548 por cada mil vecinos, en un término de 61,5 km² situado a unos 776 metros de altitud.",
+          "A esa altura las heladas de invierno no son raras. Si el coche duerme en la calle, revisa la batería antes de diciembre: es la pieza que antes falla con el frío."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Dónde paso la ITV si vivo en Campo Real?",
+        "a": "En la estación 2807 del Camino de San Martín de la Vega, en Arganda del Rey, a 9,4 km."
+      },
+      {
+        "q": "¿Cómo llego a vuestro taller?",
+        "a": "Por la M-209, la R-3, la M-30 y la A-1 hasta Alcobendas: 46,7 km."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "6.974 habitantes (+19,1 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "3.820 · 548 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Superficie del término",
+        "valor": "61,5 km²",
+        "fuente": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Arganda del Rey (estación 2807) · 9,4 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 23 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 46,7 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "CartoCiudad (IGN)",
+        "url": "https://www.cartociudad.es/"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

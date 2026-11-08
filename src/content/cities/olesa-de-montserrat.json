@@ -3,11 +3,11 @@
   "name": "Olesa de Montserrat",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 23301,
+  "population": 24966,
   "lat": 41.54372,
   "lng": 1.89407,
-  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento oficial sin coste de concesionario",
-  "metaDescription": "Taller especialista BMW en Olesa de Montserrat. Revisión CBS en garantía según normativa europea. Diagnóstico ISTA y recambio OE. Ahorra hasta un 50%.",
+  "metaTitle": "Taller BMW Olesa de Montserrat — Mantenimiento",
+  "metaDescription": "Taller especialista BMW en Olesa de Montserrat. Revisión CBS en garantía según normativa europea. Diagnóstico y recambio OE.",
   "heroSubtitle": "Mantén tu BMW en Olesa de Montserrat con la misma calidad que el concesionario oficial, pero con un ahorro real y un trato más cercano.",
   "trustChips": [
     {
@@ -148,5 +148,125 @@
     "whatsapp": "34631687779",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Olesa de Montserrat: no somos el concesionario BMW, somos el especialista a 29 km",
+    "entradilla": "Si buscabas el concesionario BMW más cercano a Olesa, está en Terrassa. Nosotros somos un taller independiente en Sant Joan Despí. Te dejamos los datos de los dos para que elijas sabiendo qué hace cada uno.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 29.0
+    },
+    "secciones": [
+      {
+        "id": "concesionario-terrassa",
+        "h2": "El concesionario más cercano, en Terrassa",
+        "parrafos": [
+          "Según el localizador de bmw.es, el punto oficial más próximo a Olesa es Quadis Munich, en el carrer Anoia 9 de Terrassa, a 16,8 km por carretera. Es donde se venden coches nuevos y donde se tramitan las reparaciones en garantía de BMW.",
+          "Dasercars no es concesionario: es un taller especializado en BMW y MINI, sin vínculo con la red de la marca. Lo decimos claro para que no llames a un número pensando que es otro."
+        ]
+      },
+      {
+        "id": "c55-a2",
+        "h2": "29 km por la C-55 y la A-2",
+        "parrafos": [
+          "Desde el centro de Olesa hasta el carrer del Tambor del Bruc hay 29 km por carretera y 24,3 en línea recta: la C-55 baja por el valle del Llobregat y la A-2 lleva hasta Sant Joan Despí. Olesa no está en el Área Metropolitana de Barcelona.",
+          "Funcionamos con presupuesto escrito: sabes qué se va a hacer antes de que nadie toque el coche, y nada empieza hasta que lo aceptas. También la diagnosis se presupuesta, porque es trabajo técnico con equipo y horas, no una lectura rápida de códigos."
+        ]
+      },
+      {
+        "id": "itv-sant-andreu-viladecavalls",
+        "h2": "La ITV: Sant Andreu de la Barca o Viladecavalls",
+        "parrafos": [
+          "En el registro de la Generalitat, dos estaciones quedan casi a la misma distancia por carretera: la de Sant Andreu de la Barca (B21), en la N-II, punto kilométrico 592,5, a 12,1 km, y la de Viladecavalls (B03), en el polígono Can Trias, a 12,5."
+        ]
+      },
+      {
+        "id": "olesa-cifras",
+        "h2": "24.966 vecinos en el Baix Llobregat",
+        "parrafos": [
+          "Olesa tenía 24.966 habitantes en 2025, un 6,1 % más que en 2015, y 11.215 turismos en 2024 según Idescat a partir de la DGT: 449 por cada 1.000 vecinos."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Sois el concesionario BMW de la zona?",
+        "a": "No. El punto oficial más próximo es Quadis Munich, en el carrer Anoia 9 de Terrassa. Nosotros somos Dasercars, taller independiente."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "A 29 km por la C-55 y la A-2, en Sant Joan Despí."
+      },
+      {
+        "q": "¿Dónde paso la ITV desde Olesa?",
+        "a": "Hay dos casi a la par en el registro de la Generalitat: Sant Andreu de la Barca (B21), a 12,1 km, y Viladecavalls (B03), a 12,5."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "24.966 habitantes",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Baix Llobregat",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081477&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "11.215 · 449 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=081477&lang=es"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, Terrassa · 16,8 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Sant Andreu (B21) · 12,1 km; Viladecavalls (B03) · 12,5",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 29 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=081477&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }

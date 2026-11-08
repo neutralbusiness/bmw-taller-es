@@ -1,0 +1,177 @@
+{
+ "slug": "ajalvir",
+ "nombre": "Ajalvir",
+ "tipo": "municipio",
+ "pertenece_a": null,
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34673506793",
+ "codigo_ine": "28002",
+ "coordenadas": {
+  "lat": 40.52909,
+  "lng": -3.47658,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28002"
+ },
+ "poblacion": {
+  "valor": 4868,
+  "anio": 2025,
+  "valor_hace_10": 4343,
+  "anio_hace_10": 2015,
+  "variacion_10_pct": 12.1,
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": 19.7,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28002"
+ },
+ "densidad_hab_km2": 247,
+ "altitud_m": {
+  "valor": 658,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": {
+  "valor": 10057,
+  "anio": "2025",
+  "por_1000_hab": 2066,
+  "fuente": "Instituto de Estadística de la Comunidad de Madrid a partir de la DGT (datos.comunidad.madrid)"
+ },
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 18.9,
+  "km_linea_recta": 14.8,
+  "vias_de_la_ruta": [
+   "M-113",
+   "M-50",
+   "R-2"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV DEKRA ITV ESPAÑA, S.L.U (estación 2808)",
+   "operador": "DEKRA ITV ESPAÑA, S.L.U",
+   "direccion": "Cº Viejo de Cobeña, 36",
+   "municipio": "Paracuellos",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 9.0,
+   "km_linea": 5.9,
+   "km_ruta_mas_rapida": 11.7
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "BYmyCAR Madrid (Algete)",
+  "razon_social": "BYMYCAR Madrid, S.L.U.",
+  "direccion": "Calle Tejera, 2- Ctra. Algete km. 3",
+  "cp": "28111",
+  "municipio": "Algete",
+  "web": "https://bmwbymycar.concesionariobmw.es",
+  "solo_taller": false,
+  "centro_ocasion_con_taller": "BYmyCAR Madrid (Algete): la instalación de ocasión y el taller autorizado se trasladaron de Alcalá a Algete; horario de taller propio (bymycar.madrid, noticia «Algete»)",
+  "km_carretera": 13.3,
+  "km_linea": 8.6,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "M-108",
+   "tipo": "primary",
+   "km": 0.0
+  },
+  {
+   "ref": "M-100",
+   "tipo": "trunk",
+   "km": 0.9
+  },
+  {
+   "ref": "M-113",
+   "tipo": "primary",
+   "km": 1.0
+  },
+  {
+   "ref": "R-2",
+   "tipo": "motorway",
+   "km": 2.4
+  },
+  {
+   "ref": "M-50",
+   "tipo": "motorway",
+   "km": 2.5
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
+ "distancias_desde": null,
+ "cercanas_red": [
+  {
+   "slug": "daganzo-de-arriba",
+   "nombre": "Daganzo de Arriba",
+   "km_linea_recta": 4.8
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 5.2
+  },
+  {
+   "slug": "cobena",
+   "nombre": "Cobeña",
+   "km_linea_recta": 5.6
+  },
+  {
+   "slug": "algete",
+   "nombre": "Algete",
+   "km_linea_recta": 7.8
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 8.2
+  },
+  {
+   "slug": "camarma-de-esteruelas",
+   "nombre": "Camarma de Esteruelas",
+   "km_linea_recta": 9.4
+  },
+  {
+   "slug": "fresno-de-torote",
+   "nombre": "Fresno de Torote",
+   "km_linea_recta": 10.4
+  },
+  {
+   "slug": "alcala-de-henares",
+   "nombre": "Alcalá de Henares",
+   "km_linea_recta": 11.2
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Ajalvir — Revisión y Diagnóstico ISTA",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": 4559
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "pueblo (1.000-10.000)",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "cerca (15-40 km)",
+  "itv_en_municipio": false
+ }
+}

@@ -3,11 +3,11 @@
   "name": "Ambite",
   "province": "Madrid",
   "ccaa": "Comunidad de Madrid",
-  "population": 601,
+  "population": 732,
   "lat": 40.34255,
   "lng": -3.172,
-  "metaTitle": "Taller BMW cerca de Ambite | Vegas del Henares",
-  "metaDescription": "Servicio especializado BMW para Ambite y la comarca de las Vegas. Diagnóstico ISTA y técnicos formados en la marca.",
+  "metaTitle": "Taller BMW para Ambite | Especialista BMW, sureste de Madrid",
+  "metaDescription": "BMW en Ambite: ITV en Villarejo de Salvanés, servicio oficial en Alcalá de Henares y taller especialista independiente en Alcobendas, a 66,3 km por la R-3.",
   "heroSubtitle": "Atención especializada BMW para Ambite y la comarca de las Vegas.",
   "trustChips": [
     {
@@ -109,9 +109,9 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
+    "phone": "+34673506793",
+    "phoneDisplay": "673 506 793",
+    "whatsapp": "34673506793",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
   },
@@ -124,5 +124,119 @@
   "zoneAccessRoutes": [
     "M-204",
     "A-3"
-  ]
+  ],
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Ambite: la ITV al sur, el concesionario BMW al norte y el especialista a 66 km",
+    "entradilla": "Quien tiene un BMW o un MINI en Ambite tira hacia lados distintos según lo que necesite: la ITV queda en Villarejo de Salvanés, el servicio oficial en Alcalá de Henares y nuestro taller en Alcobendas. Te damos las distancias reales para que organices cada visita.",
+    "socio": {
+      "id": "dasercars-alcobendas",
+      "kmCarretera": 66.3
+    },
+    "secciones": [
+      {
+        "id": "itv-villarejo",
+        "h2": "La ITV de referencia está en Villarejo de Salvanés",
+        "parrafos": [
+          "Según el listado oficial de la Comunidad de Madrid, para pasar la inspección desde Ambite hay que bajar 24,7 km hasta Villarejo de Salvanés. Allí, en el número 13 de la avenida que lleva el nombre del rey Juan Carlos I, está la estación 2853, que gestiona General de Servicios ITV.",
+          "Si además necesita un repaso, pide la pre-ITV cuando vaya al taller por otra cosa."
+        ]
+      },
+      {
+        "id": "r3-hasta-alcobendas",
+        "h2": "Por la M-204 y la R-3 hasta la A-1",
+        "parrafos": [
+          "Hasta Alcobendas son 66,3 km (46 a vuelo de pájaro): primero la M-204 y la M-209, luego la radial R-3 hacia Madrid, un tramo de M-30 y, al final, la A-1 hasta la nave de Valgrande.",
+          "Hacia el norte, a 32,6 km, queda Alcalá de Henares: allí tiene AutoPremier el punto oficial que bmw.es da como más cercano. Para una campaña del fabricante es el sitio; para lo demás, compara."
+        ]
+      },
+      {
+        "id": "ambite-crece",
+        "h2": "De 618 a 732 vecinos en diez años",
+        "parrafos": [
+          "El padrón del INE da a Ambite 732 habitantes en 2025, un 18,4 % más que en 2015. Hay 373 turismos censados (Comunidad de Madrid con datos de la DGT, 2025), algo más de uno por cada dos habitantes. A menos de tres kilómetros del centro pasan la M-215, la M-204 y la CM-2031, esta última ya de la red de Castilla-La Mancha.",
+          "El pueblo está a unos 774 metros de altitud. Las heladas de invierno castigan las baterías cansadas, y en un BMW con arranque y parada automático la batería trabaja más que en un coche sencillo; revisarla antes del frío ahorra una mañana perdida."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Cuál es la ITV más cercana a Ambite?",
+        "a": "La 2853 de Villarejo de Salvanés: 24,7 km de carretera hacia el sur."
+      },
+      {
+        "q": "¿A qué distancia está vuestro taller?",
+        "a": "66,3 km. La nave está en Alcobendas y se llega por la R-3."
+      },
+      {
+        "q": "¿Dónde está el concesionario BMW más próximo?",
+        "a": "El de AutoPremier en Alcalá de Henares, a 32,6 km por carretera."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "732 habitantes (+18,4 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Turismos (2025)",
+        "valor": "373 · 510 por cada 1.000 hab.",
+        "fuente": "Comunidad de Madrid / DGT",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "etiqueta": "Altitud del centro urbano",
+        "valor": "unos 774 m",
+        "fuente": "MDT Copernicus",
+        "url": "https://open-meteo.com/en/docs/elevation-api"
+      },
+      {
+        "etiqueta": "ITV más cercana",
+        "valor": "Villarejo de Salvanés (estación 2853) · 24,7 km",
+        "fuente": "Comunidad de Madrid",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "AutoPremier, Alcalá de Henares · 32,6 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Alcobendas · 66,3 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Comunidad de Madrid, parque de vehículos (DGT)",
+        "url": "https://datos.comunidad.madrid/catalogo/dataset/parque_vehiculos_por_tipo"
+      },
+      {
+        "texto": "Comunidad de Madrid, estaciones ITV",
+        "url": "https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Madrid",
+        "url": "https://www.bmw-taller.es/taller-bmw-madrid/"
+      }
+    ]
+  }
 }

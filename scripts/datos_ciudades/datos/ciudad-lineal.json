@@ -1,0 +1,156 @@
+{
+ "slug": "ciudad-lineal",
+ "nombre": "Ciudad Lineal",
+ "tipo": "distrito",
+ "pertenece_a": "Madrid",
+ "provincia": "Madrid",
+ "ccaa": "Comunidad de Madrid",
+ "comarca": null,
+ "capital_provincia": false,
+ "activa_panel": true,
+ "telefono_pagina": "+34673506793",
+ "codigo_ine": "28079",
+ "coordenadas": {
+  "lat": 40.44505,
+  "lng": -3.65132,
+  "comprobadas": true,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "poblacion": {
+  "valor": null,
+  "nota": "No es municipio: la cifra del INE sería la de Madrid. No publicar población.",
+  "fuente": "INE, Revisión del Padrón Municipal (tabla 29005): https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+ },
+ "superficie_km2": {
+  "valor": null,
+  "fuente": "CartoCiudad (IGN), término municipal INE 28079"
+ },
+ "densidad_hab_km2": null,
+ "altitud_m": {
+  "valor": 702,
+  "fuente": "Open-Meteo Elevation API (MDT Copernicus GLO-90)"
+ },
+ "turismos": null,
+ "taller_que_atiende": {
+  "id": "dasercars-alcobendas",
+  "nombre": "Dasercars Madrid",
+  "direccion": "Calle Valgrande, 17, Local",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
+  "km_carretera": 13.4,
+  "km_linea_recta": 10.2,
+  "vias_de_la_ruta": [
+   "M-30",
+   "A-1"
+  ],
+  "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/"
+ },
+ "itv": {
+  "en_el_municipio": [],
+  "mas_cercana": {
+   "nombre": "ITV TÜV Rheinland Ibérica, S.A (estación 2894)",
+   "operador": "TÜV Rheinland Ibérica, S.A",
+   "direccion": "C/ Miguel Yuste, 31. (Simancas-Julián Camarillo)",
+   "municipio": "Madrid",
+   "fuente": "Comunidad de Madrid, listado oficial de estaciones ITV (https://www.comunidad.madrid/servicios/consumo/inspeccion-tecnica-vehiculos-itv)",
+   "oficial": true,
+   "verificar": false,
+   "precision": "CartoCiudad (dirección)",
+   "km_carretera": 3.6,
+   "km_linea": 2.5
+  }
+ },
+ "bmw_servicio_oficial_mas_cercano": {
+  "nombre": "Caetano Cuzco (Calle Alcalá)",
+  "razon_social": "Caetano Cuzco, S.L.U.",
+  "direccion": "C/. Alcalá, 474",
+  "cp": "28027",
+  "municipio": "Madrid",
+  "web": "https://caetanocuzco-alcala.concesionariobmw.es",
+  "solo_taller": false,
+  "km_carretera": 2.3,
+  "km_linea": 1.7,
+  "fuente": "Localizador oficial de concesionarios BMW España (bmw.es), consultado 2026-10-04"
+ },
+ "vias_cercanas": [
+  {
+   "ref": "A-2",
+   "tipo": "motorway",
+   "km": 0.3
+  },
+  {
+   "ref": "M-30",
+   "tipo": "motorway",
+   "km": 0.7
+  },
+  {
+   "ref": "M-23",
+   "tipo": "motorway",
+   "km": 3.0
+  }
+ ],
+ "vias_fuente": "Vías: OpenStreetMap (Overpass API), carreteras con referencia (autopista, autovía, nacional/primaria, secundaria) cuyo trazado pasa a < 3 km del centro. Costa: Natural Earth 10m",
+ "costa": {
+  "km": null,
+  "a_menos_de_5km": false
+ },
+ "distancias_fuente": "Distancias por carretera: OSRM (router.project-osrm.org) sobre datos de OpenStreetMap; servicio oficial e ITV: ruta más corta entre las alternativas de OSRM",
+ "distancias_desde": null,
+ "cercanas_red": [
+  {
+   "slug": "coslada",
+   "nombre": "Coslada",
+   "km_linea_recta": 8.0
+  },
+  {
+   "slug": "san-fernando-de-henares",
+   "nombre": "San Fernando de Henares",
+   "km_linea_recta": 10.3
+  },
+  {
+   "slug": "alcobendas",
+   "nombre": "Alcobendas",
+   "km_linea_recta": 11.4
+  },
+  {
+   "slug": "paracuellos-de-jarama",
+   "nombre": "Paracuellos de Jarama",
+   "km_linea_recta": 12.3
+  },
+  {
+   "slug": "san-sebastian-de-los-reyes",
+   "nombre": "San Sebastián de los Reyes",
+   "km_linea_recta": 12.5
+  },
+  {
+   "slug": "pozuelo-de-alarcon",
+   "nombre": "Pozuelo de Alarcón",
+   "km_linea_recta": 13.8
+  },
+  {
+   "slug": "torrejon-de-ardoz",
+   "nombre": "Torrejón de Ardoz",
+   "km_linea_recta": 15.4
+  },
+  {
+   "slug": "mejorada-del-campo",
+   "nombre": "Mejorada del Campo",
+   "km_linea_recta": 15.5
+  }
+ ],
+ "pagina_actual": {
+  "metaTitle": "Taller BMW en Ciudad Lineal, Madrid | Especialistas en motor N47",
+  "tiene_contenido_v3": false,
+  "poblacion_en_json": null
+ },
+ "generado": "2026-10-04",
+ "perfil": {
+  "tamano": "distrito",
+  "capital_provincia": false,
+  "costa": false,
+  "altitud": "interior alto (600-800 m)",
+  "distancia_taller": "muy cerca (<15 km)",
+  "itv_en_municipio": false
+ }
+}

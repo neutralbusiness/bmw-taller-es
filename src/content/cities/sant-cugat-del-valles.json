@@ -3,11 +3,11 @@
   "name": "Sant Cugat del Vallès",
   "province": "Barcelona",
   "ccaa": "Cataluña",
-  "population": 79253,
+  "population": 97983,
   "lat": 41.47063,
   "lng": 2.08611,
-  "metaTitle": "Taller especializado BMW en Sant Cugat del Vallès — Diagnóstico ISTA y recambio OE",
-  "metaDescription": "¿Buscas un taller BMW en Sant Cugat del Vallès? Servicio especialista con diagnóstico oficial ISTA, recambios de primer equipo y precios hasta un 50% por debajo del concesionario.",
+  "metaTitle": "Taller BMW cerca de Sant Cugat del Vallès | Especialista BMW",
+  "metaDescription": "Especialista independiente BMW y MINI para Sant Cugat, a 20,2 km por carretera en Sant Joan Despí. ITV en Sant Mamet.",
   "heroSubtitle": "Taller especialista BMW para Sant Cugat del Vallès y alrededores. Diagnóstico oficial ISTA, recambios de calidad OE y precios sin intermediarios.",
   "trustChips": [
     {
@@ -153,5 +153,122 @@
     "whatsapp": "34631687779",
     "email": "info@bmw-taller.es",
     "addressStreet": ""
+  },
+  "local": {
+    "version": 3,
+    "revisado": "2026-10-04",
+    "h1": "Sant Cugat: concesionario BMW en la ciudad y especialista independiente a 20,2 km",
+    "entradilla": "En línea recta, el taller de Sant Joan Despí está a 11,8 km de Sant Cugat; por carretera, a 20,2. Te explicamos por qué y lo que tienes dentro del municipio: servicio oficial e ITV.",
+    "socio": {
+      "id": "dasercars-sant-joan-despi",
+      "kmCarretera": 20.2
+    },
+    "secciones": [
+      {
+        "id": "rodeo-por-carretera",
+        "h2": "11,8 km en línea recta, 20,2 por carretera",
+        "parrafos": [
+          "Entre Sant Cugat y el Baix Llobregat no hay un camino directo: la ruta que calcula OpenStreetMap baja por la C-16 y enlaza con la B-20 hasta el carrer del Tambor del Bruc. Son 20,2 km, un 71 % más que la distancia en línea recta.",
+          "Con un trayecto así, merece la pena pedirlo."
+        ]
+      },
+      {
+        "id": "quadis-vallespir",
+        "h2": "Quadis Munich, en el carrer Vallespir",
+        "parrafos": [
+          "El localizador de bmw.es sitúa en la ciudad un punto de servicio oficial: Quadis Munich, en el carrer Vallespir 19, a 2,3 km del centro. Para una reparación en garantía o una campaña del fabricante, es tu sitio.",
+          "Para lo demás —un mantenimiento por plan con el aceite de la especificación correcta, un fallo intermitente que nadie ha localizado, un segundo diagnóstico antes de aceptar una reparación cara— puedes comparar con un taller independiente que solo trabaja BMW y MINI."
+        ]
+      },
+      {
+        "id": "itv-sant-mamet",
+        "h2": "ITV propia en el polígono Sant Mamet",
+        "parrafos": [
+          "La estación de Sant Cugat (B22), de TÜV Rheinland, está en el carrer d'Amposta 2, en el polígono industrial Sant Mamet, dentro del término municipal según el registro de la Generalitat. Es también la más próxima para los conductores de Rubí."
+        ]
+      },
+      {
+        "id": "sant-cugat-crece",
+        "h2": "97.983 vecinos y 40.087 turismos",
+        "parrafos": [
+          "Sant Cugat ha pasado de 87.830 habitantes en 2015 a 97.983 en 2025, un 11,6 % más, en un término de 48,23 km². Idescat, con datos de la DGT, contaba 40.087 turismos en 2024: 409 por cada 1.000 habitantes.",
+          "Con la C-16, la AP-7 y la B-30 a menos de tres kilómetros del centro, un coche de Sant Cugat hace autopista con facilidad. Eso favorece al filtro de partículas, pero no exime de lo que se cambia por tiempo: el líquido de frenos y el aceite tienen fecha además de kilómetros."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "¿Por qué hay tanta diferencia entre línea recta y carretera?",
+        "a": "Porque no hay vía directa entre Sant Cugat y Sant Joan Despí: la ruta rodea por la C-16 y la B-20."
+      },
+      {
+        "q": "¿Dónde paso la ITV?",
+        "a": "En la estación B22 del polígono Sant Mamet, en el carrer d'Amposta 2."
+      }
+    ],
+    "datos": [
+      {
+        "etiqueta": "Población (padrón 2025)",
+        "valor": "97.983 habitantes (+11,6 % desde 2015)",
+        "fuente": "INE, padrón",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "etiqueta": "Comarca",
+        "valor": "Vallès Occidental",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082055&lang=es"
+      },
+      {
+        "etiqueta": "Turismos (2024)",
+        "valor": "40.087 · 409 por cada 1.000 hab.",
+        "fuente": "Idescat",
+        "url": "https://www.idescat.cat/emex/?id=082055&lang=es"
+      },
+      {
+        "etiqueta": "ITV en el municipio",
+        "valor": "Sant Cugat (B22), polígono Sant Mamet",
+        "fuente": "Generalitat de Catalunya",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "etiqueta": "Servicio oficial BMW",
+        "valor": "Quadis Munich, c. Vallespir 19 · 2,3 km",
+        "fuente": "Localizador de bmw.es",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "etiqueta": "Taller de la red",
+        "valor": "Sant Joan Despí · 20,2 km",
+        "fuente": "OpenStreetMap (OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      }
+    ],
+    "fuentes": [
+      {
+        "texto": "INE, padrón municipal",
+        "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=29005"
+      },
+      {
+        "texto": "Idescat, el municipio en cifras",
+        "url": "https://www.idescat.cat/emex/?id=082055&lang=es"
+      },
+      {
+        "texto": "Generalitat, estacions ITV",
+        "url": "https://analisi.transparenciacatalunya.cat/d/7dyp-y4dd"
+      },
+      {
+        "texto": "bmw.es, talleres oficiales",
+        "url": "https://www.bmw.es/es/topics/accesorios-servicios/bmw-service/listado-talleres.html"
+      },
+      {
+        "texto": "OpenStreetMap (distancias, OSRM)",
+        "url": "https://www.openstreetmap.org/"
+      },
+      {
+        "texto": "Dasercars Barcelona",
+        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+      }
+    ]
   }
 }
