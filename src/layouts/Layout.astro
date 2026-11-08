@@ -281,7 +281,10 @@ const heroSm = heroMovil(heroImg);
       .hero-content {
         position: relative;
         z-index: 2;
-        padding: 4rem 0 4.5rem;
+        /* Solo arriba y abajo: el shorthand «4rem 0 4.5rem» anulaba el margen
+           lateral de .container y el texto del hero iba pegado al borde en móvil. */
+        padding-top: 4rem;
+        padding-bottom: 4.5rem;
         max-width: 760px;
       }
       .hero-eyebrow {
@@ -818,6 +821,10 @@ const heroSm = heroMovil(heroImg);
       @media (min-width: 768px) {
         .float-cta { display: none; }
         body { padding-bottom: 0; }
+      }
+      /* El botón flotante de WhatsApp (track.js) tapaba la barra inferior de Llamar/WhatsApp. */
+      @media (max-width: 767px) {
+        #nb-wa-float { bottom: calc(88px + env(safe-area-inset-bottom, 0px)) !important; }
       }
 
       /* === DISCOVERY ENGINE COMPONENTS (Gemini 2.5 Flash extractable) === */
