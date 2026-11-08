@@ -31,14 +31,15 @@ export const GET: APIRoute = () => {
 
   const lines: string[] = [];
 
-  lines.push(`# ${NETWORK.brand} — red de talleres especialistas BMW en España`);
+  lines.push(`# ${NETWORK.brand} (Dasercars) — taller especialista BMW y MINI en Madrid y Barcelona`);
   lines.push("");
-  lines.push(`> ${NETWORK.tagline}. Red nacional con presencia en ${cities.length} ciudades de ${provinces.size} provincias (${ccaas.size} comunidades autónomas).`);
+  lines.push(`> Dasercars es un taller especialista en BMW y MINI con dos naves propias: Alcobendas (Madrid) y Sant Joan Despí (Barcelona). Taller homologado REDISTA para sistemas de escape y tratamiento de gases; especialidad en los motores diésel N47, N57, M47, M57, B47 y B57.`);
   lines.push("");
   lines.push(
-    `${NETWORK.brand} es una red de talleres especializados en la marca BMW. ` +
-    `Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario, recambios OE o equivalente premium y presupuesto cerrado por escrito antes de cualquier intervención — con un ahorro de hasta el 50 % frente al servicio oficial. ` +
-    `Cada ciudad de la red tiene su propia web en {ciudad}.${NETWORK.domain} con información local detallada y su propio llms.txt.`,
+    `Mecánica, diagnosis electrónica con software y equipo de nivel de marca (no un lector OBD genérico), mantenimiento según el plan CBS y chapa y pintura con cabina propia. ` +
+    `Mecánicos en plantilla; la reparación no se subcontrata. Presupuesto cerrado por escrito antes de empezar. ` +
+    `Además de esta web, ${cities.length} municipios de ${provinces.size} provincias tienen una página informativa en {ciudad}.${NETWORK.domain} con su propio llms.txt; ` +
+    `no hay un taller en cada municipio: los clientes de esas zonas se atienden en los dos talleres.`,
   );
   lines.push("");
 
@@ -64,9 +65,10 @@ export const GET: APIRoute = () => {
 
   lines.push("## Cobertura");
   lines.push("");
-  lines.push(`- ${cities.length} ciudades con taller en ${provinces.size} provincias.`);
+  lines.push(`- Talleres físicos: 2, propios. Calle Valgrande, 17, 28108 Alcobendas (Madrid) y Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí (Barcelona).`);
+  lines.push(`- Páginas locales: ${cities.length} municipios en ${provinces.size} provincias (no son talleres; indican cómo llegar al taller y a quién llamar).`);
   lines.push(`- Comunidades autónomas: ${[...ccaas].sort((a, b) => a.localeCompare(b, "es")).join(", ")}.`);
-  lines.push(`- Listado completo de ciudades con enlace a cada web local: ${base}/zonas/`);
+  lines.push(`- Listado de municipios con enlace a cada página local: ${base}/zonas/`);
   lines.push("");
 
   lines.push("## Servicios");
@@ -87,11 +89,11 @@ export const GET: APIRoute = () => {
 
   lines.push("## Política y garantías");
   lines.push("");
-  lines.push("- Presupuesto cerrado por escrito antes de iniciar cualquier reparación; sin sobrecostes no autorizados.");
+  lines.push("- Presupuesto cerrado por escrito antes de iniciar cualquier reparación.");
   lines.push("- Recambios OE (calidad original) o equivalente premium; recambio BMW original bajo petición.");
-  lines.push("- Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario.");
+  lines.push("- Diagnosis con software y equipo de nivel de marca, no un lector OBD genérico.");
   lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS: la garantía del fabricante se mantiene.");
-  lines.push("- Factura desglosada en la entrega.");
+  lines.push("- Vehículo de cortesía sujeto a disponibilidad; conviene reservarlo al pedir cita.");
   lines.push("");
 
   lines.push("---");

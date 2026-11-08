@@ -292,7 +292,7 @@ const organization = {
   url: `https://www.${NETWORK.domain}/`,
   logo: `https://${NETWORK.domain}/favicon.svg`,
   slogan: NETWORK.tagline,
-  description: `Red nacional de talleres especializados en BMW en España. Diagnóstico ISTA, recambios OE y hasta un 50 % de ahorro frente al concesionario oficial.`,
+  description: `Taller especialista BMW y MINI (Dasercars) con talleres propios en Alcobendas (Madrid) y Sant Joan Despí (Barcelona). Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito.`,
   areaServed: { "@type": "Country", name: "España" },
 };
 
@@ -409,7 +409,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         Taller BMW en {city.name}, {city.province}
       </span>
-      <h1>Especialistas BMW en {city.name} — hasta un 50 % menos que el oficial.</h1>
+      <h1>Especialistas BMW en {city.name}</h1>
       <p class="lead">{city.heroSubtitle}</p>
       <div class="hero-ctas">
         <a href={`tel:${call.tel}`} class="btn btn-primary">
@@ -709,7 +709,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
           <h2>Talleres BMW cerca de {city.name}</h2>
           <p class="section-lead">
             ¿No te pilla a mano? La red {NETWORK.brand} también atiende en estas localidades
-            próximas a {city.name}, con el mismo diagnóstico ISTA y la misma política de
+            próximas a {city.name}, con la misma diagnosis de nivel de marca y la misma política de
             presupuesto cerrado.
           </p>
         </div>
@@ -758,7 +758,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
       <div class="footer-grid">
         <div class="footer-col footer-brand-block">
           <div class="brand-name">{businessName}</div>
-          <p>Taller especializado en BMW {t ? "" : `de la red ${NETWORK.brand}`}. Diagnóstico ISTA de nivel concesionario, recambios OE y presupuesto cerrado antes de tocar nada — hasta un 50 % menos que el oficial.</p>
+          <p>Taller especializado en BMW {t ? "" : `de la red ${NETWORK.brand}`}. Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito antes de tocar nada.</p>
           {addrStreet && (
             <p style="font-size: 0.92rem; color: rgba(255,255,255,0.75); margin-bottom: 0.4rem;">
               {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}

@@ -62,9 +62,10 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(`> ${city.metaDescription}`);
   lines.push("");
   lines.push(
-    `Taller especializado en BMW de la red ${NETWORK.brand} en ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario. Recambios OE y presupuesto cerrado antes de tocar nada — hasta un 50 % de ahorro frente al servicio oficial. ` +
-    `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnóstico ISTA, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
+    `Página de ${NETWORK.brand} (Dasercars, taller especialista BMW y MINI) para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
+    `Los talleres físicos son dos, ambos propios: Alcobendas (Madrid) y Sant Joan Despí (Barcelona). ` +
+    `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto cerrado por escrito antes de tocar nada. ` +
+    `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnosis electrónica, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );
   lines.push("");
 
@@ -191,7 +192,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(
     "- Recambios OE (calidad original) o equivalente premium; el cliente puede solicitar recambio BMW original si lo prefiere.",
   );
-  lines.push("- Diagnóstico con software BMW ISTA/Rheingold de nivel concesionario.");
+  lines.push("- Diagnosis con software y equipo de nivel de marca, no un lector OBD genérico.");
   lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS para mantener la garantía.");
   lines.push("- Factura desglosada en la entrega.");
   lines.push("- Seguimiento post-entrega para confirmar que la reparación es satisfactoria.");

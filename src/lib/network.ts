@@ -9,7 +9,7 @@ export const NETWORK = {
   domain: "bmw-taller.es",
   brand: "BMW Taller",
   sector: "taller-bmw",
-  tagline: "Especialistas BMW en toda España — hasta un 50 % menos que el oficial",
+  tagline: "Taller especialista BMW y MINI en Madrid y Barcelona",
   // Teléfono por defecto (sin comunidad conocida): delegación de Madrid.
   // Los únicos teléfonos de la web son los de las dos delegaciones (12-oct-2026).
   phone: "+34641161771",
@@ -37,9 +37,9 @@ export const SERVICES = [
   },
   {
     id: "averias",
-    title: "Diagnóstico BMW (ISTA)",
+    title: "Diagnosis electrónica BMW",
     icon: "🔧",
-    summary: "Lectura con software de nivel concesionario (ISTA/Rheingold). Diagnóstico real antes de presupuestar: sin cambiar piezas a ciegas.",
+    summary: "Software y equipo de diagnosis de nivel de marca, no un lector OBD genérico. Diagnóstico real antes de presupuestar: sin cambiar piezas a ciegas.",
   },
   {
     id: "neumaticos",
@@ -68,7 +68,7 @@ export const FAQ_BASE = [
   },
   {
     q: "¿Cuánto cuesta una revisión BMW frente al concesionario?",
-    a: "Depende del modelo y del tipo de aceite (LL-01 o LL-04), pero de media ahorras entre un 30 % y un 50 % frente al precio del servicio oficial. Te damos presupuesto cerrado antes de tocar nada.",
+    a: "Depende del modelo y del tipo de aceite (LL-01 o LL-04). Te damos presupuesto cerrado por escrito antes de tocar nada, para que puedas compararlo con el del concesionario.",
   },
   {
     q: "¿Trabajáis con todos los modelos BMW?",
@@ -76,7 +76,7 @@ export const FAQ_BASE = [
   },
   {
     q: "¿Tenéis software BMW de diagnóstico original?",
-    a: "Trabajamos con ISTA (BMW Integrated Standard Toolset) y Rheingold, el mismo software de diagnóstico que usan los concesionarios oficiales. Podemos leer, codificar y programar módulos.",
+    a: "Trabajamos con software y equipo de diagnosis de nivel de marca, no con un lector OBD genérico: leemos las unidades de control, codificamos y programamos módulos.",
   },
   {
     q: "¿Cuánto tarda la reparación?",
