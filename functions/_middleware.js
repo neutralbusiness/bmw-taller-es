@@ -14,6 +14,20 @@
  * CF detecta loop → 403. ASSETS sirve directamente los archivos estáticos
  * construidos por el build.
  */
+/**
+ * Páginas de ciudad fuera del índice de Google (decisión de Martin, 8-nov-2026):
+ * la Spam Update de septiembre de 2026 hundió todo el dominio por los
+ * subdominios de ciudad. Solo para Googlebot y solo en HTML: llms.txt,
+ * robots.txt, sitemap y .md siguen abiertos para Bing y los rastreadores de IA.
+ * El layout pone además <meta name="googlebot" content="noindex, follow">.
+ */
+function noindexParaGoogle(res) {
+  if (!(res.headers.get("content-type") || "").includes("text/html")) return res;
+  const marcada = new Response(res.body, res);
+  marcada.headers.append("X-Robots-Tag", "googlebot: noindex");
+  return marcada;
+}
+
 export async function onRequest(context) {
   const { request, next, env } = context;
   const url = new URL(request.url);
@@ -46,6 +60,13 @@ export async function onRequest(context) {
         return env.ASSETS.fetch(request);
       }
 
+      // Secciones que solo existen en la raíz: pedidas en un subdominio de ciudad
+      // daban 404 (95 URLs en Search Console el 8-nov-2026, sobre todo /contacto/).
+      // Se mandan a su página real en www.
+      if (/^\/(contacto|cookies|glosario-bmw|mapa-del-sitio|modelos|motores-bmw|preguntas-frecuentes|servicios|sobre-nosotros|taller-bmw-barcelona|taller-bmw-madrid|talleres|zonas)(\/|$)/.test(url.pathname)) {
+        return Response.redirect(`https://www.bmw-taller.es${url.pathname}${url.search}`, 301);
+      }
+
       // Rutas legales compartidas: NO se reescriben a /<slug>/... — se sirven
       // desde el master (existen una sola vez en el build, con canonical a www).
       if (/^\/(aviso-legal|privacidad)\/?$/.test(url.pathname)) {
@@ -71,7 +92,7 @@ export async function onRequest(context) {
       // Si la ruta no existe, ASSETS responde con dist/404.html y status 404
       // (al existir 404.html en el build, Pages desactiva el fallback SPA que
       // antes devolvía la portada con 200). Se propaga tal cual.
-      return env.ASSETS.fetch(new Request(rewritten.toString(), request));
+      return noindexParaGoogle(await env.ASSETS.fetch(new Request(rewritten.toString(), request)));
     }
   }
 

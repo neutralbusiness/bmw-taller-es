@@ -17,6 +17,9 @@ interface Props {
 
 const { title, description, canonical, schema, noindex = false, ogImage = `https://${NETWORK.domain}${NETWORK.heroImage}` } = Astro.props;
 const heroImg = Astro.props.heroImage ?? NETWORK.heroImage;
+// Páginas de ciudad = canonical en un subdominio que no es www.
+const hostCanonico = canonical ? new URL(canonical).hostname : "";
+const esCiudad = hostCanonico.endsWith(`.${NETWORK.domain}`) && hostCanonico !== `www.${NETWORK.domain}`;
 const heroSm = heroMovil(heroImg);
 ---
 
@@ -28,6 +31,11 @@ const heroSm = heroMovil(heroImg);
     <title>{title}</title>
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex" />}
+    {/* Ciudades fuera del índice de Google (decisión de Martin, 8-nov-2026): la Spam Update de
+        septiembre de 2026 hundió el dominio entero por los subdominios de ciudad. Solo Googlebot:
+        Bing (y con él ChatGPT y Copilot) y los rastreadores de IA las siguen leyendo, y cada ciudad
+        conserva su llms.txt. El middleware manda además la cabecera X-Robots-Tag equivalente. */}
+    {esCiudad && !noindex && <meta name="googlebot" content="noindex, follow" />}
     {/* Sin formularios en bmw-taller.es por decisión de Martin (12-oct-2026): veto para formulario.js/track.js. */}
     <meta name="nb-form" content="off" />
     {canonical && <link rel="canonical" href={canonical} />}
