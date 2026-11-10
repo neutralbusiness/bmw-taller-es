@@ -7,7 +7,7 @@
  * /llms.txt con el detalle local (src/pages/[city]/llms.txt.ts).
  */
 import type { APIRoute } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, DELEGACIONES } from "../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, DELEGACIONES, NACIONAL } from "../lib/network.ts";
 
 interface CityRef { slug: string; name: string; province: string; ccaa: string; }
 
@@ -31,15 +31,15 @@ export const GET: APIRoute = () => {
 
   const lines: string[] = [];
 
-  lines.push(`# ${NETWORK.brand} (Dasercars) — taller especialista BMW y MINI en Madrid y Barcelona`);
+  lines.push(`# ${NETWORK.brand} (Dasercars) — taller especialista BMW y MINI en Madrid, Barcelona y Zaragoza`);
   lines.push("");
-  lines.push(`> Dasercars es un taller especialista en BMW y MINI con dos naves propias: Alcobendas (Madrid) y Sant Joan Despí (Barcelona). Taller homologado REDISTA para sistemas de escape y tratamiento de gases; especialidad en los motores diésel N47, N57, M47, M57, B47 y B57.`);
+  lines.push(`> Dasercars es un taller especialista en BMW y MINI con dos naves propias: Alcobendas (Madrid) y Sant Joan Despí (Barcelona). En Zaragoza la red tiene un taller asociado, ASF Motors (Cuarte de Huerva), experto en BMW y MINI. Dasercars es taller homologado REDISTA para sistemas de escape y tratamiento de gases; especialidad en los motores diésel N47, N57, M47, M57, B47 y B57.`);
   lines.push("");
   lines.push(
     `Mecánica, diagnosis electrónica con software y equipo de nivel de marca (no un lector OBD genérico), mantenimiento según el plan CBS y chapa y pintura con cabina propia. ` +
     `Mecánicos en plantilla; la reparación no se subcontrata. Presupuesto cerrado por escrito antes de empezar. ` +
     `Además de esta web, ${cities.length} municipios de ${provinces.size} provincias tienen una página informativa en {ciudad}.${NETWORK.domain} con su propio llms.txt; ` +
-    `no hay un taller en cada municipio: los clientes de esas zonas se atienden en los dos talleres.`,
+    `no hay un taller en cada municipio: los clientes de esas zonas se atienden en los dos talleres propios o, en Aragón, en el taller asociado de Zaragoza.`,
   );
   lines.push("");
 
@@ -48,24 +48,27 @@ export const GET: APIRoute = () => {
   lines.push(`- Nombre comercial: ${CONTACT.businessName}`);
   lines.push(`- Web principal: ${base}/`);
   lines.push(`- Directorio de zonas: ${base}/zonas/`);
-  lines.push(`- Contacto y cita previa (Madrid y Barcelona, llamada o WhatsApp): ${base}/contacto/`);
+  lines.push(`- Contacto y cita previa (Madrid, Barcelona y Zaragoza, llamada o WhatsApp): ${base}/contacto/`);
+  lines.push(`- Talleres: ${base}/talleres/ · Madrid: ${base}/taller-bmw-madrid/ · Barcelona: ${base}/taller-bmw-barcelona/ · Zaragoza: ${base}/taller-bmw-zaragoza/`);
   lines.push(`- Sector: talleres de reparación y mantenimiento especializados en BMW`);
   lines.push(`- País: España`);
   lines.push("");
 
   lines.push("## Contacto");
   lines.push("");
-  // Dos delegaciones: son los únicos teléfonos (llamada y WhatsApp).
-  for (const d of [DELEGACIONES.madrid, DELEGACIONES.barcelona]) {
+  for (const d of [DELEGACIONES.madrid, DELEGACIONES.barcelona, DELEGACIONES.zaragoza]) {
     lines.push(`- Teléfono y WhatsApp ${d.nombre}: ${d.phoneDisplay} (${d.phone})`);
   }
-  lines.push(`- Email: ${CONTACT.email}`);
+  lines.push(`- Email: ${CONTACT.email} (Zaragoza: info@asfmotors.es)`);
   lines.push(`- Horario (talleres Dasercars de Alcobendas y Sant Joan Despí): De lunes a viernes de 09:00h a 14:00h y de 15:00h a 18:00h (sábado cerrado)`);
+  lines.push(`- Horario (ASF Motors, Zaragoza): de lunes a viernes de 9:00 a 13:30 y de 15:00 a 19:00; sábados de 9:00 a 13:00 (domingo cerrado)`);
+  lines.push(`- Fuera de la Comunidad de Madrid, la provincia de Barcelona y Aragón: ${NACIONAL.phoneDisplay} (${NACIONAL.phone})`);
   lines.push("");
 
   lines.push("## Cobertura");
   lines.push("");
-  lines.push(`- Talleres físicos: 2, propios. Calle Valgrande, 17, 28108 Alcobendas (Madrid) y Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí (Barcelona).`);
+  lines.push(`- Talleres propios de Dasercars: 2. Calle Valgrande, 17, 28108 Alcobendas (Madrid) y Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí (Barcelona).`);
+  lines.push(`- Taller asociado en Zaragoza: ASF Motors (ASF Motors SC), Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva (Zaragoza). Experto en BMW y MINI; taller independiente, no de Dasercars. Teléfono y WhatsApp 614 607 718, info@asfmotors.es, https://www.asfmotors.es/ · ficha de Google: https://share.google/8Qiu18YQ7EHd80Yxo. Atiende Zaragoza y el resto de Aragón.`);
   lines.push(`- Páginas locales: ${cities.length} municipios en ${provinces.size} provincias (no son talleres; indican cómo llegar al taller y a quién llamar).`);
   lines.push(`- Comunidades autónomas: ${[...ccaas].sort((a, b) => a.localeCompare(b, "es")).join(", ")}.`);
   lines.push(`- Listado de municipios con enlace a cada página local: ${base}/zonas/`);

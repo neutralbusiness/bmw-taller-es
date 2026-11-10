@@ -68,6 +68,7 @@ export const GET: APIRoute = () => {
     { loc: `${base}/sobre-nosotros/`, changefreq: "monthly", priority: "0.6" },
     { loc: `${base}/taller-bmw-barcelona/`, changefreq: "monthly", priority: "0.9" },
     { loc: `${base}/taller-bmw-madrid/`, changefreq: "monthly", priority: "0.9" },
+    { loc: `${base}/taller-bmw-zaragoza/`, changefreq: "monthly", priority: "0.9" },
     { loc: `${base}/talleres/`, changefreq: "monthly", priority: "0.9" },
     { loc: `${base}/contacto/`, changefreq: "monthly", priority: "0.8" },
     { loc: `${base}/zonas/`, changefreq: "weekly", priority: "0.9" },

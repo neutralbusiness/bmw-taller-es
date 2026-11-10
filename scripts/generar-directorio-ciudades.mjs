@@ -153,7 +153,7 @@ async function main() {
 <p class="hero__sub">Tenemos página propia en ${total} ciudades, con los precios, los tiempos y las averías más frecuentes de cada zona. Entra en la tuya y pide cita.</p>
 </div></div></section>
 <section class="sec"><div class="wrap">
-<p class="zn__intro">Los dos talleres físicos están en Madrid y Barcelona; desde ahí atendemos al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
+<p class="zn__intro">Los talleres físicos están en Madrid y Barcelona (propios) y en Zaragoza (ASF Motors, taller asociado); desde ahí atendemos al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
 <div class="zn__grid">${bloqueProvincias(grupos)}</div>
 </div></section>
 </main>`;

@@ -60,10 +60,14 @@ SOCIOS = {
         "fuente": "https://www.bmw-taller.es/taller-bmw-madrid/",
     },
     "socio-zaragoza": {
-        "nombre": "Taller asociado en Zaragoza",
-        "direccion": None,  # sin dirección publicada: no se inventa
-        "telefono": "+34647503521",
-        "fuente": "panel: network_sites.custom_phone",
+        "nombre": "ASF Motors",
+        "direccion": "Carretera de Valencia, km 6,2, Nave 8",
+        "cp": "50410",
+        "municipio": "Cuarte de Huerva",
+        "lat": 41.60672,
+        "lng": -0.93076,
+        "telefono": "+34614607718",
+        "fuente": "ficha de Google de ASF Motors (10-nov-2026)",
     },
 }
 
@@ -94,7 +98,7 @@ def socio_para(ciudad: dict) -> str | None:
     """Qué taller real atiende la ciudad, según su teléfono y provincia."""
     tel = ((ciudad.get("tenant") or {}).get("phone")) or ""
     prov = ciudad.get("province")
-    if tel.endswith("647503521"):
+    if tel.endswith("647503521") or tel.endswith("614607718") or ciudad.get("ccaa") == "Aragón":
         return "socio-zaragoza"
     if tel.endswith("673506793") or prov in PROV_CENTRO:
         return "dasercars-alcobendas"

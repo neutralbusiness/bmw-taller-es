@@ -112,6 +112,14 @@ export const DELEGACIONES = {
     lat: 41.3655,
     lng: 2.0577, // Sant Joan Despí, C/ Tambor del Bruc 3
   },
+  zaragoza: {
+    nombre: "Zaragoza",
+    phone: "+34614607718",
+    phoneDisplay: "614 607 718",
+    whatsapp: "34614607718",
+    lat: 41.6067,
+    lng: -0.9308, // ASF Motors, Cuarte de Huerva, Ctra. de Valencia km 6,2
+  },
 } as const;
 /**
  * Teléfono NACIONAL (21-oct-2026, orden de Martin): fuera de la Comunidad de Madrid
@@ -139,11 +147,13 @@ function distKm(aLat: number, aLng: number, bLat: number, bLng: number): number 
  * Contacto que atiende una ciudad (21-oct-2026):
  *   · Comunidad de Madrid         → Madrid (679 176 858)
  *   · provincia de Barcelona      → Barcelona (631 687 779)
+ *   · Aragón                      → Zaragoza, ASF Motors (614 607 718), desde el 10-nov-2026
  *   · cualquier otro sitio / sin datos → NACIONAL (641 161 771)
  */
 export function delegacionPara(ccaa?: string, _lat?: number, _lng?: number, provincia?: string): Delegacion | typeof NACIONAL {
   if (ccaa === "Comunidad de Madrid" || provincia === "Madrid") return DELEGACIONES.madrid;
   if (provincia === "Barcelona") return DELEGACIONES.barcelona;
+  if (ccaa === "Aragón") return DELEGACIONES.zaragoza;
   return NACIONAL;
 }
 

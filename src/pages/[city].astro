@@ -3,7 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK, SERVICES, callPhones, waFor } from "../lib/network.ts";
 import { tituloVeraz, descripcionVeraz, chipsVeraces } from "../lib/veraz.ts";
-import { SOCIOS, HORARIO_SCHEMA_DASERCARS } from "../lib/socios.ts";
+import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF } from "../lib/socios.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -324,7 +324,7 @@ const organization = {
   url: `https://www.${NETWORK.domain}/`,
   logo: `https://${NETWORK.domain}/favicon.svg`,
   slogan: NETWORK.tagline,
-  description: `Taller especialista BMW y MINI (Dasercars) con talleres propios en Alcobendas (Madrid) y Sant Joan Despí (Barcelona). Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito.`,
+  description: `Taller especialista BMW y MINI (Dasercars) con talleres propios en Alcobendas (Madrid) y Sant Joan Despí (Barcelona) y un taller asociado en Zaragoza (ASF Motors, Cuarte de Huerva). Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito.`,
   areaServed: { "@type": "Country", name: "España" },
 };
 
@@ -386,7 +386,7 @@ const tallerV3 = L && socio?.direccion
       "@id": `${canonical}#taller`,
       name: socio.nombre,
       url: socio.urlFicha,
-      telephone: phone,
+      telephone: call.tel,
       address: {
         "@type": "PostalAddress",
         streetAddress: socio.direccion,
@@ -396,7 +396,7 @@ const tallerV3 = L && socio?.direccion
         addressCountry: "ES",
       },
       geo: { "@type": "GeoCoordinates", latitude: socio.lat, longitude: socio.lng },
-      openingHoursSpecification: HORARIO_SCHEMA_DASERCARS,
+      openingHoursSpecification: socio.id === "socio-zaragoza" ? HORARIO_SCHEMA_ASF : HORARIO_SCHEMA_DASERCARS,
       areaServed: { "@type": "City", name: city.name },
       parentOrganization: { "@id": networkOrgId },
     }
@@ -421,7 +421,7 @@ const schemaGraph = L
       "@context": "https://schema.org",
       "@graph": [
         ...(tallerV3 ? [tallerV3] : []),
-        { ...organization, description: "Red de talleres independientes especializados en BMW y MINI, con talleres propios de Dasercars en Alcobendas (Madrid) y Sant Joan Despí (Barcelona). No es concesionario ni servicio oficial de BMW." },
+        { ...organization, description: "Red de talleres independientes especializados en BMW y MINI, con talleres propios de Dasercars en Alcobendas (Madrid) y Sant Joan Despí (Barcelona) y un taller asociado en Zaragoza (ASF Motors, Cuarte de Huerva). No es concesionario ni servicio oficial de BMW." },
         webPageV3,
         breadcrumbV3,
         ...(allFaqs.length ? [faqEntity] : []),

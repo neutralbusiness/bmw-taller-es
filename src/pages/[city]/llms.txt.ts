@@ -122,7 +122,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(
     `Página de ${NETWORK.brand} (Dasercars, taller especialista BMW y MINI) para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Los talleres físicos son dos, ambos propios: Alcobendas (Madrid) y Sant Joan Despí (Barcelona). ` +
+    `Talleres físicos: dos propios de Dasercars, en Alcobendas (Madrid) y Sant Joan Despí (Barcelona), y uno asociado en Zaragoza: ASF Motors, Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva (614 607 718). ` +
     `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto cerrado por escrito antes de tocar nada. ` +
     `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnosis electrónica, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );

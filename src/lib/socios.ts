@@ -49,9 +49,23 @@ export const SOCIOS: Record<string, Socio> = {
   },
   "socio-zaragoza": {
     id: "socio-zaragoza",
-    nombre: "Taller asociado de la red en Zaragoza",
+    nombre: "ASF Motors",
+    direccion: "Carretera de Valencia, km 6,2, Nave 8",
+    cp: "50410",
+    municipio: "Cuarte de Huerva",
+    provincia: "Zaragoza",
+    lat: 41.60672,
+    lng: -0.93076,
+    horario: "Lunes a viernes, 9:00–13:30 y 15:00–19:00. Sábados, 9:00–13:00. Domingos, cerrado.",
+    urlFicha: "https://www.bmw-taller.es/taller-bmw-zaragoza/",
   },
 };
+
+export const HORARIO_SCHEMA_ASF = [
+  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], opens: "09:00", closes: "13:30" },
+  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], opens: "15:00", closes: "19:00" },
+  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Saturday"], opens: "09:00", closes: "13:00" },
+];
 
 /** Horario en formato schema.org de los talleres con horario publicado. */
 export const HORARIO_SCHEMA_DASERCARS = [
