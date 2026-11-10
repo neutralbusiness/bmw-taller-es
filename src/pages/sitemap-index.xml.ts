@@ -1,9 +1,11 @@
 /**
  * Sitemap Index (www.bmw-taller.es/sitemap-index.xml)
  *
- * Referencia el sitemap del propio www Y los sitemaps de cada subdominio
- * de ciudad. Esto da a Google un punto de entrada único para descubrir
- * las 561+ ciudades sin tener que rastrear cada subdomain por separado.
+ * Solo referencia el sitemap del propio www. Desde el 8-nov-2026 las
+ * ciudades llevan noindex para Google (penalización de la spam update de
+ * septiembre): enviarlas aquí hacía que Search Console las marcara como
+ * «URL enviada marcada como noindex». Cada ciudad conserva su sitemap y su
+ * robots.txt propios (Bing y rastreadores de IA) y su llms.txt.
  *
  * Spec: https://www.sitemaps.org/protocol.html#index
  * "A Sitemap index file can include Sitemaps that are provided on
@@ -12,24 +14,11 @@
 import type { APIRoute } from "astro";
 import { NETWORK } from "../lib/network.ts";
 
-interface CityRef { slug: string; }
-
 export const GET: APIRoute = async () => {
-  const mods = import.meta.glob<{ default: CityRef }>(
-    "../content/cities/*.json",
-    { eager: true },
-  );
-  const cities = Object.values(mods).map(m => m.default);
-  cities.sort((a, b) => a.slug.localeCompare(b.slug));
-
   const base = `https://www.${NETWORK.domain}`;
 
   const entries = [
     `  <sitemap>\n    <loc>${base}/sitemap-www.xml</loc>\n  </sitemap>`,
-    ...cities.map(
-      c =>
-        `  <sitemap>\n    <loc>https://${c.slug}.${NETWORK.domain}/sitemap.xml</loc>\n  </sitemap>`,
-    ),
   ];
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
