@@ -9,7 +9,7 @@ export const NETWORK = {
   domain: "bmw-taller.es",
   brand: "BMW Taller",
   sector: "taller-bmw",
-  tagline: "Taller especialista BMW y MINI en Madrid y Barcelona",
+  tagline: "Red de talleres especialistas BMW y MINI, con un taller de referencia en cada zona",
   // Teléfono por defecto (sin comunidad conocida): delegación de Madrid.
   // Los únicos teléfonos de la web son los de las dos delegaciones (12-oct-2026).
   phone: "+34641161771",

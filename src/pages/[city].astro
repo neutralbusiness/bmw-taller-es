@@ -259,7 +259,7 @@ const autoRepair = {
   // inventado en los datos estructurados, que es de las cosas que Google
   // persigue sin contemplaciones y que además no es cierto para quien lo lee.
   //
-  // Cuando la ciudad tiene taller asociado con calle, se declara entero, que
+  // Cuando la ciudad tiene taller de referencia con calle, se declara entero, que
   // es cuando el dato es real. Cuando no, se dice lo que sí es verdad: que se
   // presta servicio a esa ciudad (`areaServed`), sin fingir estar en ella.
   ...(addrStreet
@@ -324,7 +324,7 @@ const organization = {
   url: `https://www.${NETWORK.domain}/`,
   logo: `https://${NETWORK.domain}/favicon.svg`,
   slogan: NETWORK.tagline,
-  description: `Taller especialista BMW y MINI (Dasercars) con talleres propios en Alcobendas (Madrid) y Sant Joan Despí (Barcelona) y un taller asociado en Zaragoza (ASF Motors, Cuarte de Huerva). Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito.`,
+  description: `Red independiente de talleres especialistas en BMW y MINI, con un taller de referencia en cada zona: Dasercars en Madrid (Alcobendas) y Barcelona (Sant Joan Despí) y ASF Motors en Zaragoza (Cuarte de Huerva). No es concesionario ni servicio oficial de BMW.`,
   areaServed: { "@type": "Country", name: "España" },
 };
 
@@ -421,7 +421,7 @@ const schemaGraph = L
       "@context": "https://schema.org",
       "@graph": [
         ...(tallerV3 ? [tallerV3] : []),
-        { ...organization, description: "Red de talleres independientes especializados en BMW y MINI, con talleres propios de Dasercars en Alcobendas (Madrid) y Sant Joan Despí (Barcelona) y un taller asociado en Zaragoza (ASF Motors, Cuarte de Huerva). No es concesionario ni servicio oficial de BMW." },
+        { ...organization },
         webPageV3,
         breadcrumbV3,
         ...(allFaqs.length ? [faqEntity] : []),

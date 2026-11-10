@@ -2,7 +2,7 @@
  * Genera /zonas/ (directorio de las ciudades de la red) y añade el mismo
  * listado al /mapa-del-sitio/, con el diseño real de la web.
  *
- * Por qué existe: la raíz de bmw-taller.es es el sitio estático de Dasercars
+ * Por qué existe: la raíz de bmw-taller.es es el sitio estático de la red BMW Taller
  * y no sabe nada de los 561 subdominios de ciudad. Había una página
  * `src/pages/zonas.astro` que sí los listaba, pero se construía con el layout
  * antiguo, así que era una isla con otro diseño, sin enlace en el menú y
@@ -83,7 +83,7 @@ async function main() {
   const total = ciudades.length;
   const molde = await readFile(MOLDE, "utf8");
 
-  const titulo = `Talleres BMW por provincia · ${total} ciudades | Dasercars`;
+  const titulo = `Talleres BMW por provincia · ${total} ciudades | BMW Taller`;
   const descripcion =
     `Directorio completo: ${total} ciudades con página propia de taller especialista BMW, ` +
     `agrupadas por provincia. Entra en la de tu ciudad y pide cita.`;
@@ -153,7 +153,7 @@ async function main() {
 <p class="hero__sub">Tenemos página propia en ${total} ciudades, con los precios, los tiempos y las averías más frecuentes de cada zona. Entra en la tuya y pide cita.</p>
 </div></div></section>
 <section class="sec"><div class="wrap">
-<p class="zn__intro">Los talleres físicos están en Madrid y Barcelona (propios) y en Zaragoza (ASF Motors, taller asociado); desde ahí atendemos al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
+<p class="zn__intro">La red tiene un taller de referencia en cada zona: Dasercars en Madrid y Barcelona y ASF Motors en Zaragoza; desde ahí se atiende al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
 <div class="zn__grid">${bloqueProvincias(grupos)}</div>
 </div></section>
 </main>`;

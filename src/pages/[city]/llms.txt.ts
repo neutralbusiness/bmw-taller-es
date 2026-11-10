@@ -121,8 +121,8 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(`> ${descripcionVeraz(city)}`);
   lines.push("");
   lines.push(
-    `Página de ${NETWORK.brand} (Dasercars, taller especialista BMW y MINI) para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `Talleres físicos: dos propios de Dasercars, en Alcobendas (Madrid) y Sant Joan Despí (Barcelona), y uno asociado en Zaragoza: ASF Motors, Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva (614 607 718). ` +
+    `Página de ${NETWORK.brand}, red independiente de talleres especialistas BMW y MINI, para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
+    `La red tiene un taller de referencia en cada zona: Dasercars en Madrid (Calle Valgrande, 17, Alcobendas; 679 176 858) y en Barcelona (Carrer del Tambor del Bruc, 3, Sant Joan Despí; 631 687 779), y ASF Motors en Zaragoza (Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva; 614 607 718). ` +
     `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto cerrado por escrito antes de tocar nada. ` +
     `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnosis electrónica, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );

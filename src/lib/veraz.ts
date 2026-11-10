@@ -1,5 +1,5 @@
 /**
- * Textos de ciudad sin promesas que Dasercars no hace (8-nov-2026).
+ * Textos de ciudad sin promesas que los talleres de la red no hacen (8-nov-2026).
  *
  * Los JSON de ciudad llegaron generados con «hasta un 50 % menos que el
  * oficial», «diagnosis ISTA», «mantenimiento oficial»… Las ciudades ya no se
@@ -14,12 +14,12 @@ interface Ciudad { name: string; province: string; metaTitle: string; metaDescri
 export function tituloVeraz(city: Ciudad): string {
   if (!PROMESA.test(city.metaTitle)) return city.metaTitle;
   const zona = city.province && city.province !== city.name ? ` (${city.province})` : "";
-  return `Taller BMW para ${city.name}${zona} · Dasercars`;
+  return `Taller BMW para ${city.name}${zona} · BMW Taller`;
 }
 
 export function descripcionVeraz(city: Ciudad): string {
   if (!PROMESA.test(city.metaDescription)) return city.metaDescription;
-  return `Dasercars, taller especialista BMW y MINI con talleres propios en Alcobendas (Madrid) y Sant Joan Despí (Barcelona), atiende a los clientes de ${city.name}. Diagnosis de nivel de marca y presupuesto cerrado por escrito.`;
+  return `BMW Taller, red de talleres especialistas BMW y MINI, te pone en contacto con el taller de referencia de tu zona para ${city.name}. Diagnosis de nivel de marca y presupuesto por escrito.`;
 }
 
 export function chipsVeraces<T extends { text: string }>(chips?: T[]): T[] {
