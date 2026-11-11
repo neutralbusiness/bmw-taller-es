@@ -36,7 +36,7 @@
   "processSteps": [
     {
       "title": "Contacto y diagnóstico previo",
-      "body": "Llámenos o escríbanos por WhatsApp describiendo el problema."
+      "body": "Rellene el formulario de contacto describiendo el problema."
     },
     {
       "title": "Diagnóstico técnico completo",
@@ -130,7 +130,7 @@
     },
     {
       "q": "¿Cuánto cuesta una revisión completa de un BMW en la zona del Berguedà?",
-      "a": "El precio varía según el modelo y el tipo de revisión, pero nuestras tarifas son competitivas respecto a los concesionarios oficiales. Solicite presupuesto sin compromiso por teléfono o WhatsApp."
+      "a": "El precio varía según el modelo y el tipo de revisión, pero nuestras tarifas son competitivas respecto a los concesionarios oficiales. Solicite presupuesto sin compromiso por el formulario."
     },
     {
       "q": "¿Pueden actualizar el software del BMW sin ir al concesionario?",
@@ -138,14 +138,14 @@
     }
   ],
   "closingHeadline": "Su BMW merece un especialista, incluso en Borredà",
-  "closingCta": "Llámenos al 622 552 992 o escríbanos por WhatsApp.",
+  "closingCta": "Rellene el formulario de contacto.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -171,7 +171,7 @@
         "h2": "Cuándo sí merece la pena hacer 122 km",
         "parrafos": [
           "Cuando hay una avería específica de la marca que no se ha resuelto cerca: un fallo electrónico que vuelve tras borrarlo, un problema del sistema de AdBlue, un diésel N47 o N57 con ruido de cadena, o un segundo diagnóstico antes de aceptar una reparación cara. La ruta va por la C-26, que pasa a menos de tres kilómetros del pueblo, y después por la C-16 y la B-20: 122,1 km por carretera, 85 en línea recta.",
-          "Antes de bajar, una llamada con modelo, año, kilometraje y bastidor permite tener la pieza pedida y no hacer el viaje dos veces."
+          "Antes de bajar, un mensaje con modelo, año, kilometraje y bastidor permite tener la pieza pedida y no hacer el viaje dos veces."
         ]
       },
       {

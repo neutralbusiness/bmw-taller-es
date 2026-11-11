@@ -28,19 +28,19 @@
     },
     {
       "icon": "💬",
-      "text": "Atención por WhatsApp"
+      "text": "Atención por el formulario"
     }
   ],
   "servicesIntro": "Proporcionamos mantenimiento y reparación completa para todos los modelos BMW, con especial atención a las necesidades de los vehículos que circulan por entornos rurales: revisiones periódicas con intervalos adaptados, reparación de motor y turbo, sustitución de embragues y cajas de cambio, mantenimiento reforzado de suspensión y dirección, revisión de sistemas anticontaminación y gestión del AdBlue. Utilizamos herramientas de diagnóstico específicas BMW y piezas de calidad original.",
   "processIntro": "Hemos diseñado un proceso pensado para quienes viven lejos de todo. Sabemos que en l'Espunyola desplazarse a un taller puede suponer media mañana perdida, así que nos organizamos para que pierdas el menor tiempo posible.",
   "processSteps": [
     {
-      "title": "Consulta rápida por teléfono o WhatsApp",
+      "title": "Consulta rápida por el formulario",
       "body": "Cuéntanos qué le pasa a tu BMW o qué revisión necesita. Si puedes, envíanos una foto del testigo del salpicadero o del componente afectado. Te damos una primera orientación al momento."
     },
     {
       "title": "Diagnóstico e informe fotográfico",
-      "body": "Realizamos una inspección completa con equipo electrónico BMW y te enviamos un informe por WhatsApp con fotos y explicación de cada hallazgo, para que puedas decidir con información real."
+      "body": "Realizamos una inspección completa con equipo electrónico BMW y te enviamos un informe por escrito con fotos y explicación de cada hallazgo, para que puedas decidir con información real."
     },
     {
       "title": "Reparación y control de calidad",
@@ -78,11 +78,11 @@
     },
     {
       "title": "Comunicación clara y sin tecnicismos",
-      "body": "Te explicamos lo que tiene tu coche de forma comprensible, con fotos y sin jerga innecesaria. Recibes el informe por WhatsApp y puedes consultarnos cualquier duda antes de aprobar el presupuesto."
+      "body": "Te explicamos lo que tiene tu coche de forma comprensible, con fotos y sin jerga innecesaria. Recibes el informe por escrito y puedes consultarnos cualquier duda antes de aprobar el presupuesto."
     },
     {
       "title": "Disponibilidad amplia para urgencias",
-      "body": "Sabemos que en zona rural quedarse sin coche es un problema grave. Por eso atendemos consultas por WhatsApp fuera del horario estándar y priorizamos las reparaciones que dejan al propietario sin movilidad."
+      "body": "Sabemos que en zona rural quedarse sin coche es un problema grave. Por eso atendemos consultas por el formulario fuera del horario estándar y priorizamos las reparaciones que dejan al propietario sin movilidad."
     },
     {
       "title": "Historial de mantenimiento digitalizado",
@@ -109,7 +109,7 @@
   "faqLocal": [
     {
       "q": "¿Qué hago si mi BMW se queda sin arrancar en la masía?",
-      "a": "Llámanos o escríbenos por WhatsApp."
+      "a": "Escríbenos por el formulario."
     },
     {
       "q": "¿Cómo afecta aparcar el BMW al exterior durante todo el año?",
@@ -129,14 +129,14 @@
     }
   ],
   "closingHeadline": "Vivir lejos no es vivir sin servicio BMW",
-  "closingCta": "Llámanos o envíanos un WhatsApp.",
+  "closingCta": "Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

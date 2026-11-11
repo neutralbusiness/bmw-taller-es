@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Contacto",
-      "body": "Nos llamas o escribes y nos cuentas qué le ocurre a tu BMW. Te escuchamos para entender bien la situación y te damos los primeros pasos, sin hacerte perder el tiempo con información innecesaria."
+      "body": "Nos escribes por el formulario y nos cuentas qué le ocurre a tu BMW. Te escuchamos para entender bien la situación y te damos los primeros pasos, sin hacerte perder el tiempo con información innecesaria."
     },
     {
       "title": "Presupuesto cerrado",
@@ -148,14 +148,14 @@
     }
   ],
   "closingHeadline": "Tu BMW a punto para trabajar en Madrid",
-  "closingCta": "Pide tu presupuesto cerrado por teléfono, WhatsApp o email. Analizaremos tu caso para darte una solución clara y que puedas volver a la carretera cuanto antes en Madrid.",
+  "closingCta": "Pide tu presupuesto cerrado por el formulario. Analizaremos tu caso para darte una solución clara y que puedas volver a la carretera cuanto antes en Madrid.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

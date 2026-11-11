@@ -96,7 +96,7 @@
       "a": "Sí, es un caso muy habitual en la zona."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp?",
+      "q": "¿Puedo pedir presupuesto por el formulario?",
       "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
@@ -109,14 +109,14 @@
     }
   ],
   "closingHeadline": "Especialistas BMW para La Alcarria",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

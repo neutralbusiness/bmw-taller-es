@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Contacto directo",
-      "body": "Escríbenos por WhatsApp o llámanos. Cuéntanos qué le pasa a tu BMW o qué revisión quieres. Si no estás seguro de qué necesita, describe los síntomas y te orientamos."
+      "body": "Escríbenos por el formulario. Cuéntanos qué le pasa a tu BMW o qué revisión quieres. Si no estás seguro de qué necesita, describe los síntomas y te orientamos."
     },
     {
       "title": "Diagnóstico exhaustivo",
@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto transparente",
-      "body": "Te enviamos por WhatsApp el detalle de lo encontrado con fotos y un presupuesto cerrado. Priorizamos contigo si hay varias cosas que atender."
+      "body": "Te enviamos por escrito el detalle de lo encontrado con fotos y un presupuesto cerrado. Priorizamos contigo si hay varias cosas que atender."
     }
   ],
   "commonIssuesIntro": "A 1.200 metros de altitud y con nevadas frecuentes, los BMW de Gisclareny se enfrentan a las condiciones más duras de todo el Berguedà. Estos son los problemas que tratamos habitualmente.",
@@ -78,7 +78,7 @@
     },
     {
       "title": "Comunicación clara y directa",
-      "body": "No te dejamos sin información. Cada paso del proceso te lo contamos por WhatsApp, con fotos si hace falta. Si hay buenas noticias, te las damos. Si hay malas, también, pero con solución."
+      "body": "No te dejamos sin información. Cada paso del proceso te lo contamos por escrito, con fotos si hace falta. Si hay buenas noticias, te las damos. Si hay malas, también, pero con solución."
     },
     {
       "title": "Compromiso con la montaña habitada",
@@ -120,7 +120,7 @@
     },
     {
       "q": "¿Atendéis a turistas con BMW que visitan el Cadí?",
-      "a": "Por supuesto. Si tienes un BMW y te surge un problema visitando la zona del Cadí-Moixeró, llámanos y organizamos la asistencia."
+      "a": "Por supuesto. Si tienes un BMW y te surge un problema visitando la zona del Cadí-Moixeró, escríbenos y organizamos la asistencia."
     }
   ],
   "closingHeadline": "Al pie del Cadí, tu BMW tiene taller profesional",
@@ -128,10 +128,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

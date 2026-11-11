@@ -121,7 +121,7 @@
     },
     {
       "q": "¿Puedo dejar el coche y que me avisáis cuando esté listo?",
-      "a": "Sí, muchos clientes de Avinyó y alrededores nos dejan el coche y les avisamos por WhatsApp o teléfono en cuanto está terminado."
+      "a": "Sí, muchos clientes de Avinyó y alrededores nos dejan el coche y les avisamos por teléfono en cuanto está terminado."
     },
     {
       "q": "¿Tenéis experiencia con los problemas del filtro de partículas en zona rural?",
@@ -129,14 +129,14 @@
     }
   ],
   "closingHeadline": "Tu BMW en Avinyó merece un taller que conozca cada camino",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y cuéntanos qué necesita tu BMW.",
+  "closingCta": "Escríbenos por el formulario y cuéntanos qué necesita tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

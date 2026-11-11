@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Llámanos o escríbenos por WhatsApp. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad."
+      "body": "Escríbenos por el formulario. Te asignamos cita en el menor plazo posible, adaptándonos a tu disponibilidad."
     },
     {
       "title": "Diagnóstico con equipo BMW",
@@ -137,14 +137,14 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que conozca Montmajor",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y danos los datos de tu BMW.",
+  "closingCta": "Escríbenos por el formulario y danos los datos de tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

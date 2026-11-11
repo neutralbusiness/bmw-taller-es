@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Seguimiento por WhatsApp"
+      "text": "Seguimiento por escrito"
     },
     {
       "icon": "🛡️",
@@ -32,7 +32,7 @@
   "processSteps": [
     {
       "title": "Cuéntanos qué necesitas",
-      "body": "Por teléfono o WhatsApp, indícanos el modelo de tu BMW, los kilómetros y los síntomas o revisión que buscas. Te damos un primer orientación de plazos y costes."
+      "body": "Por el formulario, indícanos el modelo de tu BMW, los kilómetros y los síntomas o revisión que buscas. Te damos un primer orientación de plazos y costes."
     },
     {
       "title": "Diagnóstico con equipo BMW",
@@ -119,21 +119,21 @@
     },
     {
       "q": "¿Qué pasa si encontráis algo más durante la revisión?",
-      "a": "Te informamos inmediatamente por WhatsApp con fotos y presupuesto adicional. No hacemos ningún trabajo extra sin tu autorización expresa."
+      "a": "Te informamos inmediatamente por escrito con fotos y presupuesto adicional. No hacemos ningún trabajo extra sin tu autorización expresa."
     },
     {
       "q": "¿Hacéis también la ITV?",
       "a": "No realizamos la ITV directamente, pero sí la pre-ITV: revisamos todos los puntos que se comprueban en la inspección y corregimos los que no pasan. Así vas con la seguridad de que tu BMW la superará."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

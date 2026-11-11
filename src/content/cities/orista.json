@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y evaluación remota",
-      "body": "Nos describes la incidencia por teléfono o WhatsApp. Si es posible, te pedimos fotos o vídeos del problema para hacer una primera valoración antes de que muevas el coche."
+      "body": "Nos describes la incidencia por el formulario. Si es posible, te pedimos fotos o vídeos del problema para hacer una primera valoración antes de que muevas el coche."
     },
     {
       "title": "Diagnóstico con equipo BMW",
@@ -136,14 +136,14 @@
     }
   ],
   "closingHeadline": "Tu BMW en Oristà merece un taller que entienda el bosque",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita sin esperas.",
+  "closingCta": "Escríbenos por el formulario y te daremos cita sin esperas.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

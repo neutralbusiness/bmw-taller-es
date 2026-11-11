@@ -17,16 +17,28 @@ interface Props {
   networkDomain: string;
   /** Endpoint del panel. Por defecto producción. Override desde .env si hace falta. */
   endpoint?: string;
+  /** Ancla del bloque. La página de ciudad ya tiene su propio #contacto. */
+  anchorId?: string;
+  titulo?: string;
+  entradilla?: string;
+  /** true → solo el formulario (sin <section> ni titular), para incrustarlo en otra sección. */
+  bare?: boolean;
 }
-const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api/leads/network" } = Astro.props;
+const {
+  city, cityName, networkDomain,
+  endpoint = "https://panel.neutralb.es/api/leads/network",
+  anchorId = "contacto",
+  titulo = "¿Necesitas que veamos tu coche?",
+  entradilla = "Cuéntanos qué necesitas y te llamamos en menos de 24h. Sin compromiso.",
+  bare = false,
+} = Astro.props;
+const Wrap = bare ? "div" : "section";
 ---
 
-<section class="contact-section" id="contacto">
-  <div class="container">
-    <h2>¿Necesitas que veamos tu coche?</h2>
-    <p class="contact-lead">
-      Cuéntanos qué necesitas y te llamamos en menos de 24h. Sin compromiso.
-    </p>
+<Wrap class={bare ? "lead-form-wrap" : "contact-section"} id={anchorId}>
+  <div class={bare ? undefined : "container"}>
+    {!bare && <h2>{titulo}</h2>}
+    {!bare && <p class="contact-lead">{entradilla}</p>}
 
     <form id="lead-form" class="lead-form" novalidate>
       <input type="hidden" name="networkDomain" value={networkDomain} />
@@ -71,7 +83,7 @@ const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api
       <div class="form-status" role="status" aria-live="polite"></div>
     </form>
   </div>
-</section>
+</Wrap>
 
 <script define:vars={{ endpoint }}>
   (() => {
@@ -156,6 +168,13 @@ const { city, cityName, networkDomain, endpoint = "https://panel.neutralb.es/api
   .contact-lead { color: var(--muted); margin: 0 0 1.5rem; }
 
   .lead-form { max-width: 640px; display: grid; gap: 1rem; }
+  .lead-form-wrap { scroll-margin-top: 5rem; }
+  .lead-form-wrap .lead-form {
+    margin: 0 auto; text-align: left;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 1.5rem;
+  }
+  @media (min-width: 640px) { .lead-form-wrap .lead-form { padding: 2rem; } }
   .lead-form label { display: block; }
   .lead-form label > span { display: block; font-size: 0.875rem; font-weight: 600; color: var(--ink-700); margin-bottom: 0.25rem; }
   .lead-form input, .lead-form textarea {

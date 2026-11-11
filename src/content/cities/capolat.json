@@ -29,10 +29,10 @@
   ],
   "introLocal": "Capolat es conocido como el balcón del Berguedà. Desde sus 1.100 metros de altitud, las vistas se abren hacia el Pedraforca, la Serra d'Ensija y todo el fondo de la conca berguedana. Es un lugar extraordinario para vivir, pero también un lugar donde cualquier gestión cotidiana requiere planificación y desplazamiento. Con 90 habitantes censados, Capolat no tiene ni tienda ni bar permanente, mucho menos un taller de automóviles. Para el propietario de un BMW, mantener el coche ha significado siempre reservar un día entero para bajar a Berga o a Manresa.\n\nLa carretera que sube a Capolat es un reto en sí misma. Curvas cerradas, desniveles pronunciados y, en invierno, tramos con hielo o nieve que pueden durar días sin que nadie los trate. Los BMW que suben y bajan esta carretera a diario sufren un desgaste en frenos, transmisión y suspensión que multiplica por dos o por tres el ritmo normal. Los discos de freno que en Barcelona duran 80.000 km, aquí no pasan de 40.000. Las pastillas, aún menos.\n\nPero hay otro factor que hace de Capolat un caso especial: muchos de los BMW que hay aquí pertenecen a personas que han elegido este pueblo de montaña como refugio, como segunda residencia o como lugar de retiro. Son vehículos que quizá no acumulan muchos kilómetros al año, pero que pasan largas temporadas parados a la intemperie, expuestos a heladas, humedad y cambios de temperatura extremos. Ese uso intermitente genera problemas específicos: baterías que se descargan, neumáticos que se deforman por la posición, líquidos que se degradan sin haber recorrido los kilómetros del intervalo de cambio.\n\nNuestro servicio se adapta a ambos perfiles. Para el residente permanente, ofrecemos un plan de mantenimiento intensivo que tiene en cuenta el castigo real de la carretera de acceso. Para el propietario de segunda residencia, proponemos revisiones estacionales: una antes del invierno y otra en primavera, para preparar el coche para las condiciones más duras y para reparar los efectos del frío cuando pasa.\n\nLa flota local refleja bien lo que exige el terreno: predominan los X3 y X5 con tracción xDrive, acompañados de algún Serie 3 Touring que sube con cadenas en los días más duros. A 1.100 metros, además del frío, actúa un factor que pocos propietarios tienen en cuenta: la radiación solar. La intensidad ultravioleta en altura degrada más rápido las gomas de las escobillas, los embellecedores de plástico y el barniz de la carrocería, especialmente en coches que aparcan siempre a la intemperie orientados al sur. En nuestras revisiones para clientes de Capolat incluimos de serie la inspección de estos elementos, algo que en un taller de ciudad nadie mira.\n\nLa logística también la hemos adaptado al pueblo. Y si la previsión anuncia nieve en la carretera de acceso, adelantamos o retrasamos la cita sin coste, porque forzar una bajada con hielo para llegar a un taller no tiene ningún sentido.\n\nSin intermediarios, sin esperas en salas de espera de concesionarios, sin perder un día de tu vida.",
   "servicesIntro": "Cubrimos la totalidad de servicios de mantenimiento y reparación BMW, con especial competencia en sistemas de frenado de alto rendimiento y preparación invernal de vehículos de montaña.",
-  "processIntro": "Adaptamos cada paso del proceso a la realidad de vivir en un pueblo de alta montaña como Capolat. Todo se coordina por WhatsApp y teléfono.",
+  "processIntro": "Adaptamos cada paso del proceso a la realidad de vivir en un pueblo de alta montaña como Capolat. Todo se coordina a partir del formulario de la web.",
   "processSteps": [
     {
-      "title": "Nos escribes o llamas",
+      "title": "Nos escribes por el formulario",
       "body": "Cuéntanos qué necesita tu BMW o simplemente dinos que quieres una revisión general."
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "title": "Comunicación constante",
-      "body": "Fotos, presupuestos, plazos: todo por WhatsApp para que tengas control total."
+      "body": "Fotos, presupuestos, plazos: todo por escrito para que tengas control total."
     }
   ],
   "zoneText": "Cubrimos Capolat y toda la zona de montaña del oeste del Berguedà, incluyendo los municipios del entorno del Pedraforca y la conexión con el Solsonès.",
@@ -120,7 +120,7 @@
     },
     {
       "q": "¿Qué hago si el BMW no arranca y no puedo bajarlo?",
-      "a": "Llámanos directamente. No te dejamos tirado en la montaña."
+      "a": "Escríbenos directamente. No te dejamos tirado en la montaña."
     }
   ],
   "closingHeadline": "Tu BMW a 1.100 metros, con servicio de primera línea",
@@ -128,10 +128,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

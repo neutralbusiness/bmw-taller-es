@@ -121,18 +121,18 @@
     },
     {
       "q": "¿Cuánto tarda una revisión completa de mi BMW?",
-      "a": "Una revisión completa suele completarse en un día laborable. Si se detectan reparaciones adicionales, te informamos con presupuesto detallado antes de proceder. Durante todo el proceso puedes consultar el estado por WhatsApp."
+      "a": "Una revisión completa suele completarse en un día laborable. Si se detectan reparaciones adicionales, te informamos con presupuesto detallado antes de proceder. Durante todo el proceso puedes consultar el estado por el formulario."
     }
   ],
   "closingHeadline": "Tu BMW merece un especialista que conozca las montañas de Santa Maria d'Oló",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibes un presupuesto detallado por WhatsApp o email con cada pieza, referencia y tiempo de mano de obra. Te mostramos el ahorro real frente al concesionario oficial de la zona para que decidas con toda la información."
+      "body": "Recibes un presupuesto detallado por escrito con cada pieza, referencia y tiempo de mano de obra. Te mostramos el ahorro real frente al concesionario oficial de la zona para que decidas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -152,14 +152,14 @@
     }
   ],
   "closingHeadline": "El especialista BMW que tu coche necesita en Ullastrell",
-  "closingCta": "Dinos qué le pasa a tu BMW o cuándo te toca la próxima revisión. Pide tu presupuesto cerrado por teléfono, WhatsApp o email y descubre por qué somos la alternativa inteligente al concesionario oficial en Ullastrell.",
+  "closingCta": "Dinos qué le pasa a tu BMW o cuándo te toca la próxima revisión. Pide tu presupuesto cerrado por el formulario y descubre por qué somos la alternativa inteligente al concesionario oficial en Ullastrell.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

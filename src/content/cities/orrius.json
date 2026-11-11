@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Nos cuentas el problema por teléfono o WhatsApp y te damos una primera orientación antes incluso de traer el coche a Orrius."
+      "body": "Nos cuentas el problema por el formulario y te damos una primera orientación antes incluso de traer el coche a Orrius."
     },
     {
       "title": "Diagnóstico en profundidad",
@@ -121,14 +121,14 @@
     }
   ],
   "closingHeadline": "Un taller especializado, aunque vivas en un pueblo pequeño del Maresme",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

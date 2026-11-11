@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita",
-      "body": "Llámanos o escríbenos. Te damos cita y te indicamos el mejor acceso al taller desde Campins."
+      "body": "Escríbenos por el formulario. Te damos cita y te indicamos el mejor acceso al taller desde Campins."
     },
     {
       "title": "Diagnóstico de montaña",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

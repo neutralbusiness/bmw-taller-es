@@ -7,7 +7,7 @@
   "lat": 41.6317,
   "lng": 2.6069,
   "metaTitle": "Taller BMW en Sant Cebrià de Vallalta | Interior Maresme",
-  "metaDescription": "Servicio BMW en Sant Cebrià de Vallalta, interior del Maresme. Expertos en suspensión, carreteras sinuosas y humedad mediterránea. 631 687 779.",
+  "metaDescription": "Servicio BMW en Sant Cebrià de Vallalta, interior del Maresme. Expertos en suspensión, carreteras sinuosas y humedad mediterránea.",
   "heroSubtitle": "En el interior del Maresme, tu BMW necesita un taller que domine las carreteras de valle y la humedad costera. Estamos aquí.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Reserva tu cita",
-      "body": "Contacta por teléfono o WhatsApp y elegimos la fecha que mejor se adapte a tu rutina."
+      "body": "Contacta por el formulario y elegimos la fecha que mejor se adapte a tu rutina."
     },
     {
       "title": "Diagnóstico dual",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

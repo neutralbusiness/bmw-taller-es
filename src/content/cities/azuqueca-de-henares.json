@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita",
-      "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
+      "body": "Nos escribes por el formulario y te damos cita según la urgencia de la avería."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -109,14 +109,14 @@
     }
   ],
   "closingHeadline": "Tu BMW listo sin perder horas de trabajo",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -161,7 +161,7 @@
         "h2": "Cuándo tiene sentido el viaje",
         "parrafos": [
           "Para lo que cualquier buen taller resuelve —neumáticos, escobillas, una revisión sencilla—, no. Para un diagnóstico que no ha dado con la causa, una distribución ruidosa, un fallo de inyección o de AdBlue en un diésel, o para hacer el mantenimiento siguiendo el plan de BMW con el reinicio del indicador de servicio, sí.",
-          "Antes de mover el coche, una llamada con modelo, año, kilometraje y el síntoma permite saber si el viaje merece la pena y planificar el trabajo para que salga el mismo día cuando es posible."
+          "Antes de mover el coche, un mensaje con modelo, año, kilometraje y el síntoma permite saber si el viaje merece la pena y planificar el trabajo para que salga el mismo día cuando es posible."
         ]
       },
       {

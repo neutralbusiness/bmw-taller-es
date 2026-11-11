@@ -20,7 +20,7 @@
     },
     {
       "icon": "💬",
-      "text": "Trato directo por WhatsApp"
+      "text": "Trato directo por el formulario"
     },
     {
       "icon": "🛡️",
@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Nos cuentas qué necesitas",
-      "body": "Un WhatsApp o una llamada es suficiente. Dinos modelo, kilómetros y si notas algo raro o simplemente quieres una revisión. Te orientamos al momento."
+      "body": "Un mensaje por el formulario es suficiente. Dinos modelo, kilómetros y si notas algo raro o simplemente quieres una revisión. Te orientamos al momento."
     },
     {
       "title": "Vamos a Fígols a por tu BMW",
@@ -41,7 +41,7 @@
     },
     {
       "title": "Diagnóstico profesional BMW",
-      "body": "Pasamos tu BMW por el equipo de diagnóstico oficial y hacemos inspección visual de todos los puntos críticos. Te enviamos un informe completo por WhatsApp."
+      "body": "Pasamos tu BMW por el equipo de diagnóstico oficial y hacemos inspección visual de todos los puntos críticos. Te enviamos un informe completo por escrito."
     },
     {
       "title": "Intervención autorizada",
@@ -132,14 +132,14 @@
     }
   ],
   "closingHeadline": "Fígols tiene taller BMW.",
-  "closingCta": "Contacta por WhatsApp o llámanos. Porque tu pueblo merece el mejor servicio.",
+  "closingCta": "Contacta por el formulario. Porque tu pueblo merece el mejor servicio.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

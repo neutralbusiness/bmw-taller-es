@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto directo",
-      "body": "Llama o envía un WhatsApp con la descripción del problema o el servicio que necesitas. Te orientamos sobre la urgencia y te proponemos la fecha más conveniente."
+      "body": "Escribe por el formulario con la descripción del problema o el servicio que necesitas. Te orientamos sobre la urgencia y te proponemos la fecha más conveniente."
     },
     {
       "title": "Diagnóstico en profundidad",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Comunicación constante y digital",
-      "body": "Fotos del diagnóstico, presupuesto por WhatsApp, actualizaciones de estado. Siempre sabes en qué punto está tu BMW sin necesidad de pasar por el taller."
+      "body": "Fotos del diagnóstico, presupuesto por escrito, actualizaciones de estado. Siempre sabes en qué punto está tu BMW sin necesidad de pasar por el taller."
     }
   ],
   "zoneText": "Atendemos a conductores de BMW de Santa Eugènia de Berga y todas las poblaciones del corredor sur de Osona, desde Centelles hasta Vic, con acceso rápido y servicio profesional.",
@@ -145,10 +145,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

@@ -41,7 +41,7 @@
     },
     {
       "title": "Comunicación transparente",
-      "body": "Te llamamos o escribimos con el diagnóstico y el coste antes de empezar cualquier trabajo."
+      "body": "Te llamamos con el diagnóstico y el coste antes de empezar cualquier trabajo."
     },
     {
       "title": "Reparación específica BMW",
@@ -129,10 +129,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

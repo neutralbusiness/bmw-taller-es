@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email con cada pieza y operación. Si es posible, te daremos opciones entre recambio OE y original BMW para que veas el ahorro y elijas con toda la información."
+      "body": "Recibirás un presupuesto detallado por escrito con cada pieza y operación. Si es posible, te daremos opciones entre recambio OE y original BMW para que veas el ahorro y elijas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -156,14 +156,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Sant Boi de Llobregat",
-  "closingCta": "Pídenos un presupuesto sin compromiso por teléfono, WhatsApp o email. Analizaremos tu caso y te daremos una solución clara y honesta para el mantenimiento de tu BMW en Sant Boi.",
+  "closingCta": "Pídenos un presupuesto sin compromiso por el formulario. Analizaremos tu caso y te daremos una solución clara y honesta para el mantenimiento de tu BMW en Sant Boi.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -180,7 +180,7 @@
         "id": "el-concesionario-de-sant-boi",
         "h2": "El concesionario de la carretera del Prat no somos nosotros",
         "parrafos": [
-          "En Sant Boi hay servicio oficial BMW: Barcelona Premium, en la carretera del Prat 15, a unos 2,4 km del centro según el localizador de bmw.es. Hay quien llega a esta página buscando el teléfono de ese concesionario. Si es tu caso, el teléfono que buscas es el suyo, no el de esta página.",
+          "En Sant Boi hay servicio oficial BMW: Barcelona Premium, en la carretera del Prat 15, a unos 2,4 km del centro según el localizador de bmw.es. Hay quien llega a esta página buscando el teléfono de ese concesionario. Si es tu caso, el contacto que buscas es el suyo, no el de esta página.",
           "Nuestro taller de referencia es Dasercars, taller independiente especializado en BMW. La diferencia práctica: en el concesionario se hacen las campañas del fabricante y las reparaciones en garantía; el mantenimiento puedes hacerlo con nosotros sin perder esa garantía, siempre que se respete el plan de mantenimiento (Reglamento UE 461/2010)."
         ]
       },

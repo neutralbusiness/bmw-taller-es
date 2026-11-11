@@ -147,7 +147,7 @@
     },
     {
       "q": "Vengo de un pueblo cercano como Fabara o Maella, ¿ofrecéis alguna facilidad?",
-      "a": "Entendemos que tu tiempo es valioso. Siempre que sea posible, intentamos agendar la cita para poder realizar el diagnóstico y la reparación en el mismo día en intervenciones rápidas o de mantenimiento. Para reparaciones más largas, te mantenemos informado constantemente por teléfono o WhatsApp para que no tengas que hacer viajes innecesarios."
+      "a": "Entendemos que tu tiempo es valioso. Siempre que sea posible, intentamos agendar la cita para poder realizar el diagnóstico y la reparación en el mismo día en intervenciones rápidas o de mantenimiento. Para reparaciones más largas, te mantenemos informado constantemente por teléfono para que no tengas que hacer viajes innecesarios."
     },
     {
       "q": "¿Podéis codificar funciones como Apple CarPlay o desactivar el Start-Stop?",
@@ -159,14 +159,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW de confianza en Caspe",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y descubre por qué no necesitas ir a Zaragoza para darle a tu BMW el mejor mantenimiento.",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Escríbenos por el formulario y descubre por qué no necesitas ir a Zaragoza para darle a tu BMW el mejor mantenimiento.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

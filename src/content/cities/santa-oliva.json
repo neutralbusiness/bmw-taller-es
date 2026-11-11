@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -187,7 +187,7 @@
         "id": "antes-de-bajar",
         "h2": "Antes de hacer 62,6 kilómetros",
         "parrafos": [
-          "Llama con el modelo, el año y lo que notas. Con el bastidor se identifica la referencia exacta de cada recambio y, si el trabajo lo requiere, se pide antes de que llegue el coche. El presupuesto lo tienes por escrito y nada empieza sin que lo apruebes.",
+          "Escribe con el modelo, el año y lo que notas. Con el bastidor se identifica la referencia exacta de cada recambio y, si el trabajo lo requiere, se pide antes de que llegue el coche. El presupuesto lo tienes por escrito y nada empieza sin que lo apruebes.",
           "El municipio tenía 3.711 habitantes en 2025, un 13 % más que en 2015, y 2.254 turismos en 2024 según Idescat a partir de la DGT: 607 por cada 1.000 vecinos."
         ]
       }

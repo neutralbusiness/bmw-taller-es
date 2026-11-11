@@ -95,7 +95,7 @@
       "a": "Sí, es un caso muy habitual en la zona."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp antes de mover el coche?",
+      "q": "¿Puedo pedir presupuesto por el formulario antes de mover el coche?",
       "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
@@ -108,14 +108,14 @@
     }
   ],
   "closingHeadline": "Especialistas BMW para el Baix Penedès",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

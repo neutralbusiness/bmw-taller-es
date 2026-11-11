@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita previa",
-      "body": "Reserva por teléfono o web, contándonos el síntoma que notas."
+      "body": "Reserva por el formulario de la web, contándonos el síntoma que notas."
     },
     {
       "title": "Diagnosis",
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -184,7 +184,7 @@
         "h2": "Por la BV-1224 y la C-16 hasta Sant Joan Despí",
         "parrafos": [
           "La ruta hasta la nave de Dasercars Barcelona sale por la BV-1224 hasta la C-16 y sigue por la B-20: 62,5 km por carretera, 40,1 en línea recta.",
-          "El municipio no está en el área metropolitana de Barcelona. Con más de 60 km por delante, lo que más ahorra es contar bien el problema por teléfono: síntomas, cuándo aparecen y si hay algún testigo encendido."
+          "El municipio no está en el área metropolitana de Barcelona. Con más de 60 km por delante, lo que más ahorra es contar bien el problema por el formulario: síntomas, cuándo aparecen y si hay algún testigo encendido."
         ]
       },
       {

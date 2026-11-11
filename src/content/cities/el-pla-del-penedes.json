@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita previa",
-      "body": "Reserva por teléfono o web indicando el motivo de la visita."
+      "body": "Reserva por el formulario de la web indicando el motivo de la visita."
     },
     {
       "title": "Diagnosis oficial",
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -177,7 +177,7 @@
         "h2": "Cinco carreteras hasta el Tambor del Bruc",
         "parrafos": [
           "La ruta hasta Dasercars Barcelona encadena la BV-2154, la C-243a, la BV-2244, la AP-7 y la B-23: 45,9 km por carretera, 29,2 en línea recta.",
-          "Antes de ir, explica por teléfono el modelo, el año y lo que le pasa al coche; con el bastidor se puede tener la pieza correcta pedida."
+          "Antes de ir, explica por el formulario el modelo, el año y lo que le pasa al coche; con el bastidor se puede tener la pieza correcta pedida."
         ]
       },
       {

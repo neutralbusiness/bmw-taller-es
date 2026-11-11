@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llámanos o escríbenos por WhatsApp."
+      "body": "Escríbenos por el formulario."
     },
     {
       "title": "Diagnóstico de alta montaña",
@@ -135,14 +135,14 @@
     }
   ],
   "closingHeadline": "Seguridad BMW a la altura de las cumbres del Montseny",
-  "closingCta": "Llámanos para una revisión de frenos, motor y turbo de tu BMW. En la montaña, la seguridad empieza por un mantenimiento sin compromisos.",
+  "closingCta": "Escríbenos para una revisión de frenos, motor y turbo de tu BMW. En la montaña, la seguridad empieza por un mantenimiento sin compromisos.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

@@ -125,10 +125,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -162,7 +162,7 @@
         "h2": "Cuándo sí compensa subir por la AP-7",
         "parrafos": [
           "Desde el centro de Reus, la ruta sale por la N-420a, toma la AP-7 y la C-32 y entra por la B-25 hasta el carrer del Tambor del Bruc: 99,2 km por carretera, 83,3 en línea recta.",
-          "Compensa para lo que no se ha resuelto cerca: un aviso que reaparece tras varias visitas, un fallo de inyección o de turbo en un diésel N47 o N57, un problema de la caja automática. Antes, una llamada con modelo, año, kilómetros y el síntoma permite saber si el viaje tiene sentido."
+          "Compensa para lo que no se ha resuelto cerca: un aviso que reaparece tras varias visitas, un fallo de inyección o de turbo en un diésel N47 o N57, un problema de la caja automática. Antes, un mensaje con modelo, año, kilómetros y el síntoma permite saber si el viaje tiene sentido."
         ]
       },
       {

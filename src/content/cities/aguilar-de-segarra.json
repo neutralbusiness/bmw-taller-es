@@ -36,7 +36,7 @@
   "processSteps": [
     {
       "title": "Contacto directo",
-      "body": "Llámanos o escríbenos por WhatsApp describiendo el problema o la revisión que necesitas. Te damos una primera orientación sobre plazos y costes sin compromiso."
+      "body": "Escríbenos por el formulario describiendo el problema o la revisión que necesitas. Te damos una primera orientación sobre plazos y costes sin compromiso."
     },
     {
       "title": "Diagnóstico integral",
@@ -44,7 +44,7 @@
     },
     {
       "title": "Presupuesto y reparación",
-      "body": "Te enviamos el presupuesto desglosado por WhatsApp o email. Solo procedemos con tu aprobación explícita. Utilizamos piezas originales o equivalentes homologadas."
+      "body": "Te enviamos el presupuesto desglosado por escrito. Solo procedemos con tu aprobación explícita. Utilizamos piezas originales o equivalentes homologadas."
     }
   ],
   "commonIssuesIntro": "Los vehículos BMW que circulan habitualmente por Aguilar de Segarra y el altiplano del sur del Bages presentan patrones de avería claramente influidos por la altitud, el viento, las variaciones térmicas extremas y el estado de las carreteras comarcales.",
@@ -128,14 +128,14 @@
     }
   ],
   "closingHeadline": "Tu BMW en el altiplano merece un taller que llegue hasta ti",
-  "closingCta": "Llámanos o envíanos un WhatsApp.",
+  "closingCta": "Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

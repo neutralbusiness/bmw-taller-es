@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración",
-      "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
+      "body": "Nos cuentas la avería o el mantenimiento pendiente por el formulario."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -108,14 +108,14 @@
       "a": "Sí, a todo el entorno cercano de Brunete."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

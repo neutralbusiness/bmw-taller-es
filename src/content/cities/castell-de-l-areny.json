@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Coordinación por WhatsApp"
+      "text": "Coordinación por el formulario"
     },
     {
       "icon": "✅",
@@ -32,7 +32,7 @@
   "processSteps": [
     {
       "title": "Contacta con nosotros",
-      "body": "Llámanos o envíanos un WhatsApp. Descríbenos qué le ocurre a tu BMW o qué revisión necesitas. No hace falta que sepas exactamente qué falla: para eso estamos nosotros."
+      "body": "Escríbenos por el formulario. Descríbenos qué le ocurre a tu BMW o qué revisión necesitas. No hace falta que sepas exactamente qué falla: para eso estamos nosotros."
     },
     {
       "title": "Revisión y diagnóstico",
@@ -81,7 +81,7 @@
     },
     {
       "title": "Respuesta rápida ante urgencias",
-      "body": "Si tu BMW te deja tirado, no tienes que esperar a que suba una grúa desde Berga. Llámanos y organizamos la solución más rápida posible según la avería."
+      "body": "Si tu BMW te deja tirado, no tienes que esperar a que suba una grúa desde Berga. Escríbenos y organizamos la solución más rápida posible según la avería."
     }
   ],
   "zoneText": "Atendemos toda la zona norte del Berguedà, incluyendo Castell de l'Areny y los pueblos de montaña del valle medio del Llobregat.",
@@ -103,7 +103,7 @@
   "faqLocal": [
     {
       "q": "¿Qué hago si se me enciende un testigo de avería aquí arriba?",
-      "a": "Envíanos una foto del testigo por WhatsApp."
+      "a": "Describe el testigo en el formulario."
     },
     {
       "q": "¿Tenéis piezas en stock o hay que esperar?",
@@ -119,14 +119,14 @@
     }
   ],
   "closingHeadline": "73 vecinos merecen el mismo servicio BMW que 73.000",
-  "closingCta": "Llámanos o escríbenos por WhatsApp.",
+  "closingCta": "Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

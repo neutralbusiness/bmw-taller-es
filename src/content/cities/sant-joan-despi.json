@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email. Verás cada concepto, la mano de obra y las opciones de recambio (OE o original), junto con una comparativa del ahorro frente al concesionario oficial."
+      "body": "Te enviamos un presupuesto detallado por escrito. Verás cada concepto, la mano de obra y las opciones de recambio (OE o original), junto con una comparativa del ahorro frente al concesionario oficial."
     },
     {
       "title": "Tu autorización",
@@ -154,14 +154,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, en manos expertas en Sant Joan Despí",
-  "closingCta": "Pide tu cita previa por teléfono, WhatsApp o a través de nuestro formulario online. Te daremos un presupuesto cerrado y sin compromiso para la revisión o reparación que tu BMW necesita en Sant Joan Despí.",
+  "closingCta": "Pide tu cita previa a través de nuestro formulario online. Te daremos un presupuesto cerrado y sin compromiso para la revisión o reparación que tu BMW necesita en Sant Joan Despí.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -208,7 +208,7 @@
       },
       {
         "q": "¿Hacéis trabajos de escape homologados?",
-        "a": "El taller tiene homologación REDISTA para escape y gases; consulta tu caso concreto por teléfono."
+        "a": "El taller tiene homologación REDISTA para escape y gases; consulta tu caso concreto por el formulario."
       }
     ],
     "datos": [

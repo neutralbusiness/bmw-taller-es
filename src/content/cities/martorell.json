@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email con cada concepto desglosado: piezas, mano de obra e IVA. Verás claramente el ahorro en comparación con el servicio oficial para que decidas con toda la información."
+      "body": "Recibirás un presupuesto detallado por escrito con cada concepto desglosado: piezas, mano de obra e IVA. Verás claramente el ahorro en comparación con el servicio oficial para que decidas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -151,14 +151,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, en las mejores manos en Martorell",
-  "closingCta": "Pide tu presupuesto cerrado para la revisión o reparación de tu BMW en Martorell. Contáctanos por teléfono o WhatsApp y comprueba lo que puedes ahorrar sin renunciar a la calidad que tu coche merece.",
+  "closingCta": "Pide tu presupuesto cerrado para la revisión o reparación de tu BMW en Martorell. Contáctanos por el formulario y comprueba lo que puedes ahorrar sin renunciar a la calidad que tu coche merece.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

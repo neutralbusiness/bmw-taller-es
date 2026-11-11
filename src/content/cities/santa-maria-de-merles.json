@@ -24,7 +24,7 @@
     },
     {
       "icon": "📱",
-      "text": "Cita por WhatsApp"
+      "text": "Cita por el formulario"
     },
     {
       "icon": "✅",
@@ -138,18 +138,18 @@
     },
     {
       "q": "¿Puedo llevar el BMW desde Lluçà o Prats de Lluçanès a vuestro taller?",
-      "a": "Por supuesto. Damos servicio a todo el Lluçanès norte y sur del Berguedà. Contacta por WhatsApp para reservar cita y te indicamos cómo llegar de la forma más directa."
+      "a": "Por supuesto. Damos servicio a todo el Lluçanès norte y sur del Berguedà. Contacta por el formulario para reservar cita y te indicamos cómo llegar de la forma más directa."
     }
   ],
   "closingHeadline": "El taller BMW que el valle del Merlès necesitaba",
-  "closingCta": "Llámanos o escríbenos por WhatsApp para reservar tu cita. Tu BMW merece un mantenimiento que tenga en cuenta cada curva y cada kilómetro de las carreteras de Santa Maria de Merlès.",
+  "closingCta": "Escríbenos por el formulario para reservar tu cita. Tu BMW merece un mantenimiento que tenga en cuenta cada curva y cada kilómetro de las carreteras de Santa Maria de Merlès.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

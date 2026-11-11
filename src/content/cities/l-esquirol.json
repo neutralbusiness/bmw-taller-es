@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Consulta y planificación",
-      "body": "Contacta por teléfono o WhatsApp. Valoramos tu caso, te orientamos sobre la intervención necesaria y buscamos la fecha que mejor te encaje para bajar con el BMW."
+      "body": "Contacta por el formulario. Valoramos tu caso, te orientamos sobre la intervención necesaria y buscamos la fecha que mejor te encaje para bajar con el BMW."
     },
     {
       "title": "Diagnóstico integral de montaña",
@@ -145,10 +145,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

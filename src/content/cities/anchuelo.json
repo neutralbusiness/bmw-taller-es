@@ -86,7 +86,7 @@
     },
     {
       "title": "Trato cercano",
-      "body": "Te explicamos cada avería con calma por teléfono o WhatsApp."
+      "body": "Te explicamos cada avería con calma por teléfono."
     }
   ],
   "zoneText": "Damos servicio a Anchuelo y a los municipios cercanos de la comarca del Henares.",
@@ -96,7 +96,7 @@
       "a": "Sí, es habitual en la zona."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp?",
+      "q": "¿Puedo pedir presupuesto por el formulario?",
       "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
@@ -105,14 +105,14 @@
     }
   ],
   "closingHeadline": "Especialistas BMW cerca de Alcalá de Henares",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

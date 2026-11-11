@@ -85,7 +85,7 @@
       "body": "Precio confirmado antes de tocar el coche, sin sorpresas al recibirlo de vuelta."
     },
     {
-      "title": "Trato directo por teléfono",
+      "title": "Trato directo",
       "body": "Te explicamos todo con calma, sabiendo que no vas a poder pasarte a preguntar en persona."
     }
   ],
@@ -105,14 +105,14 @@
     }
   ],
   "closingHeadline": "El taller BMW para quien vive en el Valle del Lozoya",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

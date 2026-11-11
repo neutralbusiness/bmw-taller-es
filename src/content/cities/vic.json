@@ -146,10 +146,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -183,7 +183,7 @@
         "parrafos": [
           "Para un cambio de aceite o unas pastillas, no. Para una avería que ha vuelto después de dos visitas, un testigo de motor intermitente, un problema del sistema de AdBlue o un ruido de cadena en un diésel N47, sí puede compensar un segundo diagnóstico de especialista.",
           "La ruta hasta el carrer del Tambor del Bruc va por la C-17, la C-33 y la B-20: 77,1 km por carretera, 64,7 en línea recta.",
-          "Desde esta distancia, la llamada previa es casi obligada: modelo, año, kilómetros y cómo aparece el fallo. Con eso se decide si el viaje tiene sentido y, si lo tiene, se baja con la pieza encargada."
+          "Desde esta distancia, el mensaje previo es casi obligado: modelo, año, kilómetros y cómo aparece el fallo. Con eso se decide si el viaje tiene sentido y, si lo tiene, se baja con la pieza encargada."
         ]
       },
       {
@@ -205,7 +205,7 @@
       },
       {
         "q": "¿Merece la pena llevar el coche desde Vic hasta Sant Joan Despí?",
-        "a": "Para el mantenimiento rutinario, normalmente no. Para una avería de BMW que no se ha resuelto en la comarca, puede que sí: llámanos antes y lo valoramos."
+        "a": "Para el mantenimiento rutinario, normalmente no. Para una avería de BMW que no se ha resuelto en la comarca, puede que sí: escríbenos antes y lo valoramos."
       }
     ],
     "datos": [

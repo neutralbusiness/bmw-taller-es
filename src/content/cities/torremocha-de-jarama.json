@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Por teléfono o WhatsApp, según lo que te resulte más cómodo."
+      "body": "Por el formulario, según lo que te resulte más cómodo."
     },
     {
       "title": "Diagnosis electrónica",
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto previo",
-      "body": "Nos cuentas por teléfono el síntoma del coche antes de hacer el desplazamiento."
+      "body": "Nos cuentas por el formulario el síntoma del coche antes de hacer el desplazamiento."
     },
     {
       "title": "Diagnosis con equipo original",
@@ -120,7 +120,7 @@
       "a": "Sí, recibimos clientes de toda la comarca del Alt Penedès."
     },
     {
-      "q": "¿Puedo llamar antes de traer el coche?",
+      "q": "¿Puedo consultar antes de traer el coche?",
       "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma."
     },
     {
@@ -133,14 +133,14 @@
     }
   ],
   "closingHeadline": "Un especialista en BMW al alcance de La Granada",
-  "closingCta": "Llámanos y cuéntanos qué le pasa a tu coche",
+  "closingCta": "Escríbenos y cuéntanos qué le pasa a tu coche",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

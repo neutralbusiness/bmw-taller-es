@@ -20,7 +20,7 @@
     },
     {
       "icon": "💬",
-      "text": "WhatsApp directo"
+      "text": "Contacto directo"
     },
     {
       "icon": "🏅",
@@ -36,7 +36,7 @@
   "processIntro": "Hemos diseñado un proceso que respeta tu tiempo y la realidad de vivir en un municipio apartado. Todo se coordina a distancia para tu comodidad.",
   "processSteps": [
     {
-      "title": "Primer contacto por WhatsApp",
+      "title": "Primer contacto por formulario",
       "body": "Envíanos un mensaje con tu modelo BMW, kilómetros y lo que necesitas."
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "q": "¿Cuánto tardáis en dar presupuesto?",
-      "a": "Te enviamos el presupuesto detallado por WhatsApp con fotos de los elementos revisados."
+      "a": "Te enviamos el presupuesto detallado por escrito con fotos de los elementos revisados."
     },
     {
       "q": "¿Hacéis cambio de neumáticos?",
@@ -116,7 +116,7 @@
     },
     {
       "q": "¿Trabajáis los sábados?",
-      "a": "Atendemos llamadas y WhatsApp los sábados por la mañana."
+      "a": "Respondemos a las consultas del formulario también los sábados por la mañana."
     },
     {
       "q": "¿Qué garantía ofrecéis en las reparaciones?",
@@ -127,10 +127,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

@@ -41,7 +41,7 @@
   "processSteps": [
     {
       "title": "Contacto y evaluación inicial",
-      "body": "Descríbenos el problema por teléfono o WhatsApp. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita."
+      "body": "Descríbenos el problema por el formulario. Con los datos de tu BMW (modelo, motorización, kilómetros) y los síntomas, hacemos una primera valoración y te damos cita."
     },
     {
       "title": "Diagnóstico de alta montaña",
@@ -140,14 +140,14 @@
     }
   ],
   "closingHeadline": "Tu BMW y el Pedraforca: los dos merecen lo mejor",
-  "closingCta": "Contacta con nosotros por teléfono o WhatsApp.",
+  "closingCta": "Contacta con nosotros por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

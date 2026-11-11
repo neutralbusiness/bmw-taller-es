@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita y valoración inicial",
-      "body": "Nos cuentas el problema por teléfono o WhatsApp y agendamos cita según tu disponibilidad."
+      "body": "Nos cuentas el problema por el formulario y agendamos cita según tu disponibilidad."
     },
     {
       "title": "Recepción del vehículo",
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

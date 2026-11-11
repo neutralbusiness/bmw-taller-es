@@ -85,7 +85,7 @@
       "body": "Precio confirmado antes de tocar el coche."
     },
     {
-      "title": "Trato directo por teléfono",
+      "title": "Trato directo",
       "body": "Te explicamos todo con calma, sabiendo que no vas a poder pasarte a preguntar en persona."
     }
   ],
@@ -96,7 +96,7 @@
       "a": "Sí, es habitual en la zona y revisamos suspensión y filtros con atención."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp?",
+      "q": "¿Puedo pedir presupuesto por el formulario?",
       "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
@@ -105,14 +105,14 @@
     }
   ],
   "closingHeadline": "El taller BMW para quien vive en la comarca de las Vegas",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

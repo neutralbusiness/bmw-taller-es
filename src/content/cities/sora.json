@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Consulta inicial sin compromiso",
-      "body": "Cuéntanos qué necesita tu BMW por teléfono o WhatsApp. Te damos una primera valoración y un presupuesto orientativo antes de tocar el coche."
+      "body": "Cuéntanos qué necesita tu BMW por el formulario. Te damos una primera valoración y un presupuesto orientativo antes de tocar el coche."
     },
     {
       "title": "Trabajo técnico especializado",
@@ -78,7 +78,7 @@
     },
     {
       "title": "Proximidad y trato directo",
-      "body": "En un pueblo de 180 habitantes, la relación con el taller es personal. Nos conoces, nos llamas directamente y sabes quién trabaja en tu coche."
+      "body": "En un pueblo de 180 habitantes, la relación con el taller es personal. Nos conoces, nos escribes directamente y sabes quién trabaja en tu coche."
     }
   ],
   "zoneText": "Cubrimos todo el norte de la comarca de Osona, desde Sora hasta el límite con el Ripollès.",
@@ -119,10 +119,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

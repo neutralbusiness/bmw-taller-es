@@ -143,7 +143,7 @@
     },
     {
       "q": "El concesionario oficial de Alcalá me da cita para un mes, ¿sois más rápidos para un diagnóstico?",
-      "a": "Sí, nuestra agilidad es una de nuestras ventajas. Al ser un taller más pequeño y especializado, solemos dar cita para un diagnóstico completo con ISTA en la misma semana. Entendemos que cuando tienes una avería o acabas de comprar un coche, no quieres esperar un mes para saber qué le ocurre. Llámanos y te daremos la primera cita disponible."
+      "a": "Sí, nuestra agilidad es una de nuestras ventajas. Al ser un taller más pequeño y especializado, solemos dar cita para un diagnóstico completo con ISTA en la misma semana. Entendemos que cuando tienes una avería o acabas de comprar un coche, no quieres esperar un mes para saber qué le ocurre. Escríbenos y te daremos la primera cita disponible."
     },
     {
       "q": "Mi BMW tiene ya 10 años, ¿merece la pena seguir con revisiones especialistas o me sirve cualquier taller de Ajalvir?",
@@ -155,14 +155,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, a punto en Ajalvir",
-  "closingCta": "Pide tu cita para un diagnóstico o revisión. Llámanos o escríbenos por WhatsApp y te daremos presupuesto sin compromiso para tu BMW en Ajalvir.",
+  "closingCta": "Pide tu cita para un diagnóstico o revisión. Escríbenos por el formulario y te daremos presupuesto sin compromiso para tu BMW en Ajalvir.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

@@ -20,7 +20,7 @@
     },
     {
       "icon": "💬",
-      "text": "Atención por WhatsApp"
+      "text": "Atención por el formulario"
     },
     {
       "icon": "⚙️",
@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Consulta directa sin intermediarios",
-      "body": "Llámanos o envía un WhatsApp con la descripción del problema o el servicio que necesitas."
+      "body": "Escríbenos por el formulario con la descripción del problema o el servicio que necesitas."
     },
     {
       "title": "Diagnóstico rápido y preciso",
@@ -41,7 +41,7 @@
     },
     {
       "title": "Trabajo ágil y comunicación continua",
-      "body": "Una vez aprobado el presupuesto, procedemos sin demoras. Te mantenemos informado del progreso por WhatsApp, especialmente si surgen hallazgos adicionales que requieran tu decisión."
+      "body": "Una vez aprobado el presupuesto, procedemos sin demoras. Te mantenemos informado del progreso por escrito, especialmente si surgen hallazgos adicionales que requieran tu decisión."
     }
   ],
   "commonIssuesIntro": "Los BMW de Orís comparten un perfil de uso similar al de otros pequeños municipios del valle del Ter: trayectos cortos hasta Torelló o Sant Quirze, exposición a la humedad del río y arranques en frío frecuentes. Estos son los problemas que más atendemos.",
@@ -70,7 +70,7 @@
   "whyUs": [
     {
       "title": "Taller para pueblos pequeños del Ter",
-      "body": "Entendemos la realidad de vivir en un municipio de menos de 300 habitantes sin servicios de proximidad. Por eso ofrecemos un servicio que se adapta a ti: comunicación directa por WhatsApp, intervenciones en el día y precios que no incluyen el coste de un local en el centro de Vic."
+      "body": "Entendemos la realidad de vivir en un municipio de menos de 300 habitantes sin servicios de proximidad. Por eso ofrecemos un servicio que se adapta a ti: comunicación directa, intervenciones en el día y precios que no incluyen el coste de un local en el centro de Vic."
     },
     {
       "title": "Diagnóstico electrónico completo",
@@ -130,10 +130,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -166,7 +166,7 @@
         "id": "cuando-compensa",
         "h2": "Cuándo merece la pena bajar casi cien kilómetros",
         "parrafos": [
-          "Para una revisión sencilla, no: lo razonable es un taller de la comarca. Compensa con averías propias de la marca que no se han resuelto cerca —un fallo eléctrico intermitente, un aviso de AdBlue, una cadena de distribución ruidosa— o para un segundo diagnóstico antes de una reparación importante. Antes, una llamada con modelo, año y kilometraje.",
+          "Para una revisión sencilla, no: lo razonable es un taller de la comarca. Compensa con averías propias de la marca que no se han resuelto cerca —un fallo eléctrico intermitente, un aviso de AdBlue, una cadena de distribución ruidosa— o para un segundo diagnóstico antes de una reparación importante. Antes, un mensaje con modelo, año y kilometraje.",
           "Orís tenía 355 habitantes en 2025, un 15,3 % más que en 2015, en un término de 27,17 km². Idescat contaba 222 turismos en 2024: 625 por cada 1.000 vecinos."
         ]
       }

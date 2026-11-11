@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Llámanos o escríbenos por WhatsApp para concertar una cita. Si tu BMW lleva tiempo parado en Olvan, indícanoslo para preparar un protocolo de revisión adaptado a vehículos con periodos de inactividad prolongada."
+      "body": "Escríbenos por el formulario para concertar una cita. Si tu BMW lleva tiempo parado en Olvan, indícanoslo para preparar un protocolo de revisión adaptado a vehículos con periodos de inactividad prolongada."
     },
     {
       "title": "Diagnóstico electrónico completo",
@@ -139,18 +139,18 @@
     },
     {
       "q": "¿Puedo pedir cita para el sábado si solo estoy en Olvan los fines de semana?",
-      "a": "Entendemos la situación de los propietarios de segundas residencias. Consúltanos disponibilidad por WhatsApp o teléfono y haremos lo posible por adaptar la cita a tu calendario de visitas al Berguedà."
+      "a": "Entendemos la situación de los propietarios de segundas residencias. Consúltanos disponibilidad por el formulario y haremos lo posible por adaptar la cita a tu calendario de visitas al Berguedà."
     }
   ],
   "closingHeadline": "Tu BMW en Olvan merece atención especializada",
-  "closingCta": "Llámanos o escríbenos por WhatsApp para concertar una cita. Cuidamos de tu BMW para que tú disfrutes de la tranquilidad de Olvan sin preocupaciones mecánicas.",
+  "closingCta": "Escríbenos por el formulario para concertar una cita. Cuidamos de tu BMW para que tú disfrutes de la tranquilidad de Olvan sin preocupaciones mecánicas.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

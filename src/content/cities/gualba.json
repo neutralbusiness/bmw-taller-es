@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Agenda tu visita",
-      "body": "Contacta por teléfono o WhatsApp. Con acceso directo por la C-35, llegar al taller es rápido y cómodo."
+      "body": "Contacta por el formulario. Con acceso directo por la C-35, llegar al taller es rápido y cómodo."
     },
     {
       "title": "Diagnóstico de montaña y autopista",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

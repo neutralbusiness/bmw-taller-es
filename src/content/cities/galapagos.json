@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita previa",
-      "body": "Reserva por teléfono o web, indicando el síntoma que notas."
+      "body": "Reserva por el formulario de la web, indicando el síntoma que notas."
     },
     {
       "title": "Diagnosis oficial",
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -184,7 +184,7 @@
         "h2": "Trabajos que compensan los 44,9 km",
         "parrafos": [
           "Un diésel N47 o N57 con ruido de cadena, un aviso de AdBlue con la cuenta atrás en marcha, un fallo de emisiones (el taller tiene homologación REDISTA para escape y gases) o un mantenimiento por plan de marca con el indicador de servicio reiniciado. Un pinchazo o unas escobillas los resuelve cualquier taller cercano.",
-          "Desde aquí ayuda mucho describir el síntoma por teléfono: cuándo aparece, en frío o en caliente, y qué testigo se enciende."
+          "Desde aquí ayuda mucho describir el síntoma por el formulario: cuándo aparece, en frío o en caliente, y qué testigo se enciende."
         ]
       },
       {

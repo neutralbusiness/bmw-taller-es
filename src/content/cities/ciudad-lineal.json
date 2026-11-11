@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email, desglosando cada pieza y la mano de obra. Verás el coste del recambio OE y el original de BMW, para que elijas con toda la información."
+      "body": "Recibirás un presupuesto detallado por escrito, desglosando cada pieza y la mano de obra. Verás el coste del recambio OE y el original de BMW, para que elijas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -148,14 +148,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en el corazón de Ciudad Lineal",
-  "closingCta": "No dejes que una pequeña duda se convierta en una gran avería. Contacta con nosotros por teléfono o WhatsApp y pide un diagnóstico o presupuesto sin compromiso para tu BMW en Ciudad Lineal.",
+  "closingCta": "No dejes que una pequeña duda se convierta en una gran avería. Contacta con nosotros por el formulario y pide un diagnóstico o presupuesto sin compromiso para tu BMW en Ciudad Lineal.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

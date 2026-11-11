@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -194,7 +194,7 @@
       },
       {
         "q": "¿Cómo pido presupuesto?",
-        "a": "Llamando con modelo, año, kilometraje y, si puede ser, el bastidor. El presupuesto se entrega por escrito antes de empezar."
+        "a": "Escribiendo con modelo, año, kilometraje y, si puede ser, el bastidor. El presupuesto se entrega por escrito antes de empezar."
       }
     ],
     "datos": [

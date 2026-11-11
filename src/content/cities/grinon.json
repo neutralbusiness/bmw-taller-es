@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto previo",
-      "body": "Nos cuentas por teléfono el síntoma del coche para orientar la cita antes de que hagas el desplazamiento."
+      "body": "Nos cuentas por el formulario el síntoma del coche para orientar la cita antes de que hagas el desplazamiento."
     },
     {
       "title": "Diagnosis con equipo original",
@@ -120,7 +120,7 @@
       "a": "Sí, recibimos clientes de toda la comarca del sur de Madrid."
     },
     {
-      "q": "¿Puedo llamar antes de traer el coche?",
+      "q": "¿Puedo consultar antes de traer el coche?",
       "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma que describas."
     },
     {
@@ -133,14 +133,14 @@
     }
   ],
   "closingHeadline": "Un especialista en BMW al alcance de Griñón",
-  "closingCta": "Llámanos y cuéntanos qué le pasa a tu coche",
+  "closingCta": "Escríbenos y cuéntanos qué le pasa a tu coche",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

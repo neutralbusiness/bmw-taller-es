@@ -86,7 +86,7 @@
     },
     {
       "title": "Atención cercana",
-      "body": "Te explicamos cada avería con calma por teléfono o WhatsApp."
+      "body": "Te explicamos cada avería con calma por teléfono."
     }
   ],
   "zoneText": "Damos servicio a Artés y a los municipios del Bages.",
@@ -96,7 +96,7 @@
       "a": "Sí, es habitual en la zona y revisamos suspensión con atención."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp antes de mover el coche?",
+      "q": "¿Puedo pedir presupuesto por el formulario antes de mover el coche?",
       "a": "Sí, es la vía más rápida para una primera valoración."
     },
     {
@@ -105,14 +105,14 @@
     }
   ],
   "closingHeadline": "Especialistas BMW para el Bages",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

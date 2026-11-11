@@ -7,7 +7,7 @@
   "lat": 41.8249,
   "lng": 2.1731,
   "metaTitle": "Taller BMW en Collsuspina | Mecánica para Clima Extremo",
-  "metaDescription": "Servicio técnico BMW en Collsuspina, a 900m de altitud. Mantenimiento especial para frío extremo, hielo y niebla. Llama ahora.",
+  "metaDescription": "Servicio técnico BMW en Collsuspina, a 900m de altitud. Mantenimiento especial para frío extremo, hielo y niebla. Escribe ahora.",
   "heroSubtitle": "A 900 metros de altitud y con los inviernos más fríos de la comarca, tu BMW necesita un taller que domine el clima extremo.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y planificación",
-      "body": "Llámanos o escribe por WhatsApp. Te damos una primera orientación sobre el problema y fijamos una cita."
+      "body": "Escríbenos por el formulario. Te damos una primera orientación sobre el problema y fijamos una cita."
     },
     {
       "title": "Diagnóstico especializado",
@@ -136,10 +136,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

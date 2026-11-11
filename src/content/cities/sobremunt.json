@@ -28,16 +28,16 @@
     },
     {
       "icon": "📱",
-      "text": "Contacto directo por WhatsApp"
+      "text": "Contacto directo por el formulario"
     }
   ],
   "introLocal": "Sobremunt ostenta un registro singular dentro de Osona: con 92 habitantes censados, es el municipio menos poblado de la comarca. Este diminuto pueblo de montaña, situado entre la Plana de Vic y la subcomarca del Lluçanès, se compone de un puñado de casas agrupadas y varias masías repartidas por las laderas, rodeadas de campos, prados y bosques mixtos que se extienden hasta donde alcanza la vista.\n\nEn un municipio tan pequeño, el coche no es un complemento: es la única forma viable de moverse. No hay tienda, no hay bar en muchos meses del año, y la escuela, el ambulatorio y el supermercado más cercanos están en Vic o en los pueblos del Lluçanès. Para el propietario de un BMW en Sobremunt, que el vehículo funcione correctamente no es una preferencia, es una necesidad de primer orden.\n\nEl problema hasta ahora era evidente: cualquier revisión o avería obligaba a conducir hasta Vic —unos 15 kilómetros de carretera comarcal— y esperar en un taller genérico que rara vez tenía la especialización necesaria para un BMW. O bien hacer el trayecto largo hasta Barcelona. En ambos casos, el conductor de Sobremunt perdía tiempo, comodidad y, a menudo, también dinero en soluciones poco específicas.\n\nLas condiciones de la zona no facilitan las cosas. El clima continental del interior de Osona, con heladas frecuentes de noviembre a marzo, las nieblas que cubren la plana durante semanas y las carreteras locales con firme irregular, someten al BMW a un desgaste que supera ampliamente el de la conducción urbana. Los frenos, la suspensión, la electrónica y la batería trabajan en un régimen más exigente del que contempla el programa de mantenimiento estándar.\n\nEn Sobremunt casi todos los hogares funcionan con un único vehículo, y eso cambia por completo la manera de plantear el mantenimiento. No basta con reparar bien: hay que reparar sin dejar a nadie aislado. Es una logística que un taller urbano no necesita plantearse y que aquí marca toda la diferencia.\n\nEl parque local también tiene sus particularidades. Abundan los BMW compactos y familiares —Serie 2 Active Tourer, X1, Serie 3— que además del uso diario remolcan con frecuencia pequeños remolques agrícolas o de leña, algo habitual en las explotaciones del entorno del Lluçanès. Ese uso con carga exige revisar puntos que en otros municipios apenas se tocan: la instalación eléctrica del enganche, el estado de los tacos de la suspensión trasera y el comportamiento de la transmisión en las subidas con peso. Incorporamos estas comprobaciones al plan de cada cliente de Sobremunt que utiliza su BMW para algo más que desplazarse.",
   "servicesIntro": "Realizamos la gama completa de servicios para BMW: mantenimiento periódico, diagnosis electrónica con software oficial, reparación mecánica y eléctrica, frenos, suspensión, dirección, climatización y preparación del vehículo para el invierno de montaña.",
-  "processIntro": "Te lo ponemos tan fácil como una llamada o un mensaje de WhatsApp.",
+  "processIntro": "Te lo ponemos tan fácil como un mensaje.",
   "processSteps": [
     {
       "title": "Contacto inicial",
-      "body": "Llámanos o envía un WhatsApp explicando qué necesita tu BMW. Te orientamos y te damos un presupuesto estimado antes de cualquier desplazamiento."
+      "body": "Escríbenos por el formulario explicando qué necesita tu BMW. Te orientamos y te damos un presupuesto estimado antes de cualquier desplazamiento."
     },
     {
       "title": "Trabajo técnico con garantía",
@@ -119,18 +119,18 @@
       "a": "Sí. Revisamos todos los puntos que controla la ITV, corregimos lo necesario y te devolvemos el BMW listo para pasar la inspección sin sorpresas."
     },
     {
-      "q": "¿Puedo consultar el estado de mi BMW por WhatsApp mientras lo tenéis?",
-      "a": "Por supuesto. Te mantenemos informado por WhatsApp o por teléfono en cada paso. Puedes preguntarnos en cualquier momento."
+      "q": "¿Puedo consultar el estado de mi BMW por el formulario mientras lo tenéis?",
+      "a": "Por supuesto. Te mantenemos informado por escrito o por teléfono en cada paso. Puedes preguntarnos en cualquier momento."
     }
   ],
-  "closingCta": "Contacta con nosotros por teléfono o WhatsApp.",
+  "closingCta": "Contacta con nosotros por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

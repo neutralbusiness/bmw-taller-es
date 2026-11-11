@@ -159,10 +159,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -187,7 +187,7 @@
         "id": "organizar-la-visita",
         "h2": "Cómo organizar la visita",
         "parrafos": [
-          "Llama con modelo, año, kilometraje y el síntoma bien descrito: si hay un testigo encendido, cuál y desde cuándo. Con eso se puede saber si el trabajo cabe en una jornada y si conviene pedir la pieza antes de que llegues.",
+          "Escribe con modelo, año, kilometraje y el síntoma bien descrito: si hay un testigo encendido, cuál y desde cuándo. Con eso se puede saber si el trabajo cabe en una jornada y si conviene pedir la pieza antes de que llegues.",
           "El taller trabaja de lunes a viernes, por la mañana y por la tarde. Para trabajos de un día, lo que mejor funciona desde Rubí es entrar a primera hora."
         ]
       },

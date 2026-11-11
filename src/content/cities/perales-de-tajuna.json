@@ -36,8 +36,8 @@
   "processIntro": "El proceso está pensado para que no tengas que coger la carretera si no quieres.",
   "processSteps": [
     {
-      "title": "Llamada y diagnóstico previo",
-      "body": "Nos cuentas el síntoma por teléfono o WhatsApp y te damos una primera valoración antes de mover el coche."
+      "title": "Consulta y diagnóstico previo",
+      "body": "Nos cuentas el síntoma por el formulario y te damos una primera valoración antes de mover el coche."
     },
     {
       "title": "Diagnosis en taller",
@@ -100,14 +100,14 @@
       "a": "La diagnosis inicial y el presupuesto no tienen coste si finalmente reparas con nosotros."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

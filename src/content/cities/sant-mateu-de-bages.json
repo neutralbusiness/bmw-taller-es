@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración inicial",
-      "body": "Llámanos o escríbenos por WhatsApp describiendo el problema o el mantenimiento que necesitas. Te daremos una primera orientación y concertaremos una cita adaptada a tu horario."
+      "body": "Escríbenos por el formulario describiendo el problema o el mantenimiento que necesitas. Te daremos una primera orientación y concertaremos una cita adaptada a tu horario."
     },
     {
       "title": "Diagnosis técnica especializada",
@@ -141,14 +141,14 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda el Bages",
-  "closingCta": "Solicita tu presupuesto sin compromiso y protege tu BMW del entorno salino y minero de Sant Mateu de Bages. Llámanos o escríbenos por WhatsApp.",
+  "closingCta": "Solicita tu presupuesto sin compromiso y protege tu BMW del entorno salino y minero de Sant Mateu de Bages. Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

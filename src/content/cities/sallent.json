@@ -144,10 +144,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -181,7 +181,7 @@
         "h2": "Por qué alguien de Sallent haría 72 km",
         "parrafos": [
           "Por un problema que pide conocer BMW a fondo: una avería del turbo o del sistema de escape en un diésel N57, una centralita que pierde la codificación, un fallo intermitente de la caja automática. También para un segundo diagnóstico antes de aceptar una reparación grande.",
-          "Antes de coger la C-16, llama con modelo, año, kilometraje y lo que notas. Muchas veces se puede orientar el problema por teléfono y tener la pieza pedida el día que llegas."
+          "Antes de coger la C-16, escribe con modelo, año, kilometraje y lo que notas. Muchas veces se puede orientar el problema a distancia y tener la pieza pedida el día que llegas."
         ]
       },
       {

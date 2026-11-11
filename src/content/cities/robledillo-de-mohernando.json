@@ -36,7 +36,7 @@
   "processIntro": "El proceso está pensado para minimizar los desplazamientos de quien vive en un núcleo rural como este.",
   "processSteps": [
     {
-      "title": "Contacto y valoración por teléfono",
+      "title": "Contacto y valoración por el formulario",
       "body": "Nos cuentas la avería o el servicio que necesitas y te damos una primera orientación antes de mover el coche."
     },
     {
@@ -74,7 +74,7 @@
   "whyUs": [
     {
       "title": "Presupuesto cerrado",
-      "body": "Nada de sorpresas en la factura: lo que se aprueba por teléfono es lo que se paga."
+      "body": "Nada de sorpresas en la factura: lo que se aprueba por escrito es lo que se paga."
     },
     {
       "title": "Piezas originales o equivalentes homologados",
@@ -108,14 +108,14 @@
       "a": "Sí, es habitual en esta zona. Adaptamos el tipo de pieza (original o equivalente) según el uso real del vehículo."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

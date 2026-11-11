@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita previa",
-      "body": "Por teléfono o WhatsApp, coordinando el horario más cómodo."
+      "body": "Por el formulario, coordinando el horario más cómodo."
     },
     {
       "title": "Diagnosis con equipo ISTA",
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

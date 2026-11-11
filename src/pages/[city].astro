@@ -1,7 +1,8 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
-import { NETWORK, SERVICES, callPhones, waFor } from "../lib/network.ts";
+import { NETWORK, SERVICES, contactFor } from "../lib/network.ts";
+import ContactForm from "../components/ContactForm.astro";
 import { tituloVeraz, descripcionVeraz, chipsVeraces } from "../lib/veraz.ts";
 import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF } from "../lib/socios.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
@@ -158,17 +159,19 @@ const heroSmCity = heroMovil(heroImage);
 /* ──────────────────────────────────────────────────────────
    Tenant resolution: si el subdominio está contratado por un
    taller real, sus datos sobreescriben los del NETWORK central.
-   Teléfono y WhatsApp: SIEMPRE los de la delegación de la zona (network.ts).
+   Contacto (11-nov-2026): solo por formulario. Teléfono, WhatsApp y email se
+   resuelven como "valor de la ciudad, y si no, el de la red" (contactFor) y
+   cada elemento se pinta únicamente si el valor resuelto no está vacío.
    ────────────────────────────────────────────────────────── */
 const t = city.tenant && city.tenant.active ? city.tenant : null;
-const phone = t?.phone ?? NETWORK.phone;
-const phoneDisplay = t?.phoneDisplay ?? NETWORK.phoneDisplay;
-// Llamada y WhatsApp: los de la delegación que atiende la ciudad (Madrid o Barcelona).
-const call = callPhones(phone, phoneDisplay, city.ccaa, city.lat, city.lng, (city as any).province);
-const whatsapp = waFor(t?.whatsapp ?? NETWORK.whatsapp, city.ccaa, city.lat, city.lng, (city as any).province);
-const email = t?.email ?? NETWORK.email;
+const contact = contactFor(city);
+const phone = contact.phone;
+const phoneDisplay = contact.phoneDisplay;
+const whatsapp = contact.whatsapp;
+const email = contact.email;
+const hasDirect = Boolean(phone || whatsapp || email);
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
-const hours = L ? (socio?.horario ?? "Llama para concertar cita") : (t?.hours ?? "Lunes a Sábado · 08:00–20:00");
+const hours = L ? (socio?.horario ?? "Cita previa por el formulario") : (t?.hours ?? "Lunes a Sábado · 08:00–20:00");
 const addrStreet = t?.addressStreet;
 const addrPostal = t?.addressPostalCode;
 const geoLat = t?.lat ?? city.lat;
@@ -210,19 +213,9 @@ const SERVICE_ICONS: Record<string, string> = {
   itv:        `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11 12 14 22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>`,
 };
 
-/* Mailto y WhatsApp pre-rellenados con la URL del subdominio. */
-const mailSubject = `Consulta desde ${city.name} (${city.slug}.${NETWORK.domain})`;
-const mailBody = `Hola,
-
-Os escribo desde ${canonical}
-
-[Cuéntanos qué necesitas: marca, modelo, año del coche y el problema o servicio que buscas.]
-
-Gracias,
-`;
-const mailtoUrl = "#contacto"; // sin formulario (12-oct-2026): queda por compatibilidad, no se enlaza
+/* WhatsApp pre-rellenado con la URL del subdominio (solo si hay número). */
 const waMsg = `IMPORTANTE: Envía este mensaje sin editarlo para hablar con nosotros: ${city.slug}.${NETWORK.domain}`;
-const waUrl = `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}`;
+const waUrl = whatsapp ? `https://wa.me/${whatsapp}?text=${encodeURIComponent(waMsg)}` : "";
 
 // Solo el FAQ propio de la ciudad: el genérico se repetía idéntico
 // en toda la red y disparaba la similitud entre subdominios.
@@ -248,8 +241,8 @@ const autoRepair = {
   alternateName: t ? `${t.businessName} · ${city.name}` : undefined,
   description: metaDesc,
   url: canonical,
-  telephone: call.telephone,
-  email: email,
+  ...(phone ? { telephone: phone } : {}),
+  ...(email ? { email } : {}),
   // Dirección y coordenadas SOLO si hay un taller de verdad en esa ciudad.
   //
   // Antes se declaraba siempre: una PostalAddress con la localidad y las
@@ -386,7 +379,7 @@ const tallerV3 = L && socio?.direccion
       "@id": `${canonical}#taller`,
       name: socio.nombre,
       url: socio.urlFicha,
-      telephone: call.tel,
+      ...(phone ? { telephone: phone } : {}),
       address: {
         "@type": "PostalAddress",
         streetAddress: socio.direccion,
@@ -469,10 +462,17 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <a href="#faq">FAQ</a>
         <a href="#contacto">Contacto</a>
       </div>
-      <a href={`tel:${call.tel}`} class="nav-cta" aria-label={`Llamar a ${call.display}`}>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        {call.landline ? (<span style="display:inline-flex;flex-wrap:wrap;column-gap:.3em;line-height:1.15"><span>{call.landline.phoneDisplay} -</span><span>{call.mobile.phoneDisplay}</span></span>) : (<span>{call.mobile.phoneDisplay}</span>)}
-      </a>
+      {phone ? (
+        <a href={`tel:${phone}`} class="nav-cta" aria-label={`Llamar a ${phoneDisplay}`}>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          <span>{phoneDisplay}</span>
+        </a>
+      ) : (
+        <a href="#formulario" class="nav-cta">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          <span>Pide presupuesto</span>
+        </a>
+      )}
     </div>
   </nav>
 
@@ -500,14 +500,22 @@ const introParagraphs = (Array.isArray(city.introLocal)
       {L ? <h1>{L.h1}</h1> : <h1>Especialistas BMW en {city.name}</h1>}
       <p class="lead">{L ? L.entradilla : city.heroSubtitle}</p>
       <div class="hero-ctas">
-        <a href={`tel:${call.tel}`} class="btn btn-primary">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-          Llamar al taller BMW
+        <a href="#formulario" class="btn btn-primary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          Pide presupuesto
         </a>
-        <a href={waUrl} target="_blank" rel="noopener" class="btn btn-whatsapp">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
-          WhatsApp
-        </a>
+        {phone && (
+          <a href={`tel:${phone}`} class="btn btn-ghost">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            Llamar al taller BMW
+          </a>
+        )}
+        {waUrl && (
+          <a href={waUrl} target="_blank" rel="noopener" class="btn btn-wa">
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+            WhatsApp
+          </a>
+        )}
       </div>
     </div>
   </header>
@@ -711,33 +719,46 @@ const introParagraphs = (Array.isArray(city.introLocal)
               Te atiende {socio.nombre}, en {socio.direccion}, {socio.cp} {socio.municipio}{L.socio?.kmCarretera ? `, a unos ${fmtKm(L.socio.kmCarretera)} km por carretera desde ${city.name}` : ""}.
             </p>
           ) : (
-            <p class="section-lead" style="margin-left: auto; margin-right: auto;">Llama o escribe y te decimos cuándo y dónde podemos ver el coche.</p>
+            <p class="section-lead" style="margin-left: auto; margin-right: auto;">Rellena el formulario y te decimos cuándo y dónde podemos ver el coche.</p>
           )
         ) : (
           <p class="section-lead" style="margin-left: auto; margin-right: auto;">{city.closingCta}</p>
         )}
       </div>
-      <div class="contact-card">
-        <p class="label">Llámanos ahora</p>
-        {call.landline ? (<><a href={`tel:${call.landline.phone}`} class="phone-big">{call.landline.phoneDisplay}</a> - <a href={`tel:${call.mobile.phone}`} class="phone-big">{call.mobile.phoneDisplay}</a></>) : (<a href={`tel:${call.mobile.phone}`} class="phone-big">{call.mobile.phoneDisplay}</a>)}
-        <p class="hours">{hours}</p>
-        {!L && addrStreet && (
-          <p style="margin: 0.85rem 0 0; color: rgba(255,255,255,0.85); font-size: 0.95rem;">
-            📍 {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}, {city.name}
-          </p>
-        )}
-
-        <div class="ctas">
-          <a href={`tel:${call.tel}`} class="btn btn-primary">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Llamar
-          </a>
-          <a href={waUrl} target="_blank" rel="noopener" class="btn btn-whatsapp">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884"/></svg>
-            WhatsApp
-          </a>
+      {hasDirect && (
+        <div class="contact-card" style="margin-bottom: 1.5rem;">
+          <p class="label">Contacto directo</p>
+          {phone && <a href={`tel:${phone}`} class="phone-big">{phoneDisplay}</a>}
+          {email && <p style="margin: 0.5rem 0 0;"><a href={`mailto:${email}`} style="color: var(--amber-400); font-weight: 700;">{email}</a></p>}
+          {(phone || waUrl) && (
+            <div class="ctas">
+              {phone && (
+                <a href={`tel:${phone}`} class="btn btn-primary">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                  Llamar
+                </a>
+              )}
+              {waUrl && (
+                <a href={waUrl} target="_blank" rel="noopener" class="btn btn-wa">
+                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+                  WhatsApp
+                </a>
+              )}
+            </div>
+          )}
         </div>
-      </div>
+      )}
+      <ContactForm
+        bare
+        anchorId="formulario"
+        city={city.slug}
+        cityName={city.name}
+        networkDomain={NETWORK.domain}
+      />
+      <p class="contact-meta">
+        {hours}
+        {!L && addrStreet && (<><br />📍 {addrStreet}{addrPostal ? `, ${addrPostal}` : ""}, {city.name}</>)}
+      </p>
     </div>
   </section>
 
@@ -941,8 +962,10 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <div class="footer-col">
           <h2 class="footer-col-title">Contacto</h2>
           <ul>
-            <li>{call.landline ? (<><a href={`tel:${call.landline.phone}`}>{call.landline.phoneDisplay}</a> - <a href={`tel:${call.mobile.phone}`}>{call.mobile.phoneDisplay}</a></>) : (<a href={`tel:${call.mobile.phone}`}>{call.mobile.phoneDisplay}</a>)}</li>
-            <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>
+            <li><a href="#formulario">Formulario de contacto</a></li>
+            {phone && <li><a href={`tel:${phone}`}>{phoneDisplay}</a></li>}
+            {waUrl && <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>}
+            {email && <li><a href={`mailto:${email}`}>{email}</a></li>}
             <li><a href={`/blog/`}>Blog</a></li>
             <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">{L ? hours : "Lun–Sáb · 08:00–20:00"}</li>
           </ul>
@@ -963,14 +986,22 @@ const introParagraphs = (Array.isArray(city.introLocal)
 
   {/* ─────────────────────── FLOAT CTA MOBILE ─────────────────────── */}
   <div class="float-cta">
-    <a href={`tel:${call.tel}`} class="btn btn-primary" aria-label="Llamar al taller">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-      Llamar
+    <a href="#formulario" class="btn btn-primary" aria-label="Pedir presupuesto por el formulario">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      Pide presupuesto
     </a>
-    <a href={waUrl} target="_blank" rel="noopener" class="btn btn-whatsapp" aria-label="Abrir WhatsApp">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347"/></svg>
-      WhatsApp
-    </a>
+    {phone && (
+      <a href={`tel:${phone}`} class="btn btn-dark" aria-label="Llamar al taller">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        Llamar
+      </a>
+    )}
+    {waUrl && (
+      <a href={waUrl} target="_blank" rel="noopener" class="btn btn-wa" aria-label="Abrir WhatsApp">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z"/></svg>
+        WhatsApp
+      </a>
+    )}
   </div>
   {L && (
     <style>

@@ -116,7 +116,7 @@
       "a": "Sí, tenemos formación y equipo para la parte eléctrica de los modelos PHEV."
     },
     {
-      "q": "¿Dais presupuesto por teléfono?",
+      "q": "¿Dais presupuesto por el formulario?",
       "a": "Damos una orientación, pero el presupuesto cerrado siempre llega tras la diagnosis."
     },
     {
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

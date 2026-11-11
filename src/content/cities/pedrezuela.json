@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Nos cuentas el problema por teléfono o WhatsApp y te damos una primera orientación antes incluso de traer el coche a Pedrezuela."
+      "body": "Nos cuentas el problema por el formulario y te damos una primera orientación antes incluso de traer el coche a Pedrezuela."
     },
     {
       "title": "Diagnóstico en profundidad",
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

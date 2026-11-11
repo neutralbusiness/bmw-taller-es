@@ -7,7 +7,7 @@
   "lat": 41.7034,
   "lng": 1.4959,
   "metaTitle": "Taller BMW en Sant Martí Sesgueioles | Alta Anoia rural",
-  "metaDescription": "Taller BMW para Sant Martí Sesgueioles. Reparaciones especializadas para conducción rural y clima severo de la Alta Anoia. Llama al 631 687 779.",
+  "metaDescription": "Taller BMW para Sant Martí Sesgueioles. Reparaciones especializadas para conducción rural y clima severo de la Alta Anoia. Pide cita por el formulario.",
   "heroSubtitle": "Servicio técnico BMW profesional para los conductores de Sant Martí Sesgueioles. Cercanía y especialización en entorno rural.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Consulta inicial",
-      "body": "Describe los síntomas o la necesidad de mantenimiento. Puedes contactarnos por teléfono, WhatsApp o correo electrónico."
+      "body": "Describe los síntomas o la necesidad de mantenimiento. Puedes contactarnos por el formulario."
     },
     {
       "title": "Diagnóstico multisistema",
@@ -139,14 +139,14 @@
     }
   ],
   "closingHeadline": "Servicio BMW profesional para Sant Martí Sesgueioles",
-  "closingCta": "Llámanos o escríbenos por WhatsApp para programar tu cita. Tu BMW recibirá la atención experta que merece, cerca de casa.",
+  "closingCta": "Escríbenos por el formulario para programar tu cita. Tu BMW recibirá la atención experta que merece, cerca de casa.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

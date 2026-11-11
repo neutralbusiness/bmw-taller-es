@@ -108,7 +108,7 @@
       "a": "Sí, es un perfil habitual entre nuestros clientes de la zona."
     },
     {
-      "q": "¿Dais presupuesto por teléfono antes de mover el coche?",
+      "q": "¿Dais presupuesto por el formulario antes de mover el coche?",
       "a": "Damos una orientación inicial, el presupuesto cerrado llega tras el diagnóstico."
     },
     {
@@ -121,14 +121,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, atendido aunque vivas junto al Tajuña",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

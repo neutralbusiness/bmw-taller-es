@@ -145,17 +145,17 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
     "h1": "Abrera: especialista BMW independiente a 25,5 km, todo por la A-2",
-    "entradilla": "Desde Abrera, la A-2 pasa a 0,2 km del centro y lleva sin desvíos hasta Sant Joan Despí, donde está el taller de la red. Antes de llamar, conviene aclarar qué somos y qué no.",
+    "entradilla": "Desde Abrera, la A-2 pasa a 0,2 km del centro y lleva sin desvíos hasta Sant Joan Despí, donde está el taller de la red. Antes de escribir, conviene aclarar qué somos y qué no.",
     "socio": {
       "id": "dasercars-sant-joan-despi",
       "kmCarretera": 25.5

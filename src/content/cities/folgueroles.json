@@ -41,7 +41,7 @@
   "processSteps": [
     {
       "title": "Consulta inicial",
-      "body": "Cuéntanos qué necesita tu BMW por teléfono o WhatsApp. Valoramos la situación y te proponemos una cita que encaje con tu semana."
+      "body": "Cuéntanos qué necesita tu BMW por el formulario. Valoramos la situación y te proponemos una cita que encaje con tu semana."
     },
     {
       "title": "Revisión meticulosa",
@@ -140,18 +140,18 @@
     },
     {
       "q": "¿Puedo llevar el BMW sin cita previa?",
-      "a": "Recomendamos siempre pedir cita para poder dedicar a tu BMW el tiempo y la atención que merece. Puedes reservar por teléfono o WhatsApp en cuestión de segundos."
+      "a": "Recomendamos siempre pedir cita para poder dedicar a tu BMW el tiempo y la atención que merece. Puedes reservar por el formulario en cuestión de segundos."
     }
   ],
   "closingHeadline": "En Folgueroles, la excelencia también se aplica al cuidado de tu BMW",
-  "closingCta": "Llámanos o escríbenos por WhatsApp para programar la próxima revisión de tu BMW. Servicio minucioso, transparente y a tres minutos de Folgueroles.",
+  "closingCta": "Escríbenos por el formulario para programar la próxima revisión de tu BMW. Servicio minucioso, transparente y a tres minutos de Folgueroles.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

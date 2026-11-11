@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -180,7 +180,7 @@
         "h2": "Por la C-32 hasta Sant Joan Despí",
         "parrafos": [
           "La N-II cruza el pueblo a 0,2 km del centro y la C-32 queda a 0,8. Por la C-32 y la B-20 se llega a la nave de Dasercars Barcelona: 51,8 km por carretera, 44,8 en línea recta.",
-          "Si vas a hacer el viaje por una avería concreta, describe por teléfono qué pasa y cuándo; con un BMW o un MINI de costa, revisar los conectores suele ser parte del diagnóstico."
+          "Si vas a hacer el viaje por una avería concreta, describe por el formulario qué pasa y cuándo; con un BMW o un MINI de costa, revisar los conectores suele ser parte del diagnóstico."
         ]
       },
       {

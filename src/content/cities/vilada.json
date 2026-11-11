@@ -41,7 +41,7 @@
   "processSteps": [
     {
       "title": "Solicitud de cita",
-      "body": "Contacte por teléfono o WhatsApp. Nos explica qué necesita su BMW y acordamos fecha y hora."
+      "body": "Contacte por el formulario. Nos explica qué necesita su BMW y acordamos fecha y hora."
     },
     {
       "title": "Inspección y diagnóstico",
@@ -49,7 +49,7 @@
     },
     {
       "title": "Presupuesto detallado",
-      "body": "Le enviamos por WhatsApp o email un presupuesto desglosado con cada operación, pieza y tiempo estimado. Usted decide qué reparaciones autorizar antes de que toquemos el coche."
+      "body": "Le enviamos por escrito un presupuesto desglosado con cada operación, pieza y tiempo estimado. Usted decide qué reparaciones autorizar antes de que toquemos el coche."
     },
     {
       "title": "Reparación y control de calidad",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Comunicación directa y transparente",
-      "body": "Le mantenemos informado por WhatsApp con fotos y vídeos del estado de su vehículo. Cada presupuesto es detallado y no realizamos ningún trabajo sin su autorización previa."
+      "body": "Le mantenemos informado por escrito con fotos y vídeos del estado de su vehículo. Cada presupuesto es detallado y no realizamos ningún trabajo sin su autorización previa."
     }
   ],
   "zoneText": "Cubrimos Vilada y todos los municipios del entorno del Pantà de la Baells y el Berguedà central.",
@@ -140,14 +140,14 @@
     }
   ],
   "closingHeadline": "Proteja su BMW del clima del Pantà de la Baells",
-  "closingCta": "Contacte con nosotros al 631 687 779 o por WhatsApp.",
+  "closingCta": "Contacte con nosotros por el formulario de la web.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

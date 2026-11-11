@@ -36,7 +36,7 @@
   "processIntro": "Entendemos que desplazarse desde Castellar del Riu requiere planificación. Por eso hemos diseñado un proceso que maximiza la eficiencia de cada visita, desde el primer contacto hasta la entrega del vehículo.",
   "processSteps": [
     {
-      "title": "Consulta remota por WhatsApp",
+      "title": "Consulta previa por formulario",
       "body": "Envíanos fotos o vídeos del problema. En muchos casos podemos orientar el diagnóstico antes de que te desplaces, anticipando las piezas necesarias."
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "title": "Coordinación para zonas remotas",
-      "body": "Sabemos lo que supone desplazarse desde un municipio sin taller. Agrupamos intervenciones y ofrecemos diagnóstico previo por WhatsApp para reducir visitas innecesarias."
+      "body": "Sabemos lo que supone desplazarse desde un municipio sin taller. Agrupamos intervenciones y ofrecemos diagnóstico previo por el formulario para reducir visitas innecesarias."
     },
     {
       "title": "Informes claros y sin sorpresas",
@@ -128,7 +128,7 @@
       "a": "Es una emulsión de agua y aceite causada por la condensación que genera la humedad ambiental combinada con trayectos cortos. No suele ser junta de culata; la solución habitual es acortar el intervalo de cambio de aceite."
     },
     {
-      "q": "¿Puedo enviar fotos por WhatsApp para un diagnóstico previo?",
+      "q": "¿Puedo pedir una valoración previa antes de ir?",
       "a": "Sí, es precisamente lo que recomendamos. Envíanos fotos o vídeos del problema y te orientaremos antes de que te desplaces, para que la visita al taller sea lo más productiva posible."
     },
     {
@@ -145,14 +145,14 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda Castellar del Riu",
-  "closingCta": "Contacta con nosotros por WhatsApp o teléfono y deja tu BMW en manos de un equipo que sabe lo que exige conducir por las pistas y caminos del Berguedà rural.",
+  "closingCta": "Contacta con nosotros por el formulario y deja tu BMW en manos de un equipo que sabe lo que exige conducir por las pistas y caminos del Berguedà rural.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

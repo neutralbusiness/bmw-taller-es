@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Por teléfono o WhatsApp, según lo que te resulte más cómodo."
+      "body": "Por el formulario, según lo que te resulte más cómodo."
     },
     {
       "title": "Diagnosis electrónica",
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -165,7 +165,7 @@
         "h2": "M-404, A-4, M-30 y A-1",
         "parrafos": [
           "La ruta desde el centro del núcleo urbano hasta Dasercars Madrid sale por la M-404, sube por la A-4, cruza por la M-30 y termina en la A-1: 56,1 km por carretera, 44,8 en línea recta, hasta la calle Valgrande 17 de Alcobendas.",
-          "Llama con el modelo, el año y el síntoma y decide después si el viaje compensa."
+          "Escribe con el modelo, el año y el síntoma y decide después si el viaje compensa."
         ]
       },
       {

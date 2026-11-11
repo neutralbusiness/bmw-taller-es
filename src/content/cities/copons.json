@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Reserva tu cita",
-      "body": "Contacta por teléfono o WhatsApp. Te asignamos la primera fecha disponible y te indicamos qué documentación traer."
+      "body": "Contacta por el formulario. Te asignamos la primera fecha disponible y te indicamos qué documentación traer."
     },
     {
       "title": "Diagnóstico integral",
@@ -143,14 +143,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, atendido con precisión en Copons",
-  "closingCta": "Llámanos al 622 552 992 o escríbenos por WhatsApp. Presupuesto sin compromiso para cualquier reparación o mantenimiento BMW.",
+  "closingCta": "Rellena el formulario de contacto. Presupuesto sin compromiso para cualquier reparación o mantenimiento BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

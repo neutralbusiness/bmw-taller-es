@@ -124,7 +124,7 @@
       "a": "Sí, desde mantenimiento básico hasta reparaciones mayores de motor y caja."
     },
     {
-      "q": "¿Puedo llamar antes de traer el coche?",
+      "q": "¿Puedo consultar antes de traer el coche?",
       "a": "Te lo recomendamos, así orientamos mejor la cita."
     },
     {
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

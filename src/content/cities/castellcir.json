@@ -129,10 +129,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -167,7 +167,7 @@
         "h2": "Seis carreteras hasta el Baix Llobregat",
         "parrafos": [
           "La ruta más corta encadena la BV-1310, la C-59, la BV-1341, la C-1413b, la C-33 y la B-20: 63,1 km por carretera y 43,8 en línea recta. La C-59 pasa a 1,9 km del centro del pueblo. Castellcir está fuera del área metropolitana de Barcelona.",
-          "Para no hacer el viaje en balde, conviene una llamada previa en la que digas el modelo, el año, los kilómetros y cómo se comporta la avería. Con esos datos se valora si es un caso de especialista o algo que un taller cercano puede resolver."
+          "Para no hacer el viaje en balde, conviene un mensaje previo en el que digas el modelo, el año, los kilómetros y cómo se comporta la avería. Con esos datos se valora si es un caso de especialista o algo que un taller cercano puede resolver."
         ]
       },
       {

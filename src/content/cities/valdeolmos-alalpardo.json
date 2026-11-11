@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibes un presupuesto detallado por WhatsApp o email. Especificamos cada pieza (OE u original) y mano de obra. Verás el ahorro real en comparación con el concesionario, sin sorpresas ni costes ocultos."
+      "body": "Recibes un presupuesto detallado por escrito. Especificamos cada pieza (OE u original) y mano de obra. Verás el ahorro real en comparación con el concesionario, sin sorpresas ni costes ocultos."
     },
     {
       "title": "Tu autorización",
@@ -148,14 +148,14 @@
     }
   ],
   "closingHeadline": "El especialista para tu BMW en Valdeolmos-Alalpardo",
-  "closingCta": "No dejes que el mantenimiento de tu BMW sea un problema. Pide tu presupuesto cerrado y sin compromiso por teléfono, WhatsApp o email y descubre por qué somos la alternativa inteligente al concesionario en la zona norte de Madrid.",
+  "closingCta": "No dejes que el mantenimiento de tu BMW sea un problema. Pide tu presupuesto cerrado y sin compromiso por el formulario y descubre por qué somos la alternativa inteligente al concesionario en la zona norte de Madrid.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

@@ -36,7 +36,7 @@
   "processSteps": [
     {
       "title": "Solicitud de cita",
-      "body": "Contacta con nosotros por teléfono, WhatsApp o correo electrónico."
+      "body": "Contacta con nosotros por el formulario."
     },
     {
       "title": "Recepción e inspección inicial",
@@ -121,7 +121,7 @@
   "faqLocal": [
     {
       "q": "¿Cuánto se tarda en llegar desde Viver i Serrateix a vuestro taller?",
-      "a": "Coordinamos día y hora por WhatsApp para que no pierdas tiempo esperando."
+      "a": "Coordinamos día y hora por el formulario para que no pierdas tiempo esperando."
     },
     {
       "q": "¿Merece la pena hacer mantenimiento preventivo si mi BMW tiene pocos kilómetros?",
@@ -145,14 +145,14 @@
     }
   ],
   "closingHeadline": "Mil años de historia merecen un taller con fundamento",
-  "closingCta": "Contacta con nosotros por teléfono o WhatsApp y recibe un presupuesto sin compromiso.",
+  "closingCta": "Contacta con nosotros por el formulario y recibe un presupuesto sin compromiso.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

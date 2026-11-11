@@ -142,10 +142,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -179,7 +179,7 @@
         "h2": "57 kilómetros por la C-32",
         "parrafos": [
           "Desde Canet, la N-II pasa a 0,4 km y la C-32 a 1 km. La ruta al taller va por la C-32 y la B-20 hasta el carrer del Tambor del Bruc: 57 km por carretera, 49,8 en línea recta.",
-          "A esa distancia, lo razonable es dejar las revisiones de rutina para un taller del Maresme y reservar el viaje para una avería propia de BMW. Antes, llama con el modelo, el año, los kilómetros y lo que notas: así llegas con hora y, si hace falta, con el recambio pedido."
+          "A esa distancia, lo razonable es dejar las revisiones de rutina para un taller del Maresme y reservar el viaje para una avería propia de BMW. Antes, escribe con el modelo, el año, los kilómetros y lo que notas: así llegas con hora y, si hace falta, con el recambio pedido."
         ]
       },
       {

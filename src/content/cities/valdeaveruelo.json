@@ -104,7 +104,7 @@
       "a": "Sí, siempre que se respete el plan de mantenimiento con piezas originales."
     },
     {
-      "q": "¿Dais presupuesto por WhatsApp?",
+      "q": "¿Dais presupuesto por el formulario?",
       "a": "Sí, es la forma más rápida de comunicarnos con clientes fuera de la ciudad."
     },
     {
@@ -112,14 +112,14 @@
       "a": "12 meses por escrito."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

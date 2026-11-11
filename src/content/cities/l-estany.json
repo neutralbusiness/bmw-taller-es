@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Consulta inicial sin compromiso",
-      "body": "Cuéntanos qué le pasa a tu BMW por teléfono o WhatsApp. Te orientamos sobre la posible causa y te damos una estimación de coste antes de que decidas nada."
+      "body": "Cuéntanos qué le pasa a tu BMW por el formulario. Te orientamos sobre la posible causa y te damos una estimación de coste antes de que decidas nada."
     },
     {
       "title": "Diagnóstico profesional",
@@ -129,14 +129,14 @@
     }
   ],
   "closingHeadline": "Dale a tu BMW la atención que merece, sin salir de l'Estany",
-  "closingCta": "Contacta con nosotros hoy por teléfono o WhatsApp. Te atendemos con la cercanía que esperas y la profesionalidad técnica que tu BMW necesita.",
+  "closingCta": "Contacta con nosotros hoy por el formulario. Te atendemos con la cercanía que esperas y la profesionalidad técnica que tu BMW necesita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

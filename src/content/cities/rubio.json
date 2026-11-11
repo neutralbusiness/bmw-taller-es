@@ -7,7 +7,7 @@
   "lat": 41.6565,
   "lng": 1.5863,
   "metaTitle": "Taller BMW en Rubió | Ladera anoiense, frenos y suspensión",
-  "metaDescription": "Servicio técnico BMW en Rubió, Anoia. Especialistas en frenos, suspensión y desgaste por conducción en ladera. Diagnóstico profesional. 631 687 779.",
+  "metaDescription": "Servicio técnico BMW en Rubió, Anoia. Especialistas en frenos, suspensión y desgaste por conducción en ladera. Diagnóstico profesional.",
   "heroSubtitle": "Tu BMW necesita atención especial en las laderas de Rubió. Frenos, suspensión y motor en manos expertas.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto previo",
-      "body": "Cuéntanos qué necesita tu BMW por teléfono o WhatsApp. Te damos cita en la primera fecha disponible."
+      "body": "Cuéntanos qué necesita tu BMW por el formulario. Te damos cita en la primera fecha disponible."
     },
     {
       "title": "Evaluación completa",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Presupuesto y aprobación",
-      "body": "Te enviamos el presupuesto detallado por WhatsApp o correo. Solo procedemos con tu confirmación."
+      "body": "Te enviamos el presupuesto detallado por escrito. Solo procedemos con tu confirmación."
     },
     {
       "title": "Trabajo técnico",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

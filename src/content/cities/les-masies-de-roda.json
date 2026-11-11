@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Cita por WhatsApp"
+      "text": "Cita por el formulario"
     }
   ],
   "introLocal": "Les Masies de Roda es uno de esos municipios de Osona que conservan intacto el carácter rural de la Plana de Vic. Disperso en un paisaje de masías centenarias, campos cultivados y riberas arboladas del río Ter, este pequeño municipio de 760 habitantes mantiene una relación estrecha con la tierra y con la vecina Roda de Ter, de la que le separan apenas unos minutos en coche. Para sus vecinos, el automóvil no es una opción entre varias: es el único medio de transporte viable para conectar con los servicios, el trabajo y la vida social de la comarca.\n\nLa proximidad al Ter define en buena medida la experiencia de conducción en les Masies de Roda. Las carreteras que serpentean junto al río atraviesan zonas de ribera donde la humedad ambiental es elevada durante buena parte del año. Esta humedad constante afecta a los vehículos de formas que no siempre son evidentes: acelera la oxidación de componentes metálicos expuestos, favorece la aparición de hongos en los sistemas de climatización y puede provocar condensación en los faros y en los conectores eléctricos. Los BMW, con su sofisticada electrónica, son especialmente sensibles a estos efectos cuando no se aplica un mantenimiento preventivo adecuado.\n\nEl entorno de les Masies de Roda también impone exigencias mecánicas específicas. Los caminos de acceso a las masías, muchos de ellos sin asfaltar o con un firme muy deteriorado, castigan la suspensión, los neumáticos y los bajos del vehículo. Un BMW Serie 3 diseñado para brillar en autopista necesita una atención diferente cuando su uso cotidiano incluye tramos de tierra, badenes pronunciados y accesos estrechos entre muros de piedra. En nuestro taller tenemos en cuenta esta realidad y ajustamos los protocolos de revisión para cubrir los puntos que un mantenimiento estándar pasaría por alto.\n\nLos inviernos en la Plana de Vic son conocidos por sus inversiones térmicas, y les Masies de Roda, junto al cauce del Ter, recibe de lleno las nieblas densas y persistentes que caracterizan la estación fría. Conducir con visibilidad reducida durante semanas enteras exige que la iluminación, los limpiaparabrisas y los sensores de asistencia a la conducción estén en perfecto estado. Una bombilla fundida o un sensor de lluvia defectuoso se convierten aquí en un riesgo real, no en una mera molestia.\n\nNuestro taller ofrece a los vecinos de les Masies de Roda un servicio BMW completo sin necesidad de desplazarse hasta Vic o Manlleu. Desde revisiones rutinarias hasta reparaciones complejas de motor o transmisión, cubrimos todas las necesidades mecánicas y electrónicas de tu BMW con la cercanía y la atención personalizada que solo un taller de proximidad puede garantizar.",
@@ -29,7 +29,7 @@
   "processSteps": [
     {
       "title": "Contacto directo y sin burocracia",
-      "body": "Llámanos por teléfono o envía un WhatsApp describiendo el problema o el servicio que necesitas. Te damos una primera orientación inmediata y fijamos una cita en el día o la fecha que mejor te convenga."
+      "body": "Escríbenos por el formulario describiendo el problema o el servicio que necesitas. Te damos una primera orientación inmediata y fijamos una cita en el día o la fecha que mejor te convenga."
     },
     {
       "title": "Presupuesto aprobado antes de actuar",
@@ -124,14 +124,14 @@
     }
   ],
   "closingHeadline": "Tu BMW y la ribera del Ter merecen un taller que los entienda",
-  "closingCta": "Llama o envía un WhatsApp para pedir tu presupuesto sin compromiso.",
+  "closingCta": "Escribe por el formulario para pedir tu presupuesto sin compromiso.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Llámanos o escríbenos por WhatsApp para concertar una cita. Te confirmaremos día y hora en menos de 24 horas y resolveremos cualquier duda inicial sobre tu BMW."
+      "body": "Escríbenos por el formulario para concertar una cita. Te confirmaremos día y hora en menos de 24 horas y resolveremos cualquier duda inicial sobre tu BMW."
     },
     {
       "title": "Diagnóstico completo",
@@ -137,18 +137,18 @@
     },
     {
       "q": "¿Hacéis prediagnóstico gratuito?",
-      "a": "Ofrecemos una primera valoración telefónica o por WhatsApp sin compromiso. Si el vehículo necesita diagnóstico con equipo conectado, te informamos del coste antes de proceder, que se descuenta si realizas la reparación con nosotros."
+      "a": "Ofrecemos una primera valoración por el formulario sin compromiso. Si el vehículo necesita diagnóstico con equipo conectado, te informamos del coste antes de proceder, que se descuenta si realizas la reparación con nosotros."
     }
   ],
   "closingHeadline": "Tu BMW en Callús merece atención especializada",
-  "closingCta": "Pide cita hoy mismo y deja tu BMW en manos de profesionales que conocen la marca a fondo. Te atendemos por teléfono o WhatsApp.",
+  "closingCta": "Pide cita hoy mismo y deja tu BMW en manos de profesionales que conocen la marca a fondo. Te atendemos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

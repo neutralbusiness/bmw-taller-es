@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llama o envía un WhatsApp describiéndole qué le pasa a tu BMW o qué servicio necesitas. Te orientamos sobre la urgencia y te proponemos una fecha para la visita."
+      "body": "Escribe por el formulario describiendo qué le pasa a tu BMW o qué servicio necesitas. Te orientamos sobre la urgencia y te proponemos una fecha para la visita."
     },
     {
       "title": "Diagnóstico completo",
@@ -94,7 +94,7 @@
     },
     {
       "title": "Comunicación clara y directa",
-      "body": "Explicamos cada problema y cada solución en un lenguaje comprensible. Fotos, vídeos y mensajes por WhatsApp para que siempre sepas qué se hace en tu BMW y por qué."
+      "body": "Explicamos cada problema y cada solución en un lenguaje comprensible. Fotos, vídeos y mensajes por escrito para que siempre sepas qué se hace en tu BMW y por qué."
     }
   ],
   "zoneText": "Damos servicio a todos los municipios del extremo norte de Osona y la zona de transición hacia el Ripollès, cubriendo desde Sant Quirze de Besora hasta los pueblos del valle de la Bisaura y la C-17 norte.",
@@ -140,14 +140,14 @@
     }
   ],
   "closingHeadline": "En el norte de Osona, tu BMW tiene taller de confianza",
-  "closingCta": "Llámanos o mándanos un WhatsApp para programar la revisión de tu BMW. Servicio especializado accesible desde Sant Quirze de Besora, con tratamientos anticorrosión y mantenimiento adaptado a la humedad del Ter.",
+  "closingCta": "Escríbenos por el formulario para programar la revisión de tu BMW. Servicio especializado accesible desde Sant Quirze de Besora, con tratamientos anticorrosión y mantenimiento adaptado a la humedad del Ter.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

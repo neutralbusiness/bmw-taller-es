@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Gestión rápida por WhatsApp"
+      "text": "Gestión rápida por el formulario"
     },
     {
       "icon": "🛡️",
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración",
-      "body": "Llámanos o escríbenos por WhatsApp. Cuéntanos qué necesita tu BMW y te damos una primera valoración y presupuesto orientativo."
+      "body": "Escríbenos por el formulario. Cuéntanos qué necesita tu BMW y te damos una primera valoración y presupuesto orientativo."
     },
     {
       "title": "Trabajo con estándares BMW",
@@ -123,14 +123,14 @@
       "a": "Sí. Montamos, equilibramos y almacenamos neumáticos. También asesoramos sobre el tipo de neumático más adecuado para las carreteras de la zona."
     }
   ],
-  "closingCta": "Llámanos o escríbenos por WhatsApp.",
+  "closingCta": "Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

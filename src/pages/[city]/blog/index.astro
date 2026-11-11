@@ -1,6 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import { NETWORK, callPhones } from "../../../lib/network.ts";
+import { NETWORK, contactFor } from "../../../lib/network.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 interface CityRef {
@@ -22,8 +22,8 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityRef };
-// Llamada: la delegación que atiende la ciudad (Madrid o Barcelona).
-const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng, (city as any).province);
+// Contacto: el de la ciudad o, si no tiene, el de la red. Vacío = solo formulario.
+const contact = contactFor(city as any);
 
 const all = await getCollection("blog");
 
@@ -57,7 +57,8 @@ function postUrl(id: string): string {
       <a href={`/`} class="nav-brand">{NETWORK.brand}</a>
       <div class="nav-links">
         <a href={`/`}>Inicio</a>
-        {callC.landline ? (<><a href={`tel:${callC.landline.phone}`}>{callC.landline.phoneDisplay}</a> - <a href={`tel:${callC.mobile.phone}`}>{callC.mobile.phoneDisplay}</a></>) : (<a href={`tel:${callC.mobile.phone}`}>{callC.mobile.phoneDisplay}</a>)}
+        {contact.phone && <a href={`tel:${contact.phone}`}>{contact.phoneDisplay}</a>}
+        <a href="/#formulario">Pide presupuesto</a>
       </div>
     </div>
   </nav>

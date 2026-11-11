@@ -7,20 +7,13 @@
  * /llms.txt con el detalle local (src/pages/[city]/llms.txt.ts).
  */
 import type { APIRoute } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, DELEGACIONES, NACIONAL } from "../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, contactFor } from "../lib/network.ts";
 
 interface CityRef { slug: string; name: string; province: string; ccaa: string; }
 
 /* Contacto general de la red: viene de network.ts, que es lo que el panel
-   reescribe al cambiar el teléfono. Antes estaba copiado aquí a mano y se
-   quedaba desactualizado. */
-const CONTACT = {
-  businessName: "BMW Taller",
-  phoneDisplay: NETWORK.phoneDisplay,
-  phone: NETWORK.phone,
-  whatsapp: NETWORK.whatsapp,
-  email: NETWORK.email,
-};
+   reescribe. Vacío = el único canal es el formulario de /contacto/. */
+const CONTACT = { businessName: "BMW Taller", ...contactFor() };
 
 export const GET: APIRoute = () => {
   const mods = import.meta.glob<{ default: CityRef }>("../content/cities/*.json", { eager: true });
@@ -48,7 +41,7 @@ export const GET: APIRoute = () => {
   lines.push(`- Nombre comercial: ${CONTACT.businessName}`);
   lines.push(`- Web principal: ${base}/`);
   lines.push(`- Directorio de zonas: ${base}/zonas/`);
-  lines.push(`- Contacto y cita previa (Madrid, Barcelona y Zaragoza, llamada o WhatsApp): ${base}/contacto/`);
+  lines.push(`- Contacto y cita previa (formulario para Madrid, Barcelona y Zaragoza): ${base}/contacto/`);
   lines.push(`- Talleres: ${base}/talleres/ · Madrid: ${base}/taller-bmw-madrid/ · Barcelona: ${base}/taller-bmw-barcelona/ · Zaragoza: ${base}/taller-bmw-zaragoza/`);
   lines.push(`- Sector: talleres de reparación y mantenimiento especializados en BMW`);
   lines.push(`- País: España`);
@@ -56,22 +49,21 @@ export const GET: APIRoute = () => {
 
   lines.push("## Contacto");
   lines.push("");
-  for (const d of [DELEGACIONES.madrid, DELEGACIONES.barcelona, DELEGACIONES.zaragoza]) {
-    lines.push(`- Teléfono y WhatsApp ${d.nombre}: ${d.phoneDisplay} (${d.phone})`);
-  }
-  lines.push(`- Email: ${CONTACT.email} (Zaragoza: info@asfmotors.es)`);
+  lines.push(`- Formulario de contacto (canal de contacto de la web): ${base}/contacto/#formulario`);
+  if (CONTACT.phone) lines.push(`- Teléfono: ${CONTACT.phoneDisplay} (${CONTACT.phone})`);
+  if (CONTACT.whatsapp) lines.push(`- WhatsApp: +${CONTACT.whatsapp}`);
+  if (CONTACT.email) lines.push(`- Email: ${CONTACT.email}`);
   lines.push(`- Horario (Dasercars, Madrid y Barcelona): De lunes a viernes de 09:00h a 14:00h y de 15:00h a 18:00h (sábado cerrado)`);
   lines.push(`- Horario (ASF Motors, Zaragoza): de lunes a viernes de 9:00 a 13:30 y de 15:00 a 19:00; sábados de 9:00 a 13:00 (domingo cerrado)`);
-  lines.push(`- Fuera de la Comunidad de Madrid, la provincia de Barcelona y Aragón: ${NACIONAL.phoneDisplay} (${NACIONAL.phone})`);
   lines.push("");
 
   lines.push("## Cobertura");
   lines.push("");
   lines.push(`- Talleres de referencia: 3.`);
-  lines.push(`- Madrid: Dasercars, Calle Valgrande, 17, 28108 Alcobendas. Teléfono y WhatsApp 679 176 858.`);
-  lines.push(`- Barcelona: Dasercars, Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí. Teléfono y WhatsApp 631 687 779.`);
-  lines.push(`- Zaragoza: ASF Motors (ASF Motors SC), Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva. Experto en BMW y MINI. Teléfono y WhatsApp 614 607 718, info@asfmotors.es, https://www.asfmotors.es/ · ficha de Google: https://share.google/8Qiu18YQ7EHd80Yxo. Atiende Zaragoza y el resto de Aragón.`);
-  lines.push(`- Páginas locales: ${cities.length} municipios en ${provinces.size} provincias (no son talleres; indican cómo llegar al taller y a quién llamar).`);
+  lines.push(`- Madrid: Dasercars, Calle Valgrande, 17, 28108 Alcobendas.`);
+  lines.push(`- Barcelona: Dasercars, Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí.`);
+  lines.push(`- Zaragoza: ASF Motors (ASF Motors SC), Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva. Experto en BMW y MINI. https://www.asfmotors.es/ · ficha de Google: https://share.google/8Qiu18YQ7EHd80Yxo. Atiende Zaragoza y el resto de Aragón.`);
+  lines.push(`- Páginas locales: ${cities.length} municipios en ${provinces.size} provincias (no son talleres; indican cómo llegar al taller y llevan su propio formulario de contacto).`);
   lines.push(`- Comunidades autónomas: ${[...ccaas].sort((a, b) => a.localeCompare(b, "es")).join(", ")}.`);
   lines.push(`- Listado de municipios con enlace a cada página local: ${base}/zonas/`);
   lines.push("");

@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email, explicando cada pieza y mano de obra. Verás claramente el ahorro en comparación con el servicio oficial de Zaragoza, para que decidas con toda la información."
+      "body": "Te enviamos un presupuesto detallado por escrito, explicando cada pieza y mano de obra. Verás claramente el ahorro en comparación con el servicio oficial de Zaragoza, para que decidas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -150,14 +150,14 @@
     }
   ],
   "closingHeadline": "Tu BMW tiene cuerda para rato en Cuarte",
-  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Llámanos o escríbenos por WhatsApp y déjanos echarle un ojo a tu BMW.",
+  "closingCta": "Pide tu presupuesto cerrado sin compromiso. Escríbenos por el formulario y déjanos echarle un ojo a tu BMW.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

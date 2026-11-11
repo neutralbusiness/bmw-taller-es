@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email, desglosando cada pieza y mano de obra. Te mostraremos el ahorro real comparado con el concesionario oficial para que decidas con toda la información."
+      "body": "Recibirás un presupuesto detallado por escrito, desglosando cada pieza y mano de obra. Te mostraremos el ahorro real comparado con el concesionario oficial para que decidas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -147,14 +147,14 @@
     }
   ],
   "closingHeadline": "El cuidado que tu BMW necesita, aquí en El Prat.",
-  "closingCta": "Pídenos presupuesto sin compromiso. Puedes llamarnos, enviarnos un WhatsApp con los datos de tu coche o rellenar el formulario de contacto. Te responderemos rápidamente con una valoración honesta para tu BMW en El Prat de Llobregat.",
+  "closingCta": "Pídenos presupuesto sin compromiso. Puedes rellenar el formulario de esta web. Te responderemos rápidamente con una valoración honesta para tu BMW en El Prat de Llobregat.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

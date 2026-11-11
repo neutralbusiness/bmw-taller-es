@@ -31,13 +31,13 @@
       "text": "Garantía sin perder la de BMW"
     }
   ],
-  "introLocal": "Villaseca de Uceda es un municipio muy pequeño de la provincia de Guadalajara, rodeado de campo y con el coche como única forma práctica de moverse hacia Uceda o hacia la A-1. Aquí el mantenimiento preventivo del BMW es clave, porque una avería inesperada supone un desplazamiento largo si no se anticipa.\n\nOfrecemos diagnosis con equipo original ISTA, coordinación previa por teléfono y presupuestos cerrados antes de intervenir, adaptándonos a quienes vienen desde un pueblo pequeño y alejado.",
+  "introLocal": "Villaseca de Uceda es un municipio muy pequeño de la provincia de Guadalajara, rodeado de campo y con el coche como única forma práctica de moverse hacia Uceda o hacia la A-1. Aquí el mantenimiento preventivo del BMW es clave, porque una avería inesperada supone un desplazamiento largo si no se anticipa.\n\nOfrecemos diagnosis con equipo original ISTA, coordinación previa y presupuestos cerrados antes de intervenir, adaptándonos a quienes vienen desde un pueblo pequeño y alejado.",
   "servicesIntro": "Mantenimiento preventivo, diagnosis ISTA y reparación de averías mecánicas y eléctricas para toda la gama BMW.",
-  "processIntro": "Un proceso simple en cinco pasos, coordinado por teléfono cuando hace falta.",
+  "processIntro": "Un proceso simple en cinco pasos, coordinado a distancia cuando hace falta.",
   "processSteps": [
     {
       "title": "Recepción",
-      "body": "Recogemos el síntoma exacto, preferiblemente por teléfono antes de desplazarte."
+      "body": "Recogemos el síntoma exacto, preferiblemente por el formulario antes de desplazarte."
     },
     {
       "title": "Diagnosis ISTA",
@@ -81,7 +81,7 @@
   ],
   "whyUs": [
     {
-      "title": "Coordinación previa por teléfono",
+      "title": "Coordinación previa",
       "body": "Orientamos el síntoma antes de que hagas el desplazamiento desde un pueblo tan alejado."
     },
     {
@@ -104,7 +104,7 @@
   "zoneText": "Damos servicio a Villaseca de Uceda y los pequeños municipios de la Campiña del Henares en Guadalajara.",
   "faqLocal": [
     {
-      "q": "¿Puedo llamar antes de desplazarme?",
+      "q": "¿Puedo consultar antes de desplazarme?",
       "a": "Sí, es lo recomendable dada la distancia desde un pueblo tan pequeño."
     },
     {
@@ -129,14 +129,14 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado, aunque vivas en un pueblo pequeño de Guadalajara",
-  "closingCta": "Llama antes de venir y te orientamos sobre tu BMW",
+  "closingCta": "Escribe antes de venir y te orientamos sobre tu BMW",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

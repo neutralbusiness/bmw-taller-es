@@ -7,7 +7,7 @@
   "lat": 41.512,
   "lng": 1.4529,
   "metaTitle": "Taller BMW en Bellprat | Sur de Anoia, frontera Tarragona",
-  "metaDescription": "Servicio BMW para Bellprat, el municipio más meridional de la Anoia. 631 687 779.",
+  "metaDescription": "Servicio BMW para Bellprat, el municipio más meridional de la Anoia.",
   "heroSubtitle": "El municipio más pequeño de la Anoia merece el mejor servicio BMW.",
   "trustChips": [
     {
@@ -24,19 +24,19 @@
     },
     {
       "icon": "📱",
-      "text": "Seguimiento por WhatsApp"
+      "text": "Seguimiento por escrito"
     }
   ],
   "introLocal": "Bellprat, con solo 91 habitantes censados, es el municipio más pequeño y meridional de la comarca de la Anoia, encaramado en la frontera con la Conca de Barberà tarraconense. Este pueblo diminuto, rodeado de bosque mediterráneo y cultivos de secano, es un ejemplo extremo de la Catalunya despoblada donde la propiedad de un BMW no es ostentación sino herramienta de supervivencia cotidiana.\n\nLa realidad de conducir un BMW en Bellprat difiere radicalmente del uso urbano para el que estos vehículos fueron concebidos. Las carreteras de acceso son estrechas y reviradas, con tramos donde dos coches apenas se cruzan. El firme presenta parches, baches y, en los caminos vecinales que conectan masías, directamente pista de tierra. Los BMW con distancia al suelo reducida —como los Serie 3 o Serie 4— rozan protectores y topes al circular por estos tramos, mientras que los SUV como X1 o X3, aunque más preparados, siguen sometiendo la suspensión a un castigo considerable.\n\nEl entorno natural de Bellprat, próximo a espacios protegidos, genera una exposición constante a vegetación, resina y fauna menor. Los impactos de insectos y la savia de pino atacan el barniz si no se retiran a tiempo. Los nidos de roedores en vanos motor y conductos de ventilación son un problema real en vehículos que permanecen aparcados en entornos rurales: los cables eléctricos y los conductos de aire son un objetivo habitual.\n\nUna parte de los BMW de Bellprat pertenece, además, a segundas residencias que solo se utilizan en fines de semana y vacaciones, y el desuso resulta tan dañino como el uso intensivo. Para estos vehículos preparamos puestas a punto estacionales al inicio del verano y del invierno, y asesoramos sobre mantenedores de carga que conservan la batería en perfecto estado durante las ausencias largas.\n\nCon 91 habitantes, Bellprat no tiene taller, ni gasolinera, ni apenas servicios. El pueblo más cercano con algunos recursos es Santa Coloma de Queralt (ya en Tarragona), e Igualada queda a más de 30 kilómetros.\n\nCada BMW procedente de Bellprat recibe una inspección que incluye los bajos del vehículo (impactos de piedras y ramas), el vano motor (presencia de nidos o residuos), la batería y los neumáticos, además del diagnóstico electrónico y mecánico estándar.",
   "servicesIntro": "Servicio BMW completo: mantenimiento, reparación, diagnóstico electrónico e inspección de componentes expuestos al entorno rural.",
   "processSteps": [
     {
-      "title": "Una llamada basta",
-      "body": "Contacta por teléfono o WhatsApp."
+      "title": "Un mensaje basta",
+      "body": "Contacta por el formulario."
     },
     {
       "title": "Diagnóstico e informe visual",
-      "body": "Te enviamos fotos y un informe detallado por WhatsApp con el diagnóstico y el presupuesto."
+      "body": "Te enviamos fotos y un informe detallado por escrito con el diagnóstico y el presupuesto."
     },
     {
       "title": "Reparación integral",
@@ -76,7 +76,7 @@
       "body": "Agrupamos todas las reparaciones en una sola visita para que tu BMW esté fuera el mínimo tiempo."
     },
     {
-      "title": "Seguimiento visual por WhatsApp",
+      "title": "Seguimiento visual por escrito",
       "body": "Fotos del diagnóstico, del presupuesto y de la reparación completada. Siempre sabes qué pasa con tu coche."
     },
     {
@@ -122,14 +122,14 @@
     }
   ],
   "closingHeadline": "BMW profesional hasta en el pueblo más pequeño de la Anoia",
-  "closingCta": "Llama o escribe. Sin complicaciones, sin desplazamientos.",
+  "closingCta": "Escribe por el formulario. Sin complicaciones, sin desplazamientos.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

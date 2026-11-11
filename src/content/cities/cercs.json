@@ -139,7 +139,7 @@
     },
     {
       "q": "¿Es necesario pedir cita previa?",
-      "a": "Recomendamos pedir cita previa para garantizar la disponibilidad y reducir los tiempos de espera. Puedes contactarnos por teléfono o WhatsApp y te asignamos hora en un plazo máximo de 24 horas."
+      "a": "Recomendamos pedir cita previa para garantizar la disponibilidad y reducir los tiempos de espera. Puedes contactarnos por el formulario y te asignamos hora en un plazo máximo de 24 horas."
     }
   ],
   "closingHeadline": "Tu BMW merece un especialista que conozca las carreteras del Berguedà",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -182,7 +182,7 @@
         "h2": "Casi toda la C-16 hasta Sant Joan Despí",
         "parrafos": [
           "La C-16 pasa a doscientos metros del núcleo urbano, y la ruta hasta el taller la sigue prácticamente entera antes de enlazar con la B-20: 109,6 km por carretera, 88,4 en línea recta.",
-          "Con más de cien kilómetros por delante, el orden lógico es el inverso al de un pueblo cercano: primero una llamada contando modelo, año, kilómetros y qué hace exactamente el coche; después, si el problema lo justifica, una cita con la pieza ya localizada. Una avería repetida de un diésel N47 o N57 es buen motivo; un cambio de aceite, no."
+          "Con más de cien kilómetros por delante, el orden lógico es el inverso al de un pueblo cercano: primero un mensaje contando modelo, año, kilómetros y qué hace exactamente el coche; después, si el problema lo justifica, una cita con la pieza ya localizada. Una avería repetida de un diésel N47 o N57 es buen motivo; un cambio de aceite, no."
         ]
       },
       {

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Cita previa",
-      "body": "Por teléfono o WhatsApp, coordinando el horario más cómodo."
+      "body": "Por el formulario, coordinando el horario más cómodo."
     },
     {
       "title": "Diagnosis con equipo ISTA",
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -184,7 +184,7 @@
         "h2": "61,9 km por la CM-4008, la A-42 y la M-40",
         "parrafos": [
           "La ruta hasta la calle Valgrande 17 de Alcobendas sale por la CM-4008, toma la A-42 hacia Madrid y rodea la ciudad por la M-40 y la M-30 hasta la A-1: 61,9 km por carretera, 45,6 en línea recta.",
-          "Con esa distancia, hazte una idea antes de mover el coche: cuenta el síntoma por teléfono junto con el modelo, el año y los kilómetros, y decide con esa primera orientación si el viaje compensa."
+          "Con esa distancia, hazte una idea antes de mover el coche: cuenta el síntoma por el formulario junto con el modelo, el año y los kilómetros, y decide con esa primera orientación si el viaje compensa."
         ]
       },
       {

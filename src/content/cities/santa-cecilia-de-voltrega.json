@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Gestión por WhatsApp"
+      "text": "Gestión por el formulario"
     },
     {
       "icon": "✅",
@@ -29,11 +29,11 @@
   ],
   "introLocal": "Santa Cecília de Voltregà es uno de esos municipios de Osona que pasan desapercibidos para quienes no conocen la comarca, pero que para sus 178 habitantes representa un lugar con identidad propia. Situado en el valle del Ter, junto a les Masies de Voltregà y a escasa distancia de Manlleu, este pequeño pueblo combina la tranquilidad de la vida rural con una conexión razonable a los núcleos más poblados de la Plana de Vic.\n\nA pesar de esa relativa cercanía a Manlleu y Vic, los propietarios de BMW en Santa Cecília han carecido históricamente de un servicio técnico especializado que no les obligase a desplazarse. Para un pueblo donde el coche es imprescindible para cualquier gestión diaria, quedarse sin vehículo durante horas es un trastorno considerable.\n\nEl río Ter vertebra la vida de esta parte de Osona. La humedad del valle, las nieblas invernales que se asientan entre Manlleu y Torelló, y los contrastes térmicos entre el día y la noche afectan a los componentes del vehículo de formas que no siempre se tienen en cuenta. La corrosión en bajos y escapes avanza más rápido en zonas húmedas, y los sistemas electrónicos de los BMW modernos pueden generar códigos de avería por condensación en conectores expuestos.\n\nTrabajamos con las mismas herramientas de diagnosis y los mismos recambios que un servicio oficial, pero con la ventaja de un trato cercano y la comodidad de no moverte de casa.\n\nEl perfil de uso más habitual en Santa Cecília es el del conductor que trabaja en Manlleu, Torelló o los polígonos de la Plana: trayectos diarios de menos de diez kilómetros que nunca permiten que el motor y la batería alcancen su régimen ideal. En los BMW diésel más recientes, este patrón impide la regeneración completa del filtro de partículas y deja la batería AGM en un estado de carga crónicamente bajo, algo que la centralita de gestión energética compensa desconectando funciones de confort antes de que el conductor note nada. Detectar ese deterioro silencioso a tiempo es una de las comprobaciones que incorporamos de serie en cada revisión de vehículos del valle del Ter.\n\nLa niebla de inversión térmica que encierra el valle durante semanas tiene otro efecto poco conocido: los faros trabajan muchas más horas que en municipios soleados, y cualquier condensación interna en las ópticas o desgaste en los reguladores de altura se traduce en peor visibilidad justo cuando más falta hace. Por eso, entre octubre y febrero, añadimos a nuestras intervenciones en Santa Cecília una verificación de alumbrado, sensores de lluvia y luneta térmica.\n\nYa sea una revisión rutinaria, un cambio de frenos o una reparación más compleja, puedes confiar en que tu BMW recibirá la atención que necesita sin que la distancia al taller sea un problema.",
   "servicesIntro": "Realizamos todos los servicios de mantenimiento y reparación BMW: revisiones periódicas, cambios de aceite y filtros, diagnosis electrónica, reparación de motor y transmisión, sistemas de frenado, suspensión, climatización y electrónica del vehículo.",
-  "processIntro": "Hemos simplificado el proceso para que mantener tu BMW en perfecto estado sea tan fácil como hacer una llamada desde Santa Cecília de Voltregà.",
+  "processIntro": "Hemos simplificado el proceso para que mantener tu BMW en perfecto estado sea tan fácil como enviar un mensaje desde Santa Cecília de Voltregà.",
   "processSteps": [
     {
       "title": "Contacto rápido",
-      "body": "Llámanos o escríbenos por WhatsApp con los datos de tu BMW y el servicio que necesitas. Te respondemos con un presupuesto orientativo en menos de una hora."
+      "body": "Escríbenos por el formulario con los datos de tu BMW y el servicio que necesitas. Te respondemos con un presupuesto orientativo en menos de una hora."
     },
     {
       "title": "Intervención profesional",
@@ -123,14 +123,14 @@
       "a": "Te informamos de inmediato con un presupuesto detallado del trabajo adicional. Solo procedemos si nos das el visto bueno."
     }
   ],
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

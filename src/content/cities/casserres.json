@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto detallado y aprobación",
-      "body": "Te enviamos por WhatsApp o email un presupuesto claro y desglosado, sin sorpresas. No iniciamos ningún trabajo sin tu autorización expresa. Si tienes dudas, te explicamos cada punto por teléfono o en persona."
+      "body": "Te enviamos por escrito un presupuesto claro y desglosado, sin sorpresas. No iniciamos ningún trabajo sin tu autorización expresa. Si tienes dudas, te explicamos cada punto por teléfono o en persona."
     },
     {
       "title": "Reparación con recambios de calidad",
@@ -133,14 +133,14 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un especialista que conozca los caminos de Casserres",
-  "closingCta": "Llámanos o escríbenos por WhatsApp y te daremos cita en la misma semana.",
+  "closingCta": "Escríbenos por el formulario y te daremos cita en la misma semana.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

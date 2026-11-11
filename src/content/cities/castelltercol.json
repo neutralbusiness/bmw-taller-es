@@ -112,7 +112,7 @@
       "a": "Sí, es habitual en la zona y tenemos experiencia con motores de más de 200.000 km bien mantenidos."
     },
     {
-      "q": "¿Puedo pedir presupuesto por teléfono antes de desplazarme?",
+      "q": "¿Puedo pedir presupuesto por el formulario antes de desplazarme?",
       "a": "Podemos darte una orientación, aunque el presupuesto cerrado siempre llega tras el diagnóstico en taller."
     },
     {
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

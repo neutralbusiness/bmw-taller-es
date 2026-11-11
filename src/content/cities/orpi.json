@@ -108,7 +108,7 @@
       "a": "Sí, es habitual en la zona de Orpí y prestamos atención especial a suspensión y frenos."
     },
     {
-      "q": "¿Dais presupuesto por teléfono?",
+      "q": "¿Dais presupuesto por el formulario?",
       "a": "Una primera orientación sí, el presupuesto cerrado llega tras el diagnóstico en taller."
     },
     {
@@ -121,14 +121,14 @@
     }
   ],
   "closingHeadline": "También cuidamos los BMW de los pueblos más pequeños de la Anoia",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

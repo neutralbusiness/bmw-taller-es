@@ -33,7 +33,7 @@
   "processSteps": [
     {
       "title": "Cuéntanos qué necesitas",
-      "body": "Llama o envía un WhatsApp. Describe el síntoma o el servicio que buscas. Te damos orientación y presupuesto estimado sin compromiso."
+      "body": "Escribe por el formulario. Describe el síntoma o el servicio que buscas. Te damos orientación y presupuesto estimado sin compromiso."
     },
     {
       "title": "Intervención con rigor BMW",
@@ -108,7 +108,7 @@
     },
     {
       "q": "¿Qué hago si el coche se queda tirado en la carretera del Collsacabra?",
-      "a": "Llámanos de inmediato. Te mantenemos informado en todo momento."
+      "a": "Escríbenos de inmediato. Te mantenemos informado en todo momento."
     },
     {
       "q": "¿Podéis dejarme un coche de sustitución?",
@@ -116,14 +116,14 @@
     }
   ],
   "closingHeadline": "Tu BMW sobre los acantilados de Tavertet, siempre a punto",
-  "closingCta": "Llámanos o escríbenos por WhatsApp.",
+  "closingCta": "Escríbenos por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

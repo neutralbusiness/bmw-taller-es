@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Te enviamos un presupuesto detallado por WhatsApp o email con cada pieza y la mano de obra. Te mostramos el ahorro real frente al concesionario de Zaragoza para que decidas con toda la información."
+      "body": "Te enviamos un presupuesto detallado por escrito con cada pieza y la mano de obra. Te mostramos el ahorro real frente al concesionario de Zaragoza para que decidas con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -145,14 +145,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Alagón",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Contacta con nosotros por teléfono o WhatsApp y descubre por qué no necesitas ir a Zaragoza para darle a tu BMW el mejor cuidado.",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Contacta con nosotros por el formulario y descubre por qué no necesitas ir a Zaragoza para darle a tu BMW el mejor cuidado.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

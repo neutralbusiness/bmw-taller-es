@@ -85,7 +85,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "No hay sorpresas: lo que se acuerda por teléfono es lo que se factura."
+      "body": "No hay sorpresas: lo que se acuerda por escrito es lo que se factura."
     },
     {
       "title": "Recambios homologados",
@@ -115,7 +115,7 @@
       "a": "Sí, tenemos formación específica en la gama 330e, 225xe y X5 45e."
     },
     {
-      "q": "¿Dais presupuesto por WhatsApp?",
+      "q": "¿Dais presupuesto por el formulario?",
       "a": "Con fotos y matrícula podemos darte una orientación antes de la cita presencial."
     },
     {
@@ -128,10 +128,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

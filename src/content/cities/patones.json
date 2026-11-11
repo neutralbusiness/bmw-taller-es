@@ -112,7 +112,7 @@
       "a": "Sí, es una consulta habitual en invierno en la zona de Patones."
     },
     {
-      "q": "¿Dais presupuesto por teléfono antes de mover el coche?",
+      "q": "¿Dais presupuesto por el formulario antes de mover el coche?",
       "a": "Damos una orientación inicial, el presupuesto cerrado llega tras el diagnóstico en taller."
     },
     {
@@ -121,14 +121,14 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado, aunque vivas en uno de los pueblos más apartados de Madrid",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

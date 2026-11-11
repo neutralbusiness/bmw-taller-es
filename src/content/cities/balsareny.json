@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto detallado sin compromiso",
-      "body": "Te enviamos un presupuesto claro por WhatsApp o email con cada operación desglosada, piezas necesarias y tiempo estimado. Sin sorpresas ni costes ocultos."
+      "body": "Te enviamos un presupuesto claro por escrito con cada operación desglosada, piezas necesarias y tiempo estimado. Sin sorpresas ni costes ocultos."
     },
     {
       "title": "Reparación con recambios de calidad",
@@ -133,14 +133,14 @@
     }
   ],
   "closingHeadline": "Tu BMW merece un taller especialista en Balsareny",
-  "closingCta": "Solicita tu presupuesto sin compromiso o reserva cita por WhatsApp.",
+  "closingCta": "Solicita tu presupuesto sin compromiso o reserva cita por el formulario.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

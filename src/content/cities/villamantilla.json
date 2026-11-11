@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Recepción",
-      "body": "Recogemos el síntoma exacto, preferiblemente por teléfono antes de desplazarte."
+      "body": "Recogemos el síntoma exacto, preferiblemente por el formulario antes de desplazarte."
     },
     {
       "title": "Diagnosis ISTA",
@@ -82,7 +82,7 @@
   "whyUs": [
     {
       "title": "Atención adaptada a pueblos pequeños",
-      "body": "Coordinamos por teléfono antes de que te desplaces, para no hacerte perder el viaje."
+      "body": "Coordinamos por el formulario antes de que te desplaces, para no hacerte perder el viaje."
     },
     {
       "title": "Diagnosis original ISTA",
@@ -104,8 +104,8 @@
   "zoneText": "Damos servicio a Villamantilla y los pequeños municipios del suroeste de Madrid.",
   "faqLocal": [
     {
-      "q": "¿Puedo llamar antes de desplazarme?",
-      "a": "Sí, recomendamos llamar para orientar el síntoma antes de venir desde un pueblo tan pequeño."
+      "q": "¿Puedo consultar antes de desplazarme?",
+      "a": "Sí, recomendamos escribir para orientar el síntoma antes de venir desde un pueblo tan pequeño."
     },
     {
       "q": "¿Hace falta cita previa?",
@@ -129,14 +129,14 @@
     }
   ],
   "closingHeadline": "Tu BMW cuidado, aunque vivas en un pueblo pequeño",
-  "closingCta": "Llama antes de venir y te orientamos sobre tu BMW",
+  "closingCta": "Escribe antes de venir y te orientamos sobre tu BMW",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

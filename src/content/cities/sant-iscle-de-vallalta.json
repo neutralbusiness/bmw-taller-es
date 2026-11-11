@@ -7,7 +7,7 @@
   "lat": 41.6334,
   "lng": 2.5688,
   "metaTitle": "Taller BMW en Sant Iscle de Vallalta | Valle interior Maresme",
-  "metaDescription": "Servicio BMW para Sant Iscle de Vallalta, valle rural del Maresme. Mantenimiento para caminos forestales, humedad y conducción técnica. 631 687 779.",
+  "metaDescription": "Servicio BMW para Sant Iscle de Vallalta, valle rural del Maresme. Mantenimiento para caminos forestales, humedad y conducción técnica.",
   "heroSubtitle": "En el valle escondido del Maresme, tu BMW encuentra un servicio técnico que conoce cada curva y cada riesgo del entorno.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita",
-      "body": "Llámanos o escribe por WhatsApp."
+      "body": "Escríbenos por el formulario."
     },
     {
       "title": "Inspección forestal ampliada",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

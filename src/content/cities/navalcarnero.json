@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -179,7 +179,7 @@
         "h2": "55 kilómetros cruzando Madrid",
         "parrafos": [
           "La ruta hasta la calle Valgrande sale por la A-5, toma la M-40 y la M-30 y termina en la A-1: 54,9 km por carretera, 41,2 en línea recta. Es un trayecto largo, y no tiene sentido hacerlo para un cambio de aceite si tienes un taller de confianza cerca.",
-          "Sí lo tiene para lo que pide un especialista en la marca: una avería que vuelve, un fallo del sistema SCR, una cadena de distribución ruidosa o un diagnóstico que nadie ha cerrado. En esos casos, cuéntanos primero el síntoma por teléfono y valoramos juntos si el viaje merece la pena."
+          "Sí lo tiene para lo que pide un especialista en la marca: una avería que vuelve, un fallo del sistema SCR, una cadena de distribución ruidosa o un diagnóstico que nadie ha cerrado. En esos casos, cuéntanos primero el síntoma por el formulario y valoramos juntos si el viaje merece la pena."
         ]
       },
       {

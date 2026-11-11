@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto flexible",
-      "body": "Llámanos o envía un WhatsApp a cualquier hora."
+      "body": "Escríbenos por el formulario a cualquier hora."
     },
     {
       "title": "Inspección ambiental ampliada",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración",
-      "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp."
+      "body": "Nos cuentas la avería o el mantenimiento pendiente por el formulario."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -117,14 +117,14 @@
     }
   ],
   "closingHeadline": "El taller BMW que conoce los tres Calafell",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

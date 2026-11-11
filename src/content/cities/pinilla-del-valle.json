@@ -44,7 +44,7 @@
       "body": "Revisamos con escáner original BMW antes de proponer cualquier reparación."
     },
     {
-      "title": "Presupuesto por teléfono o WhatsApp",
+      "title": "Presupuesto por el formulario",
       "body": "Confirmamos precio y plazo antes de empezar."
     }
   ],
@@ -85,7 +85,7 @@
       "body": "Sin sorpresas al recoger el coche."
     },
     {
-      "title": "Atención directa por teléfono",
+      "title": "Atención directa",
       "body": "Sin colas de centralita ni derivaciones eternas."
     }
   ],
@@ -101,14 +101,14 @@
     }
   ],
   "closingHeadline": "Mecánica BMW seria, aunque vivas en el rincón más recóndito del Lozoya",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

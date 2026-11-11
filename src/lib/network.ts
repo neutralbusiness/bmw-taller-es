@@ -10,12 +10,13 @@ export const NETWORK = {
   brand: "BMW Taller",
   sector: "taller-bmw",
   tagline: "Red de talleres especialistas BMW y MINI, con un taller de referencia en cada zona",
-  // Teléfono por defecto (sin comunidad conocida): delegación de Madrid.
-  // Los únicos teléfonos de la web son los de las dos delegaciones (12-oct-2026).
-  phone: "+34641161771",
-  phoneDisplay: "641 161 771",
-  whatsapp: "34641161771",
-  email: "info@bmw-taller.es",
+  // Contacto solo por formulario (11-nov-2026, decisión de Martín): los cuatro
+  // campos van vacíos. El panel los vuelve a rellenar aquí y las plantillas
+  // pintan teléfono, WhatsApp o email solo cuando el valor resuelto no está vacío.
+  phone: "",
+  phoneDisplay: "",
+  whatsapp: "",
+  email: "",
   heroImage: "/img/hero.webp",
   gtmId: "GTM-MXDJ2V5T",
 } as const;
@@ -90,91 +91,46 @@ export const FAQ_BASE = [
 
 
 /**
- * Las DOS delegaciones (12-oct-2026, orden de Martin): son los ÚNICOS teléfonos
- * de la web, para llamada y para WhatsApp. Nada de fijos 930/919, ni 622, 673,
- * 641 ni 647: cualquier teléfono que llegue de la ficha de una ciudad (bloque
- * `tenant` del JSON, que escribe el panel) se sustituye por el de su delegación.
+ * Contacto de una página: el valor de la ciudad (bloque `tenant` activo del
+ * JSON, que escribe el panel, o los campos `custom*`) y, si está vacío, el de
+ * la red (NETWORK). Con todo vacío la web solo ofrece el formulario; en cuanto
+ * el panel vuelve a publicar un teléfono, un WhatsApp o un email, reaparece
+ * sin tocar código.
  */
-export const DELEGACIONES = {
-  madrid: {
-    nombre: "Madrid",
-    phone: "+34679176858",
-    phoneDisplay: "679 176 858",
-    whatsapp: "34679176858",
-    lat: 40.5373,
-    lng: -3.6511, // Alcobendas, C/ Valgrande 17
-  },
-  barcelona: {
-    nombre: "Barcelona",
-    phone: "+34631687779",
-    phoneDisplay: "631 687 779",
-    whatsapp: "34631687779",
-    lat: 41.3655,
-    lng: 2.0577, // Sant Joan Despí, C/ Tambor del Bruc 3
-  },
-  zaragoza: {
-    nombre: "Zaragoza",
-    phone: "+34614607718",
-    phoneDisplay: "614 607 718",
-    whatsapp: "34614607718",
-    lat: 41.6067,
-    lng: -0.9308, // ASF Motors, Cuarte de Huerva, Ctra. de Valencia km 6,2
-  },
-} as const;
-/**
- * Teléfono NACIONAL (21-oct-2026, orden de Martin): fuera de la Comunidad de Madrid
- * y de la provincia de Barcelona se muestra SIEMPRE el 641 161 771. Los teléfonos
- * de Madrid y Barcelona provincia no pueden aparecer en webs de otras zonas.
- */
-export const NACIONAL = {
-  nombre: "España",
-  phone: "+34641161771",
-  phoneDisplay: "641 161 771",
-  whatsapp: "34641161771",
-} as const;
-
-export type Delegacion = (typeof DELEGACIONES)[keyof typeof DELEGACIONES];
-
-function distKm(aLat: number, aLng: number, bLat: number, bLng: number): number {
-  const r = Math.PI / 180;
-  const dLat = (bLat - aLat) * r;
-  const dLng = (bLng - aLng) * r;
-  const h = Math.sin(dLat / 2) ** 2 + Math.cos(aLat * r) * Math.cos(bLat * r) * Math.sin(dLng / 2) ** 2;
-  return 12742 * Math.asin(Math.sqrt(h));
+export interface ContactSource {
+  tenant?: { active?: boolean; phone?: string; phoneDisplay?: string; whatsapp?: string; email?: string } | null;
+  customPhone?: string;
+  customPhoneDisplay?: string;
+  customWhatsapp?: string;
+  customEmail?: string;
 }
 
-/**
- * Contacto que atiende una ciudad (21-oct-2026):
- *   · Comunidad de Madrid         → Madrid (679 176 858)
- *   · provincia de Barcelona      → Barcelona (631 687 779)
- *   · Aragón                      → Zaragoza, ASF Motors (614 607 718), desde el 10-nov-2026
- *   · cualquier otro sitio / sin datos → NACIONAL (641 161 771)
- */
-export function delegacionPara(ccaa?: string, _lat?: number, _lng?: number, provincia?: string): Delegacion | typeof NACIONAL {
-  if (ccaa === "Comunidad de Madrid" || provincia === "Madrid") return DELEGACIONES.madrid;
-  if (provincia === "Barcelona") return DELEGACIONES.barcelona;
-  if (ccaa === "Aragón") return DELEGACIONES.zaragoza;
-  return NACIONAL;
+export interface Contact {
+  /** Teléfono en formato tel: (+34…). "" si no hay. */
+  phone: string;
+  phoneDisplay: string;
+  /** Número de WhatsApp sin signos (34…). "" si no hay. */
+  whatsapp: string;
+  email: string;
 }
 
-/**
- * Datos de llamada de una ciudad. Se conserva la firma antigua (phone,
- * phoneDisplay) para no tocar las plantillas, pero el número que manda es el de
- * la delegación: ya no hay fijo asociado (`landline` siempre null).
- */
-export function callPhones(_phone: string, _phoneDisplay: string, ccaa?: string, lat?: number, lng?: number, provincia?: string) {
-  const d = delegacionPara(ccaa, lat, lng, provincia);
-  const mobile = { phone: d.phone as string, phoneDisplay: d.phoneDisplay as string };
+const clean = (v: unknown): string => (typeof v === "string" ? v.trim() : "");
+
+export function contactFor(city?: ContactSource | null): Contact {
+  const t = city?.tenant && city.tenant.active ? city.tenant : null;
+  const phone = clean(t?.phone) || clean(city?.customPhone) || clean(NETWORK.phone);
+  const phoneDisplay =
+    (clean(t?.phone) && clean(t?.phoneDisplay)) ||
+    (clean(city?.customPhone) && clean(city?.customPhoneDisplay)) ||
+    clean(NETWORK.phoneDisplay) ||
+    phone;
   return {
-    tel: mobile.phone,
-    display: mobile.phoneDisplay,
-    mobile,
-    landline: null as null | { phone: string; phoneDisplay: string },
-    telephone: mobile.phone as string | string[],
+    phone,
+    phoneDisplay: phone ? phoneDisplay || phone : "",
+    whatsapp: (clean(t?.whatsapp) || clean(city?.customWhatsapp) || clean(NETWORK.whatsapp)).replace(/[^0-9]/g, ""),
+    email: clean(t?.email) || clean(city?.customEmail) || clean(NETWORK.email),
   };
 }
 
-/** WhatsApp de una ciudad: el de su delegación. */
-export function waFor(_whatsapp: string, ccaa?: string, lat?: number, lng?: number, provincia?: string): string {
-  return delegacionPara(ccaa, lat, lng, provincia).whatsapp;
-}
+/** Página del formulario de la raíz (las ciudades llevan el suyo en #formulario). */
+export const FORM_URL = `https://www.${NETWORK.domain}/contacto/#formulario`;

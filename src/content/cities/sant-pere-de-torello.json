@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Solicita cita rápida",
-      "body": "Contacta por teléfono o WhatsApp. Describe la situación de tu BMW y te daremos una primera orientación sobre el tipo de intervención necesaria y el plazo estimado."
+      "body": "Contacta por el formulario. Describe la situación de tu BMW y te daremos una primera orientación sobre el tipo de intervención necesaria y el plazo estimado."
     },
     {
       "title": "Diagnóstico integral",
@@ -144,10 +144,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

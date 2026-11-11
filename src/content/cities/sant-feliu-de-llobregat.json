@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email con cada pieza, mano de obra y el IVA. Comparamos el coste con el del servicio oficial para que veas con claridad el ahorro que consigues."
+      "body": "Recibirás un presupuesto detallado por escrito con cada pieza, mano de obra y el IVA. Comparamos el coste con el del servicio oficial para que veas con claridad el ahorro que consigues."
     },
     {
       "title": "Tu autorización",
@@ -139,7 +139,7 @@
     },
     {
       "q": "Me han dado un presupuesto en el concesionario de Barcelona que me parece una locura, ¿podéis darme una segunda opinión?",
-      "a": "Por supuesto. Es una de nuestras especialidades. Tráenos el presupuesto que te han dado o envíanoslo por WhatsApp. Lo analizaremos punto por punto y te daremos nuestra alternativa con un presupuesto cerrado. En la mayoría de los casos, nuestros clientes se ahorran entre un 30% y un 50% por la misma operación con la misma calidad."
+      "a": "Por supuesto. Es una de nuestras especialidades. Tráenos el presupuesto que te han dado o cuéntanoslo en el formulario. Lo analizaremos punto por punto y te daremos nuestra alternativa con un presupuesto cerrado. En la mayoría de los casos, nuestros clientes se ahorran entre un 30% y un 50% por la misma operación con la misma calidad."
     },
     {
       "q": "¿Qué diferencia hay entre recambio OE y original BMW?",
@@ -155,14 +155,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, en las mejores manos de Sant Feliu",
-  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Contacta con nosotros por teléfono o WhatsApp y descubre por qué cada vez más propietarios de BMW del Baix Llobregat confían en nosotros.",
+  "closingCta": "Pide tu presupuesto cerrado y sin compromiso. Contacta con nosotros por el formulario y descubre por qué cada vez más propietarios de BMW del Baix Llobregat confían en nosotros.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

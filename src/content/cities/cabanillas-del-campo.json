@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita",
-      "body": "Nos llamas o escribes y te damos cita según la urgencia de la avería."
+      "body": "Nos escribes por el formulario y te damos cita según la urgencia de la avería."
     },
     {
       "title": "Diagnosis con escáner oficial",
@@ -109,14 +109,14 @@
     }
   ],
   "closingHeadline": "Tu BMW listo sin perder horas de trabajo",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

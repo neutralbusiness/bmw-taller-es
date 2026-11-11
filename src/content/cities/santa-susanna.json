@@ -7,7 +7,7 @@
   "lat": 41.6543,
   "lng": 2.6902,
   "metaTitle": "Taller BMW en Santa Susanna | Costa Maresme, sal y turismo",
-  "metaDescription": "Taller BMW en Santa Susanna, costa del Maresme. Especialistas en corrosión marina, climatización y desgaste estival turístico. Llama al 631 687 779.",
+  "metaDescription": "Taller BMW en Santa Susanna, costa del Maresme. Especialistas en corrosión marina, climatización y desgaste estival turístico. Pide cita por el formulario.",
   "heroSubtitle": "Tu BMW frente al mar en Santa Susanna merece protección contra la sal y la humedad costera. Servicio técnico especializado.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Solicita cita",
-      "body": "Llámanos o escríbenos por WhatsApp. Te atendemos con rapidez, especialmente durante la temporada de verano."
+      "body": "Escríbenos por el formulario. Te atendemos con rapidez, especialmente durante la temporada de verano."
     },
     {
       "title": "Diagnóstico costero ampliado",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

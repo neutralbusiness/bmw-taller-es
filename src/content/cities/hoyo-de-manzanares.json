@@ -124,7 +124,7 @@
       "a": "Sí, es un punto que revisamos siempre en coches con ese perfil de uso."
     },
     {
-      "q": "¿Puedo llamar antes de traer el coche?",
+      "q": "¿Puedo consultar antes de traer el coche?",
       "a": "Te lo recomendamos, así orientamos mejor la cita."
     },
     {
@@ -133,14 +133,14 @@
     }
   ],
   "closingHeadline": "Un especialista en BMW para la sierra noroeste de Madrid",
-  "closingCta": "Llámanos y cuéntanos qué le pasa a tu coche",
+  "closingCta": "Escríbenos y cuéntanos qué le pasa a tu coche",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34679176858",
-    "phoneDisplay": "679 176 858",
-    "whatsapp": "34679176858",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

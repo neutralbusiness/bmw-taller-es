@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto detallado por WhatsApp o email con cada concepto desglosado. Te mostraremos el ahorro real frente al concesionario oficial para que puedas comparar y decidir con toda la información."
+      "body": "Recibirás un presupuesto detallado por escrito con cada concepto desglosado. Te mostraremos el ahorro real frente al concesionario oficial para que puedas comparar y decidir con toda la información."
     },
     {
       "title": "Tu autorización",
@@ -155,14 +155,14 @@
     }
   ],
   "closingHeadline": "Tu especialista BMW en Olesa de Bonesvalls",
-  "closingCta": "Pide tu cita para una revisión o diagnóstico. Contacta con nosotros por teléfono, WhatsApp o email y te daremos un presupuesto cerrado para tu BMW aquí en Olesa de Bonesvalls.",
+  "closingCta": "Pide tu cita para una revisión o diagnóstico. Contacta con nosotros por el formulario y te daremos un presupuesto cerrado para tu BMW aquí en Olesa de Bonesvalls.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

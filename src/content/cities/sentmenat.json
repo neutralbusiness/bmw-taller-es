@@ -144,10 +144,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -173,7 +173,7 @@
         "h2": "Presupuesto cerrado y por escrito",
         "parrafos": [
           "Hay quien llega aquí buscando «precios cerrados». Lo que sí podemos asegurar es el método: el presupuesto se entrega por escrito y ningún trabajo empieza sin tu aprobación. La diagnosis es un trabajo técnico y también se presupuesta antes de conectar el equipo.",
-          "El precio depende del modelo, del motor y de la pieza, y ninguna cifra genérica te dice nada sobre tu coche. Llama con modelo, año y kilometraje y te damos un número concreto."
+          "El precio depende del modelo, del motor y de la pieza, y ninguna cifra genérica te dice nada sobre tu coche. Escribe con modelo, año y kilometraje y te damos un número concreto."
         ]
       },
       {
@@ -190,7 +190,7 @@
         "a": "Tallcar, en la calle Suiza 6 de Castellar del Vallès, a 6,6 km según el localizador de bmw.es."
       },
       {
-        "q": "¿Me dais el precio por teléfono?",
+        "q": "¿Me dais el precio por adelantado?",
         "a": "Te orientamos con modelo, año y kilometraje, y el presupuesto definitivo se entrega por escrito antes de empezar."
       },
       {

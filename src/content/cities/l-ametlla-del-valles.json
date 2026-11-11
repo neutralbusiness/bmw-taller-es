@@ -124,7 +124,7 @@
       "a": "Es un servicio muy solicitado, sobre todo revisando turbo, caja y refrigeración."
     },
     {
-      "q": "¿Puedo llamar antes de traer el coche?",
+      "q": "¿Puedo consultar antes de traer el coche?",
       "a": "Te lo recomendamos, así orientamos mejor la cita según el síntoma."
     },
     {
@@ -137,10 +137,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

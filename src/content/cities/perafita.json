@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y evaluación inicial",
-      "body": "Nos describes la incidencia por teléfono o WhatsApp. Con la información del modelo, kilometraje y síntomas, preparamos el diagnóstico antes de ver el vehículo."
+      "body": "Nos describes la incidencia por el formulario. Con la información del modelo, kilometraje y síntomas, preparamos el diagnóstico antes de ver el vehículo."
     },
     {
       "title": "Diagnóstico con equipo BMW",
@@ -124,7 +124,7 @@
     },
     {
       "q": "¿Qué hago si mi BMW no arranca en invierno por las heladas?",
-      "a": "Llámanos y evaluaremos si es un problema de batería, bujías de precalentamiento o sistema de arranque. En la mayoría de casos podemos solucionarlo sin necesidad de grúa."
+      "a": "Escríbenos y evaluaremos si es un problema de batería, bujías de precalentamiento o sistema de arranque. En la mayoría de casos podemos solucionarlo sin necesidad de grúa."
     },
     {
       "q": "¿Trabajáis con BMW diésel y gasolina?",
@@ -135,7 +135,7 @@
       "a": "Sí, a 750 metros el aire es menos denso y el motor puede perder ligeramente potencia. Verificamos que los sensores de presión y el turbo funcionen correctamente para compensar este efecto."
     },
     {
-      "q": "¿Puedo pedir presupuesto por WhatsApp antes de llevar el coche?",
+      "q": "¿Puedo pedir presupuesto por el formulario antes de llevar el coche?",
       "a": "Por supuesto. Envíanos fotos, el modelo exacto y una descripción del problema. Te daremos una estimación orientativa antes de la visita presencial."
     }
   ],
@@ -144,10 +144,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -173,7 +173,7 @@
         "h2": "111,2 km hasta Sant Joan Despí",
         "parrafos": [
           "La ruta hasta Dasercars Barcelona sale por la BP-4653, enlaza con la C-62 y la C-25 y baja por la C-16 y la B-20: 111,2 km por carretera, 76,2 en línea recta. No hay ninguna carretera principal a menos de tres kilómetros del centro.",
-          "Con esa distancia, lo honesto es decirlo: para revisiones y reparaciones corrientes, mejor cerca. El viaje encaja con averías de BMW que no han tenido solución en la comarca, y siempre con una llamada previa en la que expliques qué le pasa al coche."
+          "Con esa distancia, lo honesto es decirlo: para revisiones y reparaciones corrientes, mejor cerca. El viaje encaja con averías de BMW que no han tenido solución en la comarca, y siempre con un mensaje previo en el que expliques qué le pasa al coche."
         ]
       },
       {

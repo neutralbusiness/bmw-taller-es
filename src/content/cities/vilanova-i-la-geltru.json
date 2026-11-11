@@ -145,10 +145,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -174,7 +174,7 @@
         "h2": "Por la C-31 y la C-32 hasta Sant Joan Despí",
         "parrafos": [
           "La ruta más corta desde el centro sale por la C-31, sigue por la C-32 y entra por la B-25: 39,3 km por carretera, 32,4 en línea recta.",
-          "Si el viaje es por una avería concreta, una llamada previa con el modelo, el año, los kilómetros y lo que hace el coche sirve para saber si hace falta bajar y para tener el recambio pedido."
+          "Si el viaje es por una avería concreta, un mensaje previo con el modelo, el año, los kilómetros y lo que hace el coche sirve para saber si hace falta bajar y para tener el recambio pedido."
         ]
       },
       {

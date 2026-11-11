@@ -8,7 +8,7 @@
  * parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, callPhones, waFor } from "../../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, contactFor } from "../../lib/network.ts";
 import { tituloVeraz, descripcionVeraz } from "../../lib/veraz.ts";
 import { SOCIOS } from "../../lib/socios.ts";
 
@@ -36,7 +36,7 @@ interface CityContent {
   zoneAccessRoutes?: string[];
   faqLocal: Array<{ q: string; a: string }>;
   closingCta: string;
-  tenant?: { active?: boolean; phone?: string; phoneDisplay?: string; whatsapp?: string };
+  tenant?: { active?: boolean; phone?: string; phoneDisplay?: string; whatsapp?: string; email?: string };
   local?: {
     version: 3;
     revisado: string;
@@ -55,11 +55,8 @@ function llmsLocal(city: CityContent): string {
   const L = city.local!;
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const socio = L.socio ? SOCIOS[L.socio.id] : undefined;
-  const t = city.tenant && city.tenant.active !== false ? city.tenant : undefined;
-  // Teléfono por zona (regla del 21-oct-2026): el bloque tenant del JSON se ignora.
-  const callL = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng, (city as any).province);
-  const phoneDisplay = callL.display;
-  const phone = callL.mobile.phone;
+  // Contacto: el de la ciudad o, si no tiene, el de la red. Vacío = solo formulario.
+  const contact = contactFor(city);
   const out: string[] = [];
   out.push(`# ${city.metaTitle}`, "", `> ${L.entradilla}`, "");
   out.push("## Quién atiende esta ciudad", "");
@@ -70,9 +67,13 @@ function llmsLocal(city: CityContent): string {
     out.push(`- Horario: ${socio.horario}`);
     out.push(`- Ficha del taller: ${socio.urlFicha}`);
   } else {
-    out.push(`- ${socio?.nombre ?? "Taller de la red"}. Su dirección no está publicada; se facilita al llamar.`);
+    out.push(`- ${socio?.nombre ?? "Taller de la red"}. Su dirección no está publicada; se facilita al pedir cita por el formulario.`);
   }
-  out.push(`- Teléfono de esta página: ${phoneDisplay} (${phone})`, `- Web: ${canonical}/`, "");
+  out.push(`- Contacto: formulario de esta página (${canonical}/#formulario)`);
+  if (contact.phone) out.push(`- Teléfono de esta página: ${contact.phoneDisplay} (${contact.phone})`);
+  if (contact.whatsapp) out.push(`- WhatsApp: +${contact.whatsapp}`);
+  if (contact.email) out.push(`- Email: ${contact.email}`);
+  out.push(`- Web: ${canonical}/`, "");
   out.push(`## Datos de ${city.name} (con fuente)`, "");
   for (const d of L.datos) out.push(`- ${d.etiqueta}: ${d.valor} — fuente: ${d.fuente}${d.url ? ` (${d.url})` : ""}`);
   out.push("");
@@ -108,8 +109,8 @@ export const GET: APIRoute = ({ props }) => {
       headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=300, s-maxage=3600" },
     });
   }
-  // Llamada: la delegación que atiende la ciudad (Madrid o Barcelona).
-  const callC = callPhones(NETWORK.phone, NETWORK.phoneDisplay, city.ccaa, (city as any).lat, (city as any).lng, (city as any).province);
+  // Contacto: el de la ciudad o, si no tiene, el de la red. Vacío = solo formulario.
+  const contact = contactFor(city);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
 
@@ -122,7 +123,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("");
   lines.push(
     `Página de ${NETWORK.brand}, red independiente de talleres especialistas BMW y MINI, para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
-    `La red tiene un taller de referencia en cada zona: Dasercars en Madrid (Calle Valgrande, 17, Alcobendas; 679 176 858) y en Barcelona (Carrer del Tambor del Bruc, 3, Sant Joan Despí; 631 687 779), y ASF Motors en Zaragoza (Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva; 614 607 718). ` +
+    `La red tiene un taller de referencia en cada zona: Dasercars en Madrid (Calle Valgrande, 17, Alcobendas) y en Barcelona (Carrer del Tambor del Bruc, 3, Sant Joan Despí), y ASF Motors en Zaragoza (Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva). ` +
     `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto cerrado por escrito antes de tocar nada. ` +
     `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnosis electrónica, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );
@@ -160,13 +161,12 @@ export const GET: APIRoute = ({ props }) => {
   // ───── Contacto ─────
   lines.push("## Contacto");
   lines.push("");
-  lines.push(`- Email: ${NETWORK.email}`);
-  lines.push(`- Teléfono: ${callC.display} (${[callC.landline?.phone, callC.mobile.phone].filter(Boolean).join(" - ")})`);
-  lines.push(`- WhatsApp: +${waFor(NETWORK.whatsapp, city.ccaa, (city as any).lat, (city as any).lng, (city as any).province)}`);
+  lines.push(`- Formulario de contacto (canal de contacto de la web): ${canonical}/#formulario`);
+  if (contact.phone) lines.push(`- Teléfono: ${contact.phoneDisplay} (${contact.phone})`);
+  if (contact.whatsapp) lines.push(`- WhatsApp: +${contact.whatsapp}`);
+  if (contact.email) lines.push(`- Email: ${contact.email}`);
   lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
-  lines.push(
-    `- Formulario de contacto recomendado: enviar email a ${NETWORK.email} con asunto "Consulta desde ${city.name}" indicando marca, modelo, año y descripción del problema o servicio buscado.`,
-  );
+  lines.push(`- Qué indicar en el formulario: marca, modelo, año y descripción del problema o servicio buscado.`);
   lines.push("");
 
   // ───── Servicios ─────
@@ -264,7 +264,7 @@ export const GET: APIRoute = ({ props }) => {
     `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
     `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
     `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `teléfono, email y área servida.`,
+    `y área servida.`,
   );
   lines.push("");
 

@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y cita previa",
-      "body": "Llámanos o escríbenos por WhatsApp para agendar tu visita. Te indicamos disponibilidad inmediata y puedes dejarnos tu BMW sin esperas."
+      "body": "Escríbenos por el formulario para agendar tu visita. Te indicamos disponibilidad inmediata y puedes dejarnos tu BMW sin esperas."
     },
     {
       "title": "Diagnóstico electrónico completo",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

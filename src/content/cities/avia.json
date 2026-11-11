@@ -135,7 +135,7 @@
     },
     {
       "q": "¿Qué hago si mi BMW se queda parado en la C-16 cerca de Avià?",
-      "a": "Llámanos al 631 687 779 y gestionamos la asistencia lo antes posible."
+      "a": "Escríbenos y gestionamos la asistencia lo antes posible."
     }
   ],
   "closingHeadline": "Tu BMW merece un taller que entienda las carreteras del Berguedà",
@@ -143,10 +143,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

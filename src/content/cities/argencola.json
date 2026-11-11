@@ -7,7 +7,7 @@
   "lat": 41.5949,
   "lng": 1.4695,
   "metaTitle": "Taller BMW para Argençola (Anoia) | Especialista independiente",
-  "metaDescription": "Taller BMW para Argençola, Alta Anoia. Especialistas en desgaste por sequedad extrema y carreteras de frontera comarcal. Llama al 622 552 992.",
+  "metaDescription": "Taller BMW para Argençola, Alta Anoia. Especialistas en desgaste por sequedad extrema y carreteras de frontera comarcal. Pide cita por el formulario.",
   "heroSubtitle": "Servicio BMW especializado en la frontera entre Anoia y Conca de Barberà. Protegemos tu vehículo del clima más seco de Barcelona.",
   "trustChips": [
     {
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llámanos, envíanos un WhatsApp o un correo. Describenos el problema o la revisión que necesitas y agendamos tu cita."
+      "body": "Escríbenos por el formulario. Describenos el problema o la revisión que necesitas y agendamos tu cita."
     },
     {
       "title": "Diagnóstico exhaustivo",
@@ -147,10 +147,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

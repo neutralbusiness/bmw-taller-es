@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Contacto y valoración",
-      "body": "Nos cuentas la avería o el mantenimiento pendiente por teléfono o WhatsApp y te damos una primera orientación."
+      "body": "Nos cuentas la avería o el mantenimiento pendiente por el formulario y te damos una primera orientación."
     },
     {
       "title": "Diagnosis con equipo BMW",
@@ -105,14 +105,14 @@
     }
   ],
   "closingHeadline": "Tu BMW, cuidado sin bajar de la sierra",
-  "closingCta": "Escríbenos o llámanos y te damos cita.",
+  "closingCta": "Escríbenos por el formulario y te damos cita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [
@@ -171,7 +171,7 @@
         "a": "68,6 km por la M-133, la M-131, la M-127 y la A-1 hasta Alcobendas."
       },
       {
-        "q": "¿Puedo consultar antes por teléfono?",
+        "q": "¿Puedo consultar antes por el formulario?",
         "a": "Sí, y desde aquí es lo recomendable: con modelo, año, kilometraje y el síntoma se puede orientar el problema antes de bajar."
       }
     ],

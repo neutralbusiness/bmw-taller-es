@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Consulta personalizada",
-      "body": "Contacta con nosotros por teléfono o WhatsApp. Evaluamos tus necesidades, te orientamos sobre la intervención más adecuada y programamos una cita que se adapte a tu agenda profesional."
+      "body": "Contacta con nosotros por el formulario. Evaluamos tus necesidades, te orientamos sobre la intervención más adecuada y programamos una cita que se adapte a tu agenda profesional."
     },
     {
       "title": "Diagnóstico exhaustivo",
@@ -145,10 +145,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {

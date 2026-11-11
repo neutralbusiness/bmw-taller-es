@@ -20,7 +20,7 @@
     },
     {
       "icon": "📱",
-      "text": "Coordinación por WhatsApp"
+      "text": "Coordinación por el formulario"
     },
     {
       "icon": "🛡️",
@@ -29,11 +29,11 @@
   ],
   "introLocal": "Sant Jaume de Frontanyà ostenta un récord que sus 28 habitantes llevan con orgullo discreto: es el municipio más pequeño de Cataluña. Encaramado a 1.070 metros de altitud en el extremo noreste del Berguedà, rozando ya el Ripollès, es conocido sobre todo por su extraordinaria iglesia románica del siglo XI, una joya arquitectónica que atrae visitantes de toda Europa. Pero más allá del monumento, Sant Jaume es un pueblo vivo donde un puñado de familias ha decidido que merece la pena resistir en la montaña.\n\nVivir en el municipio más pequeño de Cataluña tiene consecuencias prácticas evidentes. No hay servicios de ningún tipo. La compra se hace en Borredà o, más probablemente, en Berga. El médico está en otro pueblo. La escuela, en otro. Y el taller de coches más cercano capaz de diagnosticar un BMW moderno queda a más de una hora de conducción por carreteras de montaña. Cada gestión del vehículo se convierte en una jornada perdida.\n\nLos BMW de Sant Jaume de Frontanyà tienen una doble vida. Por un lado, son los coches de los residentes permanentes, personas vinculadas a la ganadería, el turismo rural o el teletrabajo que necesitan un vehículo fiable para todo el año. Por otro, son los coches de fin de semana de propietarios de segundas residencias que suben desde Barcelona, Vic o Manresa y que encuentran en el pueblo un refugio de paz. Ambos perfiles comparten una necesidad: un BMW que funcione sin fallo cuando lo necesitan.\n\nLa carretera que sube a Sant Jaume desde Borredà es un ejercicio de paciencia. Estrecha, con curvas encadenadas y desniveles que ponen a prueba la mecánica del coche en cada trayecto. En invierno, la carretera puede amanecer con hielo negro, el más traicionero, invisible hasta que las ruedas pierden adherencia. En otoño, las hojas mojadas cubren el asfalto como una alfombra resbaladiza. En primavera, las lluvias arrastran tierra y piedras al firme. Solo en verano la conducción se acerca a lo que un manual de BMW consideraría normal.\n\nLa geografía añade una particularidad más: Sant Jaume es un final de trayecto. La BV-4656 muere en el pueblo, de modo que aquí no pasa nadie de camino a ningún sitio y cada desplazamiento implica recorrer la misma carretera de montaña dos veces.\n\nA los propietarios de fin de semana les recomendamos además una solución práctica: neumáticos cuatro estaciones homologados. En un pueblo donde las casas de piedra no tienen garaje donde almacenar un segundo juego de ruedas, el compromiso de un buen all-season evita el cambio estacional sin renunciar a seguridad sobre nieve ocasional. Nosotros nos encargamos de la homologación correcta de medidas e índices para cada modelo.\n\nNuestro compromiso con Sant Jaume de Frontanyà es tan sólido como su iglesia románica: duradero y sin fisuras. El municipio más pequeño de Cataluña merece un servicio BMW del tamaño que necesite.",
   "servicesIntro": "Ofrecemos todos los servicios de mantenimiento y reparación BMW, desde la mecánica rápida hasta las intervenciones complejas, con especial atención a los vehículos que operan en condiciones de montaña y uso estacional.",
-  "processIntro": "Hemos adaptado nuestro proceso a la realidad de los pueblos más pequeños y remotos del Berguedà. Todo funciona con una llamada o un WhatsApp.",
+  "processIntro": "Hemos adaptado nuestro proceso a la realidad de los pueblos más pequeños y remotos del Berguedà. Todo funciona con un mensaje.",
   "processSteps": [
     {
       "title": "Primer contacto",
-      "body": "Llámanos o escríbenos contándonos qué necesita tu BMW. Si es una revisión rutinaria o un problema concreto, danos los detalles y te orientamos sobre plazos y costes aproximados."
+      "body": "Escríbenos por el formulario contándonos qué necesita tu BMW. Si es una revisión rutinaria o un problema concreto, danos los detalles y te orientamos sobre plazos y costes aproximados."
     },
     {
       "title": "Diagnóstico BMW profesional",
@@ -120,7 +120,7 @@
     },
     {
       "q": "¿Qué hago si el BMW no arranca un domingo por la mañana?",
-      "a": "Escríbenos por WhatsApp explicando qué ocurre."
+      "a": "Escríbenos por el formulario explicando qué ocurre."
     }
   ],
   "closingHeadline": "28 vecinos, un taller BMW de verdad",
@@ -128,10 +128,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34622552992",
-    "phoneDisplay": "622 552 992",
-    "whatsapp": "34622552992",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
@@ -163,7 +163,7 @@
         "id": "cuando-merece",
         "h2": "Cuándo merecen la pena 131 kilómetros",
         "parrafos": [
-          "Para un cambio de aceite o de pastillas, no. Para un diagnóstico que nadie ha cerrado, una avería de un diésel N57 o B57, o un trabajo de escape y gases que pida la homologación REDISTA, sí puede merecerla. Una llamada previa con modelo, año y kilometraje te dice si conviene el viaje.",
+          "Para un cambio de aceite o de pastillas, no. Para un diagnóstico que nadie ha cerrado, una avería de un diésel N57 o B57, o un trabajo de escape y gases que pida la homologación REDISTA, sí puede merecerla. Un mensaje previo con modelo, año y kilometraje te dice si conviene el viaje.",
           "Sant Jaume de Frontanyà pasó de 26 vecinos en 2015 a 25 en 2025, en un término de 21,26 km²."
         ]
       }

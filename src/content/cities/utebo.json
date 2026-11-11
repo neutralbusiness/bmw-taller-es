@@ -41,7 +41,7 @@
     },
     {
       "title": "Presupuesto cerrado",
-      "body": "Recibirás un presupuesto claro y detallado por WhatsApp o email. Especificamos cada pieza, la mano de obra y te mostramos el ahorro comparado con el servicio oficial de Zaragoza. Sin sorpresas."
+      "body": "Recibirás un presupuesto claro y detallado por escrito. Especificamos cada pieza, la mano de obra y te mostramos el ahorro comparado con el servicio oficial de Zaragoza. Sin sorpresas."
     },
     {
       "title": "Tu autorización",
@@ -145,18 +145,18 @@
     },
     {
       "q": "Estoy en el Polígono El Águila y se me ha encendido un testigo de avería, ¿puedo ir directamente?",
-      "a": "Sí, pero llámanos antes si es posible. Así podremos organizarnos para atenderte en cuanto llegues y conectar el coche a la máquina de diagnosis ISTA lo antes posible para ver qué ocurre."
+      "a": "Sí, pero escríbenos antes si es posible. Así podremos organizarnos para atenderte en cuanto llegues y conectar el coche a la máquina de diagnosis ISTA lo antes posible para ver qué ocurre."
     }
   ],
   "closingHeadline": "Tu especialista BMW de confianza en Utebo",
-  "closingCta": "Pide tu presupuesto sin compromiso. Llámanos o envíanos un WhatsApp y compara lo que puedes ahorrar en el mantenimiento y reparación de tu BMW en Utebo.",
+  "closingCta": "Pide tu presupuesto sin compromiso. Escríbenos por el formulario y compara lo que puedes ahorrar en el mantenimiento y reparación de tu BMW en Utebo.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   }
 }

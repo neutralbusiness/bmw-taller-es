@@ -124,7 +124,7 @@
       "a": "Sí, trabajamos toda la gama independientemente del kilometraje."
     },
     {
-      "q": "¿Dais presupuesto por WhatsApp con fotos?",
+      "q": "¿Dais presupuesto por escrito con fotos?",
       "a": "Podemos dar una orientación, pero el presupuesto cerrado llega tras la diagnosis en taller."
     }
   ],
@@ -133,10 +133,10 @@
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34673506793",
-    "phoneDisplay": "673 506 793",
-    "whatsapp": "34673506793",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "zoneNeighborhoods": [

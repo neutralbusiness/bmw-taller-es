@@ -24,7 +24,7 @@
     },
     {
       "icon": "📱",
-      "text": "Cita por WhatsApp"
+      "text": "Cita por el formulario"
     },
     {
       "icon": "🚘",
@@ -37,7 +37,7 @@
   "processSteps": [
     {
       "title": "Reserva tu cita en segundos",
-      "body": "Un mensaje de WhatsApp o una llamada rápida es suficiente. Te confirmamos fecha y hora de inmediato, adaptándonos a tu rutina entre Calldetenes y Vic."
+      "body": "Un mensaje por el formulario es suficiente. Te confirmamos fecha y hora de inmediato, adaptándonos a tu rutina entre Calldetenes y Vic."
     },
     {
       "title": "Recepción y diagnóstico express",
@@ -45,7 +45,7 @@
     },
     {
       "title": "Aprobación y ejecución",
-      "body": "Te enviamos el presupuesto detallado por WhatsApp con fotos si es necesario. Apruebas desde el móvil y arrancamos sin demora. Sin papeleos, sin visitas intermedias."
+      "body": "Te enviamos el presupuesto detallado por escrito con fotos si es necesario. Apruebas desde el móvil y arrancamos sin demora. Sin papeleos, sin visitas intermedias."
     }
   ],
   "commonIssuesIntro": "El perfil de uso urbano-periférico de los BMW de Calldetenes genera problemas específicos que vemos con frecuencia en nuestro taller y que sabemos resolver con eficacia.",
@@ -78,7 +78,7 @@
     },
     {
       "title": "Procesos pensados para tu ritmo",
-      "body": "Cita rápida, presupuesto digital, aprobación por WhatsApp. Todo diseñado para que no pierdas ni un minuto más de lo necesario en el mantenimiento de tu BMW."
+      "body": "Cita rápida, presupuesto digital, aprobación por escrito. Todo diseñado para que no pierdas ni un minuto más de lo necesario en el mantenimiento de tu BMW."
     },
     {
       "title": "Diagnóstico que detecta lo que otros no ven",
@@ -127,19 +127,19 @@
       "a": "Una revisión estándar se completa habitualmente en medio día. Para intervenciones complejas te informamos del plazo exacto al aprobar el presupuesto."
     },
     {
-      "q": "¿Puedo aprobar el presupuesto por WhatsApp sin ir al taller?",
+      "q": "¿Puedo aprobar el presupuesto por escrito sin ir al taller?",
       "a": "Sí, te enviamos el presupuesto detallado con fotos si es necesario directamente a tu móvil."
     }
   ],
   "closingHeadline": "Tu BMW en Calldetenes, siempre a punto sin complicaciones",
-  "closingCta": "Mándanos un WhatsApp o llámanos ahora para reservar tu cita. Servicio BMW especializado a cinco minutos de Calldetenes, con la agilidad que tu día a día necesita.",
+  "closingCta": "Escríbenos por el formulario para reservar tu cita. Servicio BMW especializado a cinco minutos de Calldetenes, con la agilidad que tu día a día necesita.",
   "tenant": {
     "active": true,
     "businessName": "BMW Taller",
-    "phone": "+34631687779",
-    "phoneDisplay": "631 687 779",
-    "whatsapp": "34631687779",
-    "email": "info@bmw-taller.es",
+    "phone": "",
+    "phoneDisplay": "",
+    "whatsapp": "",
+    "email": "",
     "addressStreet": ""
   },
   "local": {
