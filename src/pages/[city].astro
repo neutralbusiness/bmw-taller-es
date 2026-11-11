@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
-import { NETWORK, SERVICES, contactFor } from "../lib/network.ts";
+import { NETWORK, servicesFor, contactFor } from "../lib/network.ts";
 import ContactForm from "../components/ContactForm.astro";
 import { tituloVeraz, descripcionVeraz, chipsVeraces } from "../lib/veraz.ts";
 import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF } from "../lib/socios.ts";
@@ -96,6 +96,7 @@ export async function getStaticPaths() {
 }
 
 const { city } = Astro.props as { city: CityContent };
+const SERVICES = servicesFor(city.slug);
 const metaTitulo = tituloVeraz(city);
 const metaDesc = descripcionVeraz(city);
 const chips = chipsVeraces(city.trustChips);

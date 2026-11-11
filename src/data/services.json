@@ -1,0 +1,47 @@
+{
+  "services": [
+    {
+      "id": "revision",
+      "title": "Revisiones CBS BMW",
+      "icon": "🛠️",
+      "summary": "Aceite LL-04 homologado, filtros y los 30+ puntos del plan CBS de tu BMW. Respetamos el libro de mantenimiento sin perder la garantía.",
+      "hidden": false
+    },
+    {
+      "id": "mecanica",
+      "title": "Mecánica especializada BMW",
+      "icon": "⚙️",
+      "summary": "Cadena de distribución N47/N57, embrague, suspensión adaptativa, transmisión ZF 8HP y Vanos/Valvetronic — con recambios OE o equivalente premium.",
+      "hidden": false
+    },
+    {
+      "id": "averias",
+      "title": "Diagnosis electrónica BMW",
+      "icon": "🔧",
+      "summary": "Software y equipo de diagnosis de nivel de marca, no un lector OBD genérico. Diagnóstico real antes de presupuestar: sin cambiar piezas a ciegas.",
+      "hidden": false
+    },
+    {
+      "id": "neumaticos",
+      "title": "Neumáticos y geometría",
+      "icon": "🛞",
+      "summary": "Run-flat y convencionales, montaje + equilibrado + alineación de dirección con valores originales BMW.",
+      "hidden": false
+    },
+    {
+      "id": "electronica",
+      "title": "Electrónica y codificación",
+      "icon": "💻",
+      "summary": "Centralita DME/DDE, módulos de confort, iDrive, sensores de aparcamiento, ABS/DSC, airbag y retrofit de extras (Apple CarPlay, luces LED, etc.).",
+      "hidden": false
+    },
+    {
+      "id": "itv",
+      "title": "Pre-ITV BMW",
+      "icon": "✅",
+      "summary": "Revisión exhaustiva de emisiones, luces xenón/LED adaptativas, suspensión y dirección para pasar la ITV a la primera.",
+      "hidden": false
+    }
+  ],
+  "cities": {}
+}

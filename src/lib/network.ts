@@ -4,6 +4,8 @@
  * El contenido IA por ciudad vive en src/content/cities/<slug>.json y se
  * carga vía import.meta.glob en [city].astro.
  */
+import servicesData from "../data/services.json";
+
 export const NETWORK = {
   slug: "bmw-taller",
   domain: "bmw-taller.es",
@@ -23,44 +25,20 @@ export const NETWORK = {
 
 // Servicios del taller BMW (cards en #servicios). Texto base — el copy de cada
 // ciudad puede sobreescribir vía content/cities/<slug>.json.
-export const SERVICES = [
-  {
-    id: "revision",
-    title: "Revisiones CBS BMW",
-    icon: "🛠️",
-    summary: "Aceite LL-04 homologado, filtros y los 30+ puntos del plan CBS de tu BMW. Respetamos el libro de mantenimiento sin perder la garantía.",
-  },
-  {
-    id: "mecanica",
-    title: "Mecánica especializada BMW",
-    icon: "⚙️",
-    summary: "Cadena de distribución N47/N57, embrague, suspensión adaptativa, transmisión ZF 8HP y Vanos/Valvetronic — con recambios OE o equivalente premium.",
-  },
-  {
-    id: "averias",
-    title: "Diagnosis electrónica BMW",
-    icon: "🔧",
-    summary: "Software y equipo de diagnosis de nivel de marca, no un lector OBD genérico. Diagnóstico real antes de presupuestar: sin cambiar piezas a ciegas.",
-  },
-  {
-    id: "neumaticos",
-    title: "Neumáticos y geometría",
-    icon: "🛞",
-    summary: "Run-flat y convencionales, montaje + equilibrado + alineación de dirección con valores originales BMW.",
-  },
-  {
-    id: "electronica",
-    title: "Electrónica y codificación",
-    icon: "💻",
-    summary: "Centralita DME/DDE, módulos de confort, iDrive, sensores de aparcamiento, ABS/DSC, airbag y retrofit de extras (Apple CarPlay, luces LED, etc.).",
-  },
-  {
-    id: "itv",
-    title: "Pre-ITV BMW",
-    icon: "✅",
-    summary: "Revisión exhaustiva de emisiones, luces xenón/LED adaptativas, suspensión y dirección para pasar la ITV a la primera.",
-  },
-] as const;
+// Los servicios se gestionan en el panel (Redes › Servicios), que escribe
+// src/data/services.json: ahí se añaden, se editan, se ordenan y se ocultan,
+// para toda la red o ciudad por ciudad. Un servicio oculto no llega al HTML.
+type ServiceItem = { id: string; title: string; icon: string; summary: string; hidden?: boolean };
+const SERVICES_DATA = servicesData as { services: ServiceItem[]; cities?: Record<string, string[]> };
+
+/** Servicios visibles en toda la red. */
+export const SERVICES: ServiceItem[] = SERVICES_DATA.services.filter((s) => !s.hidden);
+
+/** Servicios visibles en una ciudad: los de la red menos los ocultos en esa ciudad. */
+export function servicesFor(citySlug?: string): ServiceItem[] {
+  const off = new Set((citySlug && SERVICES_DATA.cities?.[citySlug]) || []);
+  return SERVICES.filter((s) => !off.has(s.id));
+}
 
 export const FAQ_BASE = [
   {

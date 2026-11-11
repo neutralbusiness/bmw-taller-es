@@ -8,7 +8,7 @@
  * parsear el HTML renderizado.
  */
 import type { APIRoute, GetStaticPaths } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, contactFor } from "../../lib/network.ts";
+import { NETWORK, servicesFor, FAQ_BASE, contactFor } from "../../lib/network.ts";
 import { tituloVeraz, descripcionVeraz } from "../../lib/veraz.ts";
 import { SOCIOS } from "../../lib/socios.ts";
 
@@ -52,6 +52,7 @@ interface CityContent {
 
 /** llms.txt del contenido local v3: solo hechos de la página, con fuente. */
 function llmsLocal(city: CityContent): string {
+  const SERVICES = servicesFor(city.slug);
   const L = city.local!;
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const socio = L.socio ? SOCIOS[L.socio.id] : undefined;
@@ -104,6 +105,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const GET: APIRoute = ({ props }) => {
   const city = props.city as CityContent;
+  const SERVICES = servicesFor(city.slug);
   if (city.local && city.local.version === 3) {
     return new Response(llmsLocal(city), {
       headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=300, s-maxage=3600" },
