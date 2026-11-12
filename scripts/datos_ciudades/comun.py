@@ -41,7 +41,7 @@ SOCIOS = {
         "provincia": "Barcelona",
         "lat": 41.36594,
         "lng": 2.06355,
-        "telefono": "+34622552992",
+        "telefono": "+34631687779",
         "horario": "Lunes a viernes: 9:00–14:00 y 15:00–18:00. Sábados y domingos: cerrado.",
         "horario_schema": [["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "09:00", "14:00", "15:00", "18:00"],
         "fuente": "https://www.bmw-taller.es/taller-bmw-barcelona/",
