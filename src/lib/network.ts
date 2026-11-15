@@ -47,11 +47,11 @@ export const FAQ_BASE = [
   },
   {
     q: "¿Cuánto cuesta una revisión BMW frente al concesionario?",
-    a: "Depende del modelo y del tipo de aceite (LL-01 o LL-04). Te damos presupuesto cerrado por escrito antes de tocar nada, para que puedas compararlo con el del concesionario.",
+    a: "Depende del modelo y del tipo de aceite (LL-01 o LL-04). Te damos presupuesto por escrito antes de tocar nada, para que puedas compararlo con el del concesionario. No es un precio cerrado: si al desmontar aparece otra avería, se para y se presupuesta aparte.",
   },
   {
     q: "¿Trabajáis con todos los modelos BMW?",
-    a: "Sí: Serie 1, 2, 3, 4, 5, 6, 7, 8, X1 a X7, Z4, Serie M, y los eléctricos i3, i4, i5, i7, iX1, iX3, iX. Tanto diésel (B47, N47, N57) como gasolina (B48, N20, N55, B58, S55, S58) y eléctricos/híbridos.",
+    a: "Con la gama de combustión e híbrida: Serie 1 a 8, X1 a X7, Z4, Serie M y MINI, en diésel (M47, M57, N47, N57, B47, B57), gasolina (B48, N20, N55, B58, S55, S58) e híbridos enchufables. Los 100 % eléctricos (i3, i4, iX…) no los atienden los talleres de Madrid y Barcelona.",
   },
   {
     q: "¿Tenéis software BMW de diagnóstico original?",
@@ -59,11 +59,11 @@ export const FAQ_BASE = [
   },
   {
     q: "¿Cuánto tarda la reparación?",
-    a: "Para una revisión CBS estándar, en el día. Las averías mecánicas (distribución, turbo, Vanos) suelen ser 1-3 días según disponibilidad de pieza. Te confirmamos plazo antes de empezar.",
+    a: "Una revisión CBS estándar suele hacerse en el día. Las averías mecánicas (distribución, turbo, Vanos) llevan de uno a tres días según la pieza, y la diagnosis puede pedir dejar el coche para verlo también en frío. El taller confirma el plazo antes de empezar.",
   },
   {
-    q: "¿Coche de cortesía?",
-    a: "Si la reparación se alarga más de un día, te ofrecemos coche de cortesía sujeto a disponibilidad.",
+    q: "¿Hay vehículo de sustitución?",
+    a: "En Madrid y Barcelona, Dasercars tiene vehículo de sustitución con sus propias condiciones (de pago, por días y según disponibilidad); conviene pedirlo al solicitar cita. En Zaragoza, pregúntalo a ASF Motors.",
   },
 ] as const;
 

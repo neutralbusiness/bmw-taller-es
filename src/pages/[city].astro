@@ -3,7 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK, servicesFor, contactFor } from "../lib/network.ts";
 import NbForm from "../components/NbForm.astro";
-import { tituloVeraz, descripcionVeraz, chipsVeraces } from "../lib/veraz.ts";
+import { tituloVeraz, descripcionVeraz, chipsVeraces, ciudadVeraz } from "../lib/veraz.ts";
 import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF } from "../lib/socios.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
@@ -95,7 +95,8 @@ export async function getStaticPaths() {
   }));
 }
 
-const { city } = Astro.props as { city: CityContent };
+const { city: cityRaw } = Astro.props as { city: CityContent };
+const city: CityContent = cityRaw.local && cityRaw.local.version === 3 ? cityRaw : ciudadVeraz(cityRaw);
 const SERVICES = servicesFor(city.slug);
 const metaTitulo = tituloVeraz(city);
 const metaDesc = descripcionVeraz(city);
@@ -172,7 +173,7 @@ const whatsapp = contact.whatsapp;
 const email = contact.email;
 const hasDirect = Boolean(phone || whatsapp || email);
 const businessName = t?.businessName ?? `${NETWORK.brand} · ${city.name}`;
-const hours = L ? (socio?.horario ?? "Cita previa por el formulario") : (t?.hours ?? "Lunes a Sábado · 08:00–20:00");
+const hours = L ? (socio?.horario ?? "Cita previa por el formulario") : (t?.hours ?? "Cita previa por el formulario");
 const addrStreet = t?.addressStreet;
 const addrPostal = t?.addressPostalCode;
 const geoLat = t?.lat ?? city.lat;
@@ -277,20 +278,6 @@ const autoRepair = {
   currenciesAccepted: "EUR",
   paymentAccepted: "Cash, Credit Card, Bank Transfer",
   availableLanguage: "es-ES",
-  openingHoursSpecification: [
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      opens: "09:00",
-      closes: "18:00",
-    },
-    {
-      "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Saturday"],
-      opens: "09:00",
-      closes: "13:00",
-    },
-  ],
   parentOrganization: { "@id": networkOrgId },
   hasOfferCatalog: {
     "@type": "OfferCatalog",
@@ -423,7 +410,7 @@ const schemaGraph = L
     }
   : {
       "@context": "https://schema.org",
-      "@graph": [autoRepair, organization, webPage, breadcrumb, faqEntity],
+      "@graph": [autoRepair, organization, webPage, breadcrumb, ...(allFaqs.length ? [faqEntity] : [])],
     };
 
 const introParagraphs = (Array.isArray(city.introLocal)
@@ -557,7 +544,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
       <div class="section-head">
         <span class="section-eyebrow">{!L && <span class="num">01</span>} Servicios</span>
         {L ? <h2>Servicios del taller</h2> : <h2>Qué hacemos con tu BMW en {city.name}</h2>}
-        {!L && <p class="section-lead">{city.servicesIntro}</p>}
+        {!L && city.servicesIntro && <p class="section-lead">{city.servicesIntro}</p>}
       </div>
       <div class="services-grid">
         {SERVICES.map(s => (
@@ -579,7 +566,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
       <div class="container">
         <div class="section-head">
           <span class="section-eyebrow"><span class="num">02</span> Cómo trabajamos</span>
-          <h2>Así trabajamos con tu BMW — sin sorpresas, sin medias palabras.</h2>
+          <h2>Así se trabaja con tu BMW, paso a paso.</h2>
           {city.processIntro && <p class="section-lead">{city.processIntro}</p>}
         </div>
         <div class="process-grid">
@@ -622,22 +609,24 @@ const introParagraphs = (Array.isArray(city.introLocal)
   )}
 
   {/* ─────────────────────── POR QUÉ NOSOTROS ─────────────────────── */}
+  {city.whyUs.length > 0 && (
   <section id="porque">
-    <div class="container">
-      <div class="section-head">
-        <span class="section-eyebrow"><span class="num">04</span> Por qué nosotros</span>
-        <h2>Por qué somos el taller BMW al que se vuelve.</h2>
+      <div class="container">
+        <div class="section-head">
+          <span class="section-eyebrow"><span class="num">04</span> Por qué nosotros</span>
+          <h2>Qué puedes esperar de la red</h2>
+        </div>
+        <div class="why-grid">
+          {city.whyUs.map(w => (
+            <div class="why-item">
+              <h3>{w.title}</h3>
+              <p>{w.body}</p>
+            </div>
+          ))}
+        </div>
       </div>
-      <div class="why-grid">
-        {city.whyUs.map(w => (
-          <div class="why-item">
-            <h3>{w.title}</h3>
-            <p>{w.body}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
+    </section>
+  )}
 
 {/* ─────────────────────── ZONA ─────────────────────── */}
   <section id="zona">
@@ -646,7 +635,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <span class="section-eyebrow"><span class="num">06</span> Cobertura</span>
         <h2>Atendemos en {city.name} y alrededores</h2>
       </div>
-      <p class="zone-text">{city.zoneText}</p>
+      {city.zoneText && <p class="zone-text">{city.zoneText}</p>}
       {city.zoneNeighborhoods && city.zoneNeighborhoods.length > 0 && (
         <>
           <p class="zone-label">Barrios y municipios cercanos</p>
@@ -669,6 +658,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
   </>)}
 
   {/* ─────────────────────── FAQ ─────────────────────── */}
+  {allFaqs.length > 0 && (
   <section id="faq">
     <div class="container">
       <div class="section-head">
@@ -690,6 +680,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
       </ul>
     </div>
   </section>
+  )}
 
   {/* ─────────────────────── FICHA DE DATOS (v3) ─────────────────────── */}
   {L && L.datos.length > 0 && (
@@ -758,7 +749,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
   </section>
 
   {/* ─────────────────────── CONTEXTO LOCAL (al final por SEO sin estorbar al CTA) ─────────────────────── */}
-  {!L && (
+  {!L && introParagraphs.length > 0 && (
   <section id="contexto" class="context-section">
     <div class="container">
       <div class="section-head">
@@ -801,7 +792,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <header class="section-head">
           <span class="eyebrow">Consejos para tu coche</span>
           <h2>Últimos artículos del blog</h2>
-          <p>Guías prácticas redactadas por nuestro equipo para propietarios de BMW en {city.name}.</p>
+          <p>Guías prácticas para propietarios de BMW en {city.name}.</p>
         </header>
         <ul class="blog-preview-list">
           {latestPosts.map((p) => (
@@ -865,8 +856,8 @@ const introParagraphs = (Array.isArray(city.introLocal)
           ) : (
           <p class="section-lead">
             ¿No te pilla a mano? La red {NETWORK.brand} también atiende en estas localidades
-            próximas a {city.name}, con la misma diagnosis de nivel de marca y la misma política de
-            presupuesto cerrado.
+            próximas a {city.name}, con la misma diagnosis de nivel de marca y presupuesto por
+            escrito antes de empezar.
           </p>
           )}
         </div>
@@ -932,7 +923,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
           {L ? (
             <p>Red de talleres especializados en BMW. {socio?.direccion ? `Esta zona la atiende ${socio.nombre} (${socio.municipio}).` : ""}</p>
           ) : (
-          <p>Taller especializado en BMW {t ? "" : `de la red ${NETWORK.brand}`}. Diagnosis de nivel de marca, recambios OE y presupuesto cerrado por escrito antes de tocar nada.</p>
+          <p>Taller especializado en BMW {t ? "" : `de la red ${NETWORK.brand}`}. Diagnosis de nivel de marca, recambios OE y presupuesto por escrito antes de tocar nada.</p>
           )}
           {!L && addrStreet && (
             <p style="font-size: 0.92rem; color: rgba(255,255,255,0.75); margin-bottom: 0.4rem;">
@@ -962,12 +953,12 @@ const introParagraphs = (Array.isArray(city.introLocal)
             {waUrl && <li><a href={waUrl} target="_blank" rel="noopener">WhatsApp</a></li>}
             {email && <li><a href={`mailto:${email}`}>{email}</a></li>}
             <li><a href={`/blog/`}>Blog</a></li>
-            <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">{L ? hours : "Lun–Sáb · 08:00–20:00"}</li>
+            <li style="margin-top: 0.75rem; color: rgba(255,255,255,0.45);">{hours}</li>
           </ul>
         </div>
       </div>
       <div class="footer-legal">
-        <span>© {new Date().getFullYear()} {NETWORK.brand}.{!L && ` Hecho en ${city.name}.`}</span>
+        <span>© {new Date().getFullYear()} {NETWORK.brand}.</span>
         <div class="footer-legal-links">
           <a href="https://www.bmw-taller.es/">Red completa</a>
           <a href="https://www.bmw-taller.es/zonas/">Todas las zonas</a>

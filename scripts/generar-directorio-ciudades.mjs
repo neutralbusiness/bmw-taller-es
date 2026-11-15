@@ -85,8 +85,8 @@ async function main() {
 
   const titulo = `Talleres BMW por provincia · ${total} ciudades | BMW Taller`;
   const descripcion =
-    `Directorio completo: ${total} ciudades con página propia de taller especialista BMW, ` +
-    `agrupadas por provincia. Entra en la de tu ciudad y pide cita.`;
+    `${total} municipios con página informativa de la red BMW Taller, agrupados por provincia: ` +
+    `qué taller de referencia atiende cada zona y cómo pedir presupuesto.`;
   const canonica = `${BASE}/zonas/`;
 
   // ── <head> ──
@@ -128,6 +128,7 @@ async function main() {
         inLanguage: "es-ES",
         isPartOf: { "@id": `${BASE}/#website` },
       },
+      { "@type": "WebSite", "@id": `${BASE}/#website`, url: `${BASE}/`, name: "BMW Taller", inLanguage: "es-ES" },
       {
         "@type": "BreadcrumbList",
         "@id": `${canonica}#breadcrumb`,
@@ -150,10 +151,10 @@ async function main() {
 <section class="hero"><div class="wrap hero__in"><div class="hero__copy">
 <p class="eyebrow">Cobertura</p>
 <h1 class="hero__title">Talleres BMW<br><em>por provincia</em></h1>
-<p class="hero__sub">Tenemos página propia en ${total} ciudades, con los precios, los tiempos y las averías más frecuentes de cada zona. Entra en la tuya y pide cita.</p>
+<p class="hero__sub">Hay una página informativa para ${total} municipios: qué taller de referencia atiende la zona y lo que conviene saber del uso del coche allí. Los talleres están en Alcobendas (Madrid), Sant Joan Despí (Barcelona) y Cuarte de Huerva (Zaragoza).</p>
 </div></div></section>
 <section class="sec"><div class="wrap">
-<p class="zn__intro">La red tiene un taller de referencia en cada zona: Dasercars en Madrid y Barcelona y ASF Motors en Zaragoza; desde ahí se atiende al resto de España. Cada ciudad tiene su propia página con la información de la zona.</p>
+<p class="zn__intro">La red tiene un taller de referencia en cada zona: Dasercars en Madrid y Barcelona y ASF Motors en Zaragoza; desde ahí se atiende al resto de España. Cada municipio tiene una página informativa; el coche lo atiende el taller de referencia de tu zona.</p>
 <div class="zn__grid">${bloqueProvincias(grupos)}</div>
 </div></section>
 </main>`;

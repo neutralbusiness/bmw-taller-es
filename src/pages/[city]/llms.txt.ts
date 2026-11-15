@@ -9,7 +9,7 @@
  */
 import type { APIRoute, GetStaticPaths } from "astro";
 import { NETWORK, servicesFor, FAQ_BASE, contactFor } from "../../lib/network.ts";
-import { tituloVeraz, descripcionVeraz } from "../../lib/veraz.ts";
+import { tituloVeraz, descripcionVeraz, ciudadVeraz } from "../../lib/veraz.ts";
 import { SOCIOS } from "../../lib/socios.ts";
 
 interface CityContent {
@@ -104,14 +104,15 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 export const GET: APIRoute = ({ props }) => {
-  const city = props.city as CityContent;
-  const SERVICES = servicesFor(city.slug);
-  if (city.local && city.local.version === 3) {
-    return new Response(llmsLocal(city), {
+  const cityRaw = props.city as CityContent;
+  const SERVICES = servicesFor(cityRaw.slug);
+  if (cityRaw.local && cityRaw.local.version === 3) {
+    return new Response(llmsLocal(cityRaw), {
       headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=300, s-maxage=3600" },
     });
   }
   // Contacto: el de la ciudad o, si no tiene, el de la red. Vacío = solo formulario.
+  const city = ciudadVeraz(cityRaw);
   const contact = contactFor(city);
   const canonical = `https://${city.slug}.${NETWORK.domain}`;
   const allFaqs = [...city.faqLocal, ...FAQ_BASE];
@@ -126,18 +127,18 @@ export const GET: APIRoute = ({ props }) => {
   lines.push(
     `Página de ${NETWORK.brand}, red independiente de talleres especialistas BMW y MINI, para los clientes de ${city.name} (provincia de ${city.province}, ${city.ccaa}, España). ` +
     `La red tiene un taller de referencia en cada zona: Dasercars en Madrid (Calle Valgrande, 17, Alcobendas) y en Barcelona (Carrer del Tambor del Bruc, 3, Sant Joan Despí), y ASF Motors en Zaragoza (Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva). ` +
-    `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto cerrado por escrito antes de tocar nada. ` +
+    `Diagnosis con software y equipo de nivel de marca (no un lector OBD genérico), recambios OE y presupuesto por escrito antes de tocar nada (no es un precio cerrado: si al desmontar aparece otra avería, se presupuesta aparte). En este municipio no hay taller de la red: se atiende desde el taller de referencia de la zona. ` +
     `Servicios: revisiones CBS, mecánica especializada BMW (distribución, Vanos/Valvetronic, turbo, ZF 8HP), diagnosis electrónica, electrónica y codificación, neumáticos run-flat, y pre-ITV.`,
   );
   lines.push("");
 
   // ───── Identidad ─────
-  lines.push("## Identidad del taller");
+  lines.push("## Identidad");
   lines.push("");
   lines.push(`- Nombre comercial: ${NETWORK.brand} · ${city.name}`);
   lines.push(`- Red nacional: ${NETWORK.brand} (${NETWORK.domain})`);
   lines.push(`- Sector: Taller especializado en BMW`);
-  lines.push(`- Web oficial de esta ciudad: ${canonical}/`);
+  lines.push(`- Página de la red para esta ciudad: ${canonical}/`);
   lines.push(`- Web de la red completa: https://www.${NETWORK.domain}/`);
   lines.push("");
 
@@ -167,7 +168,7 @@ export const GET: APIRoute = ({ props }) => {
   if (contact.phone) lines.push(`- Teléfono: ${contact.phoneDisplay} (${contact.phone})`);
   if (contact.whatsapp) lines.push(`- WhatsApp: +${contact.whatsapp}`);
   if (contact.email) lines.push(`- Email: ${contact.email}`);
-  lines.push(`- Horario: Lunes a Sábado · 08:00–20:00`);
+  lines.push(`- Horario: el del taller de referencia que atienda la consulta (Madrid y Barcelona: lunes a viernes de 9:00 a 14:00 y de 15:00 a 18:00; Zaragoza: lunes a viernes de 9:00 a 13:30 y de 15:00 a 19:00, sábados de 9:00 a 13:00).`);
   lines.push(`- Qué indicar en el formulario: marca, modelo, año y descripción del problema o servicio buscado.`);
   lines.push("");
 
@@ -244,8 +245,8 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("## Política y garantías");
   lines.push("");
   lines.push(
-    "- Presupuesto cerrado por escrito antes de iniciar cualquier reparación. " +
-    "El precio acordado es el precio final. No hay sobrecostes sin autorización previa del cliente.",
+    "- Presupuesto por escrito antes de iniciar cualquier reparación. No es un precio cerrado: " +
+    "si al desmontar aparece otra avería, el taller para, la enseña y la presupuesta aparte.",
   );
   lines.push(
     "- El cliente autoriza explícitamente cada intervención. Si durante una reparación aparece una avería no detectada en el diagnóstico, el taller para y consulta antes de continuar.",
@@ -256,17 +257,14 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("- Diagnosis con software y equipo de nivel de marca, no un lector OBD genérico.");
   lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS para mantener la garantía.");
   lines.push("- Factura desglosada en la entrega.");
-  lines.push("- Seguimiento post-entrega para confirmar que la reparación es satisfactoria.");
   lines.push("");
 
   // ───── Datos estructurados / Schema.org ─────
   lines.push("## Datos estructurados");
   lines.push("");
   lines.push(
-    `Esta web publica un JSON-LD de tipo LocalBusiness con id ${canonical}/, ` +
-    `accesible incrustado en la página principal. Incluye dirección (localidad ${city.name}, ` +
-    `región ${city.province}, país ES)${city.lat && city.lng ? `, coordenadas geo (${city.lat}, ${city.lng})` : ""}, ` +
-    `y área servida.`,
+    `Esta página publica JSON-LD con la organización de la red y el área servida (${city.name}). ` +
+    `No declara dirección en ${city.name} porque en este municipio no hay taller de la red.`,
   );
   lines.push("");
 
@@ -280,7 +278,7 @@ export const GET: APIRoute = ({ props }) => {
   lines.push("---");
   lines.push("");
   lines.push(`Última actualización del contenido: generado dinámicamente desde ${canonical}/llms.txt`);
-  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red nacional de talleres especializados en BMW con presencia en las principales ciudades españolas.`);
+  lines.push(`Network: ${NETWORK.brand} (${NETWORK.domain}) — red de talleres especializados en BMW y MINI con un taller de referencia en Madrid, Barcelona y Zaragoza.`);
 
   const body = lines.join("\n");
 

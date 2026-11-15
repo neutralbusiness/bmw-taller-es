@@ -8,6 +8,8 @@
  */
 import type { APIRoute } from "astro";
 import { NETWORK, SERVICES, FAQ_BASE, contactFor } from "../lib/network.ts";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 
 interface CityRef { slug: string; name: string; province: string; ccaa: string; }
 
@@ -84,13 +86,45 @@ export const GET: APIRoute = () => {
     lines.push("");
   }
 
+  lines.push("## Guías técnicas y páginas de servicio");
+  lines.push("");
+  for (const [ruta, texto] of [
+    ["/servicios/", "Todos los servicios para BMW y MINI"],
+    ["/servicios/cadena-distribucion-bmw/", "Cadena de distribución BMW (N47, N57, B47, B57, N20)"],
+    ["/servicios/diagnosis-electronica-bmw/", "Diagnosis electrónica BMW"],
+    ["/servicios/mantenimiento-revisiones-bmw/", "Mantenimiento y revisiones según CBS"],
+    ["/servicios/embrague-volante-bimasa-bmw/", "Embrague y volante bimasa"],
+    ["/servicios/adblue-scr-bmw/", "AdBlue y sistema SCR"],
+    ["/servicios/turbo-bmw/", "Turbo"],
+    ["/servicios/pre-itv-bmw/", "Pre-ITV"],
+    ["/motores-bmw/", "Guía de motores diésel BMW: M47, M57, N47, N57, B47 y B57"],
+    ["/motores-bmw/cadena-distribucion-n47-n57/", "Cadena de distribución del N47 y el N57"],
+    ["/modelos/", "Modelos BMW: Serie 1 a 5, X1, X3 y X5"],
+    ["/preguntas-frecuentes/", "Preguntas frecuentes"],
+    ["/glosario-bmw/", "Glosario técnico BMW"],
+  ]) lines.push(`- [${texto}](${base}${ruta})`);
+  lines.push("");
+
+  type Post = { slug: string; title: string; excerpt: string; publishDate: string };
+  const posts = JSON.parse(readFileSync(join(process.cwd(), "public/blog/posts.json"), "utf8")) as Post[];
+  lines.push("## Artículos del blog");
+  lines.push("");
+  for (const p of [...posts].sort((a, b) => b.publishDate.localeCompare(a.publishDate))) {
+    lines.push(`- [${p.title}](${base}/blog/${p.slug}/) (${p.publishDate}): ${p.excerpt}`);
+  }
+  lines.push("");
+
   lines.push("## Política y garantías");
   lines.push("");
-  lines.push("- Presupuesto cerrado por escrito antes de iniciar cualquier reparación.");
+  lines.push("- Presupuesto por escrito antes de iniciar cualquier reparación. No es un precio cerrado: si al desmontar aparece otra avería, el taller para, la enseña y la presupuesta aparte.");
+  lines.push("- La diagnosis, cuando hace falta, se cobra aparte y no va incluida en el presupuesto de la reparación; se informa de su importe antes de hacerla.");
+  lines.push("- Garantía: en Madrid y Barcelona, Dasercars da dos años en piezas y mano de obra; en Zaragoza, la que indique ASF Motors en la factura (la mínima legal de una reparación es de tres meses o 2.000 km, Real Decreto 1457/1986).");
   lines.push("- Recambios OE (calidad original) o equivalente premium; recambio BMW original bajo petición.");
   lines.push("- Diagnosis con software y equipo de nivel de marca, no un lector OBD genérico.");
   lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS: la garantía del fabricante se mantiene.");
-  lines.push("- Vehículo de cortesía sujeto a disponibilidad; conviene reservarlo al pedir cita.");
+  lines.push("- Vehículo de sustitución en Madrid y Barcelona según las condiciones de Dasercars (de pago, por días); en Zaragoza, consultar con ASF Motors.");
+  lines.push("- Sin grúa ni recogida a domicilio: si el coche no circula, se lleva con la grúa del seguro, avisando antes al taller.");
+  lines.push("- Los vehículos 100 % eléctricos no se atienden en Madrid ni en Barcelona.");
   lines.push("");
 
   lines.push("---");
