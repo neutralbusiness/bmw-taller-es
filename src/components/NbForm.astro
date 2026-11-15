@@ -1,0 +1,13 @@
+---
+/**
+ * Único formulario de la web: el del panel (formulario.js pinta dentro de
+ * [data-nb-form]). Se reserva la altura para que no salte la página al cargar.
+ */
+---
+<div id="formulario" class="nb-form-box"><div data-nb-form></div></div>
+<script is:inline defer src="https://panel.neutralb.es/formulario.js"></script>
+
+<style is:global>
+  .nb-form-box { max-width: 1100px; margin: 2rem auto 0; min-height: 760px; min-width: 0; scroll-margin-top: 80px; }
+  @media (min-width: 900px) { .nb-form-box { min-height: 620px; } }
+</style>

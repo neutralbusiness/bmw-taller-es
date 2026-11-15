@@ -36,8 +36,9 @@ const heroSm = heroMovil(heroImg);
         Bing (y con él ChatGPT y Copilot) y los rastreadores de IA las siguen leyendo, y cada ciudad
         conserva su llms.txt. El middleware manda además la cabecera X-Robots-Tag equivalente. */}
     {esCiudad && !noindex && <meta name="googlebot" content="noindex, follow" />}
-    {/* Contacto solo por formulario (11-nov-2026). Las ciudades llevan su propio formulario
-        (ContactForm → /api/leads/network); este veto evita que track.js/formulario.js inyecten otro. */}
+    {/* Contacto solo por formulario (11-nov-2026). El único formulario es el del panel,
+        en el hueco [data-nb-form] de la ciudad (NbForm). Este veto solo impide que formulario.js
+        inyecte uno por su cuenta en las páginas sin hueco (blog de ciudad, 404). */}
     <meta name="nb-form" content="off" />
     {canonical && <link rel="canonical" href={canonical} />}
 
