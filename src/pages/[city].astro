@@ -951,7 +951,7 @@ const introParagraphs = (Array.isArray(city.introLocal)
         <div class="footer-col">
           <h2 class="footer-col-title">Servicios</h2>
           <ul>
-            {SERVICES.map(s => <li><a href="#servicios">{s.title}</a></li>)}
+            {SERVICES.map(s => <li><a href={L ? `https://www.${NETWORK.domain}/servicios/` : "#servicios"}>{s.title}</a></li>)}
           </ul>
         </div>
         <div class="footer-col">
