@@ -137,11 +137,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Bellvei: la ITV del Baix Penedès en casa y el taller BMW a 58,6 km",
-    "entradilla": "En el polígono Els Massets de Bellvei está la estación de ITV que usan buena parte de los pueblos de alrededor. El taller especialista de la red queda en Sant Joan Despí; aquí tienes la ruta y lo que conviene saber.",
+    "h1": "Bellvei: la ITV del Baix Penedès en casa y el taller BMW a 39,6 km",
+    "entradilla": "En el polígono Els Massets de Bellvei está la estación de ITV que usan buena parte de los pueblos de alrededor. El taller especialista de la red está en el Polígono Francolí, en Tarragona; aquí tienes la distancia y lo que conviene saber.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 58.6
+      "id": "poligono-francoli",
+      "kmCarretera": 39.6
     },
     "secciones": [
       {
@@ -161,10 +161,10 @@
         ]
       },
       {
-        "id": "ruta-c32",
-        "h2": "58,6 km por la C-32",
+        "id": "ruta-francoli",
+        "h2": "39,6 km hasta el Polígono Francolí",
         "parrafos": [
-          "Hasta la nave de Dasercars Barcelona se va por la TV-2126, la C-32 y la B-25: 58,6 km por carretera, 43,6 en línea recta. Bellvei no está en el área metropolitana.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 39,6 km por carretera y 31,1 en línea recta.",
           "El servicio oficial BMW más próximo según bmw.es es Quadis Munich, en l'avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 23,1 km."
         ]
       },
@@ -183,7 +183,7 @@
       },
       {
         "q": "¿Cuánto hay hasta vuestro taller?",
-        "a": "58,6 km por la C-32 y la B-25, hasta Sant Joan Despí."
+        "a": "La delegación del Polígono Francolí, en Tarragona, a 39,6 km por carretera."
       },
       {
         "q": "¿Dónde está el servicio oficial BMW más cercano?",
@@ -223,7 +223,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 58,6 km",
+        "valor": "Polígono Francolí · 39,6 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -250,8 +250,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

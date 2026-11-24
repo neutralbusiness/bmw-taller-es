@@ -154,7 +154,7 @@ async function main() {
 <p class="hero__sub">Hay una página informativa para ${total} municipios: qué taller de referencia atiende la zona y lo que conviene saber del uso del coche allí. Los talleres están en Alcobendas (Madrid), Sant Joan Despí (Barcelona) y Cuarte de Huerva (Zaragoza).</p>
 </div></div></section>
 <section class="sec"><div class="wrap">
-<p class="zn__intro">La red tiene un taller de referencia en cada zona: Dasercars en Madrid y Barcelona y ASF Motors en Zaragoza; desde ahí se atiende al resto de España. Cada municipio tiene una página informativa; el coche lo atiende el taller de referencia de tu zona.</p>
+<p class="zn__intro">La red tiene siete delegaciones: Alcobendas (Madrid), Sant Joan Despí y Nou Barris (Barcelona), Polígono Francolí (Tarragona), Cuarte de Huerva y Zaragoza Norte (Zaragoza) y Barakaldo (Bizkaia); el resto de España se atiende por el formulario. Cada municipio tiene una página informativa; el coche lo atiende el taller de referencia de tu zona.</p>
 <div class="zn__grid">${bloqueProvincias(grupos)}</div>
 </div></section>
 </main>`;

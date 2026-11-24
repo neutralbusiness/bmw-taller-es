@@ -7,7 +7,7 @@
   "lat": 41.24188,
   "lng": 1.49536,
   "metaTitle": "Taller BMW en Albinyanà | Baix Penedès",
-  "metaDescription": "BMW en Albinyana: ITV del Baix Penedès a 7,8 km, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 65,1 km por la C-32.",
+  "metaDescription": "BMW en Albinyana: ITV del Baix Penedès a 7,8 km, servicio oficial en Vilanova i la Geltrú y taller especialista de la red a 43,3 km, en el Polígono Francolí de Tarragona.",
   "heroSubtitle": "Atención especializada BMW para Albinyanà y el Baix Penedès, cerca de la C-51.",
   "trustChips": [
     {
@@ -132,11 +132,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Albinyana, en el Baix Penedès: ITV a 7,8 km y especialista BMW a 65 km",
-    "entradilla": "Con la AP-7 a menos de tres kilómetros y la ITV de la comarca en Bellvei, desde Albinyana casi todo está a mano salvo el taller especialista de la red, que queda en Sant Joan Despí. Esto es lo que te conviene saber.",
+    "h1": "Albinyana, en el Baix Penedès: ITV a 7,8 km y delegación de Tarragona a 43 km",
+    "entradilla": "Con la AP-7 a menos de tres kilómetros y la ITV de la comarca en Bellvei, desde Albinyana casi todo está a mano, también la delegación de la red en el Polígono Francolí de Tarragona. Esto es lo que te conviene saber.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 65.1
+      "id": "poligono-francoli",
+      "kmCarretera": 43.3
     },
     "secciones": [
       {
@@ -148,10 +148,10 @@
         ]
       },
       {
-        "id": "c51-c32",
-        "h2": "Por la C-51 y la C-32 hasta el Baix Llobregat",
+        "id": "ruta-francoli",
+        "h2": "Hasta el Polígono Francolí, en Tarragona",
         "parrafos": [
-          "Hasta la nave de Dasercars Barcelona hay 65,1 km por carretera y 49,4 en línea recta. El recorrido sale por la C-51, enlaza con la C-31 y la C-32 y termina por la B-25 en Sant Joan Despí.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 43,3 km por carretera y 25,7 en línea recta.",
           "Para que el viaje compense, que sea por algo que de verdad pide un especialista en la marca: electrónica, diagnosis de un fallo intermitente, cadena de distribución o el sistema de AdBlue."
         ]
       },
@@ -177,7 +177,7 @@
       },
       {
         "q": "¿A qué distancia está el taller?",
-        "a": "A 65,1 km por carretera, en Sant Joan Despí."
+        "a": "La delegación del Polígono Francolí, en Tarragona, a 43,3 km por carretera."
       }
     ],
     "datos": [
@@ -213,7 +213,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 65,1 km",
+        "valor": "Polígono Francolí · 43,3 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -240,8 +240,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

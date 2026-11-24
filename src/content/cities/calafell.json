@@ -142,11 +142,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Calafell: un BMW a 1,2 km del mar y a 55 km del taller especialista",
-    "entradilla": "A poco más de un kilómetro de la playa, el coche convive con el salitre todo el año. La ITV queda en Bellvei, el servicio oficial en Vilanova i la Geltrú y nuestro taller de referencia, en Sant Joan Despí: así se reparte lo que necesita un BMW de Calafell.",
+    "h1": "Calafell: un BMW a 1,2 km del mar y a 39 km del taller especialista",
+    "entradilla": "A poco más de un kilómetro de la playa, el coche convive con el salitre todo el año. La ITV queda en Bellvei, el servicio oficial en Vilanova i la Geltrú y nuestra delegación, en el Polígono Francolí de Tarragona: así se reparte lo que necesita un BMW de Calafell.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 55.2
+      "id": "poligono-francoli",
+      "kmCarretera": 38.8
     },
     "secciones": [
       {
@@ -166,10 +166,10 @@
         ]
       },
       {
-        "id": "c32-b25",
-        "h2": "La C-32 a menos de un kilómetro",
+        "id": "ruta-francoli",
+        "h2": "Hasta el Polígono Francolí, en Tarragona",
         "parrafos": [
-          "La autopista C-32 pasa a 0,8 km del centro y es la misma que lleva a nuestro taller de referencia: C-32 y B-25 hasta el carrer del Tambor del Bruc, 55,2 km por carretera.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 38,8 km por carretera y 29,4 en línea recta.",
           "Con esa distancia, el viaje se justifica para una avería que pide especialista: un diésel N47 con ruido de cadena, un fallo de AdBlue o una electrónica que nadie ha sabido leer. Una revisión de rutina la resuelve cualquier taller del Penedès."
         ]
       },
@@ -224,7 +224,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 55,2 km",
+        "valor": "Polígono Francolí · 38,8 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -251,8 +251,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

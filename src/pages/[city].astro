@@ -4,7 +4,7 @@ import { heroMovil } from "../lib/heroMovil.ts";
 import { NETWORK, servicesFor, contactFor } from "../lib/network.ts";
 import NbForm from "../components/NbForm.astro";
 import { tituloVeraz, descripcionVeraz, chipsVeraces, ciudadVeraz } from "../lib/veraz.ts";
-import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF } from "../lib/socios.ts";
+import { SOCIOS, HORARIO_SCHEMA_DASERCARS, HORARIO_SCHEMA_ASF, HORARIO_SCHEMA_FRANCOLI } from "../lib/socios.ts";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 /* ──────────────────────────────────────────────────────────
@@ -305,7 +305,7 @@ const organization = {
   url: `https://www.${NETWORK.domain}/`,
   logo: `https://${NETWORK.domain}/favicon.svg`,
   slogan: NETWORK.tagline,
-  description: `Red independiente de talleres especialistas en BMW y MINI, con un taller de referencia en cada zona: Dasercars en Madrid (Alcobendas) y Barcelona (Sant Joan Despí) y ASF Motors en Zaragoza (Cuarte de Huerva). No es concesionario ni servicio oficial de BMW.`,
+  description: `Red independiente de talleres especialistas en BMW y MINI, con siete delegaciones: Alcobendas (Madrid), Sant Joan Despí y Nou Barris (Barcelona), Polígono Francolí (Tarragona), Cuarte de Huerva y Zaragoza Norte (Zaragoza) y Barakaldo (Bizkaia). No es concesionario ni servicio oficial de BMW.`,
   areaServed: { "@type": "Country", name: "España" },
 };
 
@@ -377,7 +377,7 @@ const tallerV3 = L && socio?.direccion
         addressCountry: "ES",
       },
       geo: { "@type": "GeoCoordinates", latitude: socio.lat, longitude: socio.lng },
-      openingHoursSpecification: socio.id === "socio-zaragoza" ? HORARIO_SCHEMA_ASF : HORARIO_SCHEMA_DASERCARS,
+      openingHoursSpecification: socio.id === "socio-zaragoza" ? HORARIO_SCHEMA_ASF : socio.id === "poligono-francoli" ? HORARIO_SCHEMA_FRANCOLI : HORARIO_SCHEMA_DASERCARS,
       areaServed: { "@type": "City", name: city.name },
       parentOrganization: { "@id": networkOrgId },
     }

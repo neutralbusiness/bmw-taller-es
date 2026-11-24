@@ -134,11 +134,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Reus y tu BMW: diagnosis, servicio oficial en Tarragona y un especialista a 99 km",
-    "entradilla": "Nuestro taller de referencia más próximo a Reus está a 99,2 km, en Sant Joan Despí. Es mucha distancia, y conviene decirlo antes que nada. Lo que sí podemos darte es una idea clara de qué tienes en el Baix Camp y cuándo merece la pena el viaje.",
+    "h1": "Reus y tu BMW: diagnosis, servicio oficial en Tarragona y un especialista a 13 km",
+    "entradilla": "La delegación de la red más próxima a Reus está a 13,2 km por carretera, en el Polígono Francolí de Tarragona. Aquí tienes una idea clara de qué tienes en el Baix Camp y cuándo conviene llevar el coche al especialista.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 99.2
+      "id": "poligono-francoli",
+      "kmCarretera": 13.2
     },
     "secciones": [
       {
@@ -154,14 +154,14 @@
         "h2": "Diagnosis electrónica: qué es y cómo se presupuesta",
         "parrafos": [
           "Leer los códigos de avería es la parte fácil. Diagnosticar es interpretar esos códigos con los valores reales que dan los sensores mientras el motor trabaja, descartar causas y localizar la pieza o el cable que falla. En un BMW, con decenas de centralitas conectadas entre sí, un fallo en una puede encender avisos en otras.",
-          "Por eso en Dasercars la diagnosis se presupuesta como un trabajo más, antes de empezar, y el resultado se explica: qué falla, por qué y qué cuesta repararlo. Ninguna reparación arranca sin que la hayas aceptado."
+          "Por eso en la delegación del Polígono Francolí la diagnosis se presupuesta como un trabajo más, antes de empezar, y el resultado se explica: qué falla, por qué y qué cuesta repararlo. Ninguna reparación arranca sin que la hayas aceptado."
         ]
       },
       {
-        "id": "cuando-viajar",
-        "h2": "Cuándo sí compensa subir por la AP-7",
+        "id": "ruta-francoli",
+        "h2": "Cuándo compensa ir al Polígono Francolí",
         "parrafos": [
-          "Desde el centro de Reus, la ruta sale por la N-420a, toma la AP-7 y la C-32 y entra por la B-25 hasta el carrer del Tambor del Bruc: 99,2 km por carretera, 83,3 en línea recta.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 13,2 km por carretera y 11,1 en línea recta.",
           "Compensa para lo que no se ha resuelto cerca: un aviso que reaparece tras varias visitas, un fallo de inyección o de turbo en un diésel N47 o N57, un problema de la caja automática. Antes, un mensaje con modelo, año, kilómetros y el síntoma permite saber si el viaje tiene sentido."
         ]
       },
@@ -177,7 +177,7 @@
     "faq": [
       {
         "q": "¿Tenéis taller en Reus?",
-        "a": "No. El taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 99,2 km por carretera."
+        "a": "No en Reus: la delegación de la red más cercana es la del Polígono Francolí, en Tarragona, a 13,2 km por carretera."
       },
       {
         "q": "¿Dónde está la ITV de Reus?",
@@ -225,7 +225,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 99,2 km",
+        "valor": "Polígono Francolí · 13,2 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -252,8 +252,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

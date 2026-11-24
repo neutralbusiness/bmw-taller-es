@@ -154,18 +154,18 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "L'Arboç: tu BMW junto a la AP-7, a 60 km del taller de la red",
-    "entradilla": "Es provincia de Tarragona, pero el taller de la red que atiende l'Arboç está en la de Barcelona, en Sant Joan Despí. Con la N-340 a menos de un kilómetro y la AP-7 a 2,5, la ruta es directa; lo que tienes cerca está en Bellvei y en Vilanova i la Geltrú.",
+    "h1": "L'Arboç: tu BMW junto a la AP-7, a 45 km del taller de la red",
+    "entradilla": "El taller de la red que atiende l'Arboç es la delegación del Polígono Francolí, en Tarragona. Con la N-340 a menos de un kilómetro y la AP-7 a 2,5, la ruta es directa; lo que tienes más cerca está en Bellvei y en Vilanova i la Geltrú.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 60.2
+      "id": "poligono-francoli",
+      "kmCarretera": 45.4
     },
     "secciones": [
       {
         "id": "ap7-a-la-puerta",
         "h2": "Tres carreteras a menos de un kilómetro",
         "parrafos": [
-          "La N-340, la TP-2124 y la TP-2115 pasan a menos de un kilómetro del centro, y la AP-7 a 2,5 km. Hasta la nave de Dasercars Barcelona, la ruta es N-340, AP-7 y B-23: 60,2 km por carretera, 40,5 en línea recta.",
+          "La N-340, la TP-2124 y la TP-2115 pasan a menos de un kilómetro del centro, y la AP-7 a 2,5 km. Hasta la delegación del Polígono Francolí, en Tarragona, hay 45,4 km por carretera.",
           "Un diésel que hace a menudo tramos de autopista a velocidad constante regenera el filtro de partículas sin que te enteres. El problema llega cuando el uso cambia a trayectos cortos por el pueblo: si el testigo del filtro se enciende, no lo dejes para el día que toque bajar."
         ]
       },
@@ -173,7 +173,7 @@
         "id": "itv-bellvei",
         "h2": "La ITV, a 8,8 km en Bellvei",
         "parrafos": [
-          "La estación ITV del Baix Penedès (T07), que gestiona Itevelesa en el polígono Els Massets de Bellvei, es la más próxima por carretera según el registro de la Generalitat: 8,8 km. Es otra razón para resolver la inspección en la comarca y reservar el viaje a Sant Joan Despí para lo que lo merece."
+          "La N-340, la TP-2124 y la TP-2115 pasan a menos de un kilómetro del centro, y la AP-7 a 2,5 km. Hasta la delegación del Polígono Francolí, en Tarragona, hay 45,4 km por carretera."
         ]
       },
       {
@@ -193,8 +193,8 @@
     ],
     "faq": [
       {
-        "q": "¿Por qué os atiende un taller de Barcelona si l'Arboç es de Tarragona?",
-        "a": "Porque el taller de la red más cercano es Dasercars Barcelona, en Sant Joan Despí, a 60,2 km."
+        "q": "¿Qué taller de la red me atiende?",
+        "a": "La delegación del Polígono Francolí, en Tarragona, a 45,4 km por carretera."
       },
       {
         "q": "¿Dónde paso la ITV?",
@@ -234,7 +234,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 60,2 km",
+        "valor": "Polígono Francolí · 45,4 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -261,8 +261,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

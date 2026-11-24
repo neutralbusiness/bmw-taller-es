@@ -7,7 +7,7 @@
  * /llms.txt con el detalle local (src/pages/[city]/llms.txt.ts).
  */
 import type { APIRoute } from "astro";
-import { NETWORK, SERVICES, FAQ_BASE, contactFor } from "../lib/network.ts";
+import { NETWORK, SERVICES, FAQ_BASE, contactFor, DELEGACIONES } from "../lib/network.ts";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
@@ -28,11 +28,11 @@ export const GET: APIRoute = () => {
 
   lines.push(`# ${NETWORK.brand} — red de talleres especialistas BMW y MINI con un taller de referencia en cada zona`);
   lines.push("");
-  lines.push(`> ${NETWORK.brand} (${NETWORK.domain}) es una marca propia: una red independiente que muestra, en cada zona de España, un taller de referencia especializado en BMW y MINI. Hoy son tres: Dasercars en Madrid (Alcobendas) y en Barcelona (Sant Joan Despí), y ASF Motors en Zaragoza (Cuarte de Huerva). ${NETWORK.brand} no es un taller, ni Dasercars ni ASF Motors son dueños de la marca; cada taller presupuesta, repara y factura con su propio nombre.`);
+  lines.push(`> ${NETWORK.brand} (${NETWORK.domain}) es una marca propia: una red independiente de talleres especializados en BMW y MINI con siete delegaciones: Alcobendas (Madrid), Sant Joan Despí y Nou Barris (Barcelona), Polígono Francolí (Tarragona), Cuarte de Huerva y Zaragoza Norte (Zaragoza) y Barakaldo (Bizkaia). Cada delegación es un taller independiente que presupuesta, repara y factura con su nombre. No es concesionario ni servicio oficial de BMW.`);
   lines.push("");
   lines.push(
     `Los talleres de referencia hacen mecánica, diagnosis electrónica con equipo de nivel de marca (no un lector OBD genérico) y mantenimiento según el plan CBS, con presupuesto por escrito antes de empezar. ` +
-    `Dasercars (Madrid y Barcelona) es además taller homologado REDISTA para escape y tratamiento de gases, tiene cabina de pintura y se especializa en los diésel N47, N57, M47, M57, B47 y B57. ` +
+    `Las delegaciones de Alcobendas y Sant Joan Despí son además talleres homologados REDISTA para escape y tratamiento de gases, tienen cabina de pintura y se especializan en los diésel N47, N57, M47, M57, B47 y B57. ` +
     `Además de esta web, ${cities.length} municipios de ${provinces.size} provincias tienen una página informativa en {ciudad}.${NETWORK.domain} con su propio llms.txt; ` +
     `no hay un taller en cada municipio: cada página indica el taller de referencia de la zona.`,
   );
@@ -43,8 +43,8 @@ export const GET: APIRoute = () => {
   lines.push(`- Nombre comercial: ${CONTACT.businessName}`);
   lines.push(`- Web principal: ${base}/`);
   lines.push(`- Directorio de zonas: ${base}/zonas/`);
-  lines.push(`- Contacto y cita previa (formulario para Madrid, Barcelona y Zaragoza): ${base}/contacto/`);
-  lines.push(`- Delegaciones (los tres talleres de referencia, con dirección y horario): ${base}/talleres/ · Madrid: ${base}/taller-bmw-madrid/ · Barcelona: ${base}/taller-bmw-barcelona/ · Zaragoza: ${base}/taller-bmw-zaragoza/`);
+  lines.push(`- Contacto y cita previa (teléfono, WhatsApp y formulario de cada delegación): ${base}/contacto/`);
+  lines.push(`- Delegaciones (las siete, con dirección, teléfono y horario): ${base}/talleres/`);
   lines.push(`- Sector: talleres de reparación y mantenimiento especializados en BMW`);
   lines.push(`- País: España`);
   lines.push("");
@@ -55,16 +55,14 @@ export const GET: APIRoute = () => {
   if (CONTACT.phone) lines.push(`- Teléfono: ${CONTACT.phoneDisplay} (${CONTACT.phone})`);
   if (CONTACT.whatsapp) lines.push(`- WhatsApp: +${CONTACT.whatsapp}`);
   if (CONTACT.email) lines.push(`- Email: ${CONTACT.email}`);
-  lines.push(`- Horario (Dasercars, Madrid y Barcelona): De lunes a viernes de 09:00h a 14:00h y de 15:00h a 18:00h (sábado cerrado)`);
-  lines.push(`- Horario (ASF Motors, Zaragoza): de lunes a viernes de 9:00 a 13:30 y de 15:00 a 19:00; sábados de 9:00 a 13:00 (domingo cerrado)`);
+  for (const d of DELEGACIONES) lines.push(`- ${d.nombre} (${d.ciudad}): teléfono ${d.phoneDisplay}${d.whatsapp !== d.phone.replace('+', '') ? ` · WhatsApp ${d.whatsappDisplay}` : ' (también WhatsApp)'} · ${d.email} · ${d.horario}`);
   lines.push("");
 
   lines.push("## Cobertura");
   lines.push("");
-  lines.push(`- Talleres de referencia: 3.`);
-  lines.push(`- Madrid: Dasercars, Calle Valgrande, 17, 28108 Alcobendas.`);
-  lines.push(`- Barcelona: Dasercars, Carrer del Tambor del Bruc, 3, 08970 Sant Joan Despí.`);
-  lines.push(`- Zaragoza: ASF Motors (ASF Motors SC), Carretera de Valencia, km 6,2, Nave 8, 50410 Cuarte de Huerva. Experto en BMW y MINI. https://www.asfmotors.es/ · ficha de Google: https://share.google/8Qiu18YQ7EHd80Yxo. Atiende Zaragoza y el resto de Aragón.`);
+  lines.push(`- Delegaciones: ${DELEGACIONES.length}.`);
+  for (const d of DELEGACIONES) lines.push(`- ${d.nombre} (${d.ciudad}): ${d.direccion}, ${d.cp} ${d.municipio}. Página: ${base}${d.pagina}`);
+  lines.push(`- Reparto de las páginas locales: Comunidad de Madrid → Alcobendas; provincia de Barcelona → Sant Joan Despí o Nou Barris; Tarragona → Polígono Francolí; Aragón → Cuarte de Huerva o Zaragoza Norte; País Vasco → Barakaldo; el resto de España, por el formulario.`);
   lines.push(`- Páginas locales: ${cities.length} municipios en ${provinces.size} provincias (no son talleres; indican cómo llegar al taller y llevan su propio formulario de contacto).`);
   lines.push(`- Comunidades autónomas: ${[...ccaas].sort((a, b) => a.localeCompare(b, "es")).join(", ")}.`);
   lines.push(`- Listado de municipios con enlace a cada página local: ${base}/zonas/`);
@@ -118,13 +116,13 @@ export const GET: APIRoute = () => {
   lines.push("");
   lines.push("- Presupuesto por escrito antes de iniciar cualquier reparación. No es un precio cerrado: si al desmontar aparece otra avería, el taller para, la enseña y la presupuesta aparte.");
   lines.push("- La diagnosis, cuando hace falta, se cobra aparte y no va incluida en el presupuesto de la reparación; se informa de su importe antes de hacerla.");
-  lines.push("- Garantía: en Madrid y Barcelona, Dasercars da dos años en piezas y mano de obra; en Zaragoza, la que indique ASF Motors en la factura (la mínima legal de una reparación es de tres meses o 2.000 km, Real Decreto 1457/1986).");
+  lines.push("- Garantía: en Alcobendas y Sant Joan Despí, dos años en piezas y mano de obra; en las demás delegaciones, la que indique cada taller en la factura (la mínima legal de una reparación es de tres meses o 2.000 km, Real Decreto 1457/1986).");
   lines.push("- Recambios OE (calidad original) o equivalente premium; recambio BMW original bajo petición.");
   lines.push("- Diagnosis con software y equipo de nivel de marca, no un lector OBD genérico.");
   lines.push("- Aceite homologado BMW LL-01/LL-04 y respeto de los intervalos CBS: la garantía del fabricante se mantiene.");
-  lines.push("- Vehículo de sustitución en Madrid y Barcelona según las condiciones de Dasercars (de pago, por días); en Zaragoza, consultar con ASF Motors.");
+  lines.push("- Vehículo de sustitución en Alcobendas y Sant Joan Despí según sus condiciones (de pago, por días); en las demás delegaciones, consultar con el taller.");
   lines.push("- Sin grúa ni recogida a domicilio: si el coche no circula, se lleva con la grúa del seguro, avisando antes al taller.");
-  lines.push("- Los vehículos 100 % eléctricos no se atienden en Madrid ni en Barcelona.");
+  lines.push("- Los vehículos 100 % eléctricos no se atienden en Alcobendas ni en Sant Joan Despí.");
   lines.push("");
 
   lines.push("---");

@@ -158,11 +158,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "El Vendrell: BMW junto al mar, ITV a 3 km y taller especialista a 61 km",
-    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestro taller de referencia queda a 61,4 km, en Sant Joan Despí. Lo que conviene saber si tienes un BMW o un MINI aquí.",
+    "h1": "El Vendrell: BMW junto al mar, ITV a 3 km y taller especialista a 35,5 km",
+    "entradilla": "El Vendrell está a unos tres kilómetros de la costa y tiene la ITV del Baix Penedès casi al lado. Nuestra delegación queda a 35,5 km por carretera, en el Polígono Francolí de Tarragona. Lo que conviene saber si tienes un BMW o un MINI aquí.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 61.4
+      "id": "poligono-francoli",
+      "kmCarretera": 35.5
     },
     "secciones": [
       {
@@ -175,16 +175,16 @@
       },
       {
         "id": "itv-bellvei",
-        "h2": "La ITV del Baix Penedès, a 3 km en Bellvei",
+        "h2": "Hasta el Polígono Francolí, en Tarragona",
         "parrafos": [
-          "La estación de ITV del Baix Penedès (T07) está en el polígono industrial Els Massets de Bellvei, a 3 km del centro de El Vendrell por carretera, según el registro de la Generalitat. Está tan cerca que lo razonable es hacer la pre-ITV en un taller del Penedès y no bajar a Sant Joan Despí solo para eso."
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 35,5 km por carretera y 27,3 en línea recta."
         ]
       },
       {
-        "id": "c32-hasta-el-taller",
-        "h2": "Por la C-32 hasta Sant Joan Despí",
+        "id": "ruta-francoli",
+        "h2": "Hasta el Polígono Francolí, en Tarragona",
         "parrafos": [
-          "La ruta hasta la nave de Dasercars Barcelona va por la C-32 y la B-25: 61,4 km por carretera. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 35,5 km por carretera y 27,3 en línea recta. El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 25,9 km; allí se hacen las campañas del fabricante y las reparaciones en garantía.",
           "Lo práctico es un mensaje previo con el modelo y el síntoma, para bajar con hora y, si hace falta, con la pieza ya pedida."
         ]
       },
@@ -207,7 +207,7 @@
       },
       {
         "q": "¿A qué distancia está vuestro taller?",
-        "a": "A 61,4 km por la C-32 y la B-25, en Sant Joan Despí."
+        "a": "La delegación del Polígono Francolí, en Tarragona, a 35,5 km por carretera."
       }
     ],
     "datos": [
@@ -243,7 +243,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 61,4 km",
+        "valor": "Polígono Francolí · 35,5 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -270,8 +270,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }

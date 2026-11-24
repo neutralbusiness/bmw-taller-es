@@ -154,11 +154,11 @@
   "local": {
     "version": 3,
     "revisado": "2026-10-04",
-    "h1": "Santa Oliva: seis carreteras alrededor y el taller BMW a 62,6 km",
-    "entradilla": "La AP-7, la AP-2 y la N-340 pasan a menos de tres kilómetros del centro de Santa Oliva. Es provincia de Tarragona, pero el taller especialista que te atiende está en Sant Joan Despí.",
+    "h1": "Santa Oliva: seis carreteras alrededor y el taller BMW a 41,3 km",
+    "entradilla": "La AP-7, la AP-2 y la N-340 pasan a menos de tres kilómetros del centro de Santa Oliva. El taller especialista que te atiende es la delegación del Polígono Francolí, en Tarragona.",
     "socio": {
-      "id": "dasercars-sant-joan-despi",
-      "kmCarretera": 62.6
+      "id": "poligono-francoli",
+      "kmCarretera": 41.3
     },
     "secciones": [
       {
@@ -177,9 +177,9 @@
       },
       {
         "id": "ruta-y-oficial",
-        "h2": "Hasta Sant Joan Despí por la C-32, o a Vilanova por lo oficial",
+        "h2": "Al especialista, a Tarragona; a lo oficial, a Vilanova",
         "parrafos": [
-          "La ruta al taller sale por la TP-2125, toma la C-31 y la C-32 y termina por la B-25: 62,6 km por carretera y 44,6 en línea recta. Santa Oliva no está en el área metropolitana de Barcelona, así que el coche lo traes tú.",
+          "Hasta la delegación del Polígono Francolí (Parcela 9, Nau 9, Tarragona) hay 41,3 km por carretera y 29,2 en línea recta.",
           "El servicio oficial BMW más cercano según bmw.es es Quadis Munich, en la avinguda d'Eduard Toldrà 69 de Vilanova i la Geltrú, a 27,2 km. Para una reparación cubierta por la garantía de BMW, es la referencia."
         ]
       },
@@ -198,8 +198,8 @@
         "a": "En el polígono Els Massets de Bellvei: estación Baix Penedès (T07), a 5,3 km por carretera."
       },
       {
-        "q": "¿Por qué me atiende un taller de Barcelona si estoy en Tarragona?",
-        "a": "Porque el taller de la red más próximo es Dasercars Barcelona, en Sant Joan Despí, a 62,6 km."
+        "q": "¿Qué taller de la red me atiende?",
+        "a": "La delegación del Polígono Francolí, en Tarragona, a 41,3 km por carretera."
       }
     ],
     "datos": [
@@ -235,7 +235,7 @@
       },
       {
         "etiqueta": "Taller de la red",
-        "valor": "Sant Joan Despí · 62,6 km",
+        "valor": "Polígono Francolí · 41,3 km",
         "fuente": "OpenStreetMap (OSRM)",
         "url": "https://www.openstreetmap.org/"
       }
@@ -262,8 +262,8 @@
         "url": "https://www.openstreetmap.org/"
       },
       {
-        "texto": "Dasercars Barcelona",
-        "url": "https://www.bmw-taller.es/taller-bmw-barcelona/"
+        "texto": "BMW Taller Polígono Francolí",
+        "url": "https://www.bmw-taller.es/taller-bmw-tarragona/"
       }
     ]
   }
