@@ -44,7 +44,7 @@ export const GET: APIRoute = () => {
   lines.push(`- Web principal: ${base}/`);
   lines.push(`- Directorio de zonas: ${base}/zonas/`);
   lines.push(`- Contacto y cita previa (formulario para Madrid, Barcelona y Zaragoza): ${base}/contacto/`);
-  lines.push(`- Talleres: ${base}/talleres/ · Madrid: ${base}/taller-bmw-madrid/ · Barcelona: ${base}/taller-bmw-barcelona/ · Zaragoza: ${base}/taller-bmw-zaragoza/`);
+  lines.push(`- Delegaciones (los tres talleres de referencia, con dirección y horario): ${base}/talleres/ · Madrid: ${base}/taller-bmw-madrid/ · Barcelona: ${base}/taller-bmw-barcelona/ · Zaragoza: ${base}/taller-bmw-zaragoza/`);
   lines.push(`- Sector: talleres de reparación y mantenimiento especializados en BMW`);
   lines.push(`- País: España`);
   lines.push("");
